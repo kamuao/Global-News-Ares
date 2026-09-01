@@ -2,62 +2,95 @@
   "id": "ZAF",
   "name": "South Africa",
   "sample": true,
-  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "updatedAt": "2026-09-01T04:20:14.159Z",
   "daily": [
     {
-      "id": "zaf-d1",
+      "id": "zaf-d-1",
       "title": "Defence force update on regional peacekeeping role",
       "summary": "Coverage of South African National Defence Force participation in regional missions.",
       "category": "military",
       "source": "news24",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T23:24:12.475Z",
+      "publishedAt": "2026-09-01T00:20:14.159Z",
       "sample": true
     },
     {
-      "id": "zaf-d2",
+      "id": "zaf-d-2",
       "title": "Parliament debates energy grid reform",
       "summary": "Update on legislative response to the country's electricity supply challenges.",
       "category": "politics",
       "source": "mail-guardian",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T21:24:12.475Z",
+      "publishedAt": "2026-08-31T22:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "zaf-d-3",
+      "title": "Load-shedding schedule and grid investment",
+      "summary": "Coverage of ongoing power-supply reliability measures.",
+      "category": "economy",
+      "source": "news24",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T19:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "zaf-d-4",
+      "title": "Mining sector labor negotiations",
+      "summary": "Coverage of labor negotiations affecting the mining industry.",
+      "category": "economy",
+      "source": "mail-guardian",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T16:20:14.159Z",
       "sample": true
     }
   ],
   "weekly": [
     {
-      "id": "zaf-w1",
+      "id": "zaf-w-1",
       "title": "Weekly digest: load-shedding and grid stability",
       "summary": "A roundup of the week's power-supply reliability coverage.",
       "category": "economy",
       "source": "news24",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-30T21:24:12.475Z",
+      "publishedAt": "2026-08-30T22:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "zaf-w-2",
+      "title": "Weekly digest: regional peacekeeping deployment",
+      "summary": "A roundup of coverage on regional security-mission participation.",
+      "category": "military",
+      "source": "mail-guardian",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T08:20:14.159Z",
       "sample": true
     }
   ],
   "developing": [
     {
-      "id": "zaf-dev1",
+      "id": "zaf-dev-1",
       "title": "Coalition government policy negotiations",
       "summary": "Ongoing coverage of governing coalition policy coordination.",
       "category": "politics",
       "source": "mail-guardian",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T09:24:12.475Z",
+      "publishedAt": "2026-08-31T10:20:14.159Z",
       "sample": true,
       "keyDevelopments": [
         {
-          "at": "2026-08-28T11:24:12.475Z",
+          "at": "2026-08-28T12:20:14.159Z",
           "note": "Coalition partners met to align on legislative priorities."
         },
         {
-          "at": "2026-08-31T11:24:12.475Z",
+          "at": "2026-08-31T12:20:14.159Z",
           "note": "Follow-up statement issued on areas of agreement and disagreement."
         }
       ]

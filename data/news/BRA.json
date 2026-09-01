@@ -2,62 +2,95 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": true,
-  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "updatedAt": "2026-09-01T04:20:14.159Z",
   "daily": [
     {
-      "id": "bra-d1",
+      "id": "bra-d-1",
       "title": "Armed forces update on Amazon border operations",
       "summary": "Coverage of military operations against illegal mining and cross-border crime in the Amazon.",
       "category": "military",
       "source": "folha",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T23:24:12.475Z",
+      "publishedAt": "2026-09-01T00:20:14.159Z",
       "sample": true
     },
     {
-      "id": "bra-d2",
+      "id": "bra-d-2",
       "title": "Congress debates fiscal framework",
       "summary": "Update on legislative debate over the government's fiscal policy framework.",
       "category": "politics",
       "source": "folha",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T21:24:12.475Z",
+      "publishedAt": "2026-08-31T22:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "bra-d-3",
+      "title": "Rio port security operation update",
+      "summary": "Coverage of a security operation targeting organized crime affecting port logistics.",
+      "category": "military",
+      "source": "brazil-reports",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T19:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "bra-d-4",
+      "title": "Agribusiness export outlook",
+      "summary": "Coverage of Brazil's agricultural export sector performance.",
+      "category": "economy",
+      "source": "brazil-reports",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T17:20:14.159Z",
       "sample": true
     }
   ],
   "weekly": [
     {
-      "id": "bra-w1",
+      "id": "bra-w-1",
       "title": "Weekly view: Amazon deforestation data",
       "summary": "A roundup of the week's environmental monitoring data and policy response.",
       "category": "environment",
       "source": "brazil-reports",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-30T19:24:12.475Z",
+      "publishedAt": "2026-08-30T20:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "bra-w-2",
+      "title": "Weekly digest: central bank interest rate outlook",
+      "summary": "A roundup of the week's monetary-policy coverage.",
+      "category": "economy",
+      "source": "folha",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T06:20:14.159Z",
       "sample": true
     }
   ],
   "developing": [
     {
-      "id": "bra-dev1",
+      "id": "bra-dev-1",
       "title": "Amazon environmental enforcement operation",
       "summary": "Ongoing multi-agency operation targeting illegal deforestation and mining.",
       "category": "environment",
       "source": "folha",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T07:24:12.475Z",
+      "publishedAt": "2026-08-31T08:20:14.159Z",
       "sample": true,
       "keyDevelopments": [
         {
-          "at": "2026-08-28T03:24:12.475Z",
+          "at": "2026-08-28T04:20:14.159Z",
           "note": "Operation launched with federal police and environmental agency support."
         },
         {
-          "at": "2026-08-31T09:24:12.475Z",
+          "at": "2026-08-31T10:20:14.159Z",
           "note": "Enforcement agencies reported interim results."
         }
       ]

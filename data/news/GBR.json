@@ -2,85 +2,150 @@
   "id": "GBR",
   "name": "United Kingdom",
   "sample": true,
-  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "updatedAt": "2026-09-01T04:20:14.159Z",
   "daily": [
     {
-      "id": "gbr-d1",
+      "id": "gbr-d-1",
       "title": "Ministry of Defence briefs on NATO exercise participation",
       "summary": "Update on UK forces taking part in coordinated allied military exercises.",
       "category": "military",
       "source": "sky-news",
       "url": null,
       "image": null,
-      "publishedAt": "2026-09-01T00:24:12.475Z",
+      "publishedAt": "2026-09-01T01:20:14.159Z",
       "sample": true
     },
     {
-      "id": "gbr-d2",
+      "id": "gbr-d-2",
       "title": "Parliament debates energy policy bill",
       "summary": "Commons debate covering the government's energy and household-bills strategy.",
       "category": "politics",
       "source": "bbc-news",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T22:24:12.475Z",
+      "publishedAt": "2026-08-31T23:20:14.159Z",
       "sample": true
     },
     {
-      "id": "gbr-d3",
+      "id": "gbr-d-3",
       "title": "Bank of England watched for rate signal",
       "summary": "Markets react to the latest commentary from the Bank of England.",
       "category": "economy",
       "source": "the-guardian",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T20:24:12.475Z",
+      "publishedAt": "2026-08-31T21:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "gbr-d-4",
+      "title": "Royal Navy carrier group departs for deployment",
+      "summary": "Coverage of a Royal Navy carrier strike group's scheduled deployment.",
+      "category": "military",
+      "source": "telegraph",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T19:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "gbr-d-5",
+      "title": "NHS trusts report on emergency-department wait times",
+      "summary": "Local health-system coverage of emergency care capacity.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T16:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "gbr-d-6",
+      "title": "UK fintech sector eyes new regulatory sandbox",
+      "summary": "Coverage of regulatory changes aimed at the financial-technology sector.",
+      "category": "technology",
+      "source": "the-economist",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T14:20:14.159Z",
       "sample": true
     }
   ],
   "weekly": [
     {
-      "id": "gbr-w1",
+      "id": "gbr-w-1",
       "title": "Weekly digest: NHS winter capacity planning",
       "summary": "A roundup of health-service preparedness stories from across the week.",
       "category": "health",
       "source": "bbc-news",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-30T19:24:12.475Z",
+      "publishedAt": "2026-08-30T20:20:14.159Z",
       "sample": true
     },
     {
-      "id": "gbr-w2",
+      "id": "gbr-w-2",
       "title": "Tech sector: UK AI safety institute activity",
       "summary": "This week's coverage of the UK's approach to AI safety research and regulation.",
       "category": "technology",
       "source": "telegraph",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-30T07:24:12.475Z",
+      "publishedAt": "2026-08-30T08:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "gbr-w-3",
+      "title": "Defence spending review: NATO burden-sharing debate",
+      "summary": "A week-in-review of UK defense-spending commitments relative to NATO targets.",
+      "category": "military",
+      "source": "reuters",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-29T20:20:14.159Z",
       "sample": true
     }
   ],
   "developing": [
     {
-      "id": "gbr-dev1",
+      "id": "gbr-dev-1",
       "title": "North Sea energy security review",
       "summary": "Ongoing government review of North Sea energy infrastructure and security.",
       "category": "economy",
       "source": "the-guardian",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T09:24:12.475Z",
+      "publishedAt": "2026-08-31T10:20:14.159Z",
       "sample": true,
       "keyDevelopments": [
         {
-          "at": "2026-08-28T19:24:12.475Z",
+          "at": "2026-08-28T20:20:14.159Z",
           "note": "Review launched amid energy security concerns."
         },
         {
-          "at": "2026-08-31T12:24:12.475Z",
+          "at": "2026-08-31T13:20:14.159Z",
           "note": "Industry stakeholders submitted comments."
+        }
+      ]
+    },
+    {
+      "id": "gbr-dev-2",
+      "title": "Royal Navy submarine program cost overruns",
+      "summary": "An ongoing story tracking cost and schedule issues in a submarine procurement program.",
+      "category": "military",
+      "source": "defense-news",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T06:20:14.159Z",
+      "sample": true,
+      "keyDevelopments": [
+        {
+          "at": "2026-08-25T22:20:14.159Z",
+          "note": "Auditors flagged early cost overruns."
+        },
+        {
+          "at": "2026-08-30T12:20:14.159Z",
+          "note": "Ministry responded with a revised timeline."
         }
       ]
     }

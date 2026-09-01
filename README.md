@@ -110,7 +110,8 @@ data/
 scripts/
   fetch-news.mjs             The daily-update job (see above)
   feeds.config.mjs           Which RSS feed feeds which country/category
-  generate-sample-data.mjs   Regenerates placeholder samples for a new country
+  generate-sample-data.mjs      Regenerates placeholder country news samples
+  generate-conflict-content.mjs Regenerates each conflict's history timeline + sample news
   smoke-test.mjs             Headless-browser check (map renders, panel opens, etc.)
 .github/workflows/update-news.yml   The scheduled job
 ```
@@ -139,10 +140,16 @@ same way.
 
 ### Adding/adjusting a conflict, dispute, or occupied territory
 
-Edit `data/conflicts.json`. Each entry needs `type` (`war` |
-`territorial-dispute` | `occupied-territory`), `lat`/`lon` for its map
-marker, and `relatedCountries` (ISO3 codes) so the panel can pull in that
-country's Military-category news when the marker is clicked.
+Edit `data/conflicts.json` directly, or (easier for the `history`/`news`
+fields) add an entry to the `CONTENT` table in
+`scripts/generate-conflict-content.mjs` and re-run it — it merges a
+`history` timeline (an array of `{period, text}` entries shown in the panel
+under HISTORY / TIMELINE) and a small `news` array into the matching
+conflict by `id`, without touching the other fields. Every conflict needs
+`type` (`war` | `territorial-dispute` | `occupied-territory`), `lat`/`lon`
+for its map marker, and `relatedCountries` (ISO3 codes) so the panel also
+pulls in each of those countries' Military-category news, deduplicated
+against the conflict's own curated `news` list.
 
 ## On the bias badges
 

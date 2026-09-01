@@ -2,111 +2,227 @@
   "id": "USA",
   "name": "United States",
   "sample": true,
-  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "updatedAt": "2026-09-01T04:20:14.159Z",
   "daily": [
     {
-      "id": "usa-d1",
+      "id": "usa-d-1",
       "title": "Pentagon briefing outlines force posture updates",
       "summary": "Daily defense department briefing covering troop rotations, readiness levels, and allied coordination.",
       "category": "military",
       "source": "military-times",
       "url": null,
       "image": null,
-      "publishedAt": "2026-09-01T00:24:12.475Z",
+      "publishedAt": "2026-09-01T01:20:14.159Z",
       "sample": true
     },
     {
-      "id": "usa-d2",
+      "id": "usa-d-2",
       "title": "Congress debates annual defense appropriations",
       "summary": "Lawmakers continue negotiations over the defense budget topline and procurement priorities.",
       "category": "politics",
       "source": "ap-news",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T22:24:12.475Z",
+      "publishedAt": "2026-08-31T23:20:14.159Z",
       "sample": true
     },
     {
-      "id": "usa-d3",
+      "id": "usa-d-3",
       "title": "Federal Reserve commentary moves markets",
       "summary": "Analysts parse the latest remarks from Fed officials for signals on interest-rate policy.",
       "category": "economy",
       "source": "wsj",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T21:24:12.475Z",
+      "publishedAt": "2026-08-31T22:20:14.159Z",
       "sample": true
     },
     {
-      "id": "usa-d4",
+      "id": "usa-d-4",
       "title": "Wildfire season strains Western state resources",
       "summary": "Fire crews across Western states report on containment efforts amid dry conditions.",
       "category": "environment",
       "source": "npr",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T19:24:12.475Z",
+      "publishedAt": "2026-08-31T20:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "usa-d-5",
+      "title": "Chipmakers navigate export-control rules",
+      "summary": "Coverage of how semiconductor firms are adapting supply chains to new trade restrictions.",
+      "category": "technology",
+      "source": "bloomberg",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T19:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "usa-d-6",
+      "title": "Hospital systems brace for respiratory illness season",
+      "summary": "Public-health officials issue seasonal preparedness guidance for hospital networks.",
+      "category": "health",
+      "source": "npr",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T17:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "usa-d-7",
+      "title": "Local zoning fight over data center expansion",
+      "summary": "A community debate over a proposed data center's water and power demands.",
+      "category": "society",
+      "source": "nyt",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T15:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "usa-d-8",
+      "title": "Naval shipbuilding schedule slips again",
+      "summary": "Analysis of delays in the Navy's shipbuilding program and their strategic implications.",
+      "category": "military",
+      "source": "defense-news",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T13:20:14.159Z",
       "sample": true
     }
   ],
   "weekly": [
     {
-      "id": "usa-w1",
+      "id": "usa-w-1",
       "title": "Weekly roundup: AI regulation hearings on Capitol Hill",
       "summary": "A look back at the week's congressional hearings on artificial intelligence oversight.",
       "category": "technology",
       "source": "nyt",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-30T21:24:12.475Z",
+      "publishedAt": "2026-08-30T22:20:14.159Z",
       "sample": true
     },
     {
-      "id": "usa-w2",
+      "id": "usa-w-2",
       "title": "State of the union: border and immigration policy debate",
       "summary": "This week's developments in the ongoing national immigration policy debate.",
       "category": "politics",
       "source": "fox-news",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-30T11:24:12.475Z",
+      "publishedAt": "2026-08-30T12:20:14.159Z",
       "sample": true
     },
     {
-      "id": "usa-w3",
+      "id": "usa-w-3",
       "title": "Public health officials review flu-season preparedness",
       "summary": "A weekly digest of CDC guidance and state-level public health readiness.",
       "category": "health",
       "source": "npr",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-30T01:24:12.475Z",
+      "publishedAt": "2026-08-30T02:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "usa-w-4",
+      "title": "Weekly markets wrap: rate-cut expectations shift",
+      "summary": "A roundup of the week's market moves tied to shifting Federal Reserve expectations.",
+      "category": "economy",
+      "source": "bloomberg",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-29T16:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "usa-w-5",
+      "title": "Defense industrial base: shipyard and munitions investment",
+      "summary": "A weekly look at investment in the US defense industrial base.",
+      "category": "military",
+      "source": "defense-news",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-29T06:20:14.159Z",
       "sample": true
     }
   ],
   "developing": [
     {
-      "id": "usa-dev1",
+      "id": "usa-dev-1",
       "title": "Defense modernization program under Congressional review",
       "summary": "An ongoing, multi-month review of a major defense modernization and procurement program.",
       "category": "military",
       "source": "military-times",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T15:24:12.475Z",
+      "publishedAt": "2026-08-31T16:20:14.159Z",
       "sample": true,
       "keyDevelopments": [
         {
-          "at": "2026-08-29T15:24:12.475Z",
+          "at": "2026-08-29T16:20:14.159Z",
           "note": "Program review announced by the relevant House and Senate committees."
         },
         {
-          "at": "2026-08-31T03:24:12.475Z",
+          "at": "2026-08-31T04:20:14.159Z",
           "note": "Committee hearings held; agency officials testified on cost and schedule."
         },
         {
-          "at": "2026-09-01T01:24:12.475Z",
+          "at": "2026-09-01T02:20:14.159Z",
           "note": "Interim findings expected to shape next budget cycle."
+        }
+      ]
+    },
+    {
+      "id": "usa-dev-2",
+      "title": "Federal budget negotiations and shutdown risk",
+      "summary": "Ongoing negotiations over federal appropriations with a recurring risk of a funding lapse.",
+      "category": "politics",
+      "source": "ap-news",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T10:20:14.159Z",
+      "sample": true,
+      "keyDevelopments": [
+        {
+          "at": "2026-08-28T04:20:14.159Z",
+          "note": "Leadership opened negotiations on a stopgap measure."
+        },
+        {
+          "at": "2026-08-30T22:20:14.159Z",
+          "note": "A short-term extension was floated to avoid a lapse."
+        },
+        {
+          "at": "2026-09-01T00:20:14.159Z",
+          "note": "Talks continue; both chambers remain in session."
+        }
+      ]
+    },
+    {
+      "id": "usa-dev-3",
+      "title": "Major tech antitrust case moves through appeals",
+      "summary": "A closely watched antitrust case against a large technology company continues through the courts.",
+      "category": "technology",
+      "source": "wsj",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T02:20:14.159Z",
+      "sample": true,
+      "keyDevelopments": [
+        {
+          "at": "2026-08-23T20:20:14.159Z",
+          "note": "Initial ruling issued at the district court level."
+        },
+        {
+          "at": "2026-08-29T06:20:14.159Z",
+          "note": "Appeal filed by the losing party."
+        },
+        {
+          "at": "2026-08-31T18:20:14.159Z",
+          "note": "Appellate briefing schedule set."
         }
       ]
     }

@@ -2,62 +2,95 @@
   "id": "USA-CA-SAC",
   "name": "Sacramento, CA",
   "sample": true,
-  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "updatedAt": "2026-09-01T04:20:14.159Z",
   "daily": [
     {
-      "id": "sac-d1",
+      "id": "sac-d-1",
       "title": "Sacramento City Council reviews housing development plan",
       "summary": "Local council session on proposed housing and zoning changes for the capital region.",
       "category": "society",
       "source": "sacramento-bee",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T23:24:12.475Z",
+      "publishedAt": "2026-09-01T00:20:14.159Z",
       "sample": true
     },
     {
-      "id": "sac-d2",
+      "id": "sac-d-2",
       "title": "California legislature session updates from the Capitol",
       "summary": "Coverage of state legislative activity happening in downtown Sacramento.",
       "category": "politics",
       "source": "sacramento-bee",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T20:24:12.475Z",
+      "publishedAt": "2026-08-31T21:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "sac-d-3",
+      "title": "Sacramento-area schools address staffing shortages",
+      "summary": "Local coverage of teacher and staff hiring challenges in the region's school districts.",
+      "category": "society",
+      "source": "sacramento-bee",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T18:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "sac-d-4",
+      "title": "Central Valley agriculture watches water allocations",
+      "summary": "Local economic coverage of how state water policy affects Central Valley farms.",
+      "category": "economy",
+      "source": "sacramento-bee",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T14:20:14.159Z",
       "sample": true
     }
   ],
   "weekly": [
     {
-      "id": "sac-w1",
+      "id": "sac-w-1",
       "title": "Weekly look: Sacramento River water levels and delta policy",
       "summary": "A regional look at water management issues affecting the Sacramento Valley.",
       "category": "environment",
       "source": "sacramento-bee",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-30T15:24:12.475Z",
+      "publishedAt": "2026-08-30T16:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "sac-w-2",
+      "title": "Sacramento housing market weekly snapshot",
+      "summary": "A roundup of local home-price and rental trend coverage.",
+      "category": "economy",
+      "source": "sacramento-bee",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T04:20:14.159Z",
       "sample": true
     }
   ],
   "developing": [
     {
-      "id": "sac-dev1",
+      "id": "sac-dev-1",
       "title": "Regional transit expansion project progress",
       "summary": "An ongoing local infrastructure project tracked over multiple weeks.",
       "category": "society",
       "source": "sacramento-bee",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T07:24:12.475Z",
+      "publishedAt": "2026-08-31T08:20:14.159Z",
       "sample": true,
       "keyDevelopments": [
         {
-          "at": "2026-08-29T03:24:12.475Z",
+          "at": "2026-08-29T04:20:14.159Z",
           "note": "Project funding milestone reported."
         },
         {
-          "at": "2026-08-31T17:24:12.475Z",
+          "at": "2026-08-31T18:20:14.159Z",
           "note": "Construction phase update issued by regional transit authority."
         }
       ]

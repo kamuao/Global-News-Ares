@@ -2,62 +2,95 @@
   "id": "JPN",
   "name": "Japan",
   "sample": true,
-  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "updatedAt": "2026-09-01T04:20:14.159Z",
   "daily": [
     {
-      "id": "jpn-d1",
+      "id": "jpn-d-1",
       "title": "Ministry of Defense briefing on regional posture",
       "summary": "Update on Japan's Self-Defense Forces regional deployments and readiness.",
       "category": "military",
       "source": "japan-times",
       "url": null,
       "image": null,
-      "publishedAt": "2026-09-01T00:24:12.475Z",
+      "publishedAt": "2026-09-01T01:20:14.159Z",
       "sample": true
     },
     {
-      "id": "jpn-d2",
+      "id": "jpn-d-2",
       "title": "Diet session on fiscal policy",
       "summary": "Coverage of budget deliberations in Japan's National Diet.",
       "category": "politics",
       "source": "nhk",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T21:24:12.475Z",
+      "publishedAt": "2026-08-31T22:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "jpn-d-3",
+      "title": "Defense budget to fund counterstrike capability",
+      "summary": "Coverage of Japan's defense-spending plans for new strike capabilities.",
+      "category": "military",
+      "source": "asahi-shimbun",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T19:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "jpn-d-4",
+      "title": "Bank of Japan policy watched for yen impact",
+      "summary": "Markets coverage of Bank of Japan monetary-policy decisions.",
+      "category": "economy",
+      "source": "nhk",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T17:20:14.159Z",
       "sample": true
     }
   ],
   "weekly": [
     {
-      "id": "jpn-w1",
+      "id": "jpn-w-1",
       "title": "Weekly view: semiconductor industry policy",
       "summary": "A roundup of the week's technology-industry policy coverage.",
       "category": "technology",
       "source": "asahi-shimbun",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-30T17:24:12.475Z",
+      "publishedAt": "2026-08-30T18:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "jpn-w-2",
+      "title": "Weekly digest: regional defense cooperation",
+      "summary": "A roundup of coverage on trilateral defense coordination in the region.",
+      "category": "military",
+      "source": "japan-times",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T04:20:14.159Z",
       "sample": true
     }
   ],
   "developing": [
     {
-      "id": "jpn-dev1",
+      "id": "jpn-dev-1",
       "title": "Regional maritime security cooperation",
       "summary": "Ongoing coverage of trilateral and multilateral maritime security coordination.",
       "category": "military",
       "source": "japan-times",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T13:24:12.475Z",
+      "publishedAt": "2026-08-31T14:20:14.159Z",
       "sample": true,
       "keyDevelopments": [
         {
-          "at": "2026-08-28T09:24:12.475Z",
+          "at": "2026-08-28T10:20:14.159Z",
           "note": "Joint exercise announced with regional partners."
         },
         {
-          "at": "2026-08-31T16:24:12.475Z",
+          "at": "2026-08-31T17:20:14.159Z",
           "note": "Exercise proceeded; officials issued a joint statement."
         }
       ]

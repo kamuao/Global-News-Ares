@@ -2,73 +2,117 @@
   "id": "DEU",
   "name": "Germany",
   "sample": true,
-  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "updatedAt": "2026-09-01T04:20:14.159Z",
   "daily": [
     {
-      "id": "deu-d1",
+      "id": "deu-d-1",
       "title": "Bundeswehr modernization budget briefing",
       "summary": "Update on Germany's defense spending trajectory and equipment programs.",
       "category": "military",
       "source": "dw",
       "url": null,
       "image": null,
-      "publishedAt": "2026-09-01T00:24:12.475Z",
+      "publishedAt": "2026-09-01T01:20:14.159Z",
       "sample": true
     },
     {
-      "id": "deu-d2",
+      "id": "deu-d-2",
       "title": "Bundestag debates coalition economic agenda",
       "summary": "Coverage of the governing coalition's economic policy negotiations.",
       "category": "politics",
       "source": "der-spiegel",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T22:24:12.475Z",
+      "publishedAt": "2026-08-31T23:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "deu-d-3",
+      "title": "Germany's arms exports policy under scrutiny",
+      "summary": "Coverage of debate over German arms-export approvals to conflict zones.",
+      "category": "military",
+      "source": "der-spiegel",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T20:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "deu-d-4",
+      "title": "Auto industry weighs EV transition costs",
+      "summary": "Coverage of Germany's automotive sector adapting to electrification mandates.",
+      "category": "economy",
+      "source": "bild",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T18:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "deu-d-5",
+      "title": "Berlin startup hub attracts new investment",
+      "summary": "Local coverage of Germany's technology and startup ecosystem.",
+      "category": "technology",
+      "source": "dw",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T15:20:14.159Z",
       "sample": true
     }
   ],
   "weekly": [
     {
-      "id": "deu-w1",
+      "id": "deu-w-1",
       "title": "Weekly industrial output and export figures",
       "summary": "A roundup of the week's German manufacturing and trade data.",
       "category": "economy",
       "source": "der-spiegel",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-30T21:24:12.475Z",
+      "publishedAt": "2026-08-30T22:20:14.159Z",
       "sample": true
     },
     {
-      "id": "deu-w2",
+      "id": "deu-w-2",
       "title": "Climate policy: industrial decarbonization targets",
       "summary": "This week's coverage of Germany's industrial climate policy.",
       "category": "environment",
       "source": "dw",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-30T09:24:12.475Z",
+      "publishedAt": "2026-08-30T10:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "deu-w-3",
+      "title": "Weekly defense digest: special fund disbursement pace",
+      "summary": "A roundup of coverage tracking Germany's defense modernization fund.",
+      "category": "military",
+      "source": "reuters",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-29T22:20:14.159Z",
       "sample": true
     }
   ],
   "developing": [
     {
-      "id": "deu-dev1",
+      "id": "deu-dev-1",
       "title": "Defense procurement modernization fund",
       "summary": "Ongoing coverage of the special defense modernization fund's disbursement.",
       "category": "military",
       "source": "bild",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T11:24:12.475Z",
+      "publishedAt": "2026-08-31T12:20:14.159Z",
       "sample": true,
       "keyDevelopments": [
         {
-          "at": "2026-08-27T23:24:12.475Z",
+          "at": "2026-08-28T00:20:14.159Z",
           "note": "Fund allocation plan presented to Bundestag committee."
         },
         {
-          "at": "2026-08-31T13:24:12.475Z",
+          "at": "2026-08-31T14:20:14.159Z",
           "note": "Procurement contracts under committee review."
         }
       ]

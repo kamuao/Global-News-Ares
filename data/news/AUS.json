@@ -2,62 +2,95 @@
   "id": "AUS",
   "name": "Australia",
   "sample": true,
-  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "updatedAt": "2026-09-01T04:20:14.159Z",
   "daily": [
     {
-      "id": "aus-d1",
+      "id": "aus-d-1",
       "title": "Defence department briefing on AUKUS submarine program",
       "summary": "Update on the trilateral AUKUS nuclear-powered submarine partnership.",
       "category": "military",
       "source": "abc-au",
       "url": null,
       "image": null,
-      "publishedAt": "2026-09-01T00:24:12.475Z",
+      "publishedAt": "2026-09-01T01:20:14.159Z",
       "sample": true
     },
     {
-      "id": "aus-d2",
+      "id": "aus-d-2",
       "title": "Parliament debates housing affordability package",
       "summary": "Coverage of federal legislative debate on housing policy.",
       "category": "politics",
       "source": "smh",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T21:24:12.475Z",
+      "publishedAt": "2026-08-31T22:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "aus-d-3",
+      "title": "Royal Australian Navy fleet readiness review",
+      "summary": "Coverage of a fleet-wide readiness and maintenance review.",
+      "category": "military",
+      "source": "abc-au",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T19:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "aus-d-4",
+      "title": "Reserve Bank policy watched for rate signal",
+      "summary": "Markets coverage of Reserve Bank of Australia policy commentary.",
+      "category": "economy",
+      "source": "smh",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T17:20:14.159Z",
       "sample": true
     }
   ],
   "weekly": [
     {
-      "id": "aus-w1",
+      "id": "aus-w-1",
       "title": "Weekly view: Pacific regional diplomacy",
       "summary": "A roundup of the week's diplomatic engagement across the Pacific Islands region.",
       "category": "politics",
       "source": "abc-au",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-30T19:24:12.475Z",
+      "publishedAt": "2026-08-30T20:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "aus-w-2",
+      "title": "Weekly digest: AUKUS submarine program tracker",
+      "summary": "A roundup of the week's coverage on the trilateral submarine partnership.",
+      "category": "military",
+      "source": "smh",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T06:20:14.159Z",
       "sample": true
     }
   ],
   "developing": [
     {
-      "id": "aus-dev1",
+      "id": "aus-dev-1",
       "title": "AUKUS submarine program milestones",
       "summary": "Ongoing, multi-year program coverage tracked as it reaches key milestones.",
       "category": "military",
       "source": "abc-au",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T03:24:12.475Z",
+      "publishedAt": "2026-08-31T04:20:14.159Z",
       "sample": true,
       "keyDevelopments": [
         {
-          "at": "2026-08-27T03:24:12.475Z",
+          "at": "2026-08-27T04:20:14.159Z",
           "note": "Program milestone review conducted with partner nations."
         },
         {
-          "at": "2026-08-31T05:24:12.475Z",
+          "at": "2026-08-31T06:20:14.159Z",
           "note": "Budget and timeline update issued."
         }
       ]

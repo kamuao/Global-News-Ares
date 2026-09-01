@@ -2,62 +2,106 @@
   "id": "IND",
   "name": "India",
   "sample": true,
-  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "updatedAt": "2026-09-01T04:20:14.159Z",
   "daily": [
     {
-      "id": "ind-d1",
+      "id": "ind-d-1",
       "title": "Defence ministry update on border infrastructure",
       "summary": "Coverage of military infrastructure development along contested border regions.",
       "category": "military",
       "source": "times-of-india",
       "url": null,
       "image": null,
-      "publishedAt": "2026-09-01T00:24:12.475Z",
+      "publishedAt": "2026-09-01T01:20:14.159Z",
       "sample": true
     },
     {
-      "id": "ind-d2",
+      "id": "ind-d-2",
       "title": "Parliament session on economic reforms",
       "summary": "Update on legislative debate over economic policy reforms.",
       "category": "politics",
       "source": "the-hindu",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T22:24:12.475Z",
+      "publishedAt": "2026-08-31T23:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "ind-d-3",
+      "title": "Indigenous fighter jet program milestone",
+      "summary": "Coverage of progress in India's domestic fighter-aircraft development program.",
+      "category": "military",
+      "source": "times-of-india",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T20:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "ind-d-4",
+      "title": "Monsoon impact on agricultural output",
+      "summary": "Coverage of seasonal rainfall's effect on crop yields and rural economy.",
+      "category": "environment",
+      "source": "ndtv",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T18:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "ind-d-5",
+      "title": "IT sector hiring trends",
+      "summary": "Coverage of hiring and outsourcing trends in India's technology sector.",
+      "category": "technology",
+      "source": "the-hindu",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T15:20:14.159Z",
       "sample": true
     }
   ],
   "weekly": [
     {
-      "id": "ind-w1",
+      "id": "ind-w-1",
       "title": "Weekly digest: monsoon and agriculture outlook",
       "summary": "A roundup of the week's agricultural and climate coverage.",
       "category": "environment",
       "source": "ndtv",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-30T21:24:12.475Z",
+      "publishedAt": "2026-08-30T22:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "ind-w-2",
+      "title": "Weekly digest: defense indigenization push",
+      "summary": "A roundup of coverage on India's push for domestic defense manufacturing.",
+      "category": "military",
+      "source": "times-of-india",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T08:20:14.159Z",
       "sample": true
     }
   ],
   "developing": [
     {
-      "id": "ind-dev1",
+      "id": "ind-dev-1",
       "title": "Line of Actual Control patrol arrangements",
       "summary": "Ongoing coverage of border-management arrangements along the contested frontier.",
       "category": "military",
       "source": "times-of-india",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T12:24:12.475Z",
+      "publishedAt": "2026-08-31T13:20:14.159Z",
       "sample": true,
       "keyDevelopments": [
         {
-          "at": "2026-08-28T04:24:12.475Z",
+          "at": "2026-08-28T05:20:14.159Z",
           "note": "Military-to-military talks reported on patrol coordination."
         },
         {
-          "at": "2026-08-31T14:24:12.475Z",
+          "at": "2026-08-31T15:20:14.159Z",
           "note": "Follow-up round of talks scheduled."
         }
       ]

@@ -2,73 +2,106 @@
   "id": "RUS",
   "name": "Russia",
   "sample": true,
-  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "updatedAt": "2026-09-01T04:20:14.159Z",
   "daily": [
     {
-      "id": "rus-d1",
+      "id": "rus-d-1",
       "title": "Defense ministry statement on frontline operations",
       "summary": "State media summary of the defense ministry's daily operational statement.",
       "category": "military",
       "source": "tass",
       "url": null,
       "image": null,
-      "publishedAt": "2026-09-01T01:24:12.475Z",
+      "publishedAt": "2026-09-01T02:20:14.159Z",
       "sample": true
     },
     {
-      "id": "rus-d2",
+      "id": "rus-d-2",
       "title": "Kremlin readout on foreign policy meetings",
       "summary": "Official readout of diplomatic meetings involving Russian officials.",
       "category": "politics",
       "source": "tass",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T22:24:12.475Z",
+      "publishedAt": "2026-08-31T23:20:14.159Z",
       "sample": true
     },
     {
-      "id": "rus-d3",
+      "id": "rus-d-3",
       "title": "Independent outlet: sanctions impact on economy",
       "summary": "Independent Russian-language coverage of sanctions effects on trade and finance.",
       "category": "economy",
       "source": "moscow-times",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T20:24:12.475Z",
+      "publishedAt": "2026-08-31T21:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "rus-d-4",
+      "title": "State media: defense industry production figures",
+      "summary": "State-media coverage of military production output figures.",
+      "category": "military",
+      "source": "rt",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T19:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "rus-d-5",
+      "title": "Independent coverage: internal migration and conscription",
+      "summary": "Independent reporting on the domestic effects of mobilization policy.",
+      "category": "society",
+      "source": "moscow-times",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T16:20:14.159Z",
       "sample": true
     }
   ],
   "weekly": [
     {
-      "id": "rus-w1",
+      "id": "rus-w-1",
       "title": "Weekly digest: state media military coverage",
       "summary": "A roundup of the week's state-media reporting on military operations.",
       "category": "military",
       "source": "rt",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-30T21:24:12.475Z",
+      "publishedAt": "2026-08-30T22:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "rus-w-2",
+      "title": "Weekly digest: central bank policy amid sanctions",
+      "summary": "A roundup of the week's economic policy coverage under continued sanctions.",
+      "category": "economy",
+      "source": "moscow-times",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T08:20:14.159Z",
       "sample": true
     }
   ],
   "developing": [
     {
-      "id": "rus-dev1",
+      "id": "rus-dev-1",
       "title": "Frontline situation in eastern Ukraine",
       "summary": "Ongoing, contested reporting on frontline positions — coverage differs sharply between state and independent/foreign sources.",
       "category": "military",
       "source": "tass",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T21:24:12.475Z",
+      "publishedAt": "2026-08-31T22:20:14.159Z",
       "sample": true,
       "keyDevelopments": [
         {
-          "at": "2026-08-30T03:24:12.475Z",
+          "at": "2026-08-30T04:20:14.159Z",
           "note": "State media reported operational gains."
         },
         {
-          "at": "2026-08-31T21:24:12.475Z",
+          "at": "2026-08-31T22:20:14.159Z",
           "note": "Independent and Ukrainian sources dispute the state account; cross-check multiple sources."
         }
       ]

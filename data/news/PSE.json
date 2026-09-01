@@ -2,62 +2,95 @@
   "id": "PSE",
   "name": "Palestine (Gaza & West Bank)",
   "sample": true,
-  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "updatedAt": "2026-09-01T04:20:14.159Z",
   "daily": [
     {
-      "id": "pse-d1",
+      "id": "pse-d-1",
       "title": "Gaza humanitarian situation update",
       "summary": "Coverage of humanitarian conditions, aid access, and infrastructure in Gaza.",
       "category": "society",
       "source": "al-jazeera",
       "url": null,
       "image": null,
-      "publishedAt": "2026-09-01T00:24:12.475Z",
+      "publishedAt": "2026-09-01T01:20:14.159Z",
       "sample": true
     },
     {
-      "id": "pse-d2",
+      "id": "pse-d-2",
       "title": "West Bank access and movement restrictions",
       "summary": "Update on checkpoint and movement conditions across the West Bank.",
       "category": "society",
       "source": "middle-east-eye",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T22:24:12.475Z",
+      "publishedAt": "2026-08-31T23:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "pse-d-3",
+      "title": "Reconstruction planning for Gaza infrastructure",
+      "summary": "Coverage of international planning efforts for rebuilding damaged infrastructure.",
+      "category": "society",
+      "source": "al-jazeera",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T20:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "pse-d-4",
+      "title": "Official Palestinian Authority statement on talks",
+      "summary": "Statement from Palestinian officials on ongoing regional negotiations.",
+      "category": "politics",
+      "source": "wafa",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T22:20:14.159Z",
       "sample": true
     }
   ],
   "weekly": [
     {
-      "id": "pse-w1",
+      "id": "pse-w-1",
       "title": "Weekly digest: reconstruction and aid tracker",
       "summary": "A roundup of the week's aid-delivery and reconstruction coverage.",
       "category": "society",
       "source": "al-jazeera",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-30T21:24:12.475Z",
+      "publishedAt": "2026-08-30T22:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "pse-w-2",
+      "title": "Weekly digest: West Bank settlement expansion tracker",
+      "summary": "A roundup of coverage on settlement activity and land-status disputes.",
+      "category": "politics",
+      "source": "middle-east-eye",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T08:20:14.159Z",
       "sample": true
     }
   ],
   "developing": [
     {
-      "id": "pse-dev1",
+      "id": "pse-dev-1",
       "title": "Gaza ceasefire and hostage-related negotiations",
       "summary": "Ongoing, fast-moving negotiations story — check multiple sources given differing accounts.",
       "category": "military",
       "source": "al-jazeera",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T23:24:12.475Z",
+      "publishedAt": "2026-09-01T00:20:14.159Z",
       "sample": true,
       "keyDevelopments": [
         {
-          "at": "2026-08-30T03:24:12.475Z",
+          "at": "2026-08-30T04:20:14.159Z",
           "note": "Mediators reported renewed talks."
         },
         {
-          "at": "2026-08-31T23:24:12.475Z",
+          "at": "2026-09-01T00:20:14.159Z",
           "note": "Palestinian officials issued a statement on humanitarian terms."
         }
       ]

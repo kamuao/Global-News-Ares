@@ -2,73 +2,106 @@
   "id": "ISR",
   "name": "Israel",
   "sample": true,
-  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "updatedAt": "2026-09-01T04:20:14.159Z",
   "daily": [
     {
-      "id": "isr-d1",
+      "id": "isr-d-1",
       "title": "IDF spokesperson daily operational update",
       "summary": "Official military update on operations and regional security posture.",
       "category": "military",
       "source": "times-of-israel",
       "url": null,
       "image": null,
-      "publishedAt": "2026-09-01T01:24:12.475Z",
+      "publishedAt": "2026-09-01T02:20:14.159Z",
       "sample": true
     },
     {
-      "id": "isr-d2",
+      "id": "isr-d-2",
       "title": "Knesset debate on coalition policy",
       "summary": "Coverage of parliamentary debate over governing coalition priorities.",
       "category": "politics",
       "source": "jerusalem-post",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T22:24:12.475Z",
+      "publishedAt": "2026-08-31T23:20:14.159Z",
       "sample": true
     },
     {
-      "id": "isr-d3",
+      "id": "isr-d-3",
       "title": "Independent outlet: humanitarian access coverage",
       "summary": "Independent Israeli press coverage of humanitarian conditions and access.",
       "category": "society",
       "source": "haaretz",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T20:24:12.475Z",
+      "publishedAt": "2026-08-31T21:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "isr-d-4",
+      "title": "Iron Dome and air-defense system upgrades",
+      "summary": "Coverage of upgrades to Israel's layered air-defense systems.",
+      "category": "military",
+      "source": "jerusalem-post",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T19:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "isr-d-5",
+      "title": "Tech sector: cybersecurity startup funding",
+      "summary": "Coverage of investment activity in Israel's cybersecurity industry.",
+      "category": "technology",
+      "source": "times-of-israel",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T16:20:14.159Z",
       "sample": true
     }
   ],
   "weekly": [
     {
-      "id": "isr-w1",
+      "id": "isr-w-1",
       "title": "Weekly digest: regional diplomacy tracker",
       "summary": "A roundup of the week's regional diplomatic developments.",
       "category": "politics",
       "source": "times-of-israel",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-30T21:24:12.475Z",
+      "publishedAt": "2026-08-30T22:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "isr-w-2",
+      "title": "Weekly digest: northern border security posture",
+      "summary": "A roundup of coverage on security dynamics along the northern border.",
+      "category": "military",
+      "source": "jerusalem-post",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T10:20:14.159Z",
       "sample": true
     }
   ],
   "developing": [
     {
-      "id": "isr-dev1",
+      "id": "isr-dev-1",
       "title": "Gaza ceasefire and hostage-related negotiations",
       "summary": "Ongoing, fast-moving negotiations story — check multiple sources given differing accounts.",
       "category": "military",
       "source": "times-of-israel",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T23:24:12.475Z",
+      "publishedAt": "2026-09-01T00:20:14.159Z",
       "sample": true,
       "keyDevelopments": [
         {
-          "at": "2026-08-30T03:24:12.475Z",
+          "at": "2026-08-30T04:20:14.159Z",
           "note": "Mediators reported renewed talks."
         },
         {
-          "at": "2026-08-31T23:24:12.475Z",
+          "at": "2026-09-01T00:20:14.159Z",
           "note": "Parties issued separate, partially conflicting statements on terms."
         }
       ]

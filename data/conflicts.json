@@ -3,204 +3,1176 @@
     "id": "russo-ukrainian-war",
     "type": "war",
     "name": "Russo-Ukrainian War",
-    "countries": ["RUS", "UKR"],
+    "countries": [
+      "RUS",
+      "UKR"
+    ],
     "lat": 48.3794,
-    "lon": 35.0,
+    "lon": 35,
     "status": "active",
     "since": "2014 (escalated 2022)",
     "summary": "Full-scale war following Russia's 2022 invasion of Ukraine, preceded by the 2014 annexation of Crimea and the conflict in the Donbas. Frontlines run through eastern and southern Ukraine.",
-    "relatedCountries": ["RUS", "UKR"]
+    "relatedCountries": [
+      "RUS",
+      "UKR"
+    ],
+    "history": [
+      {
+        "period": "2014",
+        "text": "Russia annexes Crimea after a disputed referendum following the ouster of Ukraine's president; pro-Russian separatists, backed by Russia, seize territory in Donetsk and Luhansk, starting the Donbas war."
+      },
+      {
+        "period": "2014–2015",
+        "text": "The Minsk agreements attempt to establish a ceasefire in the Donbas; low-intensity fighting continues for eight years without a political settlement."
+      },
+      {
+        "period": "Feb 2022",
+        "text": "Russia launches a full-scale invasion on multiple fronts, aiming to take Kyiv; the offensive is repelled and Russian forces withdraw from northern Ukraine within weeks."
+      },
+      {
+        "period": "2022–2023",
+        "text": "Ukraine retakes territory around Kharkiv and Kherson in counteroffensives; Russia declares the annexation of four partially occupied regions, a move not internationally recognized."
+      },
+      {
+        "period": "2023–present",
+        "text": "The war settles into attritional fighting along a largely static front line, with long-range strikes on energy and military infrastructure on both sides and periodic diplomatic efforts toward a ceasefire."
+      }
+    ],
+    "news": [
+      {
+        "id": "ruw-1",
+        "title": "Frontline positions shift in contested eastern sector",
+        "summary": "Competing claims from Ukrainian and Russian sources about control of contested villages along the eastern front.",
+        "category": "military",
+        "source": "kyiv-independent",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T22:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "ruw-2",
+        "title": "Kremlin statement on peace-talk conditions",
+        "summary": "State media summary of the Kremlin's stated conditions for negotiations.",
+        "category": "politics",
+        "source": "tass",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T18:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "ruw-3",
+        "title": "Sanctions regime adjustments discussed by Western allies",
+        "summary": "Coverage of ongoing coordination among Western governments on sanctions enforcement.",
+        "category": "economy",
+        "source": "reuters",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T08:22:35.602Z",
+        "sample": true
+      }
+    ]
   },
   {
     "id": "israel-gaza-war",
     "type": "war",
     "name": "Israel–Hamas War (Gaza)",
-    "countries": ["ISR", "PSE"],
+    "countries": [
+      "ISR",
+      "PSE"
+    ],
     "lat": 31.5,
     "lon": 34.47,
     "status": "active",
     "since": "2023",
     "summary": "Conflict between Israel and Hamas-led Palestinian militant groups centered on the Gaza Strip, following the October 7, 2023 attack, with major humanitarian and regional spillover effects including the West Bank and border clashes with Hezbollah in Lebanon.",
-    "relatedCountries": ["ISR", "PSE"]
+    "relatedCountries": [
+      "ISR",
+      "PSE"
+    ],
+    "history": [
+      {
+        "period": "1948–2007",
+        "text": "The Israeli-Palestinian conflict's roots trace to Israel's 1948 founding and the displacement of Palestinians; Hamas wins Gaza's 2006 elections and takes full control after 2007 fighting with rival Fatah forces."
+      },
+      {
+        "period": "2007–2023",
+        "text": "Israel and Egypt maintain a blockade of Gaza; four prior rounds of major fighting occur (2008–09, 2012, 2014, 2021) without a lasting settlement."
+      },
+      {
+        "period": "Oct 7, 2023",
+        "text": "Hamas-led fighters launch a large-scale attack on southern Israel, killing roughly 1,200 people and taking hostages; Israel declares war and begins a sustained military campaign in Gaza."
+      },
+      {
+        "period": "2023–2024",
+        "text": "Israeli ground and air operations cause widespread destruction and mass displacement in Gaza; several temporary ceasefires bring hostage-for-prisoner exchanges."
+      },
+      {
+        "period": "2024–present",
+        "text": "Ceasefire negotiations mediated by Qatar, Egypt, and the US continue alongside intermittent fighting; humanitarian access and reconstruction remain central international concerns."
+      }
+    ],
+    "news": [
+      {
+        "id": "igw-1",
+        "title": "Mediators report progress in indirect ceasefire talks",
+        "summary": "Qatari and Egyptian mediators describe incremental progress in indirect negotiations.",
+        "category": "military",
+        "source": "al-jazeera",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T23:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "igw-2",
+        "title": "IDF statement on military operations",
+        "summary": "Official Israeli military statement on the current phase of operations.",
+        "category": "military",
+        "source": "times-of-israel",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T20:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "igw-3",
+        "title": "Humanitarian agencies report on aid corridor access",
+        "summary": "International aid organizations detail conditions for aid delivery into Gaza.",
+        "category": "society",
+        "source": "reuters",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T14:22:35.602Z",
+        "sample": true
+      }
+    ]
   },
   {
     "id": "sudan-civil-war",
     "type": "war",
     "name": "Sudanese Civil War",
-    "countries": ["SDN"],
+    "countries": [
+      "SDN"
+    ],
     "lat": 15.5,
     "lon": 32.5,
     "status": "active",
     "since": "2023",
     "summary": "Power struggle between the Sudanese Armed Forces (SAF) and the paramilitary Rapid Support Forces (RSF), producing one of the world's largest displacement and hunger crises.",
-    "relatedCountries": ["SDN"]
+    "relatedCountries": [
+      "SDN"
+    ],
+    "history": [
+      {
+        "period": "2019",
+        "text": "Long-time ruler Omar al-Bashir is ousted in a popular uprising; a fragile transitional power-sharing arrangement between civilians and the military follows."
+      },
+      {
+        "period": "2021",
+        "text": "A military coup involving both the regular armed forces (SAF) and the paramilitary Rapid Support Forces (RSF) derails the transition to civilian rule."
+      },
+      {
+        "period": "Apr 2023",
+        "text": "Long-simmering rivalry between SAF leader Gen. Abdel Fattah al-Burhan and RSF leader Gen. Mohamed Hamdan Dagalo erupts into open warfare in Khartoum."
+      },
+      {
+        "period": "2023–present",
+        "text": "Fighting spreads nationwide, especially in Darfur; the UN describes the resulting displacement and hunger crisis as among the world's largest."
+      }
+    ],
+    "news": [
+      {
+        "id": "scw-1",
+        "title": "Aid agencies warn of worsening famine conditions",
+        "summary": "International humanitarian organizations report on deteriorating food security in conflict-affected regions.",
+        "category": "society",
+        "source": "reuters",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T19:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "scw-2",
+        "title": "Fighting reported around key regional city",
+        "summary": "Coverage of clashes between SAF and RSF forces around a contested regional population center.",
+        "category": "military",
+        "source": "al-jazeera",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T15:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "scw-3",
+        "title": "Diplomatic push for renewed ceasefire talks",
+        "summary": "Regional and international mediators renew calls for a negotiated pause in fighting.",
+        "category": "politics",
+        "source": "ap-news",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T06:22:35.602Z",
+        "sample": true
+      }
+    ]
   },
   {
     "id": "myanmar-civil-war",
     "type": "war",
     "name": "Myanmar Civil War",
-    "countries": ["MMR"],
+    "countries": [
+      "MMR"
+    ],
     "lat": 21.9,
     "lon": 95.9,
     "status": "active",
     "since": "2021",
     "summary": "Nationwide armed conflict between the military junta (which seized power in a 2021 coup), the shadow National Unity Government, and a patchwork of ethnic armed organizations.",
-    "relatedCountries": ["MMR"]
+    "relatedCountries": [
+      "MMR"
+    ],
+    "history": [
+      {
+        "period": "2011–2020",
+        "text": "A decade-long, imperfect transition from military rule toward a hybrid civilian-military democracy proceeds under Aung San Suu Kyi's government."
+      },
+      {
+        "period": "Feb 2021",
+        "text": "The military (Tatmadaw) stages a coup, arresting Suu Kyi and civilian leaders, citing unproven election-fraud claims."
+      },
+      {
+        "period": "2021",
+        "text": "Mass civil-disobedience protests are met with lethal force; opponents form a shadow National Unity Government and armed 'People's Defence Forces.'"
+      },
+      {
+        "period": "2021–present",
+        "text": "Conflict spreads nationwide as ethnic armed organizations, some allied with the resistance, seize significant territory from the junta."
+      }
+    ],
+    "news": [
+      {
+        "id": "mcw-1",
+        "title": "Resistance forces report territorial gains",
+        "summary": "Coverage of reported advances by allied anti-junta forces in border regions.",
+        "category": "military",
+        "source": "reuters",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T17:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "mcw-2",
+        "title": "Junta announces election timeline amid ongoing conflict",
+        "summary": "State-linked announcements on a proposed election process are met with skepticism by opposition groups.",
+        "category": "politics",
+        "source": "al-jazeera",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T10:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "mcw-3",
+        "title": "Displacement crisis strains border regions",
+        "summary": "Coverage of refugee flows into neighboring countries as fighting continues.",
+        "category": "society",
+        "source": "ap-news",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T02:22:35.602Z",
+        "sample": true
+      }
+    ]
   },
   {
     "id": "syrian-transition-conflict",
     "type": "war",
     "name": "Syria: Post-Assad Transition Conflict",
-    "countries": ["SYR"],
-    "lat": 35.0,
+    "countries": [
+      "SYR"
+    ],
+    "lat": 35,
     "lon": 38.5,
     "status": "active",
     "since": "2011 (regime fell 2024)",
     "summary": "Following the fall of the Assad government in late 2024, Syria remains fractured, with an interim government, sectarian violence, Kurdish-led autonomous forces in the northeast, and continued foreign military involvement.",
-    "relatedCountries": ["SYR"]
+    "relatedCountries": [
+      "SYR"
+    ],
+    "history": [
+      {
+        "period": "2011",
+        "text": "Peaceful protests against Bashar al-Assad's government, part of the wider Arab Spring, are met with a violent crackdown and escalate into civil war."
+      },
+      {
+        "period": "2011–2020",
+        "text": "The war draws in numerous foreign powers and armed factions, including the Islamic State's territorial 'caliphate' (defeated by 2019), and displaces millions of Syrians."
+      },
+      {
+        "period": "Dec 2024",
+        "text": "A rapid rebel offensive led by Hayat Tahrir al-Sham topples the Assad government, ending over five decades of Assad family rule."
+      },
+      {
+        "period": "2025–present",
+        "text": "An interim government works to consolidate authority amid sectarian violence, a fragile relationship with Kurdish-led forces in the northeast, and continued foreign military presence."
+      }
+    ],
+    "news": [
+      {
+        "id": "stc-1",
+        "title": "Interim government outlines transitional roadmap",
+        "summary": "Coverage of the interim authorities' stated plans for elections and a new constitution.",
+        "category": "politics",
+        "source": "al-jazeera",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T13:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "stc-2",
+        "title": "Sectarian violence reported in coastal region",
+        "summary": "Reports of intercommunal violence in areas with concentrated minority populations.",
+        "category": "military",
+        "source": "reuters",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T09:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "stc-3",
+        "title": "Kurdish-led forces negotiate integration terms",
+        "summary": "Coverage of talks between the interim government and Kurdish-led autonomous authorities in the northeast.",
+        "category": "politics",
+        "source": "middle-east-eye",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T04:22:35.602Z",
+        "sample": true
+      }
+    ]
   },
   {
     "id": "red-sea-yemen-conflict",
     "type": "war",
     "name": "Yemen Conflict & Red Sea Crisis",
-    "countries": ["YEM"],
+    "countries": [
+      "YEM"
+    ],
     "lat": 15.35,
     "lon": 44.2,
     "status": "active",
     "since": "2014",
     "summary": "Yemen's civil war between the Houthi movement and the internationally recognized government, which has spilled into Red Sea shipping lanes via Houthi attacks on commercial vessels.",
-    "relatedCountries": ["YEM"]
+    "relatedCountries": [
+      "YEM"
+    ],
+    "history": [
+      {
+        "period": "2014",
+        "text": "The Houthi movement seizes the capital Sanaa, prompting a Saudi-led coalition intervention in 2015 to restore the internationally recognized government."
+      },
+      {
+        "period": "2015–2022",
+        "text": "A grinding war and blockade produce a severe humanitarian crisis; a UN-brokered truce takes hold in 2022 and largely persists even after its formal expiry."
+      },
+      {
+        "period": "Late 2023–present",
+        "text": "Houthi forces begin attacking commercial and military shipping in the Red Sea and Bab-el-Mandeb Strait, prompting US/UK strikes and a rerouting of global shipping around Africa."
+      }
+    ],
+    "news": [
+      {
+        "id": "ryc-1",
+        "title": "Shipping industry reports on Red Sea rerouting costs",
+        "summary": "Coverage of the continued commercial impact of vessels avoiding the Red Sea corridor.",
+        "category": "economy",
+        "source": "reuters",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T12:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "ryc-2",
+        "title": "Coalition strikes target Houthi military sites",
+        "summary": "Reports on military strikes against Houthi-controlled military infrastructure.",
+        "category": "military",
+        "source": "al-jazeera",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T16:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "ryc-3",
+        "title": "UN envoy renews push for political settlement",
+        "summary": "Coverage of ongoing UN-led mediation efforts toward a broader Yemeni political settlement.",
+        "category": "politics",
+        "source": "reuters",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T00:22:35.602Z",
+        "sample": true
+      }
+    ]
   },
   {
     "id": "sahel-insurgency",
     "type": "war",
     "name": "Sahel Jihadist Insurgency",
-    "countries": ["MLI"],
-    "lat": 17.0,
-    "lon": -3.0,
+    "countries": [
+      "MLI"
+    ],
+    "lat": 17,
+    "lon": -3,
     "status": "active",
     "since": "2012",
     "summary": "Islamist insurgency across Mali, Burkina Faso, and Niger involving groups linked to al-Qaeda and the Islamic State, amid a wave of military coups and the withdrawal of Western forces.",
-    "relatedCountries": []
+    "relatedCountries": [],
+    "history": [
+      {
+        "period": "2012",
+        "text": "A Tuareg rebellion in northern Mali is hijacked by jihadist groups linked to al-Qaeda, prompting a French-led military intervention in 2013."
+      },
+      {
+        "period": "2015 onward",
+        "text": "Violence spreads into Burkina Faso and Niger as groups linked to al-Qaeda and the Islamic State compete for territory and recruits."
+      },
+      {
+        "period": "2020–2023",
+        "text": "A wave of military coups in Mali, Burkina Faso, and Niger brings juntas to power that expel French and other Western forces, several turning to Russian-linked security support instead."
+      },
+      {
+        "period": "2023–present",
+        "text": "The three juntas form the Alliance of Sahel States and withdraw from the regional bloc ECOWAS, while insurgent violence continues to expand toward coastal West Africa."
+      }
+    ],
+    "news": [
+      {
+        "id": "shi-1",
+        "title": "Junta-led governments report on counterinsurgency operations",
+        "summary": "State-aligned coverage of military operations against jihadist groups.",
+        "category": "military",
+        "source": "france24",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T08:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "shi-2",
+        "title": "Insurgent attacks reported near coastal border areas",
+        "summary": "Coverage of the southward spread of insurgent activity toward coastal West African states.",
+        "category": "military",
+        "source": "reuters",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T13:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "shi-3",
+        "title": "Alliance of Sahel States deepens security cooperation",
+        "summary": "Coverage of coordination among the three junta-led governments on regional security.",
+        "category": "politics",
+        "source": "al-jazeera",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-30T22:22:35.602Z",
+        "sample": true
+      }
+    ]
   },
   {
     "id": "korean-dmz",
     "type": "war",
     "name": "Korean Armistice / DMZ Standoff",
-    "countries": ["PRK", "KOR"],
-    "lat": 38.0,
-    "lon": 127.0,
+    "countries": [
+      "PRK",
+      "KOR"
+    ],
+    "lat": 38,
+    "lon": 127,
     "status": "frozen",
     "since": "1953 (armistice, no peace treaty)",
     "summary": "The Korean War ended in an armistice, not a peace treaty; North and South Korea remain technically at war, separated by the heavily fortified Demilitarized Zone.",
-    "relatedCountries": []
+    "relatedCountries": [],
+    "history": [
+      {
+        "period": "1950–1953",
+        "text": "The Korean War, pitting the Soviet/Chinese-backed North against the US-led UN coalition defending the South, ends in an armistice rather than a peace treaty."
+      },
+      {
+        "period": "1953–present",
+        "text": "North and South Korea remain formally at war; the Demilitarized Zone is one of the most heavily fortified borders on Earth."
+      },
+      {
+        "period": "Recurring",
+        "text": "Periodic crises — nuclear and missile tests, naval skirmishes, and propaganda campaigns — punctuate the decades-long standoff without reigniting full-scale war."
+      }
+    ],
+    "news": [
+      {
+        "id": "kdz-1",
+        "title": "North Korea conducts missile test",
+        "summary": "Reports on a missile test and the international response.",
+        "category": "military",
+        "source": "nhk",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T07:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "kdz-2",
+        "title": "Seoul and Washington hold joint military exercise",
+        "summary": "Coverage of a scheduled joint military exercise and North Korea's reaction to it.",
+        "category": "military",
+        "source": "reuters",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T11:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "kdz-3",
+        "title": "Six-party talks framework revisited by regional diplomats",
+        "summary": "Discussion among regional powers of renewed diplomatic engagement.",
+        "category": "politics",
+        "source": "ap-news",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-30T19:22:35.602Z",
+        "sample": true
+      }
+    ]
   },
   {
     "id": "south-china-sea",
     "type": "territorial-dispute",
     "name": "South China Sea Disputes",
-    "countries": ["CHN", "TWN"],
-    "lat": 12.0,
-    "lon": 114.0,
+    "countries": [
+      "CHN",
+      "TWN"
+    ],
+    "lat": 12,
+    "lon": 114,
     "status": "active",
     "since": "ongoing",
     "summary": "Overlapping sovereignty claims among China, Taiwan, Vietnam, the Philippines, Malaysia, and Brunei over reefs, islands, and shipping lanes, punctuated by naval standoffs and China's construction of militarized artificial islands.",
-    "relatedCountries": ["CHN"]
+    "relatedCountries": [
+      "CHN"
+    ],
+    "history": [
+      {
+        "period": "Post-WWII",
+        "text": "Competing claims emerge as China, Taiwan, Vietnam, the Philippines, Malaysia, and Brunei assert overlapping sovereignty over islands, reefs, and waters."
+      },
+      {
+        "period": "2013–2016",
+        "text": "The Philippines brings a case against China's expansive 'nine-dash line' claim; a 2016 international tribunal ruling rejects the claim's legal basis, which China does not recognize."
+      },
+      {
+        "period": "2014 onward",
+        "text": "China builds and militarizes artificial islands on reefs it controls, alarming rival claimants and the US, which conducts regular 'freedom of navigation' patrols."
+      },
+      {
+        "period": "Recurring",
+        "text": "Coast guard and militia standoffs, particularly between China and the Philippines around Scarborough Shoal and Second Thomas Shoal, remain a persistent flashpoint."
+      }
+    ],
+    "news": [
+      {
+        "id": "scs-1",
+        "title": "Coast guard vessels in standoff near contested shoal",
+        "summary": "Reports of a maritime standoff involving coast guard vessels from rival claimants.",
+        "category": "military",
+        "source": "scmp",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T18:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "scs-2",
+        "title": "Philippines protests resupply mission interference",
+        "summary": "Diplomatic protest over interference with a resupply mission to a contested outpost.",
+        "category": "politics",
+        "source": "reuters",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T14:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "scs-3",
+        "title": "Regional states discuss code of conduct negotiations",
+        "summary": "Coverage of long-running talks toward a regional code of conduct for the disputed waters.",
+        "category": "politics",
+        "source": "al-jazeera",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T01:22:35.602Z",
+        "sample": true
+      }
+    ]
   },
   {
     "id": "taiwan-strait",
     "type": "territorial-dispute",
     "name": "Taiwan Strait",
-    "countries": ["CHN", "TWN"],
+    "countries": [
+      "CHN",
+      "TWN"
+    ],
     "lat": 24.5,
     "lon": 119.5,
     "status": "active",
     "since": "1949",
     "summary": "China claims Taiwan as part of its territory under a 'One China' policy; Taiwan operates as a self-governing democracy. Chinese military exercises and incursions into Taiwan's air defense zone are recurring flashpoints.",
-    "relatedCountries": ["CHN"]
+    "relatedCountries": [
+      "CHN"
+    ],
+    "history": [
+      {
+        "period": "1949",
+        "text": "Nationalist (Kuomintang) forces retreat to Taiwan after losing the Chinese Civil War to the Communist Party, establishing a rival government the People's Republic of China has never controlled."
+      },
+      {
+        "period": "1954–1979",
+        "text": "Two Taiwan Strait crises involve shelling of offshore islands; the US shifts diplomatic recognition from Taipei to Beijing in 1979 while continuing informal support for Taiwan's defense."
+      },
+      {
+        "period": "1996",
+        "text": "China conducts missile tests near Taiwan ahead of its first direct presidential election, prompting the US to deploy carrier groups to the region."
+      },
+      {
+        "period": "2022–present",
+        "text": "Chinese military aircraft and ships increase near-daily activity around Taiwan, particularly following senior foreign officials' visits to the island."
+      }
+    ],
+    "news": [
+      {
+        "id": "tws-1",
+        "title": "Taiwan defense ministry reports incursions into air defense zone",
+        "summary": "Daily-style reporting on the number of Chinese military aircraft detected near Taiwan.",
+        "category": "military",
+        "source": "scmp",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T20:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "tws-2",
+        "title": "Arms sale package to Taiwan draws Beijing's protest",
+        "summary": "Coverage of a foreign arms sale to Taiwan and China's diplomatic response.",
+        "category": "military",
+        "source": "reuters",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T09:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "tws-3",
+        "title": "Cross-strait trade ties persist despite tensions",
+        "summary": "Coverage of ongoing economic interdependence despite political and military tension.",
+        "category": "economy",
+        "source": "scmp",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-30T21:22:35.602Z",
+        "sample": true
+      }
+    ]
   },
   {
     "id": "kashmir",
     "type": "territorial-dispute",
     "name": "Kashmir",
-    "countries": ["IND", "PAK"],
-    "lat": 34.0,
+    "countries": [
+      "IND",
+      "PAK"
+    ],
+    "lat": 34,
     "lon": 76.5,
     "status": "active",
     "since": "1947",
     "summary": "India and Pakistan both claim the Kashmir region in full and administer separate portions, divided by the Line of Control; China also administers a portion (Aksai Chin). The dispute has triggered multiple wars and periodic cross-border strikes.",
-    "relatedCountries": ["IND"]
+    "relatedCountries": [
+      "IND"
+    ],
+    "history": [
+      {
+        "period": "1947",
+        "text": "Partition of British India leads to the first India-Pakistan war over the princely state of Kashmir, ending with a UN-brokered ceasefire and the Line of Control."
+      },
+      {
+        "period": "1965 & 1999",
+        "text": "Two further conflicts (including the Kargil war) are fought largely over the region."
+      },
+      {
+        "period": "1962",
+        "text": "China takes control of the Aksai Chin area during the Sino-Indian War and continues to administer it."
+      },
+      {
+        "period": "2019",
+        "text": "India revokes Jammu and Kashmir's special semi-autonomous status and splits it into two federally administered territories, tightening central control."
+      }
+    ],
+    "news": [
+      {
+        "id": "ksh-1",
+        "title": "Cross-border firing reported along Line of Control",
+        "summary": "Reports of an exchange of fire along the contested border.",
+        "category": "military",
+        "source": "times-of-india",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T16:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "ksh-2",
+        "title": "Security forces conduct operation in border district",
+        "summary": "Coverage of a security operation in a contested border area.",
+        "category": "military",
+        "source": "the-hindu",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T11:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "ksh-3",
+        "title": "Diplomats discuss confidence-building measures",
+        "summary": "Coverage of periodic diplomatic contacts aimed at reducing border tensions.",
+        "category": "politics",
+        "source": "reuters",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-30T23:22:35.602Z",
+        "sample": true
+      }
+    ]
   },
   {
     "id": "crimea",
     "type": "occupied-territory",
     "name": "Crimea",
-    "countries": ["UKR", "RUS"],
+    "countries": [
+      "UKR",
+      "RUS"
+    ],
     "lat": 45.15,
     "lon": 34.35,
     "status": "active",
     "since": "2014",
     "summary": "Annexed by Russia in 2014 following a disputed referendum; recognized internationally as sovereign Ukrainian territory under military occupation.",
-    "relatedCountries": ["UKR", "RUS"]
+    "relatedCountries": [
+      "UKR",
+      "RUS"
+    ],
+    "history": [
+      {
+        "period": "1954",
+        "text": "Soviet leader Nikita Khrushchev transfers Crimea from the Russian to the Ukrainian Soviet republic; the transfer becomes an international border when the USSR dissolves in 1991."
+      },
+      {
+        "period": "Feb–Mar 2014",
+        "text": "Unmarked Russian troops seize key sites; a rushed referendum, not recognized internationally as free or fair, is followed by Russia's annexation."
+      },
+      {
+        "period": "2014–present",
+        "text": "Russia builds the Kerch Strait Bridge connecting Crimea to the Russian mainland and uses the peninsula as a key military base, including for its Black Sea Fleet."
+      }
+    ],
+    "news": [
+      {
+        "id": "crm-1",
+        "title": "Reports of strikes on military infrastructure in Crimea",
+        "summary": "Coverage of reported strikes on Russian military assets based on the peninsula.",
+        "category": "military",
+        "source": "kyiv-independent",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T15:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "crm-2",
+        "title": "Kerch Strait Bridge security measures tightened",
+        "summary": "State media coverage of security measures around the bridge connecting Crimea to Russia.",
+        "category": "military",
+        "source": "tass",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T07:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "crm-3",
+        "title": "International bodies reaffirm non-recognition of annexation",
+        "summary": "Coverage of continued international statements on Crimea's contested status.",
+        "category": "politics",
+        "source": "reuters",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-30T17:22:35.602Z",
+        "sample": true
+      }
+    ]
   },
   {
     "id": "golan-heights",
     "type": "occupied-territory",
     "name": "Golan Heights",
-    "countries": ["SYR", "ISR"],
-    "lat": 33.0,
+    "countries": [
+      "SYR",
+      "ISR"
+    ],
+    "lat": 33,
     "lon": 35.8,
     "status": "active",
     "since": "1967",
     "summary": "Captured by Israel from Syria in the 1967 war and effectively annexed in 1981; the annexation is recognized by the United States but not by the United Nations.",
-    "relatedCountries": ["ISR"]
+    "relatedCountries": [
+      "ISR"
+    ],
+    "history": [
+      {
+        "period": "1967",
+        "text": "Israel captures the Golan Heights from Syria during the Six-Day War."
+      },
+      {
+        "period": "1973",
+        "text": "Syria attempts to retake the territory in the Yom Kippur War; a UN-monitored ceasefire line is established afterward."
+      },
+      {
+        "period": "1981",
+        "text": "Israel effectively annexes the Golan Heights, a move the UN Security Council declares 'null and void.'"
+      },
+      {
+        "period": "2019",
+        "text": "The US formally recognizes Israeli sovereignty over the Golan Heights, a position not shared by the UN or most other countries."
+      }
+    ],
+    "news": [
+      {
+        "id": "gol-1",
+        "title": "Cross-border incident reported near ceasefire line",
+        "summary": "Coverage of an incident along the UN-monitored disengagement line.",
+        "category": "military",
+        "source": "times-of-israel",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T04:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "gol-2",
+        "title": "UN observer force reports on ceasefire line status",
+        "summary": "Periodic reporting from the UN mission monitoring the disengagement zone.",
+        "category": "politics",
+        "source": "al-jazeera",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-30T12:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "gol-3",
+        "title": "Settlement expansion plans announced for the territory",
+        "summary": "Coverage of Israeli government plans to expand civilian settlement in the territory.",
+        "category": "politics",
+        "source": "reuters",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-30T20:22:35.602Z",
+        "sample": true
+      }
+    ]
   },
   {
     "id": "west-bank-settlements",
     "type": "occupied-territory",
     "name": "West Bank",
-    "countries": ["PSE", "ISR"],
+    "countries": [
+      "PSE",
+      "ISR"
+    ],
     "lat": 31.9,
     "lon": 35.2,
     "status": "active",
     "since": "1967",
     "summary": "Under Israeli military occupation since 1967, with Palestinian Authority civil administration in parts of the territory and ongoing Israeli settlement expansion considered illegal under international law by most of the international community.",
-    "relatedCountries": ["ISR", "PSE"]
+    "relatedCountries": [
+      "ISR",
+      "PSE"
+    ],
+    "history": [
+      {
+        "period": "1967",
+        "text": "Israel occupies the West Bank (along with Gaza and other territories) in the Six-Day War."
+      },
+      {
+        "period": "1993–1995",
+        "text": "The Oslo Accords establish limited Palestinian self-rule in parts of the West Bank via the Palestinian Authority, dividing the territory into administrative Areas A, B, and C."
+      },
+      {
+        "period": "1967–present",
+        "text": "Israel establishes and continues to expand civilian settlements in the West Bank, considered illegal under international law by the UN and most states; several hundred thousand settlers now live across the West Bank and East Jerusalem."
+      },
+      {
+        "period": "2023–present",
+        "text": "Settler violence and Israeli military operations in the West Bank intensify alongside the Gaza war."
+      }
+    ],
+    "news": [
+      {
+        "id": "wbs-1",
+        "title": "Settler violence incidents reported in northern West Bank",
+        "summary": "Coverage of reported incidents of settler violence against Palestinian residents.",
+        "category": "society",
+        "source": "middle-east-eye",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T19:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "wbs-2",
+        "title": "Israeli military operation conducted in refugee camp",
+        "summary": "Coverage of a military operation in a West Bank population center.",
+        "category": "military",
+        "source": "times-of-israel",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-31T13:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "wbs-3",
+        "title": "UN reports on settlement expansion pace",
+        "summary": "International monitoring bodies report on the rate of settlement construction.",
+        "category": "politics",
+        "source": "al-jazeera",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-30T14:22:35.602Z",
+        "sample": true
+      }
+    ]
   },
   {
     "id": "western-sahara",
     "type": "occupied-territory",
     "name": "Western Sahara",
-    "countries": ["ESH", "MAR"],
+    "countries": [
+      "ESH",
+      "MAR"
+    ],
     "lat": 24.5,
-    "lon": -13.0,
+    "lon": -13,
     "status": "frozen",
     "since": "1975",
     "summary": "Morocco controls most of the territory and considers it part of Morocco; the Polisario Front, backed by Algeria, seeks independence for the Sahrawi Arab Democratic Republic. A UN-monitored ceasefire has been fraying since 2020.",
-    "relatedCountries": []
+    "relatedCountries": [],
+    "history": [
+      {
+        "period": "1975",
+        "text": "Spain withdraws from its former colony; Morocco and Mauritania move in, prompting the Polisario Front to declare the Sahrawi Arab Democratic Republic and fight for independence."
+      },
+      {
+        "period": "1979",
+        "text": "Mauritania withdraws its claim; Morocco extends control over most of the territory and builds a heavily fortified sand-berm separating it from Polisario-held areas."
+      },
+      {
+        "period": "1991",
+        "text": "A UN-brokered ceasefire takes hold, monitored by a UN mission (MINURSO), premised on an independence referendum that has never been held."
+      },
+      {
+        "period": "2020–present",
+        "text": "The ceasefire frays after Polisario declares it void following a border incident; Morocco has since gained recognition of its claim from a growing number of states, including the US in 2020."
+      }
+    ],
+    "news": [
+      {
+        "id": "wsh-1",
+        "title": "MINURSO reports on ceasefire line incidents",
+        "summary": "Periodic UN reporting on the status of the long-running ceasefire.",
+        "category": "politics",
+        "source": "reuters",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-30T07:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "wsh-2",
+        "title": "Morocco touts new investment in the territory",
+        "summary": "Coverage of Moroccan government investment framed as economic development of the region.",
+        "category": "economy",
+        "source": "france24",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-30T02:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "wsh-3",
+        "title": "Polisario Front reiterates independence demand",
+        "summary": "Coverage of the Polisario Front's continued push for a self-determination referendum.",
+        "category": "politics",
+        "source": "al-jazeera",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-29T16:22:35.602Z",
+        "sample": true
+      }
+    ]
   },
   {
     "id": "nagorno-karabakh",
     "type": "territorial-dispute",
     "name": "Nagorno-Karabakh",
-    "countries": ["ARM", "AZE"],
+    "countries": [
+      "ARM",
+      "AZE"
+    ],
     "lat": 39.9,
     "lon": 46.75,
     "status": "resolved-disputed",
     "since": "1988 (Azerbaijan retook full control 2023)",
     "summary": "Azerbaijan retook full control of the region in a September 2023 offensive, ending three decades of separatist Armenian rule and triggering the exodus of nearly the entire ethnic Armenian population; final political status remains contentious.",
-    "relatedCountries": ["ARM"]
+    "relatedCountries": [
+      "ARM"
+    ],
+    "history": [
+      {
+        "period": "1988–1994",
+        "text": "As Soviet control weakens, ethnic Armenian-majority Nagorno-Karabakh seeks to join Armenia, sparking a war with Azerbaijan that ends with Armenian forces in control of the region and surrounding territory."
+      },
+      {
+        "period": "2020",
+        "text": "A 44-day war ends with Azerbaijan retaking significant territory, formalized in a Russian-brokered ceasefire that stations Russian peacekeepers in the region."
+      },
+      {
+        "period": "Sep 2023",
+        "text": "A swift Azerbaijani military offensive retakes the remainder of the region within 24 hours, prompting nearly the entire ethnic Armenian population — roughly 100,000 people — to flee to Armenia."
+      },
+      {
+        "period": "2023–present",
+        "text": "Talks continue toward a formal Armenia-Azerbaijan peace treaty, with border demarcation and transit-corridor questions still unresolved."
+      }
+    ],
+    "news": [
+      {
+        "id": "nkh-1",
+        "title": "Armenia and Azerbaijan resume border talks",
+        "summary": "Coverage of ongoing bilateral talks toward a peace treaty.",
+        "category": "politics",
+        "source": "reuters",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-30T12:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "nkh-2",
+        "title": "Displaced Karabakh Armenians describe resettlement challenges",
+        "summary": "Coverage of the humanitarian situation for those displaced in 2023.",
+        "category": "society",
+        "source": "al-jazeera",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-29T21:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "nkh-3",
+        "title": "Transit corridor negotiations remain unresolved",
+        "summary": "Coverage of disputed proposals for a transit corridor through southern Armenia.",
+        "category": "politics",
+        "source": "ap-news",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-29T11:22:35.602Z",
+        "sample": true
+      }
+    ]
   },
   {
     "id": "transnistria",
     "type": "territorial-dispute",
     "name": "Transnistria",
-    "countries": ["MDA"],
+    "countries": [
+      "MDA"
+    ],
     "lat": 47.2,
     "lon": 29.5,
     "status": "frozen",
     "since": "1992",
     "summary": "A breakaway strip of Moldova along the Ukrainian border, run by an unrecognized pro-Russian government and hosting a residual Russian military presence since a 1992 ceasefire.",
-    "relatedCountries": []
+    "relatedCountries": [],
+    "history": [
+      {
+        "period": "1990",
+        "text": "As Moldova moves toward independence from the USSR, the Russian-speaking Transnistria region on the east bank of the Dniester River declares its own breakaway republic."
+      },
+      {
+        "period": "1992",
+        "text": "A brief war ends with a ceasefire brokered by Russia, which leaves a residual military force in the region that remains today."
+      },
+      {
+        "period": "1992–present",
+        "text": "Transnistria functions as an unrecognized state with its own government, currency, and army, dependent on Russian support and subsidized energy."
+      },
+      {
+        "period": "Recurring",
+        "text": "Tensions periodically rise around Moldova's EU integration path and disruptions to the gas transit arrangements that have historically subsidized the region."
+      }
+    ],
+    "news": [
+      {
+        "id": "tns-1",
+        "title": "Moldova reports on regional energy security plans",
+        "summary": "Coverage of Moldovan government efforts to reduce dependence on regional gas transit arrangements.",
+        "category": "economy",
+        "source": "reuters",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-30T04:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "tns-2",
+        "title": "Transnistrian authorities comment on Moldova's EU path",
+        "summary": "Coverage of statements from the breakaway region's authorities amid Moldova's EU accession process.",
+        "category": "politics",
+        "source": "ap-news",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-29T18:22:35.602Z",
+        "sample": true
+      },
+      {
+        "id": "tns-3",
+        "title": "OSCE mission reports on regional security dialogue",
+        "summary": "Periodic reporting from international monitors on the long-running dispute.",
+        "category": "politics",
+        "source": "kyiv-independent",
+        "url": null,
+        "image": null,
+        "publishedAt": "2026-08-29T06:22:35.602Z",
+        "sample": true
+      }
+    ]
   }
 ]

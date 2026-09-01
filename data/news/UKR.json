@@ -2,73 +2,106 @@
   "id": "UKR",
   "name": "Ukraine",
   "sample": true,
-  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "updatedAt": "2026-09-01T04:20:14.159Z",
   "daily": [
     {
-      "id": "ukr-d1",
+      "id": "ukr-d-1",
       "title": "General Staff operational update",
       "summary": "Daily operational summary from Ukraine's armed forces General Staff.",
       "category": "military",
       "source": "kyiv-independent",
       "url": null,
       "image": null,
-      "publishedAt": "2026-09-01T01:24:12.475Z",
+      "publishedAt": "2026-09-01T02:20:14.159Z",
       "sample": true
     },
     {
-      "id": "ukr-d2",
+      "id": "ukr-d-2",
       "title": "Government briefing on reconstruction funding",
       "summary": "Update on international reconstruction and reform financing.",
       "category": "politics",
       "source": "kyiv-post",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T22:24:12.475Z",
+      "publishedAt": "2026-08-31T23:20:14.159Z",
       "sample": true
     },
     {
-      "id": "ukr-d3",
+      "id": "ukr-d-3",
       "title": "Energy grid repair efforts after strikes",
       "summary": "Coverage of infrastructure repair work following attacks on energy infrastructure.",
       "category": "society",
       "source": "kyiv-independent",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T19:24:12.475Z",
+      "publishedAt": "2026-08-31T20:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "ukr-d-4",
+      "title": "Air defense interception summary",
+      "summary": "Daily summary of air-defense activity against incoming strikes.",
+      "category": "military",
+      "source": "unian",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-09-01T01:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "ukr-d-5",
+      "title": "Wartime economy: agricultural export corridor update",
+      "summary": "Coverage of grain and agricultural export logistics through Black Sea routes.",
+      "category": "economy",
+      "source": "kyiv-post",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T17:20:14.159Z",
       "sample": true
     }
   ],
   "weekly": [
     {
-      "id": "ukr-w1",
+      "id": "ukr-w-1",
       "title": "Weekly review: Western military aid packages",
       "summary": "A roundup of the week's announcements on allied military assistance.",
       "category": "military",
       "source": "kyiv-post",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-30T23:24:12.475Z",
+      "publishedAt": "2026-08-31T00:20:14.159Z",
+      "sample": true
+    },
+    {
+      "id": "ukr-w-2",
+      "title": "Weekly digest: humanitarian and displacement tracker",
+      "summary": "A roundup of the week's humanitarian-response coverage.",
+      "category": "society",
+      "source": "unian",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T12:20:14.159Z",
       "sample": true
     }
   ],
   "developing": [
     {
-      "id": "ukr-dev1",
+      "id": "ukr-dev-1",
       "title": "Frontline situation in eastern Ukraine",
       "summary": "Ongoing coverage of frontline developments from the Ukrainian side — cross-check against Russian state-media claims for the same story.",
       "category": "military",
       "source": "kyiv-independent",
       "url": null,
       "image": null,
-      "publishedAt": "2026-08-31T22:24:12.475Z",
+      "publishedAt": "2026-08-31T23:20:14.159Z",
       "sample": true,
       "keyDevelopments": [
         {
-          "at": "2026-08-30T01:24:12.475Z",
+          "at": "2026-08-30T02:20:14.159Z",
           "note": "Ukrainian General Staff reported defensive operations."
         },
         {
-          "at": "2026-08-31T22:24:12.475Z",
+          "at": "2026-08-31T23:20:14.159Z",
           "note": "Independent verification of territorial claims ongoing."
         }
       ]

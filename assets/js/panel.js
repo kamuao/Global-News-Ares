@@ -187,6 +187,27 @@ export function createPanel({ rootEl, emptyEl, contentEl, store }) {
     state = { mode: "conflict", id: conflict.id };
     const typeLabel = conflict.type.replace("-", " ");
 
+    const history = conflict.history || [];
+    const historyHtml = history.length
+      ? `<ol class="history-timeline">
+          ${history
+            .map(
+              (h) => `<li class="history-entry"><span class="history-period">${escapeHtml(h.period)}</span><p>${escapeHtml(h.text)}</p></li>`
+            )
+            .join("")}
+        </ol>`
+      : "";
+
+    // Conflict-specific curated coverage, then related country Military-category
+    // coverage, deduped so the same story never appears twice.
+    const seen = new Set();
+    const combinedNews = [...(conflict.news || []), ...relatedNews].filter((item) => {
+      const key = item.url || item.id;
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+
     contentEl.innerHTML = `
       <div class="panel-header">
         <button class="panel-close" id="panel-close-btn" aria-label="Close">✕</button>
@@ -200,10 +221,11 @@ export function createPanel({ rootEl, emptyEl, contentEl, store }) {
           <span>SINCE: ${conflict.since}</span>
         </div>
         <p class="conflict-summary">${escapeHtml(conflict.summary)}</p>
+        ${history.length ? `<h4 class="section-heading">HISTORY / TIMELINE</h4>${historyHtml}` : ""}
       </div>
-      <div class="panel-tabs"><button class="panel-tab active">RELATED MILITARY & POLITICAL COVERAGE</button></div>
+      <div class="panel-tabs"><button class="panel-tab active">RELATED COVERAGE <span class="count">${combinedNews.length}</span></button></div>
       <div class="news-list">
-        ${relatedNews.length ? relatedNews.map((item) => newsCard(item, store)).join("") : '<div class="empty-state">No related country feeds configured for this marker yet.</div>'}
+        ${combinedNews.length ? combinedNews.map((item) => newsCard(item, store)).join("") : '<div class="empty-state">No related coverage configured for this marker yet.</div>'}
       </div>
     `;
 
