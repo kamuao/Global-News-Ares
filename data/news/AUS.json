@@ -1,66 +1,285 @@
 {
   "id": "AUS",
   "name": "Australia",
-  "sample": true,
-  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "sample": false,
+  "updatedAt": "2026-09-01T06:19:08.038Z",
   "daily": [
     {
-      "id": "aus-d1",
-      "title": "Defence department briefing on AUKUS submarine program",
-      "summary": "Update on the trilateral AUKUS nuclear-powered submarine partnership.",
-      "category": "military",
+      "id": "nsrymt",
+      "title": "Osaka pays tribute to NBA great as she brings style and steel to US Open",
+      "summary": "Naomi Osaka unveils another stunning walk-on outfit at the US Open, before paying tribute to legendary NBA player Allen Iverson.",
+      "category": "politics",
       "source": "abc-au",
-      "url": null,
+      "url": "https://www.abc.net.au/news/2026-09-01/tennis-us-open-naomi-osaka-allen-iverson-fashion-style/107103512",
       "image": null,
-      "publishedAt": "2026-09-01T00:24:12.475Z",
-      "sample": true
+      "publishedAt": "2026-09-01T06:02:16.000Z",
+      "sample": false
     },
     {
-      "id": "aus-d2",
-      "title": "Parliament debates housing affordability package",
-      "summary": "Coverage of federal legislative debate on housing policy.",
-      "category": "politics",
-      "source": "smh",
-      "url": null,
-      "image": null,
-      "publishedAt": "2026-08-31T21:24:12.475Z",
-      "sample": true
-    }
-  ],
-  "weekly": [
-    {
-      "id": "aus-w1",
-      "title": "Weekly view: Pacific regional diplomacy",
-      "summary": "A roundup of the week's diplomatic engagement across the Pacific Islands region.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": null,
-      "image": null,
-      "publishedAt": "2026-08-30T19:24:12.475Z",
-      "sample": true
-    }
-  ],
-  "developing": [
-    {
-      "id": "aus-dev1",
-      "title": "AUKUS submarine program milestones",
-      "summary": "Ongoing, multi-year program coverage tracked as it reaches key milestones.",
+      "id": "2klu7y",
+      "title": "Labourer awarded $752k in damages after falling through skylight",
+      "summary": "A newly released Supreme Court judgment found the man's employer failed to cover up the skylight and then denied the accident had occurred.",
       "category": "military",
       "source": "abc-au",
-      "url": null,
+      "url": "https://www.abc.net.au/news/2026-09-01/scaffolding-worker-sues-act-height-safety-for-skylight-injuries/107103026",
       "image": null,
-      "publishedAt": "2026-08-31T03:24:12.475Z",
-      "sample": true,
-      "keyDevelopments": [
-        {
-          "at": "2026-08-27T03:24:12.475Z",
-          "note": "Program milestone review conducted with partner nations."
-        },
-        {
-          "at": "2026-08-31T05:24:12.475Z",
-          "note": "Budget and timeline update issued."
-        }
-      ]
+      "publishedAt": "2026-09-01T05:56:11.000Z",
+      "sample": false
+    },
+    {
+      "id": "ofr7ny",
+      "title": "Child protection worker allegedly sexually abused teenager in care",
+      "summary": "A child protection worker allegedly sexually abused a teenage boy with a mild intellectual disability while she was meant to be caring for him, and showered him with cash and gifts including pets and a PlayStation, a court has heard.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/sa-child-protection-worker-allegedly-sexually-abused-teenager/107102394",
+      "image": null,
+      "publishedAt": "2026-09-01T05:54:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "cb6bh0",
+      "title": "The number of patients stuck in Qld hospital beds has climbed to 1,400",
+      "summary": "Around three-quarters of patients stuck in Queensland hospital beds are elderly, but just 26 residential aged care beds were added to the system last financial year.",
+      "category": "health",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/stranded-australians-queensland-hospitals/107103338",
+      "image": null,
+      "publishedAt": "2026-09-01T05:47:31.000Z",
+      "sample": false
+    },
+    {
+      "id": "j1gx5h",
+      "title": "Teenager found guilty of stabbing murder of Melbourne teen Oscar Hamilton",
+      "summary": "A teenage boy has been found guilty of stabbing and killing Oscar Hamilton at a shopping centre in Melbourne's west in 2024.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/oscar-hamilton-stabbing-murder-guilty-verdict/107103600",
+      "image": null,
+      "publishedAt": "2026-09-01T05:38:03.000Z",
+      "sample": false
+    },
+    {
+      "id": "jf0mkt",
+      "title": "Man found guilty of creating sexualised deepfake images of Brisbane students",
+      "summary": "A man who created and distributed sexualised deepfake images of current and former Brisbane high school students and staff has been found guilty of more than a dozen charges.",
+      "category": "health",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/antonio-rotondo-guilty-creating-deepfake-images-of-students/107099192",
+      "image": null,
+      "publishedAt": "2026-09-01T05:32:34.000Z",
+      "sample": false
+    },
+    {
+      "id": "j6izy3",
+      "title": "'I punched him in the head': Body-cam footage from Town Hall protest emerges",
+      "summary": "New police body-cam footage from the February Town Hall protest has captured police boasting about punching protesters.",
+      "category": "society",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/nsw-town-hall-protest-nsw-police-body-cam-emerges-sydney/107103030",
+      "image": null,
+      "publishedAt": "2026-09-01T05:32:28.000Z",
+      "sample": false
+    },
+    {
+      "id": "5yjip4",
+      "title": "Materials to rebuild homes after disaster rise by 70 per cent in five years, report finds",
+      "summary": "According to a report released by the Insurance Council of Australia, the cost to build a home in Australia has risen almost 30 per cent in five years.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/cost-of-building-hoses-rises-austalia-insurance-council/107101110",
+      "image": null,
+      "publishedAt": "2026-09-01T05:13:31.000Z",
+      "sample": false
+    },
+    {
+      "id": "x8nc7p",
+      "title": "Is Marnus Labuschagne finally out of luck?",
+      "summary": "After spending years as one of the luckiest Test cricketers in the game, Marnus Labuschagne's fortunes appear to be turning and, unfortunately for him, so has his form.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/marnus-labuschagne-south-africa-out-of-luck-test-cricket/107102632",
+      "image": null,
+      "publishedAt": "2026-09-01T05:03:41.000Z",
+      "sample": false
+    },
+    {
+      "id": "6q465",
+      "title": "'Next moment the most important' for Longmuir's dominant Dockers",
+      "summary": "Fremantle is just three wins from the club's first-ever AFL premiership, but coach Justin Longmuir dismisses suggestions he will be using that as motivation heading into the finals.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/justin-longmuir-says-dockers-staying-in-the-moment-in-afl-finals/107102900",
+      "image": null,
+      "publishedAt": "2026-09-01T04:57:13.000Z",
+      "sample": false
+    },
+    {
+      "id": "ochfez",
+      "title": "Police charge man with alleged serious assault of two-month-old baby",
+      "summary": "Police charge a man with serious child harm offences following a more than year-long investigation into the alleged assault of a two-month-old baby.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/man-charged-with-alleged-assault-of-two-month-old/107102946",
+      "image": null,
+      "publishedAt": "2026-09-01T04:51:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "m5yu5n",
+      "title": "Two men charged by Victoria's construction sector corruption taskforce",
+      "summary": "Two men have been arrested by Victoria Police's anti-corruption taskforce, with allegations one of the men was responsible for more than $424,000 in fraud.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/victoria-police-taskforce-hawk-arrest/107102784",
+      "image": null,
+      "publishedAt": "2026-09-01T04:17:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "effv1s",
+      "title": "Coroner recommends hospital fix cross-border communication after death",
+      "summary": "A coroner is recommending a hospital improve its cross-border medical records following an inquest into the death of a 46-year-old patient who waited five hours for transfer.",
+      "category": "health",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/kate-manley-coronial-findings-albury-wodonga-health/107091868",
+      "image": null,
+      "publishedAt": "2026-09-01T04:15:03.000Z",
+      "sample": false
+    },
+    {
+      "id": "j1bmjf",
+      "title": "Uncertainty over job loss numbers as TMAG faces staff cut",
+      "summary": "Tasmania's cultural institutions are set to face another blow as the Tasmanian Museum and Art Gallery looks to reduce its workforce by 30 per cent, figures refuted by the state government.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/tasmanian-museum-and-art-gallery-job-losses-as-arts-funding-cuts/107098150",
+      "image": null,
+      "publishedAt": "2026-09-01T04:08:40.000Z",
+      "sample": false
+    },
+    {
+      "id": "9yu5xt",
+      "title": "Perth GP receives bravery commendation for disarming axe-wielding attacker",
+      "summary": "Fergus McCabe has been commended for bravery after he ran to the aid of his colleague, GP Anna Chaney, after a stalker entered her consulting room and wounded her in stomach, grabbing the axe and restraining the offender until police arrived.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/bravery-commendation-for-perth-gp-axe-attack/107102828",
+      "image": null,
+      "publishedAt": "2026-09-01T04:05:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "uwdkwu",
+      "title": "Hadley tells court Jones complainant 'broke down' discussing allegations",
+      "summary": "Hadley has been called to give evidence in relation to allegations that Mr Jones kissed and touched a young colleague in 2008, without the man's consent.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/nsw-alan-jones-trial-ray-hadley-evidence/107097694",
+      "image": null,
+      "publishedAt": "2026-09-01T04:01:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "5k79ot",
+      "title": "Energy watchdog slaps down billion-dollar bailout for transmission line",
+      "summary": "Australia's biggest transmission company's bid to pass a billion-dollar bill on to consumers for a bungled high-voltage power line has been slapped down by the regulator.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/regulator-rejects-bid-for-transgrid-bailout/107102136",
+      "image": null,
+      "publishedAt": "2026-09-01T03:58:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "zb1sq5",
+      "title": "$150k payment for 'flexible' work not a 'significant' sum, says Perrottet",
+      "summary": "Charles Perrottet was asked by the NSW Independent Commission Against Corruption whether he agreed $150,000 paid to his wife Anita was a significant figure for work done on a \"flexible level\".",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/nsw-icac-rosny-hearings-perrottet-defends-wifes-earnings/107102068",
+      "image": null,
+      "publishedAt": "2026-09-01T03:56:54.000Z",
+      "sample": false
+    },
+    {
+      "id": "i7c2ob",
+      "title": "Lawyer tells court triple murder survivor could be the killer",
+      "summary": "A lawyer tells the jury in the trial of Darryl Valroy Young that the acts his client stands accused of could have been committed by the man the prosecution says is the sole eyewitness.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/darryl-young-triple-murder-bogie-defence-address-jury-closing/107097166",
+      "image": null,
+      "publishedAt": "2026-09-01T03:42:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "av6xs6",
+      "title": "Cats coach speaks for first time since club's concussion fine",
+      "summary": "Geelong coach Chris Scott insists he is unsure if Jake Kolodjashnij will play for the Cats again following the club's concussion saga.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/cats-coach-speaks-for-first-time-since-club-concussion-fine/107102770",
+      "image": null,
+      "publishedAt": "2026-09-01T03:41:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "pj1nyh",
+      "title": "Phones and computers are about to be more expensive — thanks to AI",
+      "summary": "The price of phones, laptops and game consoles are rising thanks to a global shortage of their most important part.",
+      "category": "technology",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/how-the-ai-boom-launched-a-memory-shortage/106893046",
+      "image": null,
+      "publishedAt": "2026-09-01T03:19:59.000Z",
+      "sample": false
+    },
+    {
+      "id": "xuao2j",
+      "title": "Sydney teen admits planning CBD pressure cooker bomb attack",
+      "summary": "The teenage boy told a Sydney court he was considering carrying out a mass terror attack in the CBD after being radicalised on TikTok and other social media platforms.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/sydney-isis-inspired-teenager-pleads-guilty-terror-attack-plans/107102028",
+      "image": null,
+      "publishedAt": "2026-09-01T03:16:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "a2zwoh",
+      "title": "New hope in quest to solve mystery of MND hotspots",
+      "summary": "It is hoped new data from mandatory reporting of motor neurone disease (MND) cases will help researchers understand why there are hotspots in NSW, and what causes the disease.",
+      "category": "health",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/mnd-notifiable-disease-starts/107097432",
+      "image": null,
+      "publishedAt": "2026-09-01T03:03:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "g1lv94",
+      "title": "Sharks want to play their home NRL finals match at their home ground",
+      "summary": "Cameron McInnes would not be surprised to see the NRL deny Cronulla a home final at Shark Park, warning players were now used to head office making rule changes \"at the drop of a hat\".",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/cronulla-wants-to-play-finals-at-shark-park/107102256",
+      "image": null,
+      "publishedAt": "2026-09-01T02:24:03.000Z",
+      "sample": false
+    },
+    {
+      "id": "e2tvnq",
+      "title": "Civilian leader of US Army steps down after just 18 months",
+      "summary": "One of the highest-ranking civilian US military leaders departs, reportedly following tensions with Defense Secretary Pete Hegseth.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-01/army-secretary-dan-driscoll-stepping-down/107101744",
+      "image": null,
+      "publishedAt": "2026-09-01T02:23:19.000Z",
+      "sample": false
     }
-  ]
+  ],
+  "weekly": [],
+  "developing": []
 }
