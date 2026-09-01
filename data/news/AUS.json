@@ -1,0 +1,66 @@
+{
+  "id": "AUS",
+  "name": "Australia",
+  "sample": true,
+  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "daily": [
+    {
+      "id": "aus-d1",
+      "title": "Defence department briefing on AUKUS submarine program",
+      "summary": "Update on the trilateral AUKUS nuclear-powered submarine partnership.",
+      "category": "military",
+      "source": "abc-au",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-09-01T00:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "aus-d2",
+      "title": "Parliament debates housing affordability package",
+      "summary": "Coverage of federal legislative debate on housing policy.",
+      "category": "politics",
+      "source": "smh",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T21:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "weekly": [
+    {
+      "id": "aus-w1",
+      "title": "Weekly view: Pacific regional diplomacy",
+      "summary": "A roundup of the week's diplomatic engagement across the Pacific Islands region.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T19:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "developing": [
+    {
+      "id": "aus-dev1",
+      "title": "AUKUS submarine program milestones",
+      "summary": "Ongoing, multi-year program coverage tracked as it reaches key milestones.",
+      "category": "military",
+      "source": "abc-au",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T03:24:12.475Z",
+      "sample": true,
+      "keyDevelopments": [
+        {
+          "at": "2026-08-27T03:24:12.475Z",
+          "note": "Program milestone review conducted with partner nations."
+        },
+        {
+          "at": "2026-08-31T05:24:12.475Z",
+          "note": "Budget and timeline update issued."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "FRA",
+  "name": "France",
+  "sample": true,
+  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "daily": [
+    {
+      "id": "fra-d1",
+      "title": "Armed forces ministry updates on overseas deployments",
+      "summary": "Briefing on French military deployments and regional security cooperation.",
+      "category": "military",
+      "source": "france24",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T23:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "fra-d2",
+      "title": "National Assembly session on budget negotiations",
+      "summary": "Coverage of ongoing budget talks in the French parliament.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T21:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "weekly": [
+    {
+      "id": "fra-w1",
+      "title": "Weekly view: energy transition and nuclear policy",
+      "summary": "A week-in-review of France's nuclear and renewable energy policy debates.",
+      "category": "environment",
+      "source": "le-monde",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T17:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "fra-w2",
+      "title": "Industrial policy: aerospace sector developments",
+      "summary": "Roundup of the week's news from France's aerospace and defense industry.",
+      "category": "economy",
+      "source": "le-figaro",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T05:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "developing": [
+    {
+      "id": "fra-dev1",
+      "title": "Sahel security cooperation realignment",
+      "summary": "An evolving story on France's shifting military posture in West Africa.",
+      "category": "military",
+      "source": "france24",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T05:24:12.475Z",
+      "sample": true,
+      "keyDevelopments": [
+        {
+          "at": "2026-08-28T09:24:12.475Z",
+          "note": "Regional partners announced revised security arrangements."
+        },
+        {
+          "at": "2026-08-31T07:24:12.475Z",
+          "note": "Ministry statement on force posture adjustments."
+        }
+      ]
+    }
+  ]
+}

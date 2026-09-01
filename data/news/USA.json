@@ -1,0 +1,114 @@
+{
+  "id": "USA",
+  "name": "United States",
+  "sample": true,
+  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "daily": [
+    {
+      "id": "usa-d1",
+      "title": "Pentagon briefing outlines force posture updates",
+      "summary": "Daily defense department briefing covering troop rotations, readiness levels, and allied coordination.",
+      "category": "military",
+      "source": "military-times",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-09-01T00:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "usa-d2",
+      "title": "Congress debates annual defense appropriations",
+      "summary": "Lawmakers continue negotiations over the defense budget topline and procurement priorities.",
+      "category": "politics",
+      "source": "ap-news",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T22:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "usa-d3",
+      "title": "Federal Reserve commentary moves markets",
+      "summary": "Analysts parse the latest remarks from Fed officials for signals on interest-rate policy.",
+      "category": "economy",
+      "source": "wsj",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T21:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "usa-d4",
+      "title": "Wildfire season strains Western state resources",
+      "summary": "Fire crews across Western states report on containment efforts amid dry conditions.",
+      "category": "environment",
+      "source": "npr",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T19:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "weekly": [
+    {
+      "id": "usa-w1",
+      "title": "Weekly roundup: AI regulation hearings on Capitol Hill",
+      "summary": "A look back at the week's congressional hearings on artificial intelligence oversight.",
+      "category": "technology",
+      "source": "nyt",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T21:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "usa-w2",
+      "title": "State of the union: border and immigration policy debate",
+      "summary": "This week's developments in the ongoing national immigration policy debate.",
+      "category": "politics",
+      "source": "fox-news",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T11:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "usa-w3",
+      "title": "Public health officials review flu-season preparedness",
+      "summary": "A weekly digest of CDC guidance and state-level public health readiness.",
+      "category": "health",
+      "source": "npr",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T01:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "developing": [
+    {
+      "id": "usa-dev1",
+      "title": "Defense modernization program under Congressional review",
+      "summary": "An ongoing, multi-month review of a major defense modernization and procurement program.",
+      "category": "military",
+      "source": "military-times",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T15:24:12.475Z",
+      "sample": true,
+      "keyDevelopments": [
+        {
+          "at": "2026-08-29T15:24:12.475Z",
+          "note": "Program review announced by the relevant House and Senate committees."
+        },
+        {
+          "at": "2026-08-31T03:24:12.475Z",
+          "note": "Committee hearings held; agency officials testified on cost and schedule."
+        },
+        {
+          "at": "2026-09-01T01:24:12.475Z",
+          "note": "Interim findings expected to shape next budget cycle."
+        }
+      ]
+    }
+  ]
+}

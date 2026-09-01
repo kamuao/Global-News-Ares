@@ -1,0 +1,10 @@
+{
+  "_comment": "Local/regional drill-down areas nested under a parent country (data/countries.json). Each has its own data/news/<id>.json feed. lat/lon place a secondary marker on the map when the parent country is focused.",
+  "USA-CA-SAC": {
+    "name": "Sacramento, CA",
+    "parent": "USA",
+    "lat": 38.5816,
+    "lon": -121.4944,
+    "flag": "📍"
+  }
+}

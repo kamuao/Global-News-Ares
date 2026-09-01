@@ -1,0 +1,77 @@
+{
+  "id": "UKR",
+  "name": "Ukraine",
+  "sample": true,
+  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "daily": [
+    {
+      "id": "ukr-d1",
+      "title": "General Staff operational update",
+      "summary": "Daily operational summary from Ukraine's armed forces General Staff.",
+      "category": "military",
+      "source": "kyiv-independent",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-09-01T01:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "ukr-d2",
+      "title": "Government briefing on reconstruction funding",
+      "summary": "Update on international reconstruction and reform financing.",
+      "category": "politics",
+      "source": "kyiv-post",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T22:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "ukr-d3",
+      "title": "Energy grid repair efforts after strikes",
+      "summary": "Coverage of infrastructure repair work following attacks on energy infrastructure.",
+      "category": "society",
+      "source": "kyiv-independent",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T19:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "weekly": [
+    {
+      "id": "ukr-w1",
+      "title": "Weekly review: Western military aid packages",
+      "summary": "A roundup of the week's announcements on allied military assistance.",
+      "category": "military",
+      "source": "kyiv-post",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T23:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "developing": [
+    {
+      "id": "ukr-dev1",
+      "title": "Frontline situation in eastern Ukraine",
+      "summary": "Ongoing coverage of frontline developments from the Ukrainian side — cross-check against Russian state-media claims for the same story.",
+      "category": "military",
+      "source": "kyiv-independent",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T22:24:12.475Z",
+      "sample": true,
+      "keyDevelopments": [
+        {
+          "at": "2026-08-30T01:24:12.475Z",
+          "note": "Ukrainian General Staff reported defensive operations."
+        },
+        {
+          "at": "2026-08-31T22:24:12.475Z",
+          "note": "Independent verification of territorial claims ongoing."
+        }
+      ]
+    }
+  ]
+}

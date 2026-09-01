@@ -1,0 +1,77 @@
+{
+  "id": "CHN",
+  "name": "China",
+  "sample": true,
+  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "daily": [
+    {
+      "id": "chn-d1",
+      "title": "Defense ministry press conference summary",
+      "summary": "Official summary of the Ministry of National Defense's regular briefing.",
+      "category": "military",
+      "source": "xinhua",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-09-01T00:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "chn-d2",
+      "title": "State council economic policy statement",
+      "summary": "Coverage of the latest economic policy guidance from central authorities.",
+      "category": "economy",
+      "source": "china-daily",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T22:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "chn-d3",
+      "title": "Regional outlet: tech sector regulatory update",
+      "summary": "Independent regional coverage of technology-sector regulation.",
+      "category": "technology",
+      "source": "scmp",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T20:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "weekly": [
+    {
+      "id": "chn-w1",
+      "title": "Weekly digest: Belt and Road project updates",
+      "summary": "A roundup of the week's infrastructure diplomacy announcements.",
+      "category": "politics",
+      "source": "xinhua",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T19:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "developing": [
+    {
+      "id": "chn-dev1",
+      "title": "Taiwan Strait military activity",
+      "summary": "Ongoing coverage of naval and air activity in and around the Taiwan Strait.",
+      "category": "military",
+      "source": "scmp",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T17:24:12.475Z",
+      "sample": true,
+      "keyDevelopments": [
+        {
+          "at": "2026-08-29T05:24:12.475Z",
+          "note": "Increased patrol activity reported near the median line."
+        },
+        {
+          "at": "2026-08-31T18:24:12.475Z",
+          "note": "Taiwanese defense ministry issued a response statement."
+        }
+      ]
+    }
+  ]
+}

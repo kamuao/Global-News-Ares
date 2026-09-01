@@ -1,0 +1,88 @@
+{
+  "id": "GBR",
+  "name": "United Kingdom",
+  "sample": true,
+  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "daily": [
+    {
+      "id": "gbr-d1",
+      "title": "Ministry of Defence briefs on NATO exercise participation",
+      "summary": "Update on UK forces taking part in coordinated allied military exercises.",
+      "category": "military",
+      "source": "sky-news",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-09-01T00:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "gbr-d2",
+      "title": "Parliament debates energy policy bill",
+      "summary": "Commons debate covering the government's energy and household-bills strategy.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T22:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "gbr-d3",
+      "title": "Bank of England watched for rate signal",
+      "summary": "Markets react to the latest commentary from the Bank of England.",
+      "category": "economy",
+      "source": "the-guardian",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T20:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "weekly": [
+    {
+      "id": "gbr-w1",
+      "title": "Weekly digest: NHS winter capacity planning",
+      "summary": "A roundup of health-service preparedness stories from across the week.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T19:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "gbr-w2",
+      "title": "Tech sector: UK AI safety institute activity",
+      "summary": "This week's coverage of the UK's approach to AI safety research and regulation.",
+      "category": "technology",
+      "source": "telegraph",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T07:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "developing": [
+    {
+      "id": "gbr-dev1",
+      "title": "North Sea energy security review",
+      "summary": "Ongoing government review of North Sea energy infrastructure and security.",
+      "category": "economy",
+      "source": "the-guardian",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T09:24:12.475Z",
+      "sample": true,
+      "keyDevelopments": [
+        {
+          "at": "2026-08-28T19:24:12.475Z",
+          "note": "Review launched amid energy security concerns."
+        },
+        {
+          "at": "2026-08-31T12:24:12.475Z",
+          "note": "Industry stakeholders submitted comments."
+        }
+      ]
+    }
+  ]
+}

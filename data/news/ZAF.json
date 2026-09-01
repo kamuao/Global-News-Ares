@@ -1,0 +1,66 @@
+{
+  "id": "ZAF",
+  "name": "South Africa",
+  "sample": true,
+  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "daily": [
+    {
+      "id": "zaf-d1",
+      "title": "Defence force update on regional peacekeeping role",
+      "summary": "Coverage of South African National Defence Force participation in regional missions.",
+      "category": "military",
+      "source": "news24",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T23:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "zaf-d2",
+      "title": "Parliament debates energy grid reform",
+      "summary": "Update on legislative response to the country's electricity supply challenges.",
+      "category": "politics",
+      "source": "mail-guardian",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T21:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "weekly": [
+    {
+      "id": "zaf-w1",
+      "title": "Weekly digest: load-shedding and grid stability",
+      "summary": "A roundup of the week's power-supply reliability coverage.",
+      "category": "economy",
+      "source": "news24",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T21:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "developing": [
+    {
+      "id": "zaf-dev1",
+      "title": "Coalition government policy negotiations",
+      "summary": "Ongoing coverage of governing coalition policy coordination.",
+      "category": "politics",
+      "source": "mail-guardian",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T09:24:12.475Z",
+      "sample": true,
+      "keyDevelopments": [
+        {
+          "at": "2026-08-28T11:24:12.475Z",
+          "note": "Coalition partners met to align on legislative priorities."
+        },
+        {
+          "at": "2026-08-31T11:24:12.475Z",
+          "note": "Follow-up statement issued on areas of agreement and disagreement."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "PSE",
+  "name": "Palestine (Gaza & West Bank)",
+  "sample": true,
+  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "daily": [
+    {
+      "id": "pse-d1",
+      "title": "Gaza humanitarian situation update",
+      "summary": "Coverage of humanitarian conditions, aid access, and infrastructure in Gaza.",
+      "category": "society",
+      "source": "al-jazeera",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-09-01T00:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "pse-d2",
+      "title": "West Bank access and movement restrictions",
+      "summary": "Update on checkpoint and movement conditions across the West Bank.",
+      "category": "society",
+      "source": "middle-east-eye",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T22:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "weekly": [
+    {
+      "id": "pse-w1",
+      "title": "Weekly digest: reconstruction and aid tracker",
+      "summary": "A roundup of the week's aid-delivery and reconstruction coverage.",
+      "category": "society",
+      "source": "al-jazeera",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T21:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "developing": [
+    {
+      "id": "pse-dev1",
+      "title": "Gaza ceasefire and hostage-related negotiations",
+      "summary": "Ongoing, fast-moving negotiations story — check multiple sources given differing accounts.",
+      "category": "military",
+      "source": "al-jazeera",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T23:24:12.475Z",
+      "sample": true,
+      "keyDevelopments": [
+        {
+          "at": "2026-08-30T03:24:12.475Z",
+          "note": "Mediators reported renewed talks."
+        },
+        {
+          "at": "2026-08-31T23:24:12.475Z",
+          "note": "Palestinian officials issued a statement on humanitarian terms."
+        }
+      ]
+    }
+  ]
+}

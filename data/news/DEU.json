@@ -1,0 +1,77 @@
+{
+  "id": "DEU",
+  "name": "Germany",
+  "sample": true,
+  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "daily": [
+    {
+      "id": "deu-d1",
+      "title": "Bundeswehr modernization budget briefing",
+      "summary": "Update on Germany's defense spending trajectory and equipment programs.",
+      "category": "military",
+      "source": "dw",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-09-01T00:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "deu-d2",
+      "title": "Bundestag debates coalition economic agenda",
+      "summary": "Coverage of the governing coalition's economic policy negotiations.",
+      "category": "politics",
+      "source": "der-spiegel",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T22:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "weekly": [
+    {
+      "id": "deu-w1",
+      "title": "Weekly industrial output and export figures",
+      "summary": "A roundup of the week's German manufacturing and trade data.",
+      "category": "economy",
+      "source": "der-spiegel",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T21:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "deu-w2",
+      "title": "Climate policy: industrial decarbonization targets",
+      "summary": "This week's coverage of Germany's industrial climate policy.",
+      "category": "environment",
+      "source": "dw",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T09:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "developing": [
+    {
+      "id": "deu-dev1",
+      "title": "Defense procurement modernization fund",
+      "summary": "Ongoing coverage of the special defense modernization fund's disbursement.",
+      "category": "military",
+      "source": "bild",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T11:24:12.475Z",
+      "sample": true,
+      "keyDevelopments": [
+        {
+          "at": "2026-08-27T23:24:12.475Z",
+          "note": "Fund allocation plan presented to Bundestag committee."
+        },
+        {
+          "at": "2026-08-31T13:24:12.475Z",
+          "note": "Procurement contracts under committee review."
+        }
+      ]
+    }
+  ]
+}

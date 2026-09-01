@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ARES // Global News SITREP</title>
+  <meta name="description" content="An interactive world map for daily global and local news, sorted by category with source-bias transparency, active conflicts, and territorial disputes." />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%2305080a'/%3E%3Ctext x='50' y='68' font-size='64' text-anchor='middle' fill='%2321e29a'%3E%E2%97%88%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <div id="boot-screen" aria-hidden="true">
+    <pre id="boot-log"></pre>
+  </div>
+
+  <div class="crt-overlay" aria-hidden="true"></div>
+
+  <header class="hud-header">
+    <div class="hud-brand">
+      <span class="hud-brand-mark">◈</span>
+      <div class="hud-brand-text">
+        <span class="hud-title">ARES</span>
+        <span class="hud-subtitle">GLOBAL SITREP // NEWS COMMAND</span>
+      </div>
+    </div>
+
+    <div class="hud-search">
+      <span class="hud-search-icon">⌖</span>
+      <input id="search-input" type="text" placeholder="TARGET SEARCH — country, city, conflict…" autocomplete="off" />
+      <div id="search-results" class="hud-search-results" hidden></div>
+    </div>
+
+    <div class="hud-controls">
+      <div class="hud-clock" id="hud-clock">--:--:--Z</div>
+      <button id="mute-toggle" class="hud-btn" type="button" title="Toggle interface audio" aria-pressed="false">
+        <span class="icon-audio-on">♪ AUDIO</span>
+      </button>
+      <button id="legend-toggle" class="hud-btn" type="button" title="Toggle legend">LEGEND</button>
+    </div>
+  </header>
+
+  <main class="hud-main">
+    <aside class="hud-legend" id="legend" aria-label="Map legend">
+      <div class="legend-block">
+        <h3>Coverage</h3>
+        <ul class="legend-list">
+          <li><span class="legend-swatch" style="background:#0f2c26;border:1px solid var(--border-bright)"></span>Feed configured — click to open</li>
+          <li><span class="legend-swatch" style="background:#0c211c;border:1px solid #143229"></span>No feed yet</li>
+        </ul>
+      </div>
+      <div class="legend-block">
+        <h3>Source Bias</h3>
+        <ul id="legend-bias" class="legend-list"></ul>
+      </div>
+      <div class="legend-block">
+        <h3>Map Markers</h3>
+        <ul id="legend-conflicts" class="legend-list"></ul>
+      </div>
+      <div class="legend-block">
+        <h3>Categories</h3>
+        <ul id="legend-categories" class="legend-list"></ul>
+      </div>
+      <div class="legend-block legend-note">
+        Bias labels are editorial approximations meant for quick transparency, not an exact measurement.
+        Coverage is a curated sample of nations — see README to add more.
+      </div>
+    </aside>
+
+    <div class="map-wrap">
+      <svg id="world-map" role="img" aria-label="Interactive world map"></svg>
+
+      <div class="map-hud-frame" aria-hidden="true">
+        <span class="corner tl"></span><span class="corner tr"></span>
+        <span class="corner bl"></span><span class="corner br"></span>
+      </div>
+
+      <div class="map-status-bar">
+        <span>LAST SYNC: <b id="last-sync">--</b></span>
+        <span class="sep">//</span>
+        <span><b id="feed-count">0</b> COUNTRIES REPORTING</span>
+        <span class="sep">//</span>
+        <span><b id="conflict-count">0</b> ACTIVE MARKERS</span>
+        <span class="sep">//</span>
+        <span id="zoom-hint">SCROLL TO ZOOM · CLICK TO ENGAGE</span>
+      </div>
+
+      <div class="map-zoom-controls">
+        <button id="zoom-in" class="hud-btn small" type="button" aria-label="Zoom in">+</button>
+        <button id="zoom-reset" class="hud-btn small" type="button" aria-label="Reset view">⟲</button>
+        <button id="zoom-out" class="hud-btn small" type="button" aria-label="Zoom out">–</button>
+      </div>
+    </div>
+
+    <section class="hud-panel" id="news-panel" aria-live="polite">
+      <div class="panel-empty" id="panel-empty">
+        <p>◈ NO TARGET SELECTED</p>
+        <p class="panel-empty-sub">Click a highlighted nation or a conflict marker on the map to open its SITREP feed.</p>
+      </div>
+      <div class="panel-content" id="panel-content" hidden></div>
+    </section>
+  </main>
+
+  <footer class="hud-footer">
+    <span>ARES is an independent aggregator. Headlines link out to original publishers. Bias ratings are editorial, not authoritative.</span>
+    <span id="footer-fetch-note">Data refresh: see README for the daily automated-update pipeline.</span>
+  </footer>
+
+  <!-- Vendored, public-domain / open-license libraries (no runtime CDN dependency) -->
+  <script src="vendor/js/d3.min.js"></script>
+  <script src="vendor/js/topojson-client.min.js"></script>
+
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

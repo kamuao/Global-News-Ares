@@ -1,0 +1,77 @@
+{
+  "id": "RUS",
+  "name": "Russia",
+  "sample": true,
+  "updatedAt": "2026-09-01T03:24:12.475Z",
+  "daily": [
+    {
+      "id": "rus-d1",
+      "title": "Defense ministry statement on frontline operations",
+      "summary": "State media summary of the defense ministry's daily operational statement.",
+      "category": "military",
+      "source": "tass",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-09-01T01:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "rus-d2",
+      "title": "Kremlin readout on foreign policy meetings",
+      "summary": "Official readout of diplomatic meetings involving Russian officials.",
+      "category": "politics",
+      "source": "tass",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T22:24:12.475Z",
+      "sample": true
+    },
+    {
+      "id": "rus-d3",
+      "title": "Independent outlet: sanctions impact on economy",
+      "summary": "Independent Russian-language coverage of sanctions effects on trade and finance.",
+      "category": "economy",
+      "source": "moscow-times",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T20:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "weekly": [
+    {
+      "id": "rus-w1",
+      "title": "Weekly digest: state media military coverage",
+      "summary": "A roundup of the week's state-media reporting on military operations.",
+      "category": "military",
+      "source": "rt",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-30T21:24:12.475Z",
+      "sample": true
+    }
+  ],
+  "developing": [
+    {
+      "id": "rus-dev1",
+      "title": "Frontline situation in eastern Ukraine",
+      "summary": "Ongoing, contested reporting on frontline positions — coverage differs sharply between state and independent/foreign sources.",
+      "category": "military",
+      "source": "tass",
+      "url": null,
+      "image": null,
+      "publishedAt": "2026-08-31T21:24:12.475Z",
+      "sample": true,
+      "keyDevelopments": [
+        {
+          "at": "2026-08-30T03:24:12.475Z",
+          "note": "State media reported operational gains."
+        },
+        {
+          "at": "2026-08-31T21:24:12.475Z",
+          "note": "Independent and Ukrainian sources dispute the state account; cross-check multiple sources."
+        }
+      ]
+    }
+  ]
+}
