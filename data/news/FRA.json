@@ -1,121 +1,440 @@
 {
   "id": "FRA",
   "name": "France",
-  "sample": true,
-  "updatedAt": "2026-09-01T04:20:14.159Z",
+  "sample": false,
+  "updatedAt": "2026-09-01T06:19:01.459Z",
   "daily": [
     {
-      "id": "fra-d-1",
-      "title": "Armed forces ministry updates on overseas deployments",
-      "summary": "Briefing on French military deployments and regional security cooperation.",
-      "category": "military",
-      "source": "france24",
-      "url": null,
-      "image": null,
-      "publishedAt": "2026-09-01T00:20:14.159Z",
-      "sample": true
-    },
-    {
-      "id": "fra-d-2",
-      "title": "National Assembly session on budget negotiations",
-      "summary": "Coverage of ongoing budget talks in the French parliament.",
+      "id": "tnakqm",
+      "title": "Inondations dans l’Himalaya : un nouveau bilan fait état de 987 morts au Népal ; 1 000 morts au total avec le Tibet",
+      "summary": "Les autorités népalaises et chinoises sont toujours sans nouvelles de 4 462 personnes, six jours après la catastrophe.",
       "category": "politics",
       "source": "le-monde",
-      "url": null,
-      "image": null,
-      "publishedAt": "2026-08-31T22:20:14.159Z",
-      "sample": true
+      "url": "https://www.lemonde.fr/international/article/2026/09/01/inondations-dans-l-himalaya-un-nouveau-bilan-fait-etat-de-987-morts-au-nepal-1-000-morts-au-total-avec-le-tibet_6763178_3210.html",
+      "image": "https://img.lemde.fr/2026/09/01/343/0/4547/2273/644/322/60/0/faab5c7_ftp-1-tkquntl4qwlf-5967102-01-06.jpg",
+      "publishedAt": "2026-09-01T05:57:53.000Z",
+      "sample": false
     },
     {
-      "id": "fra-d-3",
-      "title": "France's nuclear deterrent modernization plan",
-      "summary": "Coverage of long-term investment plans for France's nuclear forces.",
+      "id": "ri6uol",
+      "title": "Government air strikes kill 20 alleged guerrillas in Colombia, president says",
+      "summary": "Fresh government air strikes have killed 20 alleged members of the Central General Staff (EMC) armed group in southern Colombia, the country's new right-wing President Abelardo de la Espriella said Monday. The new administration carried out two other deadly air strikes against suspected guerrillas in August, which sour",
       "category": "military",
-      "source": "le-figaro",
-      "url": null,
-      "image": null,
-      "publishedAt": "2026-08-31T19:20:14.159Z",
-      "sample": true
+      "source": "france24",
+      "url": "https://www.france24.com/en/americas/20260901-government-air-strikes-kill-20-alleged-guerrillas-in-colombia-president-says",
+      "image": "https://s.france24.com/media/display/2f57d844-a5c3-11f1-aeb0-005056a90284/w:1024/p:16x9/AP24236497026995.jpg",
+      "publishedAt": "2026-09-01T05:42:42.000Z",
+      "sample": false
     },
     {
-      "id": "fra-d-4",
-      "title": "Paris tech scene: AI startup funding roundup",
-      "summary": "Coverage of venture funding activity in France's technology sector.",
+      "id": "f6ar98",
+      "title": "'Sea Change: Much of the world's economic GDP has moved to the Asia-Pacific region' - Rana Mitter",
+      "summary": "François Picard is pleased to welcome Rana Mitter, historian, author and ST Lee Chair in US-Asia Relations at the Harvard Kennedy School. He sees the significance of the Shanghai Cooperation Organization as it pertains to the evolution of a changing international system. Once largely a symbolic vehicle for China and Ru",
+      "category": "technology",
+      "source": "france24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260901-sea-change-much-of-the-world-s-economic-gdp-has-moved-to-the-asia-pacific-region-rana-mitter",
+      "image": "https://s.france24.com/media/display/2dd430b4-a5c1-11f1-9d66-005056bf30b7/w:1024/p:16x9/EN-20260831-181003-181823-CS.jpg",
+      "publishedAt": "2026-09-01T05:22:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "8b6e0n",
+      "title": "Un nouvel épisode de chaleur « remarquable » attendu à partir de mercredi dans le sud de la France",
+      "summary": "Alors que le pays a subi une succession exceptionnelle de canicules au cours de l’été, les températures pourraient de nouveau atteindre au moins 35 °C dans certains départements.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/planete/article/2026/09/01/un-nouvel-episode-de-chaleur-remarquable-attendu-a-partir-de-mercredi-dans-le-sud-de-la-france_6763098_3244.html",
+      "image": "https://img.lemde.fr/2026/08/14/493/0/5049/2524/644/322/60/0/bebc45f_upload-1-wyqwoomrbpi9-euge-nie-baccotl1005932.jpg",
+      "publishedAt": "2026-09-01T03:45:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "r4k9wx",
+      "title": "Projet économique avorté de la FIFA : l’investisseur américain Joshua Kushner avoue ne pas avoir imaginé l’ampleur des réactions négatives",
+      "summary": "Le milliardaire a déclaré qu’il « ne se serait pas engagé » dans le plan du patron de la FIFA, Gianni Infantino, d’ouvrir la Coupe du monde à des investisseurs privés s’il avait anticipé la contestation. Mais il affirme soutenir les « motivations du projet ».",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/football/article/2026/09/01/projet-economique-avorte-de-la-fifa-l-investisseur-americain-joshua-kushner-avoue-ne-pas-avoir-imagine-l-ampleur-des-reactions-negatives_6763097_1616938.html",
+      "image": "https://img.lemde.fr/2026/09/01/225/0/3982/1991/644/322/60/0/4bdd1b1_ftp-1-frrkswv11cfd-2026-09-01t014110z-1844396407-rc22bma0okfx-rtrmadp-3-soccer-fifa-kushner.JPG",
+      "publishedAt": "2026-09-01T03:43:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "i64x2d",
+      "title": "Middle East live: Oil prices extend gains as US-Iran tensions flare again",
+      "summary": "Oil prices rose further Tuesday as renewed military exchanges between the United States and Iran, coupled with Donald Trump’s vow to hit Tehran “hard,” fueled fears of a broader escalation after weeks of relative calm. Follow our live blog for the latest developments.",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/middle-east/20260901-middle-east-live-oil-prices-extend-gains-as-us-iran-tensions-flare-again",
+      "image": "https://s.france24.com/media/display/af51be10-a542-11f1-b684-005056bfb2b6/w:1024/p:16x9/2026-08-31T081353Z-1164684493-RC2I9NA5KP2J-RTRMADP-3-IRAN-CRISIS-OMAN-HORMUZ.jpg",
+      "publishedAt": "2026-09-01T03:38:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "qri95g",
+      "title": "Comment Sébastien Lecornu espère faire adopter un budget minimaliste pour 2027",
+      "summary": "Le gouvernement a tenu un long séminaire, lundi 31 août, autour du prochain projet de loi de finances. En proposant un texte d’ampleur limitée, sans vraie baisse du déficit ni réforme majeure, le premier ministre espère obtenir le soutien décisif de certains députés socialistes.",
+      "category": "economy",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/01/comment-sebastien-lecornu-espere-faire-adopter-un-budget-minimaliste-pour-2027_6763095_823448.html",
+      "image": "https://img.lemde.fr/2026/08/30/914/2034/2966/1483/644/322/60/0/d83b560_upload-1-xgl9fi7vq16j-ad032-lab-rep-dsc04734.jpg",
+      "publishedAt": "2026-09-01T03:30:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "43xdur",
+      "title": "Donald Trump veut subventionner Hollywood pour rapatrier la production cinématographique aux Etats-Unis",
+      "summary": "Le président américain, qui défend la mise en place d’un système de crédits fiscaux fédéraux, espère qu’une solution bipartisane pourra se matérialiser au Congrès.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/culture/article/2026/09/01/donald-trump-veut-subventionner-hollywood-pour-rapatrier-la-production-cinematographique-aux-etats-unis_6763093_3246.html",
+      "image": "https://img.lemde.fr/2026/09/01/881/0/5650/2825/644/322/60/0/56bfca2_upload-1-vs31jy4talm2-063-2149063194.jpg",
+      "publishedAt": "2026-09-01T03:30:04.000Z",
+      "sample": false
+    },
+    {
+      "id": "xridrw",
+      "title": "En Ukraine, l’émergence des sociétés de sécurité spécialisées dans la protection antidrone des entreprises privées",
+      "summary": "La très rapide montée en intensité des attaques aériennes russes sur l’arrière du front ukrainien force Kiev à « externaliser » une partie de la défense antidrone au secteur privé.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/09/01/en-ukraine-l-emergence-des-societes-de-securite-specialisees-dans-la-protection-antidrone-des-entreprises-privees_6763094_3210.html",
+      "image": "https://img.lemde.fr/2026/08/31/303/0/4000/2000/644/322/60/0/460475e_upload-1-o1g2h0y5jdm5-reportage-de-fense-ae-rienne-prive-e-1.jpg",
+      "publishedAt": "2026-09-01T03:30:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "j8fytg",
+      "title": "Rentrée scolaire : ce qui attend les 11,6 millions d’élèves de retour en cours mardi",
+      "summary": "Outre l’interdiction du téléphone portable au lycée, cette rentrée est marquée par les conséquences d’une cyberattaque ayant visé l’éducation nationale, qui affecte encore les académies de Toulouse et de Nantes, et les élèves qui en dépendent.",
       "category": "technology",
       "source": "le-monde",
-      "url": null,
-      "image": null,
-      "publishedAt": "2026-08-31T17:20:14.159Z",
-      "sample": true
+      "url": "https://www.lemonde.fr/education/article/2026/09/01/rentree-scolaire-ce-qui-attend-les-11-6-millions-d-eleves-de-retour-en-cours-mardi_6763092_1473685.html",
+      "image": "https://img.lemde.fr/2026/08/28/0/0/6000/3000/644/322/60/0/62c925a_ftp-1-sq1jhnq05frf-5937645-01-06.jpg",
+      "publishedAt": "2026-09-01T03:15:08.000Z",
+      "sample": false
     },
     {
-      "id": "fra-d-5",
-      "title": "Farmers' protests over agricultural policy continue",
-      "summary": "Local coverage of ongoing agricultural-policy demonstrations.",
-      "category": "society",
-      "source": "france24",
-      "url": null,
-      "image": null,
-      "publishedAt": "2026-08-31T15:20:14.159Z",
-      "sample": true
-    }
-  ],
-  "weekly": [
-    {
-      "id": "fra-w-1",
-      "title": "Weekly view: energy transition and nuclear policy",
-      "summary": "A week-in-review of France's nuclear and renewable energy policy debates.",
-      "category": "environment",
+      "id": "mmuin3",
+      "title": "Dans le canal de Panama, El Niño impose une baisse du trafic maritime et l’envolée des prix de passage",
+      "summary": "Le phénomène climatique fait chuter les apports en eau dans le passage par lequel trasite habituellement 5 % du commerce mondial.",
+      "category": "politics",
       "source": "le-monde",
-      "url": null,
-      "image": null,
-      "publishedAt": "2026-08-30T18:20:14.159Z",
-      "sample": true
+      "url": "https://www.lemonde.fr/economie/article/2026/09/01/dans-le-canal-de-panama-el-nino-impose-une-baisse-du-trafic-maritime-et-l-envolee-des-prix-de-passage_6763087_3234.html",
+      "image": "https://img.lemde.fr/2026/08/31/449/0/6995/3497/644/322/60/0/a41f3cb_upload-1-m17zbiuna2rx-gettyimages-2280490961.jpg",
+      "publishedAt": "2026-09-01T03:00:13.000Z",
+      "sample": false
     },
     {
-      "id": "fra-w-2",
-      "title": "Industrial policy: aerospace sector developments",
-      "summary": "Roundup of the week's news from France's aerospace and defense industry.",
-      "category": "economy",
-      "source": "le-figaro",
-      "url": null,
-      "image": null,
-      "publishedAt": "2026-08-30T06:20:14.159Z",
-      "sample": true
-    },
-    {
-      "id": "fra-w-3",
-      "title": "Weekly defense digest: European strategic autonomy debate",
-      "summary": "A roundup of coverage on France's push for European defense autonomy.",
+      "id": "f3nn1s",
+      "title": "Russian missile and drone attack on Kyiv kills at least seven",
+      "summary": "A massive Russian missile and drone attack on Kyiv and its surrounding region killed at least seven people and wounded more than a dozen overnight, Ukrainian officials said Tuesday, as children prepared to return to school amid heightened fears of further strikes.",
       "category": "military",
       "source": "france24",
-      "url": null,
+      "url": "https://www.france24.com/en/europe/20260901-russian-missile-and-drone-attack-on-kyiv-kills-at-least-four",
+      "image": "https://s.france24.com/media/display/b3254e58-a5ab-11f1-a88b-005056bfb2b6/w:1024/p:16x9/AP26242478432296.jpg",
+      "publishedAt": "2026-09-01T02:26:54.000Z",
+      "sample": false
+    },
+    {
+      "id": "hffg09",
+      "title": "New York : une femme tuée à Times Square lors d’une attaque au couteau, l’assaillante abattue par la police",
+      "summary": "Selon les autorités qui excluent la piste terroriste, l’assaillante, qui a aussi blessé un homme, était connue pour des troubles psychiatriques. La police lui a tiré dessus alors qu’elle refusait de lâcher ses armes et s’approchait des agents.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/09/01/new-york-une-femme-tuee-a-times-square-lors-d-une-attaque-au-couteau-l-assaillante-abattue-par-la-police_6763054_3210.html",
+      "image": "https://img.lemde.fr/2026/08/31/1376/0/8256/4128/644/322/60/0/77efb62_ftp-1-xoymksyrqkrm-5965082-01-06.jpg",
+      "publishedAt": "2026-09-01T01:48:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "9iuvt0",
+      "title": "Meurtre de Tupac Shakur : Duane Davis reconnu coupable, trente ans après la mort du rappeur",
+      "summary": "L’ancien membre de gang, qui a déclaré vouloir faire appel, était poursuivi pour avoir commandité l’attaque contre la légende du rap et fourni l’arme du crime. Il encourt la perpétuité incompressible.",
+      "category": "society",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/09/01/meurtre-de-tupac-shakur-duane-davis-reconnu-coupable-trente-ans-apres-la-mort-du-rappeur_6763053_3210.html",
+      "image": "https://img.lemde.fr/2026/09/01/249/0/4816/2408/644/322/60/0/3e9635c_ftp-1-kyzuazswaawd-2026-09-01t011852z-1840940829-rc2u9nart7m9-rtrmadp-3-people-tupac-murder-court.JPG",
+      "publishedAt": "2026-09-01T01:46:49.000Z",
+      "sample": false
+    },
+    {
+      "id": "ojiz5t",
+      "title": "Duane “Keffe D” Davis found guilty in Tupac Shakur murder",
+      "summary": "Duane “Keffe D” Davis was found guilty Monday of orchestrating the 1996 murder of rap icon Tupac Shakur, becoming the first person convicted in the decades-old case. The 63-year-old faces a possible life sentence after a Las Vegas jury deliberated for less than three hours.",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/americas/20260901-duane-keffe-d-davis-found-guilty-in-tupac-shakur-murder",
+      "image": "https://s.france24.com/media/display/18f9a702-a59c-11f1-8391-005056bfb2b6/w:1024/p:16x9/AP26243678304338.jpg",
+      "publishedAt": "2026-09-01T00:53:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "tmj1kb",
+      "title": "EU suspends Brazilian meat imports over antibiotic compliance concerns",
+      "summary": "The European Union will suspend imports of Brazilian meat and other animal products from Thursday, citing concerns over Brazil’s compliance with EU rules on antibiotic use in livestock. The move affects poultry, beef, eggs and honey, with Brussels offering no timeline for when trade can resume.",
+      "category": "economy",
+      "source": "france24",
+      "url": "https://www.france24.com/en/europe/20260901-eu-suspends-brazilian-meat-imports-over-antibiotic-compliance-concerns",
+      "image": "https://s.france24.com/media/display/cc257d22-a599-11f1-9c0e-005056a97e36/w:1024/p:16x9/AP25216715663865.jpg",
+      "publishedAt": "2026-09-01T00:14:28.000Z",
+      "sample": false
+    },
+    {
+      "id": "l057wk",
+      "title": "Le secrétaire à l’armée de terre américain, Dan Driscoll, démissionne après plusieurs mois de tension avec Pete Hegseth",
+      "summary": "Ce proche du vice-président, J. D. Vance, a notamment été impliqué dans les négociations concernant la guerre en Ukraine. Aucune raison n’a été donnée pour expliquer son départ, mais ses rapports difficiles avec le secrétaire à la défense ont été largement rapportés par la presse.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/09/01/le-secretaire-a-l-armee-de-terre-americain-dan-driscoll-demissionne-apres-plusieurs-mois-de-tension-avec-pete-hegseth_6763020_3210.html",
+      "image": "https://img.lemde.fr/2026/08/31/269/1282/3368/1684/644/322/60/0/c090d04_upload-1-vbfdkhvptcul-063-2275279546.jpg",
+      "publishedAt": "2026-08-31T23:54:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "f2vt9y",
+      "title": "Melting Himalayas? Nepal disaster exposes growing risk of glacial flooding",
+      "summary": "One of the tragic consequences of global warming. Scientists will tell us whether receding glaciers are to blame for last Wednesday’s ice shelf collapse that triggered a catastrophic flood, cascading down more than 3,000 meters from the Chinese border into Nepal.",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260831-melting-himalayas-nepal-disaster-exposes-growing-risk-of-glacial-flooding",
+      "image": "https://s.france24.com/media/display/249699be-a563-11f1-a85a-005056bfb2b6/w:1024/p:16x9/2026-08-31T171033Z-78116127-RC2Y8NA7BWYN-RTRMADP-3-NEPAL-FLOODS.jpg",
+      "publishedAt": "2026-08-31T23:35:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "s492fc",
+      "title": "Glacial flood death toll surpasses 1,000 in Nepal and Tibet",
+      "summary": "Rescuers battled mud and debris Monday as the death toll from devastating glacial floods along the China-Nepal border topped 1,000, with nearly 4,500 people still missing. Rescue teams continued a desperate search for survivors as entire communities were swept away.",
+      "category": "environment",
+      "source": "france24",
+      "url": "https://www.france24.com/en/asia-pacific/20260831-glacial-flood-death-toll-surpasses-900-in-nepal-and-tibet",
+      "image": "https://s.france24.com/media/display/c71ef2e6-a593-11f1-b096-005056a90284/w:1024/p:16x9/AP26243178528758.jpg",
+      "publishedAt": "2026-08-31T23:34:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "y0uqqk",
+      "title": "La Cour suprême autorise la poursuite du chantier de la salle de bal à la Maison Blanche",
+      "summary": "Le refus de la plus haute juridiction des Etats-Unis de se prononcer sur le fond dans cette affaire et d’envisager la question des prérogatives du Congrès, la renvoyant en première instance, récompense la stratégie du fait accompli, choisie par Donald Trump.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/09/01/la-cour-supreme-autorise-la-poursuite-du-chantier-de-la-salle-de-bal-a-la-maison-blanche_6762954_3210.html",
+      "image": "https://img.lemde.fr/2026/08/28/81/0/2917/1458/644/322/60/0/275c998_ftp-1-rfcf4jufm015-5940617-01-06.jpg",
+      "publishedAt": "2026-08-31T23:20:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "5i0rl9",
+      "title": "Apologie du terrorisme : cinq rapporteurs spéciaux de l’ONU prennent la défense de Rima Hassan",
+      "summary": "Dans un courrier au gouvernement rendu public lundi, les rapporteurs expriment leurs « vives préoccupations » concernant l’eurodéputée « insoumise » d’origine palestinienne, qui est visée par plusieurs procédures judiciaires.",
+      "category": "military",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/societe/article/2026/08/31/apologie-du-terrorisme-cinq-rapporteurs-speciaux-de-l-onu-prennent-la-defense-de-rima-hassan_6762854_3224.html",
+      "image": "https://img.lemde.fr/2026/08/31/884/0/8103/4051/644/322/60/0/6c4ff3f_upload-1-nke01qgi01as-000-a6pf7fg.jpg",
+      "publishedAt": "2026-08-31T21:30:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "gucv6",
+      "title": "Les brèves critiques de la rentrée littéraire : Philippe Comar, Lucy Fricke, Kristina Gorcheva-Newberry…",
+      "summary": "Chaque semaine, une sélection de parutions récentes, au-delà des titres phares.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/critique-litteraire/article/2026/08/31/les-breves-critiques-de-la-rentree-litteraire-philippe-comar-lucy-fricke-kristina-gorcheva-newberry_6762821_5473203.html",
+      "image": "https://img.lemde.fr/2026/08/26/160/0/1920/960/644/322/60/0/e569f23_upload-1-v5k3jztdniru-generated-1787733396669.jpg",
+      "publishedAt": "2026-08-31T21:00:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "5awx81",
+      "title": "Xi, Putin hold talks ahead of Shanghai Cooperation Organization summit",
+      "summary": "Chinese President Xi Jinping and Russia's Vladimir Putin are among the heads of state attending a Shanghai Cooperation Organization summit taking place in Kyrgyzstan.  Iran's president Masoud Pezeshkian is also in attendance, where he held bilateral talks with India's Narendra Modi.  Marking its 25th anniversary this y",
+      "category": "technology",
+      "source": "france24",
+      "url": "https://www.france24.com/en/tv-shows/business/20260831-xi-putin-hold-talks-ahead-of-shanghai-cooperation-organization-summit",
+      "image": "https://s.france24.com/media/display/474e1ea4-a57d-11f1-a079-005056bf30b7/w:1024/p:16x9/capture-15294708146a95e88aba5648-08542646.jpg",
+      "publishedAt": "2026-08-31T20:51:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "ky9j7e",
+      "title": "Trump threatens to ‘hit Iran hard’ as strikes resume after month-long lull",
+      "summary": "President Donald Trump said Monday that the US would hit back against Iranian attacks on US targets in the Middle East, according to a Fox News reporter. The Iranian attacks were themselves a response to US strikes on an island in the Strait of Hormuz, the first flare-up in a month.",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/middle-east/20260831-trump-threatens-to-hit-iran-hard-as-strikes-resume-after-month-long-lull",
+      "image": "https://s.france24.com/media/display/6620eaf0-a51e-11f1-b104-005056bfb2b6/w:1024/p:16x9/2026-08-31T085336Z-115528668-RC2J9NAP5OBK-RTRMADP-3-IRAN-CRISIS-STRIKE.jpg",
+      "publishedAt": "2026-08-31T20:36:16.000Z",
+      "sample": false
+    },
+    {
+      "id": "9ywls8",
+      "title": "Kenya airport staff strike delays thousands of passengers",
+      "summary": "In tonight's edition, a workers' strike at Kenya's main airport leaves travelers grounded. Also, Ghanaian cocoa farmers are ramping up their pushback against a new law preventing them from using their land for anything else without permission. And in Tunisia, Sidi Bou Said's been recognized by UNESCO as being important",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/kenya-airport-staff-strike-delays-thousands-of-passengers",
+      "image": "https://s.france24.com/media/display/c6e5a218-a578-11f1-8eec-005056bf30b7/w:1024/p:16x9/WB220715-O-01-20260831-01.jpg",
+      "publishedAt": "2026-08-31T20:20:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "8nbrr3",
+      "title": "L’Union européenne annonce suspendre ses importations de viande brésilienne à partir de jeudi",
+      "summary": "Le Brésil avait été retiré en mai d’une liste européenne des pays qui respectent les règles de l’UE qui interdisent l’utilisation abusive d’antibiotiques dans l’élevage.",
+      "category": "technology",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/economie/article/2026/08/31/l-union-europeenne-annonce-suspendre-ses-importations-de-viande-bresilienne-a-partir-de-jeudi_6762819_3234.html",
+      "image": "https://img.lemde.fr/2026/08/31/224/0/2585/1292/644/322/60/0/f43520c_upload-1-gxon4vmk7b6z-000-339v8jm.jpg",
+      "publishedAt": "2026-08-31T20:04:20.000Z",
+      "sample": false
+    },
+    {
+      "id": "rg9mfx",
+      "title": "Marine Le Pen's National Rally plans to \"sanction\" the wearing of the veil with a fine",
+      "summary": "The National Rally plans to \"penalize the wearing of the Islamic veil\" with \"a fine\" if it comes to power, MP Jean-Philippe Tanguy, Marine Le Pen's lieutenant in the presidential election, stated on Sunday. \"We will obviously fight Islamist ideology and we will penalize the wearing of the veil, also in solidarity with ",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/marine-le-pen-s-national-rally-plans-to-sanction-the-wearing-of-the-veil-with-a-fine",
+      "image": "https://s.france24.com/media/display/84518dfc-a52a-11f1-984c-005056bf30b7/w:1024/p:16x9/2026-08-27T154621Z-1088021487-RC237NAUVKIC-RTRMADP-3-FRANCE-BUSINESS-POLITICS.jpg",
+      "publishedAt": "2026-08-31T20:01:16.000Z",
+      "sample": false
+    },
+    {
+      "id": "4uilcc",
+      "title": "Nepal disaster: fake and AI images flood social media as deaths mount",
+      "summary": "As deadly floods hit the Nepal-China border, social media is being flooded with fake and misleading footage. In Truth or Fake, Vedika Bahl goes through viral videos falsely linked to the disaster, including AI-generated content and old recycled footage from India, Chile and Alaska. Some posts have racked up millions of",
+      "category": "technology",
+      "source": "france24",
+      "url": "https://www.france24.com/en/nepal-disaster-fake-and-ai-images-flood-social-media-as-deaths-mount",
+      "image": "https://s.france24.com/media/display/3e5ae9d8-a570-11f1-9682-005056bf30b7/w:1024/p:16x9/capture-499210196a95d2ac205d05-65537713.jpg",
+      "publishedAt": "2026-08-31T20:00:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "rtesc9",
+      "title": "Macron seals €4.3-bn French frigate deal in Sweden",
+      "summary": "President Emmanuel Macron on Monday oversaw the signing of a 4.3-billion-euro ($4.9 billon) deal for Sweden to buy four French frigates as France and Sweden seek to tighten cooperation against a backdrop of growing Russian threats. Sweden is racing to boost its defences after Russia invaded Ukraine in 2022, with the No",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/video/20260831-macron-seals-%E2%82%AC4-3-bn-french-frigate-deal-in-sweden",
+      "image": "https://s.france24.com/media/display/ea2a337c-a53e-11f1-9c98-005056a97e36/w:1024/p:16x9/capture-13517109716a957fe9a180a3-87110240.jpg",
+      "publishedAt": "2026-08-31T19:28:22.000Z",
+      "sample": false
+    },
+    {
+      "id": "xrjohh",
+      "title": "Former French PM Édouard Balladur, once defeated by ally Jacques Chirac, dies at 97",
+      "summary": "Édouard Balladur, who served as prime minister of France from 1993 to 1995, died on Monday at the age of 97. He led a \"cohabitation\" government under Socialist president François Mitterrand before waging a bitter battle for the presidency against his friend Jacques Chirac in 1995 – a race he ultimately lost.",
+      "category": "health",
+      "source": "france24",
+      "url": "https://www.france24.com/en/france/20260831-former-french-prime-minister-%C3%A9douard-balladur-dies-at-97",
+      "image": "https://s.france24.com/media/display/9d353db6-e42d-11e9-9f39-005056bff430/w:1024/p:16x9/balladur-.jpg",
+      "publishedAt": "2026-08-31T18:46:34.000Z",
+      "sample": false
+    },
+    {
+      "id": "7hkgp2",
+      "title": "Edouard Balladur, ancien premier ministre, est mort à l’âge de 97 ans",
+      "summary": "Secrétaire général de l’Elysée sous Georges Pompidou, négociateur des accords de Grenelle, en 1968, chef du gouvernement sous François Mitterrand en 1993, il avait échoué face à Jacques Chirac lors de l’élection présidentielle de 1995. Personnage incontournable de la Vᵉ République, il s’est éteint lundi 31 août, à 97 a",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/disparitions/article/2026/08/31/edouard-balladur-ancien-premier-ministre-est-mort-a-l-age-de-97-ans_6762811_3382.html",
+      "image": "https://img.lemde.fr/2020/09/15/697/0/4212/2106/644/322/60/0/d43e28a_835439579-005-0001.jpg",
+      "publishedAt": "2026-08-31T18:42:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "yx1jl8",
+      "title": "Trump vows to hit back 'hard' after first exchange of fire with Iran in weeks",
+      "summary": "Donald Trump threatened to hit Iran \"hard\" after the two foes traded fire for the first time in over a month, while Iran's president warned that more fighting with the US was not in his country's interest. After six months of war, the foes remain at an impasse, with Iran keeping the strategic Strait of Hormuz closed an",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/trump-vows-to-hit-back-hard-after-first-exchange-of-fire-with-iran-in-weeks",
+      "image": "https://s.france24.com/media/display/61eaaa56-8a5d-11f1-8f74-005056a97e36/w:1024/p:16x9/000-C39X7A2.jpg",
+      "publishedAt": "2026-08-31T18:37:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "6nxa2n",
+      "title": "Hundreds feared stuck in hydropower tunnels as flood deaths surpass 950 in Nepal and China",
+      "summary": "Rescuers raced Monday to free hundreds of workers believed to be trapped in tunnels at hydropower sites that were buried in mud by catastrophic flooding on the Nepal-China border, as the death toll climbed and increasingly desperate families searched for missing loved ones. FRANCE 24's Eliza Herbert reports.",
+      "category": "environment",
+      "source": "france24",
+      "url": "https://www.france24.com/en/hundreds-feared-stuck-in-hydropower-tunnels-as-flood-deaths-surpass-950-in-nepal-and-china",
+      "image": "https://s.france24.com/media/display/abe94334-a569-11f1-a255-005056bfb2b6/w:1024/p:16x9/EN-20260831-200222-200417-CS.jpg",
+      "publishedAt": "2026-08-31T18:34:31.000Z",
+      "sample": false
+    },
+    {
+      "id": "ryn9o8",
+      "title": "Raising the Altalena: Netanyahu digs up sunken 1948 arms ship in ‘pre-election stunt’",
+      "summary": "A ship carrying arms for a right-wing militia, the Altalena was sunk 78 years ago off the coast of Tel Aviv at the orders of Israel’s founders. The discovery of its wreckage last week has given the country’s right-wing government ammunition to target the left and attempt to redirect the campaign for legislative electio",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/middle-east/20260831-raising-altalena-netanyahu-digs-up-sunken-1948-arms-ship-irgun-pre-election-stunt",
+      "image": "https://s.france24.com/media/display/0ab78be2-a2bc-11f1-a8e8-005056bfb2b6/w:1024/p:16x9/Altalena-off-Tel-Aviv-beach.jpg",
+      "publishedAt": "2026-08-31T16:54:13.000Z",
+      "sample": false
+    },
+    {
+      "id": "uux5cb",
+      "title": "France targets Shein and Temu with new fast fashion levy",
+      "summary": "Starting this week, France will charge a penalty on cheaply made clothing sold by ultra-fast fashion retailers, with the fee reaching nearly €20 per item by 2030. Aimed at platforms like Shein, Temu and AliExpress, the levy follows a June law targeting disposable fashion's environmental toll, though rival brands like H",
+      "category": "environment",
+      "source": "france24",
+      "url": "https://www.france24.com/en/france/20260831-france-targets-shein-and-temu-with-new-fast-fashion-levy",
+      "image": "https://s.france24.com/media/display/b81f0872-a55b-11f1-bfba-005056bfb2b6/w:1024/p:16x9/2026-08-31T095850Z-1200926585-RC27HIARHQ0D-RTRMADP-3-SHEIN-IPO.jpg",
+      "publishedAt": "2026-08-31T15:55:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "xrma1r",
+      "title": "Nepal floods 'unprecedented', requires new 'engineering approaches, risk-sensitive urban planning'",
+      "summary": "Genie Godula is pleased to welcome Dr. Basanta Raj Adhikari, Director of the Center for Disaster Studies at Tribhuvan University’s Institute of Engineering.  He describes the disaster as an illustration of the limits of conventional prevention in the Himalayas. With flood velocities estimated at 170 to 180 kilometres p",
+      "category": "environment",
+      "source": "france24",
+      "url": "https://www.france24.com/en/nepal-floods-unprecedented-requires-new-engineering-approaches-risk-sensitive-urban-planning",
+      "image": "https://s.france24.com/media/display/4f79b8a8-a551-11f1-990a-005056bf30b7/w:1024/p:16x9/EN-20260831-130116-130953-CS.jpg",
+      "publishedAt": "2026-08-31T15:52:40.000Z",
+      "sample": false
+    },
+    {
+      "id": "yalg8e",
+      "title": "Latest flare-up between US and Iran bring conflict's lull to an end",
+      "summary": "Iran's foreign minister has accused Israel's Benjamin Netanyahu of tricking the United States into war with the Islamic Republic. Over six months into the conflict, there appears to be no end in sight. This after the US struck sites in Iran, prompting Tehran to respond. An April ceasefire brought an end to intense figh",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/latest-flare-up-between-us-and-iran-bring-conflict-s-lull-to-an-end",
+      "image": "https://s.france24.com/media/display/af51be10-a542-11f1-b684-005056bfb2b6/w:1024/p:16x9/2026-08-31T081353Z-1164684493-RC2I9NA5KP2J-RTRMADP-3-IRAN-CRISIS-OMAN-HORMUZ.jpg",
+      "publishedAt": "2026-08-31T15:33:57.000Z",
+      "sample": false
+    },
+    {
+      "id": "6k9wt5",
+      "title": "🔴 Lionel Messi retires from Argentina national team after 21 years",
+      "summary": "",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/sport/20260831-lionel-messi-retires-from-argentina-national-team-after-21-years",
       "image": null,
-      "publishedAt": "2026-08-29T18:20:14.159Z",
-      "sample": true
+      "publishedAt": "2026-08-31T15:31:43.000Z",
+      "sample": false
     }
   ],
+  "weekly": [],
   "developing": [
     {
-      "id": "fra-dev-1",
-      "title": "Sahel security cooperation realignment",
-      "summary": "An evolving story on France's shifting military posture in West Africa.",
+      "id": "i64x2d",
+      "title": "Middle East live: Oil prices extend gains as US-Iran tensions flare again",
+      "summary": "Oil prices rose further Tuesday as renewed military exchanges between the United States and Iran, coupled with Donald Trump’s vow to hit Tehran “hard,” fueled fears of a broader escalation after weeks of relative calm. Follow our live blog for the latest developments.",
       "category": "military",
       "source": "france24",
-      "url": null,
-      "image": null,
-      "publishedAt": "2026-08-31T06:20:14.159Z",
-      "sample": true,
-      "keyDevelopments": [
-        {
-          "at": "2026-08-28T10:20:14.159Z",
-          "note": "Regional partners announced revised security arrangements."
-        },
-        {
-          "at": "2026-08-31T08:20:14.159Z",
-          "note": "Ministry statement on force posture adjustments."
-        }
-      ]
+      "url": "https://www.france24.com/en/middle-east/20260901-middle-east-live-oil-prices-extend-gains-as-us-iran-tensions-flare-again",
+      "image": "https://s.france24.com/media/display/af51be10-a542-11f1-b684-005056bfb2b6/w:1024/p:16x9/2026-08-31T081353Z-1164684493-RC2I9NA5KP2J-RTRMADP-3-IRAN-CRISIS-OMAN-HORMUZ.jpg",
+      "publishedAt": "2026-09-01T03:38:18.000Z",
+      "sample": false
     }
   ]
 }

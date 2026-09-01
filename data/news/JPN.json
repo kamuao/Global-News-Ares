@@ -1,99 +1,340 @@
 {
   "id": "JPN",
   "name": "Japan",
-  "sample": true,
-  "updatedAt": "2026-09-01T04:20:14.159Z",
+  "sample": false,
+  "updatedAt": "2026-09-01T06:19:06.155Z",
   "daily": [
     {
-      "id": "jpn-d-1",
-      "title": "Ministry of Defense briefing on regional posture",
-      "summary": "Update on Japan's Self-Defense Forces regional deployments and readiness.",
-      "category": "military",
-      "source": "japan-times",
-      "url": null,
-      "image": null,
-      "publishedAt": "2026-09-01T01:20:14.159Z",
-      "sample": true
-    },
-    {
-      "id": "jpn-d-2",
-      "title": "Diet session on fiscal policy",
-      "summary": "Coverage of budget deliberations in Japan's National Diet.",
+      "id": "tw2kvc",
+      "title": "Peru is losing a battle against illegal gold mining in its rainforests",
+      "summary": "Even when operations to disrupt illegal gold mines go according to plan, it's only a matter of days before miners return, said a federal prosecutor involved in the operations.",
       "category": "politics",
-      "source": "nhk",
-      "url": null,
-      "image": null,
-      "publishedAt": "2026-08-31T22:20:14.159Z",
-      "sample": true
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/01/world/crime-legal/peru-illegal-gold-mining/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560504.jpg",
+      "publishedAt": "2026-09-01T05:49:00.000Z",
+      "sample": false
     },
     {
-      "id": "jpn-d-3",
-      "title": "Defense budget to fund counterstrike capability",
-      "summary": "Coverage of Japan's defense-spending plans for new strike capabilities.",
-      "category": "military",
-      "source": "asahi-shimbun",
-      "url": null,
-      "image": null,
-      "publishedAt": "2026-08-31T19:20:14.159Z",
-      "sample": true
-    },
-    {
-      "id": "jpn-d-4",
-      "title": "Bank of Japan policy watched for yen impact",
-      "summary": "Markets coverage of Bank of Japan monetary-policy decisions.",
-      "category": "economy",
-      "source": "nhk",
-      "url": null,
-      "image": null,
-      "publishedAt": "2026-08-31T17:20:14.159Z",
-      "sample": true
-    }
-  ],
-  "weekly": [
-    {
-      "id": "jpn-w-1",
-      "title": "Weekly view: semiconductor industry policy",
-      "summary": "A roundup of the week's technology-industry policy coverage.",
+      "id": "te6rd",
+      "title": "Apple claims OpenAI is using confidential Apple material and destroying evidence",
+      "summary": "A court brief has been filed in support of Apple's motion for expedited pretrial fact-finding in the lawsuit, which accuses the ChatGPT-maker of stealing trade secrets.",
       "category": "technology",
-      "source": "asahi-shimbun",
-      "url": null,
-      "image": null,
-      "publishedAt": "2026-08-30T18:20:14.159Z",
-      "sample": true
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/01/tech/apple-openai-evidence-trade-secrets/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560534.jpg",
+      "publishedAt": "2026-09-01T05:44:00.000Z",
+      "sample": false
     },
     {
-      "id": "jpn-w-2",
-      "title": "Weekly digest: regional defense cooperation",
-      "summary": "A roundup of coverage on trilateral defense coordination in the region.",
+      "id": "rfmt9l",
+      "title": "Lindsey Vonn’s ‘long road’ back still includes ACL repair",
+      "summary": "Vonn, 41, tore her ACL in ​a World Cup race in Switzerland on Jan. 30, just a week ​before the start of the Milano Cortina Olympics.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/olympics/2026/09/01/lindsey-vonn-acl-surgery/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560630.jpg",
+      "publishedAt": "2026-09-01T05:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "890c9f",
+      "title": "Victims of 2001 fire in Tokyo’s Kabukicho remembered",
+      "summary": "Bereaved loved ones paid their respects at the site of the early-morning fire that claimed 44 lives 25 years ago.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/01/japan/kabukicho-tokyo-fire-remember/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560537.jpg",
+      "publishedAt": "2026-09-01T05:22:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "hiu6gt",
+      "title": "Five missing Japanese nationals highlighted in top envoy’s dialogue with Nepal",
+      "summary": "The Japanese government has decided to provide blankets, tents and other relief goods, and is considering dispatching a disaster relief team.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/01/japan/society/japan-foreign-minister-nepal-flood-search-request/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560538.jpg",
+      "publishedAt": "2026-09-01T05:06:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "oswq2t",
+      "title": "Osaka brings style and steel for winning start to U.S. Open",
+      "summary": "Naomi Osaka unveiled another bold Grand Slam walk-on outfit before battling to a victory over unseeded Russian Anastasia Zakharova.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/01/tennis/osaka-us-open-start/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560623.jpg",
+      "publishedAt": "2026-09-01T05:06:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "b1cfcn",
+      "title": "Japan and Belgium defense ministers agree to deepen security ties",
+      "summary": "Defense Minister Shinjiro Koizumi welcomed Belgium's first assignment of a defense attache to its embassy in Tokyo, describing the move as highly significant.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/01/japan/politics/japan-belgium-defense-ministers-talk/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560535.jpg",
+      "publishedAt": "2026-09-01T05:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "5lnhjf",
+      "title": "Japan’s Kiuchi says record budget requests need broad comparison",
+      "summary": "The economic and fiscal policy minister added that next year's budget should properly reflect rising prices and wages \"while strengthening the economy's growth potential.\"",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/01/economy/kiuchi-budget-requests-comparison/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560547.jpg",
+      "publishedAt": "2026-09-01T04:56:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "uwt4ib",
+      "title": "North Korea-U.S. summit ‘possible at any time,’ Seoul spy agency says",
+      "summary": "South Korea's National Intelligence Service has analyzed that while there is no known concrete contact between the two sides, there are signs of dialogue.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/01/asia-pacific/politics/us-north-korea-talks-seoul-spy-agency/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560624.jpg",
+      "publishedAt": "2026-09-01T04:43:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xrs5ch",
+      "title": "Saka earns Arsenal narrow victory at troubled Villa",
+      "summary": "Aston Villa remains pointless and without a goal and will be anxious to try and boost its squad ahead of the transfer window closing on Tuesday.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/01/soccer/saka-arsenal-villa/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560597.jpg",
+      "publishedAt": "2026-09-01T04:34:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "gqb5fw",
+      "title": "Giants receiver Nabers praises OBJ for leadership",
+      "summary": "Malik Nabers is keeping the timetable for his return private, but the Giants receiver is excited about the return of Odell Beckham Jr., who earned a place on the 53-man roster.",
+      "category": "health",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/01/more-sports/malik-nabers-obj-giants/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560588.jpg",
+      "publishedAt": "2026-09-01T04:25:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "a7pcta",
+      "title": "Argentines hoped Messi would stay forever",
+      "summary": "Lionel Messi's long-anticipated international retirement still came as a shock in Argentina, where the World Cup winner became far more than a soccer star.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/01/soccer/messi-argentina-retirement/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560570.jpg",
+      "publishedAt": "2026-09-01T04:16:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "hgutdy",
+      "title": "Easy Japanese in focus as way to deliver information to foreign nationals",
+      "summary": "A survey targeting foreign nationals living in Tokyo found 41.3% want to read information in easy Japanese, higher than 35.9% seeking information in English.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/01/japan/easy-japanese-information-foreigners/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560494.jpg",
+      "publishedAt": "2026-09-01T03:51:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "2oqlgd",
+      "title": "Ministry and agency tax system reform requests focus on economic strength",
+      "summary": "A tax reform package for the fiscal year starting next April will be compiled at the end of this year following examinations of the requests.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/01/economy/tax-reform-requests/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560518.jpg",
+      "publishedAt": "2026-09-01T03:46:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "iepotn",
+      "title": "U.S. Army Secretary Dan Driscoll resigns after clash with Pete Hegseth",
+      "summary": "U.S. Army Secretary Dan Driscoll's resignation leaves the service without several top leaders even as the conflict with Iran continues.",
       "category": "military",
       "source": "japan-times",
-      "url": null,
-      "image": null,
-      "publishedAt": "2026-08-30T04:20:14.159Z",
-      "sample": true
+      "url": "https://www.japantimes.co.jp/news/2026/09/01/world/politics/us-army-secretary-resigns/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560598.jpg",
+      "publishedAt": "2026-09-01T03:43:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "gij36g",
+      "title": "Japan’s companies boost capital investment as profits surge",
+      "summary": "The results are the latest sign that the corporate sector is coping fairly well with the fallout from the Middle East conflict.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/01/companies/capital-expenditure-boost/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560527.jpg",
+      "publishedAt": "2026-09-01T03:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "7j44pg",
+      "title": "Britain’s universities bet on foreign students. Now they’re turning elsewhere.",
+      "summary": "Two mid-ranking institutions are merging into one of the U.K.'s biggest, forging a blueprint for others in the economically challenged sector to follow.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/01/britain-universities-foreign-students/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560516.jpg",
+      "publishedAt": "2026-09-01T03:16:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "m24qki",
+      "title": "30 years on, former gang member found guilty of murdering Tupac Shakur",
+      "summary": "The jury in a Las Vegas court found Duane \"Keffe D\" Davis guilty of murder after just a few hours of deliberation.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/culture/2026/09/01/entertainment-news/suspect-guilty-tupac-shakur-murder/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560500.jpg",
+      "publishedAt": "2026-09-01T02:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "f8a52b",
+      "title": "China warns of ‘consequences’ over Taiwan presence at Pacific leaders meeting",
+      "summary": "China views Taiwan as its own territory, and China-Taiwan tensions have featured prominently at the annual Pacific Islands Forum, which is intended to demonstrate regional unity.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/01/asia-pacific/politics/china-taiwan-pacific-leaders-meeting/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560497.jpg",
+      "publishedAt": "2026-09-01T02:51:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ub0mdm",
+      "title": "Honda and Nissan to jointly develop components for software-defined vehicles",
+      "summary": "The move is aimed at splitting huge development costs and countering U.S. electric vehicle giant Tesla and Chinese competitors that lead the field.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/01/companies/honda-nissan-joint-development/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560517.jpg",
+      "publishedAt": "2026-09-01T02:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "u5v5j2",
+      "title": "Settlement requires Meta to check young users’ ages. How will that work?",
+      "summary": "The owner of Facebook and Instagram recently came to an $18 billion legal settlement with U.S. states that is aimed at curbing children's use of social media.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/01/tech/meta-settlement-user-ages-explainer/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560496.jpg",
+      "publishedAt": "2026-09-01T02:46:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "cf6ux0",
+      "title": "Modi tells Putin that the war in Ukraine must end, for humanity’s sake",
+      "summary": "The Indian prime minister made his comments at the start of talks with the Russian president in the Kyrgyz capital Bishkek.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/01/asia-pacific/politics/india-modi-russia-putin-ukraine/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560499.jpg",
+      "publishedAt": "2026-09-01T02:43:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "9fl38i",
+      "title": "The ICC’s reality check in a multipolar world",
+      "summary": "Preserving the International Criminal Court may require limits on its authority.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/01/japan/international-criminal-court-tomoko-akane-japan-response/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560477.jpg",
+      "publishedAt": "2026-09-01T02:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "5um8fb",
+      "title": "Japan prisons roll out facility visits to promote dialogue with citizens",
+      "summary": "The interactive visit program began in November 2024 at prisons across the country to reform the organizational culture, which had tended to be closed.",
+      "category": "society",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/01/japan/society/japan-prisons-citizens-dialogue/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560484.jpg",
+      "publishedAt": "2026-09-01T02:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "qmo0f1",
+      "title": "Conducting diplomacy with America’s showman-in-chief",
+      "summary": "Negotiating with Trump requires understanding the strategy, psychology and performance behind his actions.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/01/world/trump-diplomacy-showman-japan-canada-relations/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560481.jpg",
+      "publishedAt": "2026-09-01T02:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "goffv0",
+      "title": "Bessent expects Japan to take action to boost yen, signals BOJ rate-hike chance",
+      "summary": "U.S. Treasury Secretary Scott Bessent's calls for Bank of Japan rate hikes have been among the factors that led markets to nearly fully price in the chance of a September hike.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/01/economy/bessent-japan-yen-boj-rate-hike/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560486.jpg",
+      "publishedAt": "2026-09-01T02:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1eade0",
+      "title": "Government asks city of Hitachiomiya to accept nuclear waste site survey",
+      "summary": "If realized, Hitachiomiya would become the fifth site in the country to accept such a survey.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/01/japan/hitachiomiya-nuclear-waste-site-survey/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/31/thumbs/400x400/560443.jpg",
+      "publishedAt": "2026-09-01T01:56:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "a00nh7",
+      "title": "Trump’s Venezuela deal leaves $100 billion question unanswered",
+      "summary": "The White House hasn't explained where the $100 billion in expected investment for a new oil venture in Venezuela is supposed to come from.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/01/world/politics/trump-venezuela-deal-100-billion/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560471.jpg",
+      "publishedAt": "2026-09-01T01:41:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "2n5or5",
+      "title": "How severe are Indonesia’s wildfires?",
+      "summary": "Authorities are on high alert as they work to contain the damage and avoid the devastation that hit in 2015, the last time it faced such \"super-El Nino\" weather conditions.",
+      "category": "environment",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/01/asia-pacific/indonesia-wildfires-explainer/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560474.jpg",
+      "publishedAt": "2026-09-01T01:36:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "jnmf5n",
+      "title": "Nepal PM demands climate action after Himalayan disaster",
+      "summary": "While the exact cause of the collapse is unclear, climate change is causing glaciers to melt worldwide, increasing the risk of such disasters.",
+      "category": "environment",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/environment/2026/09/01/climate-change/nepal-pm-climate-himalayan-disaster/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/01/thumbs/400x400/560480.jpg",
+      "publishedAt": "2026-09-01T01:11:00.000Z",
+      "sample": false
     }
   ],
-  "developing": [
-    {
-      "id": "jpn-dev-1",
-      "title": "Regional maritime security cooperation",
-      "summary": "Ongoing coverage of trilateral and multilateral maritime security coordination.",
-      "category": "military",
-      "source": "japan-times",
-      "url": null,
-      "image": null,
-      "publishedAt": "2026-08-31T14:20:14.159Z",
-      "sample": true,
-      "keyDevelopments": [
-        {
-          "at": "2026-08-28T10:20:14.159Z",
-          "note": "Joint exercise announced with regional partners."
-        },
-        {
-          "at": "2026-08-31T17:20:14.159Z",
-          "note": "Exercise proceeded; officials issued a joint statement."
-        }
-      ]
-    }
-  ]
+  "weekly": [],
+  "developing": []
 }
