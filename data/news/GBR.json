@@ -2,66 +2,814 @@
   "id": "GBR",
   "name": "United Kingdom",
   "sample": false,
-  "updatedAt": "2026-09-01T06:19:01.168Z",
+  "updatedAt": "2026-09-02T00:22:57.324Z",
   "daily": [
     {
+      "id": "g4ekob",
+      "title": "In the studio with Kasabian: 'We never thought we'd see success again'",
+      "summary": "The rock band invite us into the studio to talk about the unexpected \"third act\" of their career.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/ce301e7w2qvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03db/live/3655de80-a5ef-11f1-8348-fb0cb1cd9761.jpg",
+      "publishedAt": "2026-09-01T23:56:25.000Z",
+      "sample": false
+    },
+    {
+      "id": "1nmd84",
+      "title": "Range Rover launches first fully electric model",
+      "summary": "The vehicle is being built at JLR's manufacturing plant in Solihull, in the West Midlands.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/clyk5016mpyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9615/live/00a52b50-a613-11f1-9a0e-e95c171695e2.jpg",
+      "publishedAt": "2026-09-01T23:43:47.000Z",
+      "sample": false
+    },
+    {
+      "id": "olb04",
+      "title": "Rising numbers of children in mental health crisis ending up in A&E",
+      "summary": "NHS emergency departments are seeing more cases of self-harm, eating disorders and emotional distress in young people.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87a9/live/8c4ae980-a620-11f1-bb6f-e5db02d232fa.png",
+      "publishedAt": "2026-09-01T23:38:20.000Z",
+      "sample": false
+    },
+    {
+      "id": "iiahy7",
+      "title": "Will self-flying planes transform the skies?",
+      "summary": "Autonomous crop-spraying aircraft are leading the way in pilot-free flying.",
+      "category": "technology",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c1l123mmrg7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0db2/live/a6fc85a0-9724-11f1-870d-5d08c49babb2.jpg",
+      "publishedAt": "2026-09-01T23:27:35.000Z",
+      "sample": false
+    },
+    {
+      "id": "6tsdlu",
+      "title": "Soft launches and late sittings - six ways to get cheaper meals out",
+      "summary": "The cost of dining out is getting increasingly hard to swallow - but clever planning can net you cheaper deals.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c2dy8kz867go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9ca/live/ec63ff60-9017-11f1-b783-f784376ffc11.jpg",
+      "publishedAt": "2026-09-01T23:26:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "svrw0x",
+      "title": "Fund defence spending from tax rise on middle earners, thinktank tells Healey",
+      "summary": "Resolution Foundation argues that UK’s internationally low ‘tax wedge’ must rise to pay for defence ambitions\nThe chancellor, John Healey, must be prepared to raise taxes for middle earners if he wants to fund significantly higher defence spending, the Resolution Foundation thinktank has said.\nHealey resigned from Keir",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/02/fund-defence-spending-from-tax-rise-on-middle-earners-thinktank-tells-healey",
+      "image": "https://i.guim.co.uk/img/media/0c73d65e2b5467e66b931883c93349636cbabba5/772_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=c3dba04238678ad374f26307ade7d701",
+      "publishedAt": "2026-09-01T23:01:16.000Z",
+      "sample": false
+    },
+    {
+      "id": "ffi3mv",
+      "title": "British aid worker mistakenly identified as a survivor of Nepal-Tibet disaster",
+      "summary": "More than 1,000 people confirmed dead and more than 4,000, including 36 British nationals, remain missing\nA British aid worker was mistakenly identified by Nepalese authorities as a rescued survivor after returning to Kathmandu on a humanitarian aid flight.\nAlastair Chambers, a 45-year-old former Gloucester councillor,",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/01/briton-among-119-more-people-rescued-in-nepal-after-flash-floods",
+      "image": "https://i.guim.co.uk/img/media/755bf043e6382dfec124d03cf56beb7a27ed298f/546_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=094dc3afaa1f06d94f2cacbd02f5e5b2",
+      "publishedAt": "2026-09-01T22:58:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "sijmr4",
+      "title": "Cleveland police to get £2m extra to tackle serious crime in Middlesbrough",
+      "summary": "Cash announced after horror car crash that killed two police officers and house fire in which woman and young girl died\nCleveland’s police force is to receive a £2m funding boost to tackle serious crime, after the home secretary said successive high-profile tragedies in the Middlesbrough area had led to a “sense of dis",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/01/man-23-charged-fatal-teesside-house-fire",
+      "image": "https://i.guim.co.uk/img/media/c4dcec442a9870d1593a07c0f8e9fad69c6fa252/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d31166ee88e37886592f28333b4aa654",
+      "publishedAt": "2026-09-01T22:04:34.000Z",
+      "sample": false
+    },
+    {
+      "id": "8se2av",
+      "title": "Burnham promises more devolution and public control of essential services",
+      "summary": "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first time as PM.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e9/live/bc2c3960-a652-11f1-aed2-8d6da8d75094.png",
+      "publishedAt": "2026-09-01T21:48:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "1ftlij",
+      "title": "Watch: Astronauts set out on rare all-female spacewalk",
+      "summary": "For the sixth time in history, a team of two women completed a spacewalk outside the International Space Station.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/c89jyxqvjq0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1337/live/9bc87da0-a648-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-01T21:08:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "j3qe97",
+      "title": "Women pose as men to buy testosterone online after prescription difficulties",
+      "summary": "One menopause specialists says she has seen women with up to 12 times the safe level of the hormone.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cjw53nl479do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/250c/live/64760600-a2b6-11f1-9024-715001d09aeb.jpg",
+      "publishedAt": "2026-09-01T20:54:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "4o8h0w",
+      "title": "More than 110 rescued a week after Nepal deadly floods, army says",
+      "summary": "More than 3,900 people remain missing after floodwaters surged across the Nepal-Tibet border last week.",
+      "category": "military",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c3eq499d0lgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57f4/live/4395e0e0-a626-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-01T20:51:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "l907bo",
+      "title": "Deported Milo Yiannopoulos says he is ‘ashamed’ of support for Trump",
+      "summary": "British far-right pundit breaks silence on ICE arrest and deportation and says he was ‘really, really terrified’\nMilo Yiannopoulos, the British far-right commentator who was arrested last week by Immigration and Customs Enforcement (ICE) officers in Louisiana and deported to the United Kingdom, has broken his silence a",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/us-news/2026/sep/01/milo-yiannopoulos-deported-trump-support",
+      "image": "https://i.guim.co.uk/img/media/d5f52adb1efe586f2a374584030bc28ec37ac121/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=a31c95594cdba5ec58eddb081e051fc2",
+      "publishedAt": "2026-09-01T20:49:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "8bfztl",
+      "title": "Bus journeys in west of Scotland to be capped at £2 from Monday",
+      "summary": "First Minister John Swinney announced the move in his programme for government, alongside plans to cut health boards from 14 to two.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/ce8ey84nzr6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4600/live/f56b4470-a623-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-01T20:23:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "awse2u",
+      "title": "Spaces in male prisons fall to lowest level of year, sources say",
+      "summary": "Jails in England and Wales are nearing maximum capacity as the justice secretary prepares to give more details in the Commons on the early-release scheme to free inmates.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/ce8ey8kzk3no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56b9/live/1b430de0-b5b6-11f0-962a-97c89857c780.jpg",
+      "publishedAt": "2026-09-01T20:20:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "d7ex9f",
+      "title": "Tech Life",
+      "summary": "AI can only communicate in languages that it's been trained on.",
+      "category": "technology",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyc?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p7f0yz.jpg",
+      "publishedAt": "2026-09-01T20:10:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "dec10e",
+      "title": "Baby girl found at house was stabbed, say police",
+      "summary": "A baby girl who was pronounced dead at a property in Sheffield was stabbed, police confirm.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cdx0n18z8ypo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de1b/live/b3bb1cd0-a61e-11f1-bb6f-e5db02d232fa.jpg",
+      "publishedAt": "2026-09-01T19:42:04.000Z",
+      "sample": false
+    },
+    {
+      "id": "73h0q6",
+      "title": "'We'll find way to save Jodrell Bank,' Burnham says",
+      "summary": "Burnham said \"there is no way that we can see its demise, and it won't happen under my Government\".",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cm2qj7jzl7no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ff/live/6961bcf0-892e-11f1-b684-d3f861a1f4cf.png",
+      "publishedAt": "2026-09-01T19:30:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "2f5cv9",
+      "title": "Israel warns it will retaliate if UK imposes sanctions",
+      "summary": "The UK's Foreign Secretary Ed Miliband pledged on Tuesday to introduce a \"comprehensive reset\" of policy on Israel.",
+      "category": "military",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cr7degkkv5go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a5b/live/71d0d490-a628-11f1-b384-1f35d0eeee9d.jpg",
+      "publishedAt": "2026-09-01T19:27:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "tuj8s0",
+      "title": "Farage faces questions over his claim of facing second standards investigation",
+      "summary": "Reform leader said inquiry had been widened but watchdog is not believed to have decided whether to do so\nNigel Farage is facing questions about why he claimed his finances were the subject of a second standards investigation, as he was sworn in again as Clacton’s MP.\nThe Reform UK leader said when he resigned in July ",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/01/nigel-farage-questions-claim-second-standards-investigation",
+      "image": "https://i.guim.co.uk/img/media/190c4c4d2986e3c1f8dc50b08e435b7c9a889e4b/1319_795_5248_4198/master/5248.jpg?width=140&quality=85&auto=format&fit=max&s=fd7fa18d5489cc963ec1806f0067953b",
+      "publishedAt": "2026-09-01T18:54:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "1x9f5e",
+      "title": "Burnham blames Brexit and Thatcher for ‘wrong turns’ in first Commons speech as PM",
+      "summary": "The prime minister said Britain needed to be brutally honest about the mistakes of the last 40 years of UK politics\nAndy Burnham has blamed Brexit and Margaret Thatcher for a decade of low growth in the UK, arguing that Britain needs to be brutally honest about having taken “a series of wrong turns” in the last 40 year",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/01/burnham-promises-to-bring-optimism-and-substantial-change-in-first-commons-speech-as-pm",
+      "image": "https://i.guim.co.uk/img/media/7360e6185ef11948d2a212b5ea0ad627c7680477/865_446_5315_4252/master/5315.jpg?width=140&quality=85&auto=format&fit=max&s=c7c6c7db649bafceced313ffffc0fd81",
+      "publishedAt": "2026-09-01T18:52:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "a378qo",
+      "title": "Ed Miliband promises ‘comprehensive reset’ of UK policy toward Israel",
+      "summary": "Foreign secretary tells MPs he will try to stop illegal settlements carving up the West Bank\nEd Miliband has promised to “reset” Britain’s policy on Israel, saying he will try to stop British companies helping build settlements in the West Bank.\nSpeaking to the Commons for the first time as foreign secretary, Miliband ",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/01/ed-miliband-promises-reset-of-uk-policy-toward-israel",
+      "image": "https://i.guim.co.uk/img/media/bb791d0b639f0d69f2cf8b3f07e6f690a6849a4d/100_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=1a8cd061028278ceeb451dfc49f8c6bd",
+      "publishedAt": "2026-09-01T18:37:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "j9pwhi",
+      "title": "Burnham says Brexit brought ‘decade of low growth’ in first Commons address as prime minister – as it happened",
+      "summary": "This liveblog is now closed. Read the Guardian’s report of today’s political news here\nMy colleague Richard Partington, the Guardian’s senior economics correspondent, grew up, like Andy Burnham, in the Warrington suburb of Culcheth. He has been home to find out what people there are saying about the new PM.\nYesterday, ",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
+      "image": "https://i.guim.co.uk/img/media/cffa7da108d966906c305f2fd2149208ba32bc29/1366_12_2150_1719/master/2150.jpg?width=140&quality=85&auto=format&fit=max&s=8afb431ea8850f6af9c040edb576380a",
+      "publishedAt": "2026-09-01T17:52:31.000Z",
+      "sample": false
+    },
+    {
+      "id": "1c8uoi",
+      "title": "Five held by police after newborn baby dies from stab wounds in Sheffield",
+      "summary": "Officers responded to reports concerning safety of baby girl at property in Wincobank area of the city\nFive people are being held on suspicion of murder after a newborn baby died from stab wounds in Sheffield on Sunday.\nPolice officers found the girl at a property in Holywell Heights, in the Wincobank area of Sheffield",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/01/five-held-by-police-after-newborn-baby-dies-from-stab-wounds-in-south-yorkshire",
+      "image": "https://i.guim.co.uk/img/media/066c2202f67692109cebd9b4d751b3e4d086900c/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=f8440a17ebc6c8151c1c1cbf11ce7b19",
+      "publishedAt": "2026-09-01T17:46:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "w5kmjb",
+      "title": "How a small island in Canada appeared, vanished, and was found again",
+      "summary": "Officials in British Columbia say the floating island drifted towards the shoreline of a local lake. But its origins remain a mystery.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cgk5jk6nkxzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a487/live/3b0ddbf0-a629-11f1-b384-1f35d0eeee9d.jpg",
+      "publishedAt": "2026-09-01T17:36:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "dmyhp8",
+      "title": "‘I think he’s sensible’: constituents on Keir Starmer stepping down as MP",
+      "summary": "Few regrets voiced in Holborn and St Pancras over decision despite former PM having had ‘rough time of it’\n\nUK politics live – latest updates\n\nIn Keir Starmer’s north London constituency, full of pretty pubs and elegant townhouses, few tears were being shed at the news of his departure as its MP.\nOne man nursing a pint",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/01/keir-starmer-stepping-down-mp-constituents-holborn-st-pancras-kentish-town",
+      "image": "https://i.guim.co.uk/img/media/7224353c23ffa0e26b3237097536304ed376076f/955_0_6798_5438/master/6798.jpg?width=140&quality=85&auto=format&fit=max&s=2d7395d74b4cac0d04699423e6e061f8",
+      "publishedAt": "2026-09-01T17:35:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "dokali",
+      "title": "Met Office: Summer 2026 was UK's hottest ever",
+      "summary": "The UK had a spring and summer of persistent heat with five widespread heatwaves and 40 days of temperatures above 30C (86F), smashing the previous record of 34 days.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/cn74vl31r48o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7640/live/17b44350-a620-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-01T17:25:35.000Z",
+      "sample": false
+    },
+    {
+      "id": "ahrjpx",
+      "title": "What is Burnham doing to the early prison release scheme and why?",
+      "summary": "Offences including manslaughter have been excluded from changes to sentencing rules amid an overcrowding crisis\nGrooming gang perpetrators and killers, including those responsible for PC Andrew Harper’s death, will be blocked from early prison release under changes announced by Andy Burnham after a backlash over the sc",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/society/2026/aug/30/early-prison-release-scheme-changes-backlash",
+      "image": "https://i.guim.co.uk/img/media/5794239053f2a577123d51346e627f901e03ade6/917_241_5281_4227/master/5281.jpg?width=140&quality=85&auto=format&fit=max&s=425739a4e0d268318bd9094722c3f1be",
+      "publishedAt": "2026-09-01T17:05:17.000Z",
+      "sample": false
+    },
+    {
+      "id": "8vje6g",
+      "title": "Keir Starmer announces he is standing down as MP",
+      "summary": "The move will trigger a by-election to replace the former prime minister in his London constituency.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93a0/live/f854a560-a5fa-11f1-8348-fb0cb1cd9761.png",
+      "publishedAt": "2026-09-01T17:04:29.000Z",
+      "sample": false
+    },
+    {
+      "id": "5p00gm",
+      "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+      "summary": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d389/live/9e6500a0-a62b-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-09-01T16:36:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "bj64jp",
+      "title": "Trump says US position on Falklands 'one of many' under review",
+      "summary": "The UK says Falkland islanders \"are British with a right to determine their own future\".",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cm2q1qgg542o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3261/live/b6217ad0-a5e4-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-01T16:35:28.000Z",
+      "sample": false
+    },
+    {
+      "id": "qfathr",
+      "title": "UK entrepreneur makes £500,000 political donation to Restore Britain",
+      "summary": "Simon Galbraith says Rupert Lowe’s party can ‘spark a British renaissance’ if it gets into power\nThe hard-right Restore Britain party has got its first major donation of £500,000 from an IT entrepreneur in a sign it may continue to pose a threat to Nigel Farage’s Reform UK.\nRupert Lowe, an MP who left Reform UK before ",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/01/simon-galbraith-uk-tech-entrepreneur-political-donation-restore-britain",
+      "image": "https://i.guim.co.uk/img/media/839a6dbb59551038bdcdee9376e63e28684fb809/702_0_7022_5618/master/7022.jpg?width=140&quality=85&auto=format&fit=max&s=35fea713d752cb2eac9507a031938985",
+      "publishedAt": "2026-09-01T16:32:41.000Z",
+      "sample": false
+    },
+    {
+      "id": "8vccjm",
+      "title": "Family mourn 'deeply loved' girl killed in house fire",
+      "summary": "Valentina Foster's parents say their lives were changed forever by her \"devastating loss\".",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c5yj08dng3no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/963c/live/66bc8170-a615-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-01T15:59:34.000Z",
+      "sample": false
+    },
+    {
+      "id": "wzeais",
+      "title": "Swinney to cut number of health boards from 14 to two",
+      "summary": "Existing boards could be merged so there would be one for the west and another for the east of Scotland.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c9dw5x611gpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ab7/live/3c83f7a0-a61d-11f1-9ca2-a3e18de91b7b.jpg",
+      "publishedAt": "2026-09-01T15:52:53.000Z",
+      "sample": false
+    },
+    {
+      "id": "huupda",
+      "title": "US borrowing costs hit fresh highs over inflation fears",
+      "summary": "The effective interest rate on 10 years rose to 4.79%, its highest level since January 2025, as oil prices surged.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c980y8r98y2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d6e/live/32fde070-a61c-11f1-9ca2-a3e18de91b7b.jpg",
+      "publishedAt": "2026-09-01T15:51:51.000Z",
+      "sample": false
+    },
+    {
+      "id": "asyoag",
+      "title": "Andy Burnham pays tribute after Keir Starmer says he is stepping down as MP – video",
+      "summary": "In his first address to the House of Commons as prime minister, Andy Burnham paid tribute to his predecessor, Keir Starmer, who announced he was standing down as MP for Holborn and St Pancras. The Labour leader praised the former PM for his achievements, saying Starmer took the party 'from one of its worst defeats to i",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/video/2026/sep/01/andy-burnham-pays-tribute-commons-keir-starmer-stepping-down-mp-video",
+      "image": "https://i.guim.co.uk/img/media/509da678f6c55d1ab6127059382c523ff2df1f7c/533_0_1012_810/master/1012.jpg?width=140&quality=85&auto=format&fit=max&s=fa9b5e3d3b3012d5b6d51caa2dfcbd6e",
+      "publishedAt": "2026-09-01T15:48:22.000Z",
+      "sample": false
+    },
+    {
+      "id": "ce83lq",
+      "title": "Life is too expensive for too many - PM says",
+      "summary": "Burnham said his government's first moves were designed to give people 'breathing space'.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/c4gv0dej5y3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ce/live/4a2439b0-a618-11f1-9ca2-a3e18de91b7b.jpg",
+      "publishedAt": "2026-09-01T15:47:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "u2wlun",
+      "title": "'We can make this next decade better than the last'",
+      "summary": "The new prime minister tells the Commons they can lift the prospects of all people in all places.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/c5yd43pkl53o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7965/live/d31088c0-a61b-11f1-9ca2-a3e18de91b7b.jpg",
+      "publishedAt": "2026-09-01T15:43:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "o3fslo",
+      "title": "Summer of 2026 was UK’s hottest on record, Met Office says",
+      "summary": "Meteorologists say mean average temperature of 16.5C was made 130 times more likely by climate crisis\nThis year’s summer was the UK’s hottest on record, according to provisional data, and the Met Office said the season’s mean temperature was made 130 times more likely by the climate crisis.\nRecord-breaking and back-to-",
+      "category": "environment",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/01/summer-2026-uk-hottest-on-record-provisional-met-office-data",
+      "image": "https://i.guim.co.uk/img/media/702592f43eebd7ea62b02208784e1077221f5cb1/0_0_6223_4978/master/6223.jpg?width=140&quality=85&auto=format&fit=max&s=524da852bf8add5332c5270cc12c6bfb",
+      "publishedAt": "2026-09-01T15:36:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "p29ze1",
+      "title": "How to get a refund when using your credit card",
+      "summary": "Consumer expert Harry Kind explains how you can get your money back.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/cp84ynl2j05o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b27f/live/85bcd310-a613-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-09-01T15:31:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "cr2tyd",
+      "title": "Dyson launches £420 toothbrush that films ‘live cleaning footage’ inside your mouth",
+      "summary": "James Dyson says ‘complete dental system’ will also include toothpaste and mouth rinse that each cost £8.50\nIt is the live stream you never wanted to see but may find impossible to resist: rolling footage beamed live from inside your mouth while you are cleaning your teeth.\nDyson, the home appliance maker that made its",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/technology/2026/sep/01/dyson-toothbrush-camera-films-live-footage-inside-mouth",
+      "image": "https://i.guim.co.uk/img/media/5097487a0538e49f9282f7aaa620e8445aea541e/23_0_3954_3163/master/3954.jpg?width=140&quality=85&auto=format&fit=max&s=4a87d89d954c64afd03bcc6360003489",
+      "publishedAt": "2026-09-01T14:39:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "jx4zv1",
+      "title": "UK long-term borrowing costs could halve chancellor’s budget headroom",
+      "summary": "Yield on 30-year gilts highest since 1998 as rout triggered by global factors underlines tricky backdrop John Healey faces\n\nBusiness live – latest updates\n\nThe chancellor’s headroom against Labour’s fiscal rules could be almost halved at his first budget if the current global bond sell-off persists into the autumn, eco",
+      "category": "economy",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/01/uk-gilt-yield-long-term-borrowing-costs-28-year-high",
+      "image": "https://i.guim.co.uk/img/media/8528385690e9b5212452f6025d1b36b428bd0a9a/241_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=3197ac924a23019cbbecf02b9ac801ef",
+      "publishedAt": "2026-09-01T14:25:53.000Z",
+      "sample": false
+    },
+    {
+      "id": "1n704k",
+      "title": "I climbed the career ladder and got my dream job at 30 - then I hit burnout",
+      "summary": "Just after Jo Hooper landed her dream role at 30, she struggled with burnout and had to take time off work.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c5yvpr0751go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b28d/live/b62f7fb0-a222-11f1-bd6a-3d72a7f54a3e.jpg",
+      "publishedAt": "2026-09-01T14:19:47.000Z",
+      "sample": false
+    },
+    {
+      "id": "lm30f8",
+      "title": "High winds during El Niño could be deadly for England’s stressed trees, say experts",
+      "summary": "Head of tree collections at Kew ‘very worried about this autumn’ as hot, dry summer has caused brittleness\nHigh winds associated with El Niño could cause widespread mortality among tree species already weakened by a prolonged period of extreme heat and drought, experts have warned.\nThis summer much of Europe has been s",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/environment/2026/sep/01/high-winds-el-nino-england-stressed-trees-heat-drought",
+      "image": "https://i.guim.co.uk/img/media/4bfec004caab3d683af2b8e27e9c9ffe212b7a76/156_0_3280_2624/master/3280.jpg?width=140&quality=85&auto=format&fit=max&s=b92791b4bd382780291a4895c435caf7",
+      "publishedAt": "2026-09-01T14:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "orxff6",
+      "title": "More hosepipe bans in force as drought declared - is your area affected?",
+      "summary": "About 30 million people have been placed under hosepipe bans due to higher demand and low rainfall.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c74b/live/69a57380-7fa8-11f1-a5f4-433bb9aa2e5a.jpg",
+      "publishedAt": "2026-09-01T13:37:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "jejc2g",
+      "title": "One still missing after Grand Canyon floods kill two and prompt rescue efforts",
+      "summary": "Almost everyone is now accounted for after dozens of hikers were airlifted to safety, an official says.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c62e6rkn43ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1ca/live/41edbe20-a581-11f1-ae94-15924a612dd1.jpg",
+      "publishedAt": "2026-09-01T13:34:04.000Z",
+      "sample": false
+    },
+    {
+      "id": "gfadjh",
+      "title": "Two-day sea search for missing teen on holiday is called off",
+      "summary": "The 15-year-old, from the Yorkshire area, was at Marloes Sands beach in Pembrokeshire.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c3eq1pvzng4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fb7/live/e0105c70-a563-11f1-a29b-3ba1838baf75.jpg",
+      "publishedAt": "2026-09-01T13:33:07.000Z",
+      "sample": false
+    },
+    {
+      "id": "i2va7o",
+      "title": "What in the World",
+      "summary": "Data suggests women make higher returns",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct9905?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0g0gjs2.jpg",
+      "publishedAt": "2026-09-01T13:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "32d511",
+      "title": "Gaps in NHS end-of-life care ‘denying ill children chance to die at home’",
+      "summary": "Campaigners say some care boards in England flouting their legal duty, resulting in ‘cruel’ postcode lottery\nSeriously ill children are being denied the chance to die at home because the NHS in many parts of England is flouting its legal duty to provide the care needed to make that happen, critics say.\nThe widespread f",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/society/2026/sep/01/nhs-at-home-end-of-life-care-children-england",
+      "image": "https://i.guim.co.uk/img/media/20be84d02f8b217d8b5179a5454389fc12125b85/44_283_855_684/master/855.jpg?width=140&quality=85&auto=format&fit=max&s=05208134526bffa5888ea0f2229aeb3a",
+      "publishedAt": "2026-09-01T13:00:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "skqljg",
+      "title": "Firefighters rescue 27 people from broken down rollercoaster in Suffolk - video",
+      "summary": "Twenty-seven people were rescued from a rollercoaster at Pleasurewood Hills theme park in Lowestoft, Suffolk. People on the ride had reportedly been stuck for up to three hours. The theme park has apologised and said the safety of its guests was its highest priority. Visitors affected will receive a 'complimentary revi",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/travel/video/2026/sep/01/firefighters-rescue-27-people-from-broken-down-rollercoaster-in-suffolk-video",
+      "image": "https://i.guim.co.uk/img/media/c28a0f5a9c56ab6e7fa7a677f1963ba474946939/346_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=44edbbe486a047137ed572de3da7261c",
+      "publishedAt": "2026-09-01T12:33:16.000Z",
+      "sample": false
+    },
+    {
+      "id": "rkcrgu",
+      "title": "Noughties garage track named TikTok's UK song of the summer",
+      "summary": "Kyla's 2008 track Do You Mind gained worldwide recognition in 2016 when rapper Drake sampled it on One Dance.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/crm97yjw2peo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f210/live/7227d660-a5f5-11f1-8348-fb0cb1cd9761.jpg",
+      "publishedAt": "2026-09-01T12:22:20.000Z",
+      "sample": false
+    },
+    {
+      "id": "w3mppr",
+      "title": "Ikea cuts prices as customers struggle with rising cost of living",
+      "summary": "The Swedish retailer has seen revenue decline as the rising cost of living reduces people's ability to buy new furniture.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cm279dk9r8no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e523/live/2eed8b50-a5fb-11f1-83fc-0df57e6b3866.jpg",
+      "publishedAt": "2026-09-01T12:21:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "n83oy7",
+      "title": "Summer 2026 was UK's hottest on record, Met Office says",
+      "summary": "Met Office figures show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84de/live/4bd31cb0-a51c-11f1-89d5-dd5482a9fcc2.jpg",
+      "publishedAt": "2026-09-01T12:18:55.000Z",
+      "sample": false
+    },
+    {
+      "id": "8c7mid",
+      "title": "Rare butterfly spotted in Cornwall",
+      "summary": "It is believed to be one of only a handful of sightings recorded in England this year.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cq63gnj8e76o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d57/live/6932ff80-a5f0-11f1-8348-fb0cb1cd9761.jpg",
+      "publishedAt": "2026-09-01T11:49:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "yv6r0v",
+      "title": "What to do if you've been scammed",
+      "summary": "Consumer Expert Harry Kind explains how you could get you money back if you have been scammed.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/c5ylv1m8n66o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c105/live/963c85d0-a5f7-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-09-01T11:44:57.000Z",
+      "sample": false
+    },
+    {
+      "id": "a8rdg7",
+      "title": "Prolific UK graffiti artist Helch dies",
+      "summary": "Artist rose to prominence in 2018 by painting his eponymous tag in public spots across southern England\n\nThe graffiti artist who left an indelible mark on high-rise Britain\n\nThe street artist Helch, known for murals and tags across England, has died, his gallery has said.\nHe rose to prominence in 2018 by painting his e",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/sep/01/helch-dies-uk-graffiti-artist",
+      "image": "https://i.guim.co.uk/img/media/a968603c0eb3e02d7f3398aaa57a3c21e0f9dbd6/0_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=7ad1051c3226e184e908a30e788333ba",
+      "publishedAt": "2026-09-01T11:44:37.000Z",
+      "sample": false
+    },
+    {
+      "id": "lbwaco",
+      "title": "Boy, 16, appears in court charged with murder of man",
+      "summary": "Sidi Djalo, who was 61, was found alongside his injured eight-year-old daughter at a house in Dungannon on Saturday morning.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cm279d43m9lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/feca/live/39160f20-a61f-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-01T11:42:39.000Z",
+      "sample": false
+    },
+    {
+      "id": "ah7jyj",
+      "title": "Keir Starmer to stand down as MP to focus on world affairs",
+      "summary": "Former PM says it is right time to go, which will trigger byelection that Greens’ Zack Polanski could target\nKeir Starmer is to quit as the MP for Holborn and St Pancras, saying it is the right time for him to leave the Commons.\nStarmer, who resigned as prime minister in July, told the Camden New Journal he wanted to f",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/01/keir-starmer-to-stand-down-as-mp",
+      "image": "https://i.guim.co.uk/img/media/1d561bc95a22fe26e5f0e01ae9fb464d8115f120/712_0_3242_2594/master/3242.jpg?width=140&quality=85&auto=format&fit=max&s=cb284042524aa8a1e4da86f432693759",
+      "publishedAt": "2026-09-01T11:22:57.000Z",
+      "sample": false
+    },
+    {
+      "id": "sigwsq",
+      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+      "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
+      "category": "technology",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-09-01T10:18:47.000Z",
+      "sample": false
+    },
+    {
+      "id": "dj5z3u",
+      "title": "London Stock Exchange to lose three more firms after takeover offers",
+      "summary": "Latest purchases take value of deals to leave capital’s stock market this year past $100bn\nThree more London-listed companies are set to be taken over as the value of deals removing firms from the capital’s under-pressure stock market so far this year passes $100bn (£74bn).\nOn Tuesday, Bodycote, the FTSE 250 industrial",
+      "category": "economy",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/01/london-stock-exchange-to-lose-three-more-firms-after-takeover-offers",
+      "image": "https://i.guim.co.uk/img/media/f6a091277ae4ad7493b8423a52117d91d11a3070/1185_452_3782_3026/master/3782.jpg?width=140&quality=85&auto=format&fit=max&s=1a8a367c484023a95541244abee56364",
+      "publishedAt": "2026-09-01T10:08:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "hf5ee2",
+      "title": "Shein valued at $26bn after long-awaited stock market debut",
+      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb85/live/c4b57840-a5ca-11f1-8543-aba44f51f79c.jpg",
+      "publishedAt": "2026-09-01T10:01:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "yl6rgq",
+      "title": "What does Andy Burnham's home town think of him as PM? – video",
+      "summary": "In the Warrington suburb of Culcheth, people are hopeful about what one of their own can achieve as the first northern prime minister in half a century. The Guardian's Richard Partington, who also grew up in the quiet suburb halfway between Manchester and Liverpool, gets the thoughts of local people on the new prime mi",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/news/video/2026/sep/01/what-does-andy-burnhams-home-town-think-of-him-as-pm-video",
+      "image": "https://i.guim.co.uk/img/media/186caee57a7933ec975993b56c6b4d15625b0e82/319_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=457af91484a1b1f75e206d74e90f9c33",
+      "publishedAt": "2026-09-01T09:59:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "30ar1n",
+      "title": "From milk to sausage rolls: how vending machines could help tackle UK ‘food deserts’",
+      "summary": "Selling direct to public helps squeezed farmers control prices and improves access to food in rural areas\nFizzy drinks, packets of crisps and bars of chocolate: for decades, vending machines were known as a place to grab a quick snack.\nNow one family of farmers is trying to change that by bringing vending machines offe",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/01/rural-vending-machines-uk-dairy-farmer",
+      "image": "https://i.guim.co.uk/img/media/16753471a2c3db14c02b8f5b82e798f523d9a55d/601_44_3077_2462/master/3077.jpg?width=140&quality=85&auto=format&fit=max&s=c4e60d61cce431eb43aba82f4309eaaa",
+      "publishedAt": "2026-09-01T09:00:03.000Z",
+      "sample": false
+    },
+    {
+      "id": "683hxf",
+      "title": "Flu vaccine rollout begins as NHS regroups from 'busiest summer'",
+      "summary": "This year's jab has a few tweaks, including changes to better combat last year's Super-K strain.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d73b/live/cf577dd0-a2f9-11f1-8d5b-155abe464768.jpg",
+      "publishedAt": "2026-09-01T08:55:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "kt7zam",
+      "title": "Baby Tommy's our 'light', says grieving family of newborn whose mum died in childbirth",
+      "summary": "Chelsea McGillivray, from Rutherglen, South Lanarkshire, fell into cardiac arrest during labour after what was believed to be a textbook pregnancy.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1033/live/8ecd3330-a552-11f1-8689-6589354d0f8e.jpg",
+      "publishedAt": "2026-09-01T08:42:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "orrfpo",
+      "title": "UK house prices rise for first time since April, says Nationwide",
+      "summary": "Average price of home rose 0.2% month on month in August to £275,465 as market awaits interest rate vote\n\nHouses near top state secondary schools ‘cost £40,000 more’\n\nUK house prices increased for the first time in four months in August, according to a leading index, as buyers and sellers remained in a “holding pattern",
+      "category": "economy",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/01/uk-house-prices-rise-for-first-time-since-april-says-nationwide",
+      "image": "https://i.guim.co.uk/img/media/6d474167e5b93736f676723401e7aab4bb2371cf/1170_223_4265_3414/master/4265.jpg?width=140&quality=85&auto=format&fit=max&s=cd320370d1a41e7139491eb1d8b6ad8f",
+      "publishedAt": "2026-09-01T08:32:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "pomoet",
+      "title": "Family fear for missing hydropower worker after Nepal flood",
+      "summary": "Jit Bahadur Chaudhary was working at the hydropower site when the flood hit on Wednesday.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c1kxmvm39nyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6e7/live/97fa82a0-a4bc-11f1-984c-751457a03c14.jpg",
+      "publishedAt": "2026-09-01T08:23:51.000Z",
+      "sample": false
+    },
+    {
+      "id": "eju22x",
+      "title": "People Fixing The World",
+      "summary": "What can be done to prevent, detect and treat the silent killer, sepsis?",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct8t17?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p7d8sx.jpg",
+      "publishedAt": "2026-09-01T07:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "hlq768",
+      "title": "Boss of City regulator accused of threatening consumer group over £9.1bn car loan scheme",
+      "summary": "FCA chief, Nikhil Rathi, warned of ‘adverse consequences’ if challenge made to settlement, court filings allege\nThe boss of the UK’s financial regulator is accused of threatening a consumer group with “adverse consequences” if it blocked a £9.1bn compensation scheme meant to settle the motor finance scandal.\nLegal docu",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/01/boss-of-city-regulator-accused-of-threatening-consumer-group-over-91bn-car-loan-scheme",
+      "image": "https://i.guim.co.uk/img/media/7c28a5ea060e351e8c55b2808dee70ea3007b969/376_149_3135_2509/master/3135.jpg?width=140&quality=85&auto=format&fit=max&s=b220bb71d601c45ed1cc99877dcc6d74",
+      "publishedAt": "2026-09-01T07:16:20.000Z",
+      "sample": false
+    },
+    {
+      "id": "i2y9t8",
+      "title": "Beveridge revisited: Simon Callow film celebrates the radical co-founder of Britain’s welfare state",
+      "summary": "Christine Edzard’s The Man With the Plan tours the country with a timely message about tackling want, disease, squalor, idleness and ignorance\nA new film that addresses issues fundamental to the new prime minister’s declared mission will star Simon Callow as a historical British political figure.\nThe hero of The Man Wi",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/film/2026/sep/01/beveridge-revisited-simon-callow-film-celebrates-the-radical-co-founder-of-britains-welfare-state",
+      "image": "https://i.guim.co.uk/img/media/6d83c790a5334b470cf69f00d40b2865501b124b/462_65_1665_1332/master/1665.jpg?width=140&quality=85&auto=format&fit=max&s=80e474d28df8428acba2a84eb0f886ad",
+      "publishedAt": "2026-09-01T07:00:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "ey59z4",
+      "title": "Number of young people with no close friends has soared since 2014 in England",
+      "summary": "Data paints sobering picture of 11- to 24-year-olds growing up in ‘bleak world’ shaped by pandemic and social media\nThe number of young people with no close friends has risen fivefold since 2014 as a result of growing up in a “bleak world” dominated by austerity, the pandemic and social media.\nNew research paints a sob",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/society/2026/sep/01/thinktank-reports-epidemic-of-loneliness-among-englands-disconnected-young",
+      "image": "https://i.guim.co.uk/img/media/b4ae870039cab10f38fad9a0a412c1e1ef1a7046/373_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=b728e008d16fd510d7b20b9e022c2322",
+      "publishedAt": "2026-09-01T07:00:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "xd8c83",
+      "title": "Almost half of terrorism arrests in Great Britain since 9/11 have been in past year",
+      "summary": "Increase coincides with proscription of Palestine Action last year which has led to thousands of arrests for allegedly supporting the protest group\nAlmost half of all terrorism arrests in Great Britain since the 9/11 attacks on the twin towers in 2001 have come in the past year, official data shows.\nThere have been 6,5",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/01/almost-half-of-terrorism-arrests-in-great-britain-since-911-have-been-in-past-year",
+      "image": "https://i.guim.co.uk/img/media/afdf6537d23b7f632c8c9b61dd3cc993e964f79a/280_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=a384f60119c13d12595b594c3f5ac13d",
+      "publishedAt": "2026-09-01T07:00:48.000Z",
+      "sample": false
+    },
+    {
       "id": "yxfgsg",
-      "title": "The remote Nepal-China border crossing at the heart of a Himalayan tragedy",
+      "title": "The final minutes before floodwater crashed through Nepal-China border",
       "summary": "More than 100 Indians are missing at a vital Nepal-China trade crossing after devastating Himalayan floods.",
       "category": "environment",
       "source": "bbc-news",
       "url": "https://www.bbc.co.uk/news/articles/c0qxw1qw3g7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d0/live/db5294a0-a513-11f1-aed2-8d6da8d75094.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a58/live/cf305410-a5e9-11f1-b109-879e35c24276.jpg",
       "publishedAt": "2026-09-01T06:02:27.000Z",
       "sample": false
     },
     {
-      "id": "ukmuev",
-      "title": "‘Alarm bells were going off’: parents tell of ordeal at Send school closed down after abuse allegations",
-      "summary": "Annette and Kevin Maxwell say children with special needs have become moneymaking tool for private companies\nAnnette and Kevin Maxwell were nervous about sending their son Jonah to a residential home for children with special educational needs and disabilities (Send). Jonah has severe autism – he is non-verbal, has epi",
-      "category": "society",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/education/2026/sep/01/parents-tell-of-ordeal-at-send-school-closed-down-abuse",
-      "image": "https://i.guim.co.uk/img/media/d7ba6ce55486be5a3f55a3b38de77ab5e684df6a/550_182_6639_5311/master/6639.jpg?width=140&quality=85&auto=format&fit=max&s=f9694b9f5d0a495d26e8a773c625b931",
-      "publishedAt": "2026-09-01T06:00:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "iudrin",
-      "title": "Solar cuts ‘at least £400 from bills in even the cloudiest British areas’",
-      "summary": "Savings grow as energy prices in Great Britain rise and cost of panel installation falls, analysis finds\nHouseholds in Great Britain’s cloudiest regions could still save more than £400 a year on their energy bills by installing rooftop solar panels, research has found.\nRising wholesale energy prices mean the potential ",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/01/households-uk-cloudy-regions-save-400-a-year-rooftop-solar-panels",
-      "image": "https://i.guim.co.uk/img/media/94efa0a06caa79e09f86e2b1b0f853eb6e4e444e/578_0_4250_3400/master/4250.jpg?width=140&quality=85&auto=format&fit=max&s=2ca3f5c895509c28b09f18467fd43bca",
-      "publishedAt": "2026-09-01T06:00:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "fwhw95",
-      "title": "Burnham to promise 'sense of optimism' in first Commons statement as PM",
-      "summary": "He will promise to \"unlock a feeling of positivity and possibility\" in every part of the country.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c99dyjk7mpyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e18a/live/2ab75c80-a5cb-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-01T05:50:02.000Z",
-      "sample": false
-    },
-    {
-      "id": "ltoal8",
-      "title": "Children sleeping on piles of clothes, says charity",
-      "summary": "A Peterborough charity says hundreds of children in the city are living in bed poverty.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z0pkrp3ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/190d/live/15969ea0-a5cc-11f1-b876-2f878b5871af.jpg",
-      "publishedAt": "2026-09-01T05:37:19.000Z",
-      "sample": false
-    },
-    {
       "id": "39rjao",
-      "title": "I'm on a mission to convince people to work less",
+      "title": "'I'm on a mission to convince people to work less'",
       "summary": "Jo Hooper spent her 20s chasing career success, but had two work-related breakdowns before she was 31.",
       "category": "health",
       "source": "bbc-news",
@@ -82,102 +830,14 @@
       "sample": false
     },
     {
-      "id": "apf5pq",
-      "title": "Hospitality wants permanent VAT cut, 'not gimmick'",
-      "summary": "Hospitality sector members call for a temporary VAT reduction scheme to be widened and extended.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c1l105py51zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d66a/live/f65f7690-9cae-11f1-84cf-fd4cfd9d6c84.jpg",
-      "publishedAt": "2026-09-01T05:25:05.000Z",
-      "sample": false
-    },
-    {
       "id": "7llk5h",
-      "title": "We survived the Aberfan disaster but were told to never speak of it again",
-      "summary": "Survivors of one of the worst disasters in British history have dedicated their lives to helping others.",
-      "category": "politics",
+      "title": "We survived the Aberfan disaster as schoolchildren, but were told to never talk about it again",
+      "summary": "In one of Britain's worst disasters, 116 children were killed on the morning of 21 October 1966.",
+      "category": "society",
       "source": "bbc-news",
       "url": "https://www.bbc.co.uk/news/articles/cx2zn9kdvxmo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/411e/live/81069740-a5c1-11f1-8543-aba44f51f79c.jpg",
       "publishedAt": "2026-09-01T05:12:26.000Z",
-      "sample": false
-    },
-    {
-      "id": "w9xhht",
-      "title": "B&B boss fears 'uneven playing field' over tourist tax",
-      "summary": "The introduction of a tourism levy in North Yorkshire is currently under consideration.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c5ymkm404jxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14dd/live/926f9620-a153-11f1-92f3-2381193e5eb4.jpg",
-      "publishedAt": "2026-09-01T05:06:51.000Z",
-      "sample": false
-    },
-    {
-      "id": "4obabv",
-      "title": "'Rare' council underspend to help with cost of living",
-      "summary": "The council spent £20m less than expected last year.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c74e9j1ye9vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf94/live/4d0cc8f0-a15d-11f1-aaf8-119f176ff4ce.jpg",
-      "publishedAt": "2026-09-01T05:06:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "wzeais",
-      "title": "Swinney says reform is at the heart of his programme for government",
-      "summary": "The first minister is due to set out his plans for the year ahead which are expected to include proposals for significant public service reform.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c9dw5x611gpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e1e/live/1e01e150-a55c-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-01T05:01:02.000Z",
-      "sample": false
-    },
-    {
-      "id": "abmljm",
-      "title": "Price rises gather pace in UK shops amid higher energy costs",
-      "summary": "In-store inflation rises to an annual 1.5% in August, according to a survey for the British Retail Consortium\nThe pace of price rises in UK shops rose to its highest level in two years in August, a trade body index shows, with higher energy costs pushing up the price of food and AI chip demand making technology more ex",
-      "category": "technology",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/01/price-rises-gather-pace-in-uk-shops-higher-energy-costs",
-      "image": "https://i.guim.co.uk/img/media/fe487c9aa140b572bb41664e2ba45075ec3215ba/644_0_6436_5149/master/6436.jpg?width=140&quality=85&auto=format&fit=max&s=ef9cb9ad581d7819006c8c645b2ffe80",
-      "publishedAt": "2026-09-01T05:00:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "nexnur",
-      "title": "Dry weather sewage discharges soar as water companies face scrutiny",
-      "summary": "Exclusive: 7,280 suspected illegal spills in rivers and sea recorded in first five months of 2026\nThe number of suspected illegal discharges of raw sewage into rivers and seas by water companies during dry weather increased significantly during the first five months of 2026.\nDumping raw sewage into waterways during dry",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/01/dry-weather-sewage-discharges-soar-as-water-companies-face-scrutiny",
-      "image": "https://i.guim.co.uk/img/media/b4ada893482baf297c8581cbef520280a1c727a3/519_0_4296_3437/master/4296.jpg?width=140&quality=85&auto=format&fit=max&s=8c579759d36d551e481401bcb7fd682e",
-      "publishedAt": "2026-09-01T05:00:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "u7d5xs",
-      "title": "Burnham warned running prison capacity near limit is ‘big risk’",
-      "summary": "U-turn on early release scheme will create ‘stresses and strains’ on prison system, says former justice secretary\nAndy Burnham is taking a “big risk” by seeking to continue running prison capacity to the limit, according to the former justice secretary appointed by Keir Starmer to oversee a review of sentencing.\nAs par",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/society/2026/sep/01/burnham-warned-running-prison-capacity-near-limit-is-big-risk",
-      "image": "https://i.guim.co.uk/img/media/0e5ee602cf7bfa09d277df6a3199bef011b51c14/247_0_2507_2006/master/2507.jpg?width=140&quality=85&auto=format&fit=max&s=3556bb37de0bda2b4107284f3c2759f1",
-      "publishedAt": "2026-09-01T05:00:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "kt7zam",
-      "title": "'Baby Tommy's here, Chelsea's not': First-time mum dies in childbirth",
-      "summary": "Chelsea McGillivray, from Rutherglen, South Lanarkshire, fell into cardiac arrest during labour after what was believed to be a textbook pregnancy.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cd684219x6do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1033/live/8ecd3330-a552-11f1-8689-6589354d0f8e.jpg",
-      "publishedAt": "2026-09-01T05:00:26.000Z",
       "sample": false
     },
     {
@@ -201,104 +861,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef72/live/e7e01bd0-a58a-11f1-b109-879e35c24276.jpg",
       "publishedAt": "2026-09-01T04:49:29.000Z",
       "sample": false
-    },
-    {
-      "id": "1a2r69",
-      "title": "Man charged after woman and her niece died in fire",
-      "summary": "A girl, 7, and her aunt died in the blaze in Grangetown, near Middlesbrough, on Wednesday.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/ckg0yyg7m9mo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d9a/live/086fd350-a5c6-11f1-a291-b542ee92de7c.png",
-      "publishedAt": "2026-09-01T04:21:49.000Z",
-      "sample": false
-    },
-    {
-      "id": "hf5ee2",
-      "title": "Shein shares fall in long-awaited stock market debut",
-      "summary": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb85/live/c4b57840-a5ca-11f1-8543-aba44f51f79c.jpg",
-      "publishedAt": "2026-09-01T04:15:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "g5cd81",
-      "title": "‘A huge learning curve’: apprentices on the benefits and pitfalls of vocational training",
-      "summary": "While many young people have found jobs and built careers, some have struggled to complete their courses\n\nThe crisis in the youth employment market, with almost a million young people not in education, employment or training (Neet) across the UK, has placed fresh emphasis on ways of getting employees into the workforce",
-      "category": "economy",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/education/2026/sep/01/apprenticeships-apprentices-young-people-vocational-training",
-      "image": "https://i.guim.co.uk/img/media/880dc52ae397817983248fff5083535a0d4789b6/303_0_4675_3740/master/4675.jpg?width=140&quality=85&auto=format&fit=max&s=e055edc5807601ff9ff34378d4186cfb",
-      "publishedAt": "2026-09-01T04:00:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "jnur8o",
-      "title": "Child trust fund firms face review over efforts to find who owns £1.5bn worth of pots",
-      "summary": "Exclusive: FCA pressures firms to do more to sort 760,000 accounts as watchdog urges families to use free tracking service\nChild trust fund providers are being put under the spotlight to check they are treating savers fairly and doing all they can to reunite young people with lost accounts.\nThe Financial Conduct Author",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/money/2026/sep/01/child-trust-fund-firms-face-review-over-efforts-to-find-who-owns-15bn-worth-of-pots",
-      "image": "https://i.guim.co.uk/img/media/20e72231e687a91b7a930ccebe49bb462834b5f9/196_0_2445_1956/master/2445.jpg?width=140&quality=85&auto=format&fit=max&s=2b46434651249d96ff2c1fba38f68514",
-      "publishedAt": "2026-09-01T04:00:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "w4jd9d",
-      "title": "John Healey invites October budget ideas from Treasury staff of all levels",
-      "summary": "Chancellor says he wants everyone from apprentices to senior economists to take part in brainstorming exercise\nJohn Healey has asked junior Treasury staff – including IT workers and apprentices – to send him ideas for his October budget, saying he will listen to all suggestions regardless of grade or profession.\nThe ch",
-      "category": "economy",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/01/john-healey-invites-october-budget-ideas-from-treasury-staff-of-all-levels",
-      "image": "https://i.guim.co.uk/img/media/723e4182982ccbe7a6cd8b9c8761eea2b822e87b/785_67_4204_3364/master/4204.jpg?width=140&quality=85&auto=format&fit=max&s=b66a34b14d6bdc34b58c8d2e18209528",
-      "publishedAt": "2026-09-01T04:00:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "683hxf",
-      "title": "New super flu vaccine rollout begins as NHS regroups from 'busiest summer'",
-      "summary": "This year's jab has a few tweaks, including changes to better combat the Super-K strain.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d73b/live/cf577dd0-a2f9-11f1-8d5b-155abe464768.jpg",
-      "publishedAt": "2026-08-31T23:46:48.000Z",
-      "sample": false
-    },
-    {
-      "id": "n83oy7",
-      "title": "Summer 2026 expected to be declared UK's hottest on record",
-      "summary": "Met Office figures due on Tuesday are likely to show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84de/live/4bd31cb0-a51c-11f1-89d5-dd5482a9fcc2.jpg",
-      "publishedAt": "2026-08-31T23:42:55.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "ahr2vf",
       "title": "Feeling nostalgic for summer? How to beat the back-to-work blues",
       "summary": "Going back to work after a summer holiday can be tricky - here are a few tips to make it easier.",
-      "category": "politics",
+      "category": "economy",
       "source": "bbc-news",
       "url": "https://www.bbc.co.uk/news/articles/cx2d1vy0827o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6542/live/43e361e0-9702-11f1-beff-6d9a50bab282.jpg",
       "publishedAt": "2026-08-31T23:37:35.000Z",
-      "sample": false
-    },
-    {
-      "id": "ahw3rv",
-      "title": "Holy Cross school dispute was 'hatred at its worst'",
-      "summary": "Fr Aidan Troy says the \"hurt\" of that ordeal in 2001 in north Belfast could happen again.",
-      "category": "society",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c0m314lrywno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb60/live/c470f070-a562-11f1-a29b-3ba1838baf75.jpg",
-      "publishedAt": "2026-08-31T23:07:17.000Z",
       "sample": false
     },
     {
@@ -313,17 +887,6 @@
       "sample": false
     },
     {
-      "id": "vb9re8",
-      "title": "UK houses near top state secondary schools cost £40,000 more, research reveals",
-      "summary": "Premium of nearly 10% paid by housebuyers comparable with cost of a cheaper private school over seven years\nA house near a top state secondary school costs an extra £40,000 on average, according to research that reveals education premiums that rank alongside some private school fees.\nThe average property in a postcode ",
-      "category": "society",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/money/2026/sep/01/uk-houses-near-top-state-secondary-schools-cost-40000-more",
-      "image": "https://i.guim.co.uk/img/media/c1c3438a77ef6a63495800e18e4cc608ac117977/0_0_4267_3415/master/4267.jpg?width=140&quality=85&auto=format&fit=max&s=9d2626ea5f8c000e56bd26ec8abe1ce9",
-      "publishedAt": "2026-08-31T23:01:37.000Z",
-      "sample": false
-    },
-    {
       "id": "ihwjnk",
       "title": "Japan Inc is betting big on India as China risks deepen",
       "summary": "Japanese companies are doubling down on India amid a shrinking domestic market and rising risks in China.",
@@ -335,80 +898,14 @@
       "sample": false
     },
     {
-      "id": "hvg39v",
-      "title": "More cells being built within prisons to help tackle overcrowding",
-      "summary": "The government says £110m has been fast-tracked from existing budgets to speed up the building of new cells.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/ce8x543ddzjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b863/live/72444360-a5c6-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-31T21:59:17.000Z",
-      "sample": false
-    },
-    {
-      "id": "l777st",
-      "title": "Boy, 16, charged with murder and attempted murder",
-      "summary": "The charges follow an attack on Saturday in which a man died and his wife and daughter were injured.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/ce3rnk7975po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74f7/live/eda65ab0-a3b0-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-31T21:33:20.000Z",
-      "sample": false
-    },
-    {
-      "id": "he4kab",
-      "title": "Man dies near Notting Hill Carnival after entering canal",
-      "summary": "The man was taken to hospital by ambulance and was pronounced dead a short time later, police have said.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cg7kzy2n8z7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f27c/live/01776750-a582-11f1-ae94-15924a612dd1.jpg",
-      "publishedAt": "2026-08-31T21:33:18.000Z",
-      "sample": false
-    },
-    {
       "id": "njbhu2",
-      "title": "Amazon rigged billions in ad pricing, lawsuit from states and US watchdog alleges",
+      "title": "Amazon rigged $20bn worth of ad prices, US lawsuit alleges",
       "summary": "Amazon responded to the lawsuit, arguing the US Federal Trade Commission \"misunderstands\" their ad market.",
       "category": "technology",
       "source": "bbc-news",
       "url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06c0/live/06652f80-a574-11f1-b109-879e35c24276.jpg",
       "publishedAt": "2026-08-31T21:28:49.000Z",
-      "sample": false
-    },
-    {
-      "id": "jja3jn",
-      "title": "Hundreds remember Heaton Park synagogue attack victims at memorial event",
-      "summary": "The chief rabbi and Angela Rayner are among speakers at the event, nearly a year on from the attack.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cx2z4wlxj04o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be7b/live/1c8724d0-a2c2-11f1-9024-715001d09aeb.jpg",
-      "publishedAt": "2026-08-31T21:05:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "cy9hvf",
-      "title": "Twenty-seven people rescued from rollercoaster",
-      "summary": "Crews spend more than three hours bringing people down from the ride in Lowestoft.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c05rle7zqedo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a51/live/8ad0fc20-a54e-11f1-8689-6589354d0f8e.jpg",
-      "publishedAt": "2026-08-31T20:31:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "h519l2",
-      "title": "Conservative reshuffle: who’s who in Kemi Badenoch’s top team?",
-      "summary": "From a darling of the Tory right to a moderate former army officer, we profile the key players\n\nAndrew Griffith and Tom Tugendhat join Badenoch’s top team in Tory reshuffle\n\nKemi Badenoch has kicked off the return to parliament with a reshuffle of her top team in order to take on Andy Burnham and Reform UK. She has mad",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/31/conservative-reshuffle-whos-who-in-kemi-badenochs-top-team",
-      "image": "https://i.guim.co.uk/img/media/5d0869cdec9f1c6d793400571a27bb90b95eb922/143_0_3873_3099/master/3873.jpg?width=140&quality=85&auto=format&fit=max&s=aec771f2ba8833d08365973fe14f08cc",
-      "publishedAt": "2026-08-31T18:45:40.000Z",
       "sample": false
     },
     {
@@ -423,17 +920,6 @@
       "sample": false
     },
     {
-      "id": "xmf7i6",
-      "title": "More public control is the way to grow UK economy, Burnham to tell MPs",
-      "summary": "Exclusive: Prime minister wants to ‘bring back hope’ by tackling cost of living as MPs call for electoral reform\nAndy Burnham will drive home his pledge to bring more essential services back into public control, telling MPs in the Commons on Tuesday that it will be the only way to improve growth across the country.\nBur",
-      "category": "economy",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/31/andy-burnham-commons-more-public-ownership-only-way-to-grow-uk-economy",
-      "image": "https://i.guim.co.uk/img/media/effe6ce89e6c3e3b06fc6116276ed6f5938147e5/669_322_3840_3071/master/3840.jpg?width=140&quality=85&auto=format&fit=max&s=47a2fda14ab3588b0ced67d94893ac0f",
-      "publishedAt": "2026-08-31T18:13:31.000Z",
-      "sample": false
-    },
-    {
       "id": "z72wnk",
       "title": "Victoria Beckham's company makes its first profit after 18 years",
       "summary": "Beckham's fashion and beauty business makes a £7.3m operating profit after years of losses.",
@@ -442,17 +928,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cj645yl6d6do?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6918/live/636dc020-a55b-11f1-9acf-19576105f049.jpg",
       "publishedAt": "2026-08-31T17:28:19.000Z",
-      "sample": false
-    },
-    {
-      "id": "sigwsq",
-      "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-      "summary": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
-      "category": "technology",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b34/live/537541c0-a556-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-31T16:49:11.000Z",
       "sample": false
     },
     {
@@ -478,17 +953,6 @@
       "sample": false
     },
     {
-      "id": "qrjbcg",
-      "title": "Burnham’s bumpy ride ahead: PM’s in-tray full of dilemmas as parliament returns",
-      "summary": "Labour leader faces tough decisions on issues such as North Sea drilling, electoral reform and defence spending\n\nAfter a relatively cheery summer in which he announced a range of eye-catching cost of living policies, Andy Burnham may find his return to parliament this week to be a rude awakening.\nWhile the new prime mi",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/31/andy-burnham-in-tray-parliament-return",
-      "image": "https://i.guim.co.uk/img/media/bd82841db327a7384a8ee83476b85f5558169e0d/874_542_3199_2559/master/3199.jpg?width=140&quality=85&auto=format&fit=max&s=a73751eb24035106863d17539599d9c7",
-      "publishedAt": "2026-08-31T15:00:28.000Z",
-      "sample": false
-    },
-    {
       "id": "pyyvvl",
       "title": "Trump pushes Apple to change 'Lake Ontario' to 'Lake America' on its maps",
       "summary": "The request comes after Google made the switch for US-based users over the weekend. MapQuest, another US map provider, said it will not change the name.",
@@ -497,50 +961,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c2l80eq5lxno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d31/live/88b002d0-a54c-11f1-8689-6589354d0f8e.jpg",
       "publishedAt": "2026-08-31T15:00:11.000Z",
-      "sample": false
-    },
-    {
-      "id": "zcirl8",
-      "title": "BT on track for estimated £2bn windfall from selling old copper amid AI boom",
-      "summary": "Telecoms company to benefit from soaring prices for recycled metal recovered from full-fibre broadband rollout\nBT is on track for an estimated £2bn-plus windfall over the next decade from selling off old copper cabling, as it cashes in on soaring prices amid the AI market frenzy and switches the UK’s network to full-fi",
-      "category": "technology",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/31/bt-windfall-selling-old-copper-cables-telecoms-broadband-metal",
-      "image": "https://i.guim.co.uk/img/media/259f9d4ca52c567d9b6f1afd244f15e8c5317bf9/373_367_2946_2356/master/2946.jpg?width=140&quality=85&auto=format&fit=max&s=31c78815a7d886db0c67a36cffd3cfce",
-      "publishedAt": "2026-08-31T14:06:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "5slb8a",
-      "title": "Nursery fined after baby boy burned by bleach",
-      "summary": "The boy was 10 months old when he was was badly burned by a bucket of boiled water containing bleach at the Aberdeen nursery in 2021.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c62e6kpkl1do?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1dd/live/06b5ea90-a553-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-31T14:01:11.000Z",
-      "sample": false
-    },
-    {
-      "id": "yn51mt",
-      "title": "Smelling test: children need education in sniffing aromas, scientist says",
-      "summary": "Exclusive: Dr Will Tullett says better understanding of scents can improve wellbeing and perception of the world\nChildren need a better education in sniffing aromas, a leading historian of smells has said, noting it may improve their wellbeing and help them understand the world around them.\nDr Will Tullett, of the Univ",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/science/2026/aug/31/children-education-sniffing-aromas-scientist",
-      "image": "https://i.guim.co.uk/img/media/9e1156d92ff3a8e109c3a63186a72c45ed0261ab/1254_244_3967_3174/master/3967.jpg?width=140&quality=85&auto=format&fit=max&s=6639b51904761048d65f1786fcbd6b65",
-      "publishedAt": "2026-08-31T13:00:25.000Z",
-      "sample": false
-    },
-    {
-      "id": "9bh0u6",
-      "title": "UK social mobility watchdog could be axed as ministers plan shake-up",
-      "summary": "Exclusive: Labour MPs believe Gordon Brown-era SMC has become ineffective and its work ‘should be a core function of government’\nMinisters are considering a shake-up of the government’s social mobility watchdog that could range from giving it more teeth to abolishing it outright.\nThe move comes amid concerns that the S",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/31/ministers-consider-closing-social-mobility-watchdog-as-part-of-planned-shake-up",
-      "image": "https://i.guim.co.uk/img/media/d9c1aaa861e50eccea3bf029f08204844013eb2d/238_0_2373_1899/master/2373.jpg?width=140&quality=85&auto=format&fit=max&s=5b704910d1d8c2c9f4222aafec07308e",
-      "publishedAt": "2026-08-31T12:23:02.000Z",
       "sample": false
     },
     {
@@ -555,36 +975,14 @@
       "sample": false
     },
     {
-      "id": "flglh5",
-      "title": "The London office, the empty boxes and the £1bn tax loophole",
-      "summary": "Exclusive: How a court case over an unoccupied office block could end a widely used tax avoidance scheme\nFrom the outside, the seven-storey building at 2 America Square looks like any other office block in the heart of London’s financial district.\nLocated about half a mile from Tower Bridge, one might expect it to be a",
-      "category": "politics",
+      "id": "76vzqt",
+      "title": "Cross-party talks needed to tackle climate crisis, say Lib Dems",
+      "summary": "Andy Burnham urged to seek consensus over response to extreme heat and forthcoming ‘super El Niño’\nAndy Burnham should call a cross-party meeting to discuss the UK’s response to worsening extreme weather, including the forthcoming ‘super El Niño’, the Liberal Democrats have said.\nThe prime minister chaired a Cobra emer",
+      "category": "environment",
       "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/31/the-london-office-the-empty-boxes-and-the-1bn-tax-loophole",
-      "image": "https://i.guim.co.uk/img/media/95e51d5a7844557920d3f2043de88d21038f144d/0_0_4221_3377/master/4221.jpg?width=140&quality=85&auto=format&fit=max&s=f2f29700d8c637472644e877989b4cb5",
-      "publishedAt": "2026-08-31T12:00:25.000Z",
-      "sample": false
-    },
-    {
-      "id": "bb131w",
-      "title": "Business groups urge Swinney to scrap 'ineffective' food price cap plan",
-      "summary": "More than 20 organisations have written a joint letter to John Swinney urging him to scrap his plan for a legal cap on some food and drink prices.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c2l80j2rdlxo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8867/live/3df65690-a510-11f1-89d5-dd5482a9fcc2.jpg",
-      "publishedAt": "2026-08-31T11:56:50.000Z",
-      "sample": false
-    },
-    {
-      "id": "mbbzh3",
-      "title": "UK raises case of British activist detained by settlers in West Bank with Israel",
-      "summary": "Finn Joughin, a 22-year-old student activist, was arrested in the Palestinian village of Umm Al-Kheir.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cec4/live/fdcbbaf0-a4b1-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-31T10:00:23.000Z",
+      "url": "https://www.theguardian.com/environment/2026/aug/31/talks-el-nino-climate-crisis-lib-dems-andy-burnham",
+      "image": "https://i.guim.co.uk/img/media/bb9f80aaa85935c9bdc4d577e47f7fef2f604cec/564_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=cf5159e926b797642e2219d6756bcd7f",
+      "publishedAt": "2026-08-31T11:48:23.000Z",
       "sample": false
     },
     {
@@ -598,30 +996,6 @@
       "publishedAt": "2026-08-31T08:50:38.000Z",
       "sample": false
     },
-    {
-      "id": "v07kuc",
-      "title": "Grandfather dies months after confronting burglars",
-      "summary": "Gordon Nicholass, 85, was the victim of a burglary at his home, say Lancashire Police.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c5ymv11xvl1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb01/live/ef592b30-a4aa-11f1-8de1-0773830f283b.png",
-      "publishedAt": "2026-08-31T08:15:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "d762py",
-      "title": "Fears over 'high risk' crossing after train crash death",
-      "summary": "An investigation is ongoing into the cause of a crash in which a delivery driver was killed on a crossing.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/crm9nm2xzjeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c607/live/fcce2fd0-a4ab-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-31T06:22:30.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "dywau4",
       "title": "New home means 'big ambitions' for wood enterprise",
@@ -645,50 +1019,6 @@
       "sample": false
     },
     {
-      "id": "uduaea",
-      "title": "The millennials swapping doom-scrolling for gardening",
-      "summary": "Young people say gardening offers joy, serenity and a sense of community.",
-      "category": "society",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c4g4r4n3p02o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d92e/live/f001ee10-a067-11f1-ab4b-e3f95ee34b2e.jpg",
-      "publishedAt": "2026-08-31T05:58:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "9qnenc",
-      "title": "The druid, the weather presenter and the astronomer - when does autumn start?",
-      "summary": "Why are there three different dates for the start of autumn and who follows which date?",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywxv1dpldo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aa6/live/783bcc50-a2f8-11f1-8d5b-155abe464768.png",
-      "publishedAt": "2026-08-31T05:31:42.000Z",
-      "sample": false
-    },
-    {
-      "id": "k99rq",
-      "title": "Hints of fiery finale for last ever episode of River City",
-      "summary": "The Scottish soap opera, based in the fictional Glasgow district of Shieldinch, is coming to an end after 24 years.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c1dl31k01v7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be56/live/41581b40-a478-11f1-bed8-470734b5b662.jpg",
-      "publishedAt": "2026-08-31T05:20:22.000Z",
-      "sample": false
-    },
-    {
-      "id": "3dicxn",
-      "title": "Properties in UK national parks command 24% premium, study finds",
-      "summary": "Nationwide research also shows average 14% premium for housing in national landscapes of England and Wales\nHousebuyers are paying a premium of almost a quarter to own a property located within a UK national park, with the New Forest the most expensive national park to live in, according to Britain’s biggest building so",
-      "category": "society",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/31/properties-uk-national-parks-premium-nationwide",
-      "image": "https://i.guim.co.uk/img/media/af849245b5d41983319452f01e029aa18179bad7/532_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e98c288b60febc40f19cdbd0c96920b0",
-      "publishedAt": "2026-08-31T04:00:16.000Z",
-      "sample": false
-    },
-    {
       "id": "rfdb88",
       "title": "Rejoining the EU, Burnham’s donors and the bedroom tax: Politics Weekly answers your questions – podcast",
       "summary": "Will the UK ever rejoin the EU? Who is funding Andy Burnham? And will the bedroom tax be scrapped? In a special episode, Kiran Stacey and Peter Walker answer some of your questions\nPlease keep sending your comments and questions to Pippa and Kiran at politicsweeklyuk@theguardian.com\n Continue reading...",
@@ -697,28 +1027,6 @@
       "url": "https://www.theguardian.com/politics/audio/2026/aug/31/rejoining-eu-bedroom-tax-andy-burnham-political-donors-politics-weekly-answers-your-questions-podcast",
       "image": "https://i.guim.co.uk/img/media/c7b56ca182beb845a51ee94841ed7fa864c5a1a7/129_0_1639_1312/master/1639.jpg?width=140&quality=85&auto=format&fit=max&s=087d791e60b29e49c1d3b96fe88ff3b8",
       "publishedAt": "2026-08-31T04:00:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "fejqs5",
-      "title": "Emergency measures needed to stop teachers quitting, say Lib Dems",
-      "summary": "A survey by the party suggested almost half of teachers reported considering quitting the classroom in the next five years.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/ckgxng520m0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c68f/live/e27cb7b0-a225-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-31T01:53:17.000Z",
-      "sample": false
-    },
-    {
-      "id": "2ensrv",
-      "title": "The mystery of why so many black Britons still can't swim",
-      "summary": "For decades, swimming ability has been lower in the black community. Our writer asks why.",
-      "category": "society",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cx27vxkpdz1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae17/live/9244d340-a16c-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-31T00:31:22.000Z",
       "sample": false
     },
     {
@@ -755,28 +1063,6 @@
       "sample": false
     },
     {
-      "id": "ahrjpx",
-      "title": "What is Burnham doing to the early prison release scheme and why?",
-      "summary": "Offences including manslaughter have been excluded from changes to sentencing rules amid an overcrowding crisis\nGrooming gang perpetrators and killers, including those responsible for PC Andrew Harper’s death, will be blocked from early prison release under changes announced by Andy Burnham after a backlash over the sc",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/30/early-prison-release-scheme-changes-backlash",
-      "image": "https://i.guim.co.uk/img/media/5794239053f2a577123d51346e627f901e03ade6/917_241_5281_4227/master/5281.jpg?width=140&quality=85&auto=format&fit=max&s=425739a4e0d268318bd9094722c3f1be",
-      "publishedAt": "2026-08-30T16:59:18.000Z",
-      "sample": false
-    },
-    {
-      "id": "vth7qs",
-      "title": "Recruiter places ‘phoenix’ firm into liquidation just months after repurchase erased millions in debt",
-      "summary": "New company reportedly quickly fell behind with promised repayments to administrator\nA recruitment executive who was allowed to buy back the assets of his bust company in instalments, despite it accumulating almost £3m of debt, has placed his new business into liquidation after falling behind with promised payments to ",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/30/phoenix-redundancies-recruiter-hmrc",
-      "image": "https://i.guim.co.uk/img/media/339120e026a08d4477d3d9095caaa7d66c696ae2/298_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=871d5e70bab9cdcf256ddc1a845f6c22",
-      "publishedAt": "2026-08-30T14:38:00.000Z",
-      "sample": false
-    },
-    {
       "id": "lspep6",
       "title": "Women in UK arts feel they do not have equal opportunities for roles, says report",
       "summary": "Exclusive: Research says sector is fixated with young talent, with most women experiencing unconscious bias or sexism\nWomen working in the arts believe they do not have equal opportunities for roles, especially as they get older, according to a report saying that the industry is fixated with “young and emerging” talent",
@@ -796,17 +1082,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cly4v6qr5e9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6279/live/cc2bdc30-a300-11f1-80b3-bf1a174ac193.jpg",
       "publishedAt": "2026-08-30T06:12:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "ifhtkz",
-      "title": "‘Tiny bit of rain and the sewage comes’: Brighton swimmers vent fury at sea pollution",
-      "summary": "Checking for sewage spills has become as normal as checking the weather forecast, say swimmers on East Sussex beaches\n\nSouth West Water has worst environmental record in England, analysis shows\n\n“I’m furious,” says Jo Armstrong, 75, sitting on Brighton beach with her daughter and granddaughter.\nArmstrong lives in Lewes",
-      "category": "environment",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/30/sewage-brighton-swimmers-condemn-sea-pollution",
-      "image": "https://i.guim.co.uk/img/media/3730cf51cdac8a025143cceea40830e401b1ae3e/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=8f848896bc377b99fb5765ead795c5a8",
-      "publishedAt": "2026-08-30T06:00:48.000Z",
       "sample": false
     },
     {
@@ -843,17 +1118,6 @@
       "sample": false
     },
     {
-      "id": "v6pbse",
-      "title": "Australia usually hosts the world's biggest cuttlefish mating event - not this year",
-      "summary": "According to official figures only 1,811 cuttlefish turned up to mate this year, down 97% on last year.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c75gyw0nkzno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cdf/live/256e85b0-a1ec-11f1-bf30-b9c45f18ad85.jpg",
-      "publishedAt": "2026-08-29T18:30:32.000Z",
-      "sample": false
-    },
-    {
       "id": "yudgoy",
       "title": "The race to stop England running out of water",
       "summary": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
@@ -865,17 +1129,6 @@
       "sample": false
     },
     {
-      "id": "8dg1qh",
-      "title": "Fourth time lucky as Chris Cantrill’s spoof whodunnit wins Edinburgh comedy award 2026",
-      "summary": "Nominated in three previous years, the rambunctious standup – one half of The Delightful Sausage – wins the prize for his show Rewilding while Marty Gleeson is named best newcomer\nThe annual Edinburgh comedy award has been won by the standup Chris Cantrill, two years after his comedy partner Amy Gledhill – in the rauco",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/stage/2026/aug/29/chris-cantrill-edinburgh-comedy-award-2026",
-      "image": "https://i.guim.co.uk/img/media/f336c1b68459a0a87de2836991bd626e2681b46b/1624_275_1488_1190/master/1488.jpg?width=140&quality=85&auto=format&fit=max&s=0133b834ad0dec0dd5d7295fa3aa413a",
-      "publishedAt": "2026-08-29T12:50:21.000Z",
-      "sample": false
-    },
-    {
       "id": "13fdup",
       "title": "Thunderstorms and gusty winds set to continue into Bank Holiday Monday",
       "summary": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
@@ -884,17 +1137,6 @@
       "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86ef/live/040d5720-a453-11f1-b109-879e35c24276.jpg",
       "publishedAt": "2026-08-29T10:51:21.000Z",
-      "sample": false
-    },
-    {
-      "id": "dkayuw",
-      "title": "‘In walked this big bundle of energy’: the day Dolly Parton came to Rotherham",
-      "summary": "Country star came to South Yorkshire town in 2007 for UK launch of the Imagination Library, her book donation scheme\nShane Jarman was up a ladder decorating a Christmas tree at the school where he was deputy headteacher when he got a call asking him to come to Rotherham hospital ASAP. It was December 2007 and Jarman’s ",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
-      "image": "https://i.guim.co.uk/img/media/38e3e0cb347b0d24dc75057b9ee05fed3db05151/0_90_1687_1350/master/1687.jpg?width=140&quality=85&auto=format&fit=max&s=eb88efdedd6d98648792506982b30268",
-      "publishedAt": "2026-08-29T07:00:21.000Z",
       "sample": false
     },
     {
@@ -920,17 +1162,6 @@
       "sample": false
     },
     {
-      "id": "rs7bf1",
-      "title": "'Our parents were crossing the border an hour before the flood hit'",
-      "summary": "Authorities say nearly 2,000 people are missing, including more than 100 Americans and Canadians, as families await word on loved ones after the Nepal flash floods.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cn5dzldq1pzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192a/live/9d95b090-a237-11f1-80a2-67c89a95284e.jpg",
-      "publishedAt": "2026-08-28T17:59:31.000Z",
-      "sample": false
-    },
-    {
       "id": "8hg16q",
       "title": "Wife of man who died after turbulence sues airline",
       "summary": "Lawyers for Linda Kitchen say her husband was \"fatally injured\" after the flight dropped 6,000 ft.",
@@ -953,39 +1184,6 @@
       "sample": false
     },
     {
-      "id": "ixgfbz",
-      "title": "New heart attack definition promises better care for women",
-      "summary": "Leading cardiovascular health groups reclassify overlooked causes and introduce sex-specific diagnostic thresholds\nDoctors have agreed the world’s first universal definition of a heart attack, paving the way for millions of women to finally receive better treatment after decades of being “deprioritised”.\nIn one of the ",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/society/2026/aug/28/doctors-care-revolution-agree-first-universal-definition-heart-attack",
-      "image": "https://i.guim.co.uk/img/media/1b7b639f4480d1af6b1e5b3a1d44bcf2820d2975/436_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=6ba029f4807fde795c68394618d17a44",
-      "publishedAt": "2026-08-28T17:00:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "2l5n4z",
-      "title": "London Science Museum cuts links with BP after decades of partnership",
-      "summary": "Campaigners say ‘seismic shift’ follows years of pressure to sever ties with oil and gas firm\nThe London Science Museum has ended its decades-long partnership with the oil and gas company BP in what has been described as a “seismic shift” for the museum.\nThe Science Museum Group academy, which was established in 2018 t",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/culture/2026/aug/28/london-science-museum-cuts-links-with-bp-after-decades-of-partnership",
-      "image": "https://i.guim.co.uk/img/media/5bd10c212259b1d37911bc64ff61af88452b2d84/22_0_1501_1200/master/1501.jpg?width=140&quality=85&auto=format&fit=max&s=0b5f8ab54cac65ec97004c5fe9501d55",
-      "publishedAt": "2026-08-28T16:57:06.000Z",
-      "sample": false
-    },
-    {
-      "id": "m99ggo",
-      "title": "Salmonella cases in UK likely to rise until source of outbreak is found",
-      "summary": "Experts say imported eggs served in cafes and restaurants may be behind hundreds of infections and one death\nSalmonella cases in the UK are expected to rise until the common source is identified, something that is notoriously difficult to establish, experts have warned.\nThere have been 474 confirmed cases and one death",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/food/2026/aug/28/salmonella-cases-in-uk-likely-to-rise-until-source-of-outbreak-is-found",
-      "image": "https://i.guim.co.uk/img/media/bdc6b6d372d971af81d32f512459abbfc3687983/422_0_4279_3425/master/4279.jpg?width=140&quality=85&auto=format&fit=max&s=cf7221c947c8301648203e2a43042305",
-      "publishedAt": "2026-08-28T16:42:32.000Z",
-      "sample": false
-    },
-    {
       "id": "gus68t",
       "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
       "summary": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
@@ -997,17 +1195,6 @@
       "sample": false
     },
     {
-      "id": "631uf9",
-      "title": "Labour rejects Zack Polanski’s call to ‘slam brakes’ on building AI datacentres",
-      "summary": "Government says Green leader’s proposed moratorium on ‘energy-guzzling’ AI projects would be disaster for economy\nLabour has rejected calls to pause construction of major AI infrastructure in Britain after the Green party leader, Zack Polanski, said it was time to “slam the brakes on these energy-guzzling, water-guzzli",
-      "category": "technology",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/28/labour-green-party-zack-polanski-ai-datacentres",
-      "image": "https://i.guim.co.uk/img/media/525c4e85c85303424c9398d6d473a226f359f96d/262_0_3407_2725/master/3407.jpg?width=140&quality=85&auto=format&fit=max&s=1fdbb03bf03634044560ffa3602ca83b",
-      "publishedAt": "2026-08-28T15:11:46.000Z",
-      "sample": false
-    },
-    {
       "id": "jhxyx2",
       "title": "Watch: Stargazers around the world glimpse 'Blood Moon' lunar eclipse",
       "summary": "Some parts of the globe had a chance to see the rare event when the Sun, Earth and Moon line up in the night sky.",
@@ -1016,17 +1203,6 @@
       "url": "https://www.bbc.co.uk/news/videos/ce3rykzvevno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53e7/live/2e2c0bf0-a2cd-11f1-941c-8741c1a72471.jpg",
       "publishedAt": "2026-08-28T12:49:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "i4h3kn",
-      "title": "The chefs turning down the heat by switching from gas to electric",
-      "summary": "As well as being quieter, cheaper to run and easier to clean, induction cookers can cut kitchen temperatures by up to 10C\nLeaping flames, searing heat, copious sweat and scorchingly inventive swearing – restaurant kitchens are never a place for the faint-hearted, but this summer they have been sweltering in successive ",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/28/the-chefs-turning-down-the-heat-by-switching-from-gas-to-electric",
-      "image": "https://i.guim.co.uk/img/media/d1def661acc139e91595c15f4d61e27293a8135e/950_0_4750_3800/master/4750.jpg?width=140&quality=85&auto=format&fit=max&s=e7a166af5986e96a1e3a56e654ff7496",
-      "publishedAt": "2026-08-28T11:00:56.000Z",
       "sample": false
     },
     {
@@ -1049,17 +1225,6 @@
       "url": "https://www.bbc.co.uk/news/videos/c4gvx94djpdo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9528/live/a92fa6a0-a2c7-11f1-a291-b542ee92de7c.jpg",
       "publishedAt": "2026-08-28T10:23:21.000Z",
-      "sample": false
-    },
-    {
-      "id": "r6byfa",
-      "title": "Bank holiday weekend to see more thunderstorms and rain",
-      "summary": "The weather will remain unsettled across the next few days with showers, longer spells of rain and thunderstorms all likely at times across the weekend.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/weather/articles/cpq0zqepnrlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0ae/live/5bf17290-a2b0-11f1-ab20-f9f4f61e8913.jpg",
-      "publishedAt": "2026-08-28T09:42:47.000Z",
       "sample": false
     },
     {
@@ -1107,17 +1272,6 @@
       "sample": false
     },
     {
-      "id": "da3tn6",
-      "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
-      "summary": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c53/live/5e79d6c0-a1e2-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-28T03:23:21.000Z",
-      "sample": false
-    },
-    {
       "id": "60iowc",
       "title": "NHS bosses warn of chaos in ADHD and autism care",
       "summary": "Costs are spiralling out of control as unregulated private providers capitalise on demand, say managers.",
@@ -1126,17 +1280,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cy4zgpynwdjo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8406/live/9fc9a130-a22f-11f1-b109-879e35c24276.png",
       "publishedAt": "2026-08-28T01:23:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "9gwh5z",
-      "title": "The Interview",
-      "summary": "Kristina Wilfore on how a ‘Male Grievance Industry’ is defrauding men on social media",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct98kl?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p6n9v2.jpg",
-      "publishedAt": "2026-08-27T23:30:00.000Z",
       "sample": false
     },
     {
@@ -1181,17 +1324,6 @@
       "url": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3444/live/d1483030-8ff3-11f1-a10e-47119dd4425c.jpg",
       "publishedAt": "2026-08-27T23:04:21.000Z",
-      "sample": false
-    },
-    {
-      "id": "iw7iy3",
-      "title": "Clean-up of illegal waste supersite costs taxpayers £6m",
-      "summary": "The bill for clearing the dump in Oxfordshire has been covered by taxpayers.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/58f232c0-a2a4-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-27T21:00:48.000Z",
       "sample": false
     },
     {
@@ -1250,17 +1382,6 @@
       "sample": false
     },
     {
-      "id": "5m9jvx",
-      "title": "What caused the flooding in Nepal?",
-      "summary": "Experts point to 'glacial collapse' as the trigger for deadly floods that have swept through parts of Nepal and Tibet.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/c07l9ggx8m7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13e5/live/2d949710-a242-11f1-aed2-8d6da8d75094.png",
-      "publishedAt": "2026-08-27T18:20:45.000Z",
-      "sample": false
-    },
-    {
       "id": "u4txsa",
       "title": "'Take care of yourself now'",
       "summary": "Grammy award-winning soprano Angel Bluehow discusses how a recent health diagnosis has affected her.",
@@ -1294,17 +1415,6 @@
       "sample": false
     },
     {
-      "id": "7ksp2a",
-      "title": "Much-loved ice cream shop to close after 106 years",
-      "summary": "The family-run shop has been a fixture in Brislington, Bristol since the 1920s.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/c93ep37jq8wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/291b/live/57a86d90-a208-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-08-27T11:16:40.000Z",
-      "sample": false
-    },
-    {
       "id": "cid2oj",
       "title": "Salmonella outbreak: What we know so far",
       "summary": "Hundreds have fallen ill with salmonella infections in an outbreak linked to imported eggs.",
@@ -1327,17 +1437,6 @@
       "sample": false
     },
     {
-      "id": "xcmpby",
-      "title": "Vaping best way to quit smoking, new study finds",
-      "summary": "A team looked at 80 major trials involving nearly 30,000 people and found that nicotine vapes were more effective than traditional aids, increasing the success rate by about 60 percent.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/clym7y9kjkdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e896/live/0527faa0-a1fd-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-27T10:00:33.000Z",
-      "sample": false
-    },
-    {
       "id": "i4frv7",
       "title": "Black Box: The Chatbots: a new series from The Guardian Investigates – trailer",
       "summary": "People are becoming convinced AI chatbots have helped them make scientific breakthroughs, cure diseases or invent new technologies. What does this reveal about a technology used by more than a billion people? A new series from The Guardian Investigates, coming soon\n Continue reading...",
@@ -1346,28 +1445,6 @@
       "url": "https://www.theguardian.com/technology/audio/2026/aug/27/black-box-the-chatbots-new-series-guardian-investigates-trailer",
       "image": "https://i.guim.co.uk/img/media/4c85abb174c68555842108292cbc66659566b096/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=494a4090003b4233280e476c5414f583",
       "publishedAt": "2026-08-27T10:00:11.000Z",
-      "sample": false
-    },
-    {
-      "id": "lkebrt",
-      "title": "The Global Story",
-      "summary": "The US’s economic pressure could kick-start a global trade conflict",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8mfq?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p6hmnp.jpg",
-      "publishedAt": "2026-08-27T09:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "un3dm4",
-      "title": "Tim Curry, the prolific performer who transformed for the screen – video",
-      "summary": "Tim Curry was a versatile performer on stage and screen who made his name as the flamboyant Dr Frank-N-Furter in The Rocky Horror Picture Show. Curry’s best-known roles often required a considerable physical transformation, to the extent that he was unrecognisable in some of them. As Frank-N-Furter, Rocky Horror’s ecce",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/culture/video/2026/aug/27/tim-curry-the-prolific-performer-who-transformed-for-the-screen-video",
-      "image": "https://i.guim.co.uk/img/media/e2abdc148dc3878482d0c7731e17eba5b48d56be/0_95_2400_1919/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=bf5f3b020145503a2d254b9b05fbc574",
-      "publishedAt": "2026-08-27T08:54:00.000Z",
       "sample": false
     },
     {
@@ -1390,28 +1467,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwy422pz1yro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94c/live/b788e320-a13b-11f1-9311-09d4e1fc9016.jpg",
       "publishedAt": "2026-08-27T05:26:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "nii34h",
-      "title": "How can you see Friday's 'Magical' Blood Moon?",
-      "summary": "A blood red moon may be visible in the early hours of Friday during a partial lunar eclipse.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/crerdrlepg8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/400e/live/7140cbd0-a091-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-27T05:23:21.000Z",
-      "sample": false
-    },
-    {
-      "id": "szaz50",
-      "title": "How to watch the partial lunar eclipse from Northern Ireland",
-      "summary": "Skygazers may see a partial lunar eclipse early on Friday, as the Moon enters Earth's shadow.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cq5xe322ezgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf60/live/15d4ce10-8c22-11f0-b391-6936825093bd.jpg",
-      "publishedAt": "2026-08-27T05:15:52.000Z",
       "sample": false
     },
     {
@@ -1525,17 +1580,6 @@
       "sample": false
     },
     {
-      "id": "ykbdkx",
-      "title": "Heavy periods study to create world's largest biobank",
-      "summary": "It will the create world's largest menstrual fluid biobank to improve treatment of heavy periods.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/clyeyy944myo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be51/live/3f4d91a0-85e1-11f1-9837-c51febdbeb82.png",
-      "publishedAt": "2026-08-26T05:12:32.000Z",
-      "sample": false
-    },
-    {
       "id": "coicqw",
       "title": "NHS failing child sexual abuse victims in adulthood, say psychiatrists",
       "summary": "There have been decades of mistreatment and mismanagement of those who seek help later in life, say experts in a new, damning report.",
@@ -1544,50 +1588,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91ff/live/c3472cc0-a09c-11f1-8a1f-314a01485cf4.png",
       "publishedAt": "2026-08-26T04:07:48.000Z",
-      "sample": false
-    },
-    {
-      "id": "9u6yyt",
-      "title": "Nicotine vapes best chance to quit smoking, major review finds",
-      "summary": "They work better than patches, gum or pills, the most up-to-date evidence suggests.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c1e5p51n2p2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55d4/live/9aa98d10-a08a-11f1-8116-c5aabe4388a9.jpg",
-      "publishedAt": "2026-08-25T23:40:38.000Z",
-      "sample": false
-    },
-    {
-      "id": "io20u8",
-      "title": "AI gold rush draws crypto firms away from Bitcoin",
-      "summary": "The price of Bitcoin has risen in August but is still far below its peak almost a year ago - and companies are refitting their mines.",
-      "category": "technology",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c07ler8x9kpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c2d/live/88718a80-a07b-11f1-bfeb-dfb02ea642ef.png",
-      "publishedAt": "2026-08-25T23:11:02.000Z",
-      "sample": false
-    },
-    {
-      "id": "98e6a4",
-      "title": "Firms scramble for battery power in Spain and Portugal",
-      "summary": "After last year's massive power failure Spanish and Portuguese firms are buying battery back ups.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cjrg10j721jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee02/live/d89808b0-a056-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-25T23:09:31.000Z",
-      "sample": false
-    },
-    {
-      "id": "7ek2aq",
-      "title": "Tech Life",
-      "summary": "The government agency that's encouraging high-risk and high-reward research.",
-      "category": "technology",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8jyb?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p686m4.jpg",
-      "publishedAt": "2026-08-25T20:00:00.000Z",
       "sample": false
     }
   ],
