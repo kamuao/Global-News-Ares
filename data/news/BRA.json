@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-09-02T06:24:24.535Z",
+  "updatedAt": "2026-09-02T18:20:50.893Z",
   "daily": [
+    {
+      "id": "jpzfkq",
+      "title": "Brazilian Supreme Court Justice Moraes Should Resign",
+      "summary": "There is no longer a place on the Supreme Federal Court (STF) for Alexandre de Moraes. If the justice does not resign, it will be up to the Senate, through impeachment proceedings, to rid the court of this burden.\nLeia mais (09/02/2026 - 06h55)",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/opinion/2026/09/brazilian-supreme-court-justice-moraes-should-resign.shtml",
+      "image": null,
+      "publishedAt": "2026-09-02T09:55:00.000Z",
+      "sample": false
+    },
     {
       "id": "3vuyo5",
       "title": "Former Banker Daniel Vorcaro Asked Justice Moraes Whether He Should Leave The Country Two Days before His Arrest",
@@ -14,7 +25,9 @@
       "image": null,
       "publishedAt": "2026-09-01T22:14:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "9oxwbc",
       "title": "Women Trafficked in Cambodia Suffer Rape; Victim Says She Was Offered as a 'Prize'",
@@ -36,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-09-01T17:04:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "wrvbl7",
       "title": "S�o Paulo Metro Retires Magnetic Tickets After More Than 50 Years",
@@ -125,17 +136,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/08/daniela-and-gabriel-left-brazil-for-cambodia-in-search-of-work-she-is-imprisoned-and-he-returned-in-a-coffin.shtml",
       "image": null,
       "publishedAt": "2026-08-26T19:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ocxq2u",
-      "title": "In Cambodia, Brazilian Human Trafficking Victims Live Behind Bars, Under Surveillance and Torture",
-      "summary": "In Cambodia, Brazilian human trafficking victims live behind bars, under surveillance and torture. The country led records of this crime in 2025, with 44 of the 84 cases, according to a report by the Ministry of Justice, a 33% increase from 2024. Forced labor was the main purpose of the crime during the period, with 49",
-      "category": "society",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/08/in-cambodia-brazilian-human-trafficking-victims-live-behind-bars-under-surveillance-and-torture.shtml",
-      "image": null,
-      "publishedAt": "2026-08-26T15:02:00.000Z",
       "sample": false
     }
   ],
