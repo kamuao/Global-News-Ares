@@ -2,12 +2,45 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-02T00:22:58.748Z",
+  "updatedAt": "2026-09-02T06:24:19.558Z",
   "daily": [
+    {
+      "id": "w5tr2o",
+      "title": "Tunisia's human rights defenders decry civil society crackdown",
+      "summary": "Five years into the authoritarian rule of Tunisian President Kais Saied, Human Rights Watch and other activists warn that Tunisia's once vibrant civil society is in danger of being completely stifled.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/tunisia-s-human-rights-defenders-decry-civil-society-crackdown/a-78614966?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-02T04:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "7ygnpf",
+      "title": "Hong Kong activist Joshua Wong pleads guilty to collusion",
+      "summary": "The prominent activist pleaded guilty to colluding with foreign entities. He faces a lengthy prison sentence.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/hong-kong-activist-joshua-wong-pleads-guilty-to-collusion/a-78657525?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-02T02:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "wgd4k8",
+      "title": "Iran war: US, Tehran trade fire in new flare-up",
+      "summary": "Explosions have been reported around the Strait of Hormuz, including at an airport in southern Iran. US President Donald Trump said the strikes were a response to Iranian attempts to mine the strait. Follow DW.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/iran-war-us-tehran-trade-fire-in-new-flare-up/live-78656656?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-02T01:29:00.000Z",
+      "sample": false
+    },
     {
       "id": "y7n1cc",
       "title": "Ukraine: Russia threatens 'devastating' Baltic response",
-      "summary": "Any escalation in the Baltic region will lead to a significant response, Moscow said. Follow DW for more.",
+      "summary": "Any escalation in the Baltic region will lead to a significant response, Moscow said.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/ukraine-russia-threatens-devastating-baltic-response/live-78582421?maca=en-rss-en-all-1573-xml-mrss",
@@ -23,18 +56,7 @@
       "source": "dw",
       "url": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-09-01T22:55:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "wgd4k8",
-      "title": "Iran war: US, Tehran trade fire in new flare-up",
-      "summary": "Explosions have been reported around the Strait of Hormuz, including at an airport in southern Iran. US President Donald Trump said the strikes were a response to Iranian attempts to mine the strait. Follow DW.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/iran-war-us-tehran-trade-fire-in-new-flare-up/live-78656656?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-01T20:57:00.000Z",
+      "publishedAt": "2026-09-01T22:56:00.000Z",
       "sample": false
     },
     {
@@ -201,7 +223,9 @@
       "image": null,
       "publishedAt": "2026-09-01T07:00:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "pqgypj",
       "title": "Ulrich Siegmund wants to make Saxony-Anhalt a model for AfD rule",
@@ -213,19 +237,6 @@
       "publishedAt": "2026-09-01T04:32:00.000Z",
       "sample": false
     },
-    {
-      "id": "fs54wv",
-      "title": "Tupac Shakur murder trial: Duane 'Keffe D' Davis guilty",
-      "summary": "The jury reached a verdict in less than three hours in a case that had been unsolved for nearly 30 years. Davis was convicted of murder with the use of a deadly weapon and could be sentenced to life in prison.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/tupac-shakur-murder-trial-duane-keffe-d-davis-guilty/a-78581756?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-01T00:27:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "2n1k9r",
       "title": "At Venice Film Festival, politics take center stage",
