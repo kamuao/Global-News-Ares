@@ -2,8 +2,41 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-09-03T12:20:21.675Z",
+  "updatedAt": "2026-09-03T18:17:10.093Z",
   "daily": [
+    {
+      "id": "biwr61",
+      "title": "Billionaire Leon Black skips US congressional deposition over Epstein ties",
+      "summary": "The billionaire investor instead files a lawsuit challenging the subpoenas from the US congressional committee, which is looking into Jeffrey Epstein's links to the rich and powerful.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-04/leon-black-jeffrey-epstein-deposition/107114552",
+      "image": null,
+      "publishedAt": "2026-09-03T17:19:24.000Z",
+      "sample": false
+    },
+    {
+      "id": "zaomha",
+      "title": "European allies sound alarm at more incidents of alleged Russian sabotage",
+      "summary": "A suspected arson attack at a German defence manufacturer comes just a day after two separate attempts to sabotage the country's power grid.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-04/sabotage-germany-defence-manufacturer/107114408",
+      "image": null,
+      "publishedAt": "2026-09-03T17:10:59.000Z",
+      "sample": false
+    },
+    {
+      "id": "9b9ojs",
+      "title": "'Soiled' undies and vicious friends research honoured at Ig Nobels",
+      "summary": "Each year, the Ig Nobel prizes celebrate research that makes you laugh, then makes you think. This year's winners include an \"underwear index\", a cumbersome kissing definition and why we want friends that will happily stab someone in the eye.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/science/2026-09-04/ig-nobel-prize-2026-zurich-kissing-animals-vicious-friends/107101748",
+      "image": null,
+      "publishedAt": "2026-09-03T17:00:00.000Z",
+      "sample": false
+    },
     {
       "id": "12s7b4",
       "title": "Labor shuts down course linked to student visa misuse",
@@ -28,7 +61,7 @@
     },
     {
       "id": "puwxe3",
-      "title": "Iconoclast feminist Gloria Steinem dies aged 92",
+      "title": "Feminist icon Gloria Steinem dies aged 92",
       "summary": "With her trademark streaked hair parted down the middle and large aviator glasses, Gloria Steinem, a co-founder of Ms. Magazine, was a hugely recognisable presence wherever she went.",
       "category": "economy",
       "source": "abc-au",
@@ -50,8 +83,8 @@
     },
     {
       "id": "3cinte",
-      "title": "Live: Hawks on verge of stunning upset as Dockers need a miracle",
-      "summary": "Fremantle's finals campaign starts with a stern test in the west, taking on Hawthorn in the first qualifying final at Perth Stadium. Follow live.",
+      "title": "Hawks complete stunning upset over Freo to clinch prelim berth",
+      "summary": "Hawthorn will host an MCG preliminary final after an upset 32-point win over minor premier Fremantle in Perth.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-09-03/afl-qualifying-final-dockers-hawks-live-blog/107112142",
@@ -61,8 +94,8 @@
     },
     {
       "id": "r6ajsh",
-      "title": "Live: Broncos send Haas out a winner with top score of 2026 against Dogs",
-      "summary": "The Broncos win a final-round contest against the Bulldogs, in a game that doubled as Payne Haas's farewell from Brisbane. Follow live.",
+      "title": "Broncos send Haas out a winner with top score of 2026 against Dogs",
+      "summary": "The Broncos win a final-round contest against the Bulldogs 34-20, in a game that doubled as superstar prop Payne Haas's farewell from Brisbane.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-09-03/nrl-live-brisbane-broncos-vs-canterbury-bulldogs-payne-haas/107111222",
@@ -244,39 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-09-03/small-businesses-scan-for-counterfeit-cash-seizures-increase/107111962",
       "image": null,
       "publishedAt": "2026-09-03T06:22:44.000Z",
-      "sample": false
-    },
-    {
-      "id": "scbwqn",
-      "title": "Girl's death after petting zoo visit 'very rare', health authorities say",
-      "summary": "The family of a young girl who earlier this week say she may have contracted a bacterial infection while petting and riding animals on a farm.",
-      "category": "health",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-03/health-authorities-address-girl-petting-zoo-death/107111066",
-      "image": null,
-      "publishedAt": "2026-09-03T06:19:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "uq8rmb",
-      "title": "Crews work to control fire burning near Gladstone",
-      "summary": "Twelve crews worked to control the blaze near Kirkwood Road in the Gladstone region this afternoon.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-03/watch-and-act-warning-for-fire-burning-near-gladstone-area/107112552",
-      "image": null,
-      "publishedAt": "2026-09-03T05:48:21.000Z",
-      "sample": false
-    },
-    {
-      "id": "5pm887",
-      "title": "'I lost everything': Businesses still reeling one year after shopping centre fire",
-      "summary": "One year on from a devastating fire which destroyed a shopping centre in Perth's north-east, the pain for business owners who lost what they had spent years working on is still raw.",
-      "category": "health",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-03/morley-market-fire-leaves-businesses-struggling-one-year-on/107108420",
-      "image": null,
-      "publishedAt": "2026-09-03T05:42:19.000Z",
       "sample": false
     }
   ],
