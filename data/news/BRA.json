@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-09-02T18:20:50.893Z",
+  "updatedAt": "2026-09-03T00:24:35.773Z",
   "daily": [
+    {
+      "id": "t289u8",
+      "title": "New 2022 Census Data Show Brazil Is 87% Christian; Atheists Triple",
+      "summary": "The 2022 Census details, for the first time, Brazilians' religious affiliation based on microdata released Monday (31). Among evangelicals, the largest subgroup is the \"undetermined\" category - people who described themselves generically as evangelical or believers without naming a specific church - accounting for 15.6",
+      "category": "health",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/09/new-2022-census-data-show-brazil-is-87-christian-atheists-triple.shtml",
+      "image": null,
+      "publishedAt": "2026-09-02T21:04:00.000Z",
+      "sample": false
+    },
     {
       "id": "jpzfkq",
       "title": "Brazilian Supreme Court Justice Moraes Should Resign",
@@ -14,7 +25,9 @@
       "image": null,
       "publishedAt": "2026-09-02T09:55:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "3vuyo5",
       "title": "Former Banker Daniel Vorcaro Asked Justice Moraes Whether He Should Leave The Country Two Days before His Arrest",
@@ -25,9 +38,7 @@
       "image": null,
       "publishedAt": "2026-09-01T22:14:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "9oxwbc",
       "title": "Women Trafficked in Cambodia Suffer Rape; Victim Says She Was Offered as a 'Prize'",
@@ -125,17 +136,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/08/government-sues-discord-and-seeks-97-million-in-collective-moral-damages.shtml",
       "image": null,
       "publishedAt": "2026-08-27T13:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "elcmnt",
-      "title": "Daniela and Gabriel Left Brazil for Cambodia in Search of Work; She Is Imprisoned and He Returned in a Coffin",
-      "summary": "The death of Brazilian Gabriel Oliveira, 24, in Cambodia in July 2025 exposes suspicions of human trafficking in the country, which has become the main destination for Brazilian victims recorded by the Ministry of Justice.\nLeia mais (08/26/2026 - 16h13)",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/08/daniela-and-gabriel-left-brazil-for-cambodia-in-search-of-work-she-is-imprisoned-and-he-returned-in-a-coffin.shtml",
-      "image": null,
-      "publishedAt": "2026-08-26T19:13:00.000Z",
       "sample": false
     }
   ],

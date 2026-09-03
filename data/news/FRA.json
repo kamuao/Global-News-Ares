@@ -2,8 +2,228 @@
   "id": "FRA",
   "name": "France",
   "sample": false,
-  "updatedAt": "2026-09-02T18:20:47.075Z",
+  "updatedAt": "2026-09-03T00:24:29.314Z",
   "daily": [
+    {
+      "id": "ax8i9a",
+      "title": "Minneapolis apartment shooting leaves one dead, six injured",
+      "summary": "At least one person was killed and six others wounded in a shooting at an apartment building in downtown Minneapolis on Wednesday, officials said. Two Minneapolis police officers were among those injured. Hennepin County Medical Center said it received seven patients, including one who died. Police urged people to avoi",
+      "category": "health",
+      "source": "france24",
+      "url": "https://www.france24.com/en/americas/20260903-minneapolis-apartment-shooting",
+      "image": "https://s.france24.com/media/display/5b534bd2-a72a-11f1-94be-005056bfb2b6/w:1024/p:16x9/AP26245835908666.jpg",
+      "publishedAt": "2026-09-03T00:01:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "o052ri",
+      "title": "IA : le patron de Palantir, Alex Karp, met en garde la France au sujet de sa souveraineté numérique",
+      "summary": "Le chef d’entreprise a estimé, mercredi 2 septembre, que la France se « fera du mal » avec une souveraineté en trompe-l’œil. L’Américain réagissait à la décision prise en juin par Paris de se passer des services de sa société pour son renseignement intérieur.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/03/ia-le-patron-de-palantir-alex-karp-met-en-garde-la-france-au-sujet-de-sa-souverainete-numerique_6764606_3234.html",
+      "image": "https://img.lemde.fr/2026/09/02/308/0/3693/1846/644/322/60/0/18e778d_ftp-1-g6mmkwaj1ydy-5980999-01-06.jpg",
+      "publishedAt": "2026-09-02T23:13:57.000Z",
+      "sample": false
+    },
+    {
+      "id": "no70bo",
+      "title": "Port du voile : Jean-Luc Mélenchon qualifie d’« erreur terrible » son opposition par le passé",
+      "summary": "Le leader de La France insoumise a reconnu, mercredi, avoir « changé d’avis » et évolué au cours des années sur la question du port du voile islamique, qu’il qualifiait par le passé de « signe de soumission patriarcale ».",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/03/port-du-voile-jean-luc-melenchon-qualifie-d-erreur-terrible-son-opposition-par-le-passe_6764605_823448.html",
+      "image": "https://img.lemde.fr/2026/08/23/688/0/8256/4128/644/322/60/0/e07a2d8_upload-1-jmacdgmob3gy-dsc-4197.jpg",
+      "publishedAt": "2026-09-02T23:11:54.000Z",
+      "sample": false
+    },
+    {
+      "id": "tjebmw",
+      "title": "Ukraine warns Russian airspace ‘not safe’ in message to UN aviation watchdog",
+      "summary": "Ukraine urged the UN aviation agency to call for a full ban on flights through Russian airspace, after President Volodymyr Zelensky warned it was becoming unsafe. Kyiv plans increased retaliation against intensified Russian strikes but would target only military facilities, Zelensky said, citing growing Ukrainian drone",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/europe/20260902-un-civilian-flight-safety-russian-airspace-ukraine",
+      "image": "https://s.france24.com/media/display/d3943762-9f52-11f1-839c-005056bf30b7/w:1024/p:16x9/d3bbc74c16e971757a0282ef4d645e2670b58f09.jpg",
+      "publishedAt": "2026-09-02T22:46:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "7dpfj6",
+      "title": "Palantir CEO Alex Karp says French restrictions on US software are ‘backfiring’",
+      "summary": "Palantir CEO Alex Karp said on Wednesday French restrictions limiting government use of US-made software were proving counterproductive. His comments followed France’s decision to replace Palantir with domestic provider ChapsVision at intelligence agency DGSI over data sovereignty concerns. Karp said Europe’s regulator",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/technology/20260902-palantir-france-digital-sovereignty",
+      "image": "https://s.france24.com/media/display/f0c2d0aa-a713-11f1-bd3a-005056bf30b7/w:1024/p:16x9/9d9db451a6a010316d34af039aa69c796b86b602.jpg",
+      "publishedAt": "2026-09-02T22:13:33.000Z",
+      "sample": false
+    },
+    {
+      "id": "3yb4ej",
+      "title": "Venice Film Festival opens with George Clooney, Murdoch film and geopolitics",
+      "summary": "George Clooney used a Venice Film Festival appearance on Wednesday to weigh in on artificial intelligence, media ownership and US politics while receiving a lifetime achievement award. Clooney warned Hollywood must adapt to AI and criticised growing billionaire control of major media platforms.",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/culture/20260902-venice-film-festival-clooney-murdoch-film-geopolitics",
+      "image": "https://s.france24.com/media/display/8e7c5742-a6f8-11f1-89a5-005056bfb2b6/w:1024/p:16x9/e0a235f6e6cdda43533bcbf1c133ff86b2451808.jpg",
+      "publishedAt": "2026-09-02T22:11:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "9mdymb",
+      "title": "Malta acquits tycoon Yorgen Fenech in investigative journalist's murder case",
+      "summary": "A Maltese court on Wednesday acquitted tycoon Yorgen Fenech of orchestrating the 2017 car-bomb killing of investigative journalist Daphne Caruana Galizia, a verdict that drew condemnation from her family and press freedom advocates. Her family said the acquittal denied Caruana Galizia justice, while her son called it a",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/europe/20260902-maltese-tycoon-acquitted-reporter-murder",
+      "image": "https://s.france24.com/media/display/2e575ea4-a714-11f1-96e8-005056a90284/w:1024/p:16x9/2026-09-02T211806Z-686920899-RC26BNAZQ7CO-RTRMADP-3-MALTA-DAPHNE-TRIAL.jpg",
+      "publishedAt": "2026-09-02T21:56:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "5kt2rm",
+      "title": "Is Wintour still en vogue? Met navigates rough seas as Galliano retrospective sinks into 'Horizons'",
+      "summary": "François Picard is pleased to welcome Dana Thomas, author of Gods and Kings: The Rise and Fall of Alexander McQueen and John Galliano, and the New York Times bestseller Deluxe: How Luxury Lost Its Luster. The fiery controversy over the Met's now-cancelled John Galliano retrospective challenges the timeless debate over ",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260902-is-wintour-still-en-vogue-the-met-navigates-rough-seas-as-galliano-s-horizons-sparks-controversy",
+      "image": "https://s.france24.com/media/display/0835833a-a715-11f1-95e0-005056a97e36/w:1024/p:16x9/capture-19454179796a9894a34fae85-67989697.jpg",
+      "publishedAt": "2026-09-02T21:39:40.000Z",
+      "sample": false
+    },
+    {
+      "id": "pcykma",
+      "title": "Outrage as Maltese tycoon acquitted of reporter Daphne Caruana Galizia's murder",
+      "summary": "A Maltese court on Wednesday acquitted tycoon Yorgen Fenech of orchestrating the car-bomb killing of investigative reporter Daphne Caruana Galizia, sparking outrage from her family and media freedom advocates. The wealthy businessman had stood accused of masterminding the 2017 assassination of 53-year-old Caruana Galiz",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/outrage-as-maltese-tycoon-acquitted-of-reporter-daphne-caruana-galizia-s-murder",
+      "image": "https://s.france24.com/media/display/c6756d88-75e3-11eb-bc3d-005056a964fe/w:1024/p:16x9/malta-51.jpg",
+      "publishedAt": "2026-09-02T21:20:34.000Z",
+      "sample": false
+    },
+    {
+      "id": "2b0vs9",
+      "title": "US-Iran war: Old videos falsely claim to show new attacks on American bases",
+      "summary": "As US-Iran hostilities flare up and strikes has resumed, so has a wave of misinformation online. Old and unrelated videos are flooding social media, falsely presented as footage of new attacks. As tensions escalate, lips filmed in Dubai, Russia and the US have been misrepresented as Iranian strikes on US bases in the G",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/us-iran-war-old-videos-falsely-claim-to-show-new-attacks-on-american-bases-1",
+      "image": "https://s.france24.com/media/display/746a965a-a70e-11f1-9bb5-005056bf30b7/w:1024/p:16x9/capture-15220706936a98899a7c8783-61126554.jpg",
+      "publishedAt": "2026-09-02T20:57:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "h2qq1s",
+      "title": "US oversees signing of ‘billions’ in deals between Venezuela and Chevron, ENI, GE",
+      "summary": "US oil giant Chevron, Italy's ENI and GE Vernova signed deals worth \"tens of billions of dollars\" with Venezuela, US Energy Secretary Chris Wright said Wednesday during a trip to Caracas where he and Interim President Delcy Rodriguez finalised the agreements.",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/americas/20260902-us-oversees-signing-of-billions-in-deals-between-venezuela-and-chevron-eni-ge",
+      "image": "https://s.france24.com/media/display/a54a385a-a70b-11f1-84cf-005056bf30b7/w:1024/p:16x9/AP26245635811814.jpg",
+      "publishedAt": "2026-09-02T20:54:24.000Z",
+      "sample": false
+    },
+    {
+      "id": "3i2z4f",
+      "title": "Kenyan editor found safe after abduction",
+      "summary": "In tonight's edition, rights groups in Kenya call for an investigation after a top journalist is abducted overnight  by heavily armed men. Also, trials for three potential vaccines against the Bunjeebuyyoo strain of Ebola are due to start over the next couple of months. And Senegalese consumers who are frustrated by th",
+      "category": "health",
+      "source": "france24",
+      "url": "https://www.france24.com/en/kenyan-editor-found-safe-after-abduction",
+      "image": "https://s.france24.com/media/display/81e27734-a70a-11f1-9e93-005056bfb2b6/w:1024/p:16x9/ANGL260902-2141-Live-01.jpg",
+      "publishedAt": "2026-09-02T20:15:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "204ca",
+      "title": "Le ministère de la transition écologique, cible d’une « attaque informatique sophistiquée »",
+      "summary": "Selon le site spécialisé FrenchBreaches, la cyberattaque a été revendiquée sur un forum criminel par un utilisateur anonyme qui prétend disposer de plusieurs milliers de données.",
+      "category": "technology",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/02/le-ministere-de-la-transition-ecologique-cible-d-une-attaque-informatique-sophistiquee_6764539_4408996.html",
+      "image": "https://img.lemde.fr/2026/09/02/106/0/5728/2864/644/322/60/0/9468b5d_upload-1-nzzs0ki1vgct-000-32tg8tp.jpg",
+      "publishedAt": "2026-09-02T20:08:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "2tdcka",
+      "title": "Chevron, Eni commit to expand oil projects in Venezuela under US eye",
+      "summary": "U.S.' Chevron, Italy's Eni and other foreign energy producers committed on Wednesday to major project expansions to boost oil output in Venezuela, in a signing ceremony in Caracas overseen by interim President ​Delcy Rodriguez and ‌U.S. Energy Secretary Chris Wright. FRANCE 24's Maya Yataghene reports.",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/chevron-eni-commit-to-expand-oil-projects-in-venezuela-under-us-eye",
+      "image": "https://s.france24.com/media/display/5cdfb286-07b8-11f1-9ba1-005056a97e36/w:1024/p:16x9/2026-02-11T193438Z-319517799-RC2UJJA5DK2G-RTRMADP-3-VENEZUELA-USA-OIL-2.jpg",
+      "publishedAt": "2026-09-02T20:00:39.000Z",
+      "sample": false
+    },
+    {
+      "id": "hft3hw",
+      "title": "Ceuta : un rapport de la police espagnole sème le doute sur le rôle des forces de l’ordre marocaines",
+      "summary": "Selon les enquêteurs du Centre national de l’immigration et des frontières, la réponse policière au Maroc a été « d’une totale permissivité, sans qu’aucune tentative sérieuse pour tenter de réduire, disperser ou éloigner la masse de personnes du périmètre frontalier ».",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/09/02/ceuta-un-rapport-de-la-police-espagnole-seme-le-doute-sur-le-role-des-forces-de-l-ordre-marocaines_6764538_3210.html",
+      "image": "https://img.lemde.fr/2026/07/31/946/0/5680/2840/644/322/60/0/5bea17a_ftp-1-rnpspwt0beuj-5747242-01-06.jpg",
+      "publishedAt": "2026-09-02T19:41:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "doeobc",
+      "title": "La mise en œuvre de la politique agricole commune jugée « inadaptée » par la Cour des comptes",
+      "summary": "Les magistrats déplorent, entre autres, la faiblesse des montants alloués aux mesures agro-environnementales et climatiques, « alors même que l’enjeu environnemental est déterminant dans le secteur ».",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/planete/article/2026/09/02/la-mise-en-uvre-de-la-politique-agricole-commune-jugee-inadaptee-par-la-cour-des-comptes_6764537_3244.html",
+      "image": "https://img.lemde.fr/2026/08/29/464/0/5568/2784/644/322/60/0/d94c237_ftp-1-wuwie0rybver-5949925-01-06.jpg",
+      "publishedAt": "2026-09-02T19:38:04.000Z",
+      "sample": false
+    },
+    {
+      "id": "unvnm1",
+      "title": "Zelensky warns airlines Russian skies not safe due to Ukraine drones",
+      "summary": "Ukrainian President Volodymyr Zelensky warned Tuesday that his country's drones would make Russia's airspace \"completely unsafe\" for the duration of the war, drawing accusations of \"state terrorism\" from Russian leader Vladimir Putin. Speaking with FRANCE 24's Mark Owen, Former British Military Intelligence Officer Phi",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/zelensky-warns-airlines-russian-skies-not-safe-due-to-ukraine-drones",
+      "image": "https://s.france24.com/media/display/28e9c598-7e7d-11f1-9486-005056bf30b7/w:1024/p:16x9/2026-07-12T130639Z-1873803642-RC2LZLA3LE8L-RTRMADP-3-UKRAINE-CRISIS-DRONES-GERMANY.jpg",
+      "publishedAt": "2026-09-02T19:32:55.000Z",
+      "sample": false
+    },
+    {
+      "id": "fkir1a",
+      "title": "Spanish report flags Moroccan police's 'total permissiveness' in Ceuta migrant rush",
+      "summary": "Moroccan security forces displayed \"total permissiveness\" during last month's massive wave of migrants who crossed into the Spanish North African territory of Ceuta, according to a Spanish police report seen by a French news agency on Wednesday.",
+      "category": "health",
+      "source": "france24",
+      "url": "https://www.france24.com/en/africa/20260902-spanish-report-flags-moroccan-police-s-total-permissiveness-in-ceuta-migrant-rush",
+      "image": "https://s.france24.com/media/display/0cf6d932-a517-11f1-b815-005056bfb2b6/w:1024/p:16x9/AP26233420530465.jpg",
+      "publishedAt": "2026-09-02T19:20:07.000Z",
+      "sample": false
+    },
+    {
+      "id": "b14fh6",
+      "title": "Tapisserie de Bayeux à Londres : Emmanuel Macron souhaite « un lien aussi étroit que les fils » de la broderie entre le Royaume-Uni et la France",
+      "summary": "Le chef de l’Etat avait personnellement décidé du prêt pour un an de la tapisserie au Royaume-Uni lors de sa visite d’Etat en juillet 2025, afin de « revivifier la relation culturelle » et de marquer « la confiance » actuelle entre les deux pays.",
+      "category": "society",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/09/02/tapisserie-de-bayeux-a-londres-emmanuel-macron-souhaite-un-lien-aussi-etroit-que-les-fils-de-la-broderie-entre-le-royaume-uni-et-la-france_6764533_3210.html",
+      "image": "https://img.lemde.fr/2026/09/02/288/0/5000/2500/644/322/60/0/a249144_ftp-1-pvevqvrd1ark-5980440-01-06.jpg",
+      "publishedAt": "2026-09-02T18:51:57.000Z",
+      "sample": false
+    },
+    {
+      "id": "bwwb70",
+      "title": "🔴 Live: Macron and Charles III visit historic Bayeux tapestry exhibition together",
+      "summary": "",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/europe/20260902-france-s-macron-in-britain-to-help-unveil-bayeux-tapestry",
+      "image": null,
+      "publishedAt": "2026-09-02T18:09:29.000Z",
+      "sample": false
+    },
     {
       "id": "zblor2",
       "title": "Radio France fait sa rentrée sous la menace d’une grève contre le recrutement du directeur adjoint de la rédaction de « Valeurs actuelles »",
@@ -27,14 +247,14 @@
       "sample": false
     },
     {
-      "id": "mlsxpa",
-      "title": "Le report du plan canicule pour l’agriculture inquiète face à la « détresse » dans les fermes frappées par la sécheresse et la chaleur",
-      "summary": "Le ministère de l’agriculture a dit, mercredi, « décaler de quelques jours » les annonces sur les aides d’urgence pour les agriculteurs touchés par la sécheresse et les canicules, invoquant un besoin de concertation « entre les ministères » au vu des « montants conséquents ».",
-      "category": "society",
+      "id": "mcsvwn",
+      "title": "Sophie Adenot, après sa troisième sortie dans l’espace, transmet « plein de bonnes ondes » aux écoliers pour la rentrée",
+      "summary": "Première Française à s’aventurer dans le vide spatial, Sophie Adenot a réalisé trois sorties de la station spatiale internationale, les 18 et 25 août et le 1ᵉʳ septembre.",
+      "category": "politics",
       "source": "le-monde",
-      "url": "https://www.lemonde.fr/planete/article/2026/09/02/le-report-du-plan-canicule-pour-l-agriculture-inquiete-face-a-la-detresse-dans-les-fermes-frappees-par-la-secheresse-et-la-chaleur_6764494_3244.html",
-      "image": "https://img.lemde.fr/2026/08/29/484/0/5806/2903/644/322/60/0/86bac79_ftp-1-f34ohlntscpm-5949926-01-06.jpg",
-      "publishedAt": "2026-09-02T17:53:13.000Z",
+      "url": "https://www.lemonde.fr/sciences/article/2026/09/02/sophie-adenot-apres-sa-troisieme-sortie-dans-l-espace-transmet-plein-de-bonnes-ondes-aux-ecoliers-pour-la-rentree_6764493_1650684.html",
+      "image": "https://img.lemde.fr/2026/09/02/649/0/7793/3896/644/322/60/0/b068ef7_ftp-1-q6kxfjszhsoc-5978380-01-06.jpg",
+      "publishedAt": "2026-09-02T17:53:00.000Z",
       "sample": false
     },
     {
@@ -49,6 +269,17 @@
       "sample": false
     },
     {
+      "id": "76w9gp",
+      "title": "Dans une défense de l’Etat de droit, Richard Ferrand rappelle les partis au respect de la Constitution",
+      "summary": "Alors que la campagne présidentielle est lancée, le président du Conseil constitutionnel a estimé, à la Sorbonne, que « les libertés ne sont pas les variables d’ajustement des émotions et des impatiences d’un moment ». Sans faire référence au voile, que le RN veut interdire dans l’espace public, il a rappelé « la possi",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/02/dans-une-defense-de-l-etat-de-droit-richard-ferrand-rappelle-les-partis-au-respect-de-la-constitution_6764491_823448.html",
+      "image": "https://img.lemde.fr/2026/04/03/1176/0/7107/3553/644/322/60/0/e6e96a7_upload-1-kbs1ib1jtf04-000-789n6fp.jpg",
+      "publishedAt": "2026-09-02T17:40:16.000Z",
+      "sample": false
+    },
+    {
       "id": "cmh0jc",
       "title": "Videos and debris raise questions over alleged US strike on Iranian wedding",
       "summary": "On the evening of September 1, a barrage of US missile and drone attacks on a town in southern Iran allegedly struck a wedding ceremony, killing at least five people, including a four-year-old boy. FRANCE 24 geolocated a direct hit to the civilian building where local residents say the wedding was being held. The build",
@@ -60,47 +291,25 @@
       "sample": false
     },
     {
-      "id": "x9je6o",
-      "title": "Autoroute A69 : la préfecture du Tarn exige une réduction des émissions dues à la fabrication du revêtement",
-      "summary": "Le préfet a adressé une mise en demeure au concessionnaire Atosca et lui a donné jusqu’au 17 septembre pour corriger les réglages de la centrale à enrobés de Puylaurens.",
+      "id": "pr02dz",
+      "title": "A La Réunion, la construction d’un câble sous-marin « souverain » reliant l’Afrique du Sud à Singapour vise à renforcer le développement économique de l’île",
+      "summary": "L’installation débutera en 2027, pour une mise en service en 2028, afin de sécuriser les connexions numériques du département français.",
       "category": "politics",
       "source": "le-monde",
-      "url": "https://www.lemonde.fr/planete/article/2026/09/02/autoroute-a69-la-prefecture-du-tarn-exige-une-reduction-des-emissions-dues-a-la-fabrication-du-revetement_6764490_3244.html",
-      "image": "https://img.lemde.fr/2025/02/28/437/0/6987/3493/644/322/60/0/234b3c8_ftp-import-images-1-zkx0wc1hyzdk-5174741-01-06.jpg",
-      "publishedAt": "2026-09-02T17:30:49.000Z",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/02/a-la-reunion-la-construction-d-un-cable-sous-marin-souverain-reliant-l-afrique-du-sud-a-singapour-vise-a-renforcer-le-developpement-economique-de-l-ile_6764489_3234.html",
+      "image": "https://img.lemde.fr/2026/09/02/498/0/5976/2988/644/322/60/0/8ee4b91_upload-1-yt2tqmrirgpv-eugenie-baccotl1003206.jpg",
+      "publishedAt": "2026-09-02T17:30:10.000Z",
       "sample": false
     },
     {
-      "id": "weok4z",
-      "title": "Donald Trump propose de donner son nom au détroit d’Ormuz",
-      "summary": "A la mi-août, le président des Etats-Unis a publié une carte du détroit le présentant comme un « nouveau territoire américain », reprenant une idée qu’il avait exprimée quelques jours auparavant sur un ton qui laissait penser à une plaisanterie.",
+      "id": "v5u9sa",
+      "title": "Nelio Biedermann, auteur de « Lazar » : « Ce rapprochement avec Thomas Mann, c’est un honneur, mais ça me fait rire »",
+      "summary": "Le jeune auteur suisse considère avec curiosité l’emballement qui accompagne la parution de « Lazar », son deuxième roman et premier best-seller, très remarqué. Sans perdre de vue l’essentiel : écrire encore, écrire mieux.",
       "category": "politics",
       "source": "le-monde",
-      "url": "https://www.lemonde.fr/international/article/2026/09/02/donald-trump-propose-de-donner-son-nom-au-detroit-d-ormuz_6764487_3210.html",
-      "image": "https://img.lemde.fr/2025/06/22/250/0/3000/1500/644/322/60/0/ea0eec1_ftp-import-images-1-jdmfjomuikjb-2025-06-22t205700z-1847669318-rc2w7farkdmt-rtrmadp-3-iran-nucelar-hormuz.JPG",
-      "publishedAt": "2026-09-02T17:04:23.000Z",
-      "sample": false
-    },
-    {
-      "id": "kt43v7",
-      "title": "Uber annonce supprimer « environ 10 % » de ses effectifs",
-      "summary": "L’entreprise n’a pas partagé de chiffre sur les économies qu’il compte réaliser mais dit vouloir réorienter son capital pour « innover dans l’ensemble de [ses] activités principales et (…) bâtir l’avenir de la conduite autonome ».",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/02/uber-annonce-supprimer-environ-10-de-ses-effectifs_6764486_3234.html",
-      "image": "https://img.lemde.fr/2026/09/02/250/0/3000/1500/644/322/60/0/ee1e089_ftp-1-kh4s2jr8yhf6-2026-09-02t114002z-1782714086-rc281gaoo6aq-rtrmadp-3-uber-layoffs.JPG",
-      "publishedAt": "2026-09-02T17:04:02.000Z",
-      "sample": false
-    },
-    {
-      "id": "jgxmnr",
-      "title": "L’Estonie se choisit une présidente consensuelle, un symbole d’unité face aux tentatives de déstabilisation russes",
-      "summary": "La juriste Ülle Madise a été élue, mercredi, à la tête du plus septentrional des Etats baltes, avec le soutien d’une partie de l’opposition parlementaire. Une preuve de la solidité du système démocratique estonien, alors que Moscou martèle de plus en plus agressivement que l’indépendance du pays, autrefois occupé par l",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/international/article/2026/09/02/l-estonie-se-choisit-une-presidente-consensuelle-un-symbole-d-unite-face-aux-tentatives-de-destabilisation-russes_6764483_3210.html",
-      "image": "https://img.lemde.fr/2026/09/02/468/0/5616/2808/644/322/60/0/a49203c_ftp-1-0s7j2nogtlsc-2026-09-02t114316z-690892137-rc2yanaw8baw-rtrmadp-3-estonia-president-vote.JPG",
-      "publishedAt": "2026-09-02T16:52:43.000Z",
+      "url": "https://www.lemonde.fr/livres/article/2026/09/02/nelio-biedermann-auteur-de-lazar-ce-rapprochement-avec-thomas-mann-c-est-un-honneur-mais-ca-me-fait-rire_6764484_3260.html",
+      "image": "https://img.lemde.fr/2026/09/02/1243/0/2400/1200/644/322/60/0/3898642_upload-1-x12hkcovsbim-rea11741001.jpg",
+      "publishedAt": "2026-09-02T17:00:08.000Z",
       "sample": false
     },
     {
@@ -126,25 +335,14 @@
       "sample": false
     },
     {
-      "id": "phku46",
-      "title": "Médecine esthétique : un encadrement des pratiques se dessine pour lutter contre les injections illégales",
-      "summary": "Alors que des « praticiens » sans formation médicale mettent des personnes en danger,  un décret a défini en juillet un « droit d’exercice complémentaire » pour les médecins non spécialistes. Une mesure qui confirme l’attrait grandissant de généralistes pour ces activités lucratives.",
+      "id": "syvarb",
+      "title": "Transition écologique : le Haut-Commissariat au plan appelle à un « changement de paradigme »",
+      "summary": "L’organisme dirigé par Clément Beaune a publié, le 2 septembre, un rapport qui entend montrer que la France a tout à gagner à intensifier la transition écologique afin de renforcer la souveraineté, l’habitabilité et la cohésion nationale du pays.",
       "category": "politics",
       "source": "le-monde",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/02/medecine-esthetique-un-encadrement-des-pratiques-se-dessine-pour-lutter-contre-les-injections-illegales_6764474_3224.html",
-      "image": "https://img.lemde.fr/2026/08/30/245/0/2185/1092/644/322/60/0/f43ef6e_upload-1-uvumdlz4ygrv-le-monde-chirurgie-esthetique-hd.jpg",
-      "publishedAt": "2026-09-02T15:55:37.000Z",
-      "sample": false
-    },
-    {
-      "id": "xrstm5",
-      "title": "Inondations au Népal et au Tibet : une semaine après la crue, le bilan dépasse les 1 200 morts",
-      "summary": "Le nombre de personnes disparues s’élève, lui, à 4 757. Les services de secours népalais n’ont pas perdu l’espoir de retrouver des rescapés, en particulier dans les nombreux tunnels des centrales hydroélectriques ou des chantiers de barrages de la région.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/planete/article/2026/09/02/une-semaine-apres-la-crue-dans-l-himalaya-le-bilan-depasse-les-1-200-morts_6764472_3244.html",
-      "image": "https://img.lemde.fr/2026/09/02/50/0/1600/800/644/322/60/0/efa92f2_ftp-1-scody7o8horz-2026-09-02t143847z-846469015-rc22bnaxz8xd-rtrmadp-3-nepal-floods.JPG",
-      "publishedAt": "2026-09-02T15:51:37.000Z",
+      "url": "https://www.lemonde.fr/planete/article/2026/09/02/transition-ecologique-le-haut-commissariat-au-plan-appelle-a-un-changement-de-paradigme_6764475_3244.html",
+      "image": "https://img.lemde.fr/2026/09/02/365/0/4382/2191/644/322/60/0/1546d29_upload-1-pwqnopl9oskj-000-34778gm.jpg",
+      "publishedAt": "2026-09-02T15:56:06.000Z",
       "sample": false
     },
     {
@@ -203,28 +401,6 @@
       "sample": false
     },
     {
-      "id": "v0z8ti",
-      "title": "En Serbie, l’opposition ciblée par le logiciel espion Pegasus",
-      "summary": "Une douzaine de personnes, dont un parlementaire et des étudiants participant au mouvement de protestation contre le pouvoir, ont reçu une notification suggérant qu’elles avaient été visées par le mouchard.",
-      "category": "society",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/pixels/article/2026/09/02/en-serbie-l-opposition-ciblee-par-le-logiciel-espion-pegasus_6764464_4408996.html",
-      "image": "https://img.lemde.fr/2026/09/01/755/0/6000/3000/644/322/60/0/9d369c4_ftp-1-wwmblgkes5el-2026-09-01t205710z-1008404197-rc2iana4cw89-rtrmadp-3-serbia-protests.JPG",
-      "publishedAt": "2026-09-02T15:00:11.000Z",
-      "sample": false
-    },
-    {
-      "id": "c85qp",
-      "title": "Au Sénégal, l’accord avec le FMI creuse le fossé entre Bassirou Diomaye Faye et Ousmane Sonko",
-      "summary": "Après l’échec des négociations avec le Fonds monétaire international il y a deux ans, Dakar avait refusé de restructurer sa dette. Une posture que le président a finalement abandonnée, mais qui est toujours défendue par l’ancien premier ministre.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/afrique/article/2026/09/02/au-senegal-l-accord-avec-le-fmi-creuse-le-fosse-entre-bassirou-diomaye-faye-et-ousmane-sonko_6764466_3212.html",
-      "image": "https://img.lemde.fr/2026/09/02/344/0/4134/2067/644/322/60/0/e39f3ff_upload-1-twrmu5h8ohbr-000-c37q6fl.jpg",
-      "publishedAt": "2026-09-02T15:00:08.000Z",
-      "sample": false
-    },
-    {
       "id": "r9adz1",
       "title": "George Clooney, Robert Pattinson expected on the red carpet at Venice Film Festival",
       "summary": "Our film critic Emma Jones takes us through the highlights as the 83rd Venice International Film Festival kicks off this Wednesday.",
@@ -236,83 +412,6 @@
       "sample": false
     },
     {
-      "id": "w1kfh7",
-      "title": "Israel ‘organised and prepared’ to remove Gaza population if US gives green light, Katz says",
-      "summary": "Israel is \"organised and prepared\" to remove Palestininians from Gaza \"by every way possible\", Defence Minister Israel Katz told reporters Wednesday, adding that there was no alternative \"solution\" to crisis. The Israeli government was simply waiting for the US to figure out where to take the displaced Gazans, he said.",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/middle-east/20260902-israel-organised-and-prepared-to-remove-gaza-population-if-us-gives-green-light-katz",
-      "image": "https://s.france24.com/media/display/dba92900-ab4a-11f0-9ad3-005056a90284/w:1024/p:16x9/AP25288675368685.jpg",
-      "publishedAt": "2026-09-02T14:56:38.000Z",
-      "sample": false
-    },
-    {
-      "id": "rdwxhq",
-      "title": "Paradox of Balladur's legacy: 'Highly popular' innovative Gaullist gradually became irrelevant",
-      "summary": "Sharon Gaffney is pleased to welcome Renaud Foucart, Senior Lecturer at Lancaster University. According to Foucart, Édouard Balladur’s political legacy mattered because he embodied a political model that was innovative and yet limited in scope and longevity. As PM under Socialist President François Mitterrand, Balladur",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/paradox-of-balladur-s-legacy-highly-popular-gaullist-elite-yet-too-far-away-from-the-people",
-      "image": "https://s.france24.com/media/display/1d7d6e10-a6d4-11f1-ab27-005056bf30b7/w:1024/p:16x9/EN-20260831-233408-234033-CS.jpg",
-      "publishedAt": "2026-09-02T14:29:58.000Z",
-      "sample": false
-    },
-    {
-      "id": "yycpf1",
-      "title": "Xi calls on Mideast nations to be ‘masters of their own affairs’ in rare Egypt visit",
-      "summary": "Chinese President Xi Jinping on Wednesday called on \"the people of the Middle East\" to oppose \"externalinterference\" and consider reshaping the region's security order during a visit to Egypt. The rare visit by the Chinese leader comes as Beijing aims to expand its influence in the region as the Iran war tests the reli",
-      "category": "military",
-      "source": "france24",
-      "url": "https://www.france24.com/en/middle-east/20260902-xi-calls-on-mideast-nations-to-be-masters-of-their-own-affairs-in-rare-egypt-visit",
-      "image": "https://s.france24.com/media/display/7787cb1e-a6d2-11f1-88a1-005056a90284/w:1024/p:16x9/AP26244634219317.jpg",
-      "publishedAt": "2026-09-02T14:22:36.000Z",
-      "sample": false
-    },
-    {
-      "id": "k2hxrn",
-      "title": "French president to open Bayeux Tapestry exhibition as he starts UK visit",
-      "summary": "French President Emmanuel Macron begins a two-day visit to Britain on Wednesday, viewing the landmark Bayeux Tapestry exhibition with King Charles III and becoming the first EU leader to be hosted by Prime Minister Andy Burnham. The tapestry depicts the Norman conquest of England in 1066. In the post-Brexit era, \"the l",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20260902-french-president-to-open-bayeux-tapestry-exhibition-as-he-starts-uk-visit",
-      "image": "https://s.france24.com/media/display/c3383fb0-7c54-11f1-ba24-005056a90284/w:1024/p:16x9/Bayeux-tapestry-000-1K924I.jpg",
-      "publishedAt": "2026-09-02T14:06:16.000Z",
-      "sample": false
-    },
-    {
-      "id": "bpajiz",
-      "title": "France's back-to-school challenges: Phones, payslips, pupils",
-      "summary": "First day of school jitters are now behind most of France's 11.6 million pupils, but this \"rentrée\", or back-to-school period, is being marked by a number of challenges and changes: phone bans, concerns over sexual abuse, teachers' salaries, and 161,000 fewer students due to France's falling birthrate. We take a closer",
-      "category": "society",
-      "source": "france24",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260902-france-s-back-to-school-challenges-phones-payslips-pupils",
-      "image": "https://s.france24.com/media/display/746325b0-a6d1-11f1-bc07-005056bfb2b6/w:1024/p:16x9/capture-15420667106a982343194ad2-24725576.jpg",
-      "publishedAt": "2026-09-02T14:04:16.000Z",
-      "sample": false
-    },
-    {
-      "id": "9yjrhx",
-      "title": "FRANCE 24 in Nepal: The unbearable wait for missing relatives",
-      "summary": "In Nepal, the hope of finding survivors is fading daily. Bodies are piling up in morgues, and storage capacity is reaching its limit. For the relatives of the missing, the wait is unbearable. They go from one hospital to another, consult the lists of survivors and scrutinise the photos of unidentified bodies. FRANCE 24",
-      "category": "health",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20260902-france-24-in-nepal-the-unbearable-wait-for-missing-relatives",
-      "image": "https://s.france24.com/media/display/5f3774cc-a6d4-11f1-9f06-005056a90284/w:1024/p:16x9/mini2-2.jpg",
-      "publishedAt": "2026-09-02T14:03:31.000Z",
-      "sample": false
-    },
-    {
-      "id": "8x5mrf",
-      "title": "« Qatargate » : le Parquet national financier demande un procès dans le volet polynésien",
-      "summary": "Selon les informations du « Monde », un renvoi devant le tribunal correctionnel a été requis à l’encontre de quatre protagonistes, dont l’ancien dirigeant tahitien de la FIFA Reynald Temarii et le milliardaire qatari Mohamed Ben Hammam, en lien avec l’attribution controversée du Mondial 2022 de football au Qatar.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/02/qatargate-le-parquet-national-financier-demande-un-proces-dans-le-volet-polynesien_6764453_3224.html",
-      "image": "https://img.lemde.fr/2026/09/01/1028/0/3330/1665/644/322/60/0/f72fed0_upload-1-7tjzxiarplvp-000-par3608531.jpg",
-      "publishedAt": "2026-09-02T14:00:08.000Z",
-      "sample": false
-    },
-    {
       "id": "nb26t8",
       "title": "Présidentielle 2027 : Bruno Retailleau, une approche très libérale du dérèglement climatique",
       "summary": "« Les candidats et le climat ». Le président du parti Les Républicains dénonce des « normes paralysantes » qui empêchent l’adaptation au changement climatique. Il met en avant le nucléaire, la géothermie et les mégabassines, malgré leurs limites.",
@@ -321,116 +420,6 @@
       "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/02/presidentielle-2027-bruno-retailleau-defend-des-solutions-issues-du-progres-technologique-pour-lutter-contre-le-dereglement-climatique_6764452_4355770.html",
       "image": "https://img.lemde.fr/2026/06/22/166/0/6048/3024/644/322/60/0/e9040fd_ftp-1-m9w133qvpk23-5406287-01-06.jpg",
       "publishedAt": "2026-09-02T14:00:08.000Z",
-      "sample": false
-    },
-    {
-      "id": "bentgy",
-      "title": "'Dangerous consequences': Iran warns US after alleged strike on wedding",
-      "summary": "Iran has launched strikes towards US allies in the Gulf this Wednesday after US bombardment that Tehran said hit a wedding party, killing five people and wounding dozens. The latest escalation appears to have hardened the mood in the Islamic Republic, with authorities warning American allies in the region they're fair ",
-      "category": "military",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20260902-dangerous-consequences-iran-warns-us-after-alleged-strike-on-wedding",
-      "image": "https://s.france24.com/media/display/92ae7028-a6d2-11f1-905c-005056a97e36/w:1024/p:16x9/EN-20260902-143255-143422-CS.jpg",
-      "publishedAt": "2026-09-02T13:43:13.000Z",
-      "sample": false
-    },
-    {
-      "id": "nd4kns",
-      "title": "French-Saudi ‘Dragon Ball’ theme park puzzles Japanese manga fans",
-      "summary": "Plans to build a manga-themed park outside Paris have sparked excitement in France, one of the first Western countries to fall in love with Akira Toriyama’s iconic “Dragon Ball” franchise. Saudi bankrolling of the project, however, and the lack of response from Japanese licence holders, have raised eyebrows among exper",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/france/20260902-french-saudi-dragon-ball-theme-park-puzzles-japan-manga-fans",
-      "image": "https://s.france24.com/media/display/63b876e6-a6c9-11f1-a3bc-005056a90284/w:1024/p:16x9/063-2248783613.jpg",
-      "publishedAt": "2026-09-02T13:42:19.000Z",
-      "sample": false
-    },
-    {
-      "id": "2mlryv",
-      "title": "Macron set to unveil Bayeux Tapestry in 'once in a generation' UK loan",
-      "summary": "French President Emmanuel Macron is set to assist in the unveiling of the Bayeux Tapestry as it goes on show in the UK as part of a historic loan to the British Museum on Wednesday. Macron is on a two-day visit to the UK where he will become the first EU leader to meet new Prime Minister Andy Burnham in Downing Street.",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20260902-macron-set-to-unveil-bayeux-tapestry-in-once-in-a-generation-uk-loan",
-      "image": "https://s.france24.com/media/display/a9195686-a6d0-11f1-80d0-005056bf30b7/w:1024/p:16x9/EN-20260902-141329-141751-CS.jpg",
-      "publishedAt": "2026-09-02T13:39:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mh6hut",
-      "title": "Nepal floods: Hundreds of unidentified bodies",
-      "summary": "France 24's Shahzaib Wahlah reports from Kathmandu, Nepal, after visiting hospitals and morgues in the city struggling to cope with the influx of dead from the devastating floods that hit the country a week ago. Authorities have now begun taking DNA samples from the relatives of the missing in the hope of identifying t",
-      "category": "health",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20260902-nepal-floods-hundreds-of-unidentified-bodies",
-      "image": "https://s.france24.com/media/display/2a23b07a-a6cf-11f1-8104-005056bf30b7/w:1024/p:16x9/EN-20260902-140126-140417-CS.jpg",
-      "publishedAt": "2026-09-02T13:36:19.000Z",
-      "sample": false
-    },
-    {
-      "id": "akhs9r",
-      "title": "Germany investigates suspected power substation sabotage, Russia summons German envoy",
-      "summary": "Two incidents that disrupted power distribution systems in Germany are being investigated for sabotage, authorities said Wednesday, while one of them was also being examined for possible terrorism links. Meanwhile Russia said it was summoning Germany's charge d'affaires after Berlin blamed Moscow for last month's attem",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/europe/20260902-germany-ivestigates-suspected-power-substation-sabotage-russia-summons-german-envoy",
-      "image": "https://s.france24.com/media/display/7cbbf1e4-a6ca-11f1-a25f-005056bfb2b6/w:1024/p:16x9/000-C6HY7WD.jpg",
-      "publishedAt": "2026-09-02T13:15:48.000Z",
-      "sample": false
-    },
-    {
-      "id": "33tk4",
-      "title": "World's only female tetraplegic racing driver on 'making the most' of what she's got",
-      "summary": "A pioneering British sportswoman who broke her neck in a car crash when she was 16 says that after the accident, she decided to make the most of what she'd got. Nathalie McGloin became the world's first and only female tetraplegic racing driver, racing against both able-bodied men and women. Her story is proof that bot",
-      "category": "health",
-      "source": "france24",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260902-world-s-only-female-tetraplegic-racing-driver-on-making-the-most-of-what-she-s-got",
-      "image": "https://s.france24.com/media/display/0c24c95c-a6ce-11f1-920b-005056bfb2b6/w:1024/p:16x9/capture-16295219976a981d8bc546f5-21230110.jpg",
-      "publishedAt": "2026-09-02T13:10:08.000Z",
-      "sample": false
-    },
-    {
-      "id": "a9rz6b",
-      "title": "Drone incident in Germany has ‘hallmarks of state-sponsored terrorism’, EU's Kallas says",
-      "summary": "Last month's incident involving an explosive-laden drone at Leipzig airport bears \"all the hallmarks of state-sponsored terrorism,\" EU foreign policy chief Kaja Kallas said Wednesday. Germany has blamed Russia for the \"hybrid attack\". The EU has summoned the Russian envoy, and member states were doing the same, Kallas ",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/europe/20260902-eu-summons-russia-envoys-eyes-sanctions-after-germany-drone-attack",
-      "image": "https://s.france24.com/media/display/16fcfed0-a6ce-11f1-b23d-005056bf30b7/w:1024/p:16x9/813067157fdc4184191f8af106ecc712356737d7.jpg",
-      "publishedAt": "2026-09-02T12:59:11.000Z",
-      "sample": false
-    },
-    {
-      "id": "somhpf",
-      "title": "IMF reaches historical loan agreement with Senegal",
-      "summary": "The IMF and Senegal have agreed on a new 2.2 billion-dollar loan programme to support financial reforms, a relief for the country after a huge amount of unreported debt recently came to light. The president has accused his predecessor of hiding the true state of the country's imbalanced budget deficit.",
-      "category": "economy",
-      "source": "france24",
-      "url": "https://www.france24.com/en/imf-reaches-historical-loan-agreement-with-senegal",
-      "image": "https://s.france24.com/media/display/3ec4acbc-a6cc-11f1-8756-005056bfb2b6/w:1024/p:16x9/capture-13096693496a981a859ef385-37983370.jpg",
-      "publishedAt": "2026-09-02T12:51:27.000Z",
-      "sample": false
-    },
-    {
-      "id": "gnzce5",
-      "title": "UNIFIL peacekeepers patrol south Lebanon, caught between Israel and Hezbollah",
-      "summary": "Since this spring, about 6 percent of Lebanon has been occupied by the Israeli army. On the ground, around 600 French soldiers from the United Nations Interim Force in Lebanon (UNIFIL) continue to patrol the zone. The delicate peacekeeping mission documents violations of UN resolutions by both Israel and Hezbollah, wit",
-      "category": "military",
-      "source": "france24",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260902-unifil-peacekeepers-patrol-south-lebanon-caught-between-israel-and-hezbollah",
-      "image": "https://s.france24.com/media/display/bf6e21c2-a6c7-11f1-888f-005056a90284/w:1024/p:16x9/capture-8849656686a9812fa0edf02-89967507.jpg",
-      "publishedAt": "2026-09-02T12:41:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "ja67mr",
-      "title": "Dans « Trois adieux », Isabel Coixet filme le combat d’une femme pour sa survie, après une séparation",
-      "summary": "Situé dans Rome hors des sentiers battus, le long-métrage, plein de charme et de beauté, avec Alba Rohrwacher et Elio Germano, est habité par la douleur et la mélancolie.",
-      "category": "military",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/culture/article/2026/09/02/dans-trois-adieux-isabel-coixet-filme-le-combat-d-une-femme-pour-sa-survie-apres-une-separation_6764331_3246.html",
-      "image": "https://img.lemde.fr/2026/08/18/243/0/3499/1749/644/322/60/0/b58a184_upload-1-s7wggbhggpie-photo-8.jpg",
-      "publishedAt": "2026-09-02T10:00:03.000Z",
       "sample": false
     },
     {
@@ -467,6 +456,17 @@
       "url": "https://www.france24.com/en/middle-east/20260902-us-military-striking-targets-in-iran-after-attempted-attacks-on-shipping",
       "image": null,
       "publishedAt": "2026-09-02T15:37:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "bwwb70",
+      "title": "🔴 Live: Macron and Charles III visit historic Bayeux tapestry exhibition together",
+      "summary": "",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/europe/20260902-france-s-macron-in-britain-to-help-unveil-bayeux-tapestry",
+      "image": null,
+      "publishedAt": "2026-09-02T18:09:29.000Z",
       "sample": false
     }
   ]

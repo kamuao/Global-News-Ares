@@ -2,8 +2,41 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-02T18:20:47.492Z",
+  "updatedAt": "2026-09-03T00:24:30.448Z",
   "daily": [
+    {
+      "id": "3u6itw",
+      "title": "UNICEF: 1 in 5 youths targeted by online sexual abuse",
+      "summary": "A survey of around 21,000 young people by the UN's agency for children has found that online sexual abuse of minors is on the rise.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/unicef-1-in-5-youths-targeted-by-online-sexual-abuse/a-78654173?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-03T00:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "chjv5y",
+      "title": "Spain: Tens of thousands rally over Ceuta crisis",
+      "summary": "Tensions continue over migrants still stranded in Ceuta and the Sanchez government’s handling of the fallout.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/spain-tens-of-thousands-rally-over-ceuta-crisis/a-78814756?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-02T23:51:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "vkyau8",
+      "title": "Malta: Businessman acquitted of journalist's murder",
+      "summary": "Yorgen Fenech was suspected to have masterminded the murder of investigative journalist Daphne Caruana Galizia, whose family continue to demand justice for her killing.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/malta-businessman-acquitted-of-journalist-s-murder/a-78814305?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-02T21:21:00.000Z",
+      "sample": false
+    },
     {
       "id": "v0wmbi",
       "title": "Berlin's punitive measures unlikely to deter Putin: experts",
@@ -40,7 +73,7 @@
     {
       "id": "s6x515",
       "title": "Macron visits Bayeux Tapestry with King Charles, PM Andy Burnham",
-      "summary": "French President Emmanuel Macron is on a shorter-term visit to the UK than the renowned on-loan 11th century tapestry. He viewed the ancient artwork with King Charles and relatively new Prime Minister Andy Burnham.",
+      "summary": "French President Emmanuel Macron is on a shorter-term visit to the UK than the renowned on-loan 11th century tapestry. He viewed the ancient artwork with the UK monarch and relatively new Prime Minister Andy Burnham.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-xml-mrss",
@@ -62,7 +95,7 @@
     {
       "id": "85tjm6",
       "title": "Austria women ice hockey team fight for future generations",
-      "summary": "Austria are getting ready for their first Women's Ice Hockey World Championship. But preparations have been overshadowed by a dispute about conditions, pay and getting men's cast off kit. A solution now looks in sight.",
+      "summary": "Austria are getting ready for their first Women's Ice Hockey World Championship. But preparations have been overshadowed by a dispute about conditions, pay and getting men's cast-off kit. A solution now looks in sight.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/austria-women-ice-hockey-team-fight-for-future-generations/a-78771578?maca=en-rss-en-all-1573-xml-mrss",
@@ -190,40 +223,9 @@
       "image": null,
       "publishedAt": "2026-09-02T06:42:00.000Z",
       "sample": false
-    },
-    {
-      "id": "mc3v41",
-      "title": "Germany news: Police probe suspected power station attacks",
-      "summary": "Police are investigating after homemade projectiles were used to damage power lines in eastern Germany. This comes amid suspicion of sabotage at another power station in the west of the country. DW has more.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-police-probe-suspected-power-station-attacks/live-78669282?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-02T06:30:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2glqzs",
-      "title": "Tunisia's activists decry civil society crackdown",
-      "summary": "Five years into Tunisian President Kais Saied’s increasingly authoritarian rule, rights groups warn that the country’s once vibrant civil society is being silenced.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/tunisia-s-activists-decry-civil-society-crackdown/a-78614966?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-02T04:01:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "7ygnpf",
-      "title": "Hong Kong activist Joshua Wong pleads guilty to collusion",
-      "summary": "The prominent activist pleaded guilty to colluding with foreign entities. He faces a lengthy prison sentence.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/hong-kong-activist-joshua-wong-pleads-guilty-to-collusion/a-78657525?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-02T02:30:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "y7n1cc",
       "title": "Ukraine: Russia threatens 'devastating' Baltic response",
@@ -245,9 +247,7 @@
       "image": null,
       "publishedAt": "2026-09-01T22:56:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "fohfl0",
       "title": "Germany terminates lease for Berlin's Russian House",
