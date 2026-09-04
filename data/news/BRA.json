@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-09-04T12:22:37.055Z",
+  "updatedAt": "2026-09-04T18:16:14.402Z",
   "daily": [
+    {
+      "id": "azbm05",
+      "title": "Lula Has 38%, Fl�vio Bolsonaro 33% in First Round, Datafolha Shows; President and Senator in Technical Tie in Runoff",
+      "summary": "A new Datafolha poll shows President Lula (PT) with 38% of voting intentions in the first round, compared with 33% for Fl�vio Bolsonaro (PL). The survey confirms the rise of Augusto Cury (Avante), who gained six points and reached 8%. The gap between Lula and Fl�vio fell to five points, half the difference recorded in ",
+      "category": "military",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/09/lula-has-38-flavio-bolsonaro-33-in-first-round-datafolha-shows-president-and-senator-in-technical-tie-in-runoff.shtml",
+      "image": null,
+      "publishedAt": "2026-09-04T14:41:00.000Z",
+      "sample": false
+    },
     {
       "id": "qjdjuj",
       "title": "Iguazu Falls Record Flow Five Times Higher Than Average",
@@ -25,7 +36,9 @@
       "image": null,
       "publishedAt": "2026-09-03T18:53:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "bkemxf",
       "title": "U.S. Deports Brazilian Immigrant to Equatorial Guinea",
@@ -36,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-09-03T15:03:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "t289u8",
       "title": "New 2022 Census Data Show Brazil Is 87% Christian; Atheists Triple",
@@ -125,28 +136,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/08/jailed-brazilian-generals-convicted-of-coup-plot-review-books-undergo-physical-therapy-and-study-remotely.shtml",
       "image": null,
       "publishedAt": "2026-08-31T10:21:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ywh4pq",
-      "title": "Brazilian Family Wins Lawsuit Against U.S. Immigration Policy",
-      "summary": "A Brazilian family, the Moura Gomes, won a legal battle in the U.S. against a decision by Secretary of State Marco Rubio that suspended the issuance of green cards to citizens of 75 countries, including Brazil.\nLeia mais (08/28/2026 - 12h34)",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/08/brazilian-family-wins-lawsuit-against-us-immigration-policy.shtml",
-      "image": null,
-      "publishedAt": "2026-08-28T15:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "b01edu",
-      "title": "Barretos Rodeo Gets a Boost From a Change in the U.S. Calendar",
-      "summary": "The main competition at the Festa do Pe�o de Barretos, the Barretos International Rodeo, begins this Thursday (27) in the city of the same name in S�o Paulo. This year's edition was boosted by a change in the schedule of the U.S. PBR (Professional Bull Riders), which this year does not coincide with the second weekend ",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/culture/2026/08/barretos-rodeo-gets-a-boost-from-a-change-in-the-us-calendar.shtml",
-      "image": null,
-      "publishedAt": "2026-08-28T15:29:00.000Z",
       "sample": false
     }
   ],

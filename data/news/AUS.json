@@ -2,8 +2,19 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-09-04T12:22:37.719Z",
+  "updatedAt": "2026-09-04T18:16:14.964Z",
   "daily": [
+    {
+      "id": "t7rsi7",
+      "title": "Russian drone attack hits Ukraine's SBU headquarters in Kyiv",
+      "summary": "During more than four-and-a-half years of war with Russia, Ukrainian government buildings have rarely been damaged in drone and missile strikes.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-05/brk-ukraine-sbu-strike/107119104",
+      "image": null,
+      "publishedAt": "2026-09-04T15:08:22.000Z",
+      "sample": false
+    },
     {
       "id": "lmavd0",
       "title": "Argentina's Milei vows Falklands oil sanctions in sovereignty push",
@@ -39,8 +50,8 @@
     },
     {
       "id": "cz7jxg",
-      "title": "Live: Rabbitohs lead Roosters as Jai Arrow makes tearful 100th Souths appearance",
-      "summary": "Tears flowed as Jai Arrow made his 100th Rabbitohs appearance, with his Souths teammates helping crush rivals the Roosters' reserves. Follow live.",
+      "title": "Jai Arrow makes emotional 100th Souths appearance, Souths thrash Roosters",
+      "summary": "Tears flowed as Jai Arrow made his 100th Rabbitohs appearance, with his Souths teammates helping crush the reserves of arch rivals Roosters. Follow live.",
       "category": "technology",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-09-04/nrl-live-rabbitohs-roosters-jai-arrow/107111896",
@@ -61,8 +72,8 @@
     },
     {
       "id": "8xbmwz",
-      "title": "Live: Cats charge clear of Blues in MCG elimination final",
-      "summary": "Geelong and Carlton face off in a sudden death elimination final at the MCG as they look to keep their post-season hopes alive. Follow live.",
+      "title": "Clear and present Danger as Cats sweep aside Carlton",
+      "summary": "Geelong surges to victory at the MCG as Patrick Dangerfield's five goals help the Cats end Carlton's season.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-09-04/afl-elimination-final-geelong-cats-carlton-blues-live-blog/107113706",
@@ -266,17 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-09-04/asic-at-parliamentary-inquiry-accountancy-firms-audit-misconduct/107115482",
       "image": null,
       "publishedAt": "2026-09-04T05:01:51.000Z",
-      "sample": false
-    },
-    {
-      "id": "h81ig3",
-      "title": "How Swans midfielder is supporting banned housemate amid trade rumours",
-      "summary": "Sydney midfielder James Rowbottom is in a unique spot as banned star Nick Blakey's housemate, and says he is attempting to \"separate the person from the problem\".",
-      "category": "economy",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-04/afl-sydney-swans-rowbottom-on-blakey-ban-support/107116932",
-      "image": null,
-      "publishedAt": "2026-09-04T04:57:44.000Z",
       "sample": false
     }
   ],
