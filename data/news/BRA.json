@@ -2,8 +2,30 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-09-03T18:17:09.584Z",
+  "updatedAt": "2026-09-04T12:22:37.055Z",
   "daily": [
+    {
+      "id": "qjdjuj",
+      "title": "Iguazu Falls Record Flow Five Times Higher Than Average",
+      "summary": "Iguazu Falls, in southern Brazil, is experiencing a flow rate five times higher than normal at the beginning of September due to rainfall that hit the Iguazu River basin in recent days. On Thursday (3), the flow reached 7.75 million liters per second, according to Cope, the power utility concessionaire in the state of ",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/09/iguazu-falls-record-flow-five-times-higher-than-average.shtml",
+      "image": null,
+      "publishedAt": "2026-09-03T22:42:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "u7dhod",
+      "title": "Brazil Negotiates Connecting Instant Payment System to European Platform",
+      "summary": "Brazil's Central Bank is negotiating to connect Pix, the country's instant financial transfer system, to TIPS, a similar platform used in Europe. The talks are at a preliminary stage, but they are already included in the ECB's (European Central Bank) work schedule. An ECB document obtained by Folha says studies for the",
+      "category": "economy",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/09/brazil-negotiates-connecting-instant-payment-system-to-european-platform.shtml",
+      "image": null,
+      "publishedAt": "2026-09-03T18:53:00.000Z",
+      "sample": false
+    },
     {
       "id": "bkemxf",
       "title": "U.S. Deports Brazilian Immigrant to Equatorial Guinea",
@@ -14,7 +36,9 @@
       "image": null,
       "publishedAt": "2026-09-03T15:03:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "t289u8",
       "title": "New 2022 Census Data Show Brazil Is 87% Christian; Atheists Triple",
@@ -25,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-09-02T21:04:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "jpzfkq",
       "title": "Brazilian Supreme Court Justice Moraes Should Resign",
@@ -125,17 +147,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/culture/2026/08/barretos-rodeo-gets-a-boost-from-a-change-in-the-us-calendar.shtml",
       "image": null,
       "publishedAt": "2026-08-28T15:29:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "q2q60b",
-      "title": "Brazilians Fear Voting in New York, and Brazil Seeks Polling Place Protected from ICE",
-      "summary": "Brazilian immigrants living in New Jersey say they will avoid leaving home to vote in the first round of Brazil's presidential election, scheduled for October 4, out of fear of actions by ICE, the U.S. immigration agency. In cities with more \"raids,\" some members of the community avoid going out during the day, have st",
-      "category": "society",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/08/brazilians-fear-voting-in-new-york-and-brazil-seeks-an-ice-protected-polling-place.shtml",
-      "image": null,
-      "publishedAt": "2026-08-27T22:07:00.000Z",
       "sample": false
     }
   ],
