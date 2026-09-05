@@ -2,8 +2,30 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-05T06:17:31.374Z",
+  "updatedAt": "2026-09-05T12:17:14.818Z",
   "daily": [
+    {
+      "id": "ytdax4",
+      "title": "Government may fully cover local losses from consumption tax cut",
+      "summary": "The national government is expected to present the plan at a meeting with local governments to be held shortly.",
+      "category": "society",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/05/japan/tax-cut-local-losses-cover/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/05/thumbs/400x400/561403.jpg",
+      "publishedAt": "2026-09-05T09:21:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "57ofin",
+      "title": "The woman at the center of Japan’s currency fight",
+      "summary": "Finance Minister Satsuki Katayama is under pressure to strengthen the yen while balancing competing demands from the prime minister and Washington.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/05/economy/katayama-currency-fight/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/05/thumbs/400x400/561400.jpg",
+      "publishedAt": "2026-09-05T06:10:00.000Z",
+      "sample": false
+    },
     {
       "id": "yw508e",
       "title": "OpenAI agents hijacked German website in previously undisclosed AI breakout this spring",
@@ -245,7 +267,9 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/04/thumbs/400x400/557470.jpg",
       "publishedAt": "2026-09-04T12:45:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "du61bv",
       "title": "Robot penguins make a splash at Wakayama theme park",
@@ -311,31 +335,8 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/04/thumbs/400x400/561316.jpg",
       "publishedAt": "2026-09-04T08:27:00.000Z",
       "sample": false
-    },
-    {
-      "id": "11pd8x",
-      "title": "Corporate venture capital develops in Japan",
-      "summary": "What was once seen as a bad fit for Japanese companies is seen now as more of a necessity.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/04/companies/corporate-venture-capital/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/04/thumbs/400x400/561307.jpg",
-      "publishedAt": "2026-09-04T08:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2m4fay",
-      "title": "Late Japanese researcher wins Ig Nobel Prize for study on blowing one’s nose",
-      "summary": "Unno was awarded the prize for his 1977 paper, \"How to Blow the Nose – An Aerodynamic Study of the Nose Blowing.\"",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/04/japan/science-health/ig-nobel-prize-nose-blowing/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/04/thumbs/400x400/561280.jpg",
-      "publishedAt": "2026-09-04T07:52:00.000Z",
-      "sample": false
     }
   ],
-  "weekly": [],
   "developing": [
     {
       "id": "j435bw",

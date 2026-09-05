@@ -2,8 +2,63 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-09-05T06:17:33.266Z",
+  "updatedAt": "2026-09-05T12:17:17.347Z",
   "daily": [
+    {
+      "id": "92m4m0",
+      "title": "2,000 cases of suspected food poisoning from Indonesia's free school meals",
+      "summary": "The outbreaks are the latest setback for the program, which has been rolled out across the archipelago despite repeated food poisoning incidents and corruption allegations.",
+      "category": "health",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-05/indonesia-prabowo-free-school-meals-food-poisoning-outbreak/107120472",
+      "image": null,
+      "publishedAt": "2026-09-05T10:47:54.000Z",
+      "sample": false
+    },
+    {
+      "id": "37c1jo",
+      "title": "Engine flames from Sydney-bound Qantas flight forces plane to be diverted",
+      "summary": "The Sydney-bound Boeing aircraft left the alpine ski town of Queenstown in New Zealand just before 3:30pm before it had to be diverted to Christchurch.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-05/sydney-bound-qantas-flight-diverted-as-flames-come-from-plane/107120414",
+      "image": null,
+      "publishedAt": "2026-09-05T08:58:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "1kifdv",
+      "title": "Two briefly detained over 'chaotic scenes' at Canberra junior AFL match",
+      "summary": "Two spectators were briefly taken into custody after reports of flares being set off and items being thrown at players at the Under 18s AFL Canberra Grand Final between Marist College and the Belconnen Magpies last night.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-05/act-flares-set-off-items-thrown-players-junior-afl-grand-final/107120130",
+      "image": null,
+      "publishedAt": "2026-09-05T07:43:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "esesep",
+      "title": "Five children in hospital after strong winds pick up two jumping castles",
+      "summary": "Five children have been taken to hospital after jumping castles were picked up by winds in two separate incidents across Australia on one day.",
+      "category": "health",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-05/children-in-hospital-jumping-castle-lifts-off-birthday-party/107120370",
+      "image": null,
+      "publishedAt": "2026-09-05T06:58:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "f3s9as",
+      "title": "Peter Katsambanis remembered as one of Liberal Party's 'finest' warriors",
+      "summary": "Former Liberal MP Peter Katsambanis, who served in the West Australian and Victorian parliaments, dies, aged 60.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-05/former-wa-and-victorian-mp-peter-katsambanis-dies/107120274",
+      "image": null,
+      "publishedAt": "2026-09-05T06:18:51.000Z",
+      "sample": false
+    },
     {
       "id": "fl9b4c",
       "title": "Man on run after allegedly attacking three people with axe",
@@ -17,9 +72,9 @@
     },
     {
       "id": "6im103",
-      "title": "AFLW wrap: Bulldogs surge home to stun Swans, Kangaroos continue historic run",
-      "summary": "Three final-quarter goals from young forward Emma McDonald inspired the Western Bulldogs to a soaring 27-point win over Sydney.",
-      "category": "military",
+      "title": "AFLW wrap: Suns rally after coaching spray, Roos maintain historic run",
+      "summary": "Daisy D'Arcy has produced a dazzling display as Gold Coast's band of youngsters posted a three-point AFLW victory over Port Adelaide in a three-goal thriller.",
+      "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-09-05/aflw-round-four-bulldogs-swans-kangaroos-saints/107120298",
       "image": null,
@@ -39,8 +94,8 @@
     },
     {
       "id": "3l9k6y",
-      "title": "Live: Manly hanging in against Warriors, who could take big step towards NRL minor premiership",
-      "summary": "The Warriors will look to wrap up the NRL minor premiership when they host the Sea Eagles at a packed Mount Smart stadium in Auckland. Follow live.",
+      "title": "Storm claim last-gasp win after young winger stretchered off",
+      "summary": "Melbourne scored a last-second winner to beat the Sharks. Earlier, the Warriors won a thriller in Auckland and the Raiders smashed the Cowboys in Townsville.",
       "category": "military",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-09-05/nrl-sat-live-warriors-sea-eagles-cowboys-raiders-sharks-storm/107117024",
@@ -72,8 +127,8 @@
     },
     {
       "id": "ulfrb",
-      "title": "Live: Swans make incredible start against Lions, but lose captain to injury",
-      "summary": "Missing five key players, the Sydney Swans face a huge task against the Brisbane Lions, with the winner earning the right to host a preliminary final. Follow live.",
+      "title": "Live: Crows, Dogs in fierce elimination final after Swans stun the AFL",
+      "summary": "Adelaide and the Western Bulldogs put their seasons on the line in an elimination final at the Adelaide Oval after the Swans' stunning win over Brisbane at the SCG. Follow live.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-09-05/afl-finals-sydney-brisbane-adelaide-western-bulldogs-live-blog/107117364",
@@ -94,7 +149,7 @@
     },
     {
       "id": "q51nlw",
-      "title": "Explosion at Bolivia military base kills at least 10",
+      "title": "Explosion at Bolivia military base kills two",
       "summary": "Officials say the blast originated from the defence ministry's fireworks stockpile in the Bolivian municipality of Viacha, with more than 60 people wounded.",
       "category": "military",
       "source": "abc-au",
@@ -160,7 +215,7 @@
     },
     {
       "id": "pvi4fx",
-      "title": "Gladys forgives man who burnt her husband and sons, even as he may walk free",
+      "title": "Man who burnt Australian missionary and sons alive may walk free",
       "summary": "The murder of Graham Staines and his two young sons — burnt alive in their car — made headlines around the world. Now the man who did it may walk free.",
       "category": "health",
       "source": "abc-au",
@@ -222,61 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-09-05/nazi-looted-portrait-returned-to-jewish-dealers-heir-argentina/107119834",
       "image": null,
       "publishedAt": "2026-09-05T02:00:51.000Z",
-      "sample": false
-    },
-    {
-      "id": "cwfwi4",
-      "title": "Clarkson opens up about 'publicly humilating' Kangaroos axing",
-      "summary": "Alastair Clarkson says he and his family feel insulted by the way North Melbourne have handled his sacking as coach.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-05/afl-north-melbourne-kangaroos-alastair-clarkson-sacking/107119854",
-      "image": null,
-      "publishedAt": "2026-09-05T01:27:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "qwm7kn",
-      "title": "Former senator to take 'independent' look at sexual violence in the ADF",
-      "summary": "Natasha Stott Despoja will lead the inquiry, which was a key recommendation of The Royal Commission into Defence and Veteran Suicide.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-05/natasha-stott-despoja-australian-defence-force-violence-inquiry/107118810",
-      "image": null,
-      "publishedAt": "2026-09-05T01:16:33.000Z",
-      "sample": false
-    },
-    {
-      "id": "9wvo9w",
-      "title": "Fewer kids open books for fun, prompting calls for national reading strategy",
-      "summary": "Studies suggest Australian children are not reading for pleasure as often as they used to, prompting advocacy groups to call for a national reading strategy.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-05/national-reading-strategy-urged-kids-do-not-read-for-fun/107103602",
-      "image": null,
-      "publishedAt": "2026-09-05T00:59:08.000Z",
-      "sample": false
-    },
-    {
-      "id": "lzfjc",
-      "title": "Aussie star Myers beats Olympic champions to win Diamond League Final",
-      "summary": "Cameron Myers shows why he is Australia's best prospect in the men's 1,500m since Herb Elliott, after defeating a star-studded field at the Diamond League Final in Brussels.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-05/diamond-league-final-brussels-australian-cameron-myers-wins/107119796",
-      "image": null,
-      "publishedAt": "2026-09-05T00:37:51.000Z",
-      "sample": false
-    },
-    {
-      "id": "opvwmv",
-      "title": "Broome disappears into thick fog as WA wet season nears",
-      "summary": "A blanket of fog turns Broome's Cable Beach into an eerie landscape, signalling the changing of Yawuru seasons.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-05/broome-disappears-into-the-fog/107106508",
-      "image": null,
-      "publishedAt": "2026-09-05T00:32:55.000Z",
       "sample": false
     }
   ],
