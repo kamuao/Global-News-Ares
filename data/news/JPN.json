@@ -2,8 +2,19 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-04T18:16:12.708Z",
+  "updatedAt": "2026-09-05T00:23:03.359Z",
   "daily": [
+    {
+      "id": "as937h",
+      "title": "China’s Xi seeks to bring large CEO delegation on U.S. visit",
+      "summary": "Xi rarely travels abroad with corporate executives, many of whom fell out of favor after Beijing's regulatory crackdowns on the tech, education and property sectors.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/05/china-xi-ceo-delegation-us-visit/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/05/thumbs/400x400/561364.jpg",
+      "publishedAt": "2026-09-05T00:10:00.000Z",
+      "sample": false
+    },
     {
       "id": "r22bo3",
       "title": "How much socialism is America willing to swallow?",
@@ -321,17 +332,6 @@
       "url": "https://www.japantimes.co.jp/sports/2026/09/04/baseball/mlb/shohei-ohtani-health-concerns/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/04/thumbs/400x400/561244.jpg",
       "publishedAt": "2026-09-04T01:55:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lg8wut",
-      "title": "Pacific leaders issue joint rebuke over China missile test",
-      "summary": "China gave only a handful of nations short notice before test-firing the intercontinental ballistic missile in July.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/04/asia-pacific/pacific-leaders-china-missile-test/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/04/thumbs/400x400/561227.jpg",
-      "publishedAt": "2026-09-04T01:42:00.000Z",
       "sample": false
     }
   ],

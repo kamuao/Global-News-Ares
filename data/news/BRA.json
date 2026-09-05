@@ -2,7 +2,7 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-09-04T18:16:14.402Z",
+  "updatedAt": "2026-09-05T00:23:04.429Z",
   "daily": [
     {
       "id": "azbm05",
@@ -14,7 +14,9 @@
       "image": null,
       "publishedAt": "2026-09-04T14:41:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "qjdjuj",
       "title": "Iguazu Falls Record Flow Five Times Higher Than Average",
@@ -36,9 +38,7 @@
       "image": null,
       "publishedAt": "2026-09-03T18:53:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "bkemxf",
       "title": "U.S. Deports Brazilian Immigrant to Equatorial Guinea",
