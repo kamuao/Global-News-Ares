@@ -2,8 +2,41 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-05T12:17:14.818Z",
+  "updatedAt": "2026-09-06T00:25:09.649Z",
   "daily": [
+    {
+      "id": "gayon8",
+      "title": "Kremlin says Ukraine talks with U.S. envoys were useful, but no signs of breakthrough",
+      "summary": "Putin told the envoys that Russia was making \"real progress\" on the battlefield and was confident of achieving its goals.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/06/world/politics/us-envoys-russia-ukraine-talks/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/06/thumbs/400x400/561410.jpg",
+      "publishedAt": "2026-09-05T23:09:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "v5uflf",
+      "title": "From farmers to chefs, Japan’s culinary voices tell their tales",
+      "summary": "\"The Art and Craft of Japanese Cooking: Artisans, Chefs, Recipes\" combines recipes with essays on chefs' approaches as well as the artisans behind the ingredients they work with.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/life/2026/09/06/food-drink/art-craft-japanese-cooking-recipes-essays-cookbook/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/05/thumbs/400x400/560771.jpg",
+      "publishedAt": "2026-09-05T23:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "vsvgbp",
+      "title": "Punch Room Tokyo shakes its way to the top",
+      "summary": "Under the creative direction of bartender Yasuhiro Kawakubo, Punch Room Tokyo has climbed to the top of Japan's bartending scene.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/life/2026/09/06/food-drink/punch-room-tokyo-japans-best-bar/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/05/thumbs/400x400/560549.jpg",
+      "publishedAt": "2026-09-05T23:00:00.000Z",
+      "sample": false
+    },
     {
       "id": "ytdax4",
       "title": "Government may fully cover local losses from consumption tax cut",
@@ -39,8 +72,8 @@
     },
     {
       "id": "r11b3y",
-      "title": "Takaichi seen retaining foreign and finance ministers in Cabinet reshuffle",
-      "summary": "Prime Minister Sanae Takaichi is considering keeping Foreign Minister Toshimitsu Motegi and Finance Minister Satsuki Katayama in their posts.",
+      "title": "Takaichi seen retaining foreign, defense and finance ministers in Cabinet reshuffle",
+      "summary": "Prime Minister Sanae Takaichi is considering keeping Foreign Minister Toshimitsu Motegi, defense chief Shinjiro Koizumi and Finance Minister Satsuki Katayama in their posts.",
       "category": "politics",
       "source": "japan-times",
       "url": "https://www.japantimes.co.jp/news/2026/09/05/japan/politics/takaichi-motegi-katayama-cabinet-reshuffle/",
@@ -179,7 +212,9 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/05/thumbs/400x400/561370.jpg",
       "publishedAt": "2026-09-05T01:08:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "as937h",
       "title": "China’s Xi seeks to bring large CEO delegation on U.S. visit",
@@ -267,9 +302,7 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/04/thumbs/400x400/557470.jpg",
       "publishedAt": "2026-09-04T12:45:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "du61bv",
       "title": "Robot penguins make a splash at Wakayama theme park",
@@ -301,39 +334,6 @@
       "url": "https://www.japantimes.co.jp/business/2026/09/04/markets/energy-selling-electricity-ai-batteries/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/04/thumbs/400x400/561096.jpg",
       "publishedAt": "2026-09-04T09:42:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "f77bs0",
-      "title": "When the yen ruled the world: Shunji Iwai’s ‘Swallowtail Butterfly’ returns in 4K",
-      "summary": "The director talks about his approach to the 4K restoration of his classic film, now showing in theaters nationwide.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/culture/2026/09/04/film/shunji-iwai-swallowtail-4k/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/04/thumbs/400x400/560573.jpg",
-      "publishedAt": "2026-09-04T09:15:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "3pn1qv",
-      "title": "Nepal floods ruin merchants and traders ahead of crucial festival season",
-      "summary": "The catastrophe struck just ahead of the crucial September-to-November Hindu festival season, when celebrations typically drive a surge in spending.",
-      "category": "environment",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/04/asia-pacific/society/nepal-floods-merchants-traders-festival/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/04/thumbs/400x400/561293.jpg",
-      "publishedAt": "2026-09-04T09:07:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ibyfqh",
-      "title": "Panel may consider restricting evidence use in civil trials in Japan",
-      "summary": "The Code of Civil Procedure does not currently ban the use of evidence and confidential information for purposes unrelated to trials or the provision of copies to third parties.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/04/japan/crime-legal/justice-ministry-civil-trials/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/04/thumbs/400x400/561316.jpg",
-      "publishedAt": "2026-09-04T08:27:00.000Z",
       "sample": false
     }
   ],
