@@ -2,8 +2,74 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-06T06:18:01.961Z",
+  "updatedAt": "2026-09-06T12:17:53.842Z",
   "daily": [
+    {
+      "id": "rwidks",
+      "title": "India news: Rahul Gandhi backs student protests in Maharashtra",
+      "summary": "Opposition Rahul Gandhi has said that students are \"tormented\" by the ruling Bharatiya Janata Party. The Congress politician has demanded immediate action into the demands of Maharashtra student protesters. DW has more.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-rahul-gandhi-backs-student-protests-in-maharashtra/live-79043198?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-06T10:57:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "wl18ab",
+      "title": "Germany, Kosovo unite against ticks carrying deadly virus",
+      "summary": "Germany has high-security labs while Kosovo has Hyalomma ticks and experience with the deadly Crimean-Congo hemorrhagic fever. Working together, German and Kosovar scientists are fighting the disease and its vectors.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-kosovo-unite-against-ticks-carrying-deadly-virus/a-78655223?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-06T10:25:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "4712q8",
+      "title": "Germany plans anti-drone shield after Leipzig attack: report",
+      "summary": "Several German cities will receive rapidly deployable units capable of defending against drone strikes on critical infrastructure, Bild am Sonntag newspaper reported.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-plans-anti-drone-shield-after-leipzig-attack-report/a-79052604?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-06T10:11:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "oum3oz",
+      "title": "How climate change and food insecurity could fuel future conflicts",
+      "summary": "Climate change, conflict, and trade tensions are putting pressure on the global food system. New research suggests the biggest risk is not food shortages, but whether societies can peacefully adapt to change.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/how-climate-change-and-food-insecurity-could-fuel-future-conflicts/a-78871431?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-06T07:47:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ku2egr",
+      "title": "Indonesia: Flights canceled as Anak Krakatau volcano erupts",
+      "summary": "The spread of ash after the volcanic eruption of Anak Krakatau has impacted thousands of passengers, as flights were canceled at Jakarta's international airport.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/indonesia-flights-canceled-as-anak-krakatau-volcano-erupts/a-79050871?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-06T07:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xj29km",
+      "title": "Saxony-Anhalt: Far-right AfD eyes power in German state vote",
+      "summary": "Although the eastern state accounts for less than 3% of the nationwide electorate, the election outcome could serve as a bellwether about the far-right AfD's prospects in the rest of the country. DW has the latest.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/saxony-anhalt-far-right-afd-eyes-power-in-german-state-vote/live-78754934?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-06T07:23:00.000Z",
+      "sample": false
+    },
     {
       "id": "7e6z6q",
       "title": "Ebola: Why children are last to be treated in medical crises",
@@ -24,28 +90,6 @@
       "url": "https://www.dw.com/en/hungary-begins-hunt-for-corrupt-regime-s-billions/a-79047176?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-06T05:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "xj29km",
-      "title": "Saxony-Anhalt: Far-right AfD eyes power in German state vote",
-      "summary": "Although the eastern state accounts for less than 3% of the nationwide electorate, the election outcome could serve as a bellwether about the far-right AFD's prospects in the rest of the country. DW has the latest.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/saxony-anhalt-far-right-afd-eyes-power-in-german-state-vote/live-78754934?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-06T04:59:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ku2egr",
-      "title": "Indonesia: Flights canceled as Anak Krakatau volcano erupts",
-      "summary": "The spread of ash after the volcanic eruption of Anak Krakatau has impacted thousands of passengers, as flights were canceled at Jakarta's international airport.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/indonesia-flights-canceled-as-anak-krakatau-volcano-erupts/a-79050871?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-06T03:46:00.000Z",
       "sample": false
     },
     {
@@ -124,7 +168,9 @@
       "image": null,
       "publishedAt": "2026-09-05T13:55:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "lcmpo7",
       "title": "Iran: US hits 3 IRGC-linked oil tankers",
@@ -148,17 +194,6 @@
       "sample": false
     },
     {
-      "id": "rbjtmz",
-      "title": "India news: 275 Indians still missing in Nepal floods",
-      "summary": "Official estimates say that 275 Indians continue to be unaccounted for in Nepal's flood catastrophe. Meanwhile, no Indian travelers are said to be stranded in flood-affected Tibet. DW has more.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-275-indians-still-missing-in-nepal-floods/live-79043198?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-05T07:15:00.000Z",
-      "sample": false
-    },
-    {
       "id": "da6270",
       "title": "Germany news: Thousands march at Saxony-Anhalt rallies",
       "summary": "Ahead of Saxony-Anhalt's state election on Sunday, a democracy festival by civil society groups has been held in Magdeburg. The far-right AfD organized its final campaign rally in the state capital.",
@@ -179,9 +214,7 @@
       "image": null,
       "publishedAt": "2026-09-05T06:25:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "ii4lim",
       "title": "Tunisia: Judge orders arrest of journalist Mohamed Yousfi",
@@ -191,28 +224,6 @@
       "url": "https://www.dw.com/en/tunisia-judge-orders-arrest-of-journalist-mohamed-yousfi/a-79040802?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-05T03:39:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bwmwec",
-      "title": "Bolivia: Deadly explosion rocks military base in Viacha",
-      "summary": "The explosion occurred at an army base where fireworks were stored. The exact cause of the blast is under investigation.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/bolivia-deadly-explosion-rocks-military-base-in-viacha/a-79040892?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-05T03:27:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "hbhscm",
-      "title": "UN approves world map reflecting true size of Africa",
-      "summary": "The UN General Assembly has voted to adopt a map that more accurately shows the size of the continents. Only the United States voted against the measure, which projects the country as smaller than on traditional maps.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/un-approves-world-map-reflecting-true-size-of-africa/a-79040629?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-04T23:34:00.000Z",
       "sample": false
     },
     {
@@ -664,17 +675,6 @@
       "url": "https://www.dw.com/en/eu-wants-drones-to-spray-pesticides-but-it-could-backfire/a-78557154?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-08-30T15:11:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5v2ctv",
-      "title": "Greece, Turkey clash over protected Aegean marine areas",
-      "summary": "Turkey has announced the creation of two protected zones in a disputed area of the Aegean Sea, sparking an angry reaction from Greece. Does this mark a new chapter in a long-running dispute between the two countries?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/greece-turkey-clash-over-protected-aegean-marine-areas/a-78550021?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-08-30T09:07:00.000Z",
       "sample": false
     }
   ],
