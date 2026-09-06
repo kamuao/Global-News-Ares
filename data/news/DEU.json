@@ -2,8 +2,63 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-06T00:25:06.282Z",
+  "updatedAt": "2026-09-06T06:18:01.961Z",
   "daily": [
+    {
+      "id": "7e6z6q",
+      "title": "Ebola: Why children are last to be treated in medical crises",
+      "summary": "In the latest Ebola outbreak in the Democratic Republic of Congo, children are more likely to die than adults. But it's not always due to the disease. Specific medicines for younger people are often harder to come by.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ebola-why-children-are-last-to-be-treated-in-medical-crises/a-79050107?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-06T06:13:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3263l8",
+      "title": "Hungary begins hunt for corrupt regime's billions",
+      "summary": "Hungary's new prime minister promised he would recover billions stolen or diverted by the previous administration. A new \"super authority\" is about to begin that work. Its success or failure will have a big impact.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/hungary-begins-hunt-for-corrupt-regime-s-billions/a-79047176?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-06T05:54:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xj29km",
+      "title": "Saxony-Anhalt: Far-right AfD eyes power in German state vote",
+      "summary": "Although the eastern state accounts for less than 3% of the nationwide electorate, the election outcome could serve as a bellwether about the far-right AFD's prospects in the rest of the country. DW has the latest.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/saxony-anhalt-far-right-afd-eyes-power-in-german-state-vote/live-78754934?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-06T04:59:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ku2egr",
+      "title": "Indonesia: Flights canceled as Anak Krakatau volcano erupts",
+      "summary": "The spread of ash after the volcanic eruption of Anak Krakatau has impacted thousands of passengers, as flights were canceled at Jakarta's international airport.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/indonesia-flights-canceled-as-anak-krakatau-volcano-erupts/a-79050871?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-06T03:46:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "q24bl6",
+      "title": "Saxony-Anhalt's state election will have a nationwide impact",
+      "summary": "The parliamentary election in the small eastern state of Saxony-Anhalt could have dramatic consequences for Germany's federal government, further raising dissatisfaction with Chancellor Friedrich Merz.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/saxony-anhalt-s-state-election-will-have-a-nationwide-impact/a-78874569?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-06T01:43:00.000Z",
+      "sample": false
+    },
     {
       "id": "gv0ov7",
       "title": "US envoys meet with Putin, leave Russia for Kyiv",
@@ -73,7 +128,7 @@
     {
       "id": "lcmpo7",
       "title": "Iran: US hits 3 IRGC-linked oil tankers",
-      "summary": "The US military said it had destroyed three vessels linked to Iran's Revolutionary Guards. Tehran responded by threatening to increase strikes on US ships in the region. DW has the latest.",
+      "summary": "The US military said it had destroyed three vessels linked to Iran's Revolutionary Guards. Tehran responded by threatening to increase strikes on US ships in the region.",
       "category": "military",
       "source": "dw",
       "url": "https://www.dw.com/en/iran-us-hits-3-irgc-linked-oil-tankers/live-79044467?maca=en-rss-en-all-1573-xml-mrss",
@@ -124,7 +179,9 @@
       "image": null,
       "publishedAt": "2026-09-05T06:25:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "ii4lim",
       "title": "Tunisia: Judge orders arrest of journalist Mohamed Yousfi",
@@ -146,9 +203,7 @@
       "image": null,
       "publishedAt": "2026-09-05T03:27:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "hbhscm",
       "title": "UN approves world map reflecting true size of Africa",
@@ -172,17 +227,6 @@
       "sample": false
     },
     {
-      "id": "cwf4ry",
-      "title": "Yemen: Fighting intensifies amid Houthi push in the west",
-      "summary": "Houthi forces are trying to secure high ground and solidify their control of the entry to the Red Sea in the southwest. The Iran-backed militia abandoned a shaky truce with the Saudi-backed government-in-exile in July.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/yemen-fighting-intensifies-amid-houthi-push-in-the-west/a-79039588?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-04T19:15:00.000Z",
-      "sample": false
-    },
-    {
       "id": "shghxc",
       "title": "In Saxony-Anhalt election, small parties will be kingmakers",
       "summary": "The far-right AfD has good odds of winning an absolute majority in Saxony-Anhalt's parliament this state election, enabling them to govern alone. It all depends on whether other parties make the cut.",
@@ -202,28 +246,6 @@
       "url": "https://www.dw.com/en/germany-s-civil-society-alliance-takes-on-the-far-right/a-79009105?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-04T18:36:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ci37lh",
-      "title": "Nigeria: Suspected oil thieves dead after inhaling fumes",
-      "summary": "A Nigerian environmental group says that at least 37 people died trying to siphon crude oil off a ship illegally. Police acknowledged a fatal incident but gave fewer details, saying investigations continued.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/nigeria-suspected-oil-thieves-dead-after-inhaling-fumes/a-79001997?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-04T15:35:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "l77bzr",
-      "title": "Germany, partners aim to finalize 'return hubs' by year end",
-      "summary": "German Interior Minister Dobrindt said \"technical discussions\" were underway with non-EU countries to establish controversial \"return hubs.\" Rights organizations have questioned the legality and morality of the plans.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-partners-aim-to-finalize-return-hubs-by-year-end/a-79004242?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-04T14:08:00.000Z",
       "sample": false
     },
     {
