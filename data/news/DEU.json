@@ -2,8 +2,107 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-07T00:24:48.962Z",
+  "updatedAt": "2026-09-07T12:21:35.128Z",
   "daily": [
+    {
+      "id": "wbz6eq",
+      "title": "Russia opens first road bridge with North Korea",
+      "summary": "Russia and North Korea have opened their first road bridge across the Tumen River as political, economic and military ties between the two countries deepen.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/russia-opens-first-road-bridge-with-north-korea/a-79142595?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-07T10:16:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1e8vqv",
+      "title": "Can the AfD form a government in Saxony-Anhalt?",
+      "summary": "Following its record election success, the far-right Alternative for Germany aims to form a government. What options does it have without a majority?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/can-the-afd-form-a-government-in-saxony-anhalt/a-79107331?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-07T10:13:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "9kc7cm",
+      "title": "Middle East: Israeli strikes kill several in Lebanon",
+      "summary": "Lebanon's Health Ministry said at least 10 were killed in overnight Israeli strikes in the south of the country. Meanwhile, traffic in the Strait of Hormuz has sunk to its lowest level since May. DW has more.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/middle-east-israeli-strikes-kill-several-in-lebanon/live-79133242?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-07T09:23:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "v3r2q7",
+      "title": "Ukraine: Zelenskyy says war looks set to go on into winter",
+      "summary": "Ukrainian President Volodymyr Zelenskyy says there appears to be no end in sight in Russia's war against his country. His words come after another round of US-led diplomacy. DW has the latest.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-zelenskyy-says-war-looks-set-to-go-on-into-winter/live-79135930?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-07T08:51:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6ikw7i",
+      "title": "UK government condemns 'thuggish' anti-migrant protests in Portsmouth",
+      "summary": "Hundreds gathered in Portsmouth after some refugees arrived by boat from France, a day after masked protesters disrupted traffic at the port of Dover.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/uk-government-condemns-thuggish-anti-migrant-protests-in-portsmouth/a-79134048?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-07T08:22:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "gmy3se",
+      "title": "India news: Rescue efforts underway in deadly Delhi building collapse",
+      "summary": "The building was located in New Delhi's Satya Niketan, popular among students from nearby colleges and universities. At least 12 people have been rescued from the rubble. DW has more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-rescue-efforts-underway-in-deadly-delhi-building-collapse/live-79123607?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-07T07:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "uc5jwm",
+      "title": "Jamaica to petition King Charles over slavery reparations",
+      "summary": "Jamaica will ask King Charles III to refer questions about the legality of slavery and Britain's potential obligation to provide reparations.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/jamaica-to-petition-king-charles-over-slavery-reparations/a-79123536?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-07T06:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3zztup",
+      "title": "Saxony-Anhalt: Germany wakes up to 'unsettling' AfD victory",
+      "summary": "The far-right Alternative for Germany (AfD) party won the Saxony-Anhalt state election but without an absolute majority in parliament. Other European nations were wrestling with the impact of the results. Follow DW.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-07T06:36:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "oecjx4",
+      "title": "Von der Leyen in Greenland with EU investments amid Trump pressure",
+      "summary": "The EU is preparing a major investment package and closer political ties with the Danish Arctic territory amid Donald Trump's demand for greater US control of the mineral-rich island.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/von-der-leyen-in-greenland-with-eu-investments-amid-trump-pressure/a-79109197?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-07T03:58:00.000Z",
+      "sample": false
+    },
     {
       "id": "78aq7i",
       "title": "Several killed in Amazon cargo plane crash in Miami",
@@ -27,17 +126,6 @@
       "sample": false
     },
     {
-      "id": "k6kui5",
-      "title": "AfD wants to form a government in Saxony-Anhalt — but how?",
-      "summary": "Following its record-breaking success in the state election, the far-right AfD in Saxony-Anhalt is aiming to form a government.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/afd-wants-to-form-a-government-in-saxony-anhalt-but-how/a-79107331?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-06T21:41:00.000Z",
-      "sample": false
-    },
-    {
       "id": "z2sjkb",
       "title": "Saxony-Anhalt: Digesting the AfD's landmark election win",
       "summary": "With well over 40% for the far-right Alternative for Germany (AfD), Saxony-Anhalt has witnessed a landmark election night. DW's reporters were on the ground.",
@@ -57,17 +145,6 @@
       "url": "https://www.dw.com/en/fact-check-election-fraud-claims-spread-in-saxony-anhalt/a-79093254?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-06T19:59:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "4w42xe",
-      "title": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
-      "summary": "The far-right AfD has taken a massive lead at the Saxony-Anhalt election, although it was not clear if it will be able to form government. The party's state leader said the result sends \"a signal to Berlin.\" Follow DW.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/saxony-anhalt-far-right-afd-secures-huge-lead-in-key-vote/live-78754934?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-06T19:08:00.000Z",
       "sample": false
     },
     {
@@ -113,7 +190,9 @@
       "image": null,
       "publishedAt": "2026-09-06T15:31:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "rwidks",
       "title": "India news: Rahul Gandhi backs student protests in Maharashtra",
@@ -148,39 +227,6 @@
       "sample": false
     },
     {
-      "id": "oum3oz",
-      "title": "How climate change and food insecurity could fuel future conflicts",
-      "summary": "Climate change, conflict, and trade tensions are putting pressure on the global food system. New research suggests the biggest risk is not food shortages, but whether societies can peacefully adapt to change.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/how-climate-change-and-food-insecurity-could-fuel-future-conflicts/a-78871431?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-06T07:47:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ku2egr",
-      "title": "Indonesia: Flights canceled as Anak Krakatau volcano erupts",
-      "summary": "The spread of ash after the volcanic eruption of Anak Krakatau has impacted thousands of passengers, as flights were canceled at Jakarta's international airport.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/indonesia-flights-canceled-as-anak-krakatau-volcano-erupts/a-79050871?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-06T07:33:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "7e6z6q",
-      "title": "Ebola: Why children are last to be treated in medical crises",
-      "summary": "In the latest Ebola outbreak in the Democratic Republic of Congo, children are more likely to die than adults. But it's not always due to the disease. Specific medicines for younger people are often harder to come by.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ebola-why-children-are-last-to-be-treated-in-medical-crises/a-79050107?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-06T06:13:00.000Z",
-      "sample": false
-    },
-    {
       "id": "3263l8",
       "title": "Hungary begins hunt for corrupt regime's billions",
       "summary": "Hungary's new prime minister promised he would recover billions stolen or diverted by the previous administration. A new \"super authority\" is about to begin that work. Its success or failure will have a big impact.",
@@ -189,30 +235,6 @@
       "url": "https://www.dw.com/en/hungary-begins-hunt-for-corrupt-regime-s-billions/a-79047176?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-06T05:54:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "gv0ov7",
-      "title": "US envoys meet with Putin, leave Russia for Kyiv",
-      "summary": "Jared Kushner and Steve Witkoff met with Russian President Vladimir Putin in Moscow to try to revive talks to end the war in Ukraine. The US envoys are also scheduled to visit Kyiv on Sunday.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-envoys-meet-with-putin-leave-russia-for-kyiv/a-79040773?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-05T22:45:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "pyt7ht",
-      "title": "German company successfully launches rocket to space",
-      "summary": "Bavaria-based Isar Aerospace managed to launch its Spectrum rocket into orbit, 18 months after its first attempt. This is the first such launch from European soil.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/german-company-successfully-launches-rocket-to-space/a-79050717?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-05T22:26:00.000Z",
       "sample": false
     },
     {
@@ -642,39 +664,6 @@
       "url": "https://www.dw.com/en/saxony-anhalt-state-premier-schulze-takes-on-far-right-afd/a-78509861?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-08-31T12:28:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mrmpt4",
-      "title": "Inside the sea cucumber smuggling boom",
-      "summary": "A quiet multimillion‑dollar black market is exploding across the Indian Ocean, driven by one unlikely animal: the sea cucumber.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/inside-the-sea-cucumber-smuggling-boom/a-78005662?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-08-31T10:50:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "x2kow7",
-      "title": "Ailing Djokovic 'despised' every moment of US Open defeat",
-      "summary": "Novak Djokovic has exited in the first round of a Grand Slam for the first time in over two decades. Could time — or an unknown health condition — be catching up with the Serbian tennis legend?",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ailing-djokovic-despised-every-moment-of-us-open-defeat/a-78572187?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-08-31T09:45:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rwkw8m",
-      "title": "Germany news: Summer was 2nd hottest of the century — DWD",
-      "summary": "Germany's DWD weather service says the summer was second only to 2003 in terms of average temperatures. It was also unusually dry. In Cologne, police are seeking a man who fired shots at a cafe storefront.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-summer-was-2nd-hottest-of-the-century-dwd/live-78568957?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-08-31T08:02:00.000Z",
       "sample": false
     }
   ],
