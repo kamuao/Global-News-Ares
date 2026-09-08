@@ -2,17 +2,193 @@
   "id": "GBR",
   "name": "United Kingdom",
   "sample": false,
-  "updatedAt": "2026-09-07T12:21:33.705Z",
+  "updatedAt": "2026-09-08T00:24:18.672Z",
   "daily": [
     {
-      "id": "ugtm5q",
-      "title": "Murder arrests over baby girl's death in woodland",
-      "summary": "Police say they have arrested two men and two women as part of their investigation.",
+      "id": "yr6yfl",
+      "title": "Trump threatens to stop sale of Canadian Bombardier jets in US",
+      "summary": "The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7de/live/ac219160-ab15-11f1-8b63-e9fa771a3e80.jpg",
+      "publishedAt": "2026-09-07T23:29:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "xqyt3a",
+      "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
+      "summary": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c9f/live/78649fd0-8be8-11f1-b8ee-9b3c26ad07bb.jpg",
+      "publishedAt": "2026-09-07T23:06:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "6qqwme",
+      "title": "AI cancer cures slowed by chip shortage, says UK's biggest tech boss",
+      "summary": "The head of chip designer Arm says modelling how a DNA marker is impacted by cancer cannot be done now, but computers are \"going to solve it\".",
+      "category": "technology",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/192e/live/85ed8b30-aaa1-11f1-aed2-8d6da8d75094.jpg",
+      "publishedAt": "2026-09-07T23:05:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "snlr5g",
+      "title": "Cities in Great Britain most vulnerable to extreme heat revealed",
+      "summary": "OS index examines which ‘urban heat islands’ suffer the most – and which cope the best with rising temperatures\nPortsmouth, Leicester, Exeter, Bristol and Nottingham will be among the cities that warm the most by the end of this century as global heating turns British cities into urban heat islands, according to resear",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/environment/2026/sep/08/cities-great-britain-most-vulnerable-extreme-heat-revealed",
+      "image": "https://i.guim.co.uk/img/media/49d7b3f457e0616c21017ac579210da91b6c4fa1/197_0_4948_3958/master/4948.jpg?width=140&quality=85&auto=format&fit=max&s=028bee693e271b0d9c60d2dc4ad7d677",
+      "publishedAt": "2026-09-07T23:01:20.000Z",
+      "sample": false
+    },
+    {
+      "id": "v0t2s8",
+      "title": "'Unwise' for legal professionals to give character references, says NI's top judge",
+      "summary": "Dame Siobhan Keegan was speaking to BBC Radio Ulster's Good Morning Ulster programme in a wide-ranging interview.",
       "category": "politics",
       "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d032/live/aeaca780-aab1-11f1-bdcc-b5edf6495ed5.jpg",
-      "publishedAt": "2026-09-07T12:10:42.000Z",
+      "url": "https://www.bbc.co.uk/news/articles/c1j4wz9p537o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/324c/live/c12525c0-aad1-11f1-aa35-df10e5ff32f4.jpg",
+      "publishedAt": "2026-09-07T23:01:07.000Z",
+      "sample": false
+    },
+    {
+      "id": "amyglp",
+      "title": "Food price cap plans giving farmer 'sleepless nights'",
+      "summary": "East Lothian farmer Jamie Wyllie says he's worried costs will get passed down the line to the food producers.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c9w41xw74p8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b369/live/9d6d1240-aaf0-11f1-8a1d-abc218f78e81.jpg",
+      "publishedAt": "2026-09-07T22:22:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "qexver",
+      "title": "New mums 'left to get on with it' as C-section numbers hit record high",
+      "summary": "Mothers have described being left to recover from caesarean sections with \"no support\".",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/clylwxgknyxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2902/live/d8ce48f0-a86f-11f1-bbad-43eaf67b94b6.jpg",
+      "publishedAt": "2026-09-07T21:19:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "rdqf7e",
+      "title": "Barrister jailed over revenge plot with client",
+      "summary": "Samreen Akhtar, 38, was jailed for three years and three months at Manchester Crown Court on Monday.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzrxjlkgno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3cd/live/f3709bd0-aad7-11f1-aa35-df10e5ff32f4.jpg",
+      "publishedAt": "2026-09-07T20:51:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "o8kavz",
+      "title": "Murder arrest after two people found dead at house",
+      "summary": "The bodies of a man and a woman have been discovered at a house in Blackburn and a man has been arrested.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cpd019n2pejo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ee5/live/646e8020-aab2-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-07T20:50:21.000Z",
+      "sample": false
+    },
+    {
+      "id": "dnj44c",
+      "title": "Police hunt launched after man killed in hit-and-run near Edinburgh Airport",
+      "summary": "A Police dog unit and helicopter are involved in the search for three people who left the scene of the crash on foot.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cde0z30zwgjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69db/live/474eef10-aaf9-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-07T20:08:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "58find",
+      "title": "Self-described 'genocidal racist monster' jailed after BBC investigation",
+      "summary": "A former tax worker is sentenced to two years for inciting hatred online.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c5ywj92jwy1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48a1/live/574a6890-aadb-11f1-aa35-df10e5ff32f4.jpg",
+      "publishedAt": "2026-09-07T19:58:04.000Z",
+      "sample": false
+    },
+    {
+      "id": "o35339",
+      "title": "Police used batons and pepper spray on far-right protesters in Portsmouth unrest",
+      "summary": "Minister condemns groups behind Hampshire disorder and says officers were injured as they repelled ‘aggression’\nBatons and synthetic pepper spray were used to repel hundreds of masked, black-clad vigilantes in Portsmouth on Sunday, it has emerged, as the policing minister said officers had been injured as they repelled",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/07/police-used-batons-and-pepper-spray-on-far-right-protesters-in-portsmouth-unrest",
+      "image": "https://i.guim.co.uk/img/media/c677eb37876d1d7e585eb6cb93d7b8a552cbb463/0_593_1507_1205/master/1507.jpg?width=140&quality=85&auto=format&fit=max&s=0cca0eb59f9f0e6a9f91bdd99fc5655b",
+      "publishedAt": "2026-09-07T19:12:16.000Z",
+      "sample": false
+    },
+    {
+      "id": "d1wak2",
+      "title": "Gaps in evidence on vaccinating badgers against TB, researchers say",
+      "summary": "Researchers want increased monitoring of the vaccination's impact on the disease and a review of the evidence.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cddvzz1mjpvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec4/live/0bf6f3b0-aaa7-11f1-9eba-7de947fa7cd1.jpg",
+      "publishedAt": "2026-09-07T19:11:55.000Z",
+      "sample": false
+    },
+    {
+      "id": "grvch4",
+      "title": "Minister condemns disorder at Portsmouth anti-migrant protest after police officers hurt",
+      "summary": "Sarah Jones told MPs the violence sparked by the arrival of 120 migrants in a single dinghy was \"intimidating and thuggish\".",
+      "category": "society",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cqxv2335je1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc9/live/51c266c0-aaea-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-07T19:04:09.000Z",
+      "sample": false
+    },
+    {
+      "id": "amwpeb",
+      "title": "Policing minister makes statement on ‘intimidating and thuggish’ anti-migrant protests – as it happened",
+      "summary": "Sarah Jones tells MPs ‘those responsible should expect to face the consequences’\nHealey says Andy Burnham set out in his statement to MPs last week what he thought had gone wrong\nThe fundamentals of our economy [were] hollowed out through a series of past policy decisions, political power was centralised, weakening the",
+      "category": "economy",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
+      "image": "https://i.guim.co.uk/img/media/6c4415f3e6bbf82f997ff31bf6ad7cacba9da300/0_0_3841_3072/master/3841.jpg?width=140&quality=85&auto=format&fit=max&s=688860463ad74907176b5fa9a015b9c7",
+      "publishedAt": "2026-09-07T18:49:04.000Z",
+      "sample": false
+    },
+    {
+      "id": "3zwwi6",
+      "title": "UK to adopt tougher stance on Israel with illegal settlements trade ban",
+      "summary": "Ed Miliband to reassert support for Palestinian rights and a two-state solution in move likely to draw fierce criticism from US and Israel\nEd Miliband will announce what he has described as a broad reset of the UK’s relations with Israel on Tuesday, promising the government will take a more active approach in supportin",
+      "category": "economy",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/07/ed-miliband-reset-uk-relations-israel-palestine",
+      "image": "https://i.guim.co.uk/img/media/a4f6226b391e4d444522dbf5d467fe78aeeb6baa/317_0_3264_2612/master/3264.jpg?width=140&quality=85&auto=format&fit=max&s=71caaf161ac6826ab11d5ed8ad35ef4e",
+      "publishedAt": "2026-09-07T18:34:37.000Z",
+      "sample": false
+    },
+    {
+      "id": "7s63m2",
+      "title": "King makes clear Harry and Meghan remain non-working royals",
+      "summary": "The letter has been sent to Prince Harry's team, the government, military and Lord Lieutenants, Palace sources say.",
+      "category": "military",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c20lpevv7jlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cd1/live/6e721f30-aac8-11f1-8881-75c1b8a858c8.jpg",
+      "publishedAt": "2026-09-07T18:23:31.000Z",
       "sample": false
     },
     {
@@ -23,29 +199,183 @@
       "source": "bbc-news",
       "url": "https://www.bbc.co.uk/news/articles/c780n702pp4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a64/live/bdcc0c50-aaa8-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-07T12:09:50.000Z",
+      "publishedAt": "2026-09-07T18:02:43.000Z",
       "sample": false
     },
     {
-      "id": "gxwuk9",
-      "title": "Money offered by SoS does not go far enough, parties say",
-      "summary": "The parties were speaking after the executive met Sir Chris Bryant, who arrived on Monday for talks to resolve Stormont's budget deadlock.",
+      "id": "gs0i1y",
+      "title": "Farage still Reform’s best hope as rivals struggle to match appeal to party faithful",
+      "summary": "Despite series of scandals, members remain loyal to their leader as questions over his successor grow\nFew British politicians unleash the kind of evangelical zeal among their party faithful as Nigel Farage. Despite being weighed down by weeks of scandal, last weekend’s Reform UK conference showed that – as far as the m",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/07/farage-still-reform-best-hope-rivals-struggle-party-faithful",
+      "image": "https://i.guim.co.uk/img/media/5ea44f01faa0d406dd5fa6c545ddbdf2e7126e80/901_361_3257_2607/master/3257.jpg?width=140&quality=85&auto=format&fit=max&s=0e2f3b26f5fda96fe809532f4156bc43",
+      "publishedAt": "2026-09-07T17:58:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "ozei0n",
+      "title": "What we know about the journey of the Portsmouth migrant boat",
+      "summary": "BBC Verify used ship-tracking websites to follow UK and French vessels which monitored the migrant boat in the English Channel.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/ce8xz6p23dno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d5/live/3d84a920-aadb-11f1-a291-b542ee92de7c.png",
+      "publishedAt": "2026-09-07T17:57:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "rrwmtx",
+      "title": "Investigators begin work on why cargo plane overran Miami runway",
+      "summary": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d36/live/ead9f6b0-aa73-11f1-8722-09fc3b051866.jpg",
+      "publishedAt": "2026-09-07T17:46:25.000Z",
+      "sample": false
+    },
+    {
+      "id": "2p17kd",
+      "title": "Ecclestone stopped by police for taking shotgun into Portugal",
+      "summary": "Former Formula 1 boss Bernie Ecclestone says he was stopped by officials at an airport in Portugal after arriving with a shotgun he intended to use in a clay pigeon shooting competition.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/sport/formula1/articles/cy9zx52xen2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c87/live/9f47d240-aadb-11f1-aa35-df10e5ff32f4.jpg",
+      "publishedAt": "2026-09-07T17:40:04.000Z",
+      "sample": false
+    },
+    {
+      "id": "p3lxi",
+      "title": "What we know about anti-migrant protests and organiser Danny Thomas",
+      "summary": "Danny Thomas organised the demonstration in Dover - seemingly after weeks of preparation - and was also present in Portsmouth.",
+      "category": "society",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cpq0nn1l7w0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19bf/live/5240b090-aac0-11f1-9bcd-4de40c4158ea.jpg",
+      "publishedAt": "2026-09-07T17:15:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "c1jh0r",
+      "title": "Jorja Smith, Chase & Status and Sam Smith to head up Radio 1's Live Lounge month",
+      "summary": "Jorja Smith, Rachel Chinouriri and Blossoms also among artists set to take to the studio next month.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy63mdnr7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec40/live/41e1ecc0-aaaf-11f1-9eba-7de947fa7cd1.jpg",
+      "publishedAt": "2026-09-07T16:59:24.000Z",
+      "sample": false
+    },
+    {
+      "id": "tlnf97",
+      "title": "Polanski faces Green rival in his pursuit of Keir Starmer’s old seat",
+      "summary": "Hamza Chowdhury says most of his fellow Green Camden councillors back him to contest 8 October byelection\n\nZack Polanski is facing unexpected opposition from his own party in his attempt to fight the Holborn and St Pancras byelection for the Greens, with a local councillor saying he is also seeking the nomination, and ",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/07/polanski-faces-green-rival-in-his-pursuit-of-keir-starmers-old-seat",
+      "image": "https://i.guim.co.uk/img/media/8d01b2226c69708b3c131e68221b991a644712be/657_1899_2667_2134/master/2667.jpg?width=140&quality=85&auto=format&fit=max&s=f064e148cb197e68e61424cccd6b33e7",
+      "publishedAt": "2026-09-07T16:43:09.000Z",
+      "sample": false
+    },
+    {
+      "id": "x6b28b",
+      "title": "Plans for major overhaul of councils halted",
+      "summary": "Proposals to merge smaller councils to form larger authorities have been paused or withdrawn in a number of areas.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zkj09dy4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baab/live/156efbf0-aaba-11f1-b5c1-2f1b72631965.jpg",
+      "publishedAt": "2026-09-07T16:30:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "lxsj3r",
+      "title": "Next wins key appeal to overturn £30m equal pay ruling",
+      "summary": "A judge ruled Next can pay warehouse workers more because it is harder to recruit and retain them.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83ff/live/152fc380-aacf-11f1-9f87-35997bdaf8f4.jpg",
+      "publishedAt": "2026-09-07T16:25:41.000Z",
+      "sample": false
+    },
+    {
+      "id": "4knlbv",
+      "title": "Chancellor calls for 'confidence about Britain' despite 'historic high' borrowing costs",
+      "summary": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/337d/live/666febe0-aaa6-11f1-9eba-7de947fa7cd1.jpg",
+      "publishedAt": "2026-09-07T16:05:37.000Z",
+      "sample": false
+    },
+    {
+      "id": "codka8",
+      "title": "Is the UK about to see the rise of the far right? – podcast",
+      "summary": "Alternative für Deutschland has claimed a historic win in Germany, continuing the pattern of populist far-right parties gaining power across Europe.\nIn the UK, balaclava-clad far-right protesters have marched on Dover, and then Portsmouth, trying to intimidate asylum seekers.\nMeanwhile, Reform UK’s conference ended wit",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/sep/07/is-the-uk-about-to-see-the-rise-of-the-far-right-podcast",
+      "image": "https://i.guim.co.uk/img/media/c2a3840a8d6743190813d001f4d4362351ca26b4/125_0_4003_3201/master/4003.jpg?width=140&quality=85&auto=format&fit=max&s=26cd21c3786a0965eb75b3df1bb9090a",
+      "publishedAt": "2026-09-07T15:49:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "4dy3ky",
+      "title": "Faisal Islam: Chancellor's attempts to boost vibes may limit tax rises",
+      "summary": "The new leadership is trying to maintain both confidence and the promotion of economic animal spirits.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c39mz7xlvjzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc41/live/b8f9f260-aaca-11f1-9f87-35997bdaf8f4.jpg",
+      "publishedAt": "2026-09-07T15:41:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "6c8qj7",
+      "title": "No 10 condemns ‘thuggish’ far-right activists after Portsmouth unrest",
+      "summary": "Hundreds of men, some in balaclavas, try to prevent asylum seekers’ processing, two days after similar scenes in Dover\nDowning Street has condemned the “thuggish and intimidating behaviour” of far-right activists who blocked roads in Portsmouth when a boat carrying asylum seekers arrived in the city, two days after sim",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/07/ministers-condemn-far-right-activists-portsmouth-asylum-seekers",
+      "image": "https://i.guim.co.uk/img/media/72f467ceb30e91ce3b124ceaee03fa04639c7ff9/121_0_3838_3072/master/3838.jpg?width=140&quality=85&auto=format&fit=max&s=7d630e2d786dccbd924cfc71a1d298f8",
+      "publishedAt": "2026-09-07T15:34:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "qf4soz",
+      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+      "summary": "The long-running claim alleges Grindr breached UK privacy laws by sharing data with third parties.",
+      "category": "technology",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cn8e63qdqwzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b63e/live/b7a99d40-aacd-11f1-9f87-35997bdaf8f4.jpg",
+      "publishedAt": "2026-09-07T15:27:50.000Z",
+      "sample": false
+    },
+    {
+      "id": "71v0bv",
+      "title": "What we know about anti-migrant protests and organiser Danny Thomas",
+      "summary": "UK correspondent Daniel Sandford looks at the link between small boat protests in Dover and Portsmouth over the weekend.",
+      "category": "society",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee8d/live/2d5813b0-aadc-11f1-aa35-df10e5ff32f4.jpg",
+      "publishedAt": "2026-09-07T15:20:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "4fhq05",
+      "title": "Man, 102, with dementia died after being pushed in pub, inquest told",
+      "summary": "Phillip Ormerod was taken to hospital in critical condition and later died.",
       "category": "health",
       "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c8d31dgnev7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c92/live/a8f4cbd0-aaaf-11f1-a291-b542ee92de7c.png",
-      "publishedAt": "2026-09-07T12:05:22.000Z",
-      "sample": false
-    },
-    {
-      "id": "amwpeb",
-      "title": "Opposition parties accuse Healey of offering ‘more of the same’ in his first major speech as chancellor – UK politics live",
-      "summary": "Chancellor accused of being ‘continuity Rachel Reeves’ and giving ‘dire and dreary speech’ as JLR announced 4,000 job losses\n\nChancellor to argue UK economy can ‘turn corner’ despite bond market turmoil\n\nHealey says Andy Burnham set out in his statement to MPs last week what he thought had gone wrong\nThe fundamentals o",
-      "category": "economy",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
-      "image": "https://i.guim.co.uk/img/media/390a4b04be5292dd5b57554e51ddf5e284be0265/591_0_3498_2799/master/3498.jpg?width=140&quality=85&auto=format&fit=max&s=8003f0869d90c4ec20424089bf573516",
-      "publishedAt": "2026-09-07T12:03:10.000Z",
+      "url": "https://www.bbc.co.uk/news/articles/c8r6p08v54jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd35/live/ae3236a0-aacd-11f1-9f87-35997bdaf8f4.jpg",
+      "publishedAt": "2026-09-07T15:18:35.000Z",
       "sample": false
     },
     {
@@ -55,8 +385,173 @@
       "category": "economy",
       "source": "bbc-news",
       "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c067/live/5d770b70-aaa3-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-07T11:51:54.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e11a/live/5581ced0-aae1-11f1-b109-879e35c24276.jpg",
+      "publishedAt": "2026-09-07T14:57:30.000Z",
+      "sample": false
+    },
+    {
+      "id": "55zwqf",
+      "title": "Architect of UK’s AI policy quits after Anthropic conflict of interest concerns",
+      "summary": "Matt Clifford forced to stand down amid disquiet from senior MPs over his new full-time job at AI company \nThe chair of the UK government’s “moonshot” science and technology research unit has been forced to stand down after taking a job with the San Francisco AI firm Anthropic, in a move senior MPs called a “clear conf",
+      "category": "technology",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns",
+      "image": "https://i.guim.co.uk/img/media/852ec2a6836480a45df3ced8fc2d4b4204eb9886/292_110_1937_1549/master/1937.jpg?width=140&quality=85&auto=format&fit=max&s=56e4fbb6e073cd532034ee551789bf20",
+      "publishedAt": "2026-09-07T14:42:24.000Z",
+      "sample": false
+    },
+    {
+      "id": "d4t5a0",
+      "title": "Netflix announces production of third Inbetweeners film",
+      "summary": "Creators Damon Beesley and Iain Morris return as writers and directors, with the original cast reprising their roles\nNetflix has announced that production has begun on a new Inbetweeners film, with the original cast members reprising their roles.\nIt will be a continuation of the popular Channel 4 sitcom, which aired on",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/media/2026/sep/07/netflix-third-inbetweeners-film",
+      "image": "https://i.guim.co.uk/img/media/318d8c289d0eca4ae52bc3ffdc5b294bfc690976/694_0_3542_2832/master/3542.jpg?width=140&quality=85&auto=format&fit=max&s=29d9e51425a9704bee40903d987f25b2",
+      "publishedAt": "2026-09-07T14:40:22.000Z",
+      "sample": false
+    },
+    {
+      "id": "5bmhci",
+      "title": "Why the 'Temu Range Rover' is such a threat to Jaguar Land Rover",
+      "summary": "Job cuts come as JLR faces falling sales and intense Chinese competition while trying to switch to electric vehicles.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c5y4l22p262o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bb7/live/3ca652b0-aabd-11f1-b960-379ca4827622.jpg",
+      "publishedAt": "2026-09-07T14:36:37.000Z",
+      "sample": false
+    },
+    {
+      "id": "yu9vpj",
+      "title": "Plans for local government overhaul on hold after legal advice",
+      "summary": "Angela Rayner to announce review into local government shake-up as decisions on four areas withdrawn and 16 paused\nPlans for a large reorganisation of local government have been put on hold after the government received new legal advice that suggested they might not comply with the law.\nThe Ministry of Housing, Communi",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/society/2026/sep/07/angela-rayner-flagship-local-government-overhaul-on-hold",
+      "image": "https://i.guim.co.uk/img/media/fd2daf018fbf2aaf6fe761a8e8339460b78ccb11/180_0_3812_3050/master/3812.jpg?width=140&quality=85&auto=format&fit=max&s=bb4d66f7fd4e5ef706ff0c7502970478",
+      "publishedAt": "2026-09-07T14:25:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "6fx63z",
+      "title": "Trump administration attacks UK plans to boost traditional media on social platforms",
+      "summary": "US embassy says Downing Street’s plan to give BBC, ITV and other established media more online visibility carries risk of ‘censorship’\nThe Trump administration has raised “serious concerns” over Downing Street’s plan to force YouTube and other digital platforms to hand more prominence to established broadcasters, warni",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-administration-attacks-uk-social-media-plans",
+      "image": "https://i.guim.co.uk/img/media/78ec058f77f6c00958aa9f82954fae593a1211b5/439_0_5294_4236/master/5294.jpg?width=140&quality=85&auto=format&fit=max&s=483a4724931531a74513af4977603009",
+      "publishedAt": "2026-09-07T14:20:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "7voex3",
+      "title": "What in the World",
+      "summary": "American sailors and marines finally had a break in Pattaya, Thailand",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct98xy?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0g0gjs2.jpg",
+      "publishedAt": "2026-09-07T14:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "v05ka6",
+      "title": "Sightings of Meghan at star-studded retreat fuel Cotswolds rumours",
+      "summary": "Reports of Soho Farmhouse visit add to speculation Duke and Duchess of Sussex could be settling in the area\nWhen the Duke and Duchess of Sussex landed back in England earlier this summer, six years after they moved to California and quit as working royals, speculation was rife about where they would call home.\nNow, mem",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/07/sightings-meghan-retreat-soho-farmhouse-cotswolds-duke-duchess-sussex",
+      "image": "https://i.guim.co.uk/img/media/b3ecde0df2bb42c4a6aac069ef3917d4fb9591e8/221_0_2557_2046/master/2557.jpg?width=140&quality=85&auto=format&fit=max&s=1e1f4a618df67d3f48533fff2eaea576",
+      "publishedAt": "2026-09-07T14:00:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "4xtit9",
+      "title": "Far-right activists wade through sea to film asylum seekers in Portsmouth – video",
+      "summary": "Phone-shot video shows far-right, anti-migrant protesters walking into the sea as an RNLI aid vessel sails into Portsmouth port carrying asylum seekers rescued off the coast. \nHundreds of people clashed with police late into the night in an attempt to stop the asylum seekers from reaching a processing site in Kent\n Con",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/video/2026/sep/07/far-right-activists-wade-through-sea-to-film-asylum-seekers-in-portsmouth-video",
+      "image": "https://i.guim.co.uk/img/media/614ea48410726802e98de36f0151d2b1d2508864/285_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=79a7666eccc27053f36b2772e46f21e8",
+      "publishedAt": "2026-09-07T12:56:29.000Z",
+      "sample": false
+    },
+    {
+      "id": "zftlwh",
+      "title": "John Healey backs growth but says Labour must be honest on spending",
+      "summary": "Chancellor ducks questions on whether he will have to raise taxes but says he will stick firmly to fiscal rules\nJohn Healey has said boosting economic growth will be his defining mission as chancellor as he warned Labour had to “be honest” about the need to control public spending at next month’s budget.\nIn his first b",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/07/john-healey-growth-labour-spending-raise-taxes",
+      "image": "https://i.guim.co.uk/img/media/7ac1a1ab26c15c6773452bf3aa4e26253d187642/336_0_3933_3147/master/3933.jpg?width=140&quality=85&auto=format&fit=max&s=0d4c723d9297242f5c963289444373c7",
+      "publishedAt": "2026-09-07T12:54:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "m8cna9",
+      "title": "'I have chronic cancer but I'm not going to die' - BBC presenter Maryam Moshiri",
+      "summary": "Moshiri was diagnosed in November 2024 with polycythaemia vera (PV), after her GP noticed irregularities in blood test results.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/cdr736zeljeo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8078/live/9c54fb10-aaba-11f1-b5c1-2f1b72631965.jpg",
+      "publishedAt": "2026-09-07T12:51:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "v70cuf",
+      "title": "Next overturns equal pay ruling that raised basic wages for shop staff",
+      "summary": "Retailer wins appeal against 2024 decision forcing it to pay shop workers the same as warehouse employees\nThe UK retailer Next has overturned a 2024 court ruling forcing it to pay its shop staff the same higher basic pay rates as its warehouse workers under equal pay rules.\nThe chain, led by the Conservative peer Simon",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/07/next-overturns-equal-pay-ruling-that-raised-basic-wages-for-shop-staff",
+      "image": "https://i.guim.co.uk/img/media/870a9718f6f20f526c2a68c4b17bda629cc41a03/828_330_3853_3085/master/3853.jpg?width=140&quality=85&auto=format&fit=max&s=9a3bd473c740196df8918b7bde65f3d3",
+      "publishedAt": "2026-09-07T12:45:59.000Z",
+      "sample": false
+    },
+    {
+      "id": "ugtm5q",
+      "title": "Murder arrests over baby girl's death in woodland",
+      "summary": "Police say they have arrested two men and two women as part of their investigation.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy135xl1po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b626/live/a1f59ab0-aabb-11f1-a291-b542ee92de7c.jpg",
+      "publishedAt": "2026-09-07T12:36:09.000Z",
+      "sample": false
+    },
+    {
+      "id": "azv4qr",
+      "title": "Oasis recordings up for auction despite band’s objections",
+      "summary": "Guide price of archive documenting concerts, rehearsals, soundchecks and conversations between £1.2m and £1.6m\nAn archive of more than 100 hours of Oasis recordings, including concerts, rehearsals and candid conversations between Noel and Liam Gallagher, is to be auctioned for up to £1.6m despite objections from the ba",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/music/2026/sep/07/auction-oasis-recordings-archive-concerts-rehearsals-conversations",
+      "image": "https://i.guim.co.uk/img/media/6d47f913311863449624536007cc01273d238ab9/0_164_6529_5223/master/6529.jpg?width=140&quality=85&auto=format&fit=max&s=6018d8ded39aba1f5bf9013d5efc00ab",
+      "publishedAt": "2026-09-07T12:25:22.000Z",
+      "sample": false
+    },
+    {
+      "id": "cr699g",
+      "title": "Schools close early again for A66 crash funeral",
+      "summary": "Theo Rae is one of seven killed when a car going the wrong way crashed with a Cleveland Police car.",
+      "category": "society",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cjdvxpn7p41o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2410/live/0cbb6520-a786-11f1-b2d5-535b3b3d379f.jpg",
+      "publishedAt": "2026-09-07T12:24:07.000Z",
+      "sample": false
+    },
+    {
+      "id": "ii4cny",
+      "title": "OpenAI chief scientist warns no-one is prepared for consequences of AI",
+      "summary": "The post comes as the firm releases GPT-6 Astra, which it says is its most powerful product yet.",
+      "category": "technology",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzrrd0kp7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9408/live/98bd0c70-aaa8-11f1-9eba-7de947fa7cd1.jpg",
+      "publishedAt": "2026-09-07T12:22:07.000Z",
       "sample": false
     },
     {
@@ -84,34 +579,12 @@
     {
       "id": "u6qpx6",
       "title": "UK house prices fall for first time since 2023, led by London and south-east",
-      "summary": "Average property cost £298,468 in August, down by 0.4% year on year amid higher interest rates, says Lloyds\n\nBusiness live – latest updates\n\nUK house prices have fallen for the first time in almost three years, as prospective buyers were squeezed by higher mortgage rates, geopolitical uncertainty and stretched affordab",
+      "summary": "Average property cost £298,468 in August, down by 0.4% year on year amid higher interest rates, says Lloyds\nUK house prices have fallen for the first time in almost three years, as prospective buyers were squeezed by higher mortgage rates, geopolitical uncertainty and stretched affordability.\nPrices have dropped by 0.4",
       "category": "economy",
       "source": "the-guardian",
       "url": "https://www.theguardian.com/money/2026/sep/07/uk-house-prices-fall-august-interest-rates-lloyds",
       "image": "https://i.guim.co.uk/img/media/5d8d7b9e94d07d02cf1002e7d4b38ff53594b651/8_292_4058_3245/master/4058.jpg?width=140&quality=85&auto=format&fit=max&s=f1d34f5271faab8aa50a406e0744b513",
       "publishedAt": "2026-09-07T11:20:36.000Z",
-      "sample": false
-    },
-    {
-      "id": "j3uzl",
-      "title": "Jaguar Land Rover confirms plan to cut 4,000 jobs over two years",
-      "summary": "Carmaker, which is battling Trump tariffs and fallout from cyber-attack, also wants to reduce 34,000-strong UK workforce\n\nBusiness live – latest updates\n\nJaguar Land Rover has announced thousands of job cuts in a “body blow for workers” as it grapples with tough trading conditions, Donald Trump’s tariff wars and the fa",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/07/jaguar-land-rover-job-trump-tariffs",
-      "image": "https://i.guim.co.uk/img/media/4f876e3664001c63f64854ba45a1ea7e118136d5/922_112_2553_2043/master/2553.jpg?width=140&quality=85&auto=format&fit=max&s=8964f04788cddf0e80c3280e74cec754",
-      "publishedAt": "2026-09-07T11:15:37.000Z",
-      "sample": false
-    },
-    {
-      "id": "4tn3q4",
-      "title": "Man who murdered Orkney waiter to have conviction reviewed",
-      "summary": "Michael Ross was found guilty of shooting Shamsuddin Mahmood in an Orkney restaurant in 1994.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/czxzeee5lqyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/261d/live/9b1cb1e0-aaa9-11f1-9eba-7de947fa7cd1.jpg",
-      "publishedAt": "2026-09-07T11:14:36.000Z",
       "sample": false
     },
     {
@@ -123,28 +596,6 @@
       "url": "https://www.theguardian.com/politics/2026/sep/07/patriot-platform-far-right-group-dover-portsmouth",
       "image": "https://i.guim.co.uk/img/media/1d3264f3f0b1f662787fd1ed956a1aef214bc47c/882_0_2343_1875/master/2343.jpg?width=140&quality=85&auto=format&fit=max&s=1e2a0698bb433e078de7e5c38c756407",
       "publishedAt": "2026-09-07T11:02:25.000Z",
-      "sample": false
-    },
-    {
-      "id": "eajxv3",
-      "title": "Glowworms shine again in North Yorkshire after larvae reared in garden shed",
-      "summary": "Volunteer ‘glow-getters’ overseeing reintroduction of endangered beetles at Nosterfield nature reserve\nThe bioluminescent beams of “fairy folk” are shining again from a nature reserve in North Yorkshire for the first time in a century after the successful reintroduction of endangered glowworms.\nFemale glowworms were sp",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/07/glowworms-shine-again-north-yorkshire-larvae-reintroduction",
-      "image": "https://i.guim.co.uk/img/media/b79ce52b5c37940de272a7aa1e35a65cdafe3f03/913_162_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=03bdd2b001c8996f644f569b05fb01d0",
-      "publishedAt": "2026-09-07T10:49:40.000Z",
-      "sample": false
-    },
-    {
-      "id": "ef9zen",
-      "title": "Leader of group behind flag campaign in England charged with 14 offences",
-      "summary": "Ryan Bridge, who co-founded Raise the Colours, to appear in court on charges including racially aggravated harassment\nThe leader of a group responsible for raising union jack and St George’s flags across England has been charged with 14 offences, including racially aggravated harassment, threatening behaviour and assau",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/07/ryan-bridge-leader-raise-the-colours-flag-campaign-charged-offences",
-      "image": "https://i.guim.co.uk/img/media/82e06e25ca6e871ffa09cf9f553d82cfbe4778a1/387_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=ab62fec5873c6763d279c79e18b97b1e",
-      "publishedAt": "2026-09-07T10:43:44.000Z",
       "sample": false
     },
     {
@@ -161,34 +612,12 @@
     {
       "id": "cyq4ew",
       "title": "Grindr pays £26m to settle UK lawsuit over allegedly sharing users’ HIV status",
-      "summary": "US-owned dating app allegedly allowed ad firms access to private information in breach of UK law\n\nBusiness live – latest updates\n\nGrindr will pay £26m to settle a lawsuit brought by thousands of users in the UK who allege that the US dating app shared highly sensitive personal information, including in some cases their",
+      "summary": "US-owned dating app allegedly allowed ad firms access to private information in breach of UK law\nGrindr will pay £26m to settle a lawsuit brought by thousands of users in the UK who allege that the US dating app shared highly sensitive personal information, including in some cases their HIV status, with advertising com",
       "category": "health",
       "source": "the-guardian",
       "url": "https://www.theguardian.com/business/2026/sep/07/grindr-settle-uk-lawsuit-dating-app-ad",
       "image": "https://i.guim.co.uk/img/media/c3ab739c6cb52fe06c96710731f7dfcb732b5989/34_178_2692_2155/master/2692.jpg?width=140&quality=85&auto=format&fit=max&s=072b99af75abd7b784342228d68b42ba",
       "publishedAt": "2026-09-07T10:30:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "4knlbv",
-      "title": "Chancellor says UK economy 'turning a corner' despite debt concerns",
-      "summary": "John Healey detailed plans to spread growth more widely across the UK, ahead of his first Budget.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/337d/live/666febe0-aaa6-11f1-9eba-7de947fa7cd1.jpg",
-      "publishedAt": "2026-09-07T10:16:19.000Z",
-      "sample": false
-    },
-    {
-      "id": "rrwmtx",
-      "title": "Probe begins into why cargo plane overran Miami runway",
-      "summary": "Five people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d36/live/ead9f6b0-aa73-11f1-8722-09fc3b051866.jpg",
-      "publishedAt": "2026-09-07T09:54:40.000Z",
       "sample": false
     },
     {
@@ -203,17 +632,6 @@
       "sample": false
     },
     {
-      "id": "8x5jl1",
-      "title": "Man hit with 'death tax' after inheriting mother's home",
-      "summary": "Phil Bond says he fears people in the same situation may pay the charge without challenging it.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c7v4n0mmd0jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b5a/live/29bced60-aaa1-11f1-9eba-7de947fa7cd1.jpeg",
-      "publishedAt": "2026-09-07T09:43:31.000Z",
-      "sample": false
-    },
-    {
       "id": "w1fxay",
       "title": "Riot police clash with far-right protesters in Portsmouth – video",
       "summary": "Hundreds of far-right protesters have clashed with riot police in Portsmouth, after a boat carrying 140 asylum seekers was intercepted and brought ashore. It is thought to be the first time such a large vessel carrying asylum seekers has been brought to the city, and the first time a large crowd has tried to prevent ne",
@@ -222,17 +640,6 @@
       "url": "https://www.theguardian.com/world/video/2026/sep/07/riot-police-clash-with-far-right-protesters-in-portsmouth-video",
       "image": "https://i.guim.co.uk/img/media/6c4415f3e6bbf82f997ff31bf6ad7cacba9da300/119_0_3841_3072/master/3841.jpg?width=140&quality=85&auto=format&fit=max&s=4a3e83281cc01ca077248823ce9edfa6",
       "publishedAt": "2026-09-07T09:33:57.000Z",
-      "sample": false
-    },
-    {
-      "id": "cr699g",
-      "title": "Schools to close early again for A66 crash funeral",
-      "summary": "Theo Rae was one of seven people killed when a car going the wrong-way down the A66 crashed.",
-      "category": "society",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cjdvxpn7p41o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2410/live/0cbb6520-a786-11f1-b2d5-535b3b3d379f.jpg",
-      "publishedAt": "2026-09-07T09:19:48.000Z",
       "sample": false
     },
     {
@@ -271,7 +678,7 @@
     {
       "id": "p8hwz6",
       "title": "UK’s biggest private hospital firm Spire agrees £1bn takeover by hedge fund",
-      "summary": "Toscafund, founded by City figure known as ‘the Rottweiler’, signs deal amid fears over creeping privatisation of NHS\n\nBusiness live – latest updates\n\nBritain’s biggest private hospital operator has agreed to a £1bn takeover by a hedge fund manager known as “the Rottweiler” for his aggressive business tactics.\nSpire He",
+      "summary": "Toscafund, founded by City figure known as ‘the Rottweiler’, signs deal amid fears over creeping privatisation of NHS\nBritain’s biggest private hospital operator has agreed to a £1bn takeover by a hedge fund manager known as “the Rottweiler” for his aggressive business tactics.\nSpire Healthcare, which owns the Claremon",
       "category": "health",
       "source": "the-guardian",
       "url": "https://www.theguardian.com/business/2026/sep/07/uk-private-hospital-spire-healthcare-takeover-hedge-fund-toscafund-nhs",
@@ -288,17 +695,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cy0zydnl8x7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac09/live/810da8e0-a842-11f1-b3a7-d5de760fef6e.jpg",
       "publishedAt": "2026-09-07T08:26:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "6c8qj7",
-      "title": "Ministers condemn ‘thuggish’ far-right activists after Portsmouth unrest",
-      "summary": "Hundreds of men, some wearing balaclavas, attempted to prevent asylum seekers being transported for processing\n\nUK politics live – latest updates\n\nThe government has condemned the “thuggish and intimidating behaviour” of far-right activists who blocked roads in Portsmouth after a boat carrying asylum seekers arrived in",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/07/ministers-condemn-far-right-activists-portsmouth-asylum-seekers",
-      "image": "https://i.guim.co.uk/img/media/72f467ceb30e91ce3b124ceaee03fa04639c7ff9/121_0_3838_3072/master/3838.jpg?width=140&quality=85&auto=format&fit=max&s=7d630e2d786dccbd924cfc71a1d298f8",
-      "publishedAt": "2026-09-07T08:03:41.000Z",
       "sample": false
     },
     {
@@ -335,17 +731,6 @@
       "sample": false
     },
     {
-      "id": "cfbaty",
-      "title": "Ministers propose converting female prison estate into cells for men",
-      "summary": "Plans would see parts of estate converted but campaigners warn it just ‘moves the crisis from one part to another’\nMinisters will seriously examine converting parts of the female prison estate into cells that can safely house male prisoners, as the government looks to reduce numbers of women in prison to ease strain on",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/society/2026/sep/07/ministers-propose-converting-female-prison-estate-into-cells-for-men",
-      "image": "https://i.guim.co.uk/img/media/6f526a9481d66a328fdc68c247cfca0a417901b1/176_0_1702_1361/master/1702.jpg?width=140&quality=85&auto=format&fit=max&s=ebfb40d7f56bb78ab3d3eb1cd5397b07",
-      "publishedAt": "2026-09-07T06:00:27.000Z",
-      "sample": false
-    },
-    {
       "id": "op1mso",
       "title": "Watch: Anti-migrant boat protesters block roads in Portsmouth",
       "summary": "The government condemned \"the intimidating and thuggish behaviour\" of the demonstrators.",
@@ -365,17 +750,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c1dlr2dzv20o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd8b/live/df1f9390-a873-11f1-824a-0fc4c5d895ae.jpg",
       "publishedAt": "2026-09-07T05:46:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "1r89yb",
-      "title": "Chemo hair loss doesn't define me - it's a symbol that I'm strong",
-      "summary": "The beauty and resilience of women living with cancer is celebrated though photography.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c24jpevmgdzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb25/live/ef6a93a0-aa79-11f1-ada1-797c5422f980.jpg",
-      "publishedAt": "2026-09-07T05:15:34.000Z",
       "sample": false
     },
     {
@@ -423,6 +797,17 @@
       "sample": false
     },
     {
+      "id": "3qlvbu",
+      "title": "‘I felt robbed’: bereaved parents hope for answers from Sussex maternity review",
+      "summary": "Review led by Donna Ockenden launches after campaign by families and media investigation into deaths at NHS trust\nSusan Cacciacarro was almost 37 weeks pregnant with her daughter Chiara when she woke up one morning in 2021, unable to feel her baby kicking.\n“My belly just didn’t feel right,” she said. “I didn’t feel any",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/society/2026/sep/07/bereaved-parents-evidence-independent-review-sussex-maternity-donna-ockenden",
+      "image": "https://i.guim.co.uk/img/media/e1d9fd217d952fa89cba7ce72ae7e28d2605f981/0_0_4597_3679/master/4597.jpg?width=140&quality=85&auto=format&fit=max&s=347fdd599f6e995ecb281e42704835d4",
+      "publishedAt": "2026-09-07T05:00:25.000Z",
+      "sample": false
+    },
+    {
       "id": "c9lepu",
       "title": "How long could you manage on £3 of food a day?",
       "summary": "It wants people to experience what it is like for people facing food insecurity.",
@@ -431,17 +816,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c07lz5d5z34o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3830/live/1047ac30-a862-11f1-ae45-e9984fc27c77.jpg",
       "publishedAt": "2026-09-07T04:57:53.000Z",
-      "sample": false
-    },
-    {
-      "id": "cdkyg6",
-      "title": "Designers should not fear being replaced by AI, industry leaders say",
-      "summary": "Firms are more likely to use technology as ‘the intern in the office’ than as a replacement for skilled staff\nProfessional designers should not feel “threatened” by the rapid growth of generative AI, according to business leaders, despite fears over job losses in the sector.\nWith design and film production companies an",
-      "category": "technology",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/07/designers-should-not-fear-being-replaced-by-ai-industry-leaders-say",
-      "image": "https://i.guim.co.uk/img/media/cc21511a496ca3abf0d917fe5db08013f7607f6a/0_0_5800_4640/master/5800.jpg?width=140&quality=85&auto=format&fit=max&s=fbc5d99e4d463d0da33f76b9b7e76f77",
-      "publishedAt": "2026-09-07T04:00:25.000Z",
       "sample": false
     },
     {
@@ -509,7 +883,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae29/live/0ca28050-aa83-11f1-b109-879e35c24276.jpg",
       "publishedAt": "2026-09-07T01:11:40.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "mpzddy",
       "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
@@ -533,39 +909,6 @@
       "sample": false
     },
     {
-      "id": "1ey6ws",
-      "title": "Raise the Colours founder charged with 14 offences",
-      "summary": "Ryan Bridge faces a string of charges including racially aggravated harassment, threats and assault.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c4gm8re4z7po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/376a/live/43691bb0-aa30-11f1-bdbb-8bb5df16290b.png",
-      "publishedAt": "2026-09-06T20:35:38.000Z",
-      "sample": false
-    },
-    {
-      "id": "gbupqf",
-      "title": "Two killed as car hits group of cyclists",
-      "summary": "Three people have been arrested in connection to the incident near Gravesend.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c62k8r60lw3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0d7/live/2b7ef7e0-aa21-11f1-8046-e7e0d3946c1a.jpg",
-      "publishedAt": "2026-09-06T19:15:36.000Z",
-      "sample": false
-    },
-    {
-      "id": "ghnv9n",
-      "title": "Bellingham and Rogers chips mural vandalised",
-      "summary": "The artwork depicts the Black Country-born footballers tucking into the local delicacy.",
-      "category": "technology",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj8l0jy8eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/447b/live/99d7ad00-aa20-11f1-8046-e7e0d3946c1a.png",
-      "publishedAt": "2026-09-06T19:00:49.000Z",
-      "sample": false
-    },
-    {
       "id": "1o1htg",
       "title": "Jamaica to hand slavery reparations petition to King Charles",
       "summary": "The King will be asked to refer three questions to the Judicial Committee of the Privy Council.",
@@ -577,151 +920,6 @@
       "sample": false
     },
     {
-      "id": "m9ktsc",
-      "title": "‘Powerful example’: minister looks to Essex school for blueprint to transform Send provision",
-      "summary": "Georgia Gould says moving system towards inclusion will mean parents ‘don’t need to fight’ for support in future\n\nPupils with Send plans in England likely to double in rush for support\n\nGeorgia Gould is in a race against time. And the minister responsible for overhauling England’s special educational needs provision is",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/education/2026/sep/06/minister-looks-to-essex-school-blueprint-transform-send-provision",
-      "image": "https://i.guim.co.uk/img/media/bdfc786dffbaa14df1325c178579e261111c05a8/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=a4006289a13379f01dbd1a92e6e7b94c",
-      "publishedAt": "2026-09-06T16:00:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "scr8nl",
-      "title": "Three charged with attempted murder after shooting",
-      "summary": "The two adults and teenager will appear in court on Monday.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c8e360y1lp7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/784a/live/bdac43f0-a5f5-11f1-8348-fb0cb1cd9761.jpg",
-      "publishedAt": "2026-09-06T15:29:43.000Z",
-      "sample": false
-    },
-    {
-      "id": "9gfas4",
-      "title": "Black-clad Dover vigilantes will return if police do not act, say campaigners",
-      "summary": "Far-right linked group able to mobilise at scale due to police ‘inaction’, says founder of Hope Not Hate\nThe group of masked, black-clad vigilantes who blockaded roads in Dover could repeat the disruption unless police step up efforts to stop them, politicians and campaigners have said.\nResponsibility for the demonstra",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/06/black-clad-dover-protesters-condemned-for-dressing-up-in-costumes-by-minister",
-      "image": "https://i.guim.co.uk/img/media/70cd1ddff7221708adb05e3140dcbd192bdb8d0f/500_0_2352_1882/master/2352.jpg?width=140&quality=85&auto=format&fit=max&s=03132015e2b7db5c33b9c61ab1c9ac58",
-      "publishedAt": "2026-09-06T14:44:38.000Z",
-      "sample": false
-    },
-    {
-      "id": "hebvky",
-      "title": "Body-worn cameras given to school crossing wardens",
-      "summary": "Lollipop men and ladies in Sheffield will be given the cameras to combat aggressive behaviour.",
-      "category": "military",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cn8e4v17z0go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfb8/live/a39469a0-a926-11f1-b4c6-5d3474716d27.jpg",
-      "publishedAt": "2026-09-06T14:03:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "fc6nin",
-      "title": "Bodies of missing French fishermen recovered",
-      "summary": "Their boat sank off the coast of Plymouth after reporting problems with its fishing gear.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/ce872m2r7n3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f54c/live/2ad288b0-a9c8-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-06T13:48:04.000Z",
-      "sample": false
-    },
-    {
-      "id": "senb77",
-      "title": "No bailouts for Jaguar Land Rover amid reports of thousands of job cuts, says minister",
-      "summary": "Carmaker, which is battling Trump tariffs and Chinese competitors, faces talks with union leaders and government\nThe government has signalled that it will not invest taxpayers’ money to limit job losses at Jaguar Land Rover (JLR), after it emerged that the UK’s biggest carmaker is planning up to 4,000 redundancies.\nBef",
-      "category": "economy",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/06/bailouts-jaguar-land-rover-redundancies-cuts-business-secretary",
-      "image": "https://i.guim.co.uk/img/media/c39f169b8d92cd1ca91472da8ed13962def68d2f/263_0_2605_2084/master/2605.jpg?width=140&quality=85&auto=format&fit=max&s=72542926d1823cf74bbd929cac8aac6a",
-      "publishedAt": "2026-09-06T13:24:05.000Z",
-      "sample": false
-    },
-    {
-      "id": "mmiwut",
-      "title": "Undercover report on donations ‘looks bad’ for Reform, admits Nigel Farage – as it happened",
-      "summary": "The Reform UK leader is under pressure after senior aides appeared to plot how to bypass electoral laws on foreign donations\nSagal Abdi-Wali arrived in Camden as a child refugee from Somalia. She has worked for more than a decade as a volunteer and trustee for local charities and is a governor of two schools in the bor",
-      "category": "society",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/06/nigel-farage-reform-uk-donations-undercover-investigation-latest-news-updates",
-      "image": "https://i.guim.co.uk/img/media/a93fa72607888ddd3d0d67033f949cb5673b1edb/682_775_2715_2173/master/2715.jpg?width=140&quality=85&auto=format&fit=max&s=2e6e5f7ed463f9871b8e85d12f3b0ccc",
-      "publishedAt": "2026-09-06T12:50:58.000Z",
-      "sample": false
-    },
-    {
-      "id": "138kn5",
-      "title": "Police investigate Bielik fan clash at Portsmouth",
-      "summary": "Police are investigating an incident between Cardiff defender Krystian Bielik and a Portsmouth supporter during Pompey's 2-0 home win on Saturday.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c5ym8mx573yo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3c8/live/5ea2eae0-a9eb-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-06T12:22:31.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "wn9s0m",
-      "title": "'We feel abandoned by police': A community's despair after months of crime",
-      "summary": "A crimewave in part of Birmingham over several months leaves residents asking who is in control.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/crk3xnm34p4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2c6/live/b1bc7cb0-a94a-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-06T12:07:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "9096mq",
-      "title": "Fuel duty proposal withdrawn after discussions",
-      "summary": "Deputy Lucy Stephenson had wanted to cut the tax by 10p a litre for three months.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cy8znkkn5rvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1594/live/860aa170-a9e3-11f1-803f-7f2a9199ddc4.jpg",
-      "publishedAt": "2026-09-06T12:01:41.000Z",
-      "sample": false
-    },
-    {
-      "id": "zfo9rf",
-      "title": "Swinney suggests Scots will not travel further for health care under reforms",
-      "summary": "Plans are in motion to cut Scotland's mainland health boards from 14 to two, but questions remain about how they would work in practice.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cevw4mwxwddo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/757c/live/20826610-a62a-11f1-905b-8511af748865.jpg",
-      "publishedAt": "2026-09-06T11:30:14.000Z",
-      "sample": false
-    },
-    {
-      "id": "z7kwbb",
-      "title": "Royal Navy aircraft carrier departs for training",
-      "summary": "HMS Queen Elizabeth left Portsmouth Naval Base at about 18:20 BST on Saturday.",
-      "category": "military",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cwyz6728veqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6b2/live/175c5870-a9c7-11f1-aa17-d79aec794b2a.jpg",
-      "publishedAt": "2026-09-06T10:32:38.000Z",
-      "sample": false
-    },
-    {
-      "id": "dzjwg5",
-      "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
-      "summary": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9f/live/940c2cb0-a936-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-06T09:18:37.000Z",
-      "sample": false
-    },
-    {
       "id": "fnp6ve",
       "title": "Litter pick collects 50 bags of rubbish from river",
       "summary": "A litter picking group gathers every month to remove rubbish from the River Wear in Durham.",
@@ -730,39 +928,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cj4j2eywn70o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b4e/live/879d6c20-a943-11f1-9167-99717d2756e1.jpg",
       "publishedAt": "2026-09-06T07:05:08.000Z",
-      "sample": false
-    },
-    {
-      "id": "djlh2u",
-      "title": "City plan change sought to protect Tower of London",
-      "summary": "Historic England is seeking changes to the Corporation's draft City Plan on development locations.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/clyejyeq3pro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f279/live/ace0f3d0-a772-11f1-993c-a325009c1935.jpg",
-      "publishedAt": "2026-09-06T07:03:31.000Z",
-      "sample": false
-    },
-    {
-      "id": "4xl734",
-      "title": "Diana fountain shut all summer by technical fault",
-      "summary": "The Diana Memorial Fountain remains closed following a sequence of technical faults.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c8047ye4m9eo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a4c/live/1db64540-a7c0-11f1-b5cf-8556ae508a51.jpg",
-      "publishedAt": "2026-09-06T07:01:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "5omxyl",
-      "title": "Online bookies accused of UK privacy breaches with use of cookie banners",
-      "summary": "Most gambling websites nudge users towards accepting tracking data and harvest it before consent is given, study shows\nOnline bookmakers and casinos have been accused of widespread non-compliance of information privacy requirements, including “data surveillance” of customers, according to a study.\nNearly nine out of 10",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/technology/2026/sep/06/online-bookies-privacy-breaches-cookies-tracking",
-      "image": "https://i.guim.co.uk/img/media/9670fd96e18936168fe05d8c0929de10ea29cb2d/1031_76_7095_5676/master/7095.jpg?width=140&quality=85&auto=format&fit=max&s=01357a23b7d88287431fcbbc8cad2a60",
-      "publishedAt": "2026-09-06T07:00:01.000Z",
       "sample": false
     },
     {
@@ -785,28 +950,6 @@
       "url": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d316/live/da5dc3c0-a889-11f1-96fc-dd627484b0e6.png",
       "publishedAt": "2026-09-06T06:04:51.000Z",
-      "sample": false
-    },
-    {
-      "id": "e8j51h",
-      "title": "What big issues are on the agenda as Stormont returns after summer?",
-      "summary": "What challenges face assembly members and ministers as Stormont returns after the summer recess?",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cddve403myeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebed/live/16e76800-a781-11f1-b2d5-535b3b3d379f.png",
-      "publishedAt": "2026-09-06T05:45:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "6lrdq4",
-      "title": "Gardener's giant pumpkin is size of small car",
-      "summary": "Ben White will take \"Gladys\" to an RHS show later this month.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cevwdejpjl7o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ffe/live/f118d0b0-a888-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-06T05:02:14.000Z",
       "sample": false
     },
     {
@@ -876,14 +1019,14 @@
       "sample": false
     },
     {
-      "id": "yyn6jb",
-      "title": "Alzheimer’s trial to test drug on people without symptoms to see if it can be prevented",
-      "summary": "Healthy middle-aged people deemed to be at higher risk of developing condition among those eligible to participate\nPeople without memory loss will be offered an experimental Alzheimer’s drug that could stop the development of the condition before dementia symptoms emerge.\nHealthy middle-aged people deemed to have a hig",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/society/2026/sep/05/alzheimers-trial-drug-dementia",
-      "image": "https://i.guim.co.uk/img/media/16dc4200e4a467e790ff98429051e32dbf61d690/126_0_1048_838/master/1048.jpg?width=140&quality=85&auto=format&fit=max&s=f6fad6135a87544c809aaa08bced029d",
-      "publishedAt": "2026-09-05T11:36:15.000Z",
+      "id": "foove9",
+      "title": "Money Box",
+      "summary": "What can we expect from a major review of financial literacy?",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/sounds/play/m00316jv?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p81g06.jpg",
+      "publishedAt": "2026-09-05T11:30:00.000Z",
       "sample": false
     },
     {
@@ -895,6 +1038,17 @@
       "url": "https://www.theguardian.com/politics/2026/sep/05/reform-continues-to-cast-doubt-on-climate-science-do-its-supporters-agree",
       "image": "https://i.guim.co.uk/img/media/f70a411fe9ba9a7689c8f6d5b4c3970eccf06558/399_0_4963_3971/master/4963.jpg?width=140&quality=85&auto=format&fit=max&s=2aa5dd24b65a3baa397a2042accc5248",
       "publishedAt": "2026-09-05T11:00:34.000Z",
+      "sample": false
+    },
+    {
+      "id": "q14s8g",
+      "title": "Consumer Fight Back",
+      "summary": "Rejected for PIP? Most tribunal appeals succeed. We ask why.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/sounds/play/m00316n9?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m565dw.jpg",
+      "publishedAt": "2026-09-05T10:00:00.000Z",
       "sample": false
     },
     {
@@ -1019,28 +1173,6 @@
       "sample": false
     },
     {
-      "id": "x638g0",
-      "title": "Why on average it rains more in August than September",
-      "summary": "September for the UK as a whole is actually a dryer month than August.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/c62mg1mmglqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a82/live/c144c440-a877-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-04T22:20:16.000Z",
-      "sample": false
-    },
-    {
-      "id": "nnwqxj",
-      "title": "BBC visits area at heart of police investigation after A66 crash",
-      "summary": "The BBC's Ed Thomas has visited Grangetown, an area which has been the focus of an investigation following the deadly A66 crash.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/cvgy7y1ww89o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cba/live/5b14db10-a88b-11f1-96fc-dd627484b0e6.jpg",
-      "publishedAt": "2026-09-04T20:10:23.000Z",
-      "sample": false
-    },
-    {
       "id": "2i0ryp",
       "title": "'Reform broke no law': Nigel Farage responds to latest donation revelations – video",
       "summary": "Nigel Farage tells Reform UK's annual conference in Birmingham that allegations broadcast by Channel 4 News that his party had breached political donation rules were made because 'they’re scared of us'. The party has suspended two senior officials after they were filmed in an undercover investigation appearing to plot ",
@@ -1107,17 +1239,6 @@
       "sample": false
     },
     {
-      "id": "k4d5kp",
-      "title": "Man dives out of first-floor window to escape kidnappers in Lincolnshire - video",
-      "summary": "CCTV footage shows a man jumping from a first-floor window before running into the street and, by chance. approaching a police car. The man jumps in and tells the officer he had been kidnapped and informs him of the location. Lincolnshire police subsequently arrest four men and a woman in connection with the incident\n\n",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/video/2026/sep/04/man-dives-out-of-first-floor-window-to-escape-kidnappers-in-lincolnshire-video",
-      "image": "https://i.guim.co.uk/img/media/30f1c7ce7e95ac1fa17f85c4bb20a67eead6170a/55_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=68c05c21560ac9a186cfff7a92c7a7c5",
-      "publishedAt": "2026-09-04T13:13:58.000Z",
-      "sample": false
-    },
-    {
       "id": "oq5evg",
       "title": "UK petrol prices hit highest level since Iran war began",
       "summary": "The price of unleaded hits 163p a litre, according to motoring group the RAC, as oil prices remain elevated.",
@@ -1148,17 +1269,6 @@
       "url": "https://www.theguardian.com/tv-and-radio/2026/sep/04/wallace-gromit-nick-park-aardman-50-years",
       "image": "https://i.guim.co.uk/img/media/ab94cb3d7a871b65a9f87dec99815b78ee82a8d9/99_0_2895_2317/master/2895.jpg?width=140&quality=85&auto=format&fit=max&s=a1b0f7a755e5b4fecb5cf8c81e1c6aff",
       "publishedAt": "2026-09-04T11:36:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "y9l3x5",
-      "title": "Mason: 'Not what Farage wanted today to look like'",
-      "summary": "Chris Mason speaks from the Reform UK conference as two of its senior officials step down following a Channel 4 investigation.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/c86xjeqn4qyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c78/live/b940e670-a859-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-04T11:20:21.000Z",
       "sample": false
     },
     {
@@ -1258,17 +1368,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ab0/live/294bf5d0-a7b1-11f1-b78b-6b70b0a83270.jpg",
       "publishedAt": "2026-09-04T05:59:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "43vfx8",
-      "title": "Would you lie to get a birthday freebie?",
-      "summary": "We ask people in London if they would fib about their birthday to get a free treat from a shop or restaurant.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/cq637lp0q3zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f62/live/3f93b840-a794-11f1-aed2-8d6da8d75094.jpg",
-      "publishedAt": "2026-09-04T05:52:58.000Z",
       "sample": false
     },
     {
@@ -1393,17 +1492,6 @@
       "sample": false
     },
     {
-      "id": "k1jiox",
-      "title": "‘So scary’: massive hail and torrential rain causes chaos in Toronto",
-      "summary": "Videos shared from across the region showed streets overwhelmed by rain and hailstones falling in a matter of minutes.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/cgl7x04k3yyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a09c/live/d9b5a550-a7b7-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-03T17:52:37.000Z",
-      "sample": false
-    },
-    {
       "id": "cu5dhj",
       "title": "Nvidia strikes $12.9bn deal to buy AI platform Hugging Face",
       "summary": "The deal gives Nvidia control of a leading open-source AI platform and developer community.",
@@ -1437,39 +1525,6 @@
       "sample": false
     },
     {
-      "id": "qk4kti",
-      "title": "Black Box: The Chatbots | The Line | Ep 5 – podcast",
-      "summary": "Five stories that feel like five answers to one important question: in a world where AI chatbots can help us through a breakup, listen like a friend, be a life coach, draft a difficult text message and do our work, where do we draw the line?\n Continue reading...",
-      "category": "technology",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/technology/audio/2026/sep/03/black-box-the-chatbots-the-line-podcast",
-      "image": "https://i.guim.co.uk/img/media/4c85abb174c68555842108292cbc66659566b096/1_0_2499_2000/master/2499.jpg?width=140&quality=85&auto=format&fit=max&s=494a4090003b4233280e476c5414f583",
-      "publishedAt": "2026-09-03T14:20:39.000Z",
-      "sample": false
-    },
-    {
-      "id": "ym7jdm",
-      "title": "Households warned gas price spike could pile fresh pressure on energy bills",
-      "summary": "Experts warn low storage levels could push up gas prices further, leaving households with higher bills.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e55d/live/76f88ba0-a792-11f1-b64a-71b1e45ff5c7.jpg",
-      "publishedAt": "2026-09-03T13:26:54.000Z",
-      "sample": false
-    },
-    {
-      "id": "8aery6",
-      "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
-      "summary": "More than 600 companies underpaid staff, with £4m returned to workers, according to the government.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bcf/live/73721d70-a765-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-09-03T12:50:14.000Z",
-      "sample": false
-    },
-    {
       "id": "tn8pc1",
       "title": "How a new instrument could reveal the secrets of the stars",
       "summary": "MOONS, which was built by a team lead from Scotland, has started its work at the Very Large Telescope in Chile.",
@@ -1492,17 +1547,6 @@
       "sample": false
     },
     {
-      "id": "8wh44u",
-      "title": "Guitar used by George Michael in Faith video goes up for auction",
-      "summary": "Gretsch Synchromatic 160 acoustic guitar expected to sell for as much as £120,000, as star lot in auction of items owned by late personal assistant Siobhan Bailey\nOne of the most iconic items in George Michael’s career, the acoustic guitar he energetically strummed in the video for 1987’s Faith, is going up for auction",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/music/2026/sep/03/guitar-george-michael-faith-video-auction-gretsch",
-      "image": "https://i.guim.co.uk/img/media/768d500fa4b2e701876a9addb7ad8bf4d4116b89/485_262_2284_1826/master/2284.jpg?width=140&quality=85&auto=format&fit=max&s=1acc829f78a1382f03c80bb8370eea6d",
-      "publishedAt": "2026-09-03T08:00:47.000Z",
-      "sample": false
-    },
-    {
       "id": "5tb3pc",
       "title": "Watch: BBC travels in self-driving Uber around London",
       "summary": "The BBC's Zoe Kleinman takes a ride on Uber's self-driving robotaxi as the service rolls out on Thursday.",
@@ -1511,28 +1555,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cwyzeyd7peeo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40c5/live/aaf5c6a0-a767-11f1-aed2-8d6da8d75094.jpg",
       "publishedAt": "2026-09-03T07:20:23.000Z",
-      "sample": false
-    },
-    {
-      "id": "t93jt8",
-      "title": "New musical to give intimate portrait of Marilyn Monroe and Arthur Miller’s marriage",
-      "summary": "Misfits Together, by Bastille’s Dan Smith and To Kill a King’s Ralph Pelleymounter, is set amid the 1950s’ ‘red scare’\nIt was lampooned as the union of the “hourglass” and the “egghead” – the marriage, in the summer of 1956, between Hollywood superstar Marilyn Monroe and Pulitzer-winning playwright Arthur Miller. Now, ",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/stage/2026/sep/03/dan-smith-ralph-pelleymounter-marilyn-monroe-arthur-miller-misfits-together",
-      "image": "https://i.guim.co.uk/img/media/cfb4280d5a120d45291c0b8657a422df7e2856dd/44_0_1961_1568/master/1961.jpg?width=140&quality=85&auto=format&fit=max&s=df9616094e7dd5d5285fc588ab40351e",
-      "publishedAt": "2026-09-03T07:00:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "eyj31p",
-      "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-      "summary": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067c/live/99ebc3c0-a70b-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-03T06:01:54.000Z",
       "sample": false
     },
     {
@@ -1602,28 +1624,6 @@
       "sample": false
     },
     {
-      "id": "z6x6o7",
-      "title": "Lords call for AI 'kill switch' powers in UK",
-      "summary": "Its backers say it would provide a \"vital safety net\" against runaway AI systems such as those from OpenAI and Anthropic.",
-      "category": "technology",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cn9wv80j9w9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b07b/live/7b001b20-a6d7-11f1-acae-21b536d72e0e.jpg",
-      "publishedAt": "2026-09-02T14:41:52.000Z",
-      "sample": false
-    },
-    {
-      "id": "lu5twk",
-      "title": "Social media 'spiral' found after sister's death",
-      "summary": "A woman whose 13-year-old sister took her own life says the \"spiral that she was going through\" was evident from her social media history.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/cy8z3jj0geko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f517/live/67521820-a77d-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-02T13:10:22.000Z",
-      "sample": false
-    },
-    {
       "id": "olb04",
       "title": "Children as young as six going to A&E in mental health crisis",
       "summary": "NHS emergency departments are seeing more cases of self-harm, eating disorders and emotional distress in young people.",
@@ -1657,17 +1657,6 @@
       "sample": false
     },
     {
-      "id": "cykt87",
-      "title": "Criminals publish data of 8.7m people after airports hack",
-      "summary": "The company, which owns Manchester, Stansted and East Midlands airports, was hacked last month.",
-      "category": "technology",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c74k39g3ee5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa2e/live/1c4ecf40-a6be-11f1-ae1e-219da1d6451a.jpg",
-      "publishedAt": "2026-09-02T11:00:59.000Z",
-      "sample": false
-    },
-    {
       "id": "hoksl7",
       "title": "Is Donald Trump 'supplying all that money' to Nasa?",
       "summary": "BBC Verify fact checks President Trump's funding claims about Nasa.",
@@ -1676,17 +1665,6 @@
       "url": "https://www.bbc.co.uk/news/videos/c158qg542g4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8c7/live/68c07150-a621-11f1-b109-879e35c24276.png",
       "publishedAt": "2026-09-02T09:58:27.000Z",
-      "sample": false
-    },
-    {
-      "id": "76of0l",
-      "title": "Former nurse dies amid dementia drug shortages",
-      "summary": "Pearl Roche died with dementia weeks after her family struggled to get supplies of her medication.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/cwyzpy028r3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/498b/live/2e8d2460-a612-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-09-02T09:23:27.000Z",
       "sample": false
     },
     {
@@ -1734,17 +1712,6 @@
       "sample": false
     },
     {
-      "id": "w6yd8",
-      "title": "Fake 10 Downing Street listing exposes 'unfit' Booking.com, says consumer group",
-      "summary": "Booking.com said the \"limited test\" was \"not a true reflection of the experience of millions of listings or reviews\".",
-      "category": "technology",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cly4e0wn452o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f10/live/ff12f590-a5f1-11f1-8348-fb0cb1cd9761.jpg",
-      "publishedAt": "2026-09-02T01:27:34.000Z",
-      "sample": false
-    },
-    {
       "id": "d7ex9f",
       "title": "Tech Life",
       "summary": "AI can only communicate in languages that it's been trained on.",
@@ -1776,17 +1743,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f75/live/d4355200-9188-11f1-a7ab-8b30adf0800a.jpg",
       "publishedAt": "2026-09-01T05:31:25.000Z",
       "sample": false
-    },
-    {
-      "id": "utynjp",
-      "title": "Watch: Notting Hill Carnival celebrates 60th anniversary",
-      "summary": "The three-day event saw dancers in extravagant outfits parading the streets of west London to celebrate Caribbean arts and culture.",
-      "category": "society",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/c05rl9j6d0no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f94/live/52bfe330-a550-11f1-b109-879e35c24276.jpg",
-      "publishedAt": "2026-08-31T15:48:26.000Z",
-      "sample": false
     }
   ],
   "developing": [
@@ -1799,6 +1755,39 @@
       "url": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b42/live/0e674fe0-9bdf-11f1-ba30-ddd78081057f.jpg",
       "publishedAt": "2026-08-27T11:02:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "ozei0n",
+      "title": "What we know about the journey of the Portsmouth migrant boat",
+      "summary": "BBC Verify used ship-tracking websites to follow UK and French vessels which monitored the migrant boat in the English Channel.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/ce8xz6p23dno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05d5/live/3d84a920-aadb-11f1-a291-b542ee92de7c.png",
+      "publishedAt": "2026-09-07T17:57:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "p3lxi",
+      "title": "What we know about anti-migrant protests and organiser Danny Thomas",
+      "summary": "Danny Thomas organised the demonstration in Dover - seemingly after weeks of preparation - and was also present in Portsmouth.",
+      "category": "society",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cpq0nn1l7w0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/19bf/live/5240b090-aac0-11f1-9bcd-4de40c4158ea.jpg",
+      "publishedAt": "2026-09-07T17:15:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "71v0bv",
+      "title": "What we know about anti-migrant protests and organiser Danny Thomas",
+      "summary": "UK correspondent Daniel Sandford looks at the link between small boat protests in Dover and Portsmouth over the weekend.",
+      "category": "society",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/cx2z4rxdnnpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee8d/live/2d5813b0-aadc-11f1-aa35-df10e5ff32f4.jpg",
+      "publishedAt": "2026-09-07T15:20:48.000Z",
       "sample": false
     }
   ]
