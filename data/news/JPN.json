@@ -2,8 +2,140 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-08T06:19:25.518Z",
+  "updatedAt": "2026-09-08T12:20:12.085Z",
   "daily": [
+    {
+      "id": "jifu32",
+      "title": "Japanese helicopters to join Indonesia’s wildfires battle this weekend",
+      "summary": "Indonesia has intensified efforts to tackle wildfires that have been raging for months.",
+      "category": "environment",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/japan-helicopters-indonesia-fire/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561985.jpg",
+      "publishedAt": "2026-09-08T11:22:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "mkelay",
+      "title": "Teen reading levels slump to worst this century",
+      "summary": "The OECD's test of teenagers across 91 countries showed reading scores at their lowest levels since data began to be collected in 2000.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/08/world/teen-reading-slump/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561986.jpg",
+      "publishedAt": "2026-09-08T11:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "mwyo8x",
+      "title": "Kenichi Horie, 88, to sail solo across Pacific Ocean — again",
+      "summary": "If successful, Kenichi Horie will break the world record for the oldest person to complete such a feat, a record he himself set at age 83.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/elderly-solo-yacht-travel/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561983.jpg",
+      "publishedAt": "2026-09-08T10:14:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "5j2o0v",
+      "title": "AI-discovered lung drug reverses aging markers in study",
+      "summary": "An experimental lung disease drug developed using artificial intelligence showed promise in reversing biological signs of aging, pointing to broader potential use of the treatment, according to its developer.",
+      "category": "health",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/08/world/science-health/ai-lung-drug-study/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561978.jpg",
+      "publishedAt": "2026-09-08T09:43:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6yvy1a",
+      "title": "Japan issues highest level heavy rain warning as flood risk rises",
+      "summary": "The warning was issued in various parts of the country, with residents urged to take precautions against the rain.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/nagoya-torrential-rain/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561973.jpg",
+      "publishedAt": "2026-09-08T09:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pgi6gg",
+      "title": "Japan tightens measures against private jet pilots with three-strikes rule",
+      "summary": "The penalty system is being tested at Haneda Airport, a major hub for business flights, with no plans as of yet for expansion to other airports.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/08/business-jets-haneda-airport/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561946.jpg",
+      "publishedAt": "2026-09-08T08:24:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "o1w8en",
+      "title": "In a league of her own: A Japanese F-15 pilot guarding the northern skies",
+      "summary": "Capt. Momoka Fujii, call sign \"Jasmine,\" is one of a tiny minority of female pilots flying front-line combat jets in the Air Self-Defense Force.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/society/sdf-female-pilot/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561847.jpg",
+      "publishedAt": "2026-09-08T08:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "9ox67l",
+      "title": "Key ministers, LDP leaders expected to keep positions amid personnel changes",
+      "summary": "Such a decision would show Prime Minister Sanae Takaichi's opting for stability ahead of the autumn session of parliament.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/politics/cabinet-ldp-reshuffle-update/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561808.jpg",
+      "publishedAt": "2026-09-08T07:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xt8r7i",
+      "title": "South Korea’s power demand set to soar on AI boom",
+      "summary": "The nation is weighing whether to build more nuclear reactors as part of its long-term energy roadmap",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/08/asia-pacific/science-health/south-korea-ai-boom-nuclear-energy/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561952.jpg",
+      "publishedAt": "2026-09-08T07:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "irlapf",
+      "title": "The tiny island where the U.S. and Canada could mend their rift",
+      "summary": "Between the Trump's senseless trade war and his juvenile and disrespectful attacks on Canadian sovereignty and dignity, Canadians have every right to feel angry and betrayed.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/08/world/mending-us-canada-rift/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561457.jpg",
+      "publishedAt": "2026-09-08T07:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ejbquf",
+      "title": "Tokyo’s Taito Ward, long popular with tourists, looks to ban minpaku in certain areas",
+      "summary": "The ward cited increasing reports of bad behavior such as improper trash disposal and loud noises as being behind the crackdown.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/tokyo-taito-minpaku-ban/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561843.jpg",
+      "publishedAt": "2026-09-08T06:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "kz6xp",
+      "title": "Japan not confident that U.S. relations will improve after Trump, survey finds",
+      "summary": "Japan views the U.S. as a necessary partner but has low confidence it will become \"a better ally\" after Donald Trump's second term ends.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/quad-japan-us-china-asia/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561837.jpg",
+      "publishedAt": "2026-09-08T06:25:00.000Z",
+      "sample": false
+    },
     {
       "id": "yxnkav",
       "title": "Japanese carmakers brace for profit hit after yen strengthens",
@@ -24,6 +156,17 @@
       "url": "https://www.japantimes.co.jp/business/2026/09/08/markets/indonesia-richest-offshore/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561912.jpg",
       "publishedAt": "2026-09-08T06:10:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "i49gcf",
+      "title": "Trump and Xi should align on artificial Intelligence",
+      "summary": "Advanced AI may surpass human control, so the U.S. and China must prepare together to manage the risks.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/08/world/china-us-ai-security-ties/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561213.jpg",
+      "publishedAt": "2026-09-08T06:07:00.000Z",
       "sample": false
     },
     {
@@ -93,6 +236,17 @@
       "sample": false
     },
     {
+      "id": "ar48wd",
+      "title": "If Japan is behind the bond market’s ruckus, then good",
+      "summary": "Japan's economy, which had ventured far from the status quo, is now normalizing, with the BOJ raising policy rates and reducing its purchases of sovereign bonds.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/08/japan/japan-behind-bond-market-ruckus/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561460.jpg",
+      "publishedAt": "2026-09-08T04:48:00.000Z",
+      "sample": false
+    },
+    {
       "id": "b0w82z",
       "title": "GPIF still considering need for asset allocation review, minister says",
       "summary": "With the fund overseeing about ¥318 trillion in assets, a 1 percentage-point change in allocations translates to more than ¥3 trillion in fund flows.",
@@ -137,17 +291,6 @@
       "sample": false
     },
     {
-      "id": "9ox67l",
-      "title": "Key ministers, LDP leaders expected to keep positions amid personnel changes",
-      "summary": "Such a decision would show Prime Minister Sanae Takaichi's opting for stability ahead of the autumn session of parliament.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/politics/cabinet-ldp-reshuffle-update/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561808.jpg",
-      "publishedAt": "2026-09-08T03:36:00.000Z",
-      "sample": false
-    },
-    {
       "id": "w2g4nt",
       "title": "Former head of Keizai Doyukai denounces Japan’s notion of being ‘presumed guilty’",
       "summary": "The former Keizai Doyukai chair has criticized Japan's social trend of labeling people suspected of wrongdoing as guilty before the facts are known.",
@@ -189,149 +332,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/crime-legal/construction-company-rearrest-fraud/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561825.jpg",
       "publishedAt": "2026-09-08T03:02:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "9lf4cv",
-      "title": "Yen reclaims ¥153 to the dollar and continues to rally",
-      "summary": "Japan's currency has not been this strong since February.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/08/markets/yen-153/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561779.jpg",
-      "publishedAt": "2026-09-08T02:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "h0k6mq",
-      "title": "Super Bowl rematch kicks off wide-open NFL season",
-      "summary": "The road to the Super Bowl looks unpredictable following an offseason that reshuffled rosters, coaching staff and championship odds.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/09/08/more-sports/2026-nfl-season-preview/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561834.jpg",
-      "publishedAt": "2026-09-08T02:53:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "auwywx",
-      "title": "Rybakina thumps Osaka to reach U.S. Open quarters",
-      "summary": "The flawless victory for Elena Rybakina, who won this year's Australian Open, booked a last-eight clash with Olympic champion Zheng Qinwen.",
-      "category": "health",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/09/08/tennis/rybakina-osaka-us-open/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561829.jpg",
-      "publishedAt": "2026-09-08T02:51:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "95sd5a",
-      "title": "Japan’s faster GDP, wage growth support BOJ interest-rate hike",
-      "summary": "The economy grew at a faster clip in the second quarter than initially estimated while wages jumped the most in nearly three decades in July.",
-      "category": "economy",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/08/economy/japan-july-revised-gdp-wages/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561807.jpg",
-      "publishedAt": "2026-09-08T02:48:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "jf6ndi",
-      "title": "Japan’s Preferred Networks seeks IPO to keep up in AI chip race",
-      "summary": "The Tokyo-based outfit is stepping up efforts to custom-design semiconductors tailored to run AI models.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/08/companies/japan-startup-preferred-networks-ipo/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561778.jpg",
-      "publishedAt": "2026-09-08T02:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "owj42e",
-      "title": "Eiffel Tower closed in row over women removed for Hindu group",
-      "summary": "Staff condemned instructions that led to female employees being \"sidelined, replaced and made invisible because of their sex.\"",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/08/world/eiffel-tower-women-hindu-group/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561771.jpg",
-      "publishedAt": "2026-09-08T01:57:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "e1l873",
-      "title": "Indonesian activists criticize reduced sentences of soldiers convicted of acid attack on activist",
-      "summary": "The soldiers had thrown acid on a person who campaigned against the growing role of the military.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/08/asia-pacific/politics/indonesia-activists-soldiers-acid-attack/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561764.jpg",
-      "publishedAt": "2026-09-08T01:43:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "7bh8u3",
-      "title": "Sapporo Breweries moving some production to U.S. from Canada amid tariff row",
-      "summary": "The Japanese brewer, which makes the top-selling Asian beer in the U.S., is also considering adding manufacturing capacity in the western U.S.",
-      "category": "economy",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/08/companies/sapporo-beer-canada-production-shift-us/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561770.jpg",
-      "publishedAt": "2026-09-08T01:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "9p9f7f",
-      "title": "Attempted murder survivor urges abolition of statute of limitations on such cases",
-      "summary": "Japan abolished the statute of limitations for heinous crimes, such as murder, in 2010, but the changes do not cover attempted murder.",
-      "category": "society",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/crime-legal/attempted-murder-statute-limitations/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561762.jpg",
-      "publishedAt": "2026-09-08T01:33:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "dbrq93",
-      "title": "As Xi-Trump summit looms, Takaichi eyes meeting with U.S. president",
-      "summary": "The move comes as differences between Tokyo and Washington have emerged over the International Criminal Court and Japan's fiscal policy.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/08/japan/politics/japan-takaichi-trump-meet-china/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561763.jpg",
-      "publishedAt": "2026-09-08T01:28:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "j96sn",
-      "title": "From dance floor to war: China readies humanoid robots for combat",
-      "summary": "China's defense establishment is accelerating research into humanoids' military uses and planning for their eventual wartime deployment.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/08/asia-pacific/china-humanoid-robots-war/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561754.jpg",
-      "publishedAt": "2026-09-08T01:25:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "igfc57",
-      "title": "Lebanon says Israel conducted wave of deadly strikes",
-      "summary": "A total of 13 people, including women and children, were killed, according to the Lebanese health ministry.",
-      "category": "health",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/08/world/politics/lebanon-israel-deadly-strikes/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561759.jpg",
-      "publishedAt": "2026-09-08T01:24:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "pgfiwk",
-      "title": "Japan’s wages grow most since 1997, keeping BOJ on rate-hike path",
-      "summary": "Nominal pay climbed 4.7% in July from a year earlier, following a revised 4% increase in June, the labor ministry has reported.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/08/economy/japan-july-wage-growth-fastest-in-30-years/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/08/thumbs/400x400/561768.jpg",
-      "publishedAt": "2026-09-08T01:20:00.000Z",
       "sample": false
     }
   ],
