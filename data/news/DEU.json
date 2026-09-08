@@ -2,8 +2,30 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-08T00:24:19.993Z",
+  "updatedAt": "2026-09-08T06:19:22.481Z",
   "daily": [
+    {
+      "id": "n83pt4",
+      "title": "Trump threatens to block Canada's Bombardier planes from US market",
+      "summary": "Trump says Bombardier must build aircraft in the US as Canada imposes tariffs of up to 50% on US imports.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/trump-threatens-to-block-canada-s-bombardier-planes-from-us-market/a-79153896?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-08T05:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xma14u",
+      "title": "Ukraine updates: Explosions rock Kyiv as 3-day truce ends",
+      "summary": "A series of explosions rocked Kyiv and neighboring cities signaling the end of Russia's three-day ceasefire. DW has the latest.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-updates-explosions-rock-kyiv-as-3-day-truce-ends/live-79153168?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-08T03:33:00.000Z",
+      "sample": false
+    },
     {
       "id": "319m0m",
       "title": "Eiffel Tower employees strike after female staff removed",
@@ -201,31 +223,9 @@
       "image": null,
       "publishedAt": "2026-09-07T07:33:00.000Z",
       "sample": false
-    },
-    {
-      "id": "uc5jwm",
-      "title": "Jamaica to petition King Charles over slavery reparations",
-      "summary": "Jamaica will ask King Charles III to refer questions about the legality of slavery and Britain's potential obligation to provide reparations.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/jamaica-to-petition-king-charles-over-slavery-reparations/a-79123536?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-07T06:49:00.000Z",
-      "sample": false
     }
   ],
   "weekly": [
-    {
-      "id": "78aq7i",
-      "title": "Several killed in Amazon cargo plane crash in Miami",
-      "summary": "At least five people have died after a cargo plane crashed at Miami International Airport. The aircraft overran a runway, struck several vehicles and caught fire.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/several-killed-in-amazon-cargo-plane-crash-in-miami/a-79107365?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-06T23:19:00.000Z",
-      "sample": false
-    },
     {
       "id": "o7d0fy",
       "title": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
