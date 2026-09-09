@@ -2,8 +2,162 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-09T06:24:49.587Z",
+  "updatedAt": "2026-09-09T12:19:27.917Z",
   "daily": [
+    {
+      "id": "gu0yfi",
+      "title": "Syria: How  the 'house of sisters' threat split society",
+      "summary": "Rumor has it that the 'house of sisters' is where kidnapped women from other Syrian sects are forced to convert to Islam. Nobody knows if it really exists, but it's being used to create communal tensions anyway.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/syria-how-the-house-of-sisters-threat-split-society/a-79192163?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-09T11:27:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "em8rat",
+      "title": "LIV Golf in financial turmoil: what's next for the sport?",
+      "summary": "Six months after Saudi Arabia pulled funding from the breakaway organization, LIV Golf have filed for bankruptcy protection. Several of the world's best players signed on to LIV, so where does that leave golf?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/liv-golf-in-financial-turmoil-what-s-next-for-the-sport/a-79199569?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-09T11:16:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3n72pj",
+      "title": "Norway's King Harald V laid to rest in state funeral",
+      "summary": "Heads of state from around the world came to Oslo to pay tribute to the late monarch.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/norway-s-king-harald-v-laid-to-rest-in-state-funeral/a-79199812?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-09T11:06:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3x0u8f",
+      "title": "Serbia dissolves parliament as snap elections called",
+      "summary": "Serbia will head to the polls in late October after President Aleksandar Vucic dissolved parliament following growing pressure from protesters demanding political change. However, Vucic plans to stand as a PM candidate.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/serbia-dissolves-parliament-as-snap-elections-called/a-79200868?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-09T11:04:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "oug78i",
+      "title": "Conspiracy theories can provide answers, but not peace",
+      "summary": "Twenty-five years after 9/11, conspiracy theories about the terrorist attacks persist. But even as an attempt to make sense of a tragedy, psychologists say the benefit in conspiracy ideation or belief is short-lived.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/conspiracy-theories-can-provide-answers-but-not-peace/a-79022756?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-09T09:45:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "hy0rnf",
+      "title": "UK rules out cyberattack after major flight disruptions",
+      "summary": "Airports across the UK continue to face delays and cancellations after a flight processing system failure. The UK's transport secretary has summoned the CEO of National Air Traffic Services (NATS) for an explanation.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/uk-rules-out-cyberattack-after-major-flight-disruptions/a-79197818?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-09T09:22:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "cg3jjl",
+      "title": "The billion-euro trade driving Europe's eels to extinction",
+      "summary": "Traffickers are making big bucks smuggling millions of critically endangered eels across continents, using suitcases on planes and legal loopholes to deliver them to dinnerplates. Where are the smuggling hotspots?",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/the-billion-euro-trade-driving-europe-s-eels-to-extinction/a-78523145?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-09T08:36:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "huvjj3",
+      "title": "India: 5 baby orangutans rescued, smuggling suspected",
+      "summary": "Five young orangutans, not native to India, were found in an Odisha forest, sparking suspicion of an international smuggling operation. Meanwhile, India said it was not involved in the BAPS-Eiffel Tower row.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-5-baby-orangutans-rescued-smuggling-suspected/live-79195914?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-09T08:31:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "8t2cqz",
+      "title": "Trafficked into fraud: An African crisis situation in Cambodia",
+      "summary": "Cambodia's crackdown on scam operators is stranding young African trafficking victims in the Asian country with no money, no passport and no prospects.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/trafficked-into-fraud-an-african-crisis-situation-in-cambodia/a-79189967?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-09T08:27:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "dc04br",
+      "title": "Ukraine, Russia trade drone strikes, killing 6",
+      "summary": "At least four people were killed, and 29 others were injured, in a Ukrainian attack on a Russian Black Sea port. Meanwhile, Russian drones struck a crossing on the Ukraine-Moldova border, killing two.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-russia-trade-drone-strikes-killing-6/a-79196814?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-09T08:14:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "avy3z",
+      "title": "Germany news: Merz, Weidel face off after AfD state win",
+      "summary": "Alice Weidel and Friedrich Merz traded barbs the Bundestag days after the AfD's victory in Saxony-Anhalt has put new pressure on the German chancellor. DW has the latest.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-merz-weidel-face-off-after-afd-state-win/live-79196246?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-09T08:13:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "kourns",
+      "title": "The Bayeux Tapestry in London: What's behind the hype?",
+      "summary": "The exhibition of the Bayeux Tapestry at the British Museum is eagerly anticipated across the UK, as the medieval masterpiece is considered by many to be a symbol of the country's identity.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/the-bayeux-tapestry-in-london-what-s-behind-the-hype/a-78488629?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-09T07:21:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "c356dj",
+      "title": "EU sports commissioner says FIFA is 'damaging to football'",
+      "summary": "Speaking to DW, EU Commissioner Glenn Micallef hit out at world football's governing body over its \"poor governance.\"",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/eu-sports-commissioner-says-fifa-is-damaging-to-football/a-79193424?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-09T07:16:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "z9mm8h",
+      "title": "BRICS leaders gather in India, but does the group have a clear purpose?",
+      "summary": "The 18th BRICS summit takes place in India this weekend. Unlike last year, the leaders of China and Russia are coming. But does the expanded group have a clear common mission and purpose?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/brics-leaders-gather-in-india-but-does-the-group-have-a-clear-purpose/a-79195234?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-09T06:47:00.000Z",
+      "sample": false
+    },
     {
       "id": "c0tbd",
       "title": "Putin rejects mobilization rumors, many Russians unconvinced",
@@ -71,28 +225,6 @@
       "sample": false
     },
     {
-      "id": "p8ejes",
-      "title": "EU, UK express dismay over Mladic funeral in Serbia",
-      "summary": "The EU is deliberating an official response to the glorification of war criminal Ratko Mladic in Belgrade. The UK, meanwhile, summoned Serbia's charge d'affaires over the display.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/eu-uk-express-dismay-over-mladic-funeral-in-serbia/a-79190233?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-08T16:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "wavxqr",
-      "title": "Fifty years after Mao’s death, China has transformed. DW looks at why his political legacy still matters.",
-      "summary": "Mao Zedong was perhaps the most influential, and certainly one of the most controversial, figures in 20th-century China. Even five decades after his death, the legacy of his era continues to influence China today.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/fifty-years-after-mao-s-death-china-has-transformed-dw-looks-at-why-his-political-legacy-still-matters/a-79189751?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-08T14:44:00.000Z",
-      "sample": false
-    },
-    {
       "id": "jgpw1a",
       "title": "Ratko Mladic’s funeral casts shadow over Bosnia and Herzegovina vote",
       "summary": "Ratko Mladic’s funeral in Belgrade, attended by Serbian and Bosnian Serb leaders, has deepened regional tensions and could affect the upcoming election in Bosnia and Herzegovina.",
@@ -113,40 +245,9 @@
       "image": null,
       "publishedAt": "2026-09-08T13:07:00.000Z",
       "sample": false
-    },
-    {
-      "id": "yfcj8i",
-      "title": "EU court rules against Belgian far-right party in IKEA case",
-      "summary": "A European court has backed Ikea's challenge against a Belgian far-right party, saying the use of Ikea-style visuals could harm the company's reputation.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/eu-court-rules-against-belgian-far-right-party-in-ikea-case/a-79159207?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-08T12:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rhh8gy",
-      "title": "UK announces trade sanctions on Israeli settlements in occupied West Bank",
-      "summary": "Foreign Secretary Ed Miliband said the measures were in response to what he called \"settler terrorism\" in the occupied territories. The measures are part of the UK's efforts to support a two-state solution.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/uk-announces-trade-sanctions-on-israeli-settlements-in-occupied-west-bank/a-79155051?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-08T12:46:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ja0zac",
-      "title": "Japan's empty temples seek new ways to survive",
-      "summary": "With a declining population, shrinking congregations and growing economic pressures, temples are struggling to stay relevant. As more temples are sold or closed, is religion in decline in modern Japan?",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/japan-s-empty-temples-seek-new-ways-to-survive/a-79157964?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-08T12:31:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "e9300q",
       "title": "Afghanistan's women: A national soccer team without a home",
@@ -159,78 +260,12 @@
       "sample": false
     },
     {
-      "id": "4gvo3c",
-      "title": "German police arrest suspect in power grid sabotage case",
-      "summary": "Investigators say the suspect used homemade rockets and conductive wire to target high-voltage lines in three German states, apparently as part of a campaign against fossil fuels.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/german-police-arrest-suspect-in-power-grid-sabotage-case/a-79161142?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-08T10:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "930wes",
-      "title": "Hungary orders 10 Russian diplomats to leave",
-      "summary": "Budapest says the expulsions are necessary to protect security and sovereignty after years of comparatively close ties between Hungary and Russia.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/hungary-orders-10-russian-diplomats-to-leave/a-79157576?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-08T10:49:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "o05r80",
-      "title": "US-Canada tariff dispute weighs on cross-border ties",
-      "summary": "As Canada's retaliatory tariffs take effect, Canadian and US car industries fear the trade war will hit them hard, while Canadians are cutting back on travel.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-canada-tariff-dispute-weighs-on-cross-border-ties/a-78815803?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-08T10:09:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "td5gku",
-      "title": "Kenya: Crackdown on foreign traders prompts xenophobia fears",
-      "summary": "Concerns about xenophobia are rising in Kenya after President William Ruto ordered a crackdown on foreigners working as hawkers. The government insists however that legally documented foreign traders remain protected.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/kenya-crackdown-on-foreign-traders-prompts-xenophobia-fears/a-79143847?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-08T09:14:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "b2uwbf",
-      "title": "Australia targets big tech with algorithm opt-out bill",
-      "summary": "The \"My Feed, My Way,\" legislation would require the likes of Facebook, TikTok and Instagram to let users opt out of algorithms or risk heavy fines.",
+      "id": "evt2p4",
+      "title": "PISA 2025 results: Reading and math scores plummet worldwide",
+      "summary": "The PISA 2025 results reveal record-low student performance, with digital distractions and AI use raising concerns. Germany is faring worse than ever.",
       "category": "technology",
       "source": "dw",
-      "url": "https://www.dw.com/en/australia-targets-big-tech-with-algorithm-opt-out-bill/a-79154108?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-08T09:07:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ag87s",
-      "title": "Renoir Museum robbery: 2 paintings missing",
-      "summary": "Police are on the hunt for thieves who stole two paintings from the Renoir Museum on the French Riviera in an overnight heist. Two other stolen works were abandoned as they fled.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/renoir-museum-robbery-2-paintings-missing/a-79154458?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-08T07:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "tt0hxd",
-      "title": "PISA test reveals alarming drop in reading and math skills",
-      "summary": "The 2025 results from the influential global study show a downward trend in students' performance. Germany's 15-year-olds are faring worse than ever.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/pisa-test-reveals-alarming-drop-in-reading-and-math-skills/a-79147293?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/pisa-2025-results-reading-and-math-scores-plummet-worldwide/a-79147293?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-08T07:30:00.000Z",
       "sample": false
@@ -256,9 +291,7 @@
       "image": null,
       "publishedAt": "2026-09-08T06:45:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "lu0q5z",
       "title": "Werner Herzog: Germany's wild man of cinema is back",
@@ -612,17 +645,6 @@
       "sample": false
     },
     {
-      "id": "klvh5p",
-      "title": "Germany news: Police say arson attack targeted defense firm",
-      "summary": "Two people were arrested in connection with a small fire at a construction site near a defense tech company in Munich. Investigators are looking at a possible \"political motive.\"",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-police-say-arson-attack-targeted-defense-firm/live-78818089?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-03T07:34:00.000Z",
-      "sample": false
-    },
-    {
       "id": "s6x515",
       "title": "Macron visits Bayeux Tapestry with King Charles, PM Andy Burnham",
       "summary": "French President Emmanuel Macron is on a shorter-term visit to the UK than the renowned on-loan 11th century tapestry. He viewed the ancient artwork with the UK monarch and relatively new Prime Minister Andy Burnham.",
@@ -642,28 +664,6 @@
       "url": "https://www.dw.com/en/austria-women-ice-hockey-team-fight-for-future-generations/a-78771578?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-02T15:21:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "kxj7hk",
-      "title": "EU summons Russian envoy over failed Leipzig drone attack",
-      "summary": "The EU's foreign policy chief Kaja Kallas said the attempted attack had \"all the hallmarks of state-sponsored terrorism.\" She said the EU was summoning a Russian envoy, with France announcing a similar step.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/eu-summons-russian-envoy-over-failed-leipzig-drone-attack/a-78687280?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-02T08:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "xdqnna",
-      "title": "Women's football: Anyomi, London City and the German exodus",
-      "summary": "Nicole Anyomi has joined Alexia Putellas and other star names in signing for the ambitious English club London City Lionesses. The Germany winger told DW England is a better place to develop her game than back home.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/women-s-football-anyomi-london-city-and-the-german-exodus/a-78446131?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-02T07:26:00.000Z",
       "sample": false
     }
   ],
