@@ -2,8 +2,30 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-09-09T12:19:31.395Z",
+  "updatedAt": "2026-09-09T18:18:10.186Z",
   "daily": [
+    {
+      "id": "5otiyq",
+      "title": "Brazilian Supreme Court Justice Removes Federal Police Chief After Report Used by Another Justice",
+      "summary": "Brazilian Supreme Court Justice Andr� Mendon�a ordered the removal of Federal Police Director-General Andrei Rodrigues.\nLeia mais (09/09/2026 - 12h46)",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/09/brazilian-supreme-court-justice-removes-federal-police-chief-after-report-used-by-another-justice.shtml",
+      "image": null,
+      "publishedAt": "2026-09-09T15:46:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "u24g89",
+      "title": "Meet Feijoa, the Forgotten Brazilian Fruit That Is a Hit in New Zealand",
+      "summary": "Feijoa, a fruit native to southern Brazil, is little known in its country of origin but is a hit abroad, especially in New Zealand, one of the world's largest producers. With green skin and a pineapple-scented interior, the plant is also known as pineapple guava and was already consumed by the Xokleng, Kaingang and Gua",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/09/meet-feijoa-the-forgotten-brazilian-fruit-that-is-a-hit-in-new-zealand.shtml",
+      "image": null,
+      "publishedAt": "2026-09-09T15:42:00.000Z",
+      "sample": false
+    },
     {
       "id": "mj2ogh",
       "title": "Domestic Violence Hospitalizes 15 Women a Day With Multiple Traumas in Brazil",
@@ -14,7 +36,9 @@
       "image": null,
       "publishedAt": "2026-09-08T20:44:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "vi2yw1",
       "title": "'It Is Concerning to See Brazilian Candidates Offer the Bukele Model as a Solution', Says Journalist Forced to Leave El Salvador",
@@ -25,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-09-08T15:13:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "azbm05",
       "title": "Lula Has 38%, Fl�vio Bolsonaro 33% in First Round, Datafolha Shows; President and Senator in Technical Tie in Runoff",

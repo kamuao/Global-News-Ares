@@ -2,11 +2,44 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-09-09T12:19:31.768Z",
+  "updatedAt": "2026-09-09T18:18:10.615Z",
   "daily": [
     {
+      "id": "re5eoi",
+      "title": "Betel nut traces in 25,000-year-old teeth point to early human drug use",
+      "summary": "Archaeologists find evidence in Indonesia of a human who appeared to use betel nut for its psychoactive properties up to 25,000 years ago.",
+      "category": "health",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/science/2026-09-10/earliest-evidence-of-human-drug-use-discovered-in-indonesia/107130656",
+      "image": null,
+      "publishedAt": "2026-09-09T18:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "t6hmp5",
+      "title": "Airlines call for air traffic control boss to quit over UK airport chaos",
+      "summary": "At least 2,000 flights were cancelled, with airlines reporting millions of pounds worth of financial loss.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-10/uk-airport-chaos-continues-with-cyber-attack-ruled-out/107135996",
+      "image": null,
+      "publishedAt": "2026-09-09T16:06:50.000Z",
+      "sample": false
+    },
+    {
+      "id": "m630bk",
+      "title": "British police to investigate Reform UK after undercover documentary",
+      "summary": "The investigation will look into whether the populist party, which had been surging in the polls, breached the UK's eloctoral funding and donations laws.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-10/met-police-to-investigate-reform-uk/107135982",
+      "image": null,
+      "publishedAt": "2026-09-09T15:36:50.000Z",
+      "sample": false
+    },
+    {
       "id": "hqe4yb",
-      "title": "Lindsay Clancy jurors speak out over mistrial",
+      "title": "Three Lindsay Clancy jurors raise concerns after mistrial",
       "summary": "Eleven members of the jury were persuaded to find her not guilty by reason of insanity, but one member would not acquit.",
       "category": "politics",
       "source": "abc-au",
@@ -244,39 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-09-09/tom-lynagh-makes-queensland-reds-returns/107134570",
       "image": null,
       "publishedAt": "2026-09-09T05:58:04.000Z",
-      "sample": false
-    },
-    {
-      "id": "a8jpv6",
-      "title": "Melbourne mosque community mourns children killed in crash",
-      "summary": "The deaths of Ossama El Hawli, 11, and Sarah El Hawli, seven, in a car crash have rocked an Islamic community in Melbourne's west.",
-      "category": "society",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-09/victoria-parwan-crash-victims-mourned/107133548",
-      "image": null,
-      "publishedAt": "2026-09-09T05:48:24.000Z",
-      "sample": false
-    },
-    {
-      "id": "ue9x4q",
-      "title": "Senate inquiry will scrutinse APVMA decision to allow paraquat use",
-      "summary": "Independent Senator David Pocock has used support from the Greens and the Coalition to launch an inquiry into the regulator's decision to allow the continued use of the controversial weedkiller.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/rural/2026-09-09/senate-to-scrutinise-apvma-paraquat-decision/107132358",
-      "image": null,
-      "publishedAt": "2026-09-09T05:43:07.000Z",
-      "sample": false
-    },
-    {
-      "id": "gwir71",
-      "title": "Health concerns grow as volcanic ash spreads across Indonesia after eruption",
-      "summary": "Flights have resumed after the eruption of Mount Anak Krakatau, but nearby communities remain concerned about health risks.",
-      "category": "health",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-09/ash-impacting-indonesians-who-live-near-volcanic-mountain/107130458",
-      "image": null,
-      "publishedAt": "2026-09-09T05:42:14.000Z",
       "sample": false
     }
   ],
