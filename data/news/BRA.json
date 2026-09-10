@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-09-09T18:18:10.186Z",
+  "updatedAt": "2026-09-10T12:21:01.840Z",
   "daily": [
+    {
+      "id": "93wxzl",
+      "title": "Brazilian Supreme Court Justice Reverses Colleague's Decision and Reinstates Federal Police Chief",
+      "summary": "Brazilian Supreme Court Justice Fl�vio Dino reinstated Federal Police Director-General Andrei Rodrigues and Intelligence Chief Leandro Almada on Wednesday (9). They had been removed from their positions by a previous decision by fellow Supreme Court Justice Andr� Mendon�a.\nLeia mais (09/09/2026 - 21h11)",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/09/brazilian-supreme-court-justice-reverses-colleagues-decision-and-reinstates-federal-police-chief.shtml",
+      "image": null,
+      "publishedAt": "2026-09-10T00:11:00.000Z",
+      "sample": false
+    },
     {
       "id": "5otiyq",
       "title": "Brazilian Supreme Court Justice Removes Federal Police Chief After Report Used by Another Justice",
@@ -25,7 +36,9 @@
       "image": null,
       "publishedAt": "2026-09-09T15:42:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "mj2ogh",
       "title": "Domestic Violence Hospitalizes 15 Women a Day With Multiple Traumas in Brazil",
@@ -36,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-09-08T20:44:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "vi2yw1",
       "title": "'It Is Concerning to See Brazilian Candidates Offer the Bukele Model as a Solution', Says Journalist Forced to Leave El Salvador",
@@ -92,17 +103,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/us-deports-brazilian-immigrant-to-equatorial-guinea.shtml",
       "image": null,
       "publishedAt": "2026-09-03T15:03:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "t289u8",
-      "title": "New 2022 Census Data Show Brazil Is 87% Christian; Atheists Triple",
-      "summary": "The 2022 Census details, for the first time, Brazilians' religious affiliation based on microdata released Monday (31). Among evangelicals, the largest subgroup is the \"undetermined\" category - people who described themselves generically as evangelical or believers without naming a specific church - accounting for 15.6",
-      "category": "health",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/09/new-2022-census-data-show-brazil-is-87-christian-atheists-triple.shtml",
-      "image": null,
-      "publishedAt": "2026-09-02T21:04:00.000Z",
       "sample": false
     }
   ],
