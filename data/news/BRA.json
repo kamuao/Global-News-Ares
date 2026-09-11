@@ -2,8 +2,43 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-09-10T12:21:01.840Z",
+  "updatedAt": "2026-09-11T00:21:33.059Z",
   "daily": [
+    {
+      "id": "jj9yl2",
+      "title": "Supreme Court Justices Moraes and Toffoli Cannot Vote in Full-Bench Session",
+      "summary": "Having cleared the initial stage of clarifying the extremely serious allegations against Supreme Court Justice Alexandre de Moraes, attention must now be paid to possible attempts to sabotage the procedure announced by Supreme Court Chief Justice Edson Fachin.\nLeia mais (09/10/2026 - 15h45)",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/opinion/2026/09/supreme-court-justices-moraes-and-toffoli-cannot-vote-in-full-bench-session.shtml",
+      "image": null,
+      "publishedAt": "2026-09-10T18:45:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "mksdwv",
+      "title": "Hyacinth Macaw and Tucuxi Added to Brazil's List of Threatened Species",
+      "summary": "The hyacinth macaw (Anodorhynchus hyacinthinus) and tucuxi (Sotalia fluviatilis) have been added to Brazil's list of fauna species threatened with extinction. The survey of terrestrial animals and marine mammals covers 790 species and was released in late June, complementing the list of 490 fish and aquatic invertebrat",
+      "category": "health",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/09/hyacinth-macaw-and-tucuxi-added-to-brazils-list-of-threatened-species.shtml",
+      "image": null,
+      "publishedAt": "2026-09-10T17:16:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "zc7hmg",
+      "title": "U.S. Government Deports Brazilian Boy, Son of Haitians, to Haiti",
+      "summary": "The U.S. deported a Brazilian boy born in 2021 to Haiti on August 27, one of the most dangerous countries in the world.\nLeia mais (09/10/2026 - 14h11)",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/us-government-deports-brazilian-boy-son-of-haitians-to-haiti.shtml",
+      "image": null,
+      "publishedAt": "2026-09-10T17:11:00.000Z",
+      "sample": false
+    }
+  ],
+  "weekly": [
     {
       "id": "93wxzl",
       "title": "Brazilian Supreme Court Justice Reverses Colleague's Decision and Reinstates Federal Police Chief",
@@ -36,9 +71,7 @@
       "image": null,
       "publishedAt": "2026-09-09T15:42:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "mj2ogh",
       "title": "Domestic Violence Hospitalizes 15 Women a Day With Multiple Traumas in Brazil",
@@ -70,39 +103,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/09/lula-has-38-flavio-bolsonaro-33-in-first-round-datafolha-shows-president-and-senator-in-technical-tie-in-runoff.shtml",
       "image": null,
       "publishedAt": "2026-09-04T14:41:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "qjdjuj",
-      "title": "Iguazu Falls Record Flow Five Times Higher Than Average",
-      "summary": "Iguazu Falls, in southern Brazil, is experiencing a flow rate five times higher than normal at the beginning of September due to rainfall that hit the Iguazu River basin in recent days. On Thursday (3), the flow reached 7.75 million liters per second, according to Cope, the power utility concessionaire in the state of ",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/09/iguazu-falls-record-flow-five-times-higher-than-average.shtml",
-      "image": null,
-      "publishedAt": "2026-09-03T22:42:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "u7dhod",
-      "title": "Brazil Negotiates Connecting Instant Payment System to European Platform",
-      "summary": "Brazil's Central Bank is negotiating to connect Pix, the country's instant financial transfer system, to TIPS, a similar platform used in Europe. The talks are at a preliminary stage, but they are already included in the ECB's (European Central Bank) work schedule. An ECB document obtained by Folha says studies for the",
-      "category": "economy",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/09/brazil-negotiates-connecting-instant-payment-system-to-european-platform.shtml",
-      "image": null,
-      "publishedAt": "2026-09-03T18:53:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bkemxf",
-      "title": "U.S. Deports Brazilian Immigrant to Equatorial Guinea",
-      "summary": "The United States deported Brazilian immigrant Pietro Graza de Lima, 57, who lived in Florida, to Equatorial Guinea in late August. He was sent to the West African country along with immigrants from Cuba and Cameroon after a local judge denied a temporary restraining order against his deportation.\nLeia mais (09/03/2026",
-      "category": "health",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/us-deports-brazilian-immigrant-to-equatorial-guinea.shtml",
-      "image": null,
-      "publishedAt": "2026-09-03T15:03:00.000Z",
       "sample": false
     }
   ],

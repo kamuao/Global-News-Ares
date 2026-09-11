@@ -2,8 +2,30 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-10T12:21:00.674Z",
+  "updatedAt": "2026-09-11T00:21:31.770Z",
   "daily": [
+    {
+      "id": "e4lgmk",
+      "title": "Anime didn’t change after 9/11, but 9/11 changed how I watched anime.",
+      "summary": "Japanese anime was already imagining a fractured, unstable world. After 9/11, we began seeing it differently.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/culture/2026/09/11/film/japan-anime-911-manga/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/11/thumbs/400x400/562239.jpg",
+      "publishedAt": "2026-09-10T21:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "q5vlac",
+      "title": "How to get a start in reading books in Japanese",
+      "summary": "From picture books to manga and young adult fiction, here's how to find Japanese books that match your language level.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/life/2026/09/11/language/japanese-reading-basic-books/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/11/thumbs/400x400/561204.jpg",
+      "publishedAt": "2026-09-10T16:15:00.000Z",
+      "sample": false
+    },
     {
       "id": "cor5ku",
       "title": "Japan lowers travel alerts for some areas in the Middle East",
@@ -310,28 +332,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/09/10/japan/history/japan-student-soldiers-war-museum/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/10/thumbs/400x400/562311.jpg",
       "publishedAt": "2026-09-10T02:55:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "t0kqlk",
-      "title": "A Japanese filmmaker’s harrowing exploration of the Vietnam War",
-      "summary": "Shinya Tsukamoto's \"Mr. Nelson, Did You Kill People?\" examines the lifelong impact of war on the human psyche.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/culture/2026/09/10/film/japanese-vietnam-war-tsukamoto/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/10/thumbs/400x400/562319.jpg",
-      "publishedAt": "2026-09-10T02:47:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "xnwxde",
-      "title": "Zelenskyy’s plane nearly hit by drone while traveling to funeral, Norway PM says",
-      "summary": "One drone that had entered Moldovan airspace landed in a field, triggering a fire, while the second carried on into Romanian airspace.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/10/world/society/zelenskyy-plane-drone-norway/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/10/thumbs/400x400/562309.jpg",
-      "publishedAt": "2026-09-10T02:46:00.000Z",
       "sample": false
     }
   ],
