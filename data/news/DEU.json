@@ -2,8 +2,41 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-11T00:21:29.140Z",
+  "updatedAt": "2026-09-11T06:18:49.013Z",
   "daily": [
+    {
+      "id": "20vx89",
+      "title": "New California social media laws target addictive features",
+      "summary": "Several new laws are aimed at \"psychologically exploitative\" social media functions for children. Governor Gavin Newsom said the laws target the technology behind addictive use rather than age alone.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/new-california-social-media-laws-target-addictive-features/a-79222996?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T06:14:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ahz20j",
+      "title": "Why are European banks moving their gold out of the US?",
+      "summary": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fear over US reliability, but equally important is the need to have their gold closer to home in the event of a crisis.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/why-are-european-banks-moving-their-gold-out-of-the-us/a-79213013?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T05:17:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "l63na6",
+      "title": "Spanish lawmakers back citizenship for Sahrawis",
+      "summary": "Spanish lawmakers approved a bill that could give citizenship to tens of thousands of Sahrawis and their descendants, amid tense ties with Morocco. The legislation must now pass the senate.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/spanish-lawmakers-back-citizenship-for-sahrawis/a-79222841?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T03:09:00.000Z",
+      "sample": false
+    },
     {
       "id": "y38a12",
       "title": "Algeria cuts diplomatic ties with UAE",
@@ -28,7 +61,7 @@
     },
     {
       "id": "5mt4vg",
-      "title": "Digital data leeches: trading on our profiles",
+      "title": "Digital data leeches: Trading on our profiles",
       "summary": "US tech companies gather, link, and sell more and more information about their users. The scandal involving the dating app Grindr shows how easy it is for highly sensitive data to fall into the wrong hands.",
       "category": "technology",
       "source": "dw",
@@ -190,40 +223,9 @@
       "image": null,
       "publishedAt": "2026-09-10T12:09:00.000Z",
       "sample": false
-    },
-    {
-      "id": "7al3nj",
-      "title": "China: Cargo ship fire kills at least 25",
-      "summary": "At least five people are missing after a cargo ship caught fire at the port of Qingdao. The cause remains unclear.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/china-cargo-ship-fire-kills-at-least-25/a-79212704?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-10T11:36:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ev2tfx",
-      "title": "Europe needs to compete in spaceflight, says France's Macron",
-      "summary": "The French president called for setting goals like European cargo missions, lunar landings, and crewed spaceflight while urging the bloc to reduce its reliance on US and Russia.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/europe-needs-to-compete-in-spaceflight-says-france-s-macron/a-79212006?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-10T11:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "3sp3ym",
-      "title": "Bayeux Tapestry goes on display at sold-out London exhibit",
-      "summary": "The nearly 1,000 year-old, 70-meter-long tapestry is considered a symbol of UK-France friendship. More than 100,000 tickets have been sold.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/bayeux-tapestry-goes-on-display-at-sold-out-london-exhibit/a-79211449?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-10T10:18:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "avuckl",
       "title": "Serbia, the conflicted EU candidate",
@@ -234,9 +236,7 @@
       "image": null,
       "publishedAt": "2026-09-10T05:53:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "7t4ahn",
       "title": "How Belarusians still find hope in a silenced country",
