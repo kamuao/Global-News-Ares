@@ -2,8 +2,85 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-09-12T00:20:35.432Z",
+  "updatedAt": "2026-09-12T06:17:54.336Z",
   "daily": [
+    {
+      "id": "ve62s2",
+      "title": "Kiev targets Zaporozhye NPP workers after failed attempt to force them to leave — director",
+      "summary": "Yury Chernichuk said for more than six months Kiev had been trying to create an uncomfortable environment and conditions that make normal life for the staff unbearable",
+      "category": "environment",
+      "source": "tass",
+      "url": "https://tass.com/society/2186523",
+      "image": null,
+      "publishedAt": "2026-09-12T04:20:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "ve62s0",
+      "title": "CIS, Asian, Latin American countries keen to cooperate on fact-checking — GFCN chief",
+      "summary": "Vladimir Tabak says the association is working closely to integrate with the Organization of Asia-Pacific News Agencies chaired by Andrey Kondrashov from TASS",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/society/2186521",
+      "image": null,
+      "publishedAt": "2026-09-12T03:39:55.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbbjhu",
+      "title": "Asian countries resist Western pressure over Russian energy — Foreign Ministry spokeswoman",
+      "summary": "Maria Zakharova added that the events of February and March 2026 proved right \"those who argued that energy cooperation should not become a battleground for political disputes or contests\"",
+      "category": "health",
+      "source": "tass",
+      "url": "https://tass.com/politics/2186519",
+      "image": null,
+      "publishedAt": "2026-09-12T03:23:29.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbbjhs",
+      "title": "Putin to take part in BRICS summit events on second day of India visit",
+      "summary": "The leaders of the BRICS countries will meet in a closed-door session attended exclusively by the group’s members represented at the highest level",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2186517",
+      "image": null,
+      "publishedAt": "2026-09-12T02:20:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "lou4wv",
+      "title": "Trump says he will meet with several European leaders in Ireland",
+      "summary": "The official noted that the US was actively engaged in trade but provided no further details",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/world/2186515",
+      "image": null,
+      "publishedAt": "2026-09-12T01:50:24.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbbjho",
+      "title": "Russia supports depoliticized counterterrorism cooperation — Russian envoy",
+      "summary": "Vasily Nebenzya stated that terrorists \"always seek to exploit divisions, distrust and a lack of coordination among states\"",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2186513",
+      "image": null,
+      "publishedAt": "2026-09-12T01:05:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "lou4wr",
+      "title": "SCO countries should increase intelligence sharing, Chinese ambassador to Russia says",
+      "summary": "Zhang Hanhui added that SCO states need to strengthen law enforcement and security cooperation mechanisms",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2186511",
+      "image": null,
+      "publishedAt": "2026-09-12T00:37:40.000Z",
+      "sample": false
+    },
     {
       "id": "lou4w4",
       "title": "Saudi pipeline comes under drone attack launched from Iraq, Foreign Ministry says",
@@ -1105,39 +1182,6 @@
       "sample": false
     },
     {
-      "id": "rbazl8",
-      "title": "Japan acts aggressively, pursuing militarization — Kremlin",
-      "summary": "Dmitry Peskov said that he did not see any grounds for dialogue",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2185963",
-      "image": null,
-      "publishedAt": "2026-09-11T08:44:25.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbazl6",
-      "title": "Russia’s Battlegroup South hits 59 Ukrainian UAV control posts over past day",
-      "summary": "In addition, unmanned systems units in the Kramatorsk and Slavyansk sectors destroyed 95 enemy UAV communication antennas, the battlegroup’s spokesman Vadim Astafyev said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2185961",
-      "image": null,
-      "publishedAt": "2026-09-11T08:31:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "sxnz1s",
-      "title": "Russian stocks down as main trading session opens",
-      "summary": "As of 10:30 a.m. Moscow time, the indices were down by 0.35% at 2,300.96 points and 859.33 points, respectively",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2185959",
-      "image": null,
-      "publishedAt": "2026-09-11T08:31:03.000Z",
-      "sample": false
-    },
-    {
       "id": "opqcm3",
       "title": "Ukrainian Drone Barrage Sets Ozon Warehouse in Saratov Ablaze",
       "summary": "At least four people were killed in separate strikes across Russia as Ukraine launched hundreds of drones at the country overnight.",
@@ -1146,50 +1190,6 @@
       "url": "https://www.themoscowtimes.com/2026/09/11/ukrainian-drone-barrage-sets-ozon-warehouse-in-saratov-ablaze-a93684",
       "image": null,
       "publishedAt": "2026-09-11T08:25:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbazjm",
-      "title": "Fatalities in Tula Region, casualties in Volgograd, 777 drones: enemy attacks aftermath",
-      "summary": "Two people were killed and three were injured in the Tula Region as a result of a drone attack",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2185947",
-      "image": null,
-      "publishedAt": "2026-09-11T08:23:22.000Z",
-      "sample": false
-    },
-    {
-      "id": "jhb7kc",
-      "title": "Pacific Fleet warships arrive at Okhotsk port within patriotic campaign events",
-      "summary": "The campaign is dedicated to the 295th anniversary of the founding of the port of Okhotsk and the establishment of the Okhotsk Military Flotilla",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2185939",
-      "image": null,
-      "publishedAt": "2026-09-11T08:14:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbazip",
-      "title": "FACTBOX: Russian strikes hit logistics hubs, data centers, port infrastructure",
-      "summary": "According to the Defense Ministry, Russian forces struck the B-Mobile data cente",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2185935",
-      "image": null,
-      "publishedAt": "2026-09-11T08:07:21.000Z",
-      "sample": false
-    },
-    {
-      "id": "sxnyzw",
-      "title": "All users of Android devices to gain access to 5G — ministry",
-      "summary": "Access to 5G for iPhone owners will depend on a decision by Apple",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2185933",
-      "image": null,
-      "publishedAt": "2026-09-11T07:54:32.000Z",
       "sample": false
     }
   ],

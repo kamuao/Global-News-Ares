@@ -2,8 +2,19 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-12T00:20:34.542Z",
+  "updatedAt": "2026-09-12T06:17:53.649Z",
   "daily": [
+    {
+      "id": "gz8qic",
+      "title": "DW exclusive: Zelenskyy offers to meet Putin at G20 in Miami",
+      "summary": "In an interview with DW, Ukrainian President Volodymyr Zelenskyy said his country was in a strong position to negotiate and offered to meet Vladimir Putin in Miami.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-12T05:46:00.000Z",
+      "sample": false
+    },
     {
       "id": "l06zwv",
       "title": "France: More than 40 injured in train derailment",
@@ -212,18 +223,9 @@
       "image": null,
       "publishedAt": "2026-09-11T08:20:00.000Z",
       "sample": false
-    },
-    {
-      "id": "niju99",
-      "title": "Philippines ferry fire: Search continues for dozens missing",
-      "summary": "Firefighters searching for survivors combed through the smoking remains of a ferry off the coast of Coron island in the Philippines. Dozens of people have died, and more than 40 have been rescued.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/philippines-ferry-fire-search-continues-for-dozens-missing/a-79223425?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T08:18:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "73dg4a",
       "title": "Why are European banks moving gold out of United States?",
@@ -234,9 +236,7 @@
       "image": null,
       "publishedAt": "2026-09-11T05:17:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "3667ls",
       "title": "Germany sets its sights on Russia's shadow fleet",
