@@ -2,96 +2,241 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-11T06:18:49.013Z",
+  "updatedAt": "2026-09-12T00:20:34.542Z",
   "daily": [
     {
-      "id": "20vx89",
-      "title": "New California social media laws target addictive features",
-      "summary": "Several new laws are aimed at \"psychologically exploitative\" social media functions for children. Governor Gavin Newsom said the laws target the technology behind addictive use rather than age alone.",
-      "category": "technology",
+      "id": "l06zwv",
+      "title": "France: More than 40 injured in train derailment",
+      "summary": "The train derailed between Rouen and Caen in Normandy, northwest France, on Friday evening. One of the injured was in a critical state.",
+      "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/new-california-social-media-laws-target-addictive-features/a-79222996?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/france-more-than-40-injured-in-train-derailment/a-79241365?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-09-11T06:14:00.000Z",
+      "publishedAt": "2026-09-11T21:01:00.000Z",
       "sample": false
     },
     {
-      "id": "ahz20j",
-      "title": "Why are European banks moving their gold out of the US?",
-      "summary": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fear over US reliability, but equally important is the need to have their gold closer to home in the event of a crisis.",
+      "id": "5nlf6g",
+      "title": "Ukraine: Russian strike on Kyiv gas station kills 2",
+      "summary": "With fighting on the front lines mostly stalled, Russia has been increasingly hitting petrol stations and other civilian targets. Ukraine has also been attacking Russia with drones, killing three people on Friday.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/why-are-european-banks-moving-their-gold-out-of-the-us/a-79213013?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/ukraine-russian-strike-on-kyiv-gas-station-kills-2/a-79238219?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T15:53:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "2htr4w",
+      "title": "US commemorates 25 years since 9/11 terror attack",
+      "summary": "A quarter century has passed since Islamists hijacked four commercial jets and turned them into weapons against the US. On Friday, ceremonies in New York, Pennsylvania and Washington DC marked the dark anniversary.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-commemorates-25-years-since-9-11-terror-attack/a-79237898?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T15:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "aywzt9",
+      "title": "Iran pursues cautious escalation ahead of US midterms",
+      "summary": "Tehran appears to be boosting pressure on Washington ahead of the crucial midterm vote, but shows little desire to return to a full-scale war.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/iran-pursues-cautious-escalation-ahead-of-us-midterms/a-79237061?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T14:54:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "b4ea1b",
+      "title": "India's BRICS strategy tested with Xi, Putin set to visit",
+      "summary": "New Delhi's \"America Plus\" approach sees India deepening its ties with China and Russia, while also trying to keep BRICS from turning into an anti-Western platform.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-s-brics-strategy-tested-with-xi-putin-set-to-visit/a-79231879?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T13:31:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xwpdnp",
+      "title": "Uber leaves two key African markets — and their drivers in despair",
+      "summary": "Uber's departure from Nigeria and Uganda has left countless customers high and dry. But what about drivers? With fuel prices, maintenance and other operating costs rising, many say they're struggling to make a living.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/uber-leaves-two-key-african-markets-and-their-drivers-in-despair/a-79232189?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T12:57:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "57g3it",
+      "title": "BRICS Summit 2026: Putin, Modi reaffirm partnership",
+      "summary": "Modi will also meet Xi Jinping as India seeks to balance ties with China and Russia. The wars in Ukraine and Iran could test the group's unity at the summit. Follow DW for more.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/brics-summit-2026-putin-modi-reaffirm-partnership/live-79224239?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T12:22:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "tvpqi0",
+      "title": "Iran war: Saudi-Houthi escalation intensifies Yemen conflict",
+      "summary": "The Houthi takeovers of Mokha, Dhubab and Perim in the Bab el-Mandeb Strait threaten to push Yemen deeper into the Middle East war. The Iran-backed group has made advances against Yemen's government and Saudi Arabia.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/iran-war-saudi-houthi-escalation-intensifies-yemen-conflict/a-79226627?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T11:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "am2noy",
+      "title": "Germany charges 7 suspected Hamas members over attack plot",
+      "summary": "Prosecutors say the suspects had moved beyond general preparations and were already pursuing a concrete plan for a deadly attack on Israeli or Jewish targets.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-charges-7-suspected-hamas-members-over-attack-plot/a-79230171?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T11:36:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ufd7xh",
+      "title": "9/11 conspiracy theories that continue to circulate",
+      "summary": "A quarter-century after the September 11, 2001, attacks, they are still the focus of numerous conspiracy theories. Why do people believe them?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/9-11-conspiracy-theories-that-continue-to-circulate/a-78896069?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T11:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "sp9fa1",
+      "title": "India looks to steer BRICS away from anti-Western turn",
+      "summary": "The BRICS summit 2026 takes place in Delhi this weekend. Unlike last year, Putin and Xi are expected to attend. Can India keep the expanded bloc united?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-looks-to-steer-brics-away-from-anti-western-turn/a-79195234?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T10:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ps8vyf",
+      "title": "Why North Korea's Kim Jong Un doesn't need a US deal",
+      "summary": "Donald Trump's overtures to North Korea's dictator have gone nowhere, with an emboldened Pyongyang accelerating its nuclear program and solidifying alliances with Russia and China.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/why-north-korea-s-kim-jong-un-doesn-t-need-a-us-deal/a-79227854?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T10:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "mi4dr1",
+      "title": "Yemen: Houthis tighten control of strategic Red Sea towns",
+      "summary": "Reports indicate Houthi militants have taken over the port city of Mokha along with Perim Island, which occupies a strategic position on a vital transport waterway in the Red Sea.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/yemen-houthis-tighten-control-of-strategic-red-sea-towns/a-79220628?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T10:10:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "789avv",
+      "title": "Turks in Germany anxious after AfD wins in Saxony-Anhalt",
+      "summary": "The Alternative for Germany party's win in Saxony-Anhalt has alarmed people of Turkish origin in eastern states. Will workers and business owners abandon the increasingly AfD-friendly region for the more welcoming west?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/turks-in-germany-anxious-after-afd-wins-in-saxony-anhalt/a-79221764?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T10:07:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "n1voyn",
+      "title": "China angered by Taiwan VP's visit to EU democracy forum",
+      "summary": "Beijing has lodged a complaint with Italy and the EU over top Taiwanese officials visiting a democracy conference. The EU is navigating contentious issues with China and high-ranking Taiwanese visits are rare.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/china-angered-by-taiwan-vp-s-visit-to-eu-democracy-forum/a-79226311?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T10:02:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "2z8ngg",
+      "title": "The 'end of an era' as Goethe-Institut in Russia closes",
+      "summary": "The Goethe-Institut was one of the last German institutions still operating in Russia. However, following Moscow's decision to close its offices, all employees will have to stop working by September 13.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/the-end-of-an-era-as-goethe-institut-in-russia-closes/a-79224321?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T09:39:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "l18bcv",
+      "title": "Germany: Far right lead in upcoming state election polls",
+      "summary": "Polling suggests the far-right AfD is carrying its momentum into another upcoming state election. Meanwhile, former Chancellor Angela Merkel has urged people not to take democracy for granted. DW has more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-far-right-lead-in-upcoming-state-election-polls/live-79223427?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T09:02:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3wlg52",
+      "title": "Hong Kong Tiananmen activists jailed for up to 7 years",
+      "summary": "Three pro-democracy activists who organized annual commemorations of China's deadly 1989 Tiananmen crackdown were charged under Hong Kong's Beijing-backed national security law.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/hong-kong-tiananmen-activists-jailed-for-up-to-7-years/a-79224243?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T08:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "n6xesc",
+      "title": "Magyar vs. Moscow: Hungary toughens stance toward Russia",
+      "summary": "Prime Minister Peter Magyar has abruptly ended the era of his predecessor's warm relations with Russia: Hungary has expelled 10 Russian diplomats. The Kremlin is considering halting gas supplies in response.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/magyar-vs-moscow-hungary-toughens-stance-toward-russia/a-79223424?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T08:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "niju99",
+      "title": "Philippines ferry fire: Search continues for dozens missing",
+      "summary": "Firefighters searching for survivors combed through the smoking remains of a ferry off the coast of Coron island in the Philippines. Dozens of people have died, and more than 40 have been rescued.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/philippines-ferry-fire-search-continues-for-dozens-missing/a-79223425?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-11T08:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "73dg4a",
+      "title": "Why are European banks moving gold out of United States?",
+      "summary": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fears about the reliability of the US, but equally important is the need to keep gold closer to home in the event of a crisis.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/why-are-european-banks-moving-gold-out-of-united-states/a-79213013?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-11T05:17:00.000Z",
       "sample": false
-    },
-    {
-      "id": "l63na6",
-      "title": "Spanish lawmakers back citizenship for Sahrawis",
-      "summary": "Spanish lawmakers approved a bill that could give citizenship to tens of thousands of Sahrawis and their descendants, amid tense ties with Morocco. The legislation must now pass the senate.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/spanish-lawmakers-back-citizenship-for-sahrawis/a-79222841?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T03:09:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "y38a12",
-      "title": "Algeria cuts diplomatic ties with UAE",
-      "summary": "Algeria said that it was closing its airspace and severing ties with the United Arab Emirates. Algiers accuses Abu Dhabi of destabilizing countries such as Libya, Sudan and Mali.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/algeria-cuts-diplomatic-ties-with-uae/a-79222141?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-10T22:27:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "z1k68x",
-      "title": "Several killed in coach crash in eastern Switzerland",
-      "summary": "Several people were killed and others injured in a tourist bush crash near the alpine village of Susch in Switzerland's eastern canton of Graubünden.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/several-killed-in-coach-crash-in-eastern-switzerland/a-79221766?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-10T19:10:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5mt4vg",
-      "title": "Digital data leeches: Trading on our profiles",
-      "summary": "US tech companies gather, link, and sell more and more information about their users. The scandal involving the dating app Grindr shows how easy it is for highly sensitive data to fall into the wrong hands.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/digital-data-leeches-trading-on-our-profiles/a-79219770?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-10T19:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "svkljd",
-      "title": "Canada, Ukraine pledge 100-year partnership",
-      "summary": "Ukrainian President Volodymyr Zelenskyy said that Canada would provide Ukraine with a \"very important\" air defense package.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/canada-ukraine-pledge-100-year-partnership/a-79209534?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-10T18:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "83ll1x",
-      "title": "25 years after 9/11: Al-Qaeda weakened but not gone",
-      "summary": "25 years after 9/11, the terrorist group al-Qaeda is no longer the global terrorist organization it once was. Its central leadership has been weakened, but offshoots remain strong across Africa and Asia.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/25-years-after-9-11-al-qaeda-weakened-but-not-gone/a-79202457?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-10T18:05:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "3667ls",
       "title": "Germany sets its sights on Russia's shadow fleet",
@@ -101,17 +246,6 @@
       "url": "https://www.dw.com/en/germany-sets-its-sights-on-russia-s-shadow-fleet/a-79211123?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-10T17:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "c5g4az",
-      "title": "Yemen: Houthis take control of strategic Red Sea port city",
-      "summary": "The Houthi takeover of Mokha comes amid intensified fighting that has sparked fears of a return to civil war. The Red Sea has served as a key alternative to the Strait of Hormuz amid the US war with Iran.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/yemen-houthis-take-control-of-strategic-red-sea-port-city/a-79220628?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-10T17:01:00.000Z",
       "sample": false
     },
     {
@@ -137,28 +271,6 @@
       "sample": false
     },
     {
-      "id": "riwju1",
-      "title": "African Parks: when conservation becomes a question of power",
-      "summary": "African Parks is dedicated to protecting wildlife on the continent across some vast areas. But the organization faces allegations of human rights abuses by rangers. Now Prince Harry is stepping down from its board.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/african-parks-when-conservation-becomes-a-question-of-power/a-78914372?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-10T15:24:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "vvaiqd",
-      "title": "North Korea spends war windfall on arms, infrastructure",
-      "summary": "The Ukraine war and Pyongyang's alliance with Moscow have delivered an economic boost to North Korea, allowing the regime to pursue a range of long-desired projects.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/north-korea-spends-war-windfall-on-arms-infrastructure/a-79218305?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-10T14:56:00.000Z",
-      "sample": false
-    },
-    {
       "id": "i4855t",
       "title": "How Celine Dion became a pop culture icon across generations",
       "summary": "As the global star kicks off her anticipated Paris residency, here's how Celine Dion managed to gain younger followers while keeping her loyal older fans.",
@@ -170,62 +282,16 @@
       "sample": false
     },
     {
-      "id": "9b0z9a",
-      "title": "Uganda: Traditional kingdom plunged into succession crisis",
-      "summary": "A royal succession committee and the family of late King Oyo Nyimba of Toroo have put forward competing candidates. Questions have been raised as to whether the late monarch indeed had a son as his family claims.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/uganda-traditional-kingdom-plunged-into-succession-crisis/a-79214786?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-10T13:51:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "24df7g",
-      "title": "ECB raises interest rates to fight off inflation jump",
-      "summary": "The European Central Bank raised borrowing costs and warned that inflation could remain high for an extended period. Energy markets and geopolitical tensions are still major concerns.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ecb-raises-interest-rates-to-fight-off-inflation-jump/a-79215209?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-10T13:39:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "cu9d3b",
-      "title": "Are electric vehicles really bad for the environment?",
+      "id": "k88u9b",
+      "title": "Are electric cars really bad for the environment?",
       "summary": "Some German politicians are calling for a delay to the EU plan to phase out gas-powered vehicles, saying cars must be judged on the entire carbon footprint. But the full picture still says EVs are more climate friendly.",
       "category": "environment",
       "source": "dw",
-      "url": "https://www.dw.com/en/are-electric-vehicles-really-bad-for-the-environment/a-79213336?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/are-electric-cars-really-bad-for-the-environment/a-79213336?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-10T13:18:00.000Z",
       "sample": false
     },
-    {
-      "id": "jlqju1",
-      "title": "India news: Government proposes elected body for Ladakh",
-      "summary": "The government has suggested creating an elected Union Territory body. However, Ladakh leaders have expressed disappointment over the slow pace of progress. Follow DW for more.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-government-proposes-elected-body-for-ladakh/live-79212708?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-10T13:05:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "pajwpp",
-      "title": "Myanmar seeks closer foreign ties amid global isolation",
-      "summary": "Myanmar coup leader Min Aung Hlaing has been on a diplomatic offensive since becoming president in April, but foreign friends may still be few and far between.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/myanmar-seeks-closer-foreign-ties-amid-global-isolation/a-79212234?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-10T12:09:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "avuckl",
       "title": "Serbia, the conflicted EU candidate",
@@ -312,17 +378,6 @@
       "url": "https://www.dw.com/en/eu-sports-commissioner-says-fifa-is-damaging-to-football/a-79193424?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-09T07:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "sp9fa1",
-      "title": "India looks to steer BRICS away from anti-Western turn",
-      "summary": "The BRICS summit 2026 takes place in Delhi this weekend. Unlike last year, Putin and Xi are expected to attend. Can India keep the expanded bloc united?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-looks-to-steer-brics-away-from-anti-western-turn/a-79195234?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-09T06:47:00.000Z",
       "sample": false
     },
     {
@@ -609,127 +664,6 @@
       "url": "https://www.dw.com/en/what-would-an-afd-government-in-saxony-anhalt-really-mean/a-78869947?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-05T06:25:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "h2qkj6",
-      "title": "Outrage as Maltese tycoon acquitted in journalist's murder",
-      "summary": "Maltese businessman Yorgen Fenech has been found not guilty of complicity to murder journalist Daphne Caruana Galizia. Almost nine years after the attack, the question of who ordered her death remains unanswered.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/outrage-as-maltese-tycoon-acquitted-in-journalist-s-murder/a-79027008?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-04T19:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "shghxc",
-      "title": "In Saxony-Anhalt election, small parties will be kingmakers",
-      "summary": "The far-right AfD has good odds of winning an absolute majority in Saxony-Anhalt's parliament this state election, enabling them to govern alone. It all depends on whether other parties make the cut.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/in-saxony-anhalt-election-small-parties-will-be-kingmakers/a-78482460?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-04T19:06:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ba48du",
-      "title": "Germany's civil society alliance takes on the far right",
-      "summary": "Trade unions, churches and human rights activists are worried about the rise of the far-right AfD. How can civil society protect people who are threatened by far-right extremism?",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-s-civil-society-alliance-takes-on-the-far-right/a-79009105?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-04T18:36:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "s3mu7v",
-      "title": "How vulnerable is Germany's infrastructure?",
-      "summary": "The growing number of attacks on substations and railway lines in Germany is raising concern. Experts say that people will have to get used to the likelihood that such incidents will continue.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/how-vulnerable-is-germany-s-infrastructure/a-78990131?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-04T13:14:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "j3ix39",
-      "title": "Majority of Germans see Russia as a threat",
-      "summary": "More than half of German citizens believe that Germany's security is threatened by Russia, according to the latest survey by public broadcaster ARD.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/majority-of-germans-see-russia-as-a-threat/a-78970396?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-04T12:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ybd17p",
-      "title": "The hidden environmental cost of AI data centers",
-      "summary": "As data centers multiply to meet AI demand, they're straining power grids, draining water supplies and reshaping the land and air around them.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/the-hidden-environmental-cost-of-ai-data-centers/a-78789889?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-04T11:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "qmnfi2",
-      "title": "Serbia: How the funeral of Ratko Mladic is dividing a nation",
-      "summary": "As the Serbian government leaves the decision about Ratko Mladic's funeral arrangements to his family, international pressure on the country is mounting. How do Serbs feel about the matter?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/serbia-how-the-funeral-of-ratko-mladic-is-dividing-a-nation/a-78948890?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-04T11:03:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "dyf3tp",
-      "title": "Germany: Is Saxony-Anhalt's economy really struggling?",
-      "summary": "Germany's far-right AfD party has long claimed that the eastern state of Saxony-Anhalt has been left behind. Is that really the case? A closer look at the data offers some interesting insights.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-is-saxony-anhalt-s-economy-really-struggling/a-78867143?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-04T10:59:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "qcf6n1",
-      "title": "Why North Korea's women's football team is so good",
-      "summary": "North Korea's young footballers enter the U-20 World Cup in Poland as defending champions — the 2024 title was their third. Why is the isolated state so good at the game?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/why-north-korea-s-women-s-football-team-is-so-good/a-70313505?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-04T10:01:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "3wqas9",
-      "title": "2026 Beethoven Festival evokes a sense of home",
-      "summary": "The motto of this year's classical music festival in Bonn is \"Home/At Home,\" featuring musicians from diverse cultures presenting pieces from their homelands.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/2026-beethoven-festival-evokes-a-sense-of-home/a-78892997?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-04T08:05:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "z2n4cv",
-      "title": "How Volkswagen's huge workforce became a costly burden",
-      "summary": "The struggling German carmaker plans to cut up to 100,000 jobs from its 630,000-strong workforce. How did VW's headcount get so bloated, and will the cuts be enough to survive the Chinese EV onslaught?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/how-volkswagen-s-huge-workforce-became-a-costly-burden/a-77766154?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-04T07:21:00.000Z",
       "sample": false
     }
   ],
