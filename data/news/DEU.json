@@ -2,8 +2,151 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-12T06:17:53.649Z",
+  "updatedAt": "2026-09-12T18:17:50.476Z",
   "daily": [
+    {
+      "id": "k5gfna",
+      "title": "Baghdad confirms attack on Saudi pipeline came from Iraq",
+      "summary": "Saudi Arabia has said it will not relatiate and wants Iraq to \"take the necessary measures.\" Baghdad is under pressure from the United States to rein in Iran-backed militias.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-12T17:36:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "73dg4a",
+      "title": "Why are European banks moving gold out of United States?",
+      "summary": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fears about the reliability of the US, but equally important is the need to keep gold closer to home in the event of a crisis.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/why-are-european-banks-moving-gold-out-of-united-states/a-79213013?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-12T15:32:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "i6buux",
+      "title": "Ukraine: Several killed in series of Russian strikes",
+      "summary": "Local authorities said several civilians were killed and dozens more wounded across Ukraine by Russian strikes. Meanwhile, the Kremlin has rejected Volodymyr Zelenskyy's proposal to meet with the Russian leader in Miami.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-several-killed-in-series-of-russian-strikes/a-79245980?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-12T15:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "4ie2tq",
+      "title": "Bulgaria: Fire at factory making munitions for Ukraine",
+      "summary": "Bulgarian authorities are investigating a fire at a munitions factory for links to an explosion at a similar facility in August. Arms maker EMCO says no human error was involved, as investigators look at sabotage.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/bulgaria-fire-at-factory-making-munitions-for-ukraine/a-79245062?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-12T12:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "r4stma",
+      "title": "Trump visits Ireland, says unification would be 'fantastic'",
+      "summary": "US President Donald Trump's trip to Ireland to watch a golf tournament has also included meetings with leaders there.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/trump-visits-ireland-says-unification-would-be-fantastic/a-79244685?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-12T11:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3z0uax",
+      "title": "Uganda lays 'boy king' Oyo to rest amid succession row",
+      "summary": "Uganda has buried King Oyo Nyimba, who was crowned in the Tooro Kingdom in 1995 aged just 3. His death at 34 has triggered a dispute over a successor, as rumors abound of possible heirs born out of wedlock.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/uganda-lays-boy-king-oyo-to-rest-amid-succession-row/a-79243428?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-12T11:41:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "qbypcu",
+      "title": "BRICS summit leaders urge 'maximum restraint' in Middle East",
+      "summary": "The joint declaration at the BRICS 2026 summit expressed 'deep concern' over hostilities in the Middle East. China's President Xi Jinping said the Iran war was not in the bloc's interest.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/brics-summit-leaders-urge-maximum-restraint-in-middle-east/live-79224239?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-12T11:39:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "y896rg",
+      "title": "Russian GRU spies behind failed Leipzig attack: reports",
+      "summary": "A German newspaper has cited reports tying a failed attack at Leipzig Airport to Moscow's GRU military intelligence agency. One suspect's ties to GRU were known when he entered the country, yet he was not surveilled.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/russian-gru-spies-behind-failed-leipzig-attack-reports/a-79244858?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-12T11:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "yi4lb3",
+      "title": "Brazil: Flavio Bolsonaro faces corruption probe weeks before election",
+      "summary": "Brazilian Senator Flavio Bolsonaro, Lula's top rival in next month's election, is under investigation for alleged corruption linked to financing a biopic about his father, former President Jair Bolsonaro.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/brazil-flavio-bolsonaro-faces-corruption-probe-weeks-before-election/a-79242561?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-12T09:37:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "x27n3u",
+      "title": "Corals as climate archive: Are El Ninos intensifying?",
+      "summary": "Records from the past few decades show that, during this period, El Nino events have been frequent and often extreme. But is this normal, or is it the result of climate change? Corals can give us a clear indication.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/corals-as-climate-archive-are-el-ninos-intensifying/a-79243425?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-12T08:53:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xwpdnp",
+      "title": "Uber leaves two key African markets — and their drivers in despair",
+      "summary": "Uber's departure from Nigeria and Uganda has left countless customers high and dry. But what about drivers? With fuel prices, maintenance, and other operating costs rising, many say they're struggling to make a living.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/uber-leaves-two-key-african-markets-and-their-drivers-in-despair/a-79232189?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-12T07:56:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "yktclb",
+      "title": "North Korea fires multiple ballistic missiles day after trilateral drills end",
+      "summary": "North Korea launched several short-range ballistic missiles into the sea a day after the US, South Korea and Japan concluded joint military exercises Pyongyang had called provocative.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/north-korea-fires-multiple-ballistic-missiles-day-after-trilateral-drills-end/a-79242070?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-12T07:15:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1dxxtm",
+      "title": "Russia's drone war comes to Moldova and Romania",
+      "summary": "Incursions by Russian drones into Moldovan and Romanian airspace are increasingly common. This week the Ukrainian president's plane was stopped from taking off from Chisinau. Observers suspect the attacks are deliberate.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/russia-s-drone-war-comes-to-moldova-and-romania/a-79239591?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-12T06:27:00.000Z",
+      "sample": false
+    },
     {
       "id": "gz8qic",
       "title": "DW exclusive: Zelenskyy offers to meet Putin at G20 in Miami",
@@ -16,16 +159,18 @@
       "sample": false
     },
     {
-      "id": "l06zwv",
-      "title": "France: More than 40 injured in train derailment",
-      "summary": "The train derailed between Rouen and Caen in Normandy, northwest France, on Friday evening. One of the injured was in a critical state.",
-      "category": "politics",
+      "id": "9pgy0q",
+      "title": "France: Sabotage suspected in train derailment",
+      "summary": "Dozens were injured when a train derailed between Rouen and Caen in Normandy, northwest France, on Friday evening. Police believe the accident may have been deliberately caused, local media say.",
+      "category": "society",
       "source": "dw",
-      "url": "https://www.dw.com/en/france-more-than-40-injured-in-train-derailment/a-79241365?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/france-sabotage-suspected-in-train-derailment/a-79241365?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-11T21:01:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "5nlf6g",
       "title": "Ukraine: Russian strike on Kyiv gas station kills 2",
@@ -71,28 +216,6 @@
       "sample": false
     },
     {
-      "id": "xwpdnp",
-      "title": "Uber leaves two key African markets — and their drivers in despair",
-      "summary": "Uber's departure from Nigeria and Uganda has left countless customers high and dry. But what about drivers? With fuel prices, maintenance and other operating costs rising, many say they're struggling to make a living.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/uber-leaves-two-key-african-markets-and-their-drivers-in-despair/a-79232189?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T12:57:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "57g3it",
-      "title": "BRICS Summit 2026: Putin, Modi reaffirm partnership",
-      "summary": "Modi will also meet Xi Jinping as India seeks to balance ties with China and Russia. The wars in Ukraine and Iran could test the group's unity at the summit. Follow DW for more.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/brics-summit-2026-putin-modi-reaffirm-partnership/live-79224239?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T12:22:00.000Z",
-      "sample": false
-    },
-    {
       "id": "tvpqi0",
       "title": "Iran war: Saudi-Houthi escalation intensifies Yemen conflict",
       "summary": "The Houthi takeovers of Mokha, Dhubab and Perim in the Bab el-Mandeb Strait threaten to push Yemen deeper into the Middle East war. The Iran-backed group has made advances against Yemen's government and Saudi Arabia.",
@@ -101,28 +224,6 @@
       "url": "https://www.dw.com/en/iran-war-saudi-houthi-escalation-intensifies-yemen-conflict/a-79226627?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-11T11:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "am2noy",
-      "title": "Germany charges 7 suspected Hamas members over attack plot",
-      "summary": "Prosecutors say the suspects had moved beyond general preparations and were already pursuing a concrete plan for a deadly attack on Israeli or Jewish targets.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-charges-7-suspected-hamas-members-over-attack-plot/a-79230171?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T11:36:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ufd7xh",
-      "title": "9/11 conspiracy theories that continue to circulate",
-      "summary": "A quarter-century after the September 11, 2001, attacks, they are still the focus of numerous conspiracy theories. Why do people believe them?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/9-11-conspiracy-theories-that-continue-to-circulate/a-78896069?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T11:26:00.000Z",
       "sample": false
     },
     {
@@ -137,28 +238,6 @@
       "sample": false
     },
     {
-      "id": "ps8vyf",
-      "title": "Why North Korea's Kim Jong Un doesn't need a US deal",
-      "summary": "Donald Trump's overtures to North Korea's dictator have gone nowhere, with an emboldened Pyongyang accelerating its nuclear program and solidifying alliances with Russia and China.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/why-north-korea-s-kim-jong-un-doesn-t-need-a-us-deal/a-79227854?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T10:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mi4dr1",
-      "title": "Yemen: Houthis tighten control of strategic Red Sea towns",
-      "summary": "Reports indicate Houthi militants have taken over the port city of Mokha along with Perim Island, which occupies a strategic position on a vital transport waterway in the Red Sea.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/yemen-houthis-tighten-control-of-strategic-red-sea-towns/a-79220628?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T10:10:00.000Z",
-      "sample": false
-    },
-    {
       "id": "789avv",
       "title": "Turks in Germany anxious after AfD wins in Saxony-Anhalt",
       "summary": "The Alternative for Germany party's win in Saxony-Anhalt has alarmed people of Turkish origin in eastern states. Will workers and business owners abandon the increasingly AfD-friendly region for the more welcoming west?",
@@ -167,17 +246,6 @@
       "url": "https://www.dw.com/en/turks-in-germany-anxious-after-afd-wins-in-saxony-anhalt/a-79221764?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-11T10:07:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "n1voyn",
-      "title": "China angered by Taiwan VP's visit to EU democracy forum",
-      "summary": "Beijing has lodged a complaint with Italy and the EU over top Taiwanese officials visiting a democracy conference. The EU is navigating contentious issues with China and high-ranking Taiwanese visits are rare.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/china-angered-by-taiwan-vp-s-visit-to-eu-democracy-forum/a-79226311?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T10:02:00.000Z",
       "sample": false
     },
     {
@@ -192,28 +260,6 @@
       "sample": false
     },
     {
-      "id": "l18bcv",
-      "title": "Germany: Far right lead in upcoming state election polls",
-      "summary": "Polling suggests the far-right AfD is carrying its momentum into another upcoming state election. Meanwhile, former Chancellor Angela Merkel has urged people not to take democracy for granted. DW has more.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-far-right-lead-in-upcoming-state-election-polls/live-79223427?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T09:02:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "3wlg52",
-      "title": "Hong Kong Tiananmen activists jailed for up to 7 years",
-      "summary": "Three pro-democracy activists who organized annual commemorations of China's deadly 1989 Tiananmen crackdown were charged under Hong Kong's Beijing-backed national security law.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/hong-kong-tiananmen-activists-jailed-for-up-to-7-years/a-79224243?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T08:40:00.000Z",
-      "sample": false
-    },
-    {
       "id": "n6xesc",
       "title": "Magyar vs. Moscow: Hungary toughens stance toward Russia",
       "summary": "Prime Minister Peter Magyar has abruptly ended the era of his predecessor's warm relations with Russia: Hungary has expelled 10 Russian diplomats. The Kremlin is considering halting gas supplies in response.",
@@ -222,19 +268,6 @@
       "url": "https://www.dw.com/en/magyar-vs-moscow-hungary-toughens-stance-toward-russia/a-79223424?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-11T08:20:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "73dg4a",
-      "title": "Why are European banks moving gold out of United States?",
-      "summary": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fears about the reliability of the US, but equally important is the need to keep gold closer to home in the event of a crisis.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/why-are-european-banks-moving-gold-out-of-united-states/a-79213013?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T05:17:00.000Z",
       "sample": false
     },
     {
@@ -620,50 +653,6 @@
       "url": "https://www.dw.com/en/hungary-begins-hunt-for-corrupt-regime-s-billions/a-79047176?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-06T05:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "db7tll",
-      "title": "Croatia: Toxic waste protest draws tens of thousands",
-      "summary": "The Zagreb demonstrators demanded that the government come up with a plan to clear illegal toxic waste in 20 days. Prime Minister Plenkovic has promised to tackle the issue.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/croatia-toxic-waste-protest-draws-tens-of-thousands/a-79049228?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-05T17:32:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8va46n",
-      "title": "Germany: From emigration to immigration destination",
-      "summary": "Migration is a sensitive topic in Germany, with public debate dominated by the fear of uncontrolled immigration. But over two centuries, millions of Germans emigrated in search of a better life.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-from-emigration-to-immigration-destination/a-78805541?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-05T08:07:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "da6270",
-      "title": "Germany news: Thousands march at Saxony-Anhalt rallies",
-      "summary": "Ahead of Saxony-Anhalt's state election on Sunday, a democracy festival by civil society groups has been held in Magdeburg. The far-right AfD organized its final campaign rally in the state capital.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-thousands-march-at-saxony-anhalt-rallies/live-79041302?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-05T06:53:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "1zuvex",
-      "title": "What would an AfD government in Saxony-Anhalt really mean?",
-      "summary": "Detention centers for deportation, mandatory work for asylum-seekers, vigilante groups — the AfD wants to drastically overhaul Saxony-Anhalt. What does the party have planned?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/what-would-an-afd-government-in-saxony-anhalt-really-mean/a-78869947?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-05T06:25:00.000Z",
       "sample": false
     }
   ],
