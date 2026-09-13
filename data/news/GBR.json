@@ -2,8 +2,151 @@
   "id": "GBR",
   "name": "United Kingdom",
   "sample": false,
-  "updatedAt": "2026-09-13T00:21:19.945Z",
+  "updatedAt": "2026-09-13T06:23:03.431Z",
   "daily": [
+    {
+      "id": "gbx19i",
+      "title": "PM's top security adviser says Europe faces hard winter to keep pressure on Putin",
+      "summary": "In rare public remarks, Jonathan Powell said now was not the time for European nations to take their \"foot off the gas\".",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/crr4en2ylz8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aea/live/e1c6da50-af0c-11f1-b7ba-f9c30afb9e4d.jpg",
+      "publishedAt": "2026-09-13T06:21:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "lc7f44",
+      "title": "Planned Gibraltar-sized rail testing centre has cost taxpayers £70m but hasn't been built",
+      "summary": "The site has not found private-sector funding because the risk is \"too great,\" its boss says.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cy0zv4end8no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4222/live/d2949800-addc-11f1-8b98-35ffe039e825.png",
+      "publishedAt": "2026-09-13T06:12:53.000Z",
+      "sample": false
+    },
+    {
+      "id": "d7h981",
+      "title": "'It's cost upon cost for working families - they get no help'",
+      "summary": "The government needs to do more to support working families, a charity in Rotherham says.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c158l7zz5n5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a49/live/4c8a40c0-adb9-11f1-a1fc-c76e930e8813.jpg",
+      "publishedAt": "2026-09-13T06:09:16.000Z",
+      "sample": false
+    },
+    {
+      "id": "3bvle9",
+      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+      "category": "technology",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09f1/live/aaa670e0-af38-11f1-a540-61c3f7fc4e6c.jpg",
+      "publishedAt": "2026-09-13T06:04:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "93rl6a",
+      "title": "Oil prices create 'huge worry' as winter looms",
+      "summary": "The warning comes after the US-Iran conflict drives up heating oil and fuel costs.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cwyzegz38wlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4275/live/fc968e50-ac5c-11f1-be57-03729df1d736.jpg",
+      "publishedAt": "2026-09-13T06:01:53.000Z",
+      "sample": false
+    },
+    {
+      "id": "94leo",
+      "title": "Tesco alerts police as supermarket becomes latest victim of scam ‘endorsement’ ads",
+      "summary": "Exclusive: Supermarket joins line of firms and sports stars including Bellingham and Haaland to have their image hijacked via ads\nTesco has alerted City of London police after it became the latest in a string of companies and sports stars, including Barclays bank and Lewis Hamilton, to have its image hijacked in a “sca",
+      "category": "economy",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/money/2026/sep/13/tesco-scam-endorsement-haaland-bellingham-casino",
+      "image": "https://i.guim.co.uk/img/media/0d231d83e924f424838ab8abed737aafbcd75b8a/93_0_870_696/master/870.jpg?width=140&quality=85&auto=format&fit=max&s=69c25951b8274461c7e2ec2ed79f55ae",
+      "publishedAt": "2026-09-13T06:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "wx24yu",
+      "title": "Mapped: the £150bn megaproject that aims to protect Britain from energy shocks",
+      "summary": "Thousands of miles of new power lines are needed to deliver climate targets and energy security, but bills will rise in the short term and opponents are mobilising \nBritain is embarking on one of the largest overhauls of its electricity grid in generations – a megaproject in which five times more infrastructure will be",
+      "category": "environment",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/business/ng-interactive/2026/sep/13/mapped-150bn-megaproject-aims-to-protect-britain-from-energy-shocks",
+      "image": "https://i.guim.co.uk/img/media/72a4af3b427cd72b2e6c7713912d424ea4f10cb1/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=31ac535ded7978ae412b2ac8231af9c3",
+      "publishedAt": "2026-09-13T06:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fxyhe7",
+      "title": "Some dentists say more young people are grinding their teeth - are you one of them?",
+      "summary": "Millions of us do it, though few of us realise we do - but getting the right treatment can be life-changing.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c84/live/08ae0610-ad1f-11f1-826f-933990eae6f0.jpg",
+      "publishedAt": "2026-09-13T05:55:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "e1729q",
+      "title": "Donald Trump continues two-day visit of Ireland",
+      "summary": "The US president will spend the day watching the Irish Open after saying he would love to see a united Ireland.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dde/live/7ef677d0-aec8-11f1-a540-61c3f7fc4e6c.jpg",
+      "publishedAt": "2026-09-13T05:16:35.000Z",
+      "sample": false
+    },
+    {
+      "id": "5hvs6l",
+      "title": "Ending rough sleeping is 'not just a housing issue'",
+      "summary": "Andy Burnham wants to get people \"in from the cold\" by Christmas, but the scale of the task is huge.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/ckg7qyl1yk9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09c7/live/8c910140-ae86-11f1-a6ee-cff59daa3c91.jpg",
+      "publishedAt": "2026-09-13T05:14:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "v9b2sf",
+      "title": "UK government to offer clearer guidance on student loans after repayment row",
+      "summary": "Criticism of three-year threshold repayment freeze prompts update to guidance warning terms and conditions could change\nUniversity students taking out student loans are to be warned that the terms and conditions could change so they are better informed about what they are signing up to, the government has said.\nIn July",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/money/2026/sep/13/student-loans-repayments-university-students-guidance",
+      "image": "https://i.guim.co.uk/img/media/477a1852dafb1194dd2443835bae31b5dadaefd9/558_465_3712_2970/master/3712.jpg?width=140&quality=85&auto=format&fit=max&s=de63070c86051c25f7f26115caedf3ec",
+      "publishedAt": "2026-09-13T05:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ckhl0k",
+      "title": "Burnham must understand Wales is ‘not a region in England’, says first minister",
+      "summary": "Rhun ap Iorwerth, the first non-Labour Senedd leader, questions Westminster’s willingness to relinquish powers\nAndy Burnham has to be serious about devolution and understand that Wales is a nation and “not a region in England”, according to the country’s first minister.\nRhun ap Iorwerth, who is the first non-Labour lea",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-wales-first-minister-rhun-ap-iorweth-senedd-devolution",
+      "image": "https://i.guim.co.uk/img/media/29c05e16257eec82022dc6582d31088b0153d120/1540_348_6394_5116/master/6394.jpg?width=140&quality=85&auto=format&fit=max&s=c5c6403383f9b59929bad90e3d24c3a2",
+      "publishedAt": "2026-09-13T05:00:03.000Z",
+      "sample": false
+    },
+    {
+      "id": "ydw4tt",
+      "title": "Watch: Fantasia on British Sea-Songs at the Last Night of the Proms",
+      "summary": "Sir Henry Wood composed the melody for the centenary of the Battle of Trafalgar in 1905.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/c1wxl4ld3r3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1813/live/3cb8cbb0-af0f-11f1-a65d-4542d2ba1a22.jpg",
+      "publishedAt": "2026-09-13T01:13:55.000Z",
+      "sample": false
+    },
     {
       "id": "77v22l",
       "title": "Five night sky events to look out for this autumn",
@@ -24,17 +167,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c86x4pd720xo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dae6/live/c63cac10-adef-11f1-ad53-0d91a06f3150.jpg",
       "publishedAt": "2026-09-12T23:49:23.000Z",
-      "sample": false
-    },
-    {
-      "id": "fxyhe7",
-      "title": "Some dentists say more young people are grinding their teeth - are you one of them?",
-      "summary": "Millions of us do it, though few of us realise we do - but getting the right treatment can be life-changing.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c84/live/08ae0610-ad1f-11f1-826f-933990eae6f0.jpg",
-      "publishedAt": "2026-09-12T23:43:52.000Z",
       "sample": false
     },
     {
@@ -90,17 +222,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9256/live/a1802a30-aeb9-11f1-b1d1-571ed4d7ff2c.jpg",
       "publishedAt": "2026-09-12T21:16:47.000Z",
-      "sample": false
-    },
-    {
-      "id": "lc7f44",
-      "title": "Planned Gibraltar-sized rail testing centre has cost taxpayers £70m but hasn't been built",
-      "summary": "The site has not found private-sector funding because the risk is \"too great,\" its boss says.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cy0zv4end8no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4222/live/d2949800-addc-11f1-8b98-35ffe039e825.png",
-      "publishedAt": "2026-09-12T20:53:13.000Z",
       "sample": false
     },
     {
@@ -313,17 +434,6 @@
       "sample": false
     },
     {
-      "id": "rzndwx",
-      "title": "Burnham and Badenoch revive red versus blue politics as Reform land 'gobsmacking' donations",
-      "summary": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4492/live/4a744950-adca-11f1-a540-61c3f7fc4e6c.jpg",
-      "publishedAt": "2026-09-12T12:51:24.000Z",
-      "sample": false
-    },
-    {
       "id": "gczrzw",
       "title": "Elderly woman found dead named by police",
       "summary": "A man was arrested on suspicion of murder following the death of Jill Gant, 88, in Abingdon.",
@@ -332,28 +442,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cn07954lyeeo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7cb/live/b8d15940-ae8f-11f1-b1d1-571ed4d7ff2c.jpg",
       "publishedAt": "2026-09-12T11:25:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "vylyqr",
-      "title": "Jamaican delegation defends legal route of petition to King Charles for slavery reparations",
-      "summary": "Petition to king, who remains Jamaica’s head of state, is formally lodged in landmark visit to UK by officials\nA palpable surge of emotion swept through Brixton’s New Park Road Baptist church as the packed congregation rose to sing Bob Marley’s Redemption Song.\nThe service on Sunday marked the anniversary of the 1781 Z",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/news/2026/sep/12/jamaican-petition-delegation-king-charles-slavery-reparations",
-      "image": "https://i.guim.co.uk/img/media/1c2dbacb3799105d4e0f77d6315b1d0ae1ca5ae8/1351_102_5986_4789/master/5986.jpg?width=140&quality=85&auto=format&fit=max&s=44649772a980135bf1bd83fcc619a4cb",
-      "publishedAt": "2026-09-12T11:00:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "tn0xid",
-      "title": "Beyond the heatwave: what it really takes for climate warnings to cut through in the UK",
-      "summary": "As trust in institutions wavers, experts say local, collective action is more effective in driving change\nWildfires, excess deaths, hosepipe bans, school closures: this summer many British people have experienced the often devastating effects of the climate crisis in ways they had not before. In that sense, policymaker",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/12/uk-summer-climate-messaging-communities-government",
-      "image": "https://i.guim.co.uk/img/media/dc943034b40d0497059b3c012aec2c89d95bd88a/670_0_3850_3081/master/3850.jpg?width=140&quality=85&auto=format&fit=max&s=c95d0f7d16e607c8e893a5c5a8e4c900",
-      "publishedAt": "2026-09-12T11:00:32.000Z",
       "sample": false
     },
     {
@@ -368,14 +456,14 @@
       "sample": false
     },
     {
-      "id": "2cwgie",
-      "title": "London Underground workers exposed to asbestos without protective masks, documents reveal",
-      "summary": "Hundreds of staff may have worked without legally required face-fitted masks over 20 years\nHundreds of London Underground workers could have been exposed to asbestos for almost 20 years without protection required under safety regulations, according to documents seen by the Guardian.\nUnder 2002 rules on controlling asb",
-      "category": "politics",
+      "id": "tn0xid",
+      "title": "Beyond the heatwave: what it really takes for climate warnings to cut through in the UK",
+      "summary": "As trust in institutions wavers, experts say local, collective action is more effective in driving change\nWildfires, excess deaths, hosepipe bans, school closures: this summer many British people have experienced the often devastating effects of the climate crisis in ways they had not before. In that sense, policymaker",
+      "category": "military",
       "source": "the-guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/12/london-underground-workers-exposed-to-asbestos-without-protective-masks-documents-reveal",
-      "image": "https://i.guim.co.uk/img/media/db76c34e97619d029e19ba52f162ef81ec03e4e1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=83e1cb8b4cf6b5c99f94e028f5fb7915",
-      "publishedAt": "2026-09-12T10:00:32.000Z",
+      "url": "https://www.theguardian.com/environment/2026/sep/12/uk-summer-climate-messaging-communities-government",
+      "image": "https://i.guim.co.uk/img/media/dc943034b40d0497059b3c012aec2c89d95bd88a/670_0_3850_3081/master/3850.jpg?width=140&quality=85&auto=format&fit=max&s=c95d0f7d16e607c8e893a5c5a8e4c900",
+      "publishedAt": "2026-09-12T11:00:32.000Z",
       "sample": false
     },
     {
@@ -421,7 +509,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c8c/live/0caa1b40-ad11-11f1-826f-933990eae6f0.jpg",
       "publishedAt": "2026-09-12T06:27:18.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "sua1rx",
       "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
@@ -520,9 +610,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bd7/live/153f4400-ac68-11f1-80f0-9795d1a5edbc.jpg",
       "publishedAt": "2026-09-12T00:35:50.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "9sk6rh",
       "title": "Northern Ireland schools must give girls option to wear trousers from next year",
@@ -576,17 +664,6 @@
       "url": "https://www.theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi",
       "image": "https://i.guim.co.uk/img/media/d9003420a1509918b6b6115818aaaae607ac0e1a/524_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=465b0af4ff4e84107bd7c769e3028b48",
       "publishedAt": "2026-09-11T16:54:35.000Z",
-      "sample": false
-    },
-    {
-      "id": "1mqntr",
-      "title": "MPs vote against legalising assisted dying in England and Wales",
-      "summary": "Bill’s failure in Commons sparks anger among its supporters after Lords blocked earlier legislation\nA renewed attempt to legalise assisted dying has been voted down by MPs in a decision that is likely to scupper the idea for a political generation, sparking anger among supporters after an earlier bill was blocked by th",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/society/2026/sep/11/mps-vote-against-legalising-assisted-dying-in-england-and-wales",
-      "image": "https://i.guim.co.uk/img/media/c2e762f5f9f90c2c04f6b191dbc6f87dab3887db/845_0_6781_5427/master/6781.jpg?width=140&quality=85&auto=format&fit=max&s=1c48dbc26d660f98f04d27d78e1bb549",
-      "publishedAt": "2026-09-11T16:53:19.000Z",
       "sample": false
     },
     {
@@ -686,17 +763,6 @@
       "url": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a77/live/af54b2d0-addc-11f1-b1d1-571ed4d7ff2c.jpg",
       "publishedAt": "2026-09-11T12:49:30.000Z",
-      "sample": false
-    },
-    {
-      "id": "r1pa2w",
-      "title": "I moved my shop 20 miles because I couldn't afford £300 a week on fuel",
-      "summary": "People in Turriff, Aberdeenshire, tell BBC Scotland News the impact rising petrol prices is having.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/ckgw30gq8weo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4eb0/live/7852a570-adc9-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-11T12:14:09.000Z",
       "sample": false
     },
     {
@@ -1063,17 +1129,6 @@
       "sample": false
     },
     {
-      "id": "lkx2f1",
-      "title": "UK ministers explore raising price of water for industrial users amid shortages",
-      "summary": "Environment Agency says talks under way about increasing prices for industrial users to try to reduce poor water management\nMinisters are exploring making water more expensive for some users, in the face of severe supply shortages.\nDespite the UK being a famously wet country, the precarious nature of the water supply h",
-      "category": "environment",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/10/water-shortages-uk-supply-raising-price",
-      "image": "https://i.guim.co.uk/img/media/51201e3b954f6024aff2b5a93e412254b0a4b1bf/0_0_3360_2688/master/3360.jpg?width=140&quality=85&auto=format&fit=max&s=452e12cc9b9ae1aac803e44273353baf",
-      "publishedAt": "2026-09-10T11:14:04.000Z",
-      "sample": false
-    },
-    {
       "id": "o4v5ui",
       "title": "Primark finally set to launch home deliveries",
       "summary": "The retailer launches the service four years after making its first foray into internet shopping.",
@@ -1429,7 +1484,7 @@
       "id": "zd2rrc",
       "title": "OpenAI says it cracked 90-year-old maths problem in 88 hours",
       "summary": "OpenAI's claim that it solved parts of Navier-Stokes equations has quickly stirred controversy.",
-      "category": "technology",
+      "category": "economy",
       "source": "bbc-news",
       "url": "https://www.bbc.co.uk/news/articles/cy7zygy3rl2o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22b2/live/38d45d10-abc3-11f1-a601-7d96c5d5b6ea.jpg",
@@ -1632,17 +1687,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db58/live/a7e93d50-aab1-11f1-bdcc-b5edf6495ed5.png",
       "publishedAt": "2026-09-06T22:00:36.000Z",
-      "sample": false
-    },
-    {
-      "id": "vxbgn9",
-      "title": "Why a famous Montreal sandwich shop has been forced to swap its soda",
-      "summary": "Schwartz’s, one of Montreal’s most famous delis, has changed suppliers for its black cherry soda.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d316/live/da5dc3c0-a889-11f1-96fc-dd627484b0e6.png",
-      "publishedAt": "2026-09-06T06:04:51.000Z",
       "sample": false
     }
   ],

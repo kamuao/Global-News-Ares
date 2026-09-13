@@ -2,8 +2,41 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-13T00:21:20.825Z",
+  "updatedAt": "2026-09-13T06:23:03.901Z",
   "daily": [
+    {
+      "id": "hk81su",
+      "title": "Indonesia: Search underway after ferry loses contact",
+      "summary": "The ship was carrying over 240 people in the Java Sea and had departed from the city of Surabaya.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/indonesia-search-underway-after-ferry-loses-contact/a-79248600?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-13T05:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6hhzsf",
+      "title": "Sweden election: Far right eyes power for 1st time",
+      "summary": "The populist Sweden Democrats could enter government for the first time if incumbent Ulf Kristersson's bloc wins. The left-wing opposition led by former PM Andersson has seen its lead narrow as election day has neared.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/sweden-election-far-right-eyes-power-for-1st-time/a-79248599?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-13T03:42:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "jc8fu7",
+      "title": "France: Attack ruled out in train derailment",
+      "summary": "More than 40 were injured when a train derailed between Rouen and Caen in Normandy, northwest France, on Friday evening. Investigators say there is \"no indication\" the incident was deliberate.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/france-attack-ruled-out-in-train-derailment/a-79241365?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-13T01:14:00.000Z",
+      "sample": false
+    },
     {
       "id": "nwnjco",
       "title": "Anthropic boss Dario Amodei calls for AI slowdown",
@@ -168,7 +201,9 @@
       "image": null,
       "publishedAt": "2026-09-12T06:27:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "gz8qic",
       "title": "DW exclusive: Zelenskyy offers to meet Putin at G20 in Miami",
@@ -178,19 +213,6 @@
       "url": "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-12T05:46:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "9pgy0q",
-      "title": "France: Sabotage suspected in train derailment",
-      "summary": "Dozens were injured when a train derailed between Rouen and Caen in Normandy, northwest France, on Friday evening. Police believe the accident may have been deliberately caused, local media say.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/france-sabotage-suspected-in-train-derailment/a-79241365?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T21:01:00.000Z",
       "sample": false
     },
     {
@@ -202,28 +224,6 @@
       "url": "https://www.dw.com/en/ukraine-russian-strike-on-kyiv-gas-station-kills-2/a-79238219?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-11T15:53:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2htr4w",
-      "title": "US commemorates 25 years since 9/11 terror attack",
-      "summary": "A quarter century has passed since Islamists hijacked four commercial jets and turned them into weapons against the US. On Friday, ceremonies in New York, Pennsylvania and Washington DC marked the dark anniversary.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-commemorates-25-years-since-9-11-terror-attack/a-79237898?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T15:26:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "aywzt9",
-      "title": "Iran pursues cautious escalation ahead of US midterms",
-      "summary": "Tehran appears to be boosting pressure on Washington ahead of the crucial midterm vote, but shows little desire to return to a full-scale war.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/iran-pursues-cautious-escalation-ahead-of-us-midterms/a-79237061?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T14:54:00.000Z",
       "sample": false
     },
     {
@@ -642,17 +642,6 @@
       "url": "https://www.dw.com/en/germany-plans-anti-drone-shield-over-leipzig-attack-report/a-79052604?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-06T10:11:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "3263l8",
-      "title": "Hungary begins hunt for corrupt regime's billions",
-      "summary": "Hungary's new prime minister promised he would recover billions stolen or diverted by the previous administration. A new \"super authority\" is about to begin that work. Its success or failure will have a big impact.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/hungary-begins-hunt-for-corrupt-regime-s-billions/a-79047176?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-06T05:54:00.000Z",
       "sample": false
     }
   ],
