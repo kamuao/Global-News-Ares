@@ -2,17 +2,72 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-13T06:23:03.901Z",
+  "updatedAt": "2026-09-13T12:17:54.124Z",
   "daily": [
     {
-      "id": "hk81su",
-      "title": "Indonesia: Search underway after ferry loses contact",
-      "summary": "The ship was carrying over 240 people in the Java Sea and had departed from the city of Surabaya.",
+      "id": "ilovx8",
+      "title": "Russians on the Goethe-Institut: 'Hostage to politics'",
+      "summary": "Canceled language exams, disrupted plans to study in Germany, and the disappearance of an important cultural link: DW users shared how the closure of Germany's Goethe-Institut in Russia affects their lives.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/indonesia-search-underway-after-ferry-loses-contact/a-79248600?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/russians-on-the-goethe-institut-hostage-to-politics/a-79218936?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-09-13T05:18:00.000Z",
+      "publishedAt": "2026-09-13T11:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3uunfs",
+      "title": "Croatia: 'Monster' fire triggers evacuation on Brac island",
+      "summary": "A rapidly spreading wildfire threatened homes and tourist accommodations on the Croatian island of Brac, with firefighters battling the blaze overnight.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/croatia-monster-fire-triggers-evacuation-on-brac-island/a-79250480?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-13T10:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "c2ko2p",
+      "title": "Vanuatu ferry capsize leaves one dead, 30 missing",
+      "summary": "Rescue efforts have been slow after a South Pacific inter-island ferry sank in bad weather on Friday. An investigation has already begun into negligence on the part of the operator.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/vanuatu-ferry-capsize-leaves-one-dead-30-missing/a-79249954?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-13T10:09:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "a39j09",
+      "title": "Indonesia rescuers search for 130 people after ferry sinks",
+      "summary": "The ship was carrying over 240 people in the Java Sea when it ran into bad weather. Officials say six people have died and 130 are still missing.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/indonesia-rescuers-search-for-130-people-after-ferry-sinks/a-79248600?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-13T09:42:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pd73z2",
+      "title": "Germany: Lower Saxony local polls in focus after AfD win",
+      "summary": "The northwestern state of Lower Saxony is holding local elections that are being seen as a gauge of support for the far-right AfD party. DW has more.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-lower-saxony-local-polls-in-focus-after-afd-win/live-79223427?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-13T08:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "wwtjda",
+      "title": "A Romani artist in Hungary reclaims his identity",
+      "summary": "Norbert Olah is an artist. He's also Romani. For a long time, he avoided making his ethnic background a theme of his art for fear of being pigeonholed. Then it became his focus.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/a-romani-artist-in-hungary-reclaims-his-identity/a-79247266?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-13T08:16:00.000Z",
       "sample": false
     },
     {
@@ -23,7 +78,7 @@
       "source": "dw",
       "url": "https://www.dw.com/en/sweden-election-far-right-eyes-power-for-1st-time/a-79248599?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-09-13T03:42:00.000Z",
+      "publishedAt": "2026-09-13T06:41:00.000Z",
       "sample": false
     },
     {
@@ -46,17 +101,6 @@
       "url": "https://www.dw.com/en/anthropic-boss-dario-amodei-calls-for-ai-slowdown/a-79247690?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-12T23:32:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "b79mi0",
-      "title": "Germany news: Thousands protest against AfD in Düsseldorf",
-      "summary": "Police said around 20,000 people demonstrated in Düsseldorf under the slogan \"Not a Step Back!\" to protest the Alternative for Germany (AfD) party and right-wing hate speech. DW has more.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-thousands-protest-against-afd-in-düsseldorf/live-79223427?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-12T23:18:00.000Z",
       "sample": false
     },
     {
@@ -91,7 +135,9 @@
       "image": null,
       "publishedAt": "2026-09-12T15:01:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "4ie2tq",
       "title": "Bulgaria: Fire at factory making munitions for Ukraine",
@@ -181,17 +227,6 @@
       "sample": false
     },
     {
-      "id": "yktclb",
-      "title": "North Korea fires multiple ballistic missiles day after trilateral drills end",
-      "summary": "North Korea launched several short-range ballistic missiles into the sea a day after the US, South Korea and Japan concluded joint military exercises Pyongyang had called provocative.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/north-korea-fires-multiple-ballistic-missiles-day-after-trilateral-drills-end/a-79242070?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-12T07:15:00.000Z",
-      "sample": false
-    },
-    {
       "id": "1dxxtm",
       "title": "Russia's drone war comes to Moldova and Romania",
       "summary": "Incursions by Russian drones into Moldovan and Romanian airspace are increasingly common. This week the Ukrainian president's plane was stopped from taking off from Chisinau. Observers suspect the attacks are deliberate.",
@@ -201,9 +236,7 @@
       "image": null,
       "publishedAt": "2026-09-12T06:27:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "gz8qic",
       "title": "DW exclusive: Zelenskyy offers to meet Putin at G20 in Miami",
@@ -213,17 +246,6 @@
       "url": "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-12T05:46:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5nlf6g",
-      "title": "Ukraine: Russian strike on Kyiv gas station kills 2",
-      "summary": "With fighting on the front lines mostly stalled, Russia has been increasingly hitting petrol stations and other civilian targets. Ukraine has also been attacking Russia with drones, killing three people on Friday.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ukraine-russian-strike-on-kyiv-gas-station-kills-2/a-79238219?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T15:53:00.000Z",
       "sample": false
     },
     {
@@ -290,17 +312,6 @@
       "url": "https://www.dw.com/en/cyberattack-in-berlin-1-4-million-files-on-the-dark-web/a-79220829?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-10T16:51:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "jq4mu7",
-      "title": "Germany’s Goethe-Institut is closing in Russia. Russians tell DW how canceled exams are upending their plans",
-      "summary": "Canceled language exams, disrupted plans to study in Germany and the disappearance of an important cultural link: DW users shared how the closure of Germany's Goethe-Institut in Russia affects their lives.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-s-goethe-institut-is-closing-in-russia-russians-tell-dw-how-canceled-exams-are-upending-their-plans/a-79218936?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-10T16:17:00.000Z",
       "sample": false
     },
     {
@@ -620,28 +631,6 @@
       "url": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-06T18:33:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "wl18ab",
-      "title": "Germany, Kosovo unite against ticks carrying deadly virus",
-      "summary": "Germany has high-security labs while Kosovo has Hyalomma ticks and experience with the deadly Crimean-Congo hemorrhagic fever. Working together, German and Kosovar scientists are fighting the disease and its vectors.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-kosovo-unite-against-ticks-carrying-deadly-virus/a-78655223?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-06T10:25:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mn2a0g",
-      "title": "Germany plans anti-drone shield over Leipzig attack — report",
-      "summary": "Several German cities will receive rapidly deployable units capable of defending against drone strikes on critical infrastructure, according to Bild am Sonntag newspaper.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-plans-anti-drone-shield-over-leipzig-attack-report/a-79052604?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-06T10:11:00.000Z",
       "sample": false
     }
   ],
