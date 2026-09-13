@@ -2,7 +2,7 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-13T12:17:56.957Z",
+  "updatedAt": "2026-09-13T18:16:33.233Z",
   "daily": [
     {
       "id": "98ukdw",
@@ -11,7 +11,7 @@
       "category": "military",
       "source": "japan-times",
       "url": "https://www.japantimes.co.jp/news/2026/09/13/japan/politics/okinawa-governor-genta-koja-wins/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/13/thumbs/400x400/562709.jpg",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/13/thumbs/400x400/562722.jpg",
       "publishedAt": "2026-09-13T11:56:00.000Z",
       "sample": false
     },
@@ -38,6 +38,17 @@
       "sample": false
     },
     {
+      "id": "84f2xf",
+      "title": "No escape from the Russian terror playbook",
+      "summary": "Putinism offers no grand vision — only the indefinite preservation of one man's power and his security apparatus.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/13/world/russian-terror-playbook/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/13/thumbs/400x400/556632.jpg",
+      "publishedAt": "2026-09-13T07:55:00.000Z",
+      "sample": false
+    },
+    {
       "id": "r0vy47",
       "title": "Myanmar says U.N. envoy illegitimate ahead of credentials decision",
       "summary": "Appointed by Aung San Suu Kyi's government, the ambassador broke with his country's rulers weeks after their military coup in 2021.",
@@ -57,6 +68,17 @@
       "url": "https://www.japantimes.co.jp/business/2026/09/13/companies/chubu-electric-chiefs-to-quit-report/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/13/thumbs/400x400/562697.jpg",
       "publishedAt": "2026-09-13T06:48:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "s26o07",
+      "title": "Trump’s army of election deniers is a problem on many levels",
+      "summary": "The deliberate dodges — a consistent pattern more than 18 months into Trump's second presidency — aren't just political theater; they're informative.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/13/world/trumps-army-of-election-deniers/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/13/thumbs/400x400/556637.jpg",
+      "publishedAt": "2026-09-13T06:43:00.000Z",
       "sample": false
     },
     {
@@ -312,28 +334,6 @@
       "url": "https://www.japantimes.co.jp/business/2026/09/12/china-iran-secret-trade-mechanism/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/12/thumbs/400x400/562666.jpg",
       "publishedAt": "2026-09-12T07:43:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "4ftcj4",
-      "title": "Actor and narrator Reo Morimoto dies at 83",
-      "summary": "The Japanese actor and narrator known for his gentle voice, died suddenly of an unknown cause earlier this month.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/12/japan/reo-morimoto-death/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/12/thumbs/400x400/562665.jpg",
-      "publishedAt": "2026-09-12T07:28:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "89ixd3",
-      "title": "Pakistan faces pressure to pick a side as Saudi tensions with Houthis escalate",
-      "summary": "Fighting between Yemen's Iran-backed Houthi movement and Saudi forces is increasingly testing how long Pakistan can hold both positions at once.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/12/asia-pacific/politics/pakistan-pressure-choose-side/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/12/thumbs/400x400/562663.jpg",
-      "publishedAt": "2026-09-12T06:27:00.000Z",
       "sample": false
     }
   ],

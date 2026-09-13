@@ -2,28 +2,237 @@
   "id": "FRA",
   "name": "France",
   "sample": false,
-  "updatedAt": "2026-09-13T12:17:53.763Z",
+  "updatedAt": "2026-09-13T18:16:31.005Z",
   "daily": [
     {
-      "id": "c773vd",
-      "title": "En Grèce, l’ancien chef des statistiques, qui avait dévoilé la vérité sur l’état des finances publiques pendant la crise de 2010, est enfin blanchi",
-      "summary": "Andréas Georgiou a été acquitté par la Cour suprême du pays, quinze ans après avoir été accusé d’avoir gonflé sciemment les déficits de la Grèce pour mettre en œuvre des mesures d’austérité.",
+      "id": "gpqlhy",
+      "title": "EN DIRECT, guerre en Ukraine : un train touché par un drone et des frappes russes près de la frontière avec la Pologne",
+      "summary": "Une locomotive d’un train de voyageurs reliant Kiev à Varsovie a été touchée par un drone russe à 2 kilomètres de la frontière polonaise, sans faire de victimes. Le premier ministre polonais, Donald Tusk, a convoqué une réunion spéciale, dimanche.",
       "category": "politics",
       "source": "le-monde",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/13/en-grece-l-ancien-chef-des-statistiques-qui-avait-devoile-la-verite-sur-l-etat-des-finances-publiques-pendant-la-crise-de-2010-est-enfin-blanchi_6772633_3234.html",
-      "image": "https://img.lemde.fr/2026/09/11/354/0/2232/1116/644/322/60/0/ea2a23f_upload-1-zbgiefxk779k-epaphotosfour422711.jpg",
-      "publishedAt": "2026-09-13T11:30:05.000Z",
+      "url": "https://www.lemonde.fr/international/live/2026/09/13/en-direct-guerre-en-ukraine-un-train-touche-par-un-drone-et-des-frappes-russes-pres-de-la-frontiere-avec-la-pologne_6772184_3210.html",
+      "image": "https://img.lemde.fr/2026/09/13/456/0/1602/801/644/322/60/0/74f29bd_ftp-1-tmpvqidredz2-2026-09-13t115747z-405018044-rc2binadynpy-rtrmadp-3-ukraine-crisis-attack-border.JPG",
+      "publishedAt": "2026-09-13T17:18:25.000Z",
+      "sample": false
+    },
+    {
+      "id": "f4ngs8",
+      "title": "Enquête électorale présidentielle 2027 : Marine Le Pen entame la campagne sur un socle inédit au cœur d’un électorat inquiet et en colère",
+      "summary": "Dans un paysage politique marqué par la polarisation, la candidate du RN bénéficie d’intentions de vote inédites. Si Jean-Luc Mélenchon solidifie, lui aussi, sa base électorale, le jeu reste très ouvert pour les autres candidats dans un scrutin qui intéresse déjà largement des sondés inquiets de l’avenir.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/13/enquete-electorale-presidentielle-2027-marine-le-pen-entame-la-campagne-sur-un-socle-inedit-au-c-ur-d-un-electorat-inquiet-et-en-colere_6772946_823448.html",
+      "image": "https://img.lemde.fr/2026/09/13/150/0/1801/900/644/322/60/0/8997b77_upload-1-2oh5ihmj8ioz-cevipof-sept2026-appel-1.png",
+      "publishedAt": "2026-09-13T17:00:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "3f7ib1",
+      "title": "Ce qu’il faut retenir de l’actualité du week-end des 12 et 13 septembre",
+      "summary": "Vous n’avez pas suivi l’actualité ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/13/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-12-et-13-septembre_6772910_4355770.html",
+      "image": "https://img.lemde.fr/2026/09/12/487/0/5847/2923/644/322/60/0/745ec57_upload-1-u2jz4h4ycvna-cbi1334062.jpg",
+      "publishedAt": "2026-09-13T16:45:21.000Z",
+      "sample": false
+    },
+    {
+      "id": "bpkxe7",
+      "title": "Ligue 1 : Lille enchaîne face à Troyes et prend la tête du championnat",
+      "summary": "Le LOSC s’est imposé dimanche contre Troyes (2-0) au stade Pierre-Mauroy, lors de la quatrième journée de Ligue 1, et récupère la tête du championnat devant Monaco et Rennes.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/sport/article/2026/09/13/ligue-1-lille-enchaine-face-a-troyes-et-prend-la-tete-du-championnat_6772844_3242.html",
+      "image": "https://img.lemde.fr/2026/09/13/223/0/6000/3000/644/322/60/0/38cc967_ftp-1-0tkitucfbwaq-5076721-01-06.jpg",
+      "publishedAt": "2026-09-13T16:07:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "j4mgpb",
+      "title": "EN DIRECT, France - Etats-Unis : début de rencontre très serré en finale du Mondial de basket-ball féminin",
+      "summary": "Les Françaises affrontent les redoutables Américaines en finale de la Coupe du monde, dimanche à 20 heures, à Berlin. Une affiche de gala, deux ans après la finale des Jeux olympiques de Paris entre les deux équipes, remportée sur le fil par la « Dream Team ».",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/sport/live/2026/09/13/en-direct-france-etats-unis-gabby-williams-et-les-bleues-en-mission-pour-un-premier-titre-historique-dans-un-mondial-de-basket-ball_6772841_3242.html",
+      "image": "https://img.lemde.fr/2026/09/12/676/0/6432/3216/644/322/60/0/60cbdd7_ftp-1-rlhepr5ucnzm-5068349-01-06.jpg",
+      "publishedAt": "2026-09-13T16:00:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "7vyibh",
+      "title": "Déraillement du TER en Normandie : outre l’enquête judiciaire, une enquête technique ouverte",
+      "summary": "Les causes de l’accident, qui a fait 44 blessés à proximité de Cléon (Seine-Maritime), ne sont pas encore déterminées. Le ministre de l’intérieur a déclaré dimanche qu’il fallait « rester extrêmement prudent ».",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/13/deraillement-du-ter-en-normandie-outre-l-enquete-judiciaire-une-enquete-technique-ouverte_6772840_3234.html",
+      "image": "https://img.lemde.fr/2026/09/12/658/0/7904/3952/644/322/60/0/5f0e589_ftp-1-1gc28ju7xtbz-5067551-01-06.jpg",
+      "publishedAt": "2026-09-13T15:47:51.000Z",
+      "sample": false
+    },
+    {
+      "id": "ak7xai",
+      "title": "Formule 1 : Kimi Antonelli remporte le GP d’Espagne sur le Madring, Lando Norris malchanceux",
+      "summary": "Le jeune pilote italien (Mercedes) a conforté son avance au championnat du monde grâce à sa victoire à Madrid, dimanche, devant le Néerlandais Max Verstappen (Red Bull) et l’Anglais Lando Norris (McLaren).",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/sport/article/2026/09/13/formule-1-kimi-antonelli-remporte-le-gp-d-espagne-sur-le-madring-lando-norris-malchanceux_6772839_3242.html",
+      "image": "https://img.lemde.fr/2026/09/13/320/0/5333/2666/644/322/60/0/fcfe8f0_ftp-1-qhvxdzn5bjk4-2026-09-13t152341z-1820669605-up1em9d15rx0g-rtrmadp-3-motor-f1-spain.JPG",
+      "publishedAt": "2026-09-13T15:42:59.000Z",
+      "sample": false
+    },
+    {
+      "id": "rkrvls",
+      "title": "France's far-right Marine Le Pen kicks off 2027 presidential campaign",
+      "summary": "In France, Marine Le Pen has launched her presidential campaign with a rally in Hénin-Beaumont this Sunday, despite wearing an electronic tag following her recent conviction. On FRANCE 24, international affairs editor Oliver Farry explains why she remains the frontrunner in the polls despite her weakened legal position",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/france-s-far-right-marine-le-pen-kicks-off-2027-presidential-campaign",
+      "image": "https://s.france24.com/media/display/84518dfc-a52a-11f1-984c-005056bf30b7/w:1024/p:16x9/2026-08-27T154621Z-1088021487-RC237NAUVKIC-RTRMADP-3-FRANCE-BUSINESS-POLITICS.jpg",
+      "publishedAt": "2026-09-13T15:41:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "u67jls",
+      "title": "The race to make AI safer",
+      "summary": "As AI leaders warn that the technology is advancing faster than our ability to control it, Donald Trump has dismissed some of those concerns as exaggerated. On FRANCE 24, AI philosophy professor Raphaël Millière said this summer's real-world AI security incident shows the risks are no longer hypothetical, while stressi",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/the-race-to-make-ai-safer",
+      "image": "https://s.france24.com/media/display/0a83147c-8609-11f1-9e88-005056bf30b7/w:1024/p:16x9/WhatsApp-Image-2026-07-22-at-2-01-15-PM.jpeg",
+      "publishedAt": "2026-09-13T15:16:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "efs9m4",
+      "title": "Surfing: France tests Olympic venue ahead of LA 2028",
+      "summary": "With the Lexus Trestles Pro underway in California, the French surfing team is using the future Los Angeles 2028 Olympic venue for its first full-scale training camp. Led by reigning Olympic champion Kauli Vaast, the squad is testing both its sporting preparation and team logistics as it builds towards defending France",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/surfing-france-tests-olympic-venue-ahead-of-la-2028",
+      "image": "https://s.france24.com/media/display/54130b38-af7b-11f1-8094-005056a97e36/w:1024/p:16x9/EN-20260913-151323-151520-CS.jpg",
+      "publishedAt": "2026-09-13T15:04:49.000Z",
+      "sample": false
+    },
+    {
+      "id": "1az3zu",
+      "title": "« Je classe amoureusement mes fichiers MP3 » : pourquoi les baladeurs audio font de nouveaux adeptes",
+      "summary": "Si le streaming domine toujours largement le marché musical, iPod, lecteurs MP3 et lecteurs CD suscitent un regain d’intérêt. Nostalgie, besoin de ralentir, envie de posséder sa musique : leurs adeptes cherchent surtout à retrouver une écoute plus attentive et plus choisie.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/13/je-classe-amoureusement-mes-fichiers-mp3-pourquoi-les-baladeurs-audio-font-de-nouveaux-adeptes_6772804_4408996.html",
+      "image": "https://img.lemde.fr/2026/09/11/328/0/3872/1936/644/322/60/0/c766d0c_upload-1-4j68dguagdly-8450834102-78416b60e2-o.jpg",
+      "publishedAt": "2026-09-13T15:00:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "j8hcts",
+      "title": "Stade toulousain - Union Bordeaux-Bègles : duel entre les frères Jack et Tom Willis pour ce choc du Top 14",
+      "summary": "Troisièmes-lignes aux physiques imposants, les deux Anglais effectuent leurs retrouvailles sur un terrain, dimanche, au stade Ernest-Wallon, pour la principale affiche de la deuxième journée du championnat de France de rugby.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/sport/article/2026/09/13/stade-toulousain-union-bordeaux-begles-duel-entre-les-freres-jack-et-tom-willis-pour-ce-choc-du-top-14_6772801_3242.html",
+      "image": "https://img.lemde.fr/2026/09/11/0/0/5000/2500/644/322/60/0/2a2d278_upload-1-udojqydsfe3s-000-92ch6hy.jpg",
+      "publishedAt": "2026-09-13T15:00:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "2o8l8l",
+      "title": "En Turquie, une opération policière sans précédent contre la communauté LGBT+",
+      "summary": "Depuis 2015, la parole publique prend pour cible les communautés LGBT+, interdisant de plus en plus fermement les marches des fiertés, bannissant le drapeau arc-en-ciel et poursuivant des associations. Mais dimanche 13 septembre, l’expression de l’homophobie d’Etat a franchi un nouveau seuil.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/09/13/en-turquie-une-operation-policiere-sans-precedent-contre-la-communaute-lgbt_6772767_3210.html",
+      "image": "https://img.lemde.fr/2026/09/13/458/0/5381/2690/644/322/60/0/7cb7702_ftp-1-0niii5xbxu7m-2026-09-13t123408z-142593734-rc2cina5g2zn-rtrmadp-3-turkey-lgbt.JPG",
+      "publishedAt": "2026-09-13T14:12:54.000Z",
+      "sample": false
+    },
+    {
+      "id": "i8js9n",
+      "title": "Le djihadiste français Othman Garrido jugé pour sa participation à des exécutions par décapitation en Syrie",
+      "summary": "Les enquêteurs ont établi que ce Montpelliérain avait participé, en 2015, à l’assassinat de deux prisonniers iraniens et le soupçonnent d’avoir décapité un troisième homme, non identifié. Il est le deuxième combattant français encore en vie à être jugé, à partir de lundi, à Paris, pour des faits de cette nature.",
+      "category": "military",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/societe/article/2026/09/13/le-djihadiste-francais-othman-garrido-juge-pour-sa-participation-a-des-executions-par-decapitation-en-syrie_6772734_3224.html",
+      "image": "https://img.lemde.fr/2026/09/11/354/0/4252/2126/644/322/60/0/20a161f_upload-1-e3dpmvnm2uy5-le-monde.jpg",
+      "publishedAt": "2026-09-13T14:00:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "8crin5",
+      "title": "Le contrôle des houthistes sur le détroit de Bab Al-Mandab fait planer une nouvelle menace sur l’économie mondiale",
+      "summary": "La mainmise des rebelles alliés à l’Iran sur le bras de mer situé entre l’Afrique et la péninsule Arabique, point de passage obligé sur la voie maritime la plus courte reliant l’Asie à l’Europe, fait redouter une hausse des cours du pétrole et des prix du transport maritime.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/13/le-controle-des-houthistes-sur-le-detroit-de-bab-al-mandab-fait-planer-une-nouvelle-menace-sur-l-economie-mondiale_6772733_3234.html",
+      "image": "https://img.lemde.fr/2026/09/13/233/0/2277/1138/644/322/60/0/4118aed_upload-1-mliatwiv3r2r-inter-3726-yemen-detail-media-appel.png",
+      "publishedAt": "2026-09-13T13:56:51.000Z",
+      "sample": false
+    },
+    {
+      "id": "st7r18",
+      "title": "Yemen: The Houthis test Iran's regional influence",
+      "summary": "Iran-backed Houthi attacks on Saudi Arabia have intensified as fighting spreads around the Bab el-Mandeb Strait, a vital chokepoint for global trade and oil shipments. On FRANCE 24, Sanaa Center for Strategic Studies chairman Farea Al-Muslimi argued this could mark \"the last round in Yemen's current war\", unpacking the",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/video/20260913-yemen-the-houthis-test-iran-s-regional-influence",
+      "image": "https://s.france24.com/media/display/e97ed2ba-adc3-11f1-b34d-005056a97e36/w:1024/p:16x9/AP26253315512845.jpg",
+      "publishedAt": "2026-09-13T13:29:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "lqpfls",
+      "title": "Indonesia: Second ferry disaster in five days",
+      "summary": "At least one person has died and more than 100 people remain missing after a ferry carrying 243 people sank in rough weather between the Indonesian islands of Java and Borneo. The disaster is the second major ferry accident in the region in five days, renewing concerns over safety standards, overcrowding and maintenanc",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/indonesia-second-ferry-disaster-in-five-days",
+      "image": "https://s.france24.com/media/display/e2167cbc-af62-11f1-84e0-005056bfb2b6/w:1024/p:16x9/EN-20260913-121016-121213-CS.jpg",
+      "publishedAt": "2026-09-13T13:17:21.000Z",
+      "sample": false
+    },
+    {
+      "id": "it3t1m",
+      "title": "Yemen: Fighting escalates around the Bab el-Mandeb Strait",
+      "summary": "Fighting is escalating in Yemen after Iran-backed Houthi forces seized strategic territory around the Bab el-Mandeb Strait, prompting counterstrikes by government forces and reported Saudi air raids. The Houthis also claimed attacks inside southern Saudi Arabia and threatened to disrupt shipping through the key maritim",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/yemen-fighting-escalates-around-the-bab-el-mandeb-strait",
+      "image": "https://s.france24.com/media/display/abc04a1a-af6e-11f1-819a-005056a90284/w:1024/p:16x9/EN-20260913-140115-140311-CS.jpg",
+      "publishedAt": "2026-09-13T13:15:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "8zb3uv",
+      "title": "Swedish far-right eyes role in government",
+      "summary": "As Sweden heads into a closely fought election, the far right is gaining ground by tapping into concerns over crime and security, issues that some voters increasingly associate with migration. On FRANCE 24, Stockholm University sociologist Zeth Isaksson said the movement has also softened its image in recent years, mak",
+      "category": "society",
+      "source": "france24",
+      "url": "https://www.france24.com/en/swedish-far-right-eyes-role-in-government",
+      "image": "https://s.france24.com/media/display/5d325c64-af53-11f1-8d54-005056a90284/w:1024/p:16x9/capture-20799631186aa669301c83e0-07656090.jpg",
+      "publishedAt": "2026-09-13T13:11:59.000Z",
+      "sample": false
+    },
+    {
+      "id": "fk8w64",
+      "title": "Radio France staff strike over appointment of far-right weekly editor",
+      "summary": "Staff at public broadcaster Radio France began a two-day strike on Sunday over the appointment of Charles Sapin, deputy editor-in-chief at far-right weekly Valeurs Actuelles. Unions accuse Sapin of promoting far-right ideas ahead of next spring's presidential election, while management has defended the appointment in t",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/france/20260913-radio-france-staff-strike-over-appointment-of-far-right-weekly-editor",
+      "image": "https://s.france24.com/media/display/02d53bbe-af04-11f1-9d7b-005056bf30b7/w:1024/p:16x9/e1d9fdbe2d48d1241c3b6d21d639c8533611857e.jpg",
+      "publishedAt": "2026-09-13T12:44:54.000Z",
       "sample": false
     },
     {
       "id": "x5f86x",
-      "title": "En Indonésie, le naufrage d’un ferry fait six morts et 130 disparus",
+      "title": "En Indonésie, le naufrage d’un ferry fait six morts et 129 disparus",
       "summary": "Le navire « Virgo-Transport 8 » transportait 243 passagers et membres d’équipage. Il avait appareillé samedi de Surabaya, dans l’est de l’île de Java, pour rejoindre Banjarmassin, dans l’île de Bornéo, d’après un signalement aux secours des propriétaires du ferry.",
       "category": "politics",
       "source": "le-monde",
       "url": "https://www.lemonde.fr/international/article/2026/09/13/en-indonesie-le-naufrage-d-un-ferry-fait-six-morts-et-130-disparus_6772600_3210.html",
       "image": "https://img.lemde.fr/2026/09/13/36/0/1156/578/644/322/60/0/51d8fbe_ftp-1-fasi1uhxyuiz-2026-09-13t090138z-896264361-rc28ina2pwx5-rtrmadp-3-indonesia-ship.JPG",
-      "publishedAt": "2026-09-13T11:22:38.000Z",
+      "publishedAt": "2026-09-13T11:22:34.000Z",
       "sample": false
     },
     {
@@ -49,28 +258,6 @@
       "sample": false
     },
     {
-      "id": "qehedg",
-      "title": "En images : Céline Dion de retour sur scène après six ans d’absence",
-      "summary": "C’est sur la scène de la Plenitude Arena, à Nanterre, que Céline Dion a commencé une série de 26 concerts pour le plus grand bonheur de ses fans, venus du monde entier.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/flux-video-immersif/video/2026/09/13/en-images-celine-dion-de-retour-sur-scene-apres-six-ans-d-absence_6772567_6717263.html",
-      "image": "https://img.lemde.fr/2026/09/12/524/0/6284/3142/644/322/60/0/4220805_ftp-1-qgl65kcboctr-dd2e1357a34a4d74813aa09da38f53bf-0-268a03f429ed494a8fae654c2eda6012.jpg",
-      "publishedAt": "2026-09-13T10:35:31.000Z",
-      "sample": false
-    },
-    {
-      "id": "axn3h2",
-      "title": "« Ce déménagement minimaliste vient de ma culpabilité envers mon ex-compagnon. Je lui enlève sa fille, je lui laisse au moins les meubles »",
-      "summary": "« Remue-ménages ». Synonyme à la fois de renoncement et de nouveau départ, un déménagement n’est jamais anodin. Quand Hélèna Baskakoff se sépare de son conjoint, à 26 ans, c’est toute sa vie genevoise qu’elle quitte. Pour repartir de zéro avec sa fille, à Avignon.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/intimites/article/2026/09/13/ce-demenagement-minimaliste-vient-de-ma-culpabilite-envers-mon-ex-compagnon-je-lui-enleve-sa-fille-je-lui-laisse-au-moins-les-meubles_6772501_6190330.html",
-      "image": "https://img.lemde.fr/2025/10/15/85/0/1024/512/644/322/60/0/de0c50a_upload-1-trixzfoyd3a2-lemonde-animation-05.jpg",
-      "publishedAt": "2026-09-13T10:00:04.000Z",
-      "sample": false
-    },
-    {
       "id": "ips19x",
       "title": "Sweden election: A turning point for the far right?",
       "summary": "The stakes are high in Sweden's general election, with the far right poised to enter government for the first time. TV4 News journalist Markus Karlsson-Bourrioux explains how opinion polls shifted from a comfortable centre-left lead to a tight race over the summer, and how far-right ideas have gained ground since the l",
@@ -93,20 +280,9 @@
       "sample": false
     },
     {
-      "id": "bgsq43",
-      "title": "Le média d’extrême droite « Frontières » veut « infiltrer » les politiques et les journalistes",
-      "summary": "Le nouvel hebdomadaire en ligne « L’Infiltré », qui sera lancé le 29 septembre, se présente comme inspiré du « Canard enchaîné » et peut compter sur la caisse de résonance des médias du groupe Bolloré.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/13/le-media-d-extreme-droite-frontieres-veut-infiltrer-les-politiques-et-les-journalistes_6772467_3234.html",
-      "image": "https://img.lemde.fr/2026/09/09/211/0/6000/3000/644/322/60/0/9d6dc2d_upload-1-7pinapg41a4p-000-b2vl49e.jpg",
-      "publishedAt": "2026-09-13T09:30:17.000Z",
-      "sample": false
-    },
-    {
       "id": "suyfq4",
       "title": "Sam Altman annonce qu’OpenAI n’entrera pas en Bourse en 2026, en raison des inquiétudes liés à la sécurité de l’intelligence artificielle",
-      "summary": "« Au vu de tout ce qui se passe en matière de sécurité, le moment serait mal choisi pour entrer en Bourse, et nous ne ressentons pas de pression en ce sens », a déclaré le patron de la société créatrice de ChatGPT.",
+      "summary": "« Au vu de tout ce qui se passe en matière de sécurité, le moment serait mal choisi pour entrer en Bourse, et nous ne ressentons pas de pression en ce sens », a déclaré le patron de la société créatrice de ChatGPT. De son côté, le président américain, Donald Trump, a critiqué ceux qui veulent ralentir le développement ",
       "category": "technology",
       "source": "le-monde",
       "url": "https://www.lemonde.fr/pixels/article/2026/09/13/sam-altman-annonce-qu-openai-n-entrera-pas-en-bourse-en-2026-en-raison-des-inquietudes-lies-a-la-securite-de-l-intelligence-artificielle_6772466_4408996.html",
@@ -148,17 +324,6 @@
       "sample": false
     },
     {
-      "id": "p2mi2n",
-      "title": "EN DIRECT, présidentielle 2027 : Eric Zemmour et Sarah Knafo font leur rentrée ; Marine Le Pen dans son fief d’Hénin-Beaumont",
-      "summary": "Reconquête ! réunit moins de 2 000 militants au Port-Marly (Yvelines). La députée et candidate du RN devrait, quant à elle, prendre la parole autour de 14 h 30-15 heures, après un week-end de travaux à huis clos avec les parlementaires de son parti au Touquet.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/politique/live/2026/09/13/en-direct-presidentielle-2027-la-candidate-du-rn-marine-le-pen-attendue-dans-son-fief-d-henin-beaumont_6770586_823448.html",
-      "image": "https://img.lemde.fr/2026/09/13/540/0/6485/3242/644/322/60/0/507f82f_upload-1-g0s82hryqs4m-as100369.jpeg",
-      "publishedAt": "2026-09-13T09:21:34.000Z",
-      "sample": false
-    },
-    {
       "id": "jve200",
       "title": "Yemen: Houthi offensive triggers new displacement crisis",
       "summary": "More than 70,000 people have fled their homes in Yemen after Iran-backed Houthi rebels launched an offensive to seize the Bab el-Mandeb Strait, with many escaping to Aden and around 1,400 crossing into neighbouring Djibouti. The UN and IOM warn the new displacement wave is worsening an already dire humanitarian crisis ",
@@ -181,36 +346,14 @@
       "sample": false
     },
     {
-      "id": "sq7jrw",
-      "title": "EN DIRECT, guerre en Ukraine : il est « possible et nécessaire » de vaincre le « terrorisme russe », dit Volodymyr Zelensky, après des frappes massives",
-      "summary": "La Russie a lancé en une semaine environ 2 100 drones d’attaque à longue portée ainsi que près de 1 700 bombes aériennes guidées et 78 missiles de différents types, a affirmé le président ukrainien.",
+      "id": "19fxc5",
+      "title": "Trump slams AI sceptics as Altman pauses OpenAI IPO plans over safety concerns",
+      "summary": "US President Donald Trump on Sunday slammed critics of artificial intelligence (AI) who warned firms to slow down development, branding them \"negative\" forces. The comments came soon after OpenAI CEO Sam Altman announced his company will not go public this year, citing safety concerns.",
       "category": "military",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/international/live/2026/09/13/en-direct-guerre-en-ukraine-la-roumanie-affirme-qu-un-drone-s-est-ecrase-apres-avoir-traverse-l-ukraine-et-la-moldavie_6772184_3210.html",
-      "image": "https://img.lemde.fr/2026/09/10/720/0/8640/4320/644/322/60/0/175544e_ftp-1-kwmhw6jmalzp-2026-09-10t153044z-1142936961-rc2fgnaxhhn5-rtrmadp-3-ukraine-crisis-canada.JPG",
-      "publishedAt": "2026-09-13T08:06:44.000Z",
-      "sample": false
-    },
-    {
-      "id": "dz03ua",
-      "title": "Est-ce bien raisonnable de… vivre en tenue de sport ?",
-      "summary": "Dans la mode comme dans la vie, il convient de connaître les limites à ne pas franchir. Ou alors, en connaissance de cause.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/m-styles/article/2026/09/13/est-ce-bien-raisonnable-de-vivre-en-tenue-de-sport_6772367_4497319.html",
-      "image": "https://img.lemde.fr/2026/09/07/40/0/1500/750/644/322/60/0/698975e_ftp-1-sswjjk2cyffr-441329-3495400.jpg",
-      "publishedAt": "2026-09-13T08:00:13.000Z",
-      "sample": false
-    },
-    {
-      "id": "s3bfpf",
-      "title": "Ali Banisadr et Gustave Moreau, deux peintres hors des courants",
-      "summary": "L’artiste iranien, qui vit à New York, expose ses œuvres à Paris au Musée Gustave-Moreau, en regard de toiles du peintre du XIXᵉ siècle, et à la galerie Thaddaeus Ropac.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/culture/article/2026/09/13/ali-banisadr-et-gustave-moreau-deux-peintres-hors-des-courants_6772366_3246.html",
-      "image": "https://img.lemde.fr/2026/09/10/713/0/4978/2489/644/322/60/0/e2378ef_upload-1-zkz6ktxl13qb-ab-2171-a-300dpi.jpg",
-      "publishedAt": "2026-09-13T08:00:09.000Z",
+      "source": "france24",
+      "url": "https://www.france24.com/en/technology/20260913-trump-slams-ai-skeptics-as-altman-pauses-openai-ipo-plans-over-safety-concerns",
+      "image": "https://s.france24.com/media/display/8b812582-af80-11f1-89c8-005056a97e36/w:1024/p:16x9/2026-09-13T130451Z-943753214-RC2DINAGWTJK-RTRMADP-3-USA-TRUMP-IRELAND.jpg",
+      "publishedAt": "2026-09-13T08:23:11.000Z",
       "sample": false
     },
     {
@@ -258,25 +401,14 @@
       "sample": false
     },
     {
-      "id": "3fd0h1",
-      "title": "« Les accords d’Abraham ont plutôt encouragé la guerre que la paix au Moyen-Orient »",
-      "summary": "Six ans après leur signature, les accords d’Abraham, loin de généraliser la normalisation israélo-arabe, ont aggravé les dissensions au Moyen-Orient, analyse l’historien Jean-Pierre Filiu dans sa chronique au « Monde ».",
+      "id": "ku1r9t",
+      "title": "Investir dans l’éducation et la transition écologique : oui, mais comment le financer ? Le débat entre deux économistes",
+      "summary": "Ils s’accordent sur les urgences mais pas sur leur financement : Antoine Foucher propose de réduire les dépenses de retraite, tandis qu’Anne-Laure Delatte prône la fin de la politique de l’offre et l’augmentation des impôts sur les entreprises et le capital. Ils en débattent dans un entretien au « Monde ».",
       "category": "politics",
       "source": "le-monde",
-      "url": "https://www.lemonde.fr/un-si-proche-orient/article/2026/09/13/les-accords-d-abraham-ont-plutot-encourage-la-guerre-que-la-paix-au-moyen-orient_6772232_6116995.html",
-      "image": "https://img.lemde.fr/2020/12/12/489/0/5874/2937/644/322/60/0/f7e1680_b1ee2d07e0c249a0824748845178218b-4f8cbad068d847e9828f5bed3d36b364-0.jpg",
-      "publishedAt": "2026-09-13T05:00:11.000Z",
-      "sample": false
-    },
-    {
-      "id": "r28u3",
-      "title": "Titiou Lecoq, autrice du « Couple et l’argent » : « Longtemps, le féminisme français a eu un problème avec l’économie »",
-      "summary": "Dans un entretien au « Monde », la journaliste revient sur les disparités d’éducation et de traitement économiques entre les hommes et les femmes. Constatant une prise de conscience, elle plaide pour des réformes concrètes et prendra part à un débat, le 20 septembre, sur le sujet à l’occasion du Festival du Monde.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/argent/article/2026/09/13/titiou-lecoq-autrice-du-couple-et-l-argent-longtemps-le-feminisme-francais-a-eu-un-probleme-avec-l-economie_6772196_1657007.html",
-      "image": "https://img.lemde.fr/2026/09/10/411/0/3288/1644/644/322/60/0/8850f27_upload-1-eawhm2qqplsn-titiou-lecoq-chloe-vollmer-lo.jpg",
-      "publishedAt": "2026-09-13T04:30:03.000Z",
+      "url": "https://www.lemonde.fr/idees/article/2026/09/13/investir-dans-l-education-et-la-transition-ecologique-oui-mais-comment-le-financer-le-debat-entre-deux-economistes_6772195_3232.html",
+      "image": "https://img.lemde.fr/2026/09/11/181/0/6732/3366/644/322/60/0/be6cae4_upload-1-esxkcshtd6wm-delatte-foucher.jpg",
+      "publishedAt": "2026-09-13T04:20:06.000Z",
       "sample": false
     },
     {
@@ -291,36 +423,14 @@
       "sample": false
     },
     {
-      "id": "ljyhd2",
-      "title": "Pourquoi la capacité d’absorption de carbone des forêts françaises diminue, alors que leur surface augmente ?",
-      "summary": "EN GRAPHIQUES | Planter des arbres : une bonne solution pour lutter contre le réchauffement climatique. Mais eux aussi dépérissent et, dans le même temps, leur capacité de stockage de CO₂ diminue.",
-      "category": "politics",
+      "id": "khao15",
+      "title": "En Ethiopie, le changement climatique pousse les éleveurs pastoraux à se convertir à l’agriculture vivrière : « C’est loin d’être une solution miracle »",
+      "summary": "Dans le sud-est du pays, les épisodes de sécheresse, toujours plus intenses, menacent l’existence des pasteurs nomades. Certains ont choisi de se sédentariser pour cultiver la terre.",
+      "category": "society",
       "source": "le-monde",
-      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/09/13/pourquoi-la-capacite-d-absorption-de-carbone-des-forets-francaises-diminue-alors-que-leur-surface-augmente_6772194_4355770.html",
-      "image": "https://img.lemde.fr/2026/09/04/1100/0/8256/4128/644/322/60/0/a30d931_upload-1-zvbjejfgtmrp-foretexper-45.jpg",
-      "publishedAt": "2026-09-13T04:15:06.000Z",
-      "sample": false
-    },
-    {
-      "id": "n8ifnw",
-      "title": "Sur les rives du détroit d’Ormuz, des vies entre mer et feu dans l’œil d’un photographe iranien : « Il fallait montrer ce que la guerre leur fait »",
-      "summary": "Dans les îles iraniennes du passage stratégique, la guerre entre les Etats-Unis et l’Iran bouleverse les vies des pêcheurs, des commerçants et des familles liées aux deux rives du golfe Persique. Des répercussions qu’un Iranien – anonymisé pour sa sécurité – donne à voir dans ses clichés.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/detroit-d-ormuz/article/2026/09/13/sur-les-rives-du-detroit-d-ormuz-des-vies-entre-mer-et-feu-dans-l-il-d-un-photographe-iranien-il-fallait-montrer-ce-que-la-guerre-leur-fait_6772182_6671036.html",
-      "image": "https://img.lemde.fr/2026/08/31/766/0/4032/2016/644/322/60/0/172e042_upload-1-vt0lcsvyd3i0-18.jpeg",
-      "publishedAt": "2026-09-13T03:30:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "td3fez",
-      "title": "De la cocaïne dissimulée dans du quinoa : plongée dans le système « El Francés », puissant narcotrafiquant français installé en Colombie",
-      "summary": "Soner Akca, 43 ans, est l’un des rares Français à être devenu un baron de la drogue au pays des cartels. Arrêté à Medellin, en Colombie, le 12 juin, le natif de Montfermeil, surnommé « El Francés », est soupçonné d’avoir organisé un réseau international de trafic de cocaïne chimiquement modifiée en laboratoire pour êtr",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/13/de-la-cocaine-dissimulee-dans-du-quinoa-plongee-dans-le-systeme-el-frances-puissant-narcotrafiquant-francais-installe-en-colombie_6772180_3224.html",
-      "image": "https://img.lemde.fr/2026/09/03/367/66/2457/1229/644/322/60/0/3ab8ede_upload-1-rv4yikle74rs-def180.jpg",
-      "publishedAt": "2026-09-13T03:00:01.000Z",
+      "url": "https://www.lemonde.fr/planete/article/2026/09/13/en-ethiopie-le-changement-climatique-pousse-les-eleveurs-pastoraux-a-se-convertir-a-l-agriculture-vivriere-c-est-loin-d-etre-une-solution-miracle_6772185_3244.html",
+      "image": "https://img.lemde.fr/2026/09/11/504/0/4032/2016/644/322/60/0/6623700_upload-1-jl4ayf04a6tz-ferdusa1.jpg",
+      "publishedAt": "2026-09-13T03:45:09.000Z",
       "sample": false
     },
     {
@@ -332,116 +442,6 @@
       "url": "https://www.france24.com/en/middle-east/20260912-saudi-arabia-shut-down-east-west-pipeline-as-houthis-tighten-grip-on-red-sea",
       "image": "https://s.france24.com/media/display/fcfd196a-ae67-11f1-8755-005056bfb2b6/w:1024/p:16x9/000-C82R6NQ.jpg",
       "publishedAt": "2026-09-12T20:51:50.000Z",
-      "sample": false
-    },
-    {
-      "id": "iza1be",
-      "title": "Céline Dion makes historic Paris comeback, six years after last tour",
-      "summary": "Beloved French Canadian singer Céline Dion on Saturday returned to the stage after years battling a rare neurological disorder with a sell-out concert in an arena west of Paris. The 58-year-old appeared visibly moved as she opened her first full concert in six years to a crowd of around 30,000 people.",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/culture/20260912-c%C3%A9line-dion-makes-historic-comeback-in-paris-six-years-after-last-tour",
-      "image": "https://s.france24.com/media/display/953846a4-aedc-11f1-8d8a-005056bfb2b6/w:1024/p:16x9/000-C8698C2.jpg",
-      "publishedAt": "2026-09-12T20:05:53.000Z",
-      "sample": false
-    },
-    {
-      "id": "tidfz7",
-      "title": "Danish WWII drama wins Golden Lion at Venice Film Festival",
-      "summary": "A Danish WWII drama about a woman trying to hide a wartime relationship with a Nazi was awared top prize on Saturday at The Venice Film Festival, while Gaza documentary NAZA snagged the special jury prize. \"Unknown Woman\" had been a major talking point of the festival due to its subject matter, which has rarely been ex",
-      "category": "military",
-      "source": "france24",
-      "url": "https://www.france24.com/en/culture/20260912-danish-wwii-drama-wins-golden-lion-at-venice-film-festival",
-      "image": "https://s.france24.com/media/display/47bcae04-aede-11f1-963d-005056bfb2b6/w:1024/p:16x9/a8de12fcfc66ea4a9d4c804abe6516a2b6171563.jpg",
-      "publishedAt": "2026-09-12T19:15:14.000Z",
-      "sample": false
-    },
-    {
-      "id": "i1c8ku",
-      "title": "Has Trump Left MBS hanging over Yemen?",
-      "summary": "",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260912-has-trump-left-mbs-hanging-over-yemen",
-      "image": "https://s.france24.com/media/display/5bb16bbe-85d2-11f1-9368-005056bf30b7/w:1024/p:16x9/AP17270487406383.jpg",
-      "publishedAt": "2026-09-12T18:49:43.000Z",
-      "sample": false
-    },
-    {
-      "id": "mj0os8",
-      "title": "Tens of thousands protest against far-right AfD party in Germany",
-      "summary": "About 150,000 demonstrators took to the streets in around 20 cities across Germany on Saturday against the far-right AfD, after the party scored a crushing victory in a state election last week. The Alternative for Germany (AfD) topped the vote in the eastern region of Saxony-Anhalt, and is now seeking to form the firs",
-      "category": "society",
-      "source": "france24",
-      "url": "https://www.france24.com/en/europe/20260912-tens-of-thousands-of-people-protest-in-germany-against-far-right-afd",
-      "image": "https://s.france24.com/media/display/83bf7692-aecb-11f1-b02e-005056a97e36/w:1024/p:16x9/000-C84J6TY.jpg",
-      "publishedAt": "2026-09-12T17:12:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "i6kasq",
-      "title": "Budget 2027 : le gouvernement propose des mesures pour faciliter les transmissions familiales",
-      "summary": "Ces mesures sont envisagées pour le projet de loi de finances 2027, dans une note intitulée « Transmissions 2027 », consultée par « Le Monde ». Si elles sont susceptibles de faire baisser l’âge du premier héritage, elles contribueraient plus globalement à la réduction des droits de succession.",
-      "category": "economy",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/12/budget-2027-le-gouvernement-propose-des-mesures-pour-faciliter-les-transmissions-familiales_6771777_823448.html",
-      "image": "https://img.lemde.fr/2026/09/10/476/0/5709/2854/644/322/60/0/06b2f16_ftp-1-1fb4iq8jgm6g-5047609-01-06.jpg",
-      "publishedAt": "2026-09-12T17:02:16.000Z",
-      "sample": false
-    },
-    {
-      "id": "r7tpo9",
-      "title": "France beats Germany to reach first women's World Cup basketball final",
-      "summary": "France beat Germany Saturday and made it through to the final of the women's basketball World Cup for the first time after a 86-64 victory. Gabby Williams top scored with 22 points for the Olympic silver medalists, who kept their unbeaten record at the tournament alive before Sunday's decider in Berlin.",
-      "category": "health",
-      "source": "france24",
-      "url": "https://www.france24.com/en/sport/20260912-france-beats-germany-to-reach-first-women-s-world-cup-basketball-final",
-      "image": "https://s.france24.com/media/display/45021f36-aecb-11f1-a760-005056bfb2b6/w:1024/p:16x9/910c80ddb00ea0be9c2d7dfc0de3334dff10b052.jpg",
-      "publishedAt": "2026-09-12T16:29:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "hyto8",
-      "title": "Kenya: Crocodiles pushed towards homes by rising lakes",
-      "summary": "Climate change is forcing Kenya's wildlife officers to go on a crocodile hunt on the shores of Lake Baringo in a bid to curb growing human-wildlife conflict. Lakes in Kenya's Rift Valley have risen to levels not seen in at least half a century, pushing the reptiles towards human homes. Officers are tasked with trapping",
-      "category": "military",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20260912-kenya-crocodiles-pushed-towards-homes-by-rising-lakes",
-      "image": "https://s.france24.com/media/display/5011a466-ae9c-11f1-906f-005056a90284/w:1024/p:16x9/EN-20260911-215340-215521-CS.jpg",
-      "publishedAt": "2026-09-12T15:51:07.000Z",
-      "sample": false
-    },
-    {
-      "id": "n5lf54",
-      "title": "Trump in Ireland: What are Irish people saying about the visit?",
-      "summary": "US President Donald Trump held talks Saturday in Dublin with his Irish counterpart Catherine Connolly during a weekend visit that's more about a major golf tournament hosted on a course he owns on the country's Atlantic coast. He also met with Ireland's Prime Minister Micheál Martin. We discuss that with Gavin Cooney, ",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20260912-trump-in-ireland-what-are-irish-people-saying-about-the-visit",
-      "image": "https://s.france24.com/media/display/81b97d4e-aec0-11f1-a92c-005056a90284/w:1024/p:16x9/EN-20260912-091018-091909-CS.jpg",
-      "publishedAt": "2026-09-12T15:50:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "a9phsp",
-      "title": "'The excitement is just too much!': Céline Dion poised for emotional comeback in Paris",
-      "summary": "Celine Dion was set to make her long-awaited return to the stage in Paris on Saturday after years of battling a rare neurological disorder, with anticipation among fans reaching fever pitch. \"The excitement is just too much!\" a fan told our journalist Jennifer Ben Brahim.",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20260912-the-excitement-is-just-too-much-celine-dion-poised-for-emotional-comeback-in-paris",
-      "image": "https://s.france24.com/media/display/a13c5b20-aebe-11f1-93cd-005056bf30b7/w:1024/p:16x9/EN-20260912-170943-171329-CS.jpg",
-      "publishedAt": "2026-09-12T15:49:05.000Z",
-      "sample": false
-    },
-    {
-      "id": "u2x101",
-      "title": "French police suspect train derailment was sabotage",
-      "summary": "French investigators suspect sabotage was behind a train derailment in northwestern France that injured 44 people and left passengers in a state of shock, prosecutors said on Saturday.",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20260912-french-police-suspect-train-derailment-was-sabotage",
-      "image": "https://s.france24.com/media/display/627e556a-aebd-11f1-9683-005056a97e36/w:1024/p:16x9/EN-20260912-161002-161159-CS.jpg",
-      "publishedAt": "2026-09-12T15:47:35.000Z",
       "sample": false
     }
   ],

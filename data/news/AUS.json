@@ -2,8 +2,41 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-09-13T12:17:58.227Z",
+  "updatedAt": "2026-09-13T18:16:34.654Z",
   "daily": [
+    {
+      "id": "h2f71y",
+      "title": "Piastri hit twice on first lap, Antonelli wins thanks to safety car luck",
+      "summary": "Oscar Piastri and George Russell made contact with each other twice before the first corner, as Kimi Antonelli took full advantage of a fortunate safety car to win the Formula 1 Spanish Grand Prix.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-14/f1-spanish-grand-prix-piastri-eighth-antonelli-wins/106998642",
+      "image": null,
+      "publishedAt": "2026-09-13T15:25:16.000Z",
+      "sample": false
+    },
+    {
+      "id": "ulk8r7",
+      "title": "'Put them together': Trump reiterates call for unified Ireland after UK dismissal",
+      "summary": "US President Donald Trump has vowed to pay a dividend if the Republican Party keeps control of Congress after mid-term elections.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-14/irish-reunification-natural-trump-says/107148712",
+      "image": null,
+      "publishedAt": "2026-09-13T15:20:29.000Z",
+      "sample": false
+    },
+    {
+      "id": "omt0yk",
+      "title": "Russian strike on Ukraine-Poland border shows war at Europe's 'doorstep'",
+      "summary": "Ukraine's Foreign Minister Andrii Sybiha warns that war is 'knocking' at Europe's door after fresh Russian strikes in the small town of Yahodyn, just 2km from the Polish border.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-13/russian-strike-on-ukraine-poland-border-stirs-fears-of-war/107148616",
+      "image": null,
+      "publishedAt": "2026-09-13T12:43:00.000Z",
+      "sample": false
+    },
     {
       "id": "9e23oe",
       "title": "Cowboys back in the saddle as Alice Springs Rodeo returns",
@@ -94,8 +127,8 @@
     },
     {
       "id": "c5owcu",
-      "title": "Six dead, 130 missing as passenger ship hits bad weather",
-      "summary": "Communication was lost with an Indonesian passenger ship carrying more than 240 people in the Java Sea. Rescuers say 113 have been evacuated",
+      "title": "Six dead, 129 missing after Indonesian ferry hits bad weather",
+      "summary": "The passenger ship, carrying 243 people, had departed from Surabaya, Indonesia's second-largest city in East Java, and was bound for Banjarmasin in Kalimantan.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-09-13/search-underway-for-indonesian-passenger-ship/107148298",
@@ -244,39 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-09-13/warriors-moved-to-eden-park-for-knights-showdown/107147918",
       "image": null,
       "publishedAt": "2026-09-13T01:54:22.000Z",
-      "sample": false
-    },
-    {
-      "id": "ptjzr6",
-      "title": "Wells willing to change digital harm proposal to win Coalition support",
-      "summary": "Communications Minister Anika Wells responds to criticism about proposed new ministerial powers to designate what constitutes serious online harm, saying she is open to changing the bill.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-13/wells-willing-to-change-digital-harm-bill/107147806",
-      "image": null,
-      "publishedAt": "2026-09-13T01:31:24.000Z",
-      "sample": false
-    },
-    {
-      "id": "38iwnz",
-      "title": "Immigrants wary of becoming political fodder as migration debate heats up",
-      "summary": "An expert argues the migration debate is fixated on the wrong number, while regional Australia calls for a national settlement strategy.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-13/migration-debate-heats-up/107143444",
-      "image": null,
-      "publishedAt": "2026-09-13T01:28:49.000Z",
-      "sample": false
-    },
-    {
-      "id": "83yvyo",
-      "title": "Police search for two suspects after 'targeted' shooting in Hamilton Hill",
-      "summary": "Police say there is no information to suggest the shooting was related to organised motorcycle gangs or illegal tobacco.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-13/man-shot-in-perth-hamilton-hill-police-in-manhunt-two-suspects/107147886",
-      "image": null,
-      "publishedAt": "2026-09-13T01:27:27.000Z",
       "sample": false
     }
   ],

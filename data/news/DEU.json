@@ -2,12 +2,34 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-13T12:17:54.124Z",
+  "updatedAt": "2026-09-13T18:16:31.066Z",
   "daily": [
+    {
+      "id": "hyx3gk",
+      "title": "Turkey: 162 arrested in LGBTQ+ raids",
+      "summary": "Turkish authorities have arrested at least 162 people in a weekend crackdown on the country's LGBTQ+ community. Ankara says police raids on gay bars and other venues are aimed at protecting family values.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/turkey-162-arrested-in-lgbtq-raids/a-79251409?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-13T13:14:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "yy7k7c",
+      "title": "Ukraine, Poland say Russia hit Warsaw-bound passenger train",
+      "summary": "The strike hit a locomotive of a passenger train headed to Warsaw with reports that senior Western figures were at the station shortly before the attack.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-poland-say-russia-hit-warsaw-bound-passenger-train/a-79251428?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-13T12:55:00.000Z",
+      "sample": false
+    },
     {
       "id": "ilovx8",
       "title": "Russians on the Goethe-Institut: 'Hostage to politics'",
-      "summary": "Canceled language exams, disrupted plans to study in Germany, and the disappearance of an important cultural link: DW users shared how the closure of Germany's Goethe-Institut in Russia affects their lives.",
+      "summary": "Canceled language exams, disrupted plans to study in Germany and the disappearance of an important cultural link: DW users shared how the closure of Germany's Goethe-Institut in Russia has affected their lives.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/russians-on-the-goethe-institut-hostage-to-politics/a-79218936?maca=en-rss-en-all-1573-xml-mrss",
@@ -113,7 +135,9 @@
       "image": null,
       "publishedAt": "2026-09-12T20:45:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "73dg4a",
       "title": "Why are European banks moving gold out of United States?",
@@ -135,9 +159,7 @@
       "image": null,
       "publishedAt": "2026-09-12T15:01:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "4ie2tq",
       "title": "Bulgaria: Fire at factory making munitions for Ukraine",
@@ -202,28 +224,6 @@
       "url": "https://www.dw.com/en/brazil-flavio-bolsonaro-faces-corruption-probe-weeks-before-election/a-79242561?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-12T09:37:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "x27n3u",
-      "title": "Corals as climate archive: Are El Ninos intensifying?",
-      "summary": "Records from the past few decades show that, during this period, El Nino events have been frequent and often extreme. But is this normal, or is it the result of climate change? Corals can give us a clear indication.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/corals-as-climate-archive-are-el-ninos-intensifying/a-79243425?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-12T08:53:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "xwpdnp",
-      "title": "Uber leaves two key African markets — and their drivers in despair",
-      "summary": "Uber's departure from Nigeria and Uganda has left countless customers high and dry. But what about drivers? With fuel prices, maintenance, and other operating costs rising, many say they're struggling to make a living.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/uber-leaves-two-key-african-markets-and-their-drivers-in-despair/a-79232189?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-12T07:56:00.000Z",
       "sample": false
     },
     {
