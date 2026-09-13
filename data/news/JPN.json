@@ -2,8 +2,30 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-12T18:17:55.423Z",
+  "updatedAt": "2026-09-13T00:21:23.683Z",
   "daily": [
+    {
+      "id": "p3l64t",
+      "title": "Despite population decline, Rishiri Island’s kombu harvest goes on",
+      "summary": "Prized for its clean flavor, the kombu harvested off of remote Rishiri Island takes a village to farm, dry and cut.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/life/2026/09/13/food-drink/kombu-rishiri-island-hokkaido-harvest-future/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/11/thumbs/400x400/560569.jpg",
+      "publishedAt": "2026-09-12T23:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "607b0l",
+      "title": "Japan’s homegrown peppers can pack an unsuspecting punch",
+      "summary": "With names like \"hawk's talons\" and \"lion's head,\" these popular peppers are a great way to eat more veggies with a kick.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/life/2026/09/13/food-drink/japanese-peppers-recipe-stir-fry-summer-vegetables/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/11/thumbs/400x400/561590.jpg",
+      "publishedAt": "2026-09-12T23:00:00.000Z",
+      "sample": false
+    },
     {
       "id": "30ob49",
       "title": "Trump envoys arrive in Kyiv in new push to end Russia’s war",
@@ -190,7 +212,9 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/12/thumbs/400x400/562652.jpg",
       "publishedAt": "2026-09-12T01:21:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "nknh1",
       "title": "How to make the ‘downgraded’ Seishun 18 ticket work for you",
@@ -212,9 +236,7 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/11/thumbs/400x400/562208.jpg",
       "publishedAt": "2026-09-11T23:00:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "603df6",
       "title": "Koizumi says Japan not ruling out nuclear subs, days after U.S. offers positive view",
@@ -312,28 +334,6 @@
       "url": "https://www.japantimes.co.jp/environment/2026/09/11/climate-change/chiba-rain-analysis/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/11/thumbs/400x400/562600.jpg",
       "publishedAt": "2026-09-11T07:36:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "h4jh53",
-      "title": "Some analysts forecast the yen going to ¥150 to the dollar, others not so sure",
-      "summary": "Japan's currency is being buffeted by many forces, and debate rages as to whether the tide has turned.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/11/markets/yen-key-levels/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/11/thumbs/400x400/562612.jpg",
-      "publishedAt": "2026-09-11T07:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "obc1bk",
-      "title": "Russian screening of Soviet-era film to tiny audience in Taipei alarms Taiwan",
-      "summary": "Taipei believes Russia, in showing the documentary called \"Smashing Militarist Japan,\" is helping China push its \"new militarism\" line against Japan.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/11/asia-pacific/politics/russia-soviet-film-taiwan-japan/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/11/thumbs/400x400/562582.jpg",
-      "publishedAt": "2026-09-11T07:11:00.000Z",
       "sample": false
     }
   ],

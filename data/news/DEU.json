@@ -2,17 +2,39 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-12T18:17:50.476Z",
+  "updatedAt": "2026-09-13T00:21:20.825Z",
   "daily": [
+    {
+      "id": "nwnjco",
+      "title": "Anthropic boss Dario Amodei calls for AI slowdown",
+      "summary": "Elon Musk and OpenAI chief Sam Altman say they agree with Amodei's view that safety measures need time to catch up to AI's rapid development, after a recent hacking incident by AI agents.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/anthropic-boss-dario-amodei-calls-for-ai-slowdown/a-79247690?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-12T23:32:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "b79mi0",
+      "title": "Germany news: Thousands protest against AfD in Düsseldorf",
+      "summary": "Police said around 20,000 people demonstrated in Düsseldorf under the slogan \"Not a Step Back!\" to protest the Alternative for Germany (AfD) party and right-wing hate speech. DW has more.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-thousands-protest-against-afd-in-düsseldorf/live-79223427?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-12T23:18:00.000Z",
+      "sample": false
+    },
     {
       "id": "k5gfna",
       "title": "Baghdad confirms attack on Saudi pipeline came from Iraq",
-      "summary": "Saudi Arabia has said it will not relatiate and wants Iraq to \"take the necessary measures.\" Baghdad is under pressure from the United States to rein in Iran-backed militias.",
+      "summary": "Saudi Arabia has said it will not retaliate and wants Iraq to \"take the necessary measures.\" Baghdad is under pressure from the United States to rein in Iran-backed militias.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/baghdad-confirms-attack-on-saudi-pipeline-came-from-iraq/a-79247086?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-09-12T17:36:00.000Z",
+      "publishedAt": "2026-09-12T20:45:00.000Z",
       "sample": false
     },
     {
@@ -157,7 +179,9 @@
       "image": null,
       "publishedAt": "2026-09-12T05:46:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "9pgy0q",
       "title": "France: Sabotage suspected in train derailment",
@@ -168,9 +192,7 @@
       "image": null,
       "publishedAt": "2026-09-11T21:01:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "5nlf6g",
       "title": "Ukraine: Russian strike on Kyiv gas station kills 2",
@@ -202,28 +224,6 @@
       "url": "https://www.dw.com/en/iran-pursues-cautious-escalation-ahead-of-us-midterms/a-79237061?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-11T14:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "b4ea1b",
-      "title": "India's BRICS strategy tested with Xi, Putin set to visit",
-      "summary": "New Delhi's \"America Plus\" approach sees India deepening its ties with China and Russia, while also trying to keep BRICS from turning into an anti-Western platform.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-s-brics-strategy-tested-with-xi-putin-set-to-visit/a-79231879?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T13:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "tvpqi0",
-      "title": "Iran war: Saudi-Houthi escalation intensifies Yemen conflict",
-      "summary": "The Houthi takeovers of Mokha, Dhubab and Perim in the Bab el-Mandeb Strait threaten to push Yemen deeper into the Middle East war. The Iran-backed group has made advances against Yemen's government and Saudi Arabia.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/iran-war-saudi-houthi-escalation-intensifies-yemen-conflict/a-79226627?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T11:52:00.000Z",
       "sample": false
     },
     {
