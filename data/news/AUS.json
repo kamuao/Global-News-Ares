@@ -2,8 +2,52 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-09-14T12:20:21.303Z",
+  "updatedAt": "2026-09-14T18:17:03.394Z",
   "daily": [
+    {
+      "id": "rb9jmd",
+      "title": "Scottish, Welsh and Northern Irish leaders unite in push to leave UK",
+      "summary": "The leaders of Sinn Féin, SNP and Plaid Cymru hold a joint press conference, days after US President Donald Trump said he backed Irish unity.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-15/scottish-welsh-and-northern-irish-leaders-push-to-leave-uk/107153268",
+      "image": null,
+      "publishedAt": "2026-09-14T17:33:43.000Z",
+      "sample": false
+    },
+    {
+      "id": "boncnc",
+      "title": "Trump says a 'high IQ president' is the only guardrail AI needs",
+      "summary": "As pressure builds in Washington for action on AI following a flurry of doomsday warnings, Donald Trump claims there is a \"sick conspiracy\" against the technology.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-15/trump-says-a-high-iq-president-is-the-only-guardrail-ai-needs/107153326",
+      "image": null,
+      "publishedAt": "2026-09-14T17:27:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "20axmd",
+      "title": "Putin’s border drone strikes show ‘desperation’, NATO chief says",
+      "summary": "A Russian strike on the Ukraine-Poland border just missed a train carrying diplomats, including former British prime minister Boris Johnson and former Swedish prime minister Carl Bildt.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-15/nato-chief-promises-more-aid-for-ukraine/107153166",
+      "image": null,
+      "publishedAt": "2026-09-14T17:21:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "iu0jdj",
+      "title": "Joyce dismisses threats of 'tanked economy' from negative migration rates",
+      "summary": "One Nation's treasury spokesperson Barnaby Joyce says his party is prepared to put the will of the people ahead of the opinions of economists, as he faces claims on ABC's National Forum that net negative migration would \"tank\" Australia's economy.",
+      "category": "economy",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-14/joyce-net-migration-tanked-economy-will-voters/107152378",
+      "image": null,
+      "publishedAt": "2026-09-14T12:40:21.000Z",
+      "sample": false
+    },
     {
       "id": "oe9eok",
       "title": "Local government inspector launches probe into City of Perth",
@@ -233,50 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-09-14/indigenous-leaders-condemn-pauline-hanson/107151108",
       "image": null,
       "publishedAt": "2026-09-14T05:38:39.000Z",
-      "sample": false
-    },
-    {
-      "id": "d7m7p2",
-      "title": "Girl dies after suspected overdose in Qld state care",
-      "summary": "A girl has died following a suspected drug overdose in Queensland state care.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-14/girl-dies-after-suspected-drug-overdose-qld-residential-care/107150194",
-      "image": null,
-      "publishedAt": "2026-09-14T05:33:08.000Z",
-      "sample": false
-    },
-    {
-      "id": "8uwr98",
-      "title": "Why the NRLW finals are all about one question",
-      "summary": "After completing the most dominant regular season in NRLW history, the big question around the Sydney Roosters is simple: can anyone hope to stop them?",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-14/nrlw-finals-sydney-roosters-gold-coast-titans/107151252",
-      "image": null,
-      "publishedAt": "2026-09-14T05:21:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "d437cg",
-      "title": "Sydney band attempts world record for most gigs in 12 hours",
-      "summary": "A delayed helicopter, a faulty plane and Sydney traffic were not enough to deter the duo, who finished the attempt with 15 seconds to spare.",
-      "category": "health",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-14/sydney-band-fathom-attempts-most-gigs-world-record/107150030",
-      "image": null,
-      "publishedAt": "2026-09-14T05:13:33.000Z",
-      "sample": false
-    },
-    {
-      "id": "8zj84w",
-      "title": "Donald Trump reiterates support for united Ireland, won't talk about Scotland 'yet'",
-      "summary": "Donald Trump reiterates his support for Northern Ireland breaking from the United Kingdom to unify with the Republic of Ireland.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-14/donald-trump-reiterates-support-for-united-ireland/107149778",
-      "image": null,
-      "publishedAt": "2026-09-14T05:09:12.000Z",
       "sample": false
     }
   ],

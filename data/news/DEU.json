@@ -2,8 +2,118 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-14T12:20:17.966Z",
+  "updatedAt": "2026-09-14T18:16:57.383Z",
   "daily": [
+    {
+      "id": "3ufi65",
+      "title": "Trump seeks halt to energy attacks by both Russia, Ukraine",
+      "summary": "Donald Trump, under fire for record US diesel prices, claims Russia and Ukraine have agreed to stop striking energy targets. Russia said nothing, Ukraine said \"we expect specifics from our partners\" on any such move.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/trump-seeks-halt-to-energy-attacks-by-both-russia-ukraine/a-79265774?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-14T17:59:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rezg17",
+      "title": "Donald Trump dismisses concerns about dangers of AI",
+      "summary": "The president called efforts to slow the development of artificial intelligence a \"sick conspiracy,\" claiming they only serve China. Market leaders have warned of the dangers of the pace of the technology's development.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/donald-trump-dismisses-concerns-about-dangers-of-ai/a-79264523?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-14T15:54:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "jqk2xt",
+      "title": "Yemen's Houthis attack Saudis, seize crucial Red Sea islands",
+      "summary": "Iran-backed Houthi rebels have tightened their grip on a key shipping route, capturing two strategic Red Sea islands. The closure of another global transport route is the latest ripple effect of the US war with Iran.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/yemen-s-houthis-attack-saudis-seize-crucial-red-sea-islands/a-79263838?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-14T15:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "g3x57l",
+      "title": "Ukraine, Russia set for new round of US-mediated talks",
+      "summary": "New trilateral talks between Ukraine, Russia and the US could begin in October, according to Kyiv and Moscow. Few expect a breakthrough, but Ukraine is seeking a partial de-escalation to help it get through the winter.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-russia-set-for-new-round-of-us-mediated-talks/a-79261147?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-14T15:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "d1u6dy",
+      "title": "Women's Basketball World Cup: Can Germany harness a boom?",
+      "summary": "Germany thrilled fans at the Women's Basketball World Cup. But even if this sparked a boom in the women's game, the infrastructure simply isn't ready for it.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/women-s-basketball-world-cup-can-germany-harness-a-boom/a-79263602?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-14T15:07:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "dvpf5m",
+      "title": "IPO 'for the people' is out of reach for many in Nigeria",
+      "summary": "Dangote seeks $1.6 billion from investors to finance a $14.3 billion expansion and thus double the oil refinery's capacity. The offer could give millions of Nigerians a stake in the company. But who can truly afford it?",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ipo-for-the-people-is-out-of-reach-for-many-in-nigeria/a-79263398?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-14T14:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "y4nt1",
+      "title": "Germany news: Merz urges CDU discipline as pressure grows",
+      "summary": "Chancellor Friedrich Merz has urged his party to stay disciplined as pressure grows over his leadership. Meanwhile, Germany's homeownership rate has fallen to its lowest level in 20 years. DW has the latest.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-merz-urges-cdu-discipline-as-pressure-grows/live-79256902?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-14T13:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "qrt6b9",
+      "title": "Ukraine: AfD questions German aid, Berlin remains committed",
+      "summary": "Emboldened by its win in Saxony-Anhalt, the far-right Alternative for Germany wants the government to change its Ukraine and Russia policies. Berlin is staying the course, but support is fading — especially in the east.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-afd-questions-german-aid-berlin-remains-committed/a-79257524?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-14T12:46:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "zg1z8c",
+      "title": "The Crusades: How a medieval Holy War still shapes politics",
+      "summary": "In 1095, the Catholic Church launched the Crusades: wars that left millions dead and whose legacy still shapes political and ideological conflicts.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/the-crusades-how-a-medieval-holy-war-still-shapes-politics/a-79203784?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-14T12:43:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fr4ygr",
+      "title": "Nepal: thousands still missing as flood recovery begins",
+      "summary": "The Himalayan nation is moving from rescue operations to recovery, facing a $4.8 billion reconstruction bill amid renewed calls for climate justice.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/nepal-thousands-still-missing-as-flood-recovery-begins/a-79259980?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-14T12:18:00.000Z",
+      "sample": false
+    },
     {
       "id": "q4uchu",
       "title": "EU leaders urge unity after Russian strike on train",
@@ -16,31 +126,20 @@
       "sample": false
     },
     {
-      "id": "9ezu1r",
-      "title": "Berlin businesswoman charged over alleged spying for Russia",
+      "id": "ts11oi",
+      "title": "Berlin businesswoman charged with spying for Russia",
       "summary": "Prosecutors say the Berlin marketing executive used her political and military contacts to help a Russian intelligence officer gain access to influential circles and seek information on German defense policy.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/berlin-businesswoman-charged-over-alleged-spying-for-russia/a-79258004?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/berlin-businesswoman-charged-with-spying-for-russia/a-79258004?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-14T11:09:00.000Z",
       "sample": false
     },
     {
-      "id": "665mry",
-      "title": "Germany news: Foreign minister seeks reset with Hungary",
-      "summary": "German Foreign Minister Johann Wadephul is visiting Hungary as Berlin seeks to rebuild relations with Budapest. Meanwhile, Germany's homeownership rate has fallen to its lowest level in 20 years. DW has the latest.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-foreign-minister-seeks-reset-with-hungary/live-79256902?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T10:53:00.000Z",
-      "sample": false
-    },
-    {
       "id": "bmjbk8",
       "title": "India women's team refuse Asia Cup cricket trophy from Pakistan minister",
-      "summary": "India's women's cricket team skipped the trophy presentation with Pakistani minister Mohsin Naqvi after beating Sri Lanka to win a record eighth Asia Cup title. DW has more.",
+      "summary": "After beating Sri Lanka to win a record eighth Asia Cup title, the Indian women's cricket team skipped the trophy presentation with Pakistani Interior Minister Mohsin Naqvi.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/india-women-s-team-refuse-asia-cup-cricket-trophy-from-pakistan-minister/live-79254950?maca=en-rss-en-all-1573-xml-mrss",
@@ -128,56 +227,12 @@
     {
       "id": "3s4xfv",
       "title": "Germany: Merz's CDU comes out on top in Lower Saxony polls",
-      "summary": "The Christian Democrats have emerged as the strongest party at local elections in the state of Lower Saxony. The vote was closely watched as an indicator of the strength of the far-right AfD, which came in third.",
+      "summary": "The Christian Democrats have emerged as the strongest party following local elections in the state of Lower Saxony. The vote was closely watched as an indicator of the strength of the far-right AfD, which came in third.",
       "category": "society",
       "source": "dw",
       "url": "https://www.dw.com/en/germany-merz-s-cdu-comes-out-on-top-in-lower-saxony-polls/a-79254724?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-14T06:09:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "69dfaa",
-      "title": "Cuban dance teacher ordered EU sabotage attacks from Russia",
-      "summary": "In 2024, a Cuban man coordinated a series of arson attacks in four EU countries while operating on behalf of Russian intelligence services. DW Investigations tracked him back to a Latin dance studio in Russia.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/cuban-dance-teacher-ordered-eu-sabotage-attacks-from-russia/a-79225946?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T05:19:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5jqic7",
-      "title": "Trump dismisses report China supplied intel to Iran",
-      "summary": "The US president downplayed reports that Chinese entities had given Iran satellite imagery before a strike on a military base in Jordan that killed three American soldiers.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/trump-dismisses-report-china-supplied-intel-to-iran/a-79254419?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T03:32:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ez6xwi",
-      "title": "Sweden election 'very close' as left bloc claims tight lead",
-      "summary": "The center-left opposition is narrowly ahead of the incumbent's right-wing bloc and could be poised to return to government after four years. The far-right Sweden Democrats surprisingly lost ground.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/sweden-election-very-close-as-left-bloc-claims-tight-lead/a-79248599?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T02:04:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "eprg17",
-      "title": "Germany: CDU ahead in Lower Saxony local election",
-      "summary": "The CDU is on course to win in municipal polls in the northwestern state of Lower Saxony that were seen as a gauge of support for the far-right AfD party.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-cdu-ahead-in-lower-saxony-local-election/live-79223427?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T00:12:00.000Z",
       "sample": false
     },
     {
@@ -189,28 +244,6 @@
       "url": "https://www.dw.com/en/germany-s-zverev-wins-us-open-in-golden-year/a-79212706?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-13T22:03:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "hyx3gk",
-      "title": "Turkey: 162 arrested in LGBTQ+ raids",
-      "summary": "Turkish authorities have arrested at least 162 people in a weekend crackdown on the country's LGBTQ+ community. Ankara says police raids on gay bars and other venues are aimed at protecting family values.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/turkey-162-arrested-in-lgbtq-raids/a-79251409?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-13T13:14:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "yy7k7c",
-      "title": "Ukraine, Poland say Russia hit Warsaw-bound passenger train",
-      "summary": "The strike hit a locomotive of a passenger train headed to Warsaw with reports that senior Western figures were at the station shortly before the attack.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ukraine-poland-say-russia-hit-warsaw-bound-passenger-train/a-79251428?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-13T12:55:00.000Z",
       "sample": false
     }
   ],
@@ -249,12 +282,12 @@
       "sample": false
     },
     {
-      "id": "x27n3u",
-      "title": "Corals as climate archive: Are El Ninos intensifying?",
-      "summary": "Records from the past few decades show that, during this period, El Nino events have been frequent and often extreme. But is this normal, or is it the result of climate change? Corals can give us a clear indication.",
+      "id": "5hnmmr",
+      "title": "Corals as climate archive: Are El Nino events intensifying?",
+      "summary": "Records show that El Nino events have been frequent and often extreme over the past few decades. Is this normal? Or is it the result of climate change? Corals can give us a clear indication.",
       "category": "environment",
       "source": "dw",
-      "url": "https://www.dw.com/en/corals-as-climate-archive-are-el-ninos-intensifying/a-79243425?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/corals-as-climate-archive-are-el-nino-events-intensifying/a-79243425?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-12T08:53:00.000Z",
       "sample": false
@@ -543,72 +576,6 @@
       "url": "https://www.dw.com/en/egg-freezing-in-women-s-football-choice-or-pressure/a-79145259?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-08T06:45:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lu0q5z",
-      "title": "Werner Herzog: Germany's wild man of cinema is back",
-      "summary": "As his latest movie, \"Bucking Fastard,\" premiered at the Venice Film Festival, DW talked to the boundary-breaking director.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/werner-herzog-germany-s-wild-man-of-cinema-is-back/a-78949324?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-07T16:41:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "seowex",
-      "title": "Nicaragua challenges German arms exports to Israel at ICJ",
-      "summary": "Germany has asked the International Court of Justice to dismiss the case on jurisdiction grounds. It also said its arms exports to Israel were documented, published, and subject to more stringent checks than most.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/nicaragua-challenges-german-arms-exports-to-israel-at-icj/a-79148044?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-07T16:26:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "3zztup",
-      "title": "Saxony-Anhalt: Germany wakes up to 'unsettling' AfD victory",
-      "summary": "The far-right Alternative for Germany (AfD) party won the Saxony-Anhalt state election but without an absolute majority in parliament. Other European nations were wrestling with the impact of the results. Follow DW.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-07T16:14:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "k6kui5",
-      "title": "AfD wants to form a government in Saxony-Anhalt — but how?",
-      "summary": "Following its record election success, the far-right Alternative for Germany aims to form a government. What options does it have without the absolute majority?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/afd-wants-to-form-a-government-in-saxony-anhalt-but-how/a-79107331?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-07T16:09:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5wwc29",
-      "title": "War criminal Ratko Mladic buried with military honors in Belgrade, Serbia",
-      "summary": "Ratko Mladic, the former Bosnian Serb commander convicted of genocide in Srebrenica, has been buried in Belgrade. The funeral, broadcast live on TV, comes just days before President Vucic is expected to call an election.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/war-criminal-ratko-mladic-buried-with-military-honors-in-belgrade-serbia/a-79148678?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-07T15:03:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rkb03v",
-      "title": "Chancellor Merz says AfD result 'changes all of Germany'",
-      "summary": "A visibly shaken but also determined Friedrich Merz spoke in Berlin about the AfD's election victory in Saxony-Anhalt and the CDU's bitter defeat. He insisted on sticking to his reforms.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/chancellor-merz-says-afd-result-changes-all-of-germany/a-79150560?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-07T15:01:00.000Z",
       "sample": false
     }
   ],
