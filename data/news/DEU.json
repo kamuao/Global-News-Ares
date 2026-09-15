@@ -2,23 +2,45 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-15T00:21:51.921Z",
+  "updatedAt": "2026-09-15T06:20:25.750Z",
   "daily": [
+    {
+      "id": "dejsqs",
+      "title": "US scraps greenhouse gas rules for power plants",
+      "summary": "The Environmental Protection Agency said it was repealing Biden-era limits on emissions made by power plants, in the \"largest power sector deregulation action ever.\"",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-scraps-greenhouse-gas-rules-for-power-plants/a-79268393?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T05:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "81zs23",
+      "title": "NATO jets shoot down drone over Lithuania",
+      "summary": "Lithuania has reported frequent drone incursions since Moscow launched its war against Ukraine. Lithuanian media reports suggest the drone was coming from Russia ally Belarus.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/nato-jets-shoot-down-drone-over-lithuania/a-79267975?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T04:16:00.000Z",
+      "sample": false
+    },
     {
       "id": "bk2tj8",
       "title": "US Supreme Court denies Trump bid to restrict mail-in ballots",
-      "summary": "The court said election officials do not have sufficient time to implement the rule before the November midterms.",
+      "summary": "The court said election officials do not have sufficient time to implement the rule before the November midterms. Trump has argued, without providing evidence, that the system is vulnerable to fraud.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/us-supreme-court-denies-trump-bid-to-restrict-mail-in-ballots/a-79267854?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-09-15T00:09:00.000Z",
+      "publishedAt": "2026-09-15T01:38:00.000Z",
       "sample": false
     },
     {
       "id": "y4nt1",
       "title": "Germany news: Merz urges CDU discipline as pressure grows",
-      "summary": "Chancellor Friedrich Merz has urged his party to stay disciplined as pressure grows over his leadership. Meanwhile, Germany's homeownership rate has fallen to its lowest level in 20 years. DW has the latest.",
+      "summary": "Chancellor Friedrich Merz has urged his party to stay disciplined as pressure grows over his leadership. Meanwhile, Germany's homeownership rate has fallen to its lowest level in 20 years.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/germany-news-merz-urges-cdu-discipline-as-pressure-grows/live-79256902?maca=en-rss-en-all-1573-xml-mrss",
@@ -40,7 +62,7 @@
     {
       "id": "yrwkkv",
       "title": "Arctic power plays: EU searches for a new strategy",
-      "summary": "Russia’s aggression, Trump’s threats against Greenland and the race for critical raw materials are pushing the Arctic to the top of Europe’s agenda.",
+      "summary": "Russia's aggression, Trump's threats against Greenland and the race for critical raw materials are pushing the Arctic to the top of Europe's agenda.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/arctic-power-plays-eu-searches-for-a-new-strategy/a-79266739?maca=en-rss-en-all-1573-xml-mrss",
@@ -139,7 +161,7 @@
     {
       "id": "fr4ygr",
       "title": "Nepal: thousands still missing as flood recovery begins",
-      "summary": "The Himalayan nation is moving from rescue operations to recovery, facing a $4.8 billion reconstruction bill amid renewed calls for climate justice.",
+      "summary": "The Himalayan nation is moving from rescue operations to recovery, facing a $4.8 (€4.2) billion reconstruction bill amid renewed calls for climate justice.",
       "category": "environment",
       "source": "dw",
       "url": "https://www.dw.com/en/nepal-thousands-still-missing-as-flood-recovery-begins/a-79259980?maca=en-rss-en-all-1573-xml-mrss",
@@ -203,28 +225,6 @@
       "sample": false
     },
     {
-      "id": "up62jp",
-      "title": "Finland: EU leaders meet to forge new Arctic policy",
-      "summary": "European leaders are meeting over shipping, resources and security in the region amid pressure from the US, China and Russia. The EU sees the Arctic as key to its future security as melting ice makes it more accessible.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/finland-eu-leaders-meet-to-forge-new-arctic-policy/a-79256956?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T09:32:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "7q7d2e",
-      "title": "North Korea says recent drill shows 'huge destructive power'",
-      "summary": "North Korea carried out a coordinated live-fire exercise involving multiple weapons systems over the weekend. The drill came after the US, South Korea and Japan wrapped up five days of joint maritime exercises.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/north-korea-says-recent-drill-shows-huge-destructive-power/a-79255028?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T08:19:00.000Z",
-      "sample": false
-    },
-    {
       "id": "4umqwn",
       "title": "Can Iran replace sea trade with land routes?",
       "summary": "Iran is shifting trade toward northern ports and land routes as its southern shipping faces a US blockade. Analysts say the corridors can keep essential goods moving, but cannot replace maritime trade.",
@@ -245,7 +245,9 @@
       "image": null,
       "publishedAt": "2026-09-14T07:43:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "3s4xfv",
       "title": "Germany: Merz's CDU comes out on top in Lower Saxony polls",
@@ -256,9 +258,7 @@
       "image": null,
       "publishedAt": "2026-09-14T06:09:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "grlyiz",
       "title": "Germany's Zverev wins US Open in golden year",
