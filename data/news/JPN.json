@@ -2,8 +2,63 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-14T18:17:00.902Z",
+  "updatedAt": "2026-09-15T00:21:54.964Z",
   "daily": [
+    {
+      "id": "syj3zh",
+      "title": "As Japan’s cities get denser, could greener rooftops replace lost gardens?",
+      "summary": "At a recent symposium, architects explored why Japan's rooftops remain underused — and what could happen if that changed.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/life/2026/09/15/style-design/architecture-rooftop-usage/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/15/thumbs/400x400/562247.jpg",
+      "publishedAt": "2026-09-14T23:15:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "tc8plv",
+      "title": "Leaders urge EU to boost Arctic role to tackle Russia ‘threat’",
+      "summary": "As sea ice melts, Russia, China and the U.S. have ramped up activity in the region, racing to claim natural resources and new maritime routes.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/15/world/politics/eu-arctic-russia-threat/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/15/thumbs/400x400/562907.jpg",
+      "publishedAt": "2026-09-14T22:15:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "4ticu9",
+      "title": "Trump dismisses AI safety alarm, says U.S. already has tools to police industry",
+      "summary": "Public alarm grew after an Anthropic researcher resigned, saying the \"people building AI earnestly believe that it could kill us all.\"",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/15/tech/trump-ai-safety-us-police-industry/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/15/thumbs/400x400/562905.jpg",
+      "publishedAt": "2026-09-14T22:13:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "c1kegm",
+      "title": "Japanese lawmakers seek out renewed dialogue in Beijing",
+      "summary": "A delegation arrived Sunday, weeks after a smaller group made the first such visit since Prime Minister Sanae Takaichi's remarks on Taiwan last year.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/15/japan/politics/china-japan-relations-focus/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/15/thumbs/400x400/562893.jpg",
+      "publishedAt": "2026-09-14T22:03:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "diiwpz",
+      "title": "Houthis attack Saudi Arabia as Gulf-Iran talks are postponed",
+      "summary": "Recent events raise concerns that the Middle East conflict could spread further and threaten global oil supplies.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/15/world/houthis-saudi-arabia-gulf-iran-talks/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/15/thumbs/400x400/562909.jpg",
+      "publishedAt": "2026-09-14T22:02:00.000Z",
+      "sample": false
+    },
     {
       "id": "7b8h88",
       "title": "Star Japanese novelist jumps from killer thrillers to children’s books",
@@ -277,61 +332,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/09/14/japan/japan-prince-hisahito-tohoku-visit/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/14/thumbs/400x400/562763.jpg",
       "publishedAt": "2026-09-14T03:06:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lprz40",
-      "title": "SoftBank gets upsized $11.9 billion loan in OpenAI funding push",
-      "summary": "The financing comes as some executives are now voicing the need to slow the pace of AI development due to escalating risks from the technology.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/14/companies/softbank-loan-openai/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/14/thumbs/400x400/562759.jpg",
-      "publishedAt": "2026-09-14T02:55:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "1mmq6i",
-      "title": "Grand Slam drought for U.S. men reaches 23rd year after Ben Shelton falls at U.S. Open",
-      "summary": "As the likes of Venus and Serena Williams, Sloane Stephens, Coco Gauff and Madison Keys collected hardware on the women's side, the U.S. men have rarely found their way into a championship final.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/09/14/tennis/us-grand-slam-drought/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/14/thumbs/400x400/562762.jpg",
-      "publishedAt": "2026-09-14T02:42:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "n74nl5",
-      "title": "Japanese megabanks roll out new services to tap lucrative SME market",
-      "summary": "The segment is equivalent to 2.5 times the amount of lending to large corporations.",
-      "category": "economy",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/14/companies/banks-smes-services/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/14/thumbs/400x400/562743.jpg",
-      "publishedAt": "2026-09-14T02:27:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8k3c6b",
-      "title": "At Asian Games, let Taiwan compete as Taiwan",
-      "summary": "It's time to challenge the international sporting community's treatment of Taiwanese athletes.",
-      "category": "society",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/commentary/2026/09/14/asian-games-taiwan-chinese-taipei/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/14/thumbs/400x400/562761.jpg",
-      "publishedAt": "2026-09-14T02:22:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "6rutvg",
-      "title": "Xi-Modi thaw at BRICS masks deep divisions between Asian rivals",
-      "summary": "In a meeting Saturday, the two leaders agreed to further promote cultural and business exchanges, and coordinate on regional and global issues.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/14/asia-pacific/politics/xi-modi-brics-asian-rivals/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/14/thumbs/400x400/562751.jpg",
-      "publishedAt": "2026-09-14T02:16:00.000Z",
       "sample": false
     }
   ],

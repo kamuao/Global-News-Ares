@@ -2,12 +2,67 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-14T18:16:57.383Z",
+  "updatedAt": "2026-09-15T00:21:51.921Z",
   "daily": [
+    {
+      "id": "bk2tj8",
+      "title": "US Supreme Court denies Trump bid to restrict mail-in ballots",
+      "summary": "The court said election officials do not have sufficient time to implement the rule before the November midterms.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-supreme-court-denies-trump-bid-to-restrict-mail-in-ballots/a-79267854?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T00:09:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "y4nt1",
+      "title": "Germany news: Merz urges CDU discipline as pressure grows",
+      "summary": "Chancellor Friedrich Merz has urged his party to stay disciplined as pressure grows over his leadership. Meanwhile, Germany's homeownership rate has fallen to its lowest level in 20 years. DW has the latest.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-merz-urges-cdu-discipline-as-pressure-grows/live-79256902?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T00:02:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "bfjwyb",
+      "title": "Kremlin-linked Russian oligarch helped fund Trump Jr.'s wedding celebration",
+      "summary": "Trump's son and his wife confirmed reports that Umar Kremlev paid for parts of the festivities. Kremlev was awarded the \"Order of Friendship\" by Putin earlier this year.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/kremlin-linked-russian-oligarch-helped-fund-trump-jr-s-wedding-celebration/a-79267341?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-14T23:02:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "yrwkkv",
+      "title": "Arctic power plays: EU searches for a new strategy",
+      "summary": "Russia’s aggression, Trump’s threats against Greenland and the race for critical raw materials are pushing the Arctic to the top of Europe’s agenda.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/arctic-power-plays-eu-searches-for-a-new-strategy/a-79266739?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-14T19:28:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "g3x57l",
+      "title": "Ukraine, Russia set for new round of US-mediated talks",
+      "summary": "New trilateral talks between Ukraine, Russia and the US could begin in October, according to Kyiv and Moscow. Few expect a breakthrough, but Ukraine is seeking a partial de-escalation to help it get through the winter.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-russia-set-for-new-round-of-us-mediated-talks/a-79261147?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-14T18:46:00.000Z",
+      "sample": false
+    },
     {
       "id": "3ufi65",
       "title": "Trump seeks halt to energy attacks by both Russia, Ukraine",
-      "summary": "Donald Trump, under fire for record US diesel prices, claims Russia and Ukraine have agreed to stop striking energy targets. Russia said nothing, Ukraine said \"we expect specifics from our partners\" on any such move.",
+      "summary": "Donald Trump, under fire for record US diesel prices, claims Russia and Ukraine have agreed to stop striking energy targets. Russia said nothing; Ukraine said \"we expect specifics from our partners\" on any such move.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/trump-seeks-halt-to-energy-attacks-by-both-russia-ukraine/a-79265774?maca=en-rss-en-all-1573-xml-mrss",
@@ -38,17 +93,6 @@
       "sample": false
     },
     {
-      "id": "g3x57l",
-      "title": "Ukraine, Russia set for new round of US-mediated talks",
-      "summary": "New trilateral talks between Ukraine, Russia and the US could begin in October, according to Kyiv and Moscow. Few expect a breakthrough, but Ukraine is seeking a partial de-escalation to help it get through the winter.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ukraine-russia-set-for-new-round-of-us-mediated-talks/a-79261147?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T15:18:00.000Z",
-      "sample": false
-    },
-    {
       "id": "d1u6dy",
       "title": "Women's Basketball World Cup: Can Germany harness a boom?",
       "summary": "Germany thrilled fans at the Women's Basketball World Cup. But even if this sparked a boom in the women's game, the infrastructure simply isn't ready for it.",
@@ -68,17 +112,6 @@
       "url": "https://www.dw.com/en/ipo-for-the-people-is-out-of-reach-for-many-in-nigeria/a-79263398?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-14T14:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "y4nt1",
-      "title": "Germany news: Merz urges CDU discipline as pressure grows",
-      "summary": "Chancellor Friedrich Merz has urged his party to stay disciplined as pressure grows over his leadership. Meanwhile, Germany's homeownership rate has fallen to its lowest level in 20 years. DW has the latest.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-merz-urges-cdu-discipline-as-pressure-grows/live-79256902?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T13:52:00.000Z",
       "sample": false
     },
     {
@@ -214,17 +247,6 @@
       "sample": false
     },
     {
-      "id": "sm2816",
-      "title": "Canada seeks 'unique alliance' with EU, Carney says",
-      "summary": "Mark Carney clarified Canada's EU ambitions amid a WSJ report that Ottawa was exploring an \"associate membership\" with the bloc.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/canada-seeks-unique-alliance-with-eu-carney-says/a-79254541?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T06:22:00.000Z",
-      "sample": false
-    },
-    {
       "id": "3s4xfv",
       "title": "Germany: Merz's CDU comes out on top in Lower Saxony polls",
       "summary": "The Christian Democrats have emerged as the strongest party following local elections in the state of Lower Saxony. The vote was closely watched as an indicator of the strength of the far-right AfD, which came in third.",
@@ -234,7 +256,9 @@
       "image": null,
       "publishedAt": "2026-09-14T06:09:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "grlyiz",
       "title": "Germany's Zverev wins US Open in golden year",
@@ -245,9 +269,7 @@
       "image": null,
       "publishedAt": "2026-09-13T22:03:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "ilovx8",
       "title": "Russians on the Goethe-Institut: 'Hostage to politics'",
