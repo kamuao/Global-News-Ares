@@ -2,8 +2,19 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-15T12:19:27.417Z",
+  "updatedAt": "2026-09-15T18:16:00.650Z",
   "daily": [
+    {
+      "id": "kxdbqg",
+      "title": "Who is Hiro Murai, the Tokyo-born director who made Emmy history?",
+      "summary": "Murai's work with Donald Glover helped define \"Atlanta\" and \"This Is America\" before his Emmy-winning turn on \"Widow's Bay.\"",
+      "category": "health",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/culture/2026/09/16/tv-streaming/hiro-murai-emmys-widows-bay/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563145.jpg",
+      "publishedAt": "2026-09-15T16:20:00.000Z",
+      "sample": false
+    },
     {
       "id": "o00ah4",
       "title": "Japan says reconnaissance drone likely crashed off Tottori",
@@ -116,7 +127,7 @@
     },
     {
       "id": "y2fna9",
-      "title": "China’s new tech, national security exit rules take effect",
+      "title": "China’s new tech and national security exit rules take effect",
       "summary": "The travel curbs bar citizens deemed a potential threat to national technology security from leaving the country.",
       "category": "technology",
       "source": "japan-times",
@@ -321,17 +332,6 @@
       "url": "https://www.japantimes.co.jp/business/2026/09/15/tech/trump-ai-safety-us-police-industry/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/15/thumbs/400x400/562905.jpg",
       "publishedAt": "2026-09-15T02:24:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "1qner2",
-      "title": "Japan’s economic comeback faces hardest BOJ test in a generation",
-      "summary": "Amid pressure from the U.S., chronic yen weakness and inflation, the Bank of Japan looks set to raise rates for the third time in less than 10 months.",
-      "category": "economy",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/15/economy/bank-of-japan-fastest-rate-hikes/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/15/thumbs/400x400/562932.jpg",
-      "publishedAt": "2026-09-15T02:16:00.000Z",
       "sample": false
     }
   ],

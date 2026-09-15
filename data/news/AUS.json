@@ -2,11 +2,66 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-09-15T12:19:29.209Z",
+  "updatedAt": "2026-09-15T18:16:01.541Z",
   "daily": [
     {
+      "id": "tbbv38",
+      "title": "Nick Reiner will not face death penalty over parents' killings, prosecutors say",
+      "summary": "Nick Reiner is accused of murdering his father, famous Hollywood director and actor Rob Reiner, and his mother Michele.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-16/nick-reiner-death-penalty-prosecution-rob-reiner/107157496",
+      "image": null,
+      "publishedAt": "2026-09-15T16:30:24.000Z",
+      "sample": false
+    },
+    {
+      "id": "dvpu7t",
+      "title": "China tightens travel restrictions on its own citizens amid AI race with US",
+      "summary": "China has imposed travel restrictions on its citizens, including exit bans on those deemed to endanger the country's \"industrial or technological security\".",
+      "category": "technology",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-16/china-could-block-citizens-from-leaving-over-violations/107157432",
+      "image": null,
+      "publishedAt": "2026-09-15T15:51:47.000Z",
+      "sample": false
+    },
+    {
+      "id": "mba7yq",
+      "title": "The US has admitted deploying weapons in space and China is sounding the alarm",
+      "summary": "The revelation by Washington confirmed an open secret but the timing of the announcement risked exacerbating tensions with Beijing and the risk of a weapons race in space.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-16/usa-space-weapons-china-russia/107157436",
+      "image": null,
+      "publishedAt": "2026-09-15T15:49:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "cj74hx",
+      "title": "'Complete failure': UK baby killer inquiry findings handed down",
+      "summary": "British nurse Lucy Letby was able to murder seven babies because of a \"complete failure\" to protect babies at the hospital at which she worked, and some of the deaths could have been avoided, the chair of an inquiry has said.",
+      "category": "health",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-15/lucy-letby-hospital-inquiry-findings-handed-down/107157300",
+      "image": null,
+      "publishedAt": "2026-09-15T13:12:21.000Z",
+      "sample": false
+    },
+    {
+      "id": "funqsn",
+      "title": "Russia and Ukraine trade energy strikes, as NATO downs drone in Lithuania",
+      "summary": "The US president declared both sides would refrain from striking energy-related targets as petrol and diesel prices rise.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-15/russia-denmark-helicopter-flares/107157272",
+      "image": null,
+      "publishedAt": "2026-09-15T12:35:10.000Z",
+      "sample": false
+    },
+    {
       "id": "vervfs",
-      "title": "Man charged over alleged verbal abuse towards girl wearing hijab in Sydney",
+      "title": "'Disgusting': Leaders condemn alleged Islamophobic attack on bus",
       "summary": "The Special Envoy to Combat Islamophobia says the \"victim pool\" is getting younger, after a Muslim girl was allegedly called an \"immigrant mutt\" and a \"terrorist\" on a Sydney bus last week. A man was charged on Tuesday.",
       "category": "military",
       "source": "abc-au",
@@ -222,61 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-09-15/qld-patrick-gemzik-brisbane-hospital-treatment/107155434",
       "image": null,
       "publishedAt": "2026-09-15T05:42:27.000Z",
-      "sample": false
-    },
-    {
-      "id": "dkmfm9",
-      "title": "Canberra man posed as teenage girl to obtain child abuse material",
-      "summary": "The 22-year-old was sentenced to 20 months in jail but is likely to be released after three months on condition of good behaviour.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-15/lachlan-prescot-hewatt-child-abuse-material-sentenced/107155890",
-      "image": null,
-      "publishedAt": "2026-09-15T05:39:35.000Z",
-      "sample": false
-    },
-    {
-      "id": "emyy2u",
-      "title": "Gold Coast mayor swears at journalist amid questions over Donald Trump dinner",
-      "summary": "Tom Tate has been asked questions about conflicting accounts of a dinner he claimed to have had with US President Donald Trump at Mar-a-Lago earlier this year.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-15/gold-coast-mayor-tom-tate-mar-a-lago-dinner-donald-trump/107155370",
-      "image": null,
-      "publishedAt": "2026-09-15T05:23:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "35qe6k",
-      "title": "Government documents reveal AI could train on data without paying creators",
-      "summary": "Leaked government documents reveal AI companies would be allowed to train their models on online content without paying its creators as long as they struck deals with enough rights holders.",
-      "category": "technology",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-15/ai-companies-train-on-creator-work-documents-reveal/107154688",
-      "image": null,
-      "publishedAt": "2026-09-15T05:23:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "slvpp0",
-      "title": "Rubber mask helps to track cattle methane emissions in real time",
-      "summary": "A wearable mask that tracks the methane output of individual cattle in real time promises to help quantify the livestock sector's contribution to national emissions.",
-      "category": "environment",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-15/wearable-tech-cattle-carbon-emissions-real-time-testing/107134420",
-      "image": null,
-      "publishedAt": "2026-09-15T05:19:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "d99aeo",
-      "title": "US Republican Mitch McConnell returns to Senate after lengthy illness",
-      "summary": "The senator returned to the Capitol for the first time in three months, after his illness-related absence generated criticism and online speculation.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-15/mitch-mcconnell-returns-us-senate-capitol-after-illness/107155842",
-      "image": null,
-      "publishedAt": "2026-09-15T05:11:10.000Z",
       "sample": false
     }
   ],

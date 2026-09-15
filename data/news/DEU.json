@@ -2,15 +2,147 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-15T12:19:10.511Z",
+  "updatedAt": "2026-09-15T18:15:58.288Z",
   "daily": [
     {
-      "id": "ukc06v",
-      "title": "Berlin election driven by radical ideas",
+      "id": "edytp9",
+      "title": "High fuel prices challenge the German government",
+      "summary": "Chancellor Friedrich Merz wants to provide relief to motorists. But exactly how this is to happen remains unclear.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/high-fuel-prices-challenge-the-german-government/a-79282456?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T16:43:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xhmvm4",
+      "title": "Knobloch: 'It is a very dangerous situation at the moment'",
+      "summary": "Charlotte Knobloch survived the Holocaust by passing as the daughter of non-Jewish farmers. She recently spoke with DW to express her shock following the AfD victory in Saxony-Anhalt's state election.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/knobloch-it-is-a-very-dangerous-situation-at-the-moment/a-79278429?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T16:36:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "42vae4",
+      "title": "South Africa probes deaths of 7 women near Johannesburg",
+      "summary": "Police have warned women to take extra care in parts of Johannesburg as similarities between seven deaths fuel fears that the cases could be connected.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/south-africa-probes-deaths-of-7-women-near-johannesburg/a-79278296?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T16:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ymyxg0",
+      "title": "Why do authoritarian regimes target the LGBTQ+ community?",
+      "summary": "A recent crackdown on the LGBTQ+ community in Turkey is symptomatic of a wider rights regression, according to experts. It's worse under authoritarian regimes, but why is it such a popular policy for these states?",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/why-do-authoritarian-regimes-target-the-lgbtq-community/a-79276831?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T16:14:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "drt25o",
+      "title": "Russia: Trump's Ukraine ceasefire proposal is 'good idea'",
+      "summary": "The Kremlin has hailed an \"energy ceasefire\" proposed by US President Trump, but has criticized a French initiative to share its nuclear deterrent. Meanwhile, hostilities have continued on the ground and in the air.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/russia-trump-s-ukraine-ceasefire-proposal-is-good-idea/a-79280087?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T15:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "qh29qq",
+      "title": "Ovechkin still backing Putin party in parliamentary vote",
+      "summary": "Ice hockey legend Alexander Ovechkin has lent Vladimir Putin's party a helping hand in its parliamentary election campaign. That's in keeping with a pattern of support by an athlete who claims not to be political.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ovechkin-still-backing-putin-party-in-parliamentary-vote/a-79277772?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T14:45:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "maf74t",
+      "title": "Spanish scientists find first evidence of Diplodocus dinosaur in Europe",
+      "summary": "Paleontologists in Spain say they have found the first evidence of the long-necked Diplodocus genus of dinosaur outside of North America. They found bones at the rich La Tejeria fossil site in Teruel in eastern Spain.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/spanish-scientists-find-first-evidence-of-diplodocus-dinosaur-in-europe/a-79277825?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T14:42:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "54vxs4",
+      "title": "Saudi Arabia faces hard choices as Houthis gain in Yemen",
+      "summary": "Saudi Arabia faces growing security and economic problems as it seeks to balance deterrence and diplomacy during its escalating conflict with the Iran-backed Houthis in neighboring Yemen.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/saudi-arabia-faces-hard-choices-as-houthis-gain-in-yemen/a-79274826?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T14:03:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "vmbsyh",
+      "title": "Why the era of cheap government debt is over",
+      "summary": "US debt has topped $40 trillion. How risky is the country's growing debt burden. And will investors keep funding Washington's deficits?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/why-the-era-of-cheap-government-debt-is-over/a-79259272?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T13:17:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "nkl9k2",
+      "title": "US allies in Asia alarmed as think tank calls for pullback",
+      "summary": "Analysts warn that a US withdrawal from the western Pacific, as recently suggested by a think tank, would weaken deterrence and strengthen China's position.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-allies-in-asia-alarmed-as-think-tank-calls-for-pullback/a-79275554?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T12:32:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "wqaozl",
+      "title": "'Woman, Life, Freedom' spirit lives on as Iran war drags on",
+      "summary": "The 2022 death of Jina Mahsa Amini in police custody triggered a resistance movement in Iran. Four years later, the Iranian regime endures — but so does the legacy of the \"Woman, Life, Freedom\" protests.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/woman-life-freedom-spirit-lives-on-as-iran-war-drags-on/a-79276123?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T12:27:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "bueaca",
+      "title": "Bangladesh court sentences 7 Hasina allies to death",
+      "summary": "The latest verdict brings to 22 the number of death sentences handed down in cases stemming from the 2024 uprising that ended Sheikh Hasina's 15-year rule.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/bangladesh-court-sentences-7-hasina-allies-to-death/a-79276131?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T12:21:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "nbcpbk",
+      "title": "Socialist Left leads far-right AfD ahead of Berlin vote",
       "summary": "The results of the Berlin election are as hard to predict as ever. Three parties are vying for first place, including the socialist Left Party and the far-right AfD. But one issue is most important to Berliners.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/berlin-election-driven-by-radical-ideas/a-79256516?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/socialist-left-leads-far-right-afd-ahead-of-berlin-vote/a-79256516?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-15T11:53:00.000Z",
       "sample": false
@@ -27,12 +159,12 @@
       "sample": false
     },
     {
-      "id": "kccpzg",
-      "title": "East German leader styles self as one-woman bulwark to AfD",
-      "summary": "Manuela Schwesig of the center-left SPD has governed the state of Mecklenburg-Western Pomerania, on the Baltic Sea coast, since 2017. Ahead of this weekend's election, she is campaigning against the far right.",
+      "id": "hcwr2i",
+      "title": "SPD governor campaigns as one-woman bulwark against AfD",
+      "summary": "Manuela Schwesig, of the center-left SPD, has governed the state of Mecklenburg-Western Pomerania, on the Baltic Sea coast, since 2017. Ahead of this weekend's election, she is campaigning against the nationalist AfD.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/east-german-leader-styles-self-as-one-woman-bulwark-to-afd/a-79264225?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/spd-governor-campaigns-as-one-woman-bulwark-against-afd/a-79264225?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-15T11:17:00.000Z",
       "sample": false
@@ -40,7 +172,7 @@
     {
       "id": "8l878q",
       "title": "US confirms it has weapons in space",
-      "summary": "The US Space Force justified the weapons deployment by citing its two biggest geopolitical rivals — Russia and China. Beijing responded by urging Washington to \"stop preparing for war\" in outer space.",
+      "summary": "The Space Force justified the weapons deployment by citing the US's two biggest geopolitical rivals: Russia and China. Beijing responded by urging Washington to \"stop preparing for war\" in outer space.",
       "category": "military",
       "source": "dw",
       "url": "https://www.dw.com/en/us-confirms-it-has-weapons-in-space/a-79268894?maca=en-rss-en-all-1573-xml-mrss",
@@ -93,45 +225,23 @@
       "sample": false
     },
     {
-      "id": "gtwt8d",
-      "title": "India: Meta to report child abuse cases to law enforcement",
-      "summary": "Tech giant Meta will now directly report child safety-related cases to India's cybercrime portal, according to media reports. DW has more.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-meta-to-report-child-abuse-cases-to-law-enforcement/live-79268751?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-15T08:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ez9h5g",
-      "title": "Why top AI researchers are warning about human extinction",
+      "id": "isccgr",
+      "title": "Why AI researchers warn humanity could face extinction",
       "summary": "Could artificial intelligence pose an existential threat to humanity? Some leading researchers are warning against an unregulated race toward AI superintelligence.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/why-top-ai-researchers-are-warning-about-human-extinction/a-79263146?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/why-ai-researchers-warn-humanity-could-face-extinction/a-79263146?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-15T08:15:00.000Z",
       "sample": false
     },
     {
-      "id": "2bdtqf",
-      "title": "El Salvador court hands down first life sentence for femicide",
-      "summary": "The landmark conviction comes 42 days after the killing of a woman in Santa Ana who prosecutors said was stalked and harassed by her neighbor.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/el-salvador-court-hands-down-first-life-sentence-for-femicide/a-79268746?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-15T07:59:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "w1mxrs",
-      "title": "Iran and America: A tale of two lands and the pistachio between them",
-      "summary": "The pistachios sold across the United States have a surprising history: California's trees trace their roots to Iran. Now both regions face the same threat: their farmland is sinking as groundwater disappears.",
+      "id": "kz6x25",
+      "title": "Iran and US: Two countries and the pistachio between them",
+      "summary": "The pistachios sold across the United States have a surprising history: California's trees trace their roots to Iran. Now, both regions face the same threat — their farmland is sinking as groundwater disappears.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/iran-and-america-a-tale-of-two-lands-and-the-pistachio-between-them/a-79224310?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/iran-and-us-two-countries-and-the-pistachio-between-them/a-79224310?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-15T07:48:00.000Z",
       "sample": false
@@ -145,50 +255,6 @@
       "url": "https://www.dw.com/en/europe-launches-two-climate-observation-satellites/a-79268705?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-15T07:28:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "dejsqs",
-      "title": "US scraps greenhouse gas rules for power plants",
-      "summary": "The Environmental Protection Agency said it was repealing Biden-era limits on emissions made by power plants, in the \"largest power sector deregulation action ever.\"",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-scraps-greenhouse-gas-rules-for-power-plants/a-79268393?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-15T05:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bk2tj8",
-      "title": "US Supreme Court denies Trump bid to restrict mail-in ballots",
-      "summary": "The court said election officials do not have sufficient time to implement the rule before the November midterms. Trump has argued, without providing evidence, that the system is vulnerable to fraud.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-supreme-court-denies-trump-bid-to-restrict-mail-in-ballots/a-79267854?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-15T01:38:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "y4nt1",
-      "title": "Germany news: Merz urges CDU discipline as pressure grows",
-      "summary": "Chancellor Friedrich Merz has urged his party to stay disciplined as pressure grows over his leadership. Meanwhile, Germany's homeownership rate has fallen to its lowest level in 20 years.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-merz-urges-cdu-discipline-as-pressure-grows/live-79256902?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-15T00:02:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bfjwyb",
-      "title": "Kremlin-linked Russian oligarch helped fund Trump Jr.'s wedding celebration",
-      "summary": "Trump's son and his wife confirmed reports that Umar Kremlev paid for parts of the festivities. Kremlev was awarded the \"Order of Friendship\" by Putin earlier this year.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/kremlin-linked-russian-oligarch-helped-fund-trump-jr-s-wedding-celebration/a-79267341?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T23:02:00.000Z",
       "sample": false
     },
     {
@@ -212,7 +278,9 @@
       "image": null,
       "publishedAt": "2026-09-14T18:46:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "3ufi65",
       "title": "Trump seeks halt to energy attacks by both Russia, Ukraine",
@@ -267,9 +335,7 @@
       "image": null,
       "publishedAt": "2026-09-14T12:43:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "q4uchu",
       "title": "EU leaders urge unity after Russian strike on train",
@@ -587,28 +653,6 @@
       "url": "https://www.dw.com/en/german-economy-frets-about-saxony-anhalt-election-results/a-79162871?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-08T18:35:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "jgpw1a",
-      "title": "Ratko Mladic’s funeral casts shadow over Bosnia and Herzegovina vote",
-      "summary": "Ratko Mladic’s funeral in Belgrade, attended by Serbian and Bosnian Serb leaders, has deepened regional tensions and could affect the upcoming election in Bosnia and Herzegovina.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ratko-mladic-s-funeral-casts-shadow-over-bosnia-and-herzegovina-vote/a-79189319?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-08T14:09:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "m6o8jr",
-      "title": "BSW and AfD – a political love-hate relationship in Germany",
-      "summary": "The Sahra Wagenknecht Alliance (BSW) could help the Alternative for Germany (AfD) into power in Saxony-Anhalt. But the BSW is riddled with infighting",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/bsw-and-afd-a-political-love-hate-relationship-in-germany/a-79185782?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-08T13:07:00.000Z",
       "sample": false
     }
   ],

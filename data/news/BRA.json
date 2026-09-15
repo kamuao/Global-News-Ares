@@ -2,8 +2,30 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-09-15T12:19:28.367Z",
+  "updatedAt": "2026-09-15T18:16:01.150Z",
   "daily": [
+    {
+      "id": "eq23uj",
+      "title": "With Cancer, Indigenous Chief Raoni Metuktire Receives Palliative Care at Home",
+      "summary": "Indigenous chief Raoni Metuktire has cancer of the digestive system and is receiving palliative care at home, the Raoni Institute announced Monday (14), two months after a lengthy hospitalization. At 94, the Kayap� leader is a prominent figure in the fight for Indigenous rights and the preservation of the Amazon.\nLeia ",
+      "category": "health",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/09/with-cancer-indigenous-chief-raoni-metuktire-receives-palliative-care-at-home.shtml",
+      "image": null,
+      "publishedAt": "2026-09-15T17:21:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "wqjo90",
+      "title": "Number of Companies Publishing Carbon Emissions Data Hits Record in Brazil",
+      "summary": "A record number of companies disclosed carbon emissions information to the Brazilian GHG Protocol Program (PBGHG), one of the largest national databases on greenhouse gases in the corporate world. In this cycle, 757 organizations submitted inventories for 2025, up 12% from 670 in the previous period. The data are avail",
+      "category": "environment",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/09/number-of-companies-publishing-carbon-emissions-data-hits-record-in-brazil.shtml",
+      "image": null,
+      "publishedAt": "2026-09-15T17:17:00.000Z",
+      "sample": false
+    },
     {
       "id": "ufgus0",
       "title": "Five Cities in Southern Minas Gerais to Visit on A Weekend or Holiday",
@@ -14,7 +36,9 @@
       "image": null,
       "publishedAt": "2026-09-14T18:50:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "i86kih",
       "title": "Brazilian Foreign Policy Will Face Challenges Involving Trump, Big Tech and Critical Minerals under The Next Administration",
@@ -47,9 +71,7 @@
       "image": null,
       "publishedAt": "2026-09-14T16:20:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "oo6jc3",
       "title": "Four in 10 Brazilians Used Ineffective Drugs Against Covid",
@@ -136,17 +158,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/09/domestic-violence-hospitalizes-15-women-a-day-with-multiple-traumas-in-brazil.shtml",
       "image": null,
       "publishedAt": "2026-09-08T20:44:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "vi2yw1",
-      "title": "'It Is Concerning to See Brazilian Candidates Offer the Bukele Model as a Solution', Says Journalist Forced to Leave El Salvador",
-      "summary": "The so-called \"Bukele model,\" promoted as a response to violence in El Salvador, has gained ground in Brazil's electoral debate. Presidential candidates have begun citing it as a reference in the fight against organized crime.\nLeia mais (09/08/2026 - 12h13)",
-      "category": "society",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/it-is-concerning-to-see-brazilian-candidates-offer-the-bukele-model-as-a-solution-says-journalist-forced-to-leave-el-salvador.shtml",
-      "image": null,
-      "publishedAt": "2026-09-08T15:13:00.000Z",
       "sample": false
     }
   ],
