@@ -2,8 +2,195 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-16T06:19:39.379Z",
+  "updatedAt": "2026-09-16T12:19:44.720Z",
   "daily": [
+    {
+      "id": "u38842",
+      "title": "Former Philippine leader Duterte appears before ICC judges for first time",
+      "summary": "Rodrigo Duterte, 81, served as president from 2016 to 2022, before being charged with crimes against humanity.",
+      "category": "society",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/16/asia-pacific/philippines-duterte-icc-judges/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563353.jpg",
+      "publishedAt": "2026-09-16T11:17:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "mm71z4",
+      "title": "Two firms show interest in spent nuclear fuel facility",
+      "summary": "The facility currently accepts spent nuclear fuel only from Tokyo Electric Power Company Holdings and Japan Atomic Power.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/16/japan/spent-nuclear-fuel-facility-firms/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563352.jpg",
+      "publishedAt": "2026-09-16T10:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "18owhp",
+      "title": "LNG market faces extended Hormuz outage, Japanese shipper says",
+      "summary": "The disruption has pushed Asian spot LNG prices to their highest level since 2022, with the potential for further gains as winter approaches.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/16/mitsui-osk-hormuz-lng/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563351.jpg",
+      "publishedAt": "2026-09-16T10:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "oklxw3",
+      "title": "False Tamaki info reposted mostly by X users outside Okinawa",
+      "summary": "During the election campaign period between Aug. 27 and Sunday, about 1.67 million posts on X contained the words \"Okinawa gubernatorial election.\"",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/16/japan/tamaki-social-media-okinawa/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563350.jpg",
+      "publishedAt": "2026-09-16T10:41:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "n5wuht",
+      "title": "AI can supercharge Putin’s goals, not his great-power ambitions",
+      "summary": "For now, though, Russia's AI capabilities are likely sufficient for the state's needs.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/16/world/politics/ai-putin-goals-ambitions/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563315.jpg",
+      "publishedAt": "2026-09-16T08:59:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "gzoqi4",
+      "title": "Drop in Chinese visitors drives decline in Japan’s inbound tourism in August",
+      "summary": "Japan received 3.1 million foreign visitors in August, down 9.6% from last year, according to estimates from the Japan National Tourism Organization.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/16/japan/august-foreign-visitors/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563334.jpg",
+      "publishedAt": "2026-09-16T08:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "otzvji",
+      "title": "Over 60% of Japanese firms with foreign workers would struggle without overseas hiring: survey",
+      "summary": "In nursing and healthcare, 93.8% of employers said not hiring more foreign workers would cause problems.",
+      "category": "health",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/16/japan/foreign-labor-survey/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563336.jpg",
+      "publishedAt": "2026-09-16T08:03:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "167b7y",
+      "title": "Trump has few good options to slow China’s rise as AI superpower",
+      "summary": "The main challenge for the U.S. is keeping China at bay without prompting Beijing to further restrict rare earths.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/16/world/politics/trump-china-rise-ai-superpower/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563313.jpg",
+      "publishedAt": "2026-09-16T07:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "tjyt0q",
+      "title": "Pickle-flavored tart? AI inspires Japan’s convenience stores",
+      "summary": "For customers tired of the usual egg sandwiches and rice balls, major chains are turning to AI to develop products, including some unexpected flavors.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/16/ai-sweets-japan-convenience-stores/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563335.jpg",
+      "publishedAt": "2026-09-16T07:51:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "isf2my",
+      "title": "Former CDP members of Centrist Reform Alliance finalize plans to form new party",
+      "summary": "The CRA's 28 Komeito-affiliated Lower House lawmakers will likely return to Komeito before the next parliamentary session.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/16/japan/politics/cra-members-new-party/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563302.jpg",
+      "publishedAt": "2026-09-16T07:46:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6alio2",
+      "title": "South Korea’s top diplomat to meet Rubio amid U.S. investment discussions",
+      "summary": "The pair plan to hold consultations on a wide range of topics, including the South Korean-U.S. relationship and Korean Peninsula issues.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/16/world/politics/south-korea-diplomat-rubio-us/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563318.jpg",
+      "publishedAt": "2026-09-16T07:32:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "axworf",
+      "title": "Ex-event firm chief guilty over Tokyo Games bid-rigging",
+      "summary": "All six companies charged over Tokyo Games bid-rigging were found guilty at the Tokyo District Court.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/16/japan/crime-legal/tokyo-games-bid-rigging/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563295.jpg",
+      "publishedAt": "2026-09-16T07:14:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "q29766",
+      "title": "Takaichi retains familiar faces in LDP leadership reshuffle",
+      "summary": "The move comes as Prime Minister Sanae Takaichi and the LDP look to keep the party in the hands of veterans ahead of the fall parliamentary session.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/16/japan/politics/takaichi-ldp-leadership-reshuffle/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563218.jpg",
+      "publishedAt": "2026-09-16T06:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "w9k6fy",
+      "title": "Autumn Basho has all the ingredients of a classic",
+      "summary": "Injury concerns threatened to overshadow the autumn tournament, but Onosato and Aonishiki have quickly put those fears to rest.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/16/sumo/autumn-tournament-onosato-aonishiki/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563323.jpg",
+      "publishedAt": "2026-09-16T06:48:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "z13f74",
+      "title": "Six months after fatal boat accident in Okinawa, student’s parents want answers",
+      "summary": "Tomoka Takeishi, 17, died during a school trip that used boats operated by a group that opposes a U.S. military base's relocation in the prefecture.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/16/japan/society/henoko-accident-victim-parents-interview/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563296.jpg",
+      "publishedAt": "2026-09-16T06:47:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "hdbamt",
+      "title": "Trump’s North Korea outreach is about U.S. politics",
+      "summary": "Pyongyang's shifting priorities leave Washington with little leverage.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/16/world/trump-north-korea-outreach/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563115.jpg",
+      "publishedAt": "2026-09-16T06:29:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "4d30l5",
+      "title": "Ambitious India out to match Hangzhou benchmark in Nagoya",
+      "summary": "The 107 medals India won in Hangzhou three years ago were a big jump from 70 in Jakarta-Palembang in 2018",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/16/more-sports/india-asian-games-nagoya/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563311.jpg",
+      "publishedAt": "2026-09-16T06:15:00.000Z",
+      "sample": false
+    },
     {
       "id": "pn974x",
       "title": "Chinese defense chief warns against militarism and revisionism in veiled jab at Japan",
@@ -24,6 +211,17 @@
       "url": "https://www.japantimes.co.jp/sports/2026/09/16/soccer/messi-argentina-final-match/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563300.jpg",
       "publishedAt": "2026-09-16T06:03:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "uvw1nw",
+      "title": "Don’t hold your breath for AI agreements or arms control",
+      "summary": "There have been incidents in which AI has gone rogue, cajoling, flattering or even blackmailing human operators to attain some form of agency.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/16/world/ai-agreements-or-arms-control/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563109.jpg",
+      "publishedAt": "2026-09-16T05:36:00.000Z",
       "sample": false
     },
     {
@@ -82,6 +280,17 @@
       "sample": false
     },
     {
+      "id": "f2r07d",
+      "title": "America’s Iran war forgot about nukes",
+      "summary": "When the war was launched, a resolution of the nuclear dispute was prominent among the dizzying array of U.S. and Israeli aims to explain the attack.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/16/world/america-forgets-iran-nukes/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/562720.jpg",
+      "publishedAt": "2026-09-16T03:56:00.000Z",
+      "sample": false
+    },
+    {
       "id": "nzqndy",
       "title": "U.S. military buildup in Palau stirs war fears",
       "summary": "Plans to rebuild the main port in the pristine Pacific archipelago have stirred painful memories of World War II and have locals concerned.",
@@ -124,229 +333,8 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563212.jpg",
       "publishedAt": "2026-09-16T03:00:00.000Z",
       "sample": false
-    },
-    {
-      "id": "elitv5",
-      "title": "Ukraine’s Zelenskyy and Eisuke Mori, Japan’s Lower House chief, discuss energy",
-      "summary": "During their meeting in Kyiv, the Ukrainian president expressed gratitude for Japan's consistent support since Russia's invasion began in 2022.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/16/japan/politics/japan-ukraine-energy-support-talks/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563192.jpg",
-      "publishedAt": "2026-09-16T02:50:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "q29766",
-      "title": "Takaichi retains familiar faces in LDP leadership reshuffle",
-      "summary": "The move comes as Prime Minister Sanae Takaichi and the LDP look to keep the party in the hands of veterans ahead of the fall parliamentary session.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/16/japan/politics/takaichi-ldp-leadership-reshuffle/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563218.jpg",
-      "publishedAt": "2026-09-16T02:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "c217g2",
-      "title": "Indonesia’s choking wildfire and haze worsen breathing woes on Borneo",
-      "summary": "The country is experiencing its most intense fires in 11 years as \"super-El Nino\" conditions drive up temperatures and cause punishing droughts.",
-      "category": "environment",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/16/asia-pacific/science-health/indonesia-wildfire-haze-borneo/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563196.jpg",
-      "publishedAt": "2026-09-16T02:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "x0mexw",
-      "title": "South Korean retail traders’ scam losses rose to $250 million amid market swing",
-      "summary": "While the number of cases has risen just 4.1% from the same period last year, data shows the amount of money involved is up 19.8%.",
-      "category": "economy",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/16/markets/south-korea-250-million-stock-scams/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563209.jpg",
-      "publishedAt": "2026-09-16T02:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "w7c4t0",
-      "title": "Iran war has cost U.S. $38 billion over five months, congressional study finds",
-      "summary": "The expenses include replacing expended munitions and equipment lost in battle, as well as fuel costs, the U.S. Congressional Budget Office has said.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/16/world/iran-war-38b-five-months/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563222.jpg",
-      "publishedAt": "2026-09-16T02:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "7q4dk8",
-      "title": "U.S. admission of space weapons seen as landmark moment in race with China and Russia",
-      "summary": "The move underscores how quickly developments have escalated into increasingly open preparations for the prospect of conflict extending into space.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/16/world/us-space-weapons-analysis/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563221.jpg",
-      "publishedAt": "2026-09-16T02:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2xodvg",
-      "title": "Japan aims to increase its reliance on nuclear power, but headwinds remain",
-      "summary": "The government has set a target of replacing up to 14 nuclear reactors by the 2050s, but questions over spent fuel are lingering.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/16/japan/nuclear-power-five-rebuild-2040/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563219.jpg",
-      "publishedAt": "2026-09-16T01:58:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2j1wc8",
-      "title": "New measles deaths send U.S. fatalities to decades high",
-      "summary": "The deaths are a grim milestone in the return of a disease that the U.S. once largely considered vanquished.",
-      "category": "health",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/16/world/science-health/us-measles-deaths-decades-high/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563195.jpg",
-      "publishedAt": "2026-09-16T01:45:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "u9otbj",
-      "title": "Japan’s export growth stays solid as shipments of chips jump",
-      "summary": "The value of exports rose 19.3% from a year earlier, slowing from a 23.2% gain in July, the Finance Ministry reported.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/16/economy/export-growth-slow-august/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563194.jpg",
-      "publishedAt": "2026-09-16T01:44:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bxmzk7",
-      "title": "Hidden crypto farm in Mexican mountains puts spotlight on cartel funding",
-      "summary": "Crypto mining represents a new frontier in Mexico's fight against criminal groups, which have extended their reach into the realm of financial crime.",
-      "category": "society",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/16/world/crime-legal/mexico-crypto-farm-cartel-funding/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563214.jpg",
-      "publishedAt": "2026-09-16T01:38:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "6vailn",
-      "title": "South Korean workers challenging U.S. government over Georgia raid",
-      "summary": "The more than 300 South Korean workers were detained in an immigration raid last year at a Hyundai-LG electric vehicle battery manufacturing plant.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/16/asia-pacific/crime-legal/south-korea-workers-trump-georgia/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563193.jpg",
-      "publishedAt": "2026-09-16T01:32:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ja31fx",
-      "title": "Cash-strapped Japanese monks turn to investing as inflation worsens",
-      "summary": "A growing wave of temple owners turning to financial markets as costs for the upkeep are soaring and the country's Buddhist population is falling.",
-      "category": "economy",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/16/japan-monks-investing/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563187.jpg",
-      "publishedAt": "2026-09-16T01:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "h8t2cp",
-      "title": "From hallucinating AI chatbots to wiping out humanity: How did we get here?",
-      "summary": "Some AI executives think the industry is three to five years away from self-improving AI systems that need little or no help from humans.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/16/tech/explainer-ai-chatbots/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563189.jpg",
-      "publishedAt": "2026-09-16T01:14:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "uo8olr",
-      "title": "Argentine industry reels from Milei’s free-market revolution",
-      "summary": "The Argentine Industrial Union has demanded action as some 90,000 industrial jobs have been lost and nearly 30,000 firms have closed in three years.",
-      "category": "economy",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/16/companies/argentina-industry-milei-free-market/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563210.jpg",
-      "publishedAt": "2026-09-16T01:09:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "i0kp47",
-      "title": "Russia’s Stalin-admiring provincial leader waging an ultra-conservative crusade",
-      "summary": "Ex-kickboxer Gov. Georgy Filimonov is the face of Russian President Vladimir Putin's rule in the country's Vologda region.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/16/world/politics/russia-stalin-leader-crusade/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563215.jpg",
-      "publishedAt": "2026-09-16T01:09:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "r4dtwg",
-      "title": "Brazil’s top court postpones ruling on probe of justice in politically charged case",
-      "summary": "Calls for a probe of Justice Alexandre de Moraes are an outgrowth of a case involving failed lender Banco Master that has rattled Brazil for months.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/16/world/politics/brazil-probe-justice-case/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563191.jpg",
-      "publishedAt": "2026-09-16T00:44:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "v4tw6o",
-      "title": "U.S. Supreme Court rejects Trump’s mail ballot curbs for midterms",
-      "summary": "Monday's ruling came after North Carolina and Alabama began mailing ballots to voters and many more states prepared to do the same in the coming days.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/16/world/politics/supreme-court-trump-mail-midterms/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563185.jpg",
-      "publishedAt": "2026-09-16T00:25:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "r2a5",
-      "title": "Ukraine races to counter Russia’s jet-powered drone attacks",
-      "summary": "Recent attacks underscore the challenges Ukraine will faces with no clear answer to Moscow's faster, more powerful drones.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/16/world/ukraine-russia-jet-powered-drone/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563180.jpg",
-      "publishedAt": "2026-09-15T23:01:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "l7j41n",
-      "title": "MBS and Saudi Arabia face crisis with key oil pipeline shut for weeks",
-      "summary": "Riyadh's problems grew conflict after Tehran-backed Houthi fighters gained control over a vital strait for shipping and energy markets.",
-      "category": "economy",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/16/world/politics/mbs-saudi-crisis-oil-pipeline/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/16/thumbs/400x400/563183.jpg",
-      "publishedAt": "2026-09-15T22:23:00.000Z",
-      "sample": false
     }
   ],
   "weekly": [],
-  "developing": [
-    {
-      "id": "j435bw",
-      "title": "Japan developing GPS-based app to locate nationals overseas",
-      "summary": "The app is expected to help verify the safety of Japanese citizens swiftly in the event of an armed conflict or a massive disaster overseas.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/02/japan/gps-app-overseas-nationals/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/02/thumbs/400x400/560905.jpg",
-      "publishedAt": "2026-09-02T11:54:00.000Z",
-      "sample": false
-    }
-  ]
+  "developing": []
 }
