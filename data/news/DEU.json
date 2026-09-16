@@ -2,8 +2,41 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-16T00:19:59.796Z",
+  "updatedAt": "2026-09-16T06:19:37.055Z",
   "daily": [
+    {
+      "id": "fhkcwn",
+      "title": "News helicopter crashes in LA, killing 3",
+      "summary": "A helicopter belonging to an NBC news affiliate was covering a large traffic accident in the southern California city when it crashed. The cause is currently unclear.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/news-helicopter-crashes-in-la-killing-3/a-79285216?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-16T05:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "tw4tru",
+      "title": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
+      "summary": "The Saudi-led coalition said its air defenses had destroyed a Houthi-deployed drone just outside the holy city of Mecca — a claim Houthis were quick to deny.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-16T05:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "qptivr",
+      "title": "Supporting acts pull out of Ed Sheeran's tour over dropping Macklemore",
+      "summary": "Macklemore was dropped over his pro-Palestinian stance, amid accusations of antisemitism. Sheeran said removing the artist was not his decision but that of the tour's promoters.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/supporting-acts-pull-out-of-ed-sheeran-s-tour-over-dropping-macklemore/a-79284880?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-16T00:34:00.000Z",
+      "sample": false
+    },
     {
       "id": "vwht21",
       "title": "AI leaders call for regulations, Trump dismisses 'hoaxes'",
@@ -172,7 +205,7 @@
     {
       "id": "4uuwxb",
       "title": "Germany news: Merz to cancel UN trip amid party infighting",
-      "summary": "Germany's chancellor nixxed his trip over doubts about his leadership after party losses to the AfD in state elections. Meanwhile, Defense Minister Pistorius is in Washington for talks with his US counterpart. Follow DW.",
+      "summary": "Germany's chancellor nixxed his trip over doubts about his leadership after party losses to the AfD in state elections. Meanwhile, Defense Minister Pistorius is in Washington for talks with his US counterpart.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/germany-news-merz-to-cancel-un-trip-amid-party-infighting/live-79273324?maca=en-rss-en-all-1573-xml-mrss",
@@ -189,39 +222,6 @@
       "url": "https://www.dw.com/en/spd-governor-campaigns-as-one-woman-bulwark-against-afd/a-79264225?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-15T11:17:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8l878q",
-      "title": "US confirms it has weapons in space",
-      "summary": "The Space Force justified the weapons deployment by citing the US's two biggest geopolitical rivals: Russia and China. Beijing responded by urging Washington to \"stop preparing for war\" in outer space.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-confirms-it-has-weapons-in-space/a-79268894?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-15T11:04:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "81zs23",
-      "title": "NATO jets shoot down drone over Lithuania",
-      "summary": "The drone, which is believed to have entered Lithuanian airspace from Belarus, was shot down by an Italian fighter jet in between the cities of Vilnius and Kaunas. There have been no reports of casualties or damage.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/nato-jets-shoot-down-drone-over-lithuania/a-79267975?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-15T10:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "vjd7dg",
-      "title": "Russian warship fires flares at Danish helicopter",
-      "summary": "Denmark has summoned Russia's ambassador over a Baltic Sea encounter that Copenhagen says is part of an increasingly aggressive pattern of Russian behavior.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/russian-warship-fires-flares-at-danish-helicopter/a-79270510?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-15T10:01:00.000Z",
       "sample": false
     },
     {
@@ -642,17 +642,6 @@
       "url": "https://www.dw.com/en/eu-sports-commissioner-says-fifa-is-damaging-to-football/a-79193424?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-09T07:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "c0tbd",
-      "title": "Putin rejects mobilization rumors, many Russians unconvinced",
-      "summary": "Russia’s President Vladimir Putin has dismissed rumors about military mobilization. But many Russians, including many DW users, say they are preparing for the possibility.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/putin-rejects-mobilization-rumors-many-russians-unconvinced/a-79193386?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-09T05:57:00.000Z",
       "sample": false
     }
   ],

@@ -2,8 +2,151 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-09-16T00:20:01.178Z",
+  "updatedAt": "2026-09-16T06:19:38.071Z",
   "daily": [
+    {
+      "id": "lovc0n",
+      "title": "Only few ships passed through Strait of Hormuz on Tuesday — news agency",
+      "summary": "According to analysts, none of the ships were supertankers with oil or tankers transporting liquefied natural gas",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2188157",
+      "image": null,
+      "publishedAt": "2026-09-16T05:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbcqlc",
+      "title": "Trump’s call to halt attacks on energy sites shows dissatisfaction with Zelensky — expert",
+      "summary": "Alexander Protsenko said Donald Trump had also stressed that global diesel shortages were the result of Ukrainian attacks on Russian oil refineries",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2188151",
+      "image": null,
+      "publishedAt": "2026-09-16T05:12:51.000Z",
+      "sample": false
+    },
+    {
+      "id": "lovbzu",
+      "title": "British PM to discuss Ukraine at first meeting with Trump in New York — newspaper",
+      "summary": "According to The Times, the talks are set to be held on the sidelines of the UN General Assembly on September 22",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2188149",
+      "image": null,
+      "publishedAt": "2026-09-16T04:48:41.000Z",
+      "sample": false
+    },
+    {
+      "id": "lovbzs",
+      "title": "US plans $2.8 bln sale of heavy aerial bombs to Israel — newspaper",
+      "summary": "An article in The Washington Post explained that the deal was planned to be implemented through the Foreign Military Financing mechanism, which provides grants and loans to help other countries buy American weapons",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2188147",
+      "image": null,
+      "publishedAt": "2026-09-16T04:40:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "lovbzq",
+      "title": "Shanghai Cooperation Organization calls for preventing arms race in space — official",
+      "summary": "Secretary General Nurlan Yermekbayev said the organization advocates for the development of a correspondent legally binding international document",
+      "category": "technology",
+      "source": "tass",
+      "url": "https://tass.com/world/2188145",
+      "image": null,
+      "publishedAt": "2026-09-16T04:28:22.000Z",
+      "sample": false
+    },
+    {
+      "id": "lovbzm",
+      "title": "US policy compels North Korea to strengthen nuclear deterrence — agency",
+      "summary": "Security expert Choe Ju Hyun wrote in an op-ed for the Korean Central News Agency that US actions are accelerating \"the corrosion of the international nuclear non-proliferation regime\"",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2188141",
+      "image": null,
+      "publishedAt": "2026-09-16T04:02:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "5lxu48",
+      "title": "Three killed as helicopter crashes in Los Angeles",
+      "summary": "Another person was injured",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2188139",
+      "image": null,
+      "publishedAt": "2026-09-16T03:39:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "lovbyv",
+      "title": "US House approves resolution demanding end to Iran war",
+      "summary": "The resolution is not legally binding and serves as a recommendation",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2188135",
+      "image": null,
+      "publishedAt": "2026-09-16T03:04:31.000Z",
+      "sample": false
+    },
+    {
+      "id": "lovbyt",
+      "title": "US, Germany agree to advance defense industrial cooperation — Pentagon",
+      "summary": "According to the statement, Pete Hegseth and Boris Pistorius signed an agreement that aligns the Pentagon’s \"acquisition transformation strategy with Germany's Procurement Acceleration Act\"",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2188133",
+      "image": null,
+      "publishedAt": "2026-09-16T02:50:54.000Z",
+      "sample": false
+    },
+    {
+      "id": "lovbyr",
+      "title": "China calls for building more balanced security architecture — defense chief",
+      "summary": "Dong Jun stated that this architecture \"should address the legitimate security concerns of all countries\"",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2188131",
+      "image": null,
+      "publishedAt": "2026-09-16T02:09:07.000Z",
+      "sample": false
+    },
+    {
+      "id": "lovby4",
+      "title": "Middle Eastern countries disappointed with US security guarantees — ex-top diplomat",
+      "summary": "Antony Blinken said the US had no good military solution to the current conflict \"absent a full-scale invasion of Iran, which would be a disaster\"",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2188129",
+      "image": null,
+      "publishedAt": "2026-09-16T01:41:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "lovby2",
+      "title": "US seeks to normalize military use of outer space — newspaper",
+      "summary": "The Wall Street Journal reported that, according to officials, open discussion of the issue could deter adversaries that also seek to launch weapons into orbit",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2188127",
+      "image": null,
+      "publishedAt": "2026-09-16T01:32:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "lovby0",
+      "title": "UK actively explores participation in NATO’s defense bank — newspaper",
+      "summary": "A senior Labour figure told The Financial Times that participation in the DSRB initiative could potentially help the UK reach a milestone of spending 3% of GDP on defense by 2030",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2188125",
+      "image": null,
+      "publishedAt": "2026-09-16T00:49:23.000Z",
+      "sample": false
+    },
     {
       "id": "lovbxy",
       "title": "European Council president to call for creating European Security Council — media",
@@ -995,105 +1138,6 @@
       "sample": false
     },
     {
-      "id": "sxp8wh",
-      "title": "Only Russian gas purchases can save Europe from new price records — expert",
-      "summary": "According to data from London’s ICE exchange, during trading on September 14, the price of gas in Europe exceeded $1,000 per 1,000 cubic meters for the first time since December 2022",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2187907",
-      "image": null,
-      "publishedAt": "2026-09-15T12:03:23.000Z",
-      "sample": false
-    },
-    {
-      "id": "sxp8wf",
-      "title": "Expert expects thermal coal demand to decline in 2027-2028",
-      "summary": "In the Q2 of 2026, global energy prices rose amid the ongoing conflict in the Middle East",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2187905",
-      "image": null,
-      "publishedAt": "2026-09-15T12:01:59.000Z",
-      "sample": false
-    },
-    {
-      "id": "sxp8wd",
-      "title": "Russia maintains foreign trade volume despite sanctions — Oreshkin",
-      "summary": "\"There was an attempt to exclude Russia from global trade and disrupt our country's economic development,\" the Russian presidential administration deputy chief of staff said",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2187903",
-      "image": null,
-      "publishedAt": "2026-09-15T12:01:31.000Z",
-      "sample": false
-    },
-    {
-      "id": "sxp8wb",
-      "title": "Russia remains Kazakhstan's top import partner in January-July",
-      "summary": "Goods from Russia accounted for 30.8% of Kazakhstan's imports in the first seven months of this yea",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2187901",
-      "image": null,
-      "publishedAt": "2026-09-15T11:57:18.000Z",
-      "sample": false
-    },
-    {
-      "id": "louubf",
-      "title": "Houthis assess shipping through Bab el-Mandeb Strait as safe",
-      "summary": "According to the statement, \"Saudi Arabia’s attempts to mislead the international community on this issue are baseless\"",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/world/2187897",
-      "image": null,
-      "publishedAt": "2026-09-15T11:54:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbc8w6",
-      "title": "Russia never refused Europe to open communication channel on Ukraine — Lavrov",
-      "summary": "From time to time, certain European countries want to establish some kind of communication channel without publicly announcing it, Sergey Lavrov said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2187893",
-      "image": null,
-      "publishedAt": "2026-09-15T11:44:43.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbc8vh",
-      "title": "Russia expects Grossi to condemn Kiev’s attacks on Zaporozhye NPP",
-      "summary": "On September 11, the Ukrainian armed forces carried out a series of combined strikes on fuel trucks transporting diesel fuel intended to power the Zaporozhye NPP’s backup diesel generators",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2187889",
-      "image": null,
-      "publishedAt": "2026-09-15T11:39:35.000Z",
-      "sample": false
-    },
-    {
-      "id": "jh9y7w",
-      "title": "Russia tests new concept for intercepting UAVs, unmanned surface vehicles",
-      "summary": "Alexey Chadayev emphasized that the tests demonstrated the concept’s effectiveness and feasibility",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/defense/2187881",
-      "image": null,
-      "publishedAt": "2026-09-15T11:32:52.000Z",
-      "sample": false
-    },
-    {
-      "id": "sxp8ck",
-      "title": "Russian stocks move to positive territory during main trading session",
-      "summary": "The MOEX and RTS indices reached 2,370.71 points and 885.53 points, respectively",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2187883",
-      "image": null,
-      "publishedAt": "2026-09-15T11:32:25.000Z",
-      "sample": false
-    },
-    {
       "id": "zea260",
       "title": "U.S. Seeks Release of Belarusian Funds as Trump Envoy Meets Lukashenko in Minsk",
       "summary": "Alexander Lukashenko said last week that up to $44 million belonging to Belarus was “stuck at Citibank” and called for its return.",
@@ -1102,50 +1146,6 @@
       "url": "https://www.themoscowtimes.com/2026/09/15/us-seeks-release-of-belarusian-funds-as-trump-envoy-meets-lukashenko-in-minsk-a93711",
       "image": null,
       "publishedAt": "2026-09-15T11:28:38.000Z",
-      "sample": false
-    },
-    {
-      "id": "ve6s43",
-      "title": "Ukrainian servicemen shot, tortured civilians in Kursk Region — human rights commissioner",
-      "summary": "Yana Lantratova said that many civilians were shot in their homes",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/society/2187877",
-      "image": null,
-      "publishedAt": "2026-09-15T11:28:17.000Z",
-      "sample": false
-    },
-    {
-      "id": "louu8w",
-      "title": "Algerian ambassador says African countries thank Russia for technology assistance",
-      "summary": "Toufik Jouamaa stressed that \"without such a partnership approach, it would be impossible to move forward\"",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2187869",
-      "image": null,
-      "publishedAt": "2026-09-15T11:03:38.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbc8sw",
-      "title": "Russian ambassador says Italy begins to realize anti-Russia policy was mistake",
-      "summary": "Alexey Paramonov noted that sanctions had almost completely halted energy cooperation between Russia and Italy and seriously damaged bilateral trade",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/politics/2187859",
-      "image": null,
-      "publishedAt": "2026-09-15T10:59:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbc8r2",
-      "title": "West’s interference with freedom of navigation causes concern — Lavrov",
-      "summary": "\"European states have detained 12 vessels since January this year based on made-up categories unknown to international law, such as the so-called 'shadow fleet' and others,\" the Russian foreign minister said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2187835",
-      "image": null,
-      "publishedAt": "2026-09-15T10:48:14.000Z",
       "sample": false
     },
     {
@@ -1592,17 +1592,6 @@
     }
   ],
   "developing": [
-    {
-      "id": "rb7snp",
-      "title": "Russian, US finance ministries see basis for developing bilateral ties — Siluanov",
-      "summary": "According to the Russian Finance Minister Anton Siluanov, economic ties between Russia and the United States could help resolve political issues, and the two countries should continue their dialogue",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/politics/2180967",
-      "image": null,
-      "publishedAt": "2026-09-02T04:07:23.000Z",
-      "sample": false
-    },
     {
       "id": "9r7idz",
       "title": "What we know about FIS ruling on Russian athletes’ reinstatement at int’l tournaments",
