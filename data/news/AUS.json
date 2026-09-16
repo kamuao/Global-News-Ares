@@ -2,11 +2,66 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-09-16T12:19:46.642Z",
+  "updatedAt": "2026-09-16T18:17:26.833Z",
   "daily": [
     {
+      "id": "j6swov",
+      "title": "Sweden's left-wing bloc wins general election by slim margin",
+      "summary": "The centre-left coalition has secured a one-seat majority over the right-wing bloc that had been in power since 2022.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-17/sweden-election-result/107149110",
+      "image": null,
+      "publishedAt": "2026-09-16T17:39:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "5v7h2r",
+      "title": "At least 20 dead, including children, as war-damaged building collapses in Gaza",
+      "summary": "The UN says many Palestinians are living in buildings damaged by Israel's air strikes across Gaza, warning many are at danger of collapse.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-17/gaza-building-collapse/107162100",
+      "image": null,
+      "publishedAt": "2026-09-16T16:45:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "6k0r61",
+      "title": "Saudis pound Yemen as Houthis fire back, further widening Middle East war",
+      "summary": "Iran-backed rebels in Yemen launch drones and missiles at Saudi cities, as the Kingdom launches hundreds of air strikes against Houthi positions, in a further sign that the conflict is worsening.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-17/saudi-yemen-houthi-iran/107162054",
+      "image": null,
+      "publishedAt": "2026-09-16T16:16:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "kznkwr",
+      "title": "Duterte appears in person at The Hague over 'war on drugs' killings",
+      "summary": "The 81-year-old served as president of the Philippines from 2016 to 2022, before being charged with crimes against humanity for setting up, funding and arming death squads that targeted narcotics peddlers and users.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-17/duterte-at-icc-hague/107162056",
+      "image": null,
+      "publishedAt": "2026-09-16T16:00:16.000Z",
+      "sample": false
+    },
+    {
+      "id": "9m71da",
+      "title": "Tiny cells and creatures dazzle in microscopic video competition",
+      "summary": "Stunning scenes of the world through microscopes have been put on display by the Nikon Small World In Motion competition winners.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/science/2026-09-17/tiny-cells-and-creatures-dazzle-in-microscopic-video-competition/107158464",
+      "image": null,
+      "publishedAt": "2026-09-16T14:09:16.000Z",
+      "sample": false
+    },
+    {
       "id": "mfc1a2",
-      "title": "Canada in the EU and other takeaways from State of European Union",
+      "title": "EU opens door to Canada becoming 'associate member' as bloc charts future",
       "summary": "European Commission President Ursula von der Leyen has suggested Canada could become the first \"associate member\" of the European Union.",
       "category": "politics",
       "source": "abc-au",
@@ -222,61 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-09-16/men-tell-inquest-no-involvement-disappearance-joanne-butterfield/107159278",
       "image": null,
       "publishedAt": "2026-09-16T07:15:32.000Z",
-      "sample": false
-    },
-    {
-      "id": "roqq5q",
-      "title": "'Inhumane and unfair': NDIS clients stuck in hospital for months",
-      "summary": "A disability advocate says three men being left in a Tasmanian hospital for months because they can't secure extra NDIS support to manage at home is \"inhumane and unfair\".",
-      "category": "health",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-16/tas-three-ndis-clients-stuck-in-north-west-hospital/107158522",
-      "image": null,
-      "publishedAt": "2026-09-16T07:07:49.000Z",
-      "sample": false
-    },
-    {
-      "id": "pj6ug1",
-      "title": "Community 'blindsided' by legislation change fears becoming ghost town",
-      "summary": "The state government introduces legislation to repeal a requirement for a coal mine to house its workforce in a nearby town.",
-      "category": "society",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-16/fears-glenden-will-become-a-ghost-town-after-legislation-change/107160630",
-      "image": null,
-      "publishedAt": "2026-09-16T06:37:50.000Z",
-      "sample": false
-    },
-    {
-      "id": "h5cbsu",
-      "title": "Tszyu changes tune on controversial draw, eyes off fights in US",
-      "summary": "Believing his domestic duties are done, Nikita Tszyu is ready to take on America after changing his tune and claiming victory in his controversial draw with countryman Ben Mahoney.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-16/nikita-tszyu-says-he-beat-ben-mahoney/107160942",
-      "image": null,
-      "publishedAt": "2026-09-16T06:35:57.000Z",
-      "sample": false
-    },
-    {
-      "id": "boup1i",
-      "title": "Mayor says he disagrees with Trump Organization statement labelling dinner a 'fabrication'",
-      "summary": "Under-fire Gold Coast Mayor Tom Tate says he had a conversation about tariffs with US President Donald Trump just before dinner at Mar-a-Lago — despite the Trump Organization claiming no such dinner happened.",
-      "category": "economy",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-16/mayor-tom-tate-apology-donald-trump-dinner-recollection/107159710",
-      "image": null,
-      "publishedAt": "2026-09-16T06:18:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "o02wqi",
-      "title": "Anthropic inks Queensland data centre deal worth five times Olympics budget",
-      "summary": "A $32 billion data centre proposed for a site west of Brisbane will be used by AI giant Anthropic.",
-      "category": "technology",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-16/queensland-data-centre-anthropic-dalby/107160640",
-      "image": null,
-      "publishedAt": "2026-09-16T06:18:02.000Z",
       "sample": false
     }
   ],

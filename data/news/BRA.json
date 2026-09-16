@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-09-16T12:19:46.035Z",
+  "updatedAt": "2026-09-16T18:17:25.981Z",
   "daily": [
+    {
+      "id": "2tnr0m",
+      "title": "Brazil's Supreme Court Suspends Session on Possible Investigation into One of Its Justices",
+      "summary": "Brazil's Supreme Court (STF) suspended on Tuesday (15) an unprecedented session that was set to consider opening an investigation into Alexandre de Moraes in the Banco Master case, after Justice Fl�vio Dino asked for more time to review the case and a series of clashes and exchanges of insults among the justices. Witho",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/09/brazils-supreme-court-suspends-session-on-possible-investigation-into-one-of-its-justices.shtml",
+      "image": null,
+      "publishedAt": "2026-09-16T15:03:00.000Z",
+      "sample": false
+    },
     {
       "id": "wgz5zp",
       "title": "Brazilian City to Have World's Largest Cross Funded with $6 Million in Public Money",
@@ -14,7 +25,9 @@
       "image": null,
       "publishedAt": "2026-09-15T19:54:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "eq23uj",
       "title": "With Cancer, Indigenous Chief Raoni Metuktire Receives Palliative Care at Home",
@@ -36,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-09-15T17:17:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "ufgus0",
       "title": "Five Cities in Southern Minas Gerais to Visit on A Weekend or Holiday",
@@ -136,28 +147,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/09/brazilian-supreme-court-justice-reverses-colleagues-decision-and-reinstates-federal-police-chief.shtml",
       "image": null,
       "publishedAt": "2026-09-10T00:11:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5otiyq",
-      "title": "Brazilian Supreme Court Justice Removes Federal Police Chief After Report Used by Another Justice",
-      "summary": "Brazilian Supreme Court Justice Andr� Mendon�a ordered the removal of Federal Police Director-General Andrei Rodrigues.\nLeia mais (09/09/2026 - 12h46)",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/09/brazilian-supreme-court-justice-removes-federal-police-chief-after-report-used-by-another-justice.shtml",
-      "image": null,
-      "publishedAt": "2026-09-09T15:46:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "u24g89",
-      "title": "Meet Feijoa, the Forgotten Brazilian Fruit That Is a Hit in New Zealand",
-      "summary": "Feijoa, a fruit native to southern Brazil, is little known in its country of origin but is a hit abroad, especially in New Zealand, one of the world's largest producers. With green skin and a pineapple-scented interior, the plant is also known as pineapple guava and was already consumed by the Xokleng, Kaingang and Gua",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/09/meet-feijoa-the-forgotten-brazilian-fruit-that-is-a-hit-in-new-zealand.shtml",
-      "image": null,
-      "publishedAt": "2026-09-09T15:42:00.000Z",
       "sample": false
     }
   ],
