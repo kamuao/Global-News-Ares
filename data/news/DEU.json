@@ -2,8 +2,30 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-15T18:15:58.288Z",
+  "updatedAt": "2026-09-16T00:19:59.796Z",
   "daily": [
+    {
+      "id": "vwht21",
+      "title": "AI leaders call for regulations, Trump dismisses 'hoaxes'",
+      "summary": "AI giants are working to create a standards body amid rising alarms about the dangers of the industry. Meanwhile, Trump has dismissed the warnings, and a divided US Congress has failed to act.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ai-leaders-call-for-regulations-trump-dismisses-hoaxes/a-79284638?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T22:38:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "zcpj8y",
+      "title": "Criticism of LGBTQ+ raids in Turkey is growing",
+      "summary": "Several raids and arrests of LGBTQ+ persons in Turkey have triggered sharp criticism from numerous Turkish organizations — and also from Brussels.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/criticism-of-lgbtq-raids-in-turkey-is-growing/a-79284021?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-15T19:32:00.000Z",
+      "sample": false
+    },
     {
       "id": "edytp9",
       "title": "High fuel prices challenge the German government",
@@ -27,12 +49,12 @@
       "sample": false
     },
     {
-      "id": "42vae4",
-      "title": "South Africa probes deaths of 7 women near Johannesburg",
-      "summary": "Police have warned women to take extra care in parts of Johannesburg as similarities between seven deaths fuel fears that the cases could be connected.",
+      "id": "wbiitk",
+      "title": "South Africa now probing deaths of 8 women near Johannesburg",
+      "summary": "Police have warned women to take extra care in parts of Johannesburg as similarities between at least eight deaths fuel fears that the cases could be connected.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/south-africa-probes-deaths-of-7-women-near-johannesburg/a-79278296?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/south-africa-now-probing-deaths-of-8-women-near-johannesburg/a-79278296?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-15T16:26:00.000Z",
       "sample": false
@@ -148,12 +170,12 @@
       "sample": false
     },
     {
-      "id": "ifqn97",
-      "title": "Germany news: Police find arms depot near highway",
-      "summary": "Police have found a stash of rifles, pistols and other firearms near a road in the western state of Rhineland-Palatinate. Meanwhile, Defense Minister Pistorius is off to Washington for talks with his US counterpart.",
+      "id": "4uuwxb",
+      "title": "Germany news: Merz to cancel UN trip amid party infighting",
+      "summary": "Germany's chancellor nixxed his trip over doubts about his leadership after party losses to the AfD in state elections. Meanwhile, Defense Minister Pistorius is in Washington for talks with his US counterpart. Follow DW.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-police-find-arms-depot-near-highway/live-79273324?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/germany-news-merz-to-cancel-un-trip-amid-party-infighting/live-79273324?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-15T11:30:00.000Z",
       "sample": false
@@ -203,17 +225,6 @@
       "sample": false
     },
     {
-      "id": "z52yps",
-      "title": "China tightens travel rules over tech security",
-      "summary": "Beijing says the new rules, which could also apply to foreign and Taiwanese nationals, are aimed at safeguarding \"national security.\"",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/china-tightens-travel-rules-over-tech-security/a-79270217?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-15T08:58:00.000Z",
-      "sample": false
-    },
-    {
       "id": "57lxov",
       "title": "Netherlands: Suspected sabotage disrupts train services",
       "summary": "A major outage has hit parts of the Dutch railway system after objects were found placed across lines, authorities say. The company responsible for rail infrastructure says it suspects deliberate wrongdoing.",
@@ -256,7 +267,9 @@
       "image": null,
       "publishedAt": "2026-09-15T07:28:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "o7ihgd",
       "title": "EU seeks Arctic strategy amid growing power rivalry",
@@ -278,9 +291,7 @@
       "image": null,
       "publishedAt": "2026-09-14T18:46:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "3ufi65",
       "title": "Trump seeks halt to energy attacks by both Russia, Ukraine",
@@ -642,17 +653,6 @@
       "url": "https://www.dw.com/en/putin-rejects-mobilization-rumors-many-russians-unconvinced/a-79193386?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-09T05:57:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "serm7p",
-      "title": "German economy frets about Saxony-Anhalt election results",
-      "summary": "The AfD won the election in the eastern German state by a wide margin. While politicians and election analysts are still debating the reasons for the far-right party's popularity, economists are sounding the alarm.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/german-economy-frets-about-saxony-anhalt-election-results/a-79162871?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-08T18:35:00.000Z",
       "sample": false
     }
   ],

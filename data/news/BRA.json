@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-09-15T18:16:01.150Z",
+  "updatedAt": "2026-09-16T00:20:04.462Z",
   "daily": [
+    {
+      "id": "wgz5zp",
+      "title": "Brazilian City to Have World's Largest Cross Funded with $6 Million in Public Money",
+      "summary": "A city of just under 60,000 residents in southern Brazil has begun building the world's largest cross, standing 102 meters tall and funded with more than R$30 million ($6 million) in public money. The monument will be erected in Cruz Alta, in the interior of Rio Grande do Sul state, funded through the transfer of money",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/09/brazilian-city-to-have-worlds-largest-cross-funded-with-6-million-in-public-money.shtml",
+      "image": null,
+      "publishedAt": "2026-09-15T19:54:00.000Z",
+      "sample": false
+    },
     {
       "id": "eq23uj",
       "title": "With Cancer, Indigenous Chief Raoni Metuktire Receives Palliative Care at Home",
@@ -25,7 +36,9 @@
       "image": null,
       "publishedAt": "2026-09-15T17:17:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "ufgus0",
       "title": "Five Cities in Southern Minas Gerais to Visit on A Weekend or Holiday",
@@ -36,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-09-14T18:50:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "i86kih",
       "title": "Brazilian Foreign Policy Will Face Challenges Involving Trump, Big Tech and Critical Minerals under The Next Administration",
@@ -147,17 +158,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/09/meet-feijoa-the-forgotten-brazilian-fruit-that-is-a-hit-in-new-zealand.shtml",
       "image": null,
       "publishedAt": "2026-09-09T15:42:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mj2ogh",
-      "title": "Domestic Violence Hospitalizes 15 Women a Day With Multiple Traumas in Brazil",
-      "summary": "At least 15 women were hospitalized every day in Brazil between 2008 and 2023 as a result of domestic violence, according to a study by Unifesp (Federal University of S�o Paulo). Researchers used artificial intelligence to analyze 90,798 hospitalizations of women aged 20 to 59 recorded in the Hospital Information Syste",
-      "category": "health",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/09/domestic-violence-hospitalizes-15-women-a-day-with-multiple-traumas-in-brazil.shtml",
-      "image": null,
-      "publishedAt": "2026-09-08T20:44:00.000Z",
       "sample": false
     }
   ],
