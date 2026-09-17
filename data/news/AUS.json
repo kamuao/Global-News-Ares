@@ -2,8 +2,41 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-09-17T12:20:22.841Z",
+  "updatedAt": "2026-09-17T18:17:38.496Z",
   "daily": [
+    {
+      "id": "hgk8nr",
+      "title": "Australia could follow Canada as EU 'associate member', parliament president says",
+      "summary": "Canadian Prime Minister Mark Carney has welcomed the prospect of Canada becoming the first \"associate member\" of the European Union, as the president of the European Parliament has hinted Australia and New Zealand could follow.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-18/mark-carney-canada-associate-member-eu-welcome/107166490",
+      "image": null,
+      "publishedAt": "2026-09-17T16:13:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "128wjt",
+      "title": "Athlete Joanna Wietrzyk apologises for continuing HYROX race after soiling herself",
+      "summary": "The athlete who had a bout of faecal incontinence during a HYROX competition has issued a public apology and retroactively withdrawn from the race, handing back points earned in the event.",
+      "category": "health",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-18/soiled-hyrox-athlete-gives-back-points/107166578",
+      "image": null,
+      "publishedAt": "2026-09-17T15:32:25.000Z",
+      "sample": false
+    },
+    {
+      "id": "2b9la",
+      "title": "King warns AI leaders of 'existential' risks if tech falls into wrong hands",
+      "summary": "Britain's King Charles III has warned AI leaders of the \"existential dangers\" posed by the technology falling into the wrong hands while hosting the leaders from top artificial intelligence firms.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-18/king-charles-warns-ai-leaders-of-existential-dangers/107166548",
+      "image": null,
+      "publishedAt": "2026-09-17T14:23:33.000Z",
+      "sample": false
+    },
     {
       "id": "29ej3w",
       "title": "Smart glasses ban looms as Labor sets out new AI rules",
@@ -28,8 +61,8 @@
     },
     {
       "id": "blyexs",
-      "title": "Woman arrested after baby found dead in Sydney bin",
-      "summary": "NSW Police say a 24-year-old woman \"believed to be the mother of the infant\" has been arrested.",
+      "title": "Woman charged after baby found dead in Sydney bin",
+      "summary": "NSW Police say a 24-year-old woman \"believed to be the mother of the infant\" has been charged.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-09-17/woman-arrested-after-baby-found-dead-in-sydney-bin/107166370",
@@ -244,39 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-09-17/queensland-data-centre-politicians-responses/107164154",
       "image": null,
       "publishedAt": "2026-09-17T06:03:40.000Z",
-      "sample": false
-    },
-    {
-      "id": "wyniw5",
-      "title": "Teen's murder case delayed after NT forensic pathologist takes leave",
-      "summary": "A 17-year-old boy charged with murdering a man in Tennant Creek in June will have to wait another three months for a crucial piece of evidence after a key witness went on leave, a court has heard.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-17/nt-tennant-creek-teenager-murder-case-youth-court-delay/107164316",
-      "image": null,
-      "publishedAt": "2026-09-17T05:57:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "7usjeo",
-      "title": "Woman, 28, found dead hours after alleged domestic violence assault",
-      "summary": "A young woman has been found dead at a property in suburban Darwin, with her partner in custody over an alleged assault hours earlier.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-17/nt-police-investigating-28-year-old-woman-death-darwin-malak/107163980",
-      "image": null,
-      "publishedAt": "2026-09-17T05:53:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "dilu5o",
-      "title": "Remote waterhole live stream a window into secrets of NT desert",
-      "summary": "A camera streaming around the clock from a remote Central Australian waterhole is capturing dingoes, wallabies, birds and other wildlife while helping researchers understand how the changing climate is reshaping the desert.",
-      "category": "environment",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-17/northern-territory-watarrka-waterhole-live-stream/107164670",
-      "image": null,
-      "publishedAt": "2026-09-17T05:51:50.000Z",
       "sample": false
     }
   ],

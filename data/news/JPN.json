@@ -2,8 +2,41 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-17T12:20:21.712Z",
+  "updatedAt": "2026-09-17T18:17:36.686Z",
   "daily": [
+    {
+      "id": "50hvbt",
+      "title": "Canada’s Carney pushes ‘new alliance’ with EU despite Trump threats",
+      "summary": "The Canadian leader pushed back at U.S. President Donald Trump's threat to cut trade ties with the EU should the plan go ahead.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/17/world/carney-eu-trump-threats/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/thumbs/400x400/563689.jpg",
+      "publishedAt": "2026-09-17T12:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "x3xuh2",
+      "title": "Apollo mulls raising SoftBank loan to $9 billion for OpenAI bets",
+      "summary": "SoftBank has emerged as one of the biggest investors globally in AI, putting its various borrowings to finance that push in the spotlight.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/17/softbank-loan-apollo/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/thumbs/400x400/563688.jpg",
+      "publishedAt": "2026-09-17T12:19:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "t0r1hr",
+      "title": "Sweden’s left wing wins election thriller",
+      "summary": "Around 50,000 votes separated the two sides in the country of 10.6 million people.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/17/world/sweden-election-left-wing/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/thumbs/400x400/563687.jpg",
+      "publishedAt": "2026-09-17T12:08:00.000Z",
+      "sample": false
+    },
     {
       "id": "8tn55q",
       "title": "‘American VCs were hungrier’: Canada tries to stop tech startups from moving to U.S.",
@@ -94,9 +127,9 @@
     },
     {
       "id": "c6v8sq",
-      "title": "Team Japan seeks alternative digs as housing issues dog home Asian Games",
+      "title": "Lodging woes hit host Japan ahead of Asian Games opening",
       "summary": "Issues arose after organizers expected 15,000 athletes and officials for the Games, only for numbers to increase as new sports were added.",
-      "category": "society",
+      "category": "politics",
       "source": "japan-times",
       "url": "https://www.japantimes.co.jp/sports/2026/09/17/asian-games-accommodation-issues/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/thumbs/400x400/563646.jpg",
@@ -150,7 +183,7 @@
     {
       "id": "2wuo0j",
       "title": "U.S., China security experts propose nuclear-style safeguards for AI risks",
-      "summary": "The proposals, which neither governments has endorsed, come ahead of a meeting between U.S. President Donald Trump and Chinese President Xi Jinping.",
+      "summary": "The proposals, which neither governments has endorsed, come ahead of U.S. President Donald Trump's meeting with Chinese President Xi Jinping.",
       "category": "technology",
       "source": "japan-times",
       "url": "https://www.japantimes.co.jp/news/2026/09/17/world/politics/us-china-nuclear-ai-safeguards/",
@@ -299,39 +332,6 @@
       "url": "https://www.japantimes.co.jp/sports/2026/09/17/2030-french-alps-olympics-progress/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/thumbs/400x400/563561.jpg",
       "publishedAt": "2026-09-17T02:36:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "tvhw6s",
-      "title": "Dominant China wary of host Japan in Asiad table tennis competition",
-      "summary": "The sport's superpower is looking to bring on younger talent with an eye on the 2028 Olympics.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/09/17/asian-games-china-japan-table-tennis/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/thumbs/400x400/563552.jpg",
-      "publishedAt": "2026-09-17T02:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8z9ydi",
-      "title": "Crocodile-ridden Rockhampton river venue cleared to host Brisbane 2032 rowing",
-      "summary": "Queensland Premier David Crisafulli told the state parliament on Thursday that the waterway had been cleared \"with flying colors\".",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/09/17/brisbane-olympics-rowing-crocodiles/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/thumbs/400x400/563553.jpg",
-      "publishedAt": "2026-09-17T02:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "i89fqn",
-      "title": "Thai protest leader who seized Bangkok airport is back in action",
-      "summary": "Sondhi Limthongkul's efforts mark the reemergence of street politics after relative calm and point to discontent building beneath the surface.",
-      "category": "health",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/17/asia-pacific/politics/thai-protest-leader-bangkok-airport/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/thumbs/400x400/563508.jpg",
-      "publishedAt": "2026-09-17T02:31:00.000Z",
       "sample": false
     }
   ],

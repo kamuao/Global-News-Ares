@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-09-17T12:20:22.532Z",
+  "updatedAt": "2026-09-17T18:17:37.894Z",
   "daily": [
+    {
+      "id": "m3m90d",
+      "title": "Lula Expected to Oppose Foreign Interference in Final UN Speech of His Term",
+      "summary": "President Luiz In�cio Lula da Silva is expected to oppose foreign interference in other countries' domestic affairs in his speech at the UN General Assembly's 81st session, scheduled for next Tuesday (22) in New York. The speech could be interpreted as a message to Donald Trump, amid concerns within the Brazilian gover",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/lula-expected-to-oppose-foreign-interference-in-final-un-speech-of-his-term.shtml",
+      "image": null,
+      "publishedAt": "2026-09-17T15:20:00.000Z",
+      "sample": false
+    },
     {
       "id": "er1lzl",
       "title": "'Feito Pipa' Selected as Brazil's Official Entry for the 2027 Oscars",
@@ -25,7 +36,9 @@
       "image": null,
       "publishedAt": "2026-09-16T22:41:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "2tnr0m",
       "title": "Brazil's Supreme Court Suspends Session on Possible Investigation into One of Its Justices",
@@ -36,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-09-16T15:03:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "wgz5zp",
       "title": "Brazilian City to Have World's Largest Cross Funded with $6 Million in Public Money",
@@ -136,28 +147,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/opinion/2026/09/supreme-court-justices-moraes-and-toffoli-cannot-vote-in-full-bench-session.shtml",
       "image": null,
       "publishedAt": "2026-09-10T18:45:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mksdwv",
-      "title": "Hyacinth Macaw and Tucuxi Added to Brazil's List of Threatened Species",
-      "summary": "The hyacinth macaw (Anodorhynchus hyacinthinus) and tucuxi (Sotalia fluviatilis) have been added to Brazil's list of fauna species threatened with extinction. The survey of terrestrial animals and marine mammals covers 790 species and was released in late June, complementing the list of 490 fish and aquatic invertebrat",
-      "category": "health",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/09/hyacinth-macaw-and-tucuxi-added-to-brazils-list-of-threatened-species.shtml",
-      "image": null,
-      "publishedAt": "2026-09-10T17:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "zc7hmg",
-      "title": "U.S. Government Deports Brazilian Boy, Son of Haitians, to Haiti",
-      "summary": "The U.S. deported a Brazilian boy born in 2021 to Haiti on August 27, one of the most dangerous countries in the world.\nLeia mais (09/10/2026 - 14h11)",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/us-government-deports-brazilian-boy-son-of-haitians-to-haiti.shtml",
-      "image": null,
-      "publishedAt": "2026-09-10T17:11:00.000Z",
       "sample": false
     }
   ],
