@@ -2,8 +2,52 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-16T18:17:20.902Z",
+  "updatedAt": "2026-09-17T00:20:00.849Z",
   "daily": [
+    {
+      "id": "1vtd4f",
+      "title": "How climate change worsened Nepal's deadly mountain collapse",
+      "summary": "A glacier and rock collapse in Nepal killed nearly 1,400 people and left thousands missing. Scientists say decades of warming helped set the disaster in motion.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-16T23:03:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "4lkf7v",
+      "title": "US Congress passes Russia sanctions bill",
+      "summary": "The sanctions package is considered the most substantial US legislative effort against Moscow since Trump returned to the White House. Measures in the bill could lead to secondary sanctions on India, China and Iran.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-congress-passes-russia-sanctions-bill/a-79299088?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-16T23:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3poex9",
+      "title": "Sweden's center-left bloc set to win election, STV reports",
+      "summary": "The center-left opposition won the Swedish elections by a very slim margin, the public broadcaster reported after 99% of the votes were counted. Thorny negotiations await the bloc even if the result is confirmed.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/sweden-s-center-left-bloc-set-to-win-election-stv-reports/a-79299076?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-16T22:56:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "amy3o6",
+      "title": "US Fed raises key rate for first time in 3 years",
+      "summary": "In an attempt to address the persistently high inflation in the world's largest economy, the US Federal Reserve increased interest rates by 25 basis points. The president, on the other hand, said they should be cut.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-fed-raises-key-rate-for-first-time-in-3-years/a-79297295?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-16T18:24:00.000Z",
+      "sample": false
+    },
     {
       "id": "gk7uwc",
       "title": "Germany: Oktoberfest beer prices rise, outpacing inflation",
@@ -181,39 +225,6 @@
       "sample": false
     },
     {
-      "id": "vj5wu8",
-      "title": "Duterte makes first appearance before ICC judges",
-      "summary": "Former Philippine President Rodrigo Duterte appeared in person at the ICC as judges considered claims of memory impairment and poor health. The 81-year-old is accused of crimes against humanity.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/duterte-makes-first-appearance-before-icc-judges/a-79288207?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T11:06:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2srcpk",
-      "title": "US charges 5 people over Russia-backed plots",
-      "summary": "US prosecutors accuse the foreign nationals of conducting surveillance, attacks and murder-for-hire operations for the Kremlin — just after a DW investigation identified one of the suspects as a salsa teacher in Russia.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-charges-5-people-over-russia-backed-plots/a-79285863?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T10:29:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "np3dhp",
-      "title": "US announces South Africa visa curbs over race claims",
-      "summary": "The visa restriction policy targets South African nationals who US Secretary of State Marco Rubio claims are responsible for \"race-based discrimination\" against white citizens.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-announces-south-africa-visa-curbs-over-race-claims/a-79288287?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T10:23:00.000Z",
-      "sample": false
-    },
-    {
       "id": "9i89ny",
       "title": "Global Gender Gap Report: Women's hard-won gains 'fragile'",
       "summary": "Two decades of progress toward gender parity is at risk as women's political representation declines, according to a new World Economic Forum report. At the current pace, the remaining gap could take 120 years to close.",
@@ -256,7 +267,9 @@
       "image": null,
       "publishedAt": "2026-09-16T08:25:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "vm84iy",
       "title": "Turkey's rights groups, EU call out LGBTQ+ crackdown",
@@ -267,9 +280,7 @@
       "image": null,
       "publishedAt": "2026-09-15T19:32:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "jfwye6",
       "title": "Drivers in Germany fume over soaring fuel prices",
