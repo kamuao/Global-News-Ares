@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-09-17T18:17:37.894Z",
+  "updatedAt": "2026-09-18T00:20:27.179Z",
   "daily": [
+    {
+      "id": "ekxfgz",
+      "title": "Trump Administration Demanded That 'Political Dissidents' Be Allowed to Take Part in Brazil's Election",
+      "summary": "The Trump administration demanded, during negotiations over the first imposition of 50% tariffs on Brazil, that the country allow \"political dissidents\" to take part in the 2026 presidential election. The demand was included in a document sent to Brazilian authorities by their US counterparts in October 2025, revealed ",
+      "category": "economy",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/trump-administration-demanded-that-political-dissidents-be-allowed-to-take-part-in-brazils-election.shtml",
+      "image": null,
+      "publishedAt": "2026-09-17T23:40:00.000Z",
+      "sample": false
+    },
     {
       "id": "m3m90d",
       "title": "Lula Expected to Oppose Foreign Interference in Final UN Speech of His Term",
@@ -14,7 +25,9 @@
       "image": null,
       "publishedAt": "2026-09-17T15:20:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "er1lzl",
       "title": "'Feito Pipa' Selected as Brazil's Official Entry for the 2027 Oscars",
@@ -36,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-09-16T22:41:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "2tnr0m",
       "title": "Brazil's Supreme Court Suspends Session on Possible Investigation into One of Its Justices",
@@ -136,17 +147,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/09/four-in-10-brazilians-used-ineffective-drugs-against-covid.shtml",
       "image": null,
       "publishedAt": "2026-09-11T15:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "jj9yl2",
-      "title": "Supreme Court Justices Moraes and Toffoli Cannot Vote in Full-Bench Session",
-      "summary": "Having cleared the initial stage of clarifying the extremely serious allegations against Supreme Court Justice Alexandre de Moraes, attention must now be paid to possible attempts to sabotage the procedure announced by Supreme Court Chief Justice Edson Fachin.\nLeia mais (09/10/2026 - 15h45)",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/opinion/2026/09/supreme-court-justices-moraes-and-toffoli-cannot-vote-in-full-bench-session.shtml",
-      "image": null,
-      "publishedAt": "2026-09-10T18:45:00.000Z",
       "sample": false
     }
   ],

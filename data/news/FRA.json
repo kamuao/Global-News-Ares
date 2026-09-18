@@ -2,17 +2,281 @@
   "id": "FRA",
   "name": "France",
   "sample": false,
-  "updatedAt": "2026-09-17T18:17:33.199Z",
+  "updatedAt": "2026-09-18T00:20:22.227Z",
   "daily": [
     {
-      "id": "amf28z",
-      "title": "L’UE exprime sa « totale solidarité » avec l’Arabie saoudite et appelle les houthistes à cesser leurs frappes, après une nouvelle journée d’affrontements meurtriers",
-      "summary": "Jeudi, de nouveaux échanges de tirs entre les combattants yéménites et le royaume saoudien ont fait quatre morts, dont trois enfants. Plus de 100 000 personnes ont été contraintes de quitter leur foyer depuis le début du conflit.",
-      "category": "military",
+      "id": "5ytrxu",
+      "title": "La vaccination des enfants en recul dans plusieurs pays d’Europe, selon une étude",
+      "summary": "D’après une enquête publiée par « The Lancet », sur sept vaccins infantiles étudiés de 1980 à 2024, au moins quatre sont en reflux ces dernières années dans seize pays de l’Union européenne, la pandémie de Covid-19 ayant marqué un tournant.",
+      "category": "health",
       "source": "le-monde",
-      "url": "https://www.lemonde.fr/international/article/2026/09/17/l-ue-exprime-sa-totale-solidarite-avec-l-arabie-saoudite-et-appelle-les-houthistes-a-cesser-leurs-frappes-apres-une-nouvelle-journee-d-affrontements-meurtriers_6776473_3210.html",
-      "image": "https://img.lemde.fr/2026/09/17/226/0/3000/1500/644/322/60/0/47e49dc_ftp-1-wvwdwl4f0ywv-4d4a108291d84146b4f2a3c72508c856-0-a813094a2b864c31a42135bd420f4d5e.jpg",
-      "publishedAt": "2026-09-17T18:01:34.000Z",
+      "url": "https://www.lemonde.fr/societe/article/2026/09/18/la-vaccination-des-enfants-en-recul-dans-plusieurs-pays-d-europe-selon-une-etude_6776517_3224.html",
+      "image": "https://img.lemde.fr/2026/09/17/155/0/5043/2521/644/322/60/0/dc3f8dd_upload-1-dpfswxoyjwa5-000-9xx7hp.jpg",
+      "publishedAt": "2026-09-18T00:00:17.000Z",
+      "sample": false
+    },
+    {
+      "id": "9omsok",
+      "title": "Michel Fournier, ministre délégué chargé de la ruralité, quitte le gouvernement",
+      "summary": "Il devrait reprendre la présidence de l’Association des maires ruraux de France, qu’il occupe depuis 2020 et dont il s’était mis en retrait en entrant dans le gouvernement Lecornu II, en octobre 2025.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/18/michel-fournier-ministre-delegue-charge-de-la-ruralite-quitte-le-gouvernement_6776516_823448.html",
+      "image": "https://img.lemde.fr/2026/01/28/1187/0/3933/1966/644/322/60/0/c07851b_upload-1-6kliwjqe61ck-jmug260127028.jpg",
+      "publishedAt": "2026-09-17T23:43:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "mrnsxm",
+      "title": "Rare Aztec manuscript returns to Mexico on loan after nearly two centuries in France",
+      "summary": "A prized 16th-century manuscript chronicling the rise and fall of the Aztec Empire has gone on display in Mexico City, nearly two centuries after it was taken to France, as Mexico continues to press Paris for its permanent return.",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/americas/20260917-rare-aztec-manuscript-returns-to-mexico-on-loan-after-nearly-two-centuries-in-france",
+      "image": "https://s.france24.com/media/display/eac40b7e-b2e9-11f1-a029-8bce42b8e305/w:1024/p:16x9/000-C8MK2CX.jpg",
+      "publishedAt": "2026-09-17T22:56:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "s6nfy5",
+      "title": "French police officer arrested over suspected far-right terror plot",
+      "summary": "A French police officer who allegedly adheres to a 'violent radical far-right ideology' has been arrested on suspicion of plotting attacks against state interests and manufacturing 3D-printed weapons, sources told AFP Thursday.",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/europe/20260917-french-police-officer-arrested-over-suspected-far-right-terror-plot",
+      "image": "https://s.france24.com/media/display/734d60f4-a19b-11f1-ba2b-005056bfb2b6/w:1024/p:16x9/000-34RN2HF.jpg",
+      "publishedAt": "2026-09-17T22:29:47.000Z",
+      "sample": false
+    },
+    {
+      "id": "it2q0r",
+      "title": "Un policier, « adhérent à une idéologie d’ultradroite », mis en examen pour préparation d’acte terroriste",
+      "summary": "Le fonctionnaire, qui a été placé en détention provisoire à Paris après avoir été interpellé, le 23 août, est « soupçonné d’avoir voulu mener des attaques violentes contre des intérêts de l’Etat » et d’avoir « fabriqué des armes imprimées en 3D ».",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/societe/article/2026/09/18/un-policier-adherent-a-une-ideologie-d-ultradroite-mis-en-examen-pour-preparation-d-acte-terroriste_6776483_3224.html",
+      "image": "https://img.lemde.fr/2026/09/07/250/0/3000/1500/644/322/60/0/3600db1_upload-1-zejgujgkq429-frame-1280.jpg",
+      "publishedAt": "2026-09-17T22:18:39.000Z",
+      "sample": false
+    },
+    {
+      "id": "o8i8g9",
+      "title": "US Midterms: Russian disinformation campaign targets Democrats",
+      "summary": "With US midterm elections now less than two months away, a series of videos have surfaced online, featuring celebrities seemingly denouncing the Democrats. However, the clips are false, and were created using artificial intelligence, as FRANCE 24's Charlotte Hughes explains.",
+      "category": "technology",
+      "source": "france24",
+      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260917-us-midterms-russian-disinformation-campaign-targets-democrats",
+      "image": "https://s.france24.com/media/display/404b89e0-b2dc-11f1-8ebd-8bce42b8e305/w:1024/p:16x9/ANGL260917-2045-Live-CS2045.jpg",
+      "publishedAt": "2026-09-17T21:19:37.000Z",
+      "sample": false
+    },
+    {
+      "id": "rpy4gm",
+      "title": "Budget 2027 : le déficit dérape, Sébastien Lecornu repousse d’un an le redressement des comptes",
+      "summary": "Le déficit devrait monter à 5,4 % du PIB en 2026, loin des 5 % visés, a reconnu le gouvernement, jeudi. Après ce dérapage, le premier ministre espère reprendre le contrôle des comptes publics en 2027. Les économistes, eux, restent dubitatifs.",
+      "category": "economy",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/17/budget-2027-le-deficit-derape-sebastien-lecornu-repousse-d-un-an-le-redressement-des-comptes_6776482_823448.html",
+      "image": "https://img.lemde.fr/2026/09/15/416/0/5000/2500/644/322/60/0/af221bb_upload-1-j8tw7gdttucy-ad038-lab-rep-dsc02564.jpg",
+      "publishedAt": "2026-09-17T21:15:03.000Z",
+      "sample": false
+    },
+    {
+      "id": "fykdi0",
+      "title": "The Canada-EU partnership 'a classic win-win situation', economist says",
+      "summary": "Speaking with FRANCE 24's Monte Francis, Fabian Zuleeg, Chief Economist at the European Policy Center, says that the partnership between Canada and the EU \"is a classic win-win situation. Canada has many resources, has many of the economic strengths that the European Union lacks, the EU has a very large market, it is a",
+      "category": "economy",
+      "source": "france24",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260917-the-canada-eu-partnership-a-classic-win-win-situation-economist-says",
+      "image": "https://s.france24.com/media/display/9fdd08e6-b2d9-11f1-875c-5570cf9529c5/w:1024/p:16x9/EN-20260917-223104-224044-CS.jpg",
+      "publishedAt": "2026-09-17T21:12:37.000Z",
+      "sample": false
+    },
+    {
+      "id": "ymg3ae",
+      "title": "Intent not malicious, it's indifference: Thousands, if not millions, of books sent to AI woodchipper",
+      "summary": "François Picard is pleased to welcome investigative journalist Emanuel Maiberg, Co-founder of 404 Media. As we embark on AI's uncharted waters, Maiberg has made a most unexpected discovery:: the mass acquisition, dismemberment and scanning of rare books for use as training data. His investigation reveals a globalised a",
+      "category": "technology",
+      "source": "france24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260917-intent-not-malicious-it-s-indifference-thousands-if-not-millions-of-books-sent-to-ai-woodchipper",
+      "image": "https://s.france24.com/media/display/09b313bc-b2cd-11f1-835c-61f6f55d211c/w:1024/p:16x9/EN-20260917-181320-182715-CS.jpg",
+      "publishedAt": "2026-09-17T21:10:55.000Z",
+      "sample": false
+    },
+    {
+      "id": "jpq182",
+      "title": "The Canada-EU partnership 'a classic win-win situation', economist says",
+      "summary": "Speaking with FRANCE 24's Monte Francis, Fabian Zuleeg, Chief Economist at the European Policy Center, says that the partnership between Canada and the EU \"is a classic win-win situation. Canada has many resources, has many of the economic strengths that the European Union lacks, the EU has a very large market, it is a",
+      "category": "economy",
+      "source": "france24",
+      "url": "https://www.france24.com/en/the-canada-eu-partnership-a-classic-win-win-situation-economist-says",
+      "image": "https://s.france24.com/media/display/9fdd08e6-b2d9-11f1-875c-5570cf9529c5/w:1024/p:16x9/EN-20260917-223104-224044-CS.jpg",
+      "publishedAt": "2026-09-17T21:09:20.000Z",
+      "sample": false
+    },
+    {
+      "id": "2ucx35",
+      "title": "Les Etats-Unis accordent des visas à l’Iran pour se rendre à l’Assemblée générale de l’ONU",
+      "summary": "Cette décision, attendue malgré les circonstances, contraste avec le refus des Etats-Unis d’accorder un visa au président de l’Autorité palestinienne, Mahmoud Abbas, qui a dénoncé, jeudi, une « mesure injustifiée ».",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/09/17/les-etats-unis-accordent-des-visas-a-l-iran-pour-se-rendre-a-l-assemblee-generale-de-l-onu_6776481_3210.html",
+      "image": "https://img.lemde.fr/2026/09/12/252/0/3048/1524/644/322/60/0/f2e0932_ftp-1-ewtn7mnyeu7q-2026-09-12t151738z-916515639-rc2hhnapnvmx-rtrmadp-3-brics-summit.JPG",
+      "publishedAt": "2026-09-17T20:48:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "ortusn",
+      "title": "French fishermen to end blockades over fuel prices",
+      "summary": "French fishermen have agreed to lift their blockades at fuel depots and ports including Nice, after talks with the government over financial aid. They say soaring fuel prices since the start of the war with Iran are pushing them to the brink. Also in the segment - India could be hit by fresh US tariffs if it keeps buyi",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/french-fishermen-to-end-blockades-over-fuel-prices",
+      "image": "https://s.france24.com/media/display/5833d92c-b2d7-11f1-981e-8bce42b8e305/w:1024/p:16x9/capture-16886675566aac4f1ae9c029-89417278.jpg",
+      "publishedAt": "2026-09-17T20:43:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rvfwlt",
+      "title": "AFP photo shows Trump examining image of apparent Kennedy Center razing",
+      "summary": "An AFP photo of Donald Trump examining a depiction of Washington's Kennedy Center apparently being demolished sparked widespread attention Thursday after the president threatened to tear down the revered arts venue because he has been blocked from renaming it after himself. FRANCE 24's Fraser Jackson reports from Washi",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/afp-photo-shows-trump-examining-image-of-apparent-kennedy-center-razing",
+      "image": "https://s.france24.com/media/display/6d25a13c-b2d5-11f1-be23-430f3874e448/w:1024/p:16x9/EN-20260917-220927-221244-CS.jpg",
+      "publishedAt": "2026-09-17T20:27:28.000Z",
+      "sample": false
+    },
+    {
+      "id": "ikum33",
+      "title": "Serial killer suspicions in South Africa",
+      "summary": "In tonight's edition, the body of a 9th woman is found in Johannesburg as South African police start investigating a potential femicidal serial killer. Also, Africans are excited about what good use of the technology could mean to growth, but many are also worried about what an AI free-for all could soon mean for their",
+      "category": "technology",
+      "source": "france24",
+      "url": "https://www.france24.com/en/serial-killer-suspicions-in-south-africa",
+      "image": "https://s.france24.com/media/display/3611477c-b2d6-11f1-8e6b-430f3874e448/w:1024/p:16x9/capture-12071973626aac4d34225ba0-03662603.jpg",
+      "publishedAt": "2026-09-17T20:25:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "t2ei5k",
+      "title": "Trump threatens EU over 'hostile' Canada association plan",
+      "summary": "US President Donald Trump threatened on Wednesday to cut trade with the European Union after the bloc proposed to make Canada its first ever associate member. \"I think it's laughable,\" Trump told reporters when asked about the plan. \"If they do that, if I think it's at all a hostile act, I will put very serious tariffs",
+      "category": "economy",
+      "source": "france24",
+      "url": "https://www.france24.com/en/trump-threatens-eu-over-hostile-canada-association-plan",
+      "image": "https://s.france24.com/media/display/45458dc8-b2ce-11f1-88d2-61f6f55d211c/w:1024/p:16x9/EN-20260917-203120-203742-CS.jpg",
+      "publishedAt": "2026-09-17T20:04:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2sfzw",
+      "title": "Au Royaume-Uni, Charles III, relais des inquiétudes mondiales sur l’emballement de l’IA",
+      "summary": "Devant des acteurs du secteur réunis en Ecosse, le roi a mis en garde contre les « dangers existentiels » posés par cette nouvelle technologie. Des appels à davantage de régulation, au niveau national et international, se font entendre au Royaume Uni.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/09/17/au-royaume-uni-charles-iii-relais-des-inquietudes-mondiales-sur-l-emballement-de-l-ia_6776479_3210.html",
+      "image": "https://img.lemde.fr/2026/09/17/275/0/3300/1650/644/322/60/0/296cc0c_ftp-1-eukogwbc8tdt-5111460-01-06.jpg",
+      "publishedAt": "2026-09-17T20:00:03.000Z",
+      "sample": false
+    },
+    {
+      "id": "8vyiu5",
+      "title": "'Guess who didn't like Mark Carney's speech today? The far-right'",
+      "summary": "\"There was thunderous applause for Mark Carney, a standing ovation, the centrist MEPs all loved him, the far-left MEPs also really liked it. But guess who didn't like this speech today? The far-right. Far-Right MEPs were grumbling about Mark Carney's presence and even when he started his speech one, a far-right MEP sta",
+      "category": "health",
+      "source": "france24",
+      "url": "https://www.france24.com/en/guess-who-didn-t-like-mark-carney-s-speech-today-the-far-right",
+      "image": "https://s.france24.com/media/display/401bccd8-b2d1-11f1-93a8-430f3874e448/w:1024/p:16x9/EN-20260917-213420-214001-CS.jpg",
+      "publishedAt": "2026-09-17T19:57:43.000Z",
+      "sample": false
+    },
+    {
+      "id": "9t0nij",
+      "title": "Après un été de canicules et de sécheresse, le gouvernement envisage de réduire de plus de 30 % le budget de l’Ademe",
+      "summary": "Selon les informations du « Monde », l’Agence de la transition écologique verrait son budget d’intervention amputé de plus de 300 millions d’euros.",
+      "category": "economy",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/planete/article/2026/09/17/apres-un-ete-de-canicules-et-de-secheresse-le-gouvernement-envisage-de-reduire-de-plus-de-30-le-budget-de-l-ademe_6776478_3244.html",
+      "image": "https://img.lemde.fr/2026/09/17/647/0/7103/3551/644/322/60/0/9ed0369_upload-1-qbpnbothzne9-000-c2zt8zq.jpg",
+      "publishedAt": "2026-09-17T19:47:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "wokff7",
+      "title": "'The harms have come to outweigh the benefits' of social media, researcher says",
+      "summary": "The EU laid out plans Thursday for strict age limits for children to access social media, games and AI assistants -- and on forcing companies to make platforms safe before minors use them. Speaking with FRANCE 24's Mark Owen, Lisa Dittmer, Researcher, Children and Young People’s Digital Rights at Amnesty International,",
+      "category": "technology",
+      "source": "france24",
+      "url": "https://www.france24.com/en/the-harms-have-come-to-outweigh-the-benefits-of-social-media-researcher-says",
+      "image": "https://s.france24.com/media/display/44df0360-b2cd-11f1-8181-1d1125ed9143/w:1024/p:16x9/EN-20260917-210451-211619-CS.jpg",
+      "publishedAt": "2026-09-17T19:29:04.000Z",
+      "sample": false
+    },
+    {
+      "id": "t8i3sy",
+      "title": "Pour calmer la colère des pêcheurs, le gouvernement prend des engagements sur les prix des carburants",
+      "summary": "Après avoir bloqué deux ports depuis mardi, les pêcheurs de Méditerranée se sont engagés, jeudi soir, à lever leurs barrages à la suite des promesses du gouvernement d’accorder des aides qui « suivront la variation des cours des carburants ».",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/17/pour-calmer-la-colere-des-pecheurs-le-gouvernement-prend-des-engagements-sur-les-prix-des-carburants_6776476_3234.html",
+      "image": "https://img.lemde.fr/2026/09/17/464/0/5568/2784/644/322/60/0/68860c8_upload-1-is8hdwgmns0d-000-c8kz4hq.jpg",
+      "publishedAt": "2026-09-17T18:56:07.000Z",
+      "sample": false
+    },
+    {
+      "id": "wru4rx",
+      "title": "Le constructeur automobile chinois Geely pousse Renault à renforcer leur alliance",
+      "summary": "Au Brésil, le groupe français a annoncé la fabrication d’un nouveau véhicule hybride grâce à la technologie de son partenaire chinois. Geely veut étendre leur collaboration à l’ensemble de l’Amérique du Sud.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/economie/article/2026/09/17/le-constructeur-automobile-chinois-geely-pousse-renault-a-renforcer-leur-alliance_6776475_3234.html",
+      "image": "https://img.lemde.fr/2026/09/17/500/0/6000/3000/644/322/60/0/1ccf357_upload-1-kt8z67rbffrn-2026-04-28t135828z-2077716261-rc2dykac1265-rtrmadp-3-geely-automobile-france.JPG",
+      "publishedAt": "2026-09-17T18:52:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "efyut1",
+      "title": "India vows to protect energy security after new US tariffs over Russian oil",
+      "summary": "India has warned Washington that new measures to levy tariffs over the purchase of Russian oil could impact bilateral ties, the South Asian nation's foreign ministry said on Thursday, hours after the U.S. made a ​new move to ‌punish such buyers. Earlier in the day, the U.S. House of Representatives passed a sweeping sa",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/india-vows-to-protect-energy-security-after-new-us-tariffs-over-russian-oil",
+      "image": "https://s.france24.com/media/display/02117132-7b6c-11f1-9d11-005056bf30b7/w:1024/p:16x9/000-B96H4CQ.jpg",
+      "publishedAt": "2026-09-17T18:50:04.000Z",
+      "sample": false
+    },
+    {
+      "id": "nz9k26",
+      "title": "Trump declines to back Saudi Arabia as US officials reportedly meet Iran-backed Houthis in Oman",
+      "summary": "US officials met representatives of Yemen's Houthis in Oman over the weekend, five sources familiar with the matter said, days after the Iran-backed militia seized a strategic ​stretch of the ‌Red Sea coast in a sweeping offensive that routed Saudi-backed forces. U.S. ​President Donald Trump has so far rebuffed pleas f",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/trump-declines-to-back-saudi-arabia-as-us-officials-reportedly-meet-iran-backed-houthis-in-oman",
+      "image": "https://s.france24.com/media/display/e67af742-ae18-11f1-ae71-005056a90284/w:1024/p:16x9/000-C7VR3NQ.jpg",
+      "publishedAt": "2026-09-17T18:47:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "2lxc21",
+      "title": "'Stalemate' in Lebanon: Hezbollah justifies weapons, citing Israeli occupation and ongoing attacks",
+      "summary": "Angela Diffley is pleased to welcome Dr Filippo Dionigi, Senior Lecturer in Politics and International Relations at the University of Bristol. According to Dr. Dionigi, the central obstacle to Hezbollah’s disarmament is not simply the military capacity of the Lebanese state, but the absence of a political settlement ca",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/stalemate-in-lebanon-hezbollah-justifies-weapons-citing-israeli-occupation-and-ongoing-attacks",
+      "image": "https://s.france24.com/media/display/7dac3526-b2b6-11f1-a1e4-1d1125ed9143/w:1024/p:16x9/EN-20260917-151052-152026-CS.jpg",
+      "publishedAt": "2026-09-17T18:44:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "1v130r",
+      "title": "The Ceuta effect: how far will Europe's anti-migrant backlash go?",
+      "summary": "As the United States threatens Europe with more tariffs and eyes Greenland, as Russia tests the continent’s resolve over Ukraine, as the planet overheats,  where do citizens sense the biggest threat? In her Wednesday state of the EU speech, the Commission president addressed Ursula von der Leyen going big on manning th",
+      "category": "economy",
+      "source": "france24",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260917-the-ceuta-effect-how-far-will-europe-s-anti-migrant-backlash-go",
+      "image": "https://s.france24.com/media/display/edf72f42-b2c1-11f1-b3b4-7922de457103/w:1024/p:16x9/2026-09-13T083650Z-1505953259-RC26INA4QD32-RTRMADP-3-MIGRATION-EUROPE-SPAIN-CEUTA.jpg",
+      "publishedAt": "2026-09-17T18:16:31.000Z",
       "sample": false
     },
     {
@@ -23,40 +287,18 @@
       "source": "le-monde",
       "url": "https://www.lemonde.fr/international/article/2026/09/17/dans-le-sud-du-liban-a-quelques-mois-du-depart-de-la-finul-la-crainte-que-les-israeliens-puissent-faire-ce-qu-ils-veulent-sans-temoin_6776472_3210.html",
       "image": "https://img.lemde.fr/2026/09/15/564/0/6872/3436/644/322/60/0/0ef60c5_upload-1-2t6ijlbygmmk-09092026-finul-306.jpg",
-      "publishedAt": "2026-09-17T18:00:12.000Z",
+      "publishedAt": "2026-09-17T18:00:08.000Z",
       "sample": false
     },
     {
-      "id": "p0nq81",
-      "title": "De Sidiki Diabaté à Sona Jobarteh, un nouveau souffle pour la kora",
-      "summary": "L’instrument à cordes ouest-africain voit son public rajeunir et son répertoire évoluer, comme l’illustre le concert parisien du musicien malien, qui se produit ce vendredi 18 septembre à l’Accor Arena.",
+      "id": "gohrs7",
+      "title": "En Ukraine, David Arakhamia, l’homme qui a su se rendre indispensable aux côtés de Volodymyr Zelensky",
+      "summary": "A la tête du groupe parlementaire Serviteur du peuple, ce proche du président ukrainien s’est imposé à la fois en garant d’une majorité fragilisée et comme négociateur-clé face aux Américains et aux Russes.",
       "category": "politics",
       "source": "le-monde",
-      "url": "https://www.lemonde.fr/culture/article/2026/09/17/de-sidiki-diabate-a-sona-jobarteh-un-nouveau-souffle-pour-la-kora_6776466_3246.html",
-      "image": "https://img.lemde.fr/2026/09/17/463/0/1366/683/644/322/60/0/8514ac5_upload-1-gdgdi2ipuvjm-kora-2.jpeg",
-      "publishedAt": "2026-09-17T17:00:24.000Z",
-      "sample": false
-    },
-    {
-      "id": "lgu4b6",
-      "title": "EN DIRECT, présidentielle 2027 : Sébastien Lecornu vise un déficit public à 5 % et annonce un effort budgétaire « d’environ 54 milliards d’euros »",
-      "summary": "Le premier ministre a présenté les grandes lignes de sa copie pour le budget dans un entretien au « Figaro », jeudi après-midi. « L’Etat doit être exemplaire, et donc commencer par lui-même », a-t-il affirmé.",
-      "category": "economy",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/politique/live/2026/09/17/en-direct-presidentielle-2027-sebastien-lecornu-vise-un-deficit-public-a-5-et-annonce-un-effort-budgetaire-d-environ-54-milliards-d-euros_6776151_823448.html",
-      "image": "https://img.lemde.fr/2026/08/18/430/0/4500/2250/644/322/60/0/4d55a6f_upload-1-8m9ou6jaswp6-mfache-17082026-le-monde-deplacement-lecornu-en-gironde-france-ii-044.jpg",
-      "publishedAt": "2026-09-17T16:34:48.000Z",
-      "sample": false
-    },
-    {
-      "id": "vbsnq0",
-      "title": "En Inde, des festivités XXL pour l’anniversaire de Narendra Modi",
-      "summary": "Les célébrations prévues pour fêter les 76 ans du premier ministre indien sont loin de faire l’unanimité dans le pays et suscitent même l’indignation de la « gen Z ».",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/international/article/2026/09/17/en-inde-des-festivites-xxl-pour-l-anniversaire-de-narendra-modi_6776461_3210.html",
-      "image": "https://img.lemde.fr/2026/09/17/841/0/7687/3843/644/322/60/0/1a7188b_ftp-1-g0z5ruaachsn-5a9f7d7ff8cd4302bf2d6bb94ba9a1c4-0-d8f899c5a2794f4aa034bc33121523a5.jpg",
-      "publishedAt": "2026-09-17T16:30:10.000Z",
+      "url": "https://www.lemonde.fr/international/article/2026/09/17/en-ukraine-david-arakhamia-l-homme-qui-a-su-se-rendre-indispensable-aux-cotes-de-volodymyr-zelensky_6776468_3210.html",
+      "image": "https://img.lemde.fr/2026/09/15/209/90/4006/2003/644/322/60/0/7ef9e6a_upload-1-gvi99qghjkrq-gettyimages-2293927706.jpg",
+      "publishedAt": "2026-09-17T17:30:11.000Z",
       "sample": false
     },
     {
@@ -71,17 +313,6 @@
       "sample": false
     },
     {
-      "id": "mvdjgm",
-      "title": "Prix des carburants : les aides pour les pêcheurs suivront « la variation des cours du carburant », annonce la ministre de la mer et de la pêche, Catherine Chabaud ; les blocages levés à Nice et dans l’Hérault",
-      "summary": "Jeudi, les pêcheurs méditerranéens avaient bloqué le port de Nice et un dépôt pétrolier situé à Frontignan, dans l’Hérault.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/17/prix-des-carburants-les-aides-pour-les-pecheurs-suivront-la-variation-des-cours-du-carburant-annonce-la-ministre-de-la-mer-et-de-la-peche-catherine-chabaud-les-blocages-leves-a-nice-et-dans-l-herault_6776459_823448.html",
-      "image": "https://img.lemde.fr/2026/09/17/464/0/5568/2784/644/322/60/0/d1ddf2d_ftp-1-6go0uy3s11b8-5110131-01-06.jpg",
-      "publishedAt": "2026-09-17T16:10:24.000Z",
-      "sample": false
-    },
-    {
       "id": "lrahp8",
       "title": "Climate change: Glacier loss and dry rivers threaten water security",
       "summary": "The world's rivers experienced one of their driest years in more than three decades in 2025, while glaciers continued to retreat and freshwater reserves kept declining, according to the World Meteorological Organization. The agency warns that climate change and growing water use are making the global water cycle more e",
@@ -90,17 +321,6 @@
       "url": "https://www.france24.com/en/video/20260917-climate-change-glacier-loss-and-dry-rivers-threaten-water-security",
       "image": "https://s.france24.com/media/display/9b16c9aa-b2b1-11f1-a418-430f3874e448/w:1024/p:16x9/EN-20260917-171145-171339-CS.jpg",
       "publishedAt": "2026-09-17T16:10:02.000Z",
-      "sample": false
-    },
-    {
-      "id": "tx8206",
-      "title": "Dieudonné condamné à six mois sous bracelet électronique pour apologie du terrorisme et injure envers Laurent Nuñez",
-      "summary": "Le polémiste a publié plusieurs vidéos sur les réseaux sociaux dont le tribunal a jugé qu’elles présentaient l’attaque du Hamas sur le sol israélien du 7-Octobre « sous un jour très favorable ».",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/17/dieudonne-condamne-a-six-mois-sous-bracelet-electronique-pour-apologie-du-terrorisme-et-injure-envers-laurent-nunez_6776458_3224.html",
-      "image": "https://img.lemde.fr/2026/09/17/479/0/5750/2875/644/322/60/0/116cda6_ftp-1-icxiixssoxzr-5112149-01-06.jpg",
-      "publishedAt": "2026-09-17T16:04:33.000Z",
       "sample": false
     },
     {
@@ -126,17 +346,6 @@
       "sample": false
     },
     {
-      "id": "quw6st",
-      "title": "Dans la banlieue lyonnaise, le risque d’annulation des élections municipales provoque une bataille à gauche",
-      "summary": "A Vaulx-en-Velin et à Vénissieux, les maires « insoumis » Abdelkader Lahmar et Idir Boumertit s’étonnent d’erreurs administratives dont les maires perdantes – Hélène Geoffroy (PS) et Michèle Piccard (PCF) – étaient au courant au moment du scrutin.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/17/dans-la-banlieue-lyonnaise-le-risque-d-annulation-des-elections-municipales-provoque-une-bataille-a-gauche_6776454_823448.html",
-      "image": "https://img.lemde.fr/2026/09/17/540/0/6559/3279/644/322/60/0/31ae339_upload-1-plwqu3wy2vmb-000-a62c9rg.jpg",
-      "publishedAt": "2026-09-17T16:00:11.000Z",
-      "sample": false
-    },
-    {
       "id": "xcpak4",
       "title": "La dégradation des réseaux de fibre reste un fléau pour de nombreuses communes",
       "summary": "Les malfaçons sur les réseaux de fibre optique suscitent toujours l’ire des collectivités et des abonnés, qui pâtissent de coupures d’Internet ou d’échecs de raccordement.",
@@ -145,6 +354,17 @@
       "url": "https://www.lemonde.fr/economie/article/2026/09/17/la-degradation-des-reseaux-de-fibre-reste-un-fleau-pour-de-nombreuses-communes_6776453_3234.html",
       "image": "https://img.lemde.fr/2026/09/17/64/0/2752/1376/644/322/60/0/bd1d60a_upload-1-kfushfgmc8uf-image0.jpeg",
       "publishedAt": "2026-09-17T16:00:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "quw6st",
+      "title": "Dans la banlieue lyonnaise, le risque d’annulation des élections municipales provoque une bataille à gauche",
+      "summary": "A Vaulx-en-Velin et à Vénissieux, les maires « insoumis » Abdelkader Lahmar et Idir Boumertit s’étonnent d’erreurs administratives dont les maires perdantes – Hélène Geoffroy (PS) et Michèle Piccard (PCF) – étaient au courant au moment du scrutin.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/17/dans-la-banlieue-lyonnaise-le-risque-d-annulation-des-elections-municipales-provoque-une-bataille-a-gauche_6776454_823448.html",
+      "image": "https://img.lemde.fr/2026/09/17/540/0/6559/3279/644/322/60/0/31ae339_upload-1-plwqu3wy2vmb-000-a62c9rg.jpg",
+      "publishedAt": "2026-09-17T16:00:05.000Z",
       "sample": false
     },
     {
@@ -214,50 +434,6 @@
       "sample": false
     },
     {
-      "id": "6mwmc5",
-      "title": "Amnesty accuses Iran of crimes against humanity",
-      "summary": "Amnesty International has accused Iranian authorities of committing crimes against humanity during the 2022 Woman, Life, Freedom crackdown, saying more than 500 people, including 71 children, were killed and that the violence disproportionately targeted Kurdish and Baluchi communities. The rights group is urging the UN",
-      "category": "society",
-      "source": "france24",
-      "url": "https://www.france24.com/en/amnesty-accuses-iran-of-crimes-against-humanity",
-      "image": "https://s.france24.com/media/display/b819a372-b2a4-11f1-b669-6db10b20ba37/w:1024/p:16x9/EN-20260917-152151-152343-CS.jpg",
-      "publishedAt": "2026-09-17T14:55:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "avkcbt",
-      "title": "Houthis claim Saudi F-15 kill as Yemen fighting escalates",
-      "summary": "Yemen's Houthi rebels have released footage they say shows the wreckage of a Saudi F-15 fighter jet, which, if confirmed, would mark the first fighter jet they have shot down. The claim comes as fighting escalates in Yemen, with the Houthis expanding their control around the strategic Bab al-Mandab Strait and the UN ur",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/houthis-claim-saudi-f-15-kill-as-yemen-fighting-escalates",
-      "image": "https://s.france24.com/media/display/4e0dde78-b2a2-11f1-98e8-991cccd3bb73/w:1024/p:16x9/EN-20260917-141009-141202-CS.jpg",
-      "publishedAt": "2026-09-17T14:53:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "y5h08x",
-      "title": "Carney pushes Canada-EU ties beyond trade",
-      "summary": "Canadian Prime Minister Mark Carney used his address to the European Parliament to signal that Ottawa wants to deepen its partnership with the EU beyond trade, expanding cooperation on energy, AI, space and payment sovereignty, while also seeking to join the Erasmus programme. FRANCE 24's Dave Keating explains how the ",
-      "category": "economy",
-      "source": "france24",
-      "url": "https://www.france24.com/en/carney-pushes-canada-eu-ties-beyond-trade",
-      "image": "https://s.france24.com/media/display/fa6b4696-b28a-11f1-a748-4daf57bffe27/w:1024/p:16x9/2026-09-17T111429Z-20141978-RC2ZKNAG3C67-RTRMADP-3-EU-CANADA.jpg",
-      "publishedAt": "2026-09-17T14:52:51.000Z",
-      "sample": false
-    },
-    {
-      "id": "sonygf",
-      "title": "'We must 'force' social media to redesign harmful algorithms, platforms that fuel addictive behavior",
-      "summary": "Charles Pellegrin is pleased to welcome Hannah Storey, Head of Children and Young People’s Digital Rights at Amnesty International. Digital spaces can provide even young people with community, self-expression, education and opportunities for activism. The deeper problem, she warns, lies in the architecture of the platf",
-      "category": "military",
-      "source": "france24",
-      "url": "https://www.france24.com/en/we-must-force-social-media-to-regulate-algorithms-and-harmful-platforms-designed-to-push-content",
-      "image": "https://s.france24.com/media/display/1630abb2-b2a6-11f1-9dd6-d7a11ace016d/w:1024/p:16x9/EN-20260917-081043-081916-CS.jpg",
-      "publishedAt": "2026-09-17T14:52:00.000Z",
-      "sample": false
-    },
-    {
       "id": "bm3rx0",
       "title": "France Inter : la grève maintenue contre la chronique de Charles Sapin, directeur adjoint de la rédaction de « Valeurs actuelles », malgré les propositions de la direction",
       "summary": "La contestation à France Inter s’inscrit dans un climat tendu autour du pluralisme dans l’audiovisuel public, alors que d’autres rédactions publiques expriment aussi leur inquiétude.",
@@ -266,182 +442,6 @@
       "url": "https://www.lemonde.fr/actualite-medias/article/2026/09/17/france-inter-la-greve-maintenue-contre-l-edito-de-valeurs-actuelles-malgre-les-propositions-de-la-direction_6776439_3236.html",
       "image": "https://img.lemde.fr/2026/09/13/485/0/5826/2913/644/322/60/0/93c9758_ftp-1-v3b6khxwy8yx-5077259-01-06.jpg",
       "publishedAt": "2026-09-17T14:50:35.000Z",
-      "sample": false
-    },
-    {
-      "id": "443e4a",
-      "title": "Brazil election: Lula vows to stand up to Trump",
-      "summary": "Brazilian President Lula says he will confront President Donald Trump at the UN in New York, accusing him of interfering in Brazil's election as tensions between Washington and Brasília deepen. The dispute comes after US tariffs on Brazilian goods and Trump's support for Lula's rival, Flavio Bolsonaro, the son of forme",
-      "category": "economy",
-      "source": "france24",
-      "url": "https://www.france24.com/en/brazil-election-lula-vows-to-stand-up-to-trump",
-      "image": "https://s.france24.com/media/display/345cc18c-8e95-11f1-b4f7-005056a97e36/w:1024/p:16x9/000-C3TD7FG.jpg",
-      "publishedAt": "2026-09-17T14:47:39.000Z",
-      "sample": false
-    },
-    {
-      "id": "1xoudu",
-      "title": "Lebanon on Paris talks : 'the general sentiment here is very little hope'",
-      "summary": "Lebanese President Joseph Aoun is in Paris for talks with Emmanuel Macron, but on the ground many Lebanese say they have little hope after months of war with Israel, the continued occupation of parts of southern Lebanon and uncertainty over regional tensions. FRANCE 24's Renée David reports from Beirut on hopes that Ao",
-      "category": "military",
-      "source": "france24",
-      "url": "https://www.france24.com/en/lebanon-on-paris-talks-the-general-sentiment-here-is-very-little-hope",
-      "image": "https://s.france24.com/media/display/8d9744b0-b2a4-11f1-815e-4daf57bffe27/w:1024/p:16x9/EN-20260917-141204-141501-CS.jpg",
-      "publishedAt": "2026-09-17T14:46:07.000Z",
-      "sample": false
-    },
-    {
-      "id": "of5s5r",
-      "title": "From Then to Now: European Heritage Days and saving France's 'patrimoine'",
-      "summary": "Whether it’s visiting a national monument, going behind-the-scenes at a television station or walking around a neighbour’s castle, millions participate every year in The European Heritage Days. We dive into how they got their start, why they're needed now more than ever, and how there's a new deal – the Patrimoine Pass",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260917-from-then-to-now-european-heritage-days-and-saving-france-s-patrimoine",
-      "image": "https://s.france24.com/media/display/12c01f7c-b2a0-11f1-b523-991cccd3bb73/w:1024/p:16x9/capture-11237339186aabf260047b59-39270028.jpg",
-      "publishedAt": "2026-09-17T14:30:31.000Z",
-      "sample": false
-    },
-    {
-      "id": "qa9t63",
-      "title": "US interest rate hike sparks Trump backlash",
-      "summary": "The US Federal Reserve has raised interest rates for the first time since 2023, citing stubborn inflation despite pressure from President Donald Trump to cut borrowing costs. The decision prompted an immediate rebuke from Trump, while Fed Chair Kevin Warsh defended the central bank's independence and warned that inflat",
-      "category": "military",
-      "source": "france24",
-      "url": "https://www.france24.com/en/us-interest-rate-hike-sparks-trump-backlash",
-      "image": "https://s.france24.com/media/display/46cfe290-b29e-11f1-bac2-4daf57bffe27/w:1024/p:16x9/EN-20260917-140754-140925-CS.jpg",
-      "publishedAt": "2026-09-17T14:21:23.000Z",
-      "sample": false
-    },
-    {
-      "id": "bc2ugt",
-      "title": "IA : « Le Monde » publie les discours de Bernie Sanders et Steve Bannon pour encadrer les nouveaux modèles",
-      "summary": "Le sénateur du Vermont, figure de la gauche américaine, et l’animateur national-populiste pro-MAGA, se sont rencontrés le 15 septembre à Washington pour parler de l’intelligence artificielle. « Le Monde » retranscrit leurs appels à contrôler d’urgence cette technologie.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/international/article/2026/09/17/ia-le-monde-publie-les-discours-de-bernie-sanders-et-steve-bannon-pour-encadrer-les-nouveaux-modeles_6776437_3210.html",
-      "image": "https://img.lemde.fr/2026/09/15/55/0/3000/1500/644/322/60/0/af9803c_ftp-1-prnaj6g9rmft-2026-09-15t203610z-1610486943-rc2ujnas38qb-rtrmadp-3-usa-ai-safety.JPG",
-      "publishedAt": "2026-09-17T14:13:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "wt94ez",
-      "title": "Paris, the ultimate film set",
-      "summary": "Paris has been a muse for filmmakers for over a century. The French capital has inspired countless scenes on the big screen. A new book brings them all together. Ruby Boukabou, author of 'The Movie Lovers' Guide to Paris', joins us to talk through her movie-themed walking tours in some of the city's most cinematic neig",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260917-paris-the-ultimate-film-set",
-      "image": "https://s.france24.com/media/display/2596e4d8-b268-11f1-bb67-0dbbad64a63b/w:1024/p:16x9/WB237104-O-01-20260917-01.jpg",
-      "publishedAt": "2026-09-17T13:38:38.000Z",
-      "sample": false
-    },
-    {
-      "id": "yge8gp",
-      "title": "Après Kylian Mbappé, Teddy Riner à son tour ciblé par le RN, pour avoir exprimé son « angoisse » d’une victoire de Marine Le Pen en 2027",
-      "summary": "Dans l’émission « Stade 2 » diffusée mercredi soir, le judoka a dit « flipper » de voir la « montée de l’extrême droite » dans le pays. A l’image du capitaine de l’équipe de France de football, il a fait l’objet de vives critiques de la part de députés RN.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/17/apres-kylian-mbappe-teddy-riner-a-son-tour-cible-par-le-rn-pour-avoir-exprime-son-angoisse-d-une-victoire-de-marine-le-pen-en-2027_6776430_823448.html",
-      "image": "https://img.lemde.fr/2026/09/17/408/0/4896/2448/644/322/60/0/2d33044_upload-1-kvyfnqladcbo-000-86he9k2.jpg",
-      "publishedAt": "2026-09-17T13:37:02.000Z",
-      "sample": false
-    },
-    {
-      "id": "vdc7s8",
-      "title": "DR Congo says Ebola outbreak has passed its peak",
-      "summary": "More than 3,510 people have died from Ebola in eastern DR Congo since the outbreak was declared four months ago, with Ituri accounting for 78% of confirmed cases. Congolese authorities say the epidemic has now passed its peak, pointing to signs that the outbreak is beginning to slow.",
-      "category": "health",
-      "source": "france24",
-      "url": "https://www.france24.com/en/dr-congo-says-ebola-outbreak-has-passed-its-peak",
-      "image": "https://s.france24.com/media/display/251f5dca-b298-11f1-9d17-991cccd3bb73/w:1024/p:16x9/EN-20260916-214314-214535-CS.jpg",
-      "publishedAt": "2026-09-17T13:36:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "5gdks6",
-      "title": "Zimbabwe farmers brace for El Niño by saving water",
-      "summary": "Some communities in Zimbabwe are adopting water-saving techniques such as aquaponics and rainwater harvesting to protect crops as the country braces for El Niño-driven drought. Sharon Mazingaizo has this report.",
-      "category": "environment",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20260917-zimbabwe-farmers-brace-for-el-ni%C3%B1o-by-saving-water",
-      "image": "https://s.france24.com/media/display/1ec4d298-b298-11f1-98d9-4daf57bffe27/w:1024/p:16x9/EN-20260916-215122-215323-CS.jpg",
-      "publishedAt": "2026-09-17T13:33:33.000Z",
-      "sample": false
-    },
-    {
-      "id": "frleqo",
-      "title": "Tigray: 20,000 university students relocated by conflict",
-      "summary": "Ethiopia's Education Ministry says around 20,000 university students in Tigray will be temporarily relocated to other public campuses after accusing the TPLF of using universities as military bases. The move comes as fighting and drone strikes continue in the northern region, with many students saying the trauma of the",
-      "category": "military",
-      "source": "france24",
-      "url": "https://www.france24.com/en/tigray-20-000-university-students-relocated-by-conflict",
-      "image": "https://s.france24.com/media/display/309e90ee-b298-11f1-9648-991cccd3bb73/w:1024/p:16x9/EN-20260916-214840-215041-CS.jpg",
-      "publishedAt": "2026-09-17T13:30:51.000Z",
-      "sample": false
-    },
-    {
-      "id": "fitavn",
-      "title": "Senegal farmers turn to fish and rice farming",
-      "summary": "Some farmers in northern Senegal are combining fish farming with rice cultivation, using an age-old technique that helps fertilise fields, reduce pests and diversify incomes. The climate-smart approach is gaining renewed attention as communities adapt to growing environmental pressures.",
-      "category": "environment",
-      "source": "france24",
-      "url": "https://www.france24.com/en/senegal-farmers-turn-to-fish-and-rice-farming",
-      "image": "https://s.france24.com/media/display/3546f17c-b298-11f1-80da-d7a11ace016d/w:1024/p:16x9/EN-20260916-215341-215523-CS.jpg",
-      "publishedAt": "2026-09-17T13:28:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "91shp9",
-      "title": "Lebanon: UNIFIL withdrawal at the heart of Paris talks",
-      "summary": "Emmanuel Macron welcomes Lebanese President Joseph Aoun and Jordan's King Abdullah II to Paris today for talks on Lebanon's security and international support for the Lebanese army. The meeting comes as France pushes to prevent a security vacuum ahead of UNIFIL's planned withdrawal at the end of 2026, with Israeli stri",
-      "category": "military",
-      "source": "france24",
-      "url": "https://www.france24.com/en/lebanon-unifil-withdrawal-at-the-heart-of-paris-talks",
-      "image": "https://s.france24.com/media/display/d493f712-b297-11f1-8ba9-07ed91e97eb2/w:1024/p:16x9/EN-20260917-130744-131215-CS.jpg",
-      "publishedAt": "2026-09-17T13:23:41.000Z",
-      "sample": false
-    },
-    {
-      "id": "7uh5ys",
-      "title": "Sweden: Andersson's centre left claims narrow win",
-      "summary": "Sweden's centre-left opposition, led by Magdalena Andersson, is set to defeat the incumbent right-wing bloc by one seat after nearly all votes were counted in Sunday's election. The narrow result means coalition talks are likely to be challenging, with parliament due to begin the government formation process on Septemb",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/sweden-andersson-s-centre-left-claims-narrow-win",
-      "image": "https://s.france24.com/media/display/a5531ffa-b297-11f1-af34-d7a11ace016d/w:1024/p:16x9/EN-20260917-131830-131930-CS.jpg",
-      "publishedAt": "2026-09-17T13:22:19.000Z",
-      "sample": false
-    },
-    {
-      "id": "y8vx4b",
-      "title": "Erdogan to sidestep Turkey’s constitutional term limits in early 2028 vote, adviser says",
-      "summary": "Turkish President Recep Tayyip Erdogan intends to run in an early election in 2028 in order to circumvent the constitutional term limits he would face if he serves out his full current term, a top adviser said Thursday. Under Turkey's constitution, parliament can trigger early elections given the support of 360 lawmake",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/asia-pacific/20260917-turkey-s-erdogan-to-run-in-early-2028-vote-sidestepping-constitutional-term-limit",
-      "image": "https://s.france24.com/media/display/4d859114-b2a5-11f1-91f1-a1d0582895b1/w:1024/p:16x9/AP26244537919329.jpg",
-      "publishedAt": "2026-09-17T13:12:06.000Z",
-      "sample": false
-    },
-    {
-      "id": "42gixw",
-      "title": "Les djihadistes français détenus en Irak devraient commencer à être jugés à partir de dimanche",
-      "summary": "Une cinquantaine de combattants français du groupe Etat islamique encourent la peine de mort en Irak. Leurs avocats dénoncent un « déni de justice » et demandent leur rapatriement afin qu’ils soient jugés en France.",
-      "category": "military",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/17/les-djihadistes-francais-detenus-en-irak-devraient-commencer-a-etre-juges-a-partir-de-dimanche_6776418_3224.html",
-      "image": "https://img.lemde.fr/2024/01/09/139/0/3000/1500/644/322/60/0/625de00_1704816574401-justice01.jpg",
-      "publishedAt": "2026-09-17T12:07:58.000Z",
-      "sample": false
-    },
-    {
-      "id": "8huwhr",
-      "title": "En Russie, les antiguerre tentent de résister face à la machine électorale de Vladimir Poutine",
-      "summary": "Orchestrées et contrôlées par le Kremlin, les élections législatives, qui doivent se tenir du 18 au 20 septembre, sont gagnées d’avance par Russie unie, le parti du président Vladimir Poutine. Malgré la répression, des Russes veulent utiliser ce scrutin pour s’exprimer contre le régime et la guerre.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/international/article/2026/09/17/en-russie-les-antiguerre-tentent-de-resister-face-a-la-machine-electorale-de-vladimir-poutine_6776011_3210.html",
-      "image": "https://img.lemde.fr/2026/09/03/521/0/5181/2590/644/322/60/0/7823c2a_ftp-1-xqm5jmlb5tic-2026-09-03t181446z-859214593-rc2tbnar7w42-rtrmadp-3-russia-rights-war.JPG",
-      "publishedAt": "2026-09-17T05:00:08.000Z",
       "sample": false
     }
   ],
