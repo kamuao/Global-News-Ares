@@ -2,8 +2,41 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-09-18T12:18:22.151Z",
+  "updatedAt": "2026-09-18T18:16:28.400Z",
   "daily": [
+    {
+      "id": "mo8s2c",
+      "title": "Diana's brother says he's 'telling truth' about king's 'monstrous' phone call",
+      "summary": "Princess Diana's brother has doubled down on his swathe of explosive claims about Britain's royal family, insisting he is \"telling the truth\", and suggesting the king is \"embarrassed\".",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-19/princess-dianas-brother-says-he-is-telling-truth-in-new-book/107171200",
+      "image": null,
+      "publishedAt": "2026-09-18T17:47:16.000Z",
+      "sample": false
+    },
+    {
+      "id": "zamrvu",
+      "title": "Macron orders protection of French infrastructure from Russian hybrid attacks",
+      "summary": "The French president said the threat to Europe from Moscow's shadow warfare had \"intensified\".",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-19/france-threatened-by-russian-attacks/107171406",
+      "image": null,
+      "publishedAt": "2026-09-18T15:36:13.000Z",
+      "sample": false
+    },
+    {
+      "id": "vanjk",
+      "title": "Canberra ends Wests' NRLW fairytale in finals shut out",
+      "summary": "The Raiders have claimed a first-ever NRLW finals win, downing the Tigers 6-0 to end Wests' fairytale season.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-18/canberra-end-tigers-nrlw-fairytale-in-finals-shut-out/107171118",
+      "image": null,
+      "publishedAt": "2026-09-18T12:38:36.000Z",
+      "sample": false
+    },
     {
       "id": "a3v5kd",
       "title": "Third man charged over shooting in Melbourne's northern suburbs",
@@ -61,8 +94,8 @@
     },
     {
       "id": "6kc7cr",
-      "title": "Live: Stunning Freo blitz sets up grandstand finish in blockbuster prelim",
-      "summary": "Sydney is continuing its fairytale AFL finals campaign, with the unfancied Swans out-muscling minor premier Fremantle in a frenetic preliminary final at the SCG. Follow live.",
+      "title": "Freo flies into grand final after stunning fightback against Sydney",
+      "summary": "Fremantle overturns a 28-point third-term deficit to defeat Sydney by 12 points and become the first team to qualify for the AFL grand final.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-09-18/afl-prelim-final-sydney-swans-fremantle-dockers-live-blog/107164694",
@@ -115,12 +148,12 @@
       "sample": false
     },
     {
-      "id": "tspmn9",
-      "title": "ODI live: Head smashes quickfire ton as Aussies take on Zimbabwe",
-      "summary": "Australia's men's team is back in Harare for the second of three ODIs against Zimbabwe after Matt Renshaw's heroics in the first game. Check out the live scores and stats in our ScoreCentre.",
+      "id": "hcg6gc",
+      "title": "Blistering Head ton leads Australia to victory in second ODI in Zimbabwe",
+      "summary": "Travis Head has scored his first century since last summer's Ashes, with the punchy southpaw's eighth ODI ton leading Australia to an 84-run victory over Zimbabwe in the second ODI in Harare.",
       "category": "politics",
       "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-18/zimbabwe-vs-australia-second-odi-live-scores/107169640",
+      "url": "https://www.abc.net.au/news/2026-09-18/head-ton-leads-australia-to-odi-victory-over-zimbabwe/107169640",
       "image": null,
       "publishedAt": "2026-09-18T07:17:41.000Z",
       "sample": false
@@ -244,39 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-09-18/queensland-police-search-potentially-armed-man-greenvale/107169674",
       "image": null,
       "publishedAt": "2026-09-18T04:58:42.000Z",
-      "sample": false
-    },
-    {
-      "id": "74rlcm",
-      "title": "Social service body says Qld's breach bail laws were made in 'echo chamber'",
-      "summary": "The LNP administration's latest measure to curb crime, breach bail, go to jail, is being examined by a parliamentary committee.",
-      "category": "society",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-18/qcoss-not-called-for-qld-breach-bail-committee/107169776",
-      "image": null,
-      "publishedAt": "2026-09-18T04:57:20.000Z",
-      "sample": false
-    },
-    {
-      "id": "fbjt4o",
-      "title": "Man allegedly busted with 9kg of methodone at Melbourne Airport",
-      "summary": "A Geelong man has been charged after he allegedly tried to import about 2,500 methadone pills into Melbourne after arriving on a flight from Thailand.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-18/methadone-afp-melbourne-airport-charges/107169672",
-      "image": null,
-      "publishedAt": "2026-09-18T04:55:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "vgdo3f",
-      "title": "Inbred owl faces extinction without genetic rescue, scientists warn",
-      "summary": "Inbreeding could lead to extinction of an endangered owl on a remote island.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-18/norfolk-island-morepork-owl-at-risk-due-to-inbreeding-/107154678",
-      "image": null,
-      "publishedAt": "2026-09-18T04:51:45.000Z",
       "sample": false
     }
   ],
