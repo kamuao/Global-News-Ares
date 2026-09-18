@@ -2,17 +2,171 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-18T06:19:01.512Z",
+  "updatedAt": "2026-09-18T12:18:17.488Z",
   "daily": [
     {
-      "id": "rs9q",
-      "title": "Nigeria: At least 37 suspected illegal miners die in custody",
+      "id": "lwspp2",
+      "title": "Philippines: At least 3 students killed in school shooting",
+      "summary": "Emergency services received reports of gunfire at the Banga National High School in southern Mindanao on Friday afternoon. At least three students were killed, including the suspected gunman.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/philippines-at-least-3-students-killed-in-school-shooting/a-79319854?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-18T11:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "nhssj6",
+      "title": "Germany news: Fuel costs dominate debate ahead of polls",
+      "summary": "Germany's coalition government is grappling with record high fuel prices ahead of two state elections this weekend. Follow DW for more stories making headlines in Germany.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-fuel-costs-dominate-debate-ahead-of-polls/live-79324526?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-18T11:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "h5pox4",
+      "title": "India: Are food safety rules too much to swallow?",
+      "summary": "Recent raids at India's luxury hotels and a wider crackdown on its food companies have renewed the debate about food safety standards and their enforcement in the country.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-are-food-safety-rules-too-much-to-swallow/a-79324342?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-18T11:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "aeqd5f",
+      "title": "India heads for driest monsoon in 17 years as El Nino curbs rainfall",
+      "summary": "El Nino has put India on track for its driest monsoon since 2009. Meanwhile, the Election Commission has barred both Trinamool factions from using the party's name in by-elections. More with DW.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-heads-for-driest-monsoon-in-17-years-as-el-nino-curbs-rainfall/live-79320496?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-18T11:25:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "7fx8l2",
+      "title": "Nigeria: Protests erupt over deaths of 37 miners in custody",
       "summary": "Dozens of suspects accused of illegal mining were found dead in custody in Nigeria's north-central Niger State. Officials blame disease, while reports cite overcrowding and poor ventilation.",
       "category": "health",
       "source": "dw",
-      "url": "https://www.dw.com/en/nigeria-at-least-37-suspected-illegal-miners-die-in-custody/a-79316847?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/nigeria-protests-erupt-over-deaths-of-37-miners-in-custody/a-79316847?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-09-18T03:31:00.000Z",
+      "publishedAt": "2026-09-18T11:04:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "y9t4m7",
+      "title": "Germany faces energy tax losses as EV sales rise",
+      "summary": "The rapid shift to electric vehicles in Germany is cutting fuel tax revenue. As EV sales surge, policymakers face growing pressure to find new ways to fund roads and transportation infrastructure.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-18T10:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "h1s1kb",
+      "title": "Women's football in Germany booming but still much to do",
+      "summary": "Women's football is growing rapidly, particularly in Germany. Nevertheless, equal pay and investment remain major talking points.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/women-s-football-in-germany-booming-but-still-much-to-do/a-79291687?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-18T10:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "mt4bm3",
+      "title": "Bolivia: New cat species discovered by scientists",
+      "summary": "Genetic data confirmed that the small feline, called \"tilcayo\" by locals, is a new species of cat. It's the first such discovery in more than 100 years.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/bolivia-new-cat-species-discovered-by-scientists/a-79320205?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-18T09:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fcoi3x",
+      "title": "Oktoberfest 2026: Everything you need to know",
+      "summary": "This year, AI will be used to manage overcrowded situations. Find all the numbers surrounding the fest — including the price of water!",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/oktoberfest-2026-everything-you-need-to-know/a-79311285?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-18T08:47:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lfof7f",
+      "title": "Australia: Man killed in shark attack near Perth",
+      "summary": "A swimmer was mauled by a shark, with witnesses reporting a massive pool of blood in the water. There have been four confirmed fatal shark attacks in Australia this year.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/australia-man-killed-in-shark-attack-near-perth/a-79319936?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-18T08:13:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "v1trcz",
+      "title": "Venezuela unblocks some news websites censored for years",
+      "summary": "Venezuela has restored access to 17 news sites that were blocked for years under Nicolas Maduro's administration. While activists welcomed the move, they noted that dozens more news portals, remain inaccessible.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/venezuela-unblocks-some-news-websites-censored-for-years/a-79319441?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-18T08:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "yjkszc",
+      "title": "Malaysia: Jailed ex-leader Najib allowed house arrest",
+      "summary": "Convicted in the 1MDB scandal for embezzling millions, former Prime Minister Najib Razak had repeatedly sought clemency. Malaysia's king has now granted him a \"conditional pardon.\"",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/malaysia-jailed-ex-leader-najib-allowed-house-arrest/a-79318399?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-18T07:38:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "t09fmq",
+      "title": "VAR's mission creep a problem for football",
+      "summary": "After a decade of use, questions around VAR in football are louder than ever. Has the technology strayed too far from its remit?",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/var-s-mission-creep-a-problem-for-football/a-79272642?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-18T06:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "h85py7",
+      "title": "Organized crime and drug-related deaths rise Germany",
+      "summary": "Presenting its annual report for organized crime, the German police said that cocaine was a danger for the state and society, and that the cases of money laundering had increased.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/organized-crime-and-drug-related-deaths-rise-germany/a-79315774?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-18T06:51:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lk3iv",
+      "title": "Russia votes for new parliament in controlled elections",
+      "summary": "Russia is holding elections for the State Duma for the first time since Moscow sent troops into Ukraine in 2022. The party of President Vladimir Putin is expected to win the highly controlled affair.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/russia-votes-for-new-parliament-in-controlled-elections/a-79318392?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-18T06:39:00.000Z",
       "sample": false
     },
     {
@@ -82,17 +236,6 @@
       "sample": false
     },
     {
-      "id": "zaa06p",
-      "title": "Germany: Third malaria death linked to Frankfurt Airport",
-      "summary": "Two new malaria cases have been registered this week near Frankfurt airport, two months after cases first emerged.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-third-malaria-death-linked-to-frankfurt-airport/a-79315012?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-17T16:16:00.000Z",
-      "sample": false
-    },
-    {
       "id": "9lmat9",
       "title": "Alexander Ovechkin backs Putin party in campaign video",
       "summary": "Ice hockey legend Alexander Ovechkin has lent Vladimir Putin's party a helping hand in its parliamentary election campaign. That's in keeping with a pattern of support by an athlete who claims not to be political.",
@@ -101,17 +244,6 @@
       "url": "https://www.dw.com/en/alexander-ovechkin-backs-putin-party-in-campaign-video/a-79277772?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-17T16:02:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "itbnc8",
-      "title": "Saudi Arabia, Houthis exchange blows as conflict escalates",
-      "summary": "Five people were reportedly killed as the escalation between the two sides continues to spiral. The Houthis denied attacking Mecca, with Saudi Arabia saying one person was killed by drone shrapnel.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/saudi-arabia-houthis-exchange-blows-as-conflict-escalates/a-79313776?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-17T15:40:00.000Z",
       "sample": false
     },
     {
@@ -135,51 +267,9 @@
       "image": null,
       "publishedAt": "2026-09-17T14:36:00.000Z",
       "sample": false
-    },
-    {
-      "id": "6v6gj1",
-      "title": "Smuggling suspected as more rare animals seen in India",
-      "summary": "Orangutans, rare reptiles and other exotic animals are popping up in India, suggesting the country is becoming a major destination for trafficked wildlife.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/smuggling-suspected-as-more-rare-animals-seen-in-india/a-79309352?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-17T13:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "9g8nzm",
-      "title": "Fact check: How disinformation fuels Houthi-Saudi conflict",
-      "summary": "As fighting between the Houthis and Saudi Arabia escalates, old and repurposed videos have flooded social media, with many presented as fresh footage from the front lines.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/fact-check-how-disinformation-fuels-houthi-saudi-conflict/a-79307257?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-17T12:51:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8ivyyy",
-      "title": "South Africa: Police find 9th body of woman amid spree fears",
-      "summary": "Police in South Africa have discovered the bodies of nine women east of Johannesburg in two months, stoking fears of a serial killer or group of killers.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/south-africa-police-find-9th-body-of-woman-amid-spree-fears/a-79310945?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-17T12:45:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "176m83",
-      "title": "Europe seeks stricter age limits for TikTok, Instagram and Facebook",
-      "summary": "The European Commission wants to bar children under 13 from social media platforms and curb addictive features such as infinite scrolling. Companies that fail to comply could face hefty fines.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/europe-seeks-stricter-age-limits-for-tiktok-instagram-and-facebook/a-79310207?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-17T12:37:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "vfshb3",
       "title": "Klopp wants Germany's football team to 'reclaim the flag'",
@@ -214,17 +304,6 @@
       "sample": false
     },
     {
-      "id": "i0e2q6",
-      "title": "Canada's Carney welcomes associate status idea in EU speech",
-      "summary": "Mark Carney wants to strengthen Canada's ties to the European Union amid a growing rift with the US under Donald Trump. The US president has threatened to halt trade with Europe if it makes Canada an associate EU member.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/canada-s-carney-welcomes-associate-status-idea-in-eu-speech/a-79306191?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-17T10:15:00.000Z",
-      "sample": false
-    },
-    {
       "id": "386fx8",
       "title": "Jews once lived lived here: When houses tell stories",
       "summary": "Time and again, residents tracing the history of their homes discover the lives of Jewish predecessors who fled or were deported amid stories of suffering and loss.",
@@ -256,9 +335,7 @@
       "image": null,
       "publishedAt": "2026-09-17T07:06:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "1vtd4f",
       "title": "How climate change worsened Nepal's deadly mountain collapse",
@@ -282,23 +359,23 @@
       "sample": false
     },
     {
-      "id": "79stj2",
-      "title": "Can Canada and the EU deepen ties to counter Trump?",
-      "summary": "Canadian Prime Minister Mark Carney is known for standing up to US President Donald Trump. Now he wants to forge a \"unique alliance\" with Europe. But what could such a partnership look like?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/can-canada-and-the-eu-deepen-ties-to-counter-trump/a-79295388?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T16:50:00.000Z",
-      "sample": false
-    },
-    {
       "id": "mh1gn1",
       "title": "Chancellor Merz seeks CDU support amid far-right AfD surge",
       "summary": "Following the CDU's crushing defeat in the Saxony-Anhalt state election, many are expressing doubts about the party's leader, Chancellor Friedrich Merz. But the CDU doesn't appear to have a viable alternative.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/chancellor-merz-seeks-cdu-support-amid-far-right-afd-surge/a-79290192?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-16T16:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "79stj2",
+      "title": "Can Canada and the EU deepen ties to counter Trump?",
+      "summary": "Canadian Prime Minister Mark Carney is known for standing up to US President Donald Trump. Now he wants to forge a \"unique alliance\" with Europe. But what could such a partnership look like?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/can-canada-and-the-eu-deepen-ties-to-counter-trump/a-79295388?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-16T16:50:00.000Z",
       "sample": false
@@ -480,12 +557,12 @@
       "sample": false
     },
     {
-      "id": "42bt4e",
-      "title": "SPD state premier campaigns as one-woman bulwark against AfD",
-      "summary": "Manuela Schwesig, of the center-left SPD, has governed the state of Mecklenburg-Western Pomerania, on the Baltic Sea coast, since 2017. Ahead of this weekend's election, she is campaigning against the nationalist AfD.",
-      "category": "military",
+      "id": "y88ngq",
+      "title": "Can popular state premier Schwesig hold off the far-right AfD?",
+      "summary": "Manuela Schwesig has led Germany’s northeastern state of Mecklenburg-Western Pomerania since 2017. Will the center-left premier be able to stop the far-right AfD from emerging as the strongest force in Sunday’s election?",
+      "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/spd-state-premier-campaigns-as-one-woman-bulwark-against-afd/a-79264225?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/can-popular-state-premier-schwesig-hold-off-the-far-right-afd/a-79264225?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-15T11:17:00.000Z",
       "sample": false
@@ -719,61 +796,6 @@
       "url": "https://www.dw.com/en/russia-s-drone-war-comes-to-moldova-and-romania/a-79239591?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-12T06:27:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "gz8qic",
-      "title": "DW exclusive: Zelenskyy offers to meet Putin at G20 in Miami",
-      "summary": "In an interview with DW, Ukrainian President Volodymyr Zelenskyy said his country was in a strong position to negotiate and offered to meet Vladimir Putin in Miami.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-12T05:46:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "sp9fa1",
-      "title": "India looks to steer BRICS away from anti-Western turn",
-      "summary": "The BRICS summit 2026 takes place in Delhi this weekend. Unlike last year, Putin and Xi are expected to attend. Can India keep the expanded bloc united?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-looks-to-steer-brics-away-from-anti-western-turn/a-79195234?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T10:55:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "789avv",
-      "title": "Turks in Germany anxious after AfD wins in Saxony-Anhalt",
-      "summary": "The Alternative for Germany party's win in Saxony-Anhalt has alarmed people of Turkish origin in eastern states. Will workers and business owners abandon the increasingly AfD-friendly region for the more welcoming west?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/turks-in-germany-anxious-after-afd-wins-in-saxony-anhalt/a-79221764?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T10:07:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2z8ngg",
-      "title": "The 'end of an era' as Goethe-Institut in Russia closes",
-      "summary": "The Goethe-Institut was one of the last German institutions still operating in Russia. However, following Moscow's decision to close its offices, all employees will have to stop working by September 13.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/the-end-of-an-era-as-goethe-institut-in-russia-closes/a-79224321?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T09:39:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "n6xesc",
-      "title": "Magyar vs. Moscow: Hungary toughens stance toward Russia",
-      "summary": "Prime Minister Peter Magyar has abruptly ended the era of his predecessor's warm relations with Russia: Hungary has expelled 10 Russian diplomats. The Kremlin is considering halting gas supplies in response.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/magyar-vs-moscow-hungary-toughens-stance-toward-russia/a-79223424?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-11T08:20:00.000Z",
       "sample": false
     }
   ],

@@ -2,8 +2,96 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-18T06:19:04.449Z",
+  "updatedAt": "2026-09-18T12:18:20.376Z",
   "daily": [
+    {
+      "id": "vs84q5",
+      "title": "Japan’s busiest rail station tests robot bins",
+      "summary": "Shinjuku Station is a sprawling transport complex with multiple rail firms that serve more than 2.7 million passengers every day.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/18/japan/society/robot-bins-shinjuku-station/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563948.jpg",
+      "publishedAt": "2026-09-18T11:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "f7tfzg",
+      "title": "Rice prices fall below ¥3,000 for first time in two years",
+      "summary": "The decline marked the fifth straight week that rice prices have dropped.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/18/japan/rice-price-drop-3000-yen/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563949.jpg",
+      "publishedAt": "2026-09-18T10:59:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1u74c2",
+      "title": "Bid to widen use of spent nuclear fuel facility in Aomori hits resistance",
+      "summary": "After storage the fuel should be moved to the Rokkasho Reprocessing Plant for processing, but completion of the Rokkasho plant has been delayed.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/18/japan/society/nuclear-aomori-mutsu/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563931.jpg",
+      "publishedAt": "2026-09-18T08:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rza6kk",
+      "title": "Tropical Storm Dujuan to approach Tokyo over Silver Week",
+      "summary": "The storm is forecast to approach eastern Japan over the holiday period, bringing heavy rain, strong winds and high waves.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/18/japan/tropical-storm-tokyo-silver-week/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563891.jpg",
+      "publishedAt": "2026-09-18T06:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "hnoy71",
+      "title": "Tokyo offers the world’s cheapest Tesla Model Y at less than $23,000",
+      "summary": "Tesla has been highlighting the subsidies in its ads in Japan, targeting customers in the market dominated by domestic brands.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/18/companies/tesla-cheap-model/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563913.jpg",
+      "publishedAt": "2026-09-18T06:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lbjvk0",
+      "title": "Japan targets medal haul at home Asian Games",
+      "summary": "Several Japanese athletes are seeking to build on their performances at the 2024 Summer Olympics.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/18/more-sports/nagoya-asian-games-preview/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563883.jpg",
+      "publishedAt": "2026-09-18T06:37:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "i99dik",
+      "title": "All sections of Kyushu Shinkansen reopened after July quake",
+      "summary": "All sections on the high-speed line linking Hakata Station in Fukuoka Prefecture and Kagoshima-Chuo Station in Kagoshima Prefecture are operational.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/18/companies/kyushu-shinkansen-reopen/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563855.jpg",
+      "publishedAt": "2026-09-18T06:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "kaigcw",
+      "title": "Najib wins house arrest in Malaysia’s 1MDB corruption case",
+      "summary": "The pardon, however, is conditional upon former Prime Minister Najib Razak paying a 50 million ringgit ($12.3 million) fine.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/18/asia-pacific/crime-legal/najib-razak-house-arrest/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563885.jpg",
+      "publishedAt": "2026-09-18T06:08:00.000Z",
+      "sample": false
+    },
     {
       "id": "wf2sti",
       "title": "Kim’s sister says U.S. drills push North Korea nuclear arms growth",
@@ -38,8 +126,19 @@
       "sample": false
     },
     {
+      "id": "bnz5t4",
+      "title": "Japan’s rice balls are invading the U.K.",
+      "summary": "U.K. versions of onigiri have shortcomings, including rice that is too vinegary and closely packed, becoming starchy rather than moist but crumbly.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/18/japan/japans-rice-balls-invading-uk/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/562718.jpg",
+      "publishedAt": "2026-09-18T05:00:00.000Z",
+      "sample": false
+    },
+    {
       "id": "ytwjbm",
-      "title": "Japan’s rescued North Korean sailors at sea. How will Tokyo return them?",
+      "title": "Japan rescued North Korean sailors at sea. How will Tokyo return them?",
       "summary": "Thursday's rescue marks a rare circumstance in which North Korean authorities requested international assistance following the sinking of its vessel.",
       "category": "politics",
       "source": "japan-times",
@@ -105,8 +204,8 @@
     },
     {
       "id": "b52x40",
-      "title": "Bank of Japan raises rates, and might do so again soon",
-      "summary": "The move was widely expected given the underlying indicators, the yen and pressure from the United States.",
+      "title": "Bank of Japan raises rates and offers mixed signals about next move higher",
+      "summary": "Two dovish dissents are balanced by statement with a mildly hawkish tilt.",
       "category": "politics",
       "source": "japan-times",
       "url": "https://www.japantimes.co.jp/business/2026/09/18/economy/boj-meeting-september/",
@@ -159,6 +258,17 @@
       "sample": false
     },
     {
+      "id": "xqtdwn",
+      "title": "Empty words at the Xiangshan Forum",
+      "summary": "While Japan was not called out by name, Chinese speakers condemned this country by calling on participating states to mind the ​lessons of history.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/editorials/2026/09/18/the-xiangshan-forum/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563770.jpg",
+      "publishedAt": "2026-09-18T01:47:00.000Z",
+      "sample": false
+    },
+    {
       "id": "ofm0ll",
       "title": "Ahead of reshuffle, approval rate for Takaichi Cabinet fell to 44.1%",
       "summary": "The survey found that 68.6% of respondents opposed a decision to appoint lawmakers involved in a slush fund scandal to key party or Cabinet posts.",
@@ -167,6 +277,17 @@
       "url": "https://www.japantimes.co.jp/news/2026/09/18/japan/politics/poll-takaichi-approval-rate/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563762.jpg",
       "publishedAt": "2026-09-18T01:45:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "viyem1",
+      "title": "You don’t have to trust Chinese AI",
+      "summary": "National origin is a poor proxy for reliability, and what matters more is whether a model can be independently scrutinized.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/18/world/trusting-chinese-ai/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/561890.jpg",
+      "publishedAt": "2026-09-18T01:36:00.000Z",
       "sample": false
     },
     {
@@ -203,135 +324,14 @@
       "sample": false
     },
     {
-      "id": "cq4ns4",
-      "title": "Japan’s retail bond boom offers new avenue for fiscal funding",
-      "summary": "The surge comes as market watchers question who will finance the nation's borrowing as the Bank of Japan scales back debt purchases.",
-      "category": "health",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/18/economy/retail-bond-boom/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563731.jpg",
-      "publishedAt": "2026-09-18T00:55:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "tso8hm",
-      "title": "‘Nagi Notes’: An intimate portrayal of rural rhythms and realities",
-      "summary": "The latest film by Koji Fukada reveals an understated charm through languid conversations and art-making.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/culture/2026/09/18/film/nagi-notes/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563095.jpg",
-      "publishedAt": "2026-09-18T00:55:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "4gxd9d",
-      "title": "‘Mr. Nelson, Did You Kill People?’: A passionate but uneven anti-war biopic",
-      "summary": "Shinya Tsukamoto's \"Mr. Nelson, Did You Kill People?\" dramatizes the experiences of a Black Vietnam War veteran to mixed effect.",
+      "id": "vmx9cc",
+      "title": "Why India wants peace in Ukraine — and China doesn’t",
+      "summary": "India wants the Ukraine war to end because a weakened Russia empowers China, worsening India's strategic position.",
       "category": "military",
       "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/culture/2026/09/18/film/mr-nelson-did-you-kill-people/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563106.jpg",
-      "publishedAt": "2026-09-18T00:44:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "tvs1by",
-      "title": "Kids and social media: What would change under new EU law",
-      "summary": "The EU has been pushed to act after evidence has shown children's physical and mental wellbeing are damaged by social media.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/18/world/kids-social-media-eu-law/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563718.jpg",
-      "publishedAt": "2026-09-18T00:35:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "736gfl",
-      "title": "Tokyo Game Show turns 30, but gaming keeps looking to the past",
-      "summary": "Japan's premier gaming event celebrates three decades with many of the games that debuted on the show floor years ago.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/life/2026/09/18/digital/tokyo-game-show-2026/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563725.jpg",
-      "publishedAt": "2026-09-18T00:30:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "vlobvy",
-      "title": "How Yemen’s Houthis went from a small mountain militia to a big regional threat",
-      "summary": "A lightning advance by the Houthis has brought the vital Bab el-Mandeb Strait under its control, making it a regional player with global clout.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/18/world/yemen-houthis-explainer/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563764.jpg",
-      "publishedAt": "2026-09-17T22:30:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "62iuct",
-      "title": "Russia, China end mandate for independent monitoring of U.N. sanctions on Iran",
-      "summary": "The sanctions had been reimposed a year ago after Tehran was accused of violating the 2015 pact meant to prevent it from developing a nuclear weapon.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/18/world/politics/russia-china-un-sanctions-iran/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563714.jpg",
-      "publishedAt": "2026-09-17T22:17:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "z1urfw",
-      "title": "What Takaichi’s Cabinet reshuffle reveals",
-      "summary": "The prime minister kept many of the LDP's key figures in place, but there's still plenty that can be gleaned from her first Cabinet reshuffle.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/18/japan/politics/cabinet-reshuffle-analysis/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/thumbs/400x400/563685.jpg",
-      "publishedAt": "2026-09-17T20:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "50hvbt",
-      "title": "Canada’s Carney pushes ‘new alliance’ with EU despite Trump threats",
-      "summary": "The Canadian leader pushed back at U.S. President Donald Trump's threat to cut trade ties with the EU should the plan go ahead.",
-      "category": "economy",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/17/world/carney-eu-trump-threats/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/thumbs/400x400/563689.jpg",
-      "publishedAt": "2026-09-17T12:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "x3xuh2",
-      "title": "Apollo mulls raising SoftBank loan to $9 billion for OpenAI bets",
-      "summary": "SoftBank has emerged as one of the biggest investors globally in AI, putting its various borrowings to finance that push in the spotlight.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/17/softbank-loan-apollo/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/thumbs/400x400/563688.jpg",
-      "publishedAt": "2026-09-17T12:19:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "t0r1hr",
-      "title": "Sweden’s left wing wins election thriller",
-      "summary": "Around 50,000 votes separated the two sides in the country of 10.6 million people.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/17/world/sweden-election-left-wing/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/thumbs/400x400/563687.jpg",
-      "publishedAt": "2026-09-17T12:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8tn55q",
-      "title": "‘American VCs were hungrier’: Canada tries to stop tech startups from moving to U.S.",
-      "summary": "With the exception of firms like Shopify, Canada has struggled to create global tech firms, and has nothing on the scale of Apple or Alphabet.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/17/canada-tech-startups-us/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/17/thumbs/400x400/563686.jpg",
-      "publishedAt": "2026-09-17T11:22:00.000Z",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/18/world/india-china-ukraine-peace/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563292.jpg",
+      "publishedAt": "2026-09-18T01:21:00.000Z",
       "sample": false
     }
   ],
