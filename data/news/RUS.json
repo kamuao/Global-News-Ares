@@ -2,8 +2,283 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-09-19T00:19:57.860Z",
+  "updatedAt": "2026-09-19T12:18:37.137Z",
   "daily": [
+    {
+      "id": "jgusic",
+      "title": "Russian troops strike logistics centers, energy sites used by Ukrainian army in past day",
+      "summary": "Operational/tactical aircraft, attack unmanned aerial vehicles, missile troops and artillery of the Russian groups of forces struck arms depots, logistics centers, fuel and energy, transport and port infrastructure facilities in Ukraine used by the Ukrainian army, ammunition and materiel depots, workshops assembling an",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2190067",
+      "image": null,
+      "publishedAt": "2026-09-19T12:14:55.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrekp",
+      "title": "Over 4.6 mln people cast votes early in Russian election — CEC chief Pamfilova",
+      "summary": "She added that over 4.4 million people cast their votes early in 12 regions with the martial law in place",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190063",
+      "image": null,
+      "publishedAt": "2026-09-19T11:08:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrekn",
+      "title": "Fourteen polling stations in LPR operate using backup power supplies — CEC",
+      "summary": "The single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190061",
+      "image": null,
+      "publishedAt": "2026-09-19T10:49:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "jgusj5",
+      "title": "Russian air defenses intercept 936 Ukrainian UAVs, seven smart bombs over past day",
+      "summary": "Overall, the Russian Armed Forces have destroyed 674 Ukrainian combat aircraft, 284 helicopters, 240,045 unmanned aerial vehicles, 672 surface-to-air missile systems, 30,957 tanks and other armored combat vehicles",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2190059",
+      "image": null,
+      "publishedAt": "2026-09-19T10:27:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "jgusj7",
+      "title": "Kiev loses over 1,340 troops along engagement line in past day — Russia’s top brass",
+      "summary": "The latest figures show that the Ukrainian army lost up to 245 troops in the responsibility area of Russia’s Battlegroup North, more than 210 troops in the responsibility area of the Battlegroup West and some 145 troops in the responsibility area of the Battlegroup South",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2190057",
+      "image": null,
+      "publishedAt": "2026-09-19T10:25:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrejw",
+      "title": "Russian Interior Ministry receives 367 reports on alleged incidents at voting in past day",
+      "summary": "The single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190055",
+      "image": null,
+      "publishedAt": "2026-09-19T09:48:17.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrei8",
+      "title": "Moscow election system comes under powerful attacks during voting — official",
+      "summary": "Pamfilova noted that all attacks are being repelled and remote electronic voting in Moscow is in the standard operational mode",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190037",
+      "image": null,
+      "publishedAt": "2026-09-19T09:20:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbreia",
+      "title": "Russia’s voting procedure is ‘quite intense,’ says CEC chief Pamfilova",
+      "summary": "The single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190039",
+      "image": null,
+      "publishedAt": "2026-09-19T09:11:24.000Z",
+      "sample": false
+    },
+    {
+      "id": "m80ed0",
+      "title": "Trump Signs Sweeping Russia Sanctions Bill",
+      "summary": "The measures target Russia's energy and defense industries, as well as its \"shadow fleet\" of tankers that evade existing sanctions.",
+      "category": "politics",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/09/19/trump-signs-sweeping-russia-sanctions-bill-a93750",
+      "image": null,
+      "publishedAt": "2026-09-19T08:53:59.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrei6",
+      "title": "Hacker attacks cause technical glitch on first day of voting in Moscow",
+      "summary": "Kirillova specified that the operational activities of online voting terminals at polling stations in Moscow were fully restored within 20 minutes",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190035",
+      "image": null,
+      "publishedAt": "2026-09-19T08:25:39.000Z",
+      "sample": false
+    },
+    {
+      "id": "velxrn",
+      "title": "Power outages in LPR connected with accident at power system in neighboring DPR",
+      "summary": "DPR Prime Minister Andrey Chertkov earlier announced that power outages and voltage drops were reported in most municipalities of the region following an overnight attack by the Ukrainian armed forces",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/society/2190033",
+      "image": null,
+      "publishedAt": "2026-09-19T07:35:40.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrei2",
+      "title": "Fourteen polling stations in LPR switched to backup power supply — local election official",
+      "summary": "The single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20",
+      "category": "society",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190031",
+      "image": null,
+      "publishedAt": "2026-09-19T07:04:04.000Z",
+      "sample": false
+    },
+    {
+      "id": "jgusls",
+      "title": "Air defenses down 344 Ukrainian drones over Russia overnight — top brass",
+      "summary": "On-duty air defenses intercepted and destroyed 344 Ukrainian fixed-wing unmanned aerial vehicles over the past night over the Leningrad, Novgorod, Bryansk, Kursk, Belgorod, Oryol, Kaluga, Tula, Ryazan, Lipetsk, Vladimir, Rostov, Krasnodar, Moscow Regions, the Yamal-Nenets Autonomous District, the Republic of Dagestan a",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/defense/2190027",
+      "image": null,
+      "publishedAt": "2026-09-19T06:41:49.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrehb",
+      "title": "Some 2.2 mln people in Moscow cast votes online in parliamentary election",
+      "summary": "The single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190025",
+      "image": null,
+      "publishedAt": "2026-09-19T06:26:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "lp9zwe",
+      "title": "Current Ukrainian regime focused solely on war — Ukraine’s ex PM",
+      "summary": "Nikolay Azarov stressed that Kiev's allies should question where their support is leading",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2190023",
+      "image": null,
+      "publishedAt": "2026-09-19T04:38:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lp9zwc",
+      "title": "US envoy to UN confirms Trump-Rodriguez meeting on General Assembly sidelines — AP",
+      "summary": "According to the US Ambassador to the UN Mike Waltz, the meeting will be a casual \"pull-aside\" conversation rather than a formal bilateral negotiation",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2190021",
+      "image": null,
+      "publishedAt": "2026-09-19T03:58:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "sy4dxt",
+      "title": "Ukraine drone incident fails to disrupt operations at Kursk NPP-2 Unit 1 — Rosatom",
+      "summary": "The minor damage did not affect operations, and the unit continues to run at 100% capacity, Rosatom's press service said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/economy/2190019",
+      "image": null,
+      "publishedAt": "2026-09-19T03:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lp9zvn",
+      "title": "EU cannot buy Patriot missiles for Kiev yet due to lack of contracts",
+      "summary": "The EU approved funding for Patriot systems for Ukraine under the Ukraine Support Loan mechanism last week",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2190017",
+      "image": null,
+      "publishedAt": "2026-09-19T03:10:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "lp9zvl",
+      "title": "White House Correspondents' Association accuses Trump of targeting media",
+      "summary": "The US Constitution protects the freedom of the press from government interference, journalist Jacqui Heinrich said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2190015",
+      "image": null,
+      "publishedAt": "2026-09-19T03:03:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrege",
+      "title": "Russian forces drawing a noose around Ukrainian troops in Kharkov area",
+      "summary": "Encircled enemy personnel have been struck in the areas of Komissarovo, Krasny Yar, Grachevka, Khripuny, and Buzovo, head of the Battlegroup North press center Vasily Mezhevykh said",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190013",
+      "image": null,
+      "publishedAt": "2026-09-19T02:32:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "lp9zus",
+      "title": "Denmark accepts Greenland deal due to lack of defense funds, Rubio says",
+      "summary": "\"Denmark and Greenland understand that they don't have the financial means necessary to defend Greenland if it were to come under attack or be threatened,\" US Secretary of State Marco Rubio",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2190007",
+      "image": null,
+      "publishedAt": "2026-09-19T01:10:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrefj",
+      "title": "Russian forces advance on Nadiya from DPR’s Dobropolye, expert says",
+      "summary": "Military expert Andrey Marochko suggested that Nadiya would soon come under the control of the Russian military",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190003",
+      "image": null,
+      "publishedAt": "2026-09-19T00:48:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrefh",
+      "title": "Russian forces capture new lines in two sectors near DPR’s Druzhkovka — military expert",
+      "summary": "Andrey Marochko noted that the Russian army is demonstrating \"positive dynamics\"",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190001",
+      "image": null,
+      "publishedAt": "2026-09-19T00:44:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbdjm3",
+      "title": "Lavrov-Rubio meeting in New York being arranged, Russian diplomat says",
+      "summary": "Russian Foreign Ministry Spokeswoman Maria Zakharova also confirmed that the issue of Ukraine remains a key topic in the negotiations",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2189999",
+      "image": null,
+      "publishedAt": "2026-09-19T00:00:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "low516",
+      "title": "US, Denmark, and Greenland to sign security agreement at UN General Assembly",
+      "summary": "Following the signature, the agreement must undergo the necessary national parliamentary procedures before entering into force",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2189997",
+      "image": null,
+      "publishedAt": "2026-09-18T23:55:01.000Z",
+      "sample": false
+    },
     {
       "id": "low514",
       "title": "Trump signs legislation expanding sanctions against Russia — White House",
@@ -839,7 +1114,9 @@
       "image": null,
       "publishedAt": "2026-09-18T12:20:01.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "rbdhai",
       "title": "AUKUS development to undermine stability in Asia-Pacific, Russian diplomat warns",
@@ -852,160 +1129,6 @@
       "sample": false
     },
     {
-      "id": "rbdhae",
-      "title": "Putin votes remotely in State Duma elections",
-      "summary": "Over the past few years, the Russian president has preferred to cast his vote remotely",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2189653",
-      "image": null,
-      "publishedAt": "2026-09-18T12:10:27.000Z",
-      "sample": false
-    },
-    {
-      "id": "sxqgrp",
-      "title": "Hungary intends to phase out Russian gas by October 2027 — minister",
-      "summary": "Hungarian Minister of Economy and Energy Istvan Kapitany noted that Hungary’s gas needs can and will be met from other sources",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2189655",
-      "image": null,
-      "publishedAt": "2026-09-18T12:09:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbdhac",
-      "title": "Russia, China working out contingencies should US deploy 'Golden Dome' -—expert",
-      "summary": "According to Dmitry Stefanovich, the final configuration of the US system and its potential effectiveness remain unclear for now",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2189651",
-      "image": null,
-      "publishedAt": "2026-09-18T12:05:57.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbdh9p",
-      "title": "FACTBOX: Russian Foreign Ministry summons UK charge d'affaires",
-      "summary": "The British side was presented with \"a list of international obligations it is violating by supporting Kiev\"",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2189649",
-      "image": null,
-      "publishedAt": "2026-09-18T12:05:31.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbdh9h",
-      "title": "Russia sees AUKUS as unprecedented challenge to nuclear non-proliferation — MFA",
-      "summary": "Foreign Ministry Ambassador-at-Large Andrey Belousov reiterated that Russia deems the AUKUS submarine project as problem for the IAEA safeguards system",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2189641",
-      "image": null,
-      "publishedAt": "2026-09-18T11:48:06.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbdh8u",
-      "title": "FACTBOX: Attacks on remote e-voting system, rise in fake news amid elections in Russia",
-      "summary": "Over 1.6 million people have cast their ballots remotely in the elections in Moscow in six out of 60 voting hours, according to data from the Public Election Monitoring Center in Moscow",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2189639",
-      "image": null,
-      "publishedAt": "2026-09-18T11:41:07.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbdh8s",
-      "title": "US considering arming AUKUS submarines with nuclear warheads — Russian MFA",
-      "summary": "If the relevant decision is made, all the necessary infrastructure for this purpose will already have been established in Australia, Andrey Belousov said",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2189637",
-      "image": null,
-      "publishedAt": "2026-09-18T11:34:30.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbdh8o",
-      "title": "US weapons in space to trigger political, technical reaction — Russian expert",
-      "summary": "Dmitry Stefanovich recalled that Russia and China had proposed a draft treaty to prevent the deployment of weapons in space",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2189633",
-      "image": null,
-      "publishedAt": "2026-09-18T11:31:04.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbdh7x",
-      "title": "Russian MFA urges Japan to heed call to remove US Typhon systems — spokeswoman",
-      "summary": "Maria Zakharova stressed that Russia deemed Japan’s forward deployment of the above-mentioned systems on its territory unacceptable under any pretext",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2189627",
-      "image": null,
-      "publishedAt": "2026-09-18T11:29:44.000Z",
-      "sample": false
-    },
-    {
-      "id": "ve80hi",
-      "title": "Four IAEA experts start working at Zaporozhye NPP following rotation",
-      "summary": "Russian Defense Ministry servicemen, Russian National Guard personnel, and officers from the Main Directorate of the Russian Interior Ministry for the Zaporozhye Region ensured the security of the rotation",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/society/2189629",
-      "image": null,
-      "publishedAt": "2026-09-18T11:29:23.000Z",
-      "sample": false
-    },
-    {
-      "id": "sxqgp4",
-      "title": "Armenia attempting to force Russian owners to divest assets — Russian Security Council",
-      "summary": "Security Council Deputy Secretary Alexey Shevtsov said that such a tactic is going to be a real \"shot in the foot\" for the Armenian economy",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2189625",
-      "image": null,
-      "publishedAt": "2026-09-18T11:27:33.000Z",
-      "sample": false
-    },
-    {
-      "id": "sxqgod",
-      "title": "Kremlin says transfer of Nestle assets took into account unfriendly states involved",
-      "summary": "Dmitry Peskov said these are unfriendly countries that are actively involved in military operations against Russia",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/economy/2189619",
-      "image": null,
-      "publishedAt": "2026-09-18T11:22:35.000Z",
-      "sample": false
-    },
-    {
-      "id": "sxqgob",
-      "title": "Hungary intends to reduce dependence on Russian oil — minister",
-      "summary": "\"To this end, negotiations are underway with the Croatian side to fully use the Adria oil pipeline,\" Hungarian Minister of Economy and Energy Istvan Kapitany said",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2189617",
-      "image": null,
-      "publishedAt": "2026-09-18T11:19:25.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbdh70",
-      "title": "Russian forces conduct two massive, five group strikes on targets in Ukraine in past week",
-      "summary": "Russian forces struck a Nova Post logistics hub near Odessa used to store military supplies from Europe overnight, the Defense Ministry said",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2189615",
-      "image": null,
-      "publishedAt": "2026-09-18T11:17:07.000Z",
-      "sample": false
-    },
-    {
       "id": "hvkxy",
       "title": "Wine Production in Crimea Drops 25% Amid Fuel Shortages and Supply Line Attacks",
       "summary": "Industry experts told Kommersant that the production slump was due to Ukraine ramping up its attacks on the peninsula this summer.",
@@ -1014,127 +1137,6 @@
       "url": "https://www.themoscowtimes.com/2026/09/18/wine-production-in-crimea-drops-25-amid-fuel-shortages-and-supply-line-attacks-a93746",
       "image": null,
       "publishedAt": "2026-09-18T11:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbdh69",
-      "title": "Russia Foreign Ministry says West turns Arctic into arena of confrontation after Baltic",
-      "summary": "\"The region, which previously stood out for exclusively peaceful and constructive cooperation, is now seeing growing tensions and increasing risks of unintended escalation,\" Vladislav Maslennikov said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2189609",
-      "image": null,
-      "publishedAt": "2026-09-18T11:10:20.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbdh61",
-      "title": "Kiev seeks to disrupt elections in frontline regions by attacking civilians — Russian MFA",
-      "summary": "Rodion Miroshnik noted that a district election commission head had been killed and another one injured in the Zaporozhye Region over the previous two days",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2189601",
-      "image": null,
-      "publishedAt": "2026-09-18T10:44:40.000Z",
-      "sample": false
-    },
-    {
-      "id": "jh8qfw",
-      "title": "Skat-350M UAV has significant upgrade potential — Kalashnikov",
-      "summary": "\"In 2025 alone, the Skat-350M underwent more than 40 modifications,\" Director of the Kalashnikov Group Division for the Export of Drones and Loitering Munitions Leonid Rokeakh said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/defense/2189597",
-      "image": null,
-      "publishedAt": "2026-09-18T10:42:59.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbdgn7",
-      "title": "Russia Foreign Ministry reaffirms Arctic peace priority, readiness for dialogue",
-      "summary": "Vladislav Maslennikov noted that as the largest Arctic power, Russia has all the capabilities needed to independently develop and ensure the security of its Arctic Zone and accomplish national objectives in the Arctic",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2189595",
-      "image": null,
-      "publishedAt": "2026-09-18T10:40:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbdgma",
-      "title": "UK’s Ukraine policy weakens prospects for peaceful settlement — Russian MFA",
-      "summary": "\"It was pointed out that through large-scale supplies of long-range offensive weapons, London was putting itself in the position of an accomplice to the Kiev regime’s brutal atrocities,\" the Russian Foreign Ministry stressed",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2189583",
-      "image": null,
-      "publishedAt": "2026-09-18T10:21:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbdglf",
-      "title": "Ukrainian attack damages polling station in Krasnodar Region",
-      "summary": "The attack did not damage election documents or voting equipment and caused no casualties",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2189573",
-      "image": null,
-      "publishedAt": "2026-09-18T10:11:32.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbdglh",
-      "title": "West's toying with nuclear weapons causes particular concern — Russian Foreign Ministry",
-      "summary": "A recent development adding to this picture was Finland joining the French nuclear deterrence initiative, the statement reads",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2189575",
-      "image": null,
-      "publishedAt": "2026-09-18T10:08:30.000Z",
-      "sample": false
-    },
-    {
-      "id": "jh8qif",
-      "title": "Russia showcases Zhnets anti-UAV system at exhibition in South Africa",
-      "summary": "Jamming systems that are part of the Zhnets complex are also on display in Pretoria",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/defense/2189569",
-      "image": null,
-      "publishedAt": "2026-09-18T10:06:33.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbdgkm",
-      "title": "More than 3,500 people vote in State Duma elections in Bangladesh",
-      "summary": "The diplomatic mission noted the interest and active civic engagement shown by voters",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2189565",
-      "image": null,
-      "publishedAt": "2026-09-18T10:05:48.000Z",
-      "sample": false
-    },
-    {
-      "id": "cpxv9z",
-      "title": "Press review: US sanctions bill may hamper Ukraine talks as Russian parliament vote opens",
-      "summary": "Top stories from the Russian press on Friday, September 18th",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/pressreview/2189409",
-      "image": null,
-      "publishedAt": "2026-09-18T10:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbdgkk",
-      "title": "Russian MFA lodges protest to British charge d'affaires over weapons supplies to Kiev",
-      "summary": "During the demarche, Russia emphasized that \"the highly confrontational Ukraine policy the United Kingdom pursues is clearly aimed at prolonging and escalating the conflict to the greatest extent possible\"",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2189563",
-      "image": null,
-      "publishedAt": "2026-09-18T09:58:21.000Z",
       "sample": false
     },
     {
@@ -1169,9 +1171,7 @@
       "image": null,
       "publishedAt": "2026-09-18T08:59:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "jz0s7a",
       "title": "Father of Putin’s Reported Partner Takes Stake in Rosneft Arctic Contractor – Investigation",
