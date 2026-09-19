@@ -2,8 +2,19 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-18T18:16:26.062Z",
+  "updatedAt": "2026-09-19T00:19:59.529Z",
   "daily": [
+    {
+      "id": "1uwi2u",
+      "title": "Yen pares BOJ-fueled declines amid report of a rate check",
+      "summary": "The Bank of Japan reportedly inquired with market participants about exchange-rate levels, a step often seen as a precursor to official intervention.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/19/economy/yen-boj-rate-check/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/19/thumbs/400x400/563980.jpg",
+      "publishedAt": "2026-09-18T23:08:00.000Z",
+      "sample": false
+    },
     {
       "id": "4wp171",
       "title": "What ADHD looks like when it gets ahold of a microphone",
@@ -321,17 +332,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/09/18/japan/thai-police-fraud-suspects/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563755.jpg",
       "publishedAt": "2026-09-18T01:24:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mtp96k",
-      "title": "Is NATO ready to fight? The Ukraine war is raising doubts among military analysts",
-      "summary": "Ukrainian and Western defense officials said developments on the battlefield are moving so fast, some NATO weapons and tactics could become outdated.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/18/world/politics/nato-ukraine-analysts/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/563741.jpg",
-      "publishedAt": "2026-09-18T01:22:00.000Z",
       "sample": false
     }
   ],
