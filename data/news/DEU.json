@@ -2,8 +2,30 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-20T00:21:09.759Z",
+  "updatedAt": "2026-09-20T06:18:26.098Z",
   "daily": [
+    {
+      "id": "apy243",
+      "title": "Germany: Polls open in two key state elections",
+      "summary": "Voting in Berlin and Mecklenburg-Western Pomerania is expected to bring gains for the far-right AfD party and could determine whether Chancellor Friedrich Merz can hold on to power. Follow DW live.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-polls-open-in-two-key-state-elections/live-79322092?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-20T06:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1qrj1y",
+      "title": "Germany: Is it possible to replace the chancellor?",
+      "summary": "Chancellor Friedrich Merz's record-low approval ratings have emboldened his opponents. There are three ways to remove a chancellor from office in Germany.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-is-it-possible-to-replace-the-chancellor/a-79313623?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-20T05:06:00.000Z",
+      "sample": false
+    },
     {
       "id": "7mo0wj",
       "title": "Dutch police disperse violent far-right protest in The Hague",
@@ -212,18 +234,9 @@
       "image": null,
       "publishedAt": "2026-09-19T06:46:00.000Z",
       "sample": false
-    },
-    {
-      "id": "cdpgww",
-      "title": "Pakistan: Suicide bombing death toll rises to at least 31",
-      "summary": "More than 100 others have been injured in the militant attack on a police headquarters near the border with Afghanistan. Several militants were still clashing with Pakistan's security forces on Saturday.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/pakistan-suicide-bombing-death-toll-rises-to-at-least-31/a-79327432?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T06:31:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "em92m",
       "title": "Ever more Israelis moving to and investing in Cyprus",
@@ -234,9 +247,7 @@
       "image": null,
       "publishedAt": "2026-09-19T06:07:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "vgdvtu",
       "title": "Strait of Hormuz attacks spill oil into Persian Gulf",
@@ -312,17 +323,6 @@
       "url": "https://www.dw.com/en/beethoven-and-andy-warhol-rebel-icons-on-show-in-bonn/a-79296944?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-18T12:57:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "1qrj1y",
-      "title": "Germany: Is it possible to replace the chancellor?",
-      "summary": "Chancellor Friedrich Merz's record-low approval ratings have emboldened his opponents. There are three ways to remove a chancellor from office in Germany.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-is-it-possible-to-replace-the-chancellor/a-79313623?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-18T12:49:00.000Z",
       "sample": false
     },
     {

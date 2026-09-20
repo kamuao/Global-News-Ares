@@ -2,8 +2,96 @@
   "id": "GBR",
   "name": "United Kingdom",
   "sample": false,
-  "updatedAt": "2026-09-20T00:21:09.272Z",
+  "updatedAt": "2026-09-20T06:18:25.231Z",
   "daily": [
+    {
+      "id": "5hh0q1",
+      "title": "When did grey squirrels start posing a threat to reds?",
+      "summary": "A pair of grey squirrels was reportedly brought to the United Kingdom by a Cheshire banker in 1876.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c6wyzglny0xyo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24fe/live/0d59fa10-4565-11f1-a66d-a173f5fb620e.jpg",
+      "publishedAt": "2026-09-20T06:13:36.000Z",
+      "sample": false
+    },
+    {
+      "id": "qpt3ur",
+      "title": "Families missing out on NHS money for healthy food",
+      "summary": "Figures show as few as 64% of eligible families are claiming NHS money to buy milk, fruit and veg.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cme30e8zyvjno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/071c/live/c3aad4e0-b295-11f1-9b18-ad61bef6e34f.jpg",
+      "publishedAt": "2026-09-20T06:12:13.000Z",
+      "sample": false
+    },
+    {
+      "id": "rqqcie",
+      "title": "Tens of thousands of fridge freezers left at docks as household collections suspended",
+      "summary": "A recycling firm collapsed in 2025, leaving the appliances in limbo until a takeover is complete.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c1mvz3nyjxno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2657/live/b8c9da20-b46c-11f1-9dd6-3102a0e415e4.jpg",
+      "publishedAt": "2026-09-20T06:08:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "2u5gz3",
+      "title": "Thousands of pregnant women in England are reporting domestic abuse. Midwives are struggling to cope",
+      "summary": "Exclusive: Analysis ‘lays bare’ something midwives already know from their day-to-day work\nAbout 20,000 disclosures of domestic abuse are estimated to be made to maternity services in England every year, analysis has found.\nThe figures are likely to be an underestimate of the true scale of disclosures, according to exp",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/society/2026/sep/20/thousands-of-pregnant-women-in-england-are-reporting-domestic-abuse-midwives-are-struggling-to-cope",
+      "image": "https://i.guim.co.uk/img/media/c5c6afe8b04293a501f77c4ffc06f618e94d5810/535_0_2973_2379/master/2973.jpg?width=140&quality=85&auto=format&fit=max&s=43520af5d3ae1cf3f5b063a2893fbf95",
+      "publishedAt": "2026-09-20T06:00:09.000Z",
+      "sample": false
+    },
+    {
+      "id": "fhanus",
+      "title": "Chiltern Railways enters public ownership in Labour nationalisation push",
+      "summary": "Operator that runs services between London Marylebone and Birmingham is sixth to be nationalised since 2025\nChiltern Railways has become the latest train operator to enter public ownership as the government closes in on its ambition to renationalise all major passenger rail services.\nThe operator, which runs commuter r",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/20/chiltern-railways-enters-public-ownership-labour-nationalisation",
+      "image": "https://i.guim.co.uk/img/media/6c67bc9e6417d2ffea77a6ef0fc04c7c59fe142a/1011_6_5654_4523/master/5654.jpg?width=140&quality=85&auto=format&fit=max&s=50d0ceba10f1c81f6a5bd202e8628582",
+      "publishedAt": "2026-09-20T06:00:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "lmfr9y",
+      "title": "Farage says he wants to ‘hijack’ Trump’s ICE czar to help secure UK border",
+      "summary": "Reform leader also tells US event Europe should have ‘more sensible view’ of president’s administration\nNigel Farage has said he wants to “hijack” Donald Trump’s hardline ICE adviser and bring him to the UK “to secure our borders”.\nSpeaking at an event in the US, the Reform UK leader also called for Europe to take a “m",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/20/farage-says-he-wants-to-hijack-trumps-ice-czar-to-help-secure-uk-border",
+      "image": "https://i.guim.co.uk/img/media/1af811c09aedf5c423a15926865c0f43b65ba0f2/641_0_5252_4202/master/5252.jpg?width=140&quality=85&auto=format&fit=max&s=8d8c578b0bcae83f5231c57f5af9b250",
+      "publishedAt": "2026-09-20T06:00:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "yzqocl",
+      "title": "‘Flip the table and rise up’: Lib Dems’ president in combative mood as party gathers in Brighton",
+      "summary": "Josh Babarinde wants to target big tech and crypto billionaires while giving power and cash back to the public\nStanding outside Toynbee Hall in the East End of London, Josh Babarinde doesn’t exactly look like a rabble-rouser. But despite the well-cut suit and disarmingly large smile, the president of the Liberal Democr",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/20/lib-dem-president-josh-barbarinde-combative-mood-party-conference",
+      "image": "https://i.guim.co.uk/img/media/c38a493cea4b966c7d1aab84ea341e1eef59f6e2/381_1130_4388_3510/master/4388.jpg?width=140&quality=85&auto=format&fit=max&s=98ca347fb5f6420a7af11cb0a8722f2a",
+      "publishedAt": "2026-09-20T06:00:07.000Z",
+      "sample": false
+    },
+    {
+      "id": "m7y5f3",
+      "title": "Are global stock markets heading for a crash?",
+      "summary": "Economies thrown into renewed turmoil as AI debt, Iran war and soaring government bond yields fuel alarm\nAt the height of the summer, the mood was optimistic in the world’s financial capitals. Powered by the AI revolution, the US stock market had rallied to a fresh all-time high, as investors bet the multitrillion-doll",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields",
+      "image": "https://i.guim.co.uk/img/media/9f86b7cc961ff0e1ef0c93916d30d0777739c3aa/571_246_4145_3317/master/4145.jpg?width=140&quality=85&auto=format&fit=max&s=557e8a1c100b7b138ec4802adecbc889",
+      "publishedAt": "2026-09-20T05:00:07.000Z",
+      "sample": false
+    },
     {
       "id": "wfgsec",
       "title": "'People forget we exist': Why older LGBTQ+ community fears losing identity",
@@ -93,17 +181,6 @@
       "sample": false
     },
     {
-      "id": "rqqcie",
-      "title": "Tens of thousands of fridge freezers left at docks as household collections suspended",
-      "summary": "A recycling firm collapsed in 2025, leaving the appliances in limbo until a takeover is complete.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c1mvz3nyjxno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2657/live/b8c9da20-b46c-11f1-9dd6-3102a0e415e4.jpg",
-      "publishedAt": "2026-09-19T20:57:03.000Z",
-      "sample": false
-    },
-    {
       "id": "iodul9",
       "title": "Major seaside hotel fire treated as suspicious",
       "summary": "About 280 people were evacuated from the premises at Folkestone's Grand Burstin Hotel.",
@@ -145,28 +222,6 @@
       "url": "https://www.theguardian.com/uk-news/2026/sep/19/hundreds-evacuated-fire-grand-burstin-hotel-folkestone-kent",
       "image": "https://i.guim.co.uk/img/media/b7c2b364d3b0973728eaa84f2843accdb81d0016/353_0_3938_3151/master/3938.jpg?width=140&quality=85&auto=format&fit=max&s=26806cc46909c9d2fc0503fabf0d6f57",
       "publishedAt": "2026-09-19T17:21:35.000Z",
-      "sample": false
-    },
-    {
-      "id": "le2u96",
-      "title": "Caribbean nations draft action plan to push UK to redress reparations over slavery",
-      "summary": "Leaders hope UK will agree to targeted discussions around reparatory justice, but could consider legal options if Britain resists\nCaribbean nations are drawing up a multi-pronged “action plan” with legal options to push the UK into negotiating a decades-long slavery reparations deal, officials at a reparations conferen",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/19/caribbean-leaders-uk-slavery-reparations-conference",
-      "image": "https://i.guim.co.uk/img/media/0f9bd620da2214192daaf3ea715797b520f42ecc/250_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=12f95647dd9e65272b6481e5dbcf01a2",
-      "publishedAt": "2026-09-19T17:00:14.000Z",
-      "sample": false
-    },
-    {
-      "id": "mjzhrd",
-      "title": "George Osborne ‘thought Peter Thiel’s Bayeux tapestry visit would be secret’",
-      "summary": "British Museum chair tells Big Brue festival he thought no one would find out about the private viewing\nGeorge Osborne has said he thought no one would find out about a private viewing of the Bayeux tapestry he organised for the tech billionaire Peter Thiel at the British Museum.\nThe former chancellor, who is chair of ",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/19/george-osborne-peter-thiel-bayeux-tapestry-visit",
-      "image": "https://i.guim.co.uk/img/media/40ead01c4898564ea9343aac926e0409dee6deb6/130_44_1163_930/master/1163.jpg?width=140&quality=85&auto=format&fit=max&s=e92c250456ccf1de7d387ed4480a947f",
-      "publishedAt": "2026-09-19T15:41:39.000Z",
       "sample": false
     },
     {
@@ -222,6 +277,17 @@
       "url": "https://www.bbc.co.uk/news/articles/c6lye7200g7vo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8d0/live/7a4dc160-b3d8-11f1-87bc-d37d040ffc9c.jpg",
       "publishedAt": "2026-09-19T12:10:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "z4e5tf",
+      "title": "Students scramble for accommodation after provider goes bust in Dundee",
+      "summary": "Case highlights severe financial strain on sector across UK as string of university housing schemes fail\n\nAre you having problems with your accommodation provider?\n\nNearly 70 students in Dundee have been left scrambling to find accommodation for this academic year after the latest in a string of university housing sche",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/education/2026/sep/19/scottish-students-accommodation-dundee-university-housing-schemes",
+      "image": "https://i.guim.co.uk/img/media/b8ac675af682fdcb8bad0fa5747fe673270810db/0_0_3264_2611/master/3264.jpg?width=140&quality=85&auto=format&fit=max&s=f5cb971eace9e5b36718182da2c84005",
+      "publishedAt": "2026-09-19T11:00:45.000Z",
       "sample": false
     },
     {
@@ -346,17 +412,6 @@
       "sample": false
     },
     {
-      "id": "ru68ut",
-      "title": "‘We lost £14,000’: can a new clampdown stamp out cowboy builders?",
-      "summary": "An app and a register of trusted traders may give greater protection to consumers but it is too late for some\nIn hindsight, Sheri Ingram, 35, can see the red flags. Lee Slocombe, a builder hired to renovate her ex-boyfriend’s home in the south Wales valleys, offered to do the work cheaply because he had materials left ",
-      "category": "technology",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/money/2026/sep/19/cowboy-traders-builders-from-hell-app-register",
-      "image": "https://i.guim.co.uk/img/media/8853d42606e664c6ce319a71a61c53da3fdf323c/0_573_3024_2419/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=381fe9eb63fec3a8ad6cb86b630828d4",
-      "publishedAt": "2026-09-19T07:00:40.000Z",
-      "sample": false
-    },
-    {
       "id": "zc09mh",
       "title": "Hummingbird hawk moths and ivy bees: The insects thriving as temperatures rise",
       "summary": "Hummingbird hawk moths - often mistaken for small birds - are being spotted in the West Midlands.",
@@ -388,18 +443,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5044/live/10aa85d0-b35c-11f1-b949-71f91f81d1ab.jpg",
       "publishedAt": "2026-09-19T06:24:34.000Z",
       "sample": false
-    },
-    {
-      "id": "p2t5z6",
-      "title": "Harrods seeks to recover abuse compensation costs from Mohamed Al Fayed’s estate",
-      "summary": "Exclusive: Survivors say luxury store’s attempt to recoup money is at odds with its public acceptance of responsibility\nHarrods is seeking to recover the cost of the compensation paid to hundreds of women allegedly sexually abused by Mohamed Al Fayed from his estate, the Guardian understands.\nThe luxury department stor",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/19/harrods-mohamed-al-fayed-estate-compensation-bill-survivors-of-abuse",
-      "image": "https://i.guim.co.uk/img/media/5545d1c72962a08fbae485a1abca7e12901f8bab/141_0_4159_3327/master/4159.jpg?width=140&quality=85&auto=format&fit=max&s=8028a6efa0ab484362027180c26ea7d8",
-      "publishedAt": "2026-09-19T06:23:11.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "69d9ub",
       "title": "Bluebird at centre of new legal dispute",
@@ -443,9 +489,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbb5l2.jpg",
       "publishedAt": "2026-09-19T01:00:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "xa7lf7",
       "title": "Would Australians support a smart glasses ban?",
@@ -546,17 +590,6 @@
       "sample": false
     },
     {
-      "id": "aiksgg",
-      "title": "Polanski request to postpone Greens’ conference to focus on byelection refused by party",
-      "summary": "Exclusive: Leader understood to have wanted to concentrate on Holborn and St Pancras campaign in London but executive committee voted against plan\nZack Polanski requested that the Greens’ ruling executive committee postpone the party’s imminent annual conference so they could focus on the Holborn and St Pancras byelect",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/18/zack-polanski-request-postpone-greens-conference-byelection-refused",
-      "image": "https://i.guim.co.uk/img/media/9e2fcee9402ae137c6d282ba3a9bdcd81a9199be/747_325_3008_2405/master/3008.jpg?width=140&quality=85&auto=format&fit=max&s=6746516735971bb75ec98b025174cf77",
-      "publishedAt": "2026-09-18T16:26:35.000Z",
-      "sample": false
-    },
-    {
       "id": "2d8utp",
       "title": "'I'm telling the truth': Earl Spencer defends Diana book claims about Charles in BBC interview",
       "summary": "Princess Diana's brother tells the BBC's Laura Kuenssberg that \"we'll forget her soon enough\" were \"exactly\" the words used by the then-Prince of Wales.",
@@ -631,17 +664,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ckz7zg4ez0peo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c64f/live/17cdc8a0-b36f-11f1-b1d1-571ed4d7ff2c.jpg",
       "publishedAt": "2026-09-18T15:27:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "qnvwxw",
-      "title": "Reform donor Ben Delo loaned £350k to academic later found to have engaged in online bullying",
-      "summary": "Judge said Nina Power and her friend’s social media posts had ‘the whiff of threat and antisemitism’\nReform UK’s new mega-donor Ben Delo gave a £350,000 loan to a conservative writer fighting a legal case in which a judge later found she had engaged in online bullying and regrettable conduct with a “whiff of threat and",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/18/reform-donor-ben-delo-loaned-350k-academic-online-bullying",
-      "image": "https://i.guim.co.uk/img/media/319efaaa8a51b89f1a7c7c8d9f333b4f9a9a3f10/3526_1231_3953_3162/master/3953.jpg?width=140&quality=85&auto=format&fit=max&s=7c6b52523ffdf9d0b1b0a492b7c0d198",
-      "publishedAt": "2026-09-18T15:25:05.000Z",
       "sample": false
     },
     {
@@ -807,17 +829,6 @@
       "url": "https://www.theguardian.com/society/2026/sep/18/women-breasts-removed-unnecessarily-cancer-treatment-county-durham-darlington-nhs-trust",
       "image": "https://i.guim.co.uk/img/media/d7ebb7b9602c71385fc680fbd8842be33ddcd784/159_0_4080_3264/master/4080.jpg?width=140&quality=85&auto=format&fit=max&s=eb82eb13e90c7cb478f9860e1a267b8a",
       "publishedAt": "2026-09-18T08:04:05.000Z",
-      "sample": false
-    },
-    {
-      "id": "6xjzj2",
-      "title": "Burst pipe floods wildlife meadow for fourth time",
-      "summary": "Repeated flooding of a key conservation site in Oxfordshire leaves a charity frustrated.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cjp302kq62elo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/5b85fe70-b336-11f1-910c-69bc1dc40919.jpg",
-      "publishedAt": "2026-09-18T07:56:23.000Z",
       "sample": false
     },
     {
@@ -1786,28 +1797,6 @@
       "url": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03f1/live/7fae1aa0-adad-11f1-8ac2-99a6f36b284a.jpg",
       "publishedAt": "2026-09-13T22:07:22.000Z",
-      "sample": false
-    },
-    {
-      "id": "hz9vxy",
-      "title": "Summer wildfires caused catastrophic hidden damage, scientists warn",
-      "summary": "Bangor University researchers say the scale of damage is far greater than what is immediately visible.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cn07rzrq244o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e504/live/f1f64000-af39-11f1-a540-61c3f7fc4e6c.jpg",
-      "publishedAt": "2026-09-13T06:12:26.000Z",
-      "sample": false
-    },
-    {
-      "id": "fxyhe7",
-      "title": "Some dentists say more young people are grinding their teeth - are you one of them?",
-      "summary": "Millions of us do it, though few of us realise we do - but getting the right treatment can be life-changing.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c84/live/08ae0610-ad1f-11f1-826f-933990eae6f0.jpg",
-      "publishedAt": "2026-09-13T05:55:19.000Z",
       "sample": false
     }
   ],
