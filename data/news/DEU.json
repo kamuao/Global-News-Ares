@@ -2,8 +2,107 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-19T12:18:35.831Z",
+  "updatedAt": "2026-09-20T00:21:09.759Z",
   "daily": [
+    {
+      "id": "7mo0wj",
+      "title": "Dutch police disperse violent far-right protest in The Hague",
+      "summary": "After violence broke out, Dutch riot police dispersed hundreds of far-right protesters in The Hague. Prime Minister Rob Jetten said that the demonstrators had chanted \"abhorrent\" far-right and antisemitic slogans.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/dutch-police-disperse-violent-far-right-protest-in-the-hague/a-79340495?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-19T22:38:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "zh5eeb",
+      "title": "Summer of 2026 broke records in Europe, and caused deaths",
+      "summary": "The summer of 2026 was not only the hottest on record in Europe, it also saw a record number of people die. More than 16,000 are thought to have died because of the heat in Germany alone.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/summer-of-2026-broke-records-in-europe-and-caused-deaths/a-79339630?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-19T19:47:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "bxvlcg",
+      "title": "Trump announces new 'AI force' amid mounting pressure",
+      "summary": "Several voices, including from within the AI industry, have been calling for policing the fast-growing technology. Trump has once again called AI warnings \"hoaxes\" and vowed to \"cherish, help\" the industry.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/trump-announces-new-ai-force-amid-mounting-pressure/a-79339935?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-19T17:37:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "4u1vax",
+      "title": "German-Russian relations at freezing point",
+      "summary": "Russia's full-scale invasion of Ukraine destroyed the once-close relationship between Moscow and Berlin. Yet the far-right AfD is calling for a normalization of relations.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/german-russian-relations-at-freezing-point/a-79330741?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-19T16:34:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "h2z5mr",
+      "title": "Ukraine steps up measures to protect railways",
+      "summary": "As Russia increases its attacks on Ukraine's rail infrastructure, the Ukrainian government has called for help to replace destroyed locomotives and is making plans to keep passengers safe.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-19T15:37:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "9ef4bl",
+      "title": "CNN, MS NOW and Politico denied access to White House",
+      "summary": "Three US news outlets said their journalists were blocked from entering the White House grounds, hours after President Donald Trump announced bans on several media outlets.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-19T15:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "sjnza5",
+      "title": "Mecklenburg-Western Pomerania: Will economy shape the vote?",
+      "summary": "Voters in the eastern state of Mecklenburg-Western Pomerania head to the polls on Sunday, with the Social Democrats and far-right AfD neck and neck. Here's a look at key economic issues that could influence the election.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/mecklenburg-western-pomerania-will-economy-shape-the-vote/a-79298904?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-19T14:51:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xc0usm",
+      "title": "Saudi Arabia: Houthis claim strikes on Riyadh, Yanbu port",
+      "summary": "The Yemen-based Houthis said they targeted \"sensitive sites\" in Riyadh, hours after a blaze at a fuel depot near the Saudi capital's main airport. The Saudi-led coalition said Saudi defense downed a ballistic missile.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/saudi-arabia-houthis-claim-strikes-on-riyadh-yanbu-port/a-79339010?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-19T14:46:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "v2623u",
+      "title": "Drone sightings briefly shut Luxembourg airport",
+      "summary": "Flights were diverted and hundreds of passengers affected after unauthorized drones appeared near Luxembourg's only international airport.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/drone-sightings-briefly-shut-luxembourg-airport/a-79338859?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-19T13:55:00.000Z",
+      "sample": false
+    },
     {
       "id": "xuv0iv",
       "title": "Thousands protest Kennedy Center demolition fears",
@@ -135,84 +234,9 @@
       "image": null,
       "publishedAt": "2026-09-19T06:07:00.000Z",
       "sample": false
-    },
-    {
-      "id": "s6gwtr",
-      "title": "Cuba faces another nationwide blackout amid US fuel blockade",
-      "summary": "Millions were left without electricity as Cuba's aging power grid collapsed under the weight of fuel shortages, deteriorating infrastructure and US sanctions.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/cuba-faces-another-nationwide-blackout-amid-us-fuel-blockade/a-79335396?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T03:57:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "oumyau",
-      "title": "Google's Gemini AI hacked 3 companies during testing",
-      "summary": "During a test of its cybersecurity capabilities, Google's Gemini AI model accessed the internet and hacked other companies. This is the first known instance of Google's AI systems engaging in such behavior autonomously.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/google-s-gemini-ai-hacked-3-companies-during-testing/a-79335273?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T03:36:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "iqqun4",
-      "title": "Trump signs broad Russia sanctions bill",
-      "summary": "The bill signed by US President Donald Trump targets officials, banks, and a fleet of shadow tankers that transport Russian energy.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/trump-signs-broad-russia-sanctions-bill/a-79335115?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T01:27:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5347bx",
-      "title": "US, Denmark reach deal over Greenland's security, Trump says",
-      "summary": "The deal with Denmark, according to President Donald Trump, would give the US \"permanent control\" over Greenland's security. Denmark said the deal is \"great for NATO and Europe.\"",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-denmark-reach-deal-over-greenland-s-security-trump-says/a-79334915?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-18T21:53:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "wcq732",
-      "title": "Trump bars CNN, MS NOW and Politico from White House",
-      "summary": "US President Donald Trump has accused CNN, MS NOW and Politico of spreading fake news. The outlets have vowed to take legal action against the ban.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/trump-bars-cnn-ms-now-and-politico-from-white-house/a-79334846?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-18T20:26:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fhhrus",
-      "title": "Iran's 'new Hezbollah:' How powerful are the Houthis now?",
-      "summary": "After Houthi victories in Yemen, the group's importance in the US-Iran war has grown. Previously Lebanon's Hezbollah was considered most significant in Iran's \"axis of resistance.\" Now the Houthis are rising to the top.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/iran-s-new-hezbollah-how-powerful-are-the-houthis-now/a-79331945?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-18T19:22:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "gaor9u",
-      "title": "Ryanair boss apologizes for calling other airlines 'rapists'",
-      "summary": "The airline CEO had used the term to describe other airlines with high fares. His comments were criticized by officials both in Ireland and the UK.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ryanair-boss-apologizes-for-calling-other-airlines-rapists/a-79334099?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-18T19:14:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "vgdvtu",
       "title": "Strait of Hormuz attacks spill oil into Persian Gulf",
@@ -311,9 +335,7 @@
       "image": null,
       "publishedAt": "2026-09-18T12:24:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "y9t4m7",
       "title": "Germany faces energy tax losses as EV sales rise",
@@ -502,23 +524,23 @@
       "sample": false
     },
     {
-      "id": "mh1gn1",
-      "title": "Chancellor Merz seeks CDU support amid far-right AfD surge",
-      "summary": "Following the CDU's crushing defeat in the Saxony-Anhalt state election, many are expressing doubts about the party's leader, Chancellor Friedrich Merz. But the CDU doesn't appear to have a viable alternative.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/chancellor-merz-seeks-cdu-support-amid-far-right-afd-surge/a-79290192?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T16:50:00.000Z",
-      "sample": false
-    },
-    {
       "id": "79stj2",
       "title": "Can Canada and the EU deepen ties to counter Trump?",
       "summary": "Canadian Prime Minister Mark Carney is known for standing up to US President Donald Trump. Now he wants to forge a \"unique alliance\" with Europe. But what could such a partnership look like?",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/can-canada-and-the-eu-deepen-ties-to-counter-trump/a-79295388?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-16T16:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "mh1gn1",
+      "title": "Chancellor Merz seeks CDU support amid far-right AfD surge",
+      "summary": "Following the CDU's crushing defeat in the Saxony-Anhalt state election, many are expressing doubts about the party's leader, Chancellor Friedrich Merz. But the CDU doesn't appear to have a viable alternative.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/chancellor-merz-seeks-cdu-support-amid-far-right-afd-surge/a-79290192?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-16T16:50:00.000Z",
       "sample": false
@@ -832,17 +854,6 @@
       "sample": false
     },
     {
-      "id": "q4uchu",
-      "title": "EU leaders urge unity after Russian strike on train",
-      "summary": "Russia's drone attack on a train near the Ukraine-Poland border has triggered EU calls to up support for Kyiv. Allies of Ukraine should show they \"are not scared,\" said the bloc's top diplomat, Kaja Kallas.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/eu-leaders-urge-unity-after-russian-strike-on-train/a-79259807?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T12:12:00.000Z",
-      "sample": false
-    },
-    {
       "id": "4umqwn",
       "title": "Can Iran replace sea trade with land routes?",
       "summary": "Iran is shifting trade toward northern ports and land routes as its southern shipping faces a US blockade. Analysts say the corridors can keep essential goods moving, but cannot replace maritime trade.",
@@ -884,17 +895,6 @@
       "url": "https://www.dw.com/en/germany-s-zverev-wins-us-open-in-golden-year/a-79212706?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-13T22:03:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "73dg4a",
-      "title": "Why are European banks moving gold out of United States?",
-      "summary": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fears about the reliability of the US, but equally important is the need to keep gold closer to home in the event of a crisis.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/why-are-european-banks-moving-gold-out-of-united-states/a-79213013?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-12T15:32:00.000Z",
       "sample": false
     }
   ],
