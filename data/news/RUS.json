@@ -2,8 +2,184 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-09-20T06:18:27.042Z",
+  "updatedAt": "2026-09-20T12:17:41.539Z",
   "daily": [
+    {
+      "id": "rbrg4s",
+      "title": "TASS Director General opens OANA Executive Committee meeting in Moscow",
+      "summary": "Andrey Kondrashov recalled that a media forum dedicated to the organization’s 65th anniversary will open on Monday",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190297",
+      "image": null,
+      "publishedAt": "2026-09-20T11:29:43.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrg4q",
+      "title": "Russians choose future for their children by voting today — human rights commissioner",
+      "summary": "Yana Lantratova also said that elections in Russia are being held democratically and openly, a view shared by international observers and election experts",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190295",
+      "image": null,
+      "publishedAt": "2026-09-20T11:13:40.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrg4m",
+      "title": "More than 45% of Russians have voted in the election as of Sunday morning — CEC chairwoman",
+      "summary": "The number of voters who cast their ballots through the remote electronic voting system exceeded 6 million",
+      "category": "health",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190291",
+      "image": null,
+      "publishedAt": "2026-09-20T10:46:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrg2y",
+      "title": "Chairwoman of Central Election Commission says term \"unfriendly countries\" is too mild",
+      "summary": "Ella Pamfilova said that it is time to come up with a new term for them",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190273",
+      "image": null,
+      "publishedAt": "2026-09-20T09:28:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrg2w",
+      "title": "Polling stations close in Russia’s easternmost regions, Kamchatka, Chukotka",
+      "summary": "Election commissions have begun counting the votes",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190271",
+      "image": null,
+      "publishedAt": "2026-09-20T08:51:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrg27",
+      "title": "Two people killed in drone attack on bus in Kherson Region — CEC chairwoman",
+      "summary": "One of them is an election commission member, Chairwoman of Russia’s Central Election Commission Ella Pamfilova said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190267",
+      "image": null,
+      "publishedAt": "2026-09-20T08:37:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpa1fo",
+      "title": "Iran will keep Strait of Hormuz closed until US accepts its terms — parliamentary speaker",
+      "summary": "Earlier, Secretary of Iran’s Supreme National Security Council Mohsen Rezaei said that Iranian authorities have conveyed their conditions for ending the war to the US through Qatari mediators",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2190249",
+      "image": null,
+      "publishedAt": "2026-09-20T08:09:57.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrg0h",
+      "title": "Russian air defenses repel largest-ever Ukrainian drone attack, mayor says",
+      "summary": "Mayor Sergey Sobyanin added that 450 drones had been shot down on the approach to Moscow",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190247",
+      "image": null,
+      "publishedAt": "2026-09-20T08:09:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "jgur2q",
+      "title": "Russian air defenses down 1,110 Ukrainian drones overnight",
+      "summary": "On-duty air defense systems intercepted and destroyed fixed-wing drones over the Belgorod, Bryansk, Kursk, Ryazan, Tula, Kaluga, Vladimir, Nizhny Novgorod, Tambov, Voronezh, Lipetsk, Smolensk, Oryol, Rostov, Volgograd and Saratov regions, the Samara Region, the Krasnodar Region, the Moscow Region and the Republic of Cr",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/defense/2190245",
+      "image": null,
+      "publishedAt": "2026-09-20T07:38:09.000Z",
+      "sample": false
+    },
+    {
+      "id": "2c0gxe",
+      "title": "2 Dead in Moscow Region, Drones Hit Oil Refinery in Russian Capital",
+      "summary": "Ukraine, Russia have continued attacks on each other's energy infrastructure despite an announcement by Trump on Monday that they had agreed to stop.",
+      "category": "politics",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/09/20/2-dead-in-moscow-region-drones-hit-oil-refinery-in-russian-capital-a93753",
+      "image": null,
+      "publishedAt": "2026-09-20T07:35:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "88au8l",
+      "title": "Russian Election, Cast as Test of Support for Ukraine War, Enters Final Day",
+      "summary": "A parliamentary election that Putin has cast as a test of support for the war in Ukraine entered its third day, with the ruling United Russia party expected to retain its dominance.",
+      "category": "military",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/09/20/russian-election-cast-as-test-of-support-for-ukraine-war-enters-final-day-a93752",
+      "image": null,
+      "publishedAt": "2026-09-20T07:10:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrg0d",
+      "title": "Putin congratulates South Ossetian president Kambolov on Republic Day",
+      "summary": "The Russian president noted that Russia will continue to assist the authorities and people of South Ossetia in addressing important challenges",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190243",
+      "image": null,
+      "publishedAt": "2026-09-20T07:10:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "jgur3h",
+      "title": "Russian forces hit Fire Point warehouse storing drone components in Kiev Region",
+      "summary": "Russian forces carried out overnight strikes with unmanned aerial vehicles on logistics centers, warehouses and ports in Ukraine",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2190239",
+      "image": null,
+      "publishedAt": "2026-09-20T07:09:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "jgur3j",
+      "title": "Russian forces hit tanker carrying military supplies for Ukrainian troops",
+      "summary": "The footage shows a tanker hit by two Geran-4 Seeker drones in the port of Chernomorsk in the Odessa Region",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2190237",
+      "image": null,
+      "publishedAt": "2026-09-20T07:08:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "jgur3l",
+      "title": "Russian forces hit cargo ship, logistics center near Odessa",
+      "summary": "The targets hit in the Odessa Region were a cargo ship in the port of Odessa that had delivered military supplies and the Novaya Pochta logistics center, located 1.5 km north of Odessa",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2190235",
+      "image": null,
+      "publishedAt": "2026-09-20T07:07:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "jgur3n",
+      "title": "Russian forces hit Radionix plant, B-Mobile data center in Kiev",
+      "summary": "Russian forces carried out group strikes overnight using air-launched precision weapons and strike unmanned aerial vehicles",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2190233",
+      "image": null,
+      "publishedAt": "2026-09-20T07:05:43.000Z",
+      "sample": false
+    },
     {
       "id": "rbrfxy",
       "title": "Drone attack on Moscow Region leaves two dead — governor",
@@ -564,7 +740,9 @@
       "image": null,
       "publishedAt": "2026-09-19T12:23:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "jgusic",
       "title": "Russian troops strike logistics centers, energy sites used by Ukrainian army in past day",
@@ -574,83 +752,6 @@
       "url": "https://tass.com/defense/2190067",
       "image": null,
       "publishedAt": "2026-09-19T12:14:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbrekp",
-      "title": "Over 4.6 mln people cast votes early in Russian election — CEC chief Pamfilova",
-      "summary": "She added that over 4.4 million people cast their votes early in 12 regions with the martial law in place",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190063",
-      "image": null,
-      "publishedAt": "2026-09-19T11:08:48.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbrekn",
-      "title": "Fourteen polling stations in LPR operate using backup power supplies — CEC",
-      "summary": "The single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190061",
-      "image": null,
-      "publishedAt": "2026-09-19T10:49:44.000Z",
-      "sample": false
-    },
-    {
-      "id": "jgusj5",
-      "title": "Russian air defenses intercept 936 Ukrainian UAVs, seven smart bombs over past day",
-      "summary": "Overall, the Russian Armed Forces have destroyed 674 Ukrainian combat aircraft, 284 helicopters, 240,045 unmanned aerial vehicles, 672 surface-to-air missile systems, 30,957 tanks and other armored combat vehicles",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2190059",
-      "image": null,
-      "publishedAt": "2026-09-19T10:27:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "jgusj7",
-      "title": "Kiev loses over 1,340 troops along engagement line in past day — Russia’s top brass",
-      "summary": "The latest figures show that the Ukrainian army lost up to 245 troops in the responsibility area of Russia’s Battlegroup North, more than 210 troops in the responsibility area of the Battlegroup West and some 145 troops in the responsibility area of the Battlegroup South",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2190057",
-      "image": null,
-      "publishedAt": "2026-09-19T10:25:02.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbrejw",
-      "title": "Russian Interior Ministry receives 367 reports on alleged incidents at voting in past day",
-      "summary": "The single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190055",
-      "image": null,
-      "publishedAt": "2026-09-19T09:48:17.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbrei8",
-      "title": "Moscow election system comes under powerful attacks during voting — official",
-      "summary": "Pamfilova noted that all attacks are being repelled and remote electronic voting in Moscow is in the standard operational mode",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190037",
-      "image": null,
-      "publishedAt": "2026-09-19T09:20:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbreia",
-      "title": "Russia’s voting procedure is ‘quite intense,’ says CEC chief Pamfilova",
-      "summary": "The single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190039",
-      "image": null,
-      "publishedAt": "2026-09-19T09:11:24.000Z",
       "sample": false
     },
     {
@@ -664,63 +765,6 @@
       "publishedAt": "2026-09-19T08:53:00.000Z",
       "sample": false
     },
-    {
-      "id": "rbrei6",
-      "title": "Hacker attacks cause technical glitch on first day of voting in Moscow",
-      "summary": "Kirillova specified that the operational activities of online voting terminals at polling stations in Moscow were fully restored within 20 minutes",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190035",
-      "image": null,
-      "publishedAt": "2026-09-19T08:25:39.000Z",
-      "sample": false
-    },
-    {
-      "id": "velxrn",
-      "title": "Power outages in LPR connected with accident at power system in neighboring DPR",
-      "summary": "DPR Prime Minister Andrey Chertkov earlier announced that power outages and voltage drops were reported in most municipalities of the region following an overnight attack by the Ukrainian armed forces",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/society/2190033",
-      "image": null,
-      "publishedAt": "2026-09-19T07:35:40.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbrei2",
-      "title": "Fourteen polling stations in LPR switched to backup power supply — local election official",
-      "summary": "The single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190031",
-      "image": null,
-      "publishedAt": "2026-09-19T07:04:04.000Z",
-      "sample": false
-    },
-    {
-      "id": "jgusls",
-      "title": "Air defenses down 344 Ukrainian drones over Russia overnight — top brass",
-      "summary": "On-duty air defenses intercepted and destroyed 344 Ukrainian fixed-wing unmanned aerial vehicles over the past night over the Leningrad, Novgorod, Bryansk, Kursk, Belgorod, Oryol, Kaluga, Tula, Ryazan, Lipetsk, Vladimir, Rostov, Krasnodar, Moscow Regions, the Yamal-Nenets Autonomous District, the Republic of Dagestan a",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/defense/2190027",
-      "image": null,
-      "publishedAt": "2026-09-19T06:41:49.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbrehb",
-      "title": "Some 2.2 mln people in Moscow cast votes online in parliamentary election",
-      "summary": "The single voting day to elect lawmakers to the 9th Russian State Duma takes place on September 18-20",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190025",
-      "image": null,
-      "publishedAt": "2026-09-19T06:26:27.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "xiukwf",
       "title": "On TikTok, Russia's Political Parties Court Voters Who Grew Up Under Putin",
@@ -1170,28 +1214,6 @@
       "url": "https://www.themoscowtimes.com/2026/09/13/trump-tells-ukraines-zelensky-to-stop-hitting-russian-diesel-a93696",
       "image": null,
       "publishedAt": "2026-09-13T16:15:05.000Z",
-      "sample": false
-    },
-    {
-      "id": "59t518",
-      "title": "Rosatom’s Likhachev Says Ukraine Attacked Fuel Trucks, Endangered Zaporizhzhia Plant",
-      "summary": "The Zaporizhzhia plant, Europe's largest, was seized by Russian forces in the early weeks of the Ukraine war.",
-      "category": "military",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/09/13/rosatoms-likhachev-says-ukraine-attacked-fuel-trucks-endangered-zaporizhzhia-plant-a93695",
-      "image": null,
-      "publishedAt": "2026-09-13T10:17:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "nwtnbf",
-      "title": "Russian Attacks Kill 9, Injure Dozens in Ukraine as Moscow Says It Hit Ships, Plants",
-      "summary": "The civilian death toll has risen sharply in Ukraine over the past two months as Russia steps up attacks on power plants and other infrastructure.",
-      "category": "politics",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/09/13/russian-attacks-kill-6-injure-dozens-in-ukraine-as-moscow-says-it-hit-ships-plants-a93694",
-      "image": null,
-      "publishedAt": "2026-09-13T07:00:00.000Z",
       "sample": false
     }
   ],

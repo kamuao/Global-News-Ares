@@ -2,15 +2,81 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-20T06:18:26.098Z",
+  "updatedAt": "2026-09-20T12:17:40.707Z",
   "daily": [
     {
-      "id": "apy243",
-      "title": "Germany: Polls open in two key state elections",
-      "summary": "Voting in Berlin and Mecklenburg-Western Pomerania is expected to bring gains for the far-right AfD party and could determine whether Chancellor Friedrich Merz can hold on to power. Follow DW live.",
+      "id": "fctve",
+      "title": "Russia: Ukrainian drone strike on Moscow kills 2",
+      "summary": "An oil refinery was hit in one of the largest attacks so far on the Russian capital, as the country holds a parliamentary election. Meanwhile, at least four people were killed in Russian strikes in Ukraine's Kyiv region.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-20T08:37:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "egxm92",
+      "title": "Ed Sheeran speaks on Gaza in concert after Macklemore controversy",
+      "summary": "Sheeran called the Hamas-led attack in Israel \"horrific\" and described the war in Gaza as \"catastrophic and unjustifiable\" during his first concert since the Macklemore controversy erupted.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ed-sheeran-speaks-on-gaza-in-concert-after-macklemore-controversy/a-79341971?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-20T08:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "mxqoll",
+      "title": "In cosmopolitan Berlin, elections still closed to foreigners",
+      "summary": "A quarter of Berlin residents will have no say in the German capital's city-state election because they lack citizenship. That's the highest proportion of residents excluded from the election yet, and many are unhappy.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/germany-polls-open-in-two-key-state-elections/live-79322092?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/in-cosmopolitan-berlin-elections-still-closed-to-foreigners/a-78744579?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-20T07:11:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "sud75o",
+      "title": "India news: PM Modi says developing nations unfairly blamed for emissions",
+      "summary": "PM Narendra Modi has told a climate conference that developed countries emit six times more CO2 than India. Meanwhile, an IIT Bombay professor has been accused of caste abuse. DW has more.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-pm-modi-says-developing-nations-unfairly-blamed-for-emissions/live-79335891?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-20T06:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "5kgoz5",
+      "title": "Germany news: Doctors offer Oktoberfest flu jabs",
+      "summary": "Oktoberfest 2026 is underway but it's not just beer on offer in Munich this year; revelers can also get themselves a flu jab before heading to the tents. DW has more.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-doctors-offer-oktoberfest-flu-jabs/live-79335548?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-20T06:43:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ybzwmb",
+      "title": "Decolonizing perceptions about Africa",
+      "summary": "A UN resolution to redraw the global map to project the African continent more accurately, national initiatives to decolonize schools and a campaign to present positive developments are changing the way Africa is seen.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/decolonizing-perceptions-about-africa/a-79331178?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-20T06:32:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "87yg99",
+      "title": "Germany: Voting underway in two key state elections",
+      "summary": "Elections in Berlin and Mecklenburg-Western Pomerania are expected to bring gains for the far-right AfD party and could determine whether Chancellor Friedrich Merz can hold on to power. Follow DW live.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-voting-underway-in-two-key-state-elections/live-79322092?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-20T06:00:00.000Z",
       "sample": false
@@ -124,7 +190,9 @@
       "image": null,
       "publishedAt": "2026-09-19T13:55:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "xuv0iv",
       "title": "Thousands protest Kennedy Center demolition fears",
@@ -159,72 +227,6 @@
       "sample": false
     },
     {
-      "id": "xlamwj",
-      "title": "Ed Sheeran continues US tour amid Palestinian controversy",
-      "summary": "Pro-Palestinian protests are expected at Ed Sheeran's first gig since Macklemore was dropped from the tour. The US rapper shouted \"Free Palestine\" at a concert in New Jersey.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ed-sheeran-continues-us-tour-amid-palestinian-controversy/a-79336537?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T09:14:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lgjl0a",
-      "title": "Oktoberfest opens as Munich mayor taps first beer keg",
-      "summary": "Thousands of visitors streamed onto Munich's Oktoberfest grounds as the world-famous beer festival got underway. Some spent the night outside the gates to secure coveted places in the festival tents.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/oktoberfest-opens-as-munich-mayor-taps-first-beer-keg/a-79336519?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T08:58:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "xxrcg8",
-      "title": "US court rejects Trump policy on third-country deportations",
-      "summary": "The Trump administration has deported more than 25,000 people to countries other than their own. Now a federal appeals court has put the brakes on the policy.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-court-rejects-trump-policy-on-third-country-deportations/a-79336611?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T08:55:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fp75ef",
-      "title": "India news: British Sikh activist Jagtar Singh Johal granted bail after 9 years in detention",
-      "summary": "Sikh activist Jagtar Singh Johal has been granted bail after more than eight years without conviction. Meanwhile, India swapped its male flagbearer for the Asian Games opening ceremony over a missing kit. DW has more.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-british-sikh-activist-jagtar-singh-johal-granted-bail-after-9-years-in-detention/live-79335891?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T08:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lk3iv",
-      "title": "Russia votes for new parliament in controlled elections",
-      "summary": "Russia is holding its first State Duma election since invading Ukraine, with voting also imposed in occupied Ukrainian regions. President Vladimir Putin's party is expected to dominate the tightly controlled contest.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/russia-votes-for-new-parliament-in-controlled-elections/a-79318392?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T07:21:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "s1mhvc",
-      "title": "Germany news: Campaigns wrap up in two state elections",
-      "summary": "Parties are campaigning for a last day ahead of polls in Mecklenburg-Vorpomerania and Berlin. And an association responsible for German sea ports says they are at high risk from cyberattacks and sabotage. DW has more.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-campaigns-wrap-up-in-two-state-elections/live-79335548?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T06:54:00.000Z",
-      "sample": false
-    },
-    {
       "id": "b61m0d",
       "title": "Mecklenburg-Western Pomerania: SPD seeks to fend off AfD",
       "summary": "For nearly three decades, the Social Democrats have governed Germany's northeastern state. If they can fend off the AfD, the result may boost the fortunes of the German government's junior coalition partner.",
@@ -234,9 +236,7 @@
       "image": null,
       "publishedAt": "2026-09-19T06:46:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "em92m",
       "title": "Ever more Israelis moving to and investing in Cyprus",
@@ -246,6 +246,17 @@
       "url": "https://www.dw.com/en/ever-more-israelis-moving-to-and-investing-in-cyprus/a-79330240?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-19T06:07:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "h1s1kb",
+      "title": "Women's football in Germany booming, but still much to do",
+      "summary": "Women's football is growing rapidly, particularly in Germany. Nevertheless, equal pay and investment remain major talking points.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/women-s-football-in-germany-booming-but-still-much-to-do/a-79291687?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-19T04:42:00.000Z",
       "sample": false
     },
     {
@@ -345,17 +356,6 @@
       "url": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-18T10:55:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "h1s1kb",
-      "title": "Women's football in Germany booming, but still much to do",
-      "summary": "Women's football is growing rapidly, particularly in Germany. Nevertheless, equal pay and investment remain major talking points.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/women-s-football-in-germany-booming-but-still-much-to-do/a-79291687?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-18T10:35:00.000Z",
       "sample": false
     },
     {
@@ -865,17 +865,6 @@
       "sample": false
     },
     {
-      "id": "mxqoll",
-      "title": "In cosmopolitan Berlin, elections still closed to foreigners",
-      "summary": "A quarter of Berlin residents will have no say in the German capital's city-state election because they lack citizenship. That's the highest proportion of residents excluded from the election yet, and many are unhappy.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/in-cosmopolitan-berlin-elections-still-closed-to-foreigners/a-78744579?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T07:43:00.000Z",
-      "sample": false
-    },
-    {
       "id": "3s4xfv",
       "title": "Germany: Merz's CDU comes out on top in Lower Saxony polls",
       "summary": "The Christian Democrats have emerged as the strongest party following local elections in the state of Lower Saxony. The vote was closely watched as an indicator of the strength of the far-right AfD, which came in third.",
@@ -898,5 +887,17 @@
       "sample": false
     }
   ],
-  "developing": []
+  "developing": [
+    {
+      "id": "sud75o",
+      "title": "India news: PM Modi says developing nations unfairly blamed for emissions",
+      "summary": "PM Narendra Modi has told a climate conference that developed countries emit six times more CO2 than India. Meanwhile, an IIT Bombay professor has been accused of caste abuse. DW has more.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-pm-modi-says-developing-nations-unfairly-blamed-for-emissions/live-79335891?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-20T06:50:00.000Z",
+      "sample": false
+    }
+  ]
 }

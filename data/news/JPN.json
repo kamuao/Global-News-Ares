@@ -2,15 +2,191 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-20T06:18:28.091Z",
+  "updatedAt": "2026-09-20T12:17:42.773Z",
   "daily": [
     {
-      "id": "uc8er6",
+      "id": "sx2lfy",
+      "title": "Senior Taiwan official makes rare trip to China",
+      "summary": "Labor Minister Hung Sun-han took flew Sunday to the eastern Chinese city of Nanjing, where he will attend meetings on Monday before returning home.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/20/asia-pacific/taiwans-labor-minister-visits-china/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564131.jpg",
+      "publishedAt": "2026-09-20T10:25:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ahjlan",
+      "title": "Germans vote in elections threatening fresh blow to Merz",
+      "summary": "The far-right, pro-Trump and Moscow-friendly AfD party dealt the German leader a defeat two weeks ago, fueling speculation his support is wobbling.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/20/world/politics/germany-elections-threat-merz/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564126.jpg",
+      "publishedAt": "2026-09-20T09:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "zftjtr",
+      "title": "Drones hit Moscow as Russians go to the polls",
+      "summary": "The ruling United Russia party, which backs President Vladimir Putin, has won every parliamentary election in Russia since 2003.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/20/world/politics/drones-moscow-russians-polls/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564124.jpg",
+      "publishedAt": "2026-09-20T09:19:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "k0s30",
+      "title": "North Korea fires off two ballistic missiles",
+      "summary": "North Korea fired off a second missile on Sunday evening, hours after it launched an apparent short-range ballistic weapon.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/20/japan/north-korea-missiles-september-20/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564119.jpg",
+      "publishedAt": "2026-09-20T09:15:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xle47f",
+      "title": "Myanmar captures first Asian Games teqball gold as Spain great Carles Puyol watches",
+      "summary": "Teqball was invented 14 years ago in a garage in Hungary and features players kicking a ball over a curved table, incorporating elements of the southeast Asian sport sepak takraw.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/20/more-sports/teqball-first-gold-medal/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564118.jpg",
+      "publishedAt": "2026-09-20T08:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "yt66ji",
+      "title": "Philippine tribe in limbo over U.S.-led tech hub",
+      "summary": "Philippines pushes ahead with semiconductor hub while local tribe warns of unclear boundaries and forced relocation.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/20/asia-pacific/philippine-tribe-us-tech-hub/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564120.jpg",
+      "publishedAt": "2026-09-20T08:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "b330tz",
+      "title": "Lib Democrats fight for a breakthrough in Britain’s fractured politics",
+      "summary": "Britain's Liberal Democratic Party is holding its annual conference in Brighton this weekend.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/20/world/politics/lib-dems-britain-fractured-politics/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564123.jpg",
+      "publishedAt": "2026-09-20T08:46:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "kpmu2n",
+      "title": "Rams anxious to get back on field after stunning Week 1 collapse",
+      "summary": "Rams defensive tackle Aaron Donald, freshly unretired but inactive for Week 1, could play for the first time since January 2024, and signs are pointing in that direction.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/20/more-sports/rams-giants-nfl-monday-night-football/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564115.jpg",
+      "publishedAt": "2026-09-20T07:59:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "66741v",
+      "title": "Public-private railway fully reopens in Kumamoto six years after flooding",
+      "summary": "The 6-kilometer section between Hitoyoshi Onsen Station and Higo Nishinomura Station reopened after restoration work.",
+      "category": "environment",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/20/japan/kumagawa-railroad-reopens/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564114.jpg",
+      "publishedAt": "2026-09-20T06:59:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pf5n5d",
+      "title": "Soy sauce maker Kikkoman opens third U.S. plant",
+      "summary": "The plant will start shipping products in October and is scheduled to produce some 4,000 kiloliters of soy sauce by March next year.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/20/companies/kikkoman-opens-third-us-plant/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564109.jpg",
+      "publishedAt": "2026-09-20T06:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "uy4x4p",
+      "title": "MLB teams turn to pop culture as way to draw new fans to ballpark",
+      "summary": "According to MLB, 56% of theme night attendees last year were new buyers, with 45% being female.",
+      "category": "society",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/20/baseball/mlb-teams-theme-nights/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564001.jpg",
+      "publishedAt": "2026-09-20T06:48:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "899ny5",
+      "title": "IOC President Kirsty Coventry impressed by accommodations at Asian Games",
+      "summary": "Asia's biggest sporting spectacle, which opened on Saturday in Nagoya, has split with past Games by having no traditional athletes' village.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/20/more-sports/kirsty-coventry-asian-games-huts/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564108.jpg",
+      "publishedAt": "2026-09-20T06:39:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "916lfi",
+      "title": "For a Japanese-Canadian squash pro, the Asian Games are personal",
+      "summary": "Erisa Sano Herring chose to represent Japan over Canada at age 18.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/20/more-sports/asian-games-squash-sano-herring/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/563284.jpg",
+      "publishedAt": "2026-09-20T06:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xh5944",
+      "title": "Can Pikachu help heal a disaster zone?",
+      "summary": "Pokemon-themed attractions are bringing visitors and economic attention back to the earthquake-devastated Noto Peninsula.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/20/world/pikachu-helps-disaster-zone/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/563907.jpg",
+      "publishedAt": "2026-09-20T05:48:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ngfbvx",
+      "title": "Hong Kong pays final respects to former city leader Tung",
+      "summary": "The former shipping tycoon was hand-picked by Beijing to run Hong Kong after the former British colony's handover to Chinese rule in 1997.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/20/asia-pacific/politics/hong-kong-former-leader-funeral/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564100.jpg",
+      "publishedAt": "2026-09-20T05:46:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "m3np2n",
+      "title": "Pop star Ed Sheeran says Gaza situation ‘unjustifiable’ following controversy",
+      "summary": "The singer maintained an apolitical stance but broke his silence on the Israeli-Palestinian conflict in his first show since the controversy began.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/culture/2026/09/20/entertainment-news/sheeran-gaza-controversy/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564077.jpg",
+      "publishedAt": "2026-09-20T04:46:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "vxsupu",
       "title": "Data center command hub keeps AI up and running",
       "summary": "The goal is not simply to react when something breaks, but to detect warning signs early enough to prevent disruption.",
       "category": "military",
       "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/20/digital-realty-data-command-center/",
+      "url": "https://www.japantimes.co.jp/business/2026/09/20/companies/digital-realty-data-command-center/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564074.jpg",
       "publishedAt": "2026-09-20T04:42:00.000Z",
       "sample": false
@@ -24,6 +200,17 @@
       "url": "https://www.japantimes.co.jp/news/2026/09/20/japan/typhoon-dujuan-silver-week/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564073.jpg",
       "publishedAt": "2026-09-20T04:25:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "twlizi",
+      "title": "Altman’s opaque AI is creating a new security dilemma",
+      "summary": "OpenAI has launched a new model called Astra that uses a method called \"recurrent depth\" that can make reasoning more efficient.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/20/world/opaque-ai-security-dilemma/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/561388.jpg",
+      "publishedAt": "2026-09-20T03:55:00.000Z",
       "sample": false
     },
     {
@@ -146,196 +333,8 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564031.jpg",
       "publishedAt": "2026-09-19T23:37:00.000Z",
       "sample": false
-    },
-    {
-      "id": "9ie09",
-      "title": "Drone owners rush to offload devices ahead of Beijing ban",
-      "summary": "New rules in the Chinese capital ban not just the flying of unmanned aerial vehicles but the possession or storage of them.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/20/asia-pacific/drone-owners-beijing-ban/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564020.jpg",
-      "publishedAt": "2026-09-19T23:36:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8kifsd",
-      "title": "Great Lakes that bind U.S.-Canada trade are imperiled by Trump tariffs",
-      "summary": "Shipping on the Great Lakes has depended on a U.S. economy that moved in lockstep with Canada. A trade war is upending that balance.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/20/economy/great-lakes-us-canada-trade/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564018.jpg",
-      "publishedAt": "2026-09-19T23:19:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bpiz41",
-      "title": "Stuffed sushi pockets with a show-off personality",
-      "summary": "\"Shinmai\" (new rice) will be hitting shelves in the coming weeks, and this recipe makes full use of this staple ingredient.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/life/2026/09/20/food-drink/inari-zushi-new-rice-open-faced-recipe/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/562992.jpg",
-      "publishedAt": "2026-09-19T23:05:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bdz989",
-      "title": "A cocktail menu for the ‘konbini’-obsessed",
-      "summary": "At Tokyo Confidential, familiar convenience store favorites from melon buns to instant noodles become playful cocktails.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/life/2026/09/20/food-drink/konbini-themed-drinks-tokyo-confidential-bar/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/18/thumbs/400x400/562938.jpg",
-      "publishedAt": "2026-09-19T23:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ctoavs",
-      "title": "Denmark emerges smiling from Trump-Greenland deal, experts say",
-      "summary": "Commentators have noted that Washington was already able to ramp up its military presence on the island under a 1951 defense pact.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/20/world/politics/denmark-trump-greenland-deal/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564017.jpg",
-      "publishedAt": "2026-09-19T22:49:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "utdlfb",
-      "title": "Hormuz oil shipments hit six-month high, U.S. military commander says",
-      "summary": "Iran maintains it has closed the strait and regional negotiations on agreed shipping routes have faltered.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/20/economy/hormuz-oil-shipments-six-month-high/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564016.jpg",
-      "publishedAt": "2026-09-19T22:48:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "m4ql5d",
-      "title": "Trump says he will appoint a new AI adviser, without providing details",
-      "summary": "Fears are growing in Washington among lawmakers about the risks posed by AI technology on humans and property.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/20/world/politics/trump-ai-adviser/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564036.jpg",
-      "publishedAt": "2026-09-19T22:43:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "f89nd9",
-      "title": "CNN and MS NOW barred from White House after ban by Trump",
-      "summary": "CNN called the move \"an illegal assault\" on the constitutional rights of news organizations to report without hindrance.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/20/world/politics/white-house-media-ban-trump/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564037.jpg",
-      "publishedAt": "2026-09-19T22:42:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ybcqc3",
-      "title": "Saudi-led coalition says Houthis fired ballistic missile at Riyadh",
-      "summary": "Firefighters extinguished a blaze on a fuel tank at a depot near Riyadh's King Khalid International Airport.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/20/world/saudi-houthis-ballistic-missile-riyadh/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564012.jpg",
-      "publishedAt": "2026-09-19T22:41:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ks4ygn",
-      "title": "Olympic Council of Asia President wants to keep politics out of Asian Games",
-      "summary": "The buildup to the Aichi-Nagoya Games has been overshadowed by complaints from national team delegations over organizational issues.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/09/20/more-sports/asian-games-politics-out/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564011.jpg",
-      "publishedAt": "2026-09-19T15:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "tfabqc",
-      "title": "Japanese triathlete Takumi Hojo claims first gold of Asian Games",
-      "summary": "Hojo qualified for the 2028 Olympics in Los Angeles with the win.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/09/20/more-sports/takumi-hojo-asian-games-gold/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/20/thumbs/400x400/564039.jpg",
-      "publishedAt": "2026-09-19T15:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5u8o06",
-      "title": "As Japan’s sewers age, a few towns are considering a switch to septic tanks",
-      "summary": "About 15% of municipalities are positive about replacing their existing sewer systems with combined septic tanks, according to a recent survey.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/19/japan/municipalities-septic-tanks/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/19/thumbs/400x400/564005.jpg",
-      "publishedAt": "2026-09-19T09:32:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "jo0ti4",
-      "title": "Timelesz member Shuto Inomata arrested in Tokyo for alleged assault",
-      "summary": "The boy band member is suspected of punching a woman in her 20s in the face at a parking lot on Friday evening.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/19/japan/crime-legal/timelesz-member-arrest/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/19/thumbs/400x400/564004.jpg",
-      "publishedAt": "2026-09-19T09:19:00.000Z",
-      "sample": false
     }
   ],
-  "weekly": [
-    {
-      "id": "61tu3m",
-      "title": "Koizumi and U.S. defense chief Hegseth agree to boost security cooperation",
-      "summary": "Defense Minister Shinjiro Koizumi and U.S. Defense Secretary Pete Hegseth have held eight rounds of talks since taking up their posts.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/19/japan/politics/koizumi-hegseth-japan-us-talks/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/19/thumbs/400x400/564000.jpg",
-      "publishedAt": "2026-09-19T05:06:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "wuogvy",
-      "title": "Seoul affirms U.S. investment pledges and intent to help with Strait of Hormuz",
-      "summary": "Talks between the allies' top diplomats came a day after South Korean President Lee Jae Myung ruled out sending troops to the Strait of Hormuz.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/19/asia-pacific/politics/south-korea-us-top-diplomats-hormuz/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/19/thumbs/400x400/563999.jpg",
-      "publishedAt": "2026-09-19T03:10:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2aw53w",
-      "title": "North Korean hackers behind crypto thefts across 100 countries, including Japan",
-      "summary": "The North Korean group, called WaterPlum, infected more than 30,000 devices with malware between December last year and July this year.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/19/japan/crime-legal/north-korean-hackers-crypto-thefts-japan/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/19/thumbs/400x400/563998.jpg",
-      "publishedAt": "2026-09-19T02:48:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mo67yr",
-      "title": "U.S. warns allies of missile delivery delays due to shortage",
-      "summary": "Multiple European nations are expecting deliveries of key missile and air defense capabilities to be pushed back as a result of the Iran war.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/19/world/us-allies-missile-delivery-delays/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/19/thumbs/400x400/563997.jpg",
-      "publishedAt": "2026-09-19T02:42:00.000Z",
-      "sample": false
-    }
-  ],
+  "weekly": [],
   "developing": []
 }
