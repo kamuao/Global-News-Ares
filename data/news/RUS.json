@@ -2,8 +2,250 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-09-20T12:17:41.539Z",
+  "updatedAt": "2026-09-21T00:21:00.477Z",
   "daily": [
+    {
+      "id": "rbrgsu",
+      "title": "Russia’s electoral body to announce preliminary results of Duma election",
+      "summary": "The event is scheduled for 8:00 a.m. GMT on Monday",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190365",
+      "image": null,
+      "publishedAt": "2026-09-21T00:07:57.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpa278",
+      "title": "Merz’s CDU loses vote in Mecklenburg-Western Pomerania — electoral body",
+      "summary": "According to a statement by the state election commission, the CDU took a mere 4.9% of the vote",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2190359",
+      "image": null,
+      "publishedAt": "2026-09-20T22:55:36.000Z",
+      "sample": false
+    },
+    {
+      "id": "jguqba",
+      "title": "Two civilians killed, 4 others injured as Ukrainian army attacks DPR 31 times in past day",
+      "summary": "Two residential houses were damaged in the attacks",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2190351",
+      "image": null,
+      "publishedAt": "2026-09-20T21:51:04.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrgr8",
+      "title": "United Russia party leading preliminary vote count with 50% of ballots processed",
+      "summary": "The Communist Party garnered 13.79% of the vote,  the LDPR 8.80%, New People 7.86%, and A Just Russia 5.11%, according to the Russian Central Election Commission",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190349",
+      "image": null,
+      "publishedAt": "2026-09-20T21:45:33.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrgr4",
+      "title": "Kiev, EU nations indoctrinate youth with neo-Nazism, Russian MFA spokeswoman says",
+      "summary": "Maria Zakharova added that the situation raises concerns over whether the next generation possesses enough resilience and immunity to combat these narratives",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190345",
+      "image": null,
+      "publishedAt": "2026-09-20T20:46:47.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrgr2",
+      "title": "The President's course, West’s failure to discredit Russian vote: Lavrov's statements",
+      "summary": "The Foreign Minister said that officials had exposed all Western attempts to portray the parliamentary elections as undemocratic",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190343",
+      "image": null,
+      "publishedAt": "2026-09-20T20:41:17.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpa265",
+      "title": "Ukraine virtually lost its steel industry — FT",
+      "summary": "According to the article, strikes damaged blast furnaces at three facilities, including two plants owned by Metinvest and an ArcelorMittal facility in Krivoy Rog",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2190341",
+      "image": null,
+      "publishedAt": "2026-09-20T19:59:54.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpa25g",
+      "title": "AfD co-chair urges Merz to ‘draw conclusions’ after crushing election defeat",
+      "summary": "Alice Weidel added that the AfD’s long-term strategy aims at coalition negotiations with the Christian Democrats",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2190337",
+      "image": null,
+      "publishedAt": "2026-09-20T19:55:29.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrgq9",
+      "title": "United Russia wins 49.4% in State Duma elections — exit poll",
+      "summary": "The Communist Party is garnering 14.2%, the LDPR 10.7%, New People 9.7%, and A Just Russia 6.6%, according to VCIOM",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190335",
+      "image": null,
+      "publishedAt": "2026-09-20T19:45:57.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpa24l",
+      "title": "AfD clinches victory in Mecklenburg-Vorpommern state vote, exit poll shows",
+      "summary": "The AfD is leading the vote with approximately 37%, followed by the SPD at around 35.5%, and The Left Party at about 7.5%",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2190327",
+      "image": null,
+      "publishedAt": "2026-09-20T18:00:11.000Z",
+      "sample": false
+    },
+    {
+      "id": "jguqd0",
+      "title": "Kiev’s strike on Russian regions becomes largest since start of special military operation",
+      "summary": "As the  Russian Defense Ministry previously emphasized, \"the attempt at a massive attack on Moscow failed, the enemy failed to reach its targets\"",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2190331",
+      "image": null,
+      "publishedAt": "2026-09-20T17:59:25.000Z",
+      "sample": false
+    },
+    {
+      "id": "jguqdv",
+      "title": "Air defenses intercept all Flamingo missiles heading for Moscow region — Defense Ministry",
+      "summary": "",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2190321",
+      "image": null,
+      "publishedAt": "2026-09-20T17:13:33.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrgon",
+      "title": "All attempts to disrupt State Duma votes abroad failed — Russian Deputy FM",
+      "summary": "State Secretary and Deputy Foreign Minister of Russia Yevgeny Ivanov also highlighted the total failure of a widely publicized campaign orchestrated by the non-systemic opposition, who had planned to paralyze polling stations with mass midday gatherings",
+      "category": "health",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190319",
+      "image": null,
+      "publishedAt": "2026-09-20T16:44:50.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrgol",
+      "title": "Duma commission registers over 200 attempts to disrupt regional elections in Russia",
+      "summary": "Orchestrators focused primarily on shaping a negative information agenda in Russian regions regarding the special military operation, the country's socio-economic situation, and migration, commission chairman Vasily Piskarev told",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190317",
+      "image": null,
+      "publishedAt": "2026-09-20T16:23:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrgoj",
+      "title": "Current State Duma election turnout outstrips 1993, 2016, 2021 levels",
+      "summary": "Central Election Commission data as of 06:04 p.m. Moscow time puts the current turnout at 54.96%",
+      "category": "society",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190315",
+      "image": null,
+      "publishedAt": "2026-09-20T15:28:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrgof",
+      "title": "Turnout on federal remote electronic voting platform reaches 90%",
+      "summary": "More than 4 million people in total submitted applications to vote via the federal digital platform",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190311",
+      "image": null,
+      "publishedAt": "2026-09-20T15:12:28.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrgns",
+      "title": "Over 104,000 Russians abroad voted in State Duma elections — Russian MFA spokeswoman",
+      "summary": "Maria Zakharova added that election officials conducted 120 mobile early voting sessions",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190309",
+      "image": null,
+      "publishedAt": "2026-09-20T14:41:59.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrgnq",
+      "title": "Russians vote for their children's future — Russian MFA spokeswoman",
+      "summary": "They do so both responsibly and freely, Russian Foreign Ministry Spokeswoman Maria Zakharova told",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190307",
+      "image": null,
+      "publishedAt": "2026-09-20T14:41:09.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrgno",
+      "title": "Zelensky will try to close Ukraine's budget deficit via mobilization — Russian diplomat",
+      "summary": "Russian Foreign Ministry Spokeswoman Maria Zakharova pointed to Zelensky's statement regarding the massive budget shortfall and his pledge to fix it",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190305",
+      "image": null,
+      "publishedAt": "2026-09-20T13:44:43.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbrgnm",
+      "title": "Russian parliamentary election turnout exceeds 2021 level",
+      "summary": "As of 3:14 p.m. Moscow time (12:14 p.m. GMT), voter turnout in the current election stood at 52.62%, according to data from Russia’s Central Election Commission",
+      "category": "society",
+      "source": "tass",
+      "url": "https://tass.com/politics/2190303",
+      "image": null,
+      "publishedAt": "2026-09-20T13:20:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpa22p",
+      "title": "Trump orders triumphal arch converted into military complex",
+      "summary": "US President stressed that he made the decision \"at the strong request of the United States Military, and for National Security purposes\"",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2190301",
+      "image": null,
+      "publishedAt": "2026-09-20T12:38:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpa1jz",
+      "title": "Vucic plans to meet with Lavrov at UN General Assembly session",
+      "summary": "The high-level general debate, attended by heads of state and government and foreign ministers, will take place at the UN headquarters in New York on September 22-26 and September 28",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2190299",
+      "image": null,
+      "publishedAt": "2026-09-20T12:20:24.000Z",
+      "sample": false
+    },
     {
       "id": "rbrg4s",
       "title": "TASS Director General opens OANA Executive Committee meeting in Moscow",
@@ -105,13 +347,13 @@
     },
     {
       "id": "2c0gxe",
-      "title": "2 Dead in Moscow Region, Drones Hit Oil Refinery in Russian Capital",
+      "title": "3 Dead in Moscow Region, Drones Hit Oil Refinery in Russian Capital",
       "summary": "Ukraine, Russia have continued attacks on each other's energy infrastructure despite an announcement by Trump on Monday that they had agreed to stop.",
       "category": "politics",
       "source": "moscow-times",
       "url": "https://www.themoscowtimes.com/2026/09/20/2-dead-in-moscow-region-drones-hit-oil-refinery-in-russian-capital-a93753",
       "image": null,
-      "publishedAt": "2026-09-20T07:35:56.000Z",
+      "publishedAt": "2026-09-20T07:35:00.000Z",
       "sample": false
     },
     {
@@ -366,73 +608,9 @@
       "image": null,
       "publishedAt": "2026-09-20T01:04:41.000Z",
       "sample": false
-    },
-    {
-      "id": "rbrfbk",
-      "title": "Ukraine intensifies terrorist activities ahead of Russian parliamentary vote — diplomat",
-      "summary": "Rodion Miroshnik reported the death of a member of a territorial election commission",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190169",
-      "image": null,
-      "publishedAt": "2026-09-20T00:12:39.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpa0ql",
-      "title": "US F-35 fighter en route to Finland stranded in Azores due to malfunction — Yle",
-      "summary": "The broadcaster cited Finnish Air Force Chief of Staff Aki Puustinen as saying that the aircraft’s onboard diagnostic system issued a warning regarding a potential malfunction in the plane’s electronic system during engine startup",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2190165",
-      "image": null,
-      "publishedAt": "2026-09-19T23:59:53.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpa0qj",
-      "title": "Slovakian troops not going to fight Russia for those seeking conflict — premier",
-      "summary": "Robert Fico said that those interested in provoking a military conflict between NATO and Russia \"must bear the responsibility for such a move\"",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2190163",
-      "image": null,
-      "publishedAt": "2026-09-19T23:37:38.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbrfbc",
-      "title": "Russian parliamentary election turnout reaches 44.58% — election authority",
-      "summary": "The information was posted on the Russian Central Election Commission’s website and reflects data as of 11:00 p.m. Saturday GMT",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190161",
-      "image": null,
-      "publishedAt": "2026-09-19T23:14:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpa0pu",
-      "title": "Chile’s ex-president Bachelet withdraws from campaign to lead UN",
-      "summary": "The politician thanked Brazilian President Luiz Inacio Lula da Silva and his Mexican counterpart Claudia Sheinbaum for nominating and supporting her",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2190159",
-      "image": null,
-      "publishedAt": "2026-09-19T22:56:59.000Z",
-      "sample": false
-    },
-    {
-      "id": "jgursi",
-      "title": "Kiev troops shell DPR 30 times in past day, 18 wounded",
-      "summary": "Three children were among the injured",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2190157",
-      "image": null,
-      "publishedAt": "2026-09-19T22:45:25.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "52azqo",
       "title": "Former Russian Official Elected President of South Ossetia",
@@ -445,292 +623,6 @@
       "sample": false
     },
     {
-      "id": "rbrfal",
-      "title": "Attacks on Russian online vote system involve AI, darknet — official",
-      "summary": "Oleg Artamonov added that no disruptions were detected during the first two days of the vote",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190155",
-      "image": null,
-      "publishedAt": "2026-09-19T22:02:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbrfaj",
-      "title": "Russian parliamentary election turnout exceeds 44.5% — election authority",
-      "summary": "The information was posted on the Russian Central Election Commission’s website and reflects data as of 9:00 p.m. GMT",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190153",
-      "image": null,
-      "publishedAt": "2026-09-19T21:16:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpa0ov",
-      "title": "Saudi Arabia repels Houthi missile attack on Riyadh — coalition",
-      "summary": "Brigadier General Turki al-Maliki said that the Houthis had stepped up their attempts to attack civilian targets in the capital",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2190145",
-      "image": null,
-      "publishedAt": "2026-09-19T21:12:04.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpa0oz",
-      "title": "US used AI in preparation for attack on school in Iran’s Minab — Bloomberg",
-      "summary": "The US military did not take advantage of a whole series of opportunities to prevent the tragedy, the agency said",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2190149",
-      "image": null,
-      "publishedAt": "2026-09-19T20:58:51.000Z",
-      "sample": false
-    },
-    {
-      "id": "sy4er1",
-      "title": "US diesel fuel prices hit record of $6.49 per gallon — American Automobile Association",
-      "summary": "Gallon of diesel fuel cost $6.17 a week earlier",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2190147",
-      "image": null,
-      "publishedAt": "2026-09-19T20:51:33.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpa0or",
-      "title": "China criticizes new US law that tightens sanctions against Russia and Iran",
-      "summary": "Beijing consistently opposes unilateral sanctions that lack authorization from the UN",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2190141",
-      "image": null,
-      "publishedAt": "2026-09-19T20:28:32.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbrf9o",
-      "title": "Moscow says Latvia, Estonia try to intimidate Russians who want to vote",
-      "summary": "Russian Foreign Ministry Spokeswoman Maria Zakharova explained, that the police check and record the documents of any person who tries to enter the Russian embassy",
-      "category": "health",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190143",
-      "image": null,
-      "publishedAt": "2026-09-19T19:52:53.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpa0o2",
-      "title": "TASS: Iran ready to return to negotiations if US convinces Tehran of sincerity",
-      "summary": "The Islamic Republic still considers talks on nuclear issues possible, but only after full implementation of the Islamabad agreement",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2190137",
-      "image": null,
-      "publishedAt": "2026-09-19T19:39:51.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpa0o0",
-      "title": "US-Iran talks deadlocked — Turkey’s foreign minister",
-      "summary": "Hakan Fidan underlined that Ankara and other countries are putting forward initiatives and \"doing everything possible to ensure that the negotiations between Washington and Teheran are concluded\"",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2190135",
-      "image": null,
-      "publishedAt": "2026-09-19T19:19:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbrf8t",
-      "title": "Dmitriev says Europe in largest energy crisis in history",
-      "summary": "Special Representative of Russian President for investment and economic cooperation with foreign countries, Chief Executive Officer of Russian Direct Investment Fund (RDIF) also gave a comment on reports of fuel supply disruptions in France",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190133",
-      "image": null,
-      "publishedAt": "2026-09-19T18:59:39.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbrf84",
-      "title": "Zaporozhye Region’s turnout at 72.88% as of 5:00 p.m. GMT",
-      "summary": "The results confirm the active civic stance of the region’s residents, said the regional election commission",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190129",
-      "image": null,
-      "publishedAt": "2026-09-19T18:50:52.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbrf73",
-      "title": "Election commissions in regions where drones fly defy “terrorist scum” — Foreign Ministry",
-      "summary": "The Russian Foreign Ministry Spokeswoman Maria Zakharova said that she is shocked by the courage of the election commission staff",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190113",
-      "image": null,
-      "publishedAt": "2026-09-19T18:00:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbrf80",
-      "title": "Large-scale cyberattacks on electronic voting system recorded and repelled in Moscow",
-      "summary": "Video surveillance of the polling stations continues after they close",
-      "category": "technology",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190125",
-      "image": null,
-      "publishedAt": "2026-09-19T17:58:53.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpa0ma",
-      "title": "At least 48 people died in clashes in southern Yemen over past 24 hours — AFP",
-      "summary": "The fighting is taking place on the border between the provinces of Lahij and Taiz",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2190115",
-      "image": null,
-      "publishedAt": "2026-09-19T17:56:38.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpa0n3",
-      "title": "Houthis claim they carried out missile strikes on targets in Riyadh and Yanbu",
-      "summary": "Representative of the movement Yahya Saree said that the attacks were a response to Saudi Arabia’s ongoing strikes on Yemen",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2190123",
-      "image": null,
-      "publishedAt": "2026-09-19T17:55:43.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpa0n1",
-      "title": "Trump administration does not believe war with Iran ongoing — speaker Johnson",
-      "summary": "According to the House of Representatives speaker, the conflict is in its final stage",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2190121",
-      "image": null,
-      "publishedAt": "2026-09-19T17:53:54.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpa0lb",
-      "title": "Iran conveys conditions for ending war to US — Security Council Secretary",
-      "summary": "We have not yet made a decision to withdraw from the Non·Proliferation Treaty, and this issue depends on Washington’s behavior, said the Supreme National Security Council Mohsen Rezaei",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2190101",
-      "image": null,
-      "publishedAt": "2026-09-19T16:54:36.000Z",
-      "sample": false
-    },
-    {
-      "id": "velygk",
-      "title": "Polling stations’ hours in DPR to be cut on September 20 over higher drone activity",
-      "summary": "They will operate from 8:00 a.m. to 14:00 p.m. Moscow time",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/society/2190111",
-      "image": null,
-      "publishedAt": "2026-09-19T16:37:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "velxwt",
-      "title": "Anthropic, Google, OpenAI, SpaceXAI sued for attempt to slow down AI development",
-      "summary": "The plaintiffs are represented by law firm Trial Lawyers for Justice",
-      "category": "technology",
-      "source": "tass",
-      "url": "https://tass.com/society/2190093",
-      "image": null,
-      "publishedAt": "2026-09-19T16:34:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbren8",
-      "title": "Two days of voting in Zaporozhye Region pass without violations",
-      "summary": "Anton Bibarov·Gosudarev, head of the Public Election Monitoring Headquarters in the Zaporozhye Region noted that some activities were carried out during the work, including with the Civic Chamber",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190091",
-      "image": null,
-      "publishedAt": "2026-09-19T15:32:36.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbremh",
-      "title": "Russia says not to start dialogue with those asserting Russophobia, neo-Nazism — Zakharova",
-      "summary": "Russian Foreign Ministry Spokeswoman said that everyone who \"comes to Russia with love, and perhaps even for love,\" is always welcomed with open arms",
-      "category": "health",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190085",
-      "image": null,
-      "publishedAt": "2026-09-19T15:07:23.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbremj",
-      "title": "Fairness of Russian elections beyond doubt — observer from Mali",
-      "summary": "Brahima Fomba mentioned, that voting system is based on high·tech solutions",
-      "category": "technology",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190087",
-      "image": null,
-      "publishedAt": "2026-09-19T14:51:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpa01k",
-      "title": "Germany artificially inflates crisis by accusing Russia of UAV accident — GFCN experts",
-      "summary": "They pointed out that the incident itself took place in early August, but official statements on this issue emerged on behalf of the German side only on September 1",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2190083",
-      "image": null,
-      "publishedAt": "2026-09-19T14:18:30.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbremd",
-      "title": "Geographical coverage of voters in South Africa expanded — Russian ambassador",
-      "summary": "Roman Ambarov said, that it has been widened to take into account the state's specifics",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190081",
-      "image": null,
-      "publishedAt": "2026-09-19T13:58:41.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbrelm",
-      "title": "Central Election Commission views sabotage in Far East as attempt to disrupt elections",
-      "summary": "Head of CEC Ella Pamfilova noted, that the saboteurs left four large regions of without connectivity",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190075",
-      "image": null,
-      "publishedAt": "2026-09-19T13:15:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbreli",
-      "title": "State Duma election voters’ turnout exceeds 32.58% as of 2:00 p.m. Moscow time — CEC",
-      "summary": "Russia’s Central Election Commission provides the data",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2190071",
-      "image": null,
-      "publishedAt": "2026-09-19T12:36:54.000Z",
-      "sample": false
-    },
-    {
       "id": "7kkg09",
       "title": "With United Russia’s Election Victory All But Certain, Some Russians Are Still Pushing Back",
       "summary": "Subtle acts of protest and organized voting strategies may offer only symbolic victories, but to those taking part, that is still worth the effort.",
@@ -739,19 +631,6 @@
       "url": "https://www.themoscowtimes.com/2026/09/19/with-united-russias-election-victory-all-but-certain-some-russians-are-still-pushing-back-a93749",
       "image": null,
       "publishedAt": "2026-09-19T12:23:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "jgusic",
-      "title": "Russian troops strike logistics centers, energy sites used by Ukrainian army in past day",
-      "summary": "Operational/tactical aircraft, attack unmanned aerial vehicles, missile troops and artillery of the Russian groups of forces struck arms depots, logistics centers, fuel and energy, transport and port infrastructure facilities in Ukraine used by the Ukrainian army, ammunition and materiel depots, workshops assembling an",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2190067",
-      "image": null,
-      "publishedAt": "2026-09-19T12:14:55.000Z",
       "sample": false
     },
     {
@@ -1192,28 +1071,6 @@
       "url": "https://www.themoscowtimes.com/2026/09/14/russia-suspends-natural-gas-exports-to-armenia-for-repair-work-a93698",
       "image": null,
       "publishedAt": "2026-09-14T08:46:25.000Z",
-      "sample": false
-    },
-    {
-      "id": "k0lsuo",
-      "title": "Russian Athletes Appeal for End to World Athletics Ban",
-      "summary": "They argued that more than 4 years of exclusion has deprived a generation of athletes of their careers.",
-      "category": "politics",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/09/13/russian-athletes-appeal-for-end-to-world-athletics-ban-a93697",
-      "image": null,
-      "publishedAt": "2026-09-13T16:31:02.000Z",
-      "sample": false
-    },
-    {
-      "id": "e3v3cc",
-      "title": "Trump Tells Ukraine's Zelensky to Stop Hitting Russian Diesel",
-      "summary": "“Mr. Zelensky has to do one thing: He has to stop knocking out diesel fuel in Russia,” Trump told journalists.",
-      "category": "politics",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/09/13/trump-tells-ukraines-zelensky-to-stop-hitting-russian-diesel-a93696",
-      "image": null,
-      "publishedAt": "2026-09-13T16:15:05.000Z",
       "sample": false
     }
   ],

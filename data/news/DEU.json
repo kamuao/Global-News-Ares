@@ -2,8 +2,63 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-20T12:17:40.707Z",
+  "updatedAt": "2026-09-21T00:20:59.165Z",
   "daily": [
+    {
+      "id": "jrg66h",
+      "title": "Canada, France agree to closer ties in defense, economy",
+      "summary": "Amid strained relations with the US, French President Emmanuel Macron and Canadian Prime Minister Mark Carney announced closer economic and defense ties.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/canada-france-agree-to-closer-ties-in-defense-economy/a-79348843?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-20T21:29:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "togpjh",
+      "title": "German state elections deal a blow to Chancellor Friedrich Merz",
+      "summary": "Elections in Berlin and Mecklenburg-Western Pomerania have dealt the CDU a historic defeat while the AfD saw a massive gain. The pressure on Germany's unpopular chancellor is mounting.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-20T21:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "g3ajkk",
+      "title": "AfD makes gains in state elections, but has no government options",
+      "summary": "Despite making significant gains in both Berlin and Mecklenburg-Western Pomerania, the far-right AfD remains without options to form a state government.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/afd-makes-gains-in-state-elections-but-has-no-government-options/a-79348308?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-20T19:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "y9t4m7",
+      "title": "Germany faces energy tax losses as EV sales rise",
+      "summary": "The rapid shift to electric vehicles in Germany is cutting fuel tax revenue for the government. As EV sales surge, policymakers face growing pressure to find new ways to fund roads and transportation infrastructure.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-20T14:02:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "jhhfzr",
+      "title": "Peter Thiel: Power, Palantir, and the antichrist",
+      "summary": "He was early to back Facebook, early to back Donald Trump, and is one of the world’s richest people. But from his theories on the antichrist and AI to his distinctive politics, Peter Thiel is hard to pin down.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/peter-thiel-power-palantir-and-the-antichrist/a-79313426?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-20T13:29:00.000Z",
+      "sample": false
+    },
     {
       "id": "fctve",
       "title": "Russia: Ukrainian drone strike on Moscow kills 2",
@@ -62,7 +117,7 @@
     {
       "id": "ybzwmb",
       "title": "Decolonizing perceptions about Africa",
-      "summary": "A UN resolution to redraw the global map to project the African continent more accurately, national initiatives to decolonize schools and a campaign to present positive developments are changing the way Africa is seen.",
+      "summary": "As a UN resolution alters the standard global map to reflect the continent more accurately, initiatives to decolonize African schools and a campaign to present positive developments are changing the way Africa is seen.",
       "category": "society",
       "source": "dw",
       "url": "https://www.dw.com/en/decolonizing-perceptions-about-africa/a-79331178?maca=en-rss-en-all-1573-xml-mrss",
@@ -71,12 +126,12 @@
       "sample": false
     },
     {
-      "id": "87yg99",
-      "title": "Germany: Voting underway in two key state elections",
-      "summary": "Elections in Berlin and Mecklenburg-Western Pomerania are expected to bring gains for the far-right AfD party and could determine whether Chancellor Friedrich Merz can hold on to power. Follow DW live.",
+      "id": "ua01rk",
+      "title": "Far-right AfD wins state election in Mecklenburg-Western Pomerania, CDU fails to enter parliament",
+      "summary": "The far-right AfD has come first in the state election in Mecklenburg-Western Pomerania, with Chancellor Merz's CDU failing to enter parliament. Meanwhile the Left Party took first place in Berlin. DW has more.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/germany-voting-underway-in-two-key-state-elections/live-79322092?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/far-right-afd-wins-state-election-in-mecklenburg-western-pomerania-cdu-fails-to-enter-parliament/live-79322092?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-20T06:00:00.000Z",
       "sample": false
@@ -91,7 +146,9 @@
       "image": null,
       "publishedAt": "2026-09-20T05:06:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "7mo0wj",
       "title": "Dutch police disperse violent far-right protest in The Hague",
@@ -167,41 +224,6 @@
       "url": "https://www.dw.com/en/mecklenburg-western-pomerania-will-economy-shape-the-vote/a-79298904?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-19T14:51:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "xc0usm",
-      "title": "Saudi Arabia: Houthis claim strikes on Riyadh, Yanbu port",
-      "summary": "The Yemen-based Houthis said they targeted \"sensitive sites\" in Riyadh, hours after a blaze at a fuel depot near the Saudi capital's main airport. The Saudi-led coalition said Saudi defense downed a ballistic missile.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/saudi-arabia-houthis-claim-strikes-on-riyadh-yanbu-port/a-79339010?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T14:46:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "v2623u",
-      "title": "Drone sightings briefly shut Luxembourg airport",
-      "summary": "Flights were diverted and hundreds of passengers affected after unauthorized drones appeared near Luxembourg's only international airport.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/drone-sightings-briefly-shut-luxembourg-airport/a-79338859?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T13:55:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "xuv0iv",
-      "title": "Thousands protest Kennedy Center demolition fears",
-      "summary": "Protesters took part in a \"Hands Around the Kennedy Center\" human chain. The demonstration comes amid fears the Trump administration could tear the arts hub down.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/thousands-protest-kennedy-center-demolition-fears/a-79337558?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T11:09:00.000Z",
       "sample": false
     },
     {
@@ -345,17 +367,6 @@
       "url": "https://www.dw.com/en/no-compromises-far-right-afd-has-few-potential-partners/a-79326208?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-18T12:24:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "y9t4m7",
-      "title": "Germany faces energy tax losses as EV sales rise",
-      "summary": "The rapid shift to electric vehicles in Germany is cutting fuel tax revenue. As EV sales surge, policymakers face growing pressure to find new ways to fund roads and transportation infrastructure.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-18T10:55:00.000Z",
       "sample": false
     },
     {
@@ -873,17 +884,6 @@
       "url": "https://www.dw.com/en/germany-merz-s-cdu-comes-out-on-top-in-lower-saxony-polls/a-79254724?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-14T06:09:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "grlyiz",
-      "title": "Germany's Zverev wins US Open in golden year",
-      "summary": "Alexander Zverev has won the US Open for the first time, defeating Ben Shelton in the final. It is Zverev's second Grand Slam win of 2026 after a long wait for his first title, but controversy still hangs over him.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-s-zverev-wins-us-open-in-golden-year/a-79212706?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-13T22:03:00.000Z",
       "sample": false
     }
   ],
