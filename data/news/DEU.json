@@ -2,8 +2,63 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-21T12:21:34.469Z",
+  "updatedAt": "2026-09-21T18:16:39.003Z",
   "daily": [
+    {
+      "id": "s91o0n",
+      "title": "US news outlets sue Trump over White House ban",
+      "summary": "CNN, MS NOW, and Politico say the ban against them threatens press freedom and the right to independent journalism.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-news-outlets-sue-trump-over-white-house-ban/a-79362618?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-21T16:44:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pzi931",
+      "title": "Nuclear power is back on Southeast Asia's energy agenda",
+      "summary": "Rising electricity demand, shocks in energy security and climate commitments are reviving long-stalled plans for nuclear power across Southeast Asia. But proponents of nuclear energy still face major obstacles.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/nuclear-power-is-back-on-southeast-asia-s-energy-agenda/a-79358744?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-21T13:47:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "vral4",
+      "title": "Why gender-based violence persists in Southern Africa",
+      "summary": "A series of killings in South Africa has renewed scrutiny of efforts to combat violence against women. Activists say laws alone are not enough without effective implementation.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/why-gender-based-violence-persists-in-southern-africa/a-79356560?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-21T13:42:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6njn4p",
+      "title": "As US and China talk, middle powers jostle for position",
+      "summary": "China's Xi Jinping is traveling to Washington this week. Regardless of what comes from his talks with US President Trump, the EU will likely remain stuck between erratic US trade policy and Beijing's export machine.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/as-us-and-china-talk-middle-powers-jostle-for-position/a-79356540?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-21T12:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3235zb",
+      "title": "India's road rage: When cars become weapons",
+      "summary": "Road disputes are turning violent across India, raising questions about status and impunity behind the wheel for drivers of expensive cars.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-s-road-rage-when-cars-become-weapons/a-79355073?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-21T12:47:00.000Z",
+      "sample": false
+    },
     {
       "id": "3bcaio",
       "title": "Russia: Putin party retains majority in controlled parliamentary vote",
@@ -27,12 +82,12 @@
       "sample": false
     },
     {
-      "id": "d3yhhw",
-      "title": "Taliban says three killed in new Pakistan airstrikes on Afghanistan",
-      "summary": "The Afghan border provinces of Kunar and Paktika were reportedly struck. Pakistan last carried out deadly strikes on Afghanistan in June.",
-      "category": "military",
+      "id": "farpoj",
+      "title": "Pakistan says strikes in Afghanistan killed '28 terrorists'",
+      "summary": "The Afghan border provinces of Kunar and Paktika were struck overnight. Pakistan said 28 militants were killed, Afghanistan said three civilians died. This follows soon after an attack on police in Kohat, Pakistan.",
+      "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/taliban-says-three-killed-in-new-pakistan-airstrikes-on-afghanistan/a-79350604?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/pakistan-says-strikes-in-afghanistan-killed-28-terrorists/a-79350604?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-21T08:44:00.000Z",
       "sample": false
@@ -135,7 +190,9 @@
       "image": null,
       "publishedAt": "2026-09-20T19:58:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "y9t4m7",
       "title": "Germany faces energy tax losses as EV sales rise",
@@ -157,9 +214,7 @@
       "image": null,
       "publishedAt": "2026-09-20T13:29:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "fctve",
       "title": "Russia: Ukrainian drone strike on Moscow kills 2",
@@ -169,17 +224,6 @@
       "url": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-20T08:37:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "egxm92",
-      "title": "Ed Sheeran speaks on Gaza in concert after Macklemore controversy",
-      "summary": "Sheeran called the Hamas-led attack in Israel \"horrific\" and described the war in Gaza as \"catastrophic and unjustifiable\" during his first concert since the Macklemore controversy erupted.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ed-sheeran-speaks-on-gaza-in-concert-after-macklemore-controversy/a-79341971?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-20T08:00:00.000Z",
       "sample": false
     },
     {
@@ -194,17 +238,6 @@
       "sample": false
     },
     {
-      "id": "sud75o",
-      "title": "India news: PM Modi says developing nations unfairly blamed for emissions",
-      "summary": "PM Narendra Modi has told a climate conference that developed countries emit six times more CO2 than India. Meanwhile, an IIT Bombay professor has been accused of caste abuse. DW has more.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-pm-modi-says-developing-nations-unfairly-blamed-for-emissions/live-79335891?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-20T06:50:00.000Z",
-      "sample": false
-    },
-    {
       "id": "5kgoz5",
       "title": "Germany news: Doctors offer Oktoberfest flu jabs",
       "summary": "Oktoberfest 2026 is underway but it's not just beer on offer in Munich this year; revelers can also get themselves a flu jab before heading to the tents. DW has more.",
@@ -213,17 +246,6 @@
       "url": "https://www.dw.com/en/germany-news-doctors-offer-oktoberfest-flu-jabs/live-79335548?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-20T06:43:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ybzwmb",
-      "title": "Decolonizing perceptions about Africa",
-      "summary": "As a UN resolution alters the standard global map to reflect the continent more accurately, initiatives to decolonize African schools and a campaign to present positive developments are changing the way Africa is seen.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/decolonizing-perceptions-about-africa/a-79331178?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-20T06:32:00.000Z",
       "sample": false
     },
     {
@@ -590,23 +612,23 @@
       "sample": false
     },
     {
-      "id": "79stj2",
-      "title": "Can Canada and the EU deepen ties to counter Trump?",
-      "summary": "Canadian Prime Minister Mark Carney is known for standing up to US President Donald Trump. Now he wants to forge a \"unique alliance\" with Europe. But what could such a partnership look like?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/can-canada-and-the-eu-deepen-ties-to-counter-trump/a-79295388?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T16:50:00.000Z",
-      "sample": false
-    },
-    {
       "id": "mh1gn1",
       "title": "Chancellor Merz seeks CDU support amid far-right AfD surge",
       "summary": "Following the CDU's crushing defeat in the Saxony-Anhalt state election, many are expressing doubts about the party's leader, Chancellor Friedrich Merz. But the CDU doesn't appear to have a viable alternative.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/chancellor-merz-seeks-cdu-support-amid-far-right-afd-surge/a-79290192?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-16T16:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "79stj2",
+      "title": "Can Canada and the EU deepen ties to counter Trump?",
+      "summary": "Canadian Prime Minister Mark Carney is known for standing up to US President Donald Trump. Now he wants to forge a \"unique alliance\" with Europe. But what could such a partnership look like?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/can-canada-and-the-eu-deepen-ties-to-counter-trump/a-79295388?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-16T16:50:00.000Z",
       "sample": false
@@ -862,50 +884,6 @@
       "url": "https://www.dw.com/en/ukraine-russia-set-for-new-round-of-us-mediated-talks/a-79261147?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-14T18:46:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "d1u6dy",
-      "title": "Women's Basketball World Cup: Can Germany harness a boom?",
-      "summary": "Germany thrilled fans at the Women's Basketball World Cup. But even if this sparked a boom in the women's game, the infrastructure simply isn't ready for it.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/women-s-basketball-world-cup-can-germany-harness-a-boom/a-79263602?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T15:07:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "tkba9p",
-      "title": "Africa's richest man Dangote's IPO out of reach in Nigeria",
-      "summary": "Dangote seeks $1.6 billion from investors to finance a $14.3 billion expansion and thus double the oil refinery's capacity. The offer could give millions of Nigerians a stake in the company. But who can truly afford it?",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/africa-s-richest-man-dangote-s-ipo-out-of-reach-in-nigeria/a-79263398?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T14:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ahkecr",
-      "title": "Far-right AfD puts pressure on German aid to Ukraine",
-      "summary": "Emboldened by its win in Saxony-Anhalt, the far-right Alternative for Germany wants the government to change its Ukraine and Russia policies. Berlin is staying the course, but support is fading — especially in the east.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/far-right-afd-puts-pressure-on-german-aid-to-ukraine/a-79257524?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T12:46:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "zg1z8c",
-      "title": "The Crusades: How a medieval holy war still shapes politics",
-      "summary": "In 1095, the Catholic Church launched the Crusades: wars that left millions dead and whose legacy still shapes political and ideological conflicts.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/the-crusades-how-a-medieval-holy-war-still-shapes-politics/a-79203784?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T12:43:00.000Z",
       "sample": false
     }
   ],
