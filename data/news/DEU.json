@@ -2,8 +2,107 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-21T00:20:59.165Z",
+  "updatedAt": "2026-09-21T12:21:34.469Z",
   "daily": [
+    {
+      "id": "3bcaio",
+      "title": "Russia: Putin party retains majority in controlled parliamentary vote",
+      "summary": "Vladimir Putin's United Russia won just under 58% of the vote, the electoral commission said. Meanwhile, Putin ally Ramzan Kadyrov won nearly 100% of the vote in elections in the Russian republic of Chechnya.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/russia-putin-party-retains-majority-in-controlled-parliamentary-vote/a-79353231?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-21T10:48:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "wwo1q",
+      "title": "Germany news: Trial starts of ex-Transport Minister Scheuer",
+      "summary": "Former Transport Minister Andreas Scheuer is being tried for perjury related to a failed car toll scheme. And cherry farmers have brought in a bumper harvest. DW has more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-trial-starts-of-ex-transport-minister-scheuer/live-79351160?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-21T09:14:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "d3yhhw",
+      "title": "Taliban says three killed in new Pakistan airstrikes on Afghanistan",
+      "summary": "The Afghan border provinces of Kunar and Paktika were reportedly struck. Pakistan last carried out deadly strikes on Afghanistan in June.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/taliban-says-three-killed-in-new-pakistan-airstrikes-on-afghanistan/a-79350604?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-21T08:44:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xuy9o1",
+      "title": "Germany's car crisis: Can the 35-hour workweek survive?",
+      "summary": "German carmakers want employees to work 40 hours instead of the current 35 without extra pay, arguing it would improve competitiveness. Unions strongly oppose the proposal and view it as an attack on workers' rights.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-s-car-crisis-can-the-35-hour-workweek-survive/a-79307488?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-21T08:13:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "sl8idq",
+      "title": "US proposes AI safety mechanism in talks with China",
+      "summary": "US Treasury chief Scott Bessent said there had been \"successful\" talks with China on trade and AI. The talks come amid growing fears that AI could pose an existential threat to humanity.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-proposes-ai-safety-mechanism-in-talks-with-china/a-79350248?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-21T08:06:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lzi0hr",
+      "title": "India news: India's medal tally at Asian games rises to six",
+      "summary": "Indian athletes won two bronze and two silver medals on the second day of the Asian Games in Japan. Meanwhile, more bodies were recovered after a flash flood in Kerala. DW has more.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-india-s-medal-tally-at-asian-games-rises-to-six/live-79349941?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-21T07:34:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "f1aui7",
+      "title": "Japan: Typhoon Dujuan sparks flood, landslide warnings",
+      "summary": "Evacuation advisories have been issued and hundreds of flights have been canceled in Japan, which is in the middle of a five-day holiday. The storm could dump record levels of rain on the country.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/japan-typhoon-dujuan-sparks-flood-landslide-warnings/a-79349957?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-21T06:27:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6gw2yx",
+      "title": "US: Man wounded in Texas after being shot by ICE agent",
+      "summary": "An ICE agent shot and wounded a man in Austin, Texas. The city's mayor has called for an independent investigation into the shooting.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-man-wounded-in-texas-after-being-shot-by-ice-agent/a-79349482?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-21T03:42:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "yh3sc5",
+      "title": "Iran closes language center in Tehran, France vows response",
+      "summary": "In response to the Iranian authorities' decision to close a French language center affiliated with its embassy in Tehran, France vowed to take appropriate measures.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/iran-closes-language-center-in-tehran-france-vows-response/a-79348984?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-21T01:20:00.000Z",
+      "sample": false
+    },
     {
       "id": "jrg66h",
       "title": "Canada, France agree to closer ties in defense, economy",
@@ -28,7 +127,7 @@
     },
     {
       "id": "g3ajkk",
-      "title": "AfD makes gains in state elections, but has no government options",
+      "title": "AfD makes gains in state elections but has no government options",
       "summary": "Despite making significant gains in both Berlin and Mecklenburg-Western Pomerania, the far-right AfD remains without options to form a state government.",
       "category": "politics",
       "source": "dw",
@@ -58,7 +157,9 @@
       "image": null,
       "publishedAt": "2026-09-20T13:29:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "fctve",
       "title": "Russia: Ukrainian drone strike on Moscow kills 2",
@@ -126,17 +227,6 @@
       "sample": false
     },
     {
-      "id": "ua01rk",
-      "title": "Far-right AfD wins state election in Mecklenburg-Western Pomerania, CDU fails to enter parliament",
-      "summary": "The far-right AfD has come first in the state election in Mecklenburg-Western Pomerania, with Chancellor Merz's CDU failing to enter parliament. Meanwhile the Left Party took first place in Berlin. DW has more.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/far-right-afd-wins-state-election-in-mecklenburg-western-pomerania-cdu-fails-to-enter-parliament/live-79322092?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-20T06:00:00.000Z",
-      "sample": false
-    },
-    {
       "id": "1qrj1y",
       "title": "Germany: Is it possible to replace the chancellor?",
       "summary": "Chancellor Friedrich Merz's record-low approval ratings have emboldened his opponents. There are three ways to remove a chancellor from office in Germany.",
@@ -145,19 +235,6 @@
       "url": "https://www.dw.com/en/germany-is-it-possible-to-replace-the-chancellor/a-79313623?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-20T05:06:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "7mo0wj",
-      "title": "Dutch police disperse violent far-right protest in The Hague",
-      "summary": "After violence broke out, Dutch riot police dispersed hundreds of far-right protesters in The Hague. Prime Minister Rob Jetten said that the demonstrators had chanted \"abhorrent\" far-right and antisemitic slogans.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/dutch-police-disperse-violent-far-right-protest-in-the-hague/a-79340495?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T22:38:00.000Z",
       "sample": false
     },
     {
@@ -169,17 +246,6 @@
       "url": "https://www.dw.com/en/summer-of-2026-broke-records-in-europe-and-caused-deaths/a-79339630?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-19T19:47:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bxvlcg",
-      "title": "Trump announces new 'AI force' amid mounting pressure",
-      "summary": "Several voices, including from within the AI industry, have been calling for policing the fast-growing technology. Trump has once again called AI warnings \"hoaxes\" and vowed to \"cherish, help\" the industry.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/trump-announces-new-ai-force-amid-mounting-pressure/a-79339935?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T17:37:00.000Z",
       "sample": false
     },
     {
@@ -202,17 +268,6 @@
       "url": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-19T15:37:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "9ef4bl",
-      "title": "CNN, MS NOW and Politico denied access to White House",
-      "summary": "Three US news outlets said their journalists were blocked from entering the White House grounds, hours after President Donald Trump announced bans on several media outlets.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T15:33:00.000Z",
       "sample": false
     },
     {
@@ -810,17 +865,6 @@
       "sample": false
     },
     {
-      "id": "3ufi65",
-      "title": "Trump seeks halt to energy attacks by both Russia, Ukraine",
-      "summary": "Donald Trump, under fire for record US diesel prices, claims Russia and Ukraine have agreed to stop striking energy targets. Russia said nothing; Ukraine said \"we expect specifics from our partners\" on any such move.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/trump-seeks-halt-to-energy-attacks-by-both-russia-ukraine/a-79265774?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T17:59:00.000Z",
-      "sample": false
-    },
-    {
       "id": "d1u6dy",
       "title": "Women's Basketball World Cup: Can Germany harness a boom?",
       "summary": "Germany thrilled fans at the Women's Basketball World Cup. But even if this sparked a boom in the women's game, the infrastructure simply isn't ready for it.",
@@ -862,28 +906,6 @@
       "url": "https://www.dw.com/en/the-crusades-how-a-medieval-holy-war-still-shapes-politics/a-79203784?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-14T12:43:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "4umqwn",
-      "title": "Can Iran replace sea trade with land routes?",
-      "summary": "Iran is shifting trade toward northern ports and land routes as its southern shipping faces a US blockade. Analysts say the corridors can keep essential goods moving, but cannot replace maritime trade.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/can-iran-replace-sea-trade-with-land-routes/a-79211179?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T07:50:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "3s4xfv",
-      "title": "Germany: Merz's CDU comes out on top in Lower Saxony polls",
-      "summary": "The Christian Democrats have emerged as the strongest party following local elections in the state of Lower Saxony. The vote was closely watched as an indicator of the strength of the far-right AfD, which came in third.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-merz-s-cdu-comes-out-on-top-in-lower-saxony-polls/a-79254724?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-14T06:09:00.000Z",
       "sample": false
     }
   ],

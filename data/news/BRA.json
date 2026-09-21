@@ -2,8 +2,31 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-09-21T00:21:03.464Z",
-  "daily": [],
+  "updatedAt": "2026-09-21T12:21:39.190Z",
+  "daily": [
+    {
+      "id": "ujsvee",
+      "title": "Government Seeks to Bring Weight-Loss Drugs to Brazil's Public Health System, but Approval and Funding Needed",
+      "summary": "Brazil's Health Ministry is considering asking Conitec (National Commission for the Incorporation of Technologies into the Unified Health System) to approve the use of weight-loss drugs in the SUS, a measure that has become one of Lula's (PT) campaign promises.\nLeia mais (09/21/2026 - 08h40)",
+      "category": "health",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/09/government-seeks-to-bring-weight-loss-drugs-to-brazils-public-health-system-but-approval-and-funding-needed.shtml",
+      "image": null,
+      "publishedAt": "2026-09-21T11:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "wcxjh7",
+      "title": "US May Impose New Sanctions on People and Companies in Brazil Linked to PCC and CV",
+      "summary": "Targets in Brazil could face US sanctions in the coming weeks as part of efforts to combat the criminal organizations PCC (First Capital Command) and CV (Red Command).\nLeia mais (09/21/2026 - 08h35)",
+      "category": "military",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/us-may-impose-new-sanctions-on-people-and-companies-in-brazil-linked-to-pcc-and-cv.shtml",
+      "image": null,
+      "publishedAt": "2026-09-21T11:35:00.000Z",
+      "sample": false
+    }
+  ],
   "weekly": [
     {
       "id": "k6fd8b",
@@ -146,17 +169,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/saopaulo/2026/09/smash-and-grab-gangs-reach-every-region-of-sao-paulo.shtml",
       "image": null,
       "publishedAt": "2026-09-14T16:26:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ttoeb0",
-      "title": "Service to Accompany Elderly People Gains Ground in Brazil as Population Ages",
-      "summary": "The service known as a \"rented daughter,\" which involves accompanying elderly people in everyday activities such as medical appointments, outings and shopping, is gaining ground in Brazil as the population ages.\nLeia mais (09/14/2026 - 13h20)",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/09/service-to-accompany-elderly-people-gains-ground-in-brazil-as-population-ages.shtml",
-      "image": null,
-      "publishedAt": "2026-09-14T16:20:00.000Z",
       "sample": false
     }
   ],
