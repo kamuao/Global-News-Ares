@@ -2,74 +2,274 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-23T06:19:19.676Z",
+  "updatedAt": "2026-09-24T00:20:07.760Z",
   "daily": [
     {
-      "id": "xr79aq",
-      "title": "Is Syria's 'new' economy for the rich only?",
-      "summary": "The Syrian government says it is restructuring the economy and announces prosperity. But ordinary Syrians are not feeling it. In fact, they say their lives are getting worse. Who exactly is likely to benefit then?",
+      "id": "snr7v8",
+      "title": "Live updates: Trump welcomes Xi to Washington",
+      "summary": "Donald Trump welcomes Xi Jinping to the US by greeting him personally at the tarmac at Joint Base Andrews. The two are expected to discuss trade, AI, Taiwan and Iran.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/live-updates-trump-welcomes-xi-to-washington/live-79404511?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T22:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "7ahfsf",
+      "title": "Berlin Airport briefly suspends flights over drone sighting",
+      "summary": "Airspace over the German capital was closed for about 45 minutes after a drone was spotted on the runway. Flights have resumed but are experiencing delays.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/berlin-airport-briefly-suspends-flights-over-drone-sighting/a-79403865?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T19:43:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "bdf3a4",
+      "title": "Harvey Weinstein resentenced to 15 years for sexual assault",
+      "summary": "The disgraced Hollywood mogul was found guilty of sexually assaulting former production assistant Miriam Haley. The man whose case spurred the #MeToo movement awaits a separate sentencing in a California rape case.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/harvey-weinstein-resentenced-to-15-years-for-sexual-assault/a-79403381?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T17:45:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lg0tpg",
+      "title": "New fighting in Ethiopia's Tigray region raises fears of a return to the country's civil war",
+      "summary": "Fighting in and around Tigray is testing Ethiopia's fragile 2022 peace deal. With old enemies forming new alliances, experts warn that the conflict could enter a dangerous new phase.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/new-fighting-in-ethiopia-s-tigray-region-raises-fears-of-a-return-to-the-country-s-civil-war/a-79400869?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T17:38:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pbbqpx",
+      "title": "Eviction of 87-year-old woman sparks housing protests in Madrid",
+      "summary": "Police escorted Maricarmen Abascal from the apartment she had called home for more than seven decades. The case has reignited debate over Spain's housing crisis, rising rents and protections for long-term tenants.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/eviction-of-87-year-old-woman-sparks-housing-protests-in-madrid/a-79399342?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T16:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ew9c9b",
+      "title": "Trump's Board of Peace proposes $2.45B for reconstruction in Gaza",
+      "summary": "The board has noted that the Palestinian enclave needs roughly $35.2 billion for full, medium-term reconstruction. Trump's plan for peace in Gaza has largely stalled since an agreement was reached almost a year ago.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T16:29:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "506dzx",
+      "title": "Who is skipping the UN General Assembly — and why",
+      "summary": "Xi Jinping, Vladimir Putin, Friedrich Merz, Giorgia Meloni and Mahmoud Abbas are among more than 50 leaders who won't make it to the UN General Assembly. Their reasons range from illness and domestic affairs to holidays.",
       "category": "health",
       "source": "dw",
-      "url": "https://www.dw.com/en/is-syria-s-new-economy-for-the-rich-only/a-79378442?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/who-is-skipping-the-un-general-assembly-and-why/a-79391652?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-09-23T06:15:00.000Z",
+      "publishedAt": "2026-09-23T15:54:00.000Z",
       "sample": false
     },
     {
-      "id": "o12du7",
-      "title": "South Africa: 11 killed in attack on homestead",
-      "summary": "The motive for the shooting was not immediately clear.",
+      "id": "j48v82",
+      "title": "Could a Left Party government in Berlin expropriate large real estate companies?",
+      "summary": "The socialist Left Party won the Berlin election partly on the promise to implement the city's 2021 expropriation referendum as a way to solve the city's rent crisis. But can it really happen?",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/south-africa-11-killed-in-attack-on-homestead/a-79382743?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-09-23T06:12:00.000Z",
+      "publishedAt": "2026-09-23T14:49:00.000Z",
       "sample": false
     },
     {
-      "id": "qf78yc",
-      "title": "Sri Lanka: 15 men jailed for life in 2019 Easter bombings",
-      "summary": "The 15 convicts have been given prison sentences of at least 200 years each, following a long trial in what was among Sri Lanka's deadliest attacks.",
+      "id": "k9itqe",
+      "title": "China's 13-year-old swimming star raises questions on child athletes",
+      "summary": "Three gold medals and three Asian Games records have catapulted China's Yu Zidi, 13, into the sporting spotlight. She is far from the first teen prodigy, but should teens be competing at elite level?",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/sri-lanka-15-men-jailed-for-life-in-2019-easter-bombings/a-79382342?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/china-s-13-year-old-swimming-star-raises-questions-on-child-athletes/a-79394183?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-09-23T05:07:00.000Z",
+      "publishedAt": "2026-09-23T14:07:00.000Z",
       "sample": false
     },
     {
-      "id": "pnh6tl",
-      "title": "Trump signs 'tremendous' Greenland security deal",
-      "summary": "Donald Trump strikes a security deal with Greenland and Denmark on the sidelines of the UN General Assembly. The deal comes after Trump repeatedly said the US should own the Arctic island.",
-      "category": "politics",
+      "id": "36l342",
+      "title": "Pakistan's jailed former PM Khan's sons told DW the authorities are cracking down ahead of new PTI protests",
+      "summary": "The sons of jailed Pakistani ex-PM Imran Khan told DW their father is in ill health while being isolated from family and doctors. Other relatives have been detained ahead of a planned opposition protest.",
+      "category": "health",
       "source": "dw",
-      "url": "https://www.dw.com/en/trump-signs-tremendous-greenland-security-deal/a-79381148?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/pakistan-s-jailed-former-pm-khan-s-sons-told-dw-the-authorities-are-cracking-down-ahead-of-new-pti-protests/a-79392147?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-09-22T23:14:00.000Z",
+      "publishedAt": "2026-09-23T13:39:00.000Z",
       "sample": false
     },
     {
-      "id": "zdv61o",
-      "title": "EU drops sanctions for Russian oligarchs Usmanov and Fridman",
-      "summary": "France and Luxembourg were behind the sanctions exemptions for Alisher Usmanov and Mikhail Fridman, a move that Kyiv labeled \"shameful and unjustifiable.\"",
-      "category": "politics",
+      "id": "qvbiu3",
+      "title": "Slovakia: PM Robert Fico's NATO Article 5 remarks spark criticism and raise questions about his country's NATO commitment",
+      "summary": "Slovak Prime Minister Robert Fico says he fears war and will do everything he can to keep his country out of one. Critics say his remarks risk weakening NATO, the alliance that was designed to prevent such a war.",
+      "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/eu-drops-sanctions-for-russian-oligarchs-usmanov-and-fridman/a-79381048?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/slovakia-pm-robert-fico-s-nato-article-5-remarks-spark-criticism-and-raise-questions-about-his-country-s-nato-commitment/a-79387050?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-09-22T19:43:00.000Z",
+      "publishedAt": "2026-09-23T13:32:00.000Z",
       "sample": false
     },
     {
-      "id": "ju125o",
-      "title": "Amateur archeologist unearths Germany's largest trove of Roman coins",
-      "summary": "What began as a routine search in a field near Wesseling led to the discovery of nearly 1,000 Roman silver coins, one of the most significant archaeological finds in Germany in recent years.",
+      "id": "nyt08j",
+      "title": "Germany's oldest party, the center-left SPD, is in a difficult position following its success in the Mecklenburg-Western Pomerania state election",
+      "summary": "Chancellor Friedrich Merz (CDU) has vowed to press ahead with controversial reforms, but resistance is mounting within his coalition partner, the SPD. How much dissent can a governing coalition tolerate?",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/amateur-archeologist-unearths-germany-s-largest-trove-of-roman-coins/a-79379127?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/germany-s-oldest-party-the-center-left-spd-is-in-a-difficult-position-following-its-success-in-the-mecklenburg-western-pomerania-state-election/a-79376827?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-09-22T17:32:00.000Z",
+      "publishedAt": "2026-09-23T13:28:00.000Z",
       "sample": false
     },
+    {
+      "id": "7pcurz",
+      "title": "Ethiopia: Fighting resumes in Tigray",
+      "summary": "Rebels in northern Ethiopia have seized regional airports and engaged government troops in Afar and Amhara. Observers fear deadly clashes could expand after rebels announced a new anti-government alliance.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ethiopia-fighting-resumes-in-tigray/a-79394192?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T12:06:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3pz896",
+      "title": "ICC convicts CAR ex-rebel leader of crimes against humanity",
+      "summary": "The International Criminal Court has found Mahamat Said Abdel Kani guilty of overseeing torture and other crimes. He headed a feared prison unit that held political prisoners.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/icc-convicts-car-ex-rebel-leader-of-crimes-against-humanity/a-79387178?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T11:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1uogmq",
+      "title": "As the EU advances free trade with Southeast Asia, why is there no ASEAN-wide deal?",
+      "summary": "After years of arduous negotiations, the EU is closing on a string of bilateral trade deals with countries in Southeast Asia. And yet, a bloc-to-bloc agreement between the EU and ASEAN remains a distant prospect.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/as-the-eu-advances-free-trade-with-southeast-asia-why-is-there-no-asean-wide-deal/a-79388278?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T11:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "yj4xep",
+      "title": "Munich, Berlin, Cologne-Rhine-Ruhr – Germany's three Olympic candidates",
+      "summary": "Munich, Berlin, or the Cologne-Rhine-Ruhr region? Germany aims to host the Olympic Games again. Three candidates are in the running, with one city considered the slight favorite.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/munich-berlin-cologne-rhine-ruhr-germany-s-three-olympic-candidates/a-79386915?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T11:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6921qr",
+      "title": "Rome's Colosseum closes after worker falls to his death",
+      "summary": "The man had been working on a new lighting installation in the iconic Roman amphitheater. Italian authorities said they were working on determining the circumstances of the accident.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/rome-s-colosseum-closes-after-worker-falls-to-his-death/a-79387180?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T10:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "v8uvoe",
+      "title": "Hungary: EU Commission wants to unblock €4.2b in funding",
+      "summary": "The Commission's president has argued that Budapest is strengthening the rule of law with Viktor Orban finally out of office. Funds had been blocked over corruption allegations under Hungary's former government.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/hungary-eu-commission-wants-to-unblock-€4-2b-in-funding/a-79386848?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T10:23:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "cf5nga",
+      "title": "OECD says growth 'resilient' in 2026 despite Middle East war",
+      "summary": "The OECD group of industrialized nations put its 2026 growth forecast at 2.9%. It said investment in AI was helping drive growth, while the war in the Middle East was fueling inflation.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/oecd-says-growth-resilient-in-2026-despite-middle-east-war/a-79386625?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T09:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "uzuktb",
+      "title": "Campus Project 2026: Georgia Takes Center Stage",
+      "summary": "The Beethovenfest exchange project brings German and Georgian musical traditions together. And the reasons go beyond music.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/campus-project-2026-georgia-takes-center-stage/a-79380639?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T09:29:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "tcfw9x",
+      "title": "El Nino explained: How the weather pattern affects hurricanes and tropical storms",
+      "summary": "From drought to major floods and extreme heat, El Nino will have a huge impact on the world's weather. In the Atlantic, it could mean a season without hurricanes.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/el-nino-explained-how-the-weather-pattern-affects-hurricanes-and-tropical-storms/a-79382511?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T09:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "e955pm",
+      "title": "China's new travel rules unsettle tech giants and talent",
+      "summary": "Beijing is locking the gates to stop expertise and capital in strategic industries from fleeing. The country accused of industrial-scale intellectual property theft now fears the West will take its own.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/china-s-new-travel-rules-unsettle-tech-giants-and-talent/a-79319937?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T08:54:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "uefb9w",
+      "title": "Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor",
+      "summary": "Food supplies to the town of Oleshky in the occupied part of the southern Kherson region have been cut off since May. Efforts by Kyiv to negotiate the evacuation of civilians with Moscow have been largely unsuccessful.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T08:23:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "g9bi5l",
+      "title": "Germany news: Call to scrap once-a-day gas price rises",
+      "summary": "The ADAC motoring association says a once-a-day rule on gas price changes has failed to help drivers' wallets. Entry-level jobs are becoming scarcer, making things hard for those entering the job market. DW has more.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-call-to-scrap-once-a-day-gas-price-rises/live-79382523?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T07:25:00.000Z",
+      "sample": false
+    }
+  ],
+  "weekly": [
     {
       "id": "4vdclq",
       "title": "Military aircraft crashes near US air base in Spangdahlem, Germany",
@@ -79,17 +279,6 @@
       "url": "https://www.dw.com/en/military-aircraft-crashes-near-us-air-base-in-spangdahlem-germany/a-79376025?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-22T14:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "riqgfs",
-      "title": "US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US?",
-      "summary": "Do Trump's task force and a special envoy for artificial intelligence in the US indicate a move toward regulating this disputed technology, particularly vis-a-vis China?",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-china-ai-race-does-trump-want-to-regulate-ai-by-forming-a-new-task-force-and-a-special-envoy-for-artificial-intelligence-in-the-us/a-79372591?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-22T14:04:00.000Z",
       "sample": false
     },
     {
@@ -115,17 +304,6 @@
       "sample": false
     },
     {
-      "id": "6fcqnv",
-      "title": "After floods, Nepal minister demands 'climate justice'",
-      "summary": "With Nepal still reeling from the devastating floods in August, Kathmandu is calling for climate justice and seeking compensation from the UN-backed Loss and Damage Fund, Environment Minister Geeta Chaudhary told DW.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/after-floods-nepal-minister-demands-climate-justice/a-79372239?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-22T12:37:00.000Z",
-      "sample": false
-    },
-    {
       "id": "324xkt",
       "title": "Could we see MMA at the Olympics?",
       "summary": "Mixed martial arts has made its debut at the Asian Games this week. It takes the sport closer to the Olympics but there are doubts about the next step, and the influence of the popular and lucrative UFC.",
@@ -137,39 +315,6 @@
       "sample": false
     },
     {
-      "id": "jj1nwa",
-      "title": "Iran war spreads through region as Trump seeks way out",
-      "summary": "The US, Iran and the Gulf states continue to pursue different objectives while searching for a way to end the Iran war.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-22T11:29:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "oealyt",
-      "title": "Turkey: Several pupils injured in shooting outside school",
-      "summary": "The shooter, a pupil, allegedly took a rifle and shot indiscriminately at his schoolmates in front of their high school. Turkey was shocked by two back-to-back school shootings earlier this year.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/turkey-several-pupils-injured-in-shooting-outside-school/a-79368728?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-22T11:03:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8l8x6o",
-      "title": "Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA",
-      "summary": "The Russian army targeted economic infrastructure in Ukraine, while Ukraine struck an oil refinery. This comes ahead of the UN General Assembly, where President Volodymyr Zelenskyy is due to meet Trump on the sidelines.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/russia-ukraine-trade-deadly-strikes-as-zelenskyy-attends-unga/a-79366022?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-22T10:07:00.000Z",
-      "sample": false
-    },
-    {
       "id": "ch57j7",
       "title": "Male infertility is 'grossly underreported'",
       "summary": "It's not all on women anymore — doctors do test men for sperm count and motility. But still too few men get checked, possibly due to a misconception that a healthy sex life means healthy sperm. Spoiler: It doesn't.",
@@ -178,17 +323,6 @@
       "url": "https://www.dw.com/en/male-infertility-is-grossly-underreported/a-79368722?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-22T10:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ekylqi",
-      "title": "UNGA: Trump and world leaders discuss global conflicts",
-      "summary": "Donald Trump said he had to decide whether he would make a deal with Iran or \"annihilate the Islamic Republic\" in his speech at the UN General Assembly. Follow live.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/unga-trump-and-world-leaders-discuss-global-conflicts/live-79366211?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-22T08:55:00.000Z",
       "sample": false
     },
     {
@@ -245,9 +379,7 @@
       "image": null,
       "publishedAt": "2026-09-22T07:23:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "wwo1q",
       "title": "Germany news: Trial starts of ex-Transport Minister Scheuer",
@@ -579,28 +711,6 @@
       "sample": false
     },
     {
-      "id": "5xncrd",
-      "title": "Judges: As AfD ascends, Germany must bolster justice system",
-      "summary": "German judges and prosecutors warn that the coalition needs to reform the laws covering state prosecutors to prevent \"extremists in government\" from abusing the legal system.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/judges-as-afd-ascends-germany-must-bolster-justice-system/a-79314333?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-17T15:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "945jr0",
-      "title": "As global crises grow, Germany cuts development aid",
-      "summary": "The budget of Germany's Economic Cooperation and Development Ministry is set to shrink for the fifth consecutive year. Aid organizations warn that the cuts will have severe consequences for millions of people.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/as-global-crises-grow-germany-cuts-development-aid/a-79257532?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-17T14:36:00.000Z",
-      "sample": false
-    },
-    {
       "id": "vfshb3",
       "title": "Klopp wants Germany's football team to 'reclaim the flag'",
       "summary": "Jürgen Klopp, Germany's new head coach, says he wants his team to reclaim pride in being German after recent political developments.",
@@ -665,138 +775,6 @@
       "image": null,
       "publishedAt": "2026-09-17T07:06:00.000Z",
       "sample": false
-    },
-    {
-      "id": "1vtd4f",
-      "title": "How climate change worsened Nepal's deadly mountain collapse",
-      "summary": "A glacier and rock collapse in Nepal killed nearly 1,400 people and left thousands missing. Scientists say decades of warming helped set the disaster in motion.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T23:03:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "f798jw",
-      "title": "UK: Village votes to 'secede' in asylum center plan protest",
-      "summary": "Residents of Piddington, a tiny, remote village in Oxfordshire in England, have staged a \"referendum\" on leaving the UK. They are objecting to plans to open an asylum reception center at a disused military base nearby.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/uk-village-votes-to-secede-in-asylum-center-plan-protest/a-79295826?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T17:41:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mh1gn1",
-      "title": "Chancellor Merz seeks CDU support amid far-right AfD surge",
-      "summary": "Following the CDU's crushing defeat in the Saxony-Anhalt state election, many are expressing doubts about the party's leader, Chancellor Friedrich Merz. But the CDU doesn't appear to have a viable alternative.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/chancellor-merz-seeks-cdu-support-amid-far-right-afd-surge/a-79290192?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T16:50:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "79stj2",
-      "title": "Can Canada and the EU deepen ties to counter Trump?",
-      "summary": "Canadian Prime Minister Mark Carney is known for standing up to US President Donald Trump. Now he wants to forge a \"unique alliance\" with Europe. But what could such a partnership look like?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/can-canada-and-the-eu-deepen-ties-to-counter-trump/a-79295388?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T16:50:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "dkonzd",
-      "title": "Shock in Kosovo as Hague convicts former President Thaci",
-      "summary": "The conviction in The Hague of former President Hashim Thaci and three former Kosovo Liberation Army leaders has caused consternation in Kosovo — both among political leaders and on the streets. DW reports from Pristina.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/shock-in-kosovo-as-hague-convicts-former-president-thaci/a-79294916?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T15:59:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mgzgfe",
-      "title": "British-American writer Bonnie Greer dies aged 77",
-      "summary": "Chicago-born playwright Bonnie Greer, who became a familiar face in British political discourse later in life, has died. Her husband David Hutchins announced news of Greer's death.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/british-american-writer-bonnie-greer-dies-aged-77/a-79293174?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T15:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "uazzfo",
-      "title": "After Neuer: Who will be Germany's new No. 1 goalkeeper?",
-      "summary": "Following Manuel Neuer's retirement, there are many candidates to succeed him, but which goalkeeper will Jürgen Klopp choose? What factors will play a role? And will Neuer's future have an indirect influence?",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/after-neuer-who-will-be-germany-s-new-no-1-goalkeeper/a-79276377?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T14:25:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "yvjk1q",
-      "title": "Poland reaffirms support for Ukraine after drone strikes",
-      "summary": "After Russia's recent drone attacks on targets close to the Ukraine-Poland border, Warsaw has doubled down on its support for Kyiv and pledged a \"nonprovocative but serious response\" to Moscow.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/poland-reaffirms-support-for-ukraine-after-drone-strikes/a-79291144?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T12:04:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "9i89ny",
-      "title": "Global Gender Gap Report: Women's hard-won gains 'fragile'",
-      "summary": "Two decades of progress toward gender parity is at risk as women's political representation declines, according to a new World Economic Forum report. At the current pace, the remaining gap could take 120 years to close.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/global-gender-gap-report-women-s-hard-won-gains-fragile/a-79280086?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T10:05:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "iyai8w",
-      "title": "Kosovo ex-president Thaci sentenced to 25 years for war crimes",
-      "summary": "A Hague tribunal ruled that Hashim Thaci, a former leader of the Kosovo Liberation Army (KLA), is responsible for war crimes carried out during the war of independence with Serbia.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/kosovo-ex-president-thaci-sentenced-to-25-years-for-war-crimes/a-79286344?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T09:58:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "jfxcqf",
-      "title": "German drama 'Blindspot Berlin' revisits 2016 Christmas market attack",
-      "summary": "A decade after the terrorist attack on a Berlin Christmas market, a new German miniseries looks into the institutional failures that allowed the deadly truck rampage to happen.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/german-drama-blindspot-berlin-revisits-2016-christmas-market-attack/a-79281162?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T09:29:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "468gts",
-      "title": "How extreme heat is hitting wallets",
-      "summary": "Heat waves, wildfires and floods have cascading economic impacts, causing incomes to decline and the price of basic goods to rise. The trend will escalate as temperatures continue to increase.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/how-extreme-heat-is-hitting-wallets/a-79268306?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-16T08:25:00.000Z",
-      "sample": false
     }
   ],
   "developing": [
@@ -809,6 +787,17 @@
       "url": "https://www.dw.com/en/india-news-pm-modi-says-developing-nations-unfairly-blamed-for-emissions/live-79335891?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-20T06:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "snr7v8",
+      "title": "Live updates: Trump welcomes Xi to Washington",
+      "summary": "Donald Trump welcomes Xi Jinping to the US by greeting him personally at the tarmac at Joint Base Andrews. The two are expected to discuss trade, AI, Taiwan and Iran.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/live-updates-trump-welcomes-xi-to-washington/live-79404511?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-23T22:49:00.000Z",
       "sample": false
     }
   ]
