@@ -2,15 +2,48 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-24T00:20:07.760Z",
+  "updatedAt": "2026-09-24T06:19:19.683Z",
   "daily": [
     {
-      "id": "snr7v8",
-      "title": "Live updates: Trump welcomes Xi to Washington",
-      "summary": "Donald Trump welcomes Xi Jinping to the US by greeting him personally at the tarmac at Joint Base Andrews. The two are expected to discuss trade, AI, Taiwan and Iran.",
+      "id": "l9iwzf",
+      "title": "US judge blocks Trump ban of CNN, MS NOW, Politico from White House, orders him to restore access",
+      "summary": "A judge has ordered President Trump to restore White House access to CNN, MS NOW and Politico after he banned the media outlets from the premises.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-judge-blocks-trump-ban-of-cnn-ms-now-politico-from-white-house-orders-him-to-restore-access/a-79405693?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-24T05:42:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "29fwv6",
+      "title": "OpenAI agent hacked Australia government portal: PM Albanese",
+      "summary": "The hack of Australian health data marks the world's first known breach of an AI-led breach of a government website.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/openai-agent-hacked-australia-government-portal-pm-albanese/a-79405371?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-24T04:42:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lxfytr",
+      "title": "Germany sets out plan to phase out fossil fuels by 2045",
+      "summary": "Germany sets out a plan to phase out coal, oil and gas by 2045, reaffirming a climate strategy focused on electrification.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-sets-out-plan-to-phase-out-fossil-fuels-by-2045/a-79404028?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-24T01:37:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "azf1ui",
+      "title": "Trump welcomes China's Xi for high-stakes summit",
+      "summary": "Donald Trump welcomed Xi Jinping to the US by greeting him personally on the tarmac at Joint Base Andrews. The two are expected to discuss trade, AI, Taiwan and Iran during a three-day state visit.",
       "category": "economy",
       "source": "dw",
-      "url": "https://www.dw.com/en/live-updates-trump-welcomes-xi-to-washington/live-79404511?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/trump-welcomes-china-s-xi-for-high-stakes-summit/live-79404511?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-23T22:49:00.000Z",
       "sample": false
@@ -35,17 +68,6 @@
       "url": "https://www.dw.com/en/harvey-weinstein-resentenced-to-15-years-for-sexual-assault/a-79403381?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-23T17:45:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lg0tpg",
-      "title": "New fighting in Ethiopia's Tigray region raises fears of a return to the country's civil war",
-      "summary": "Fighting in and around Tigray is testing Ethiopia's fragile 2022 peace deal. With old enemies forming new alliances, experts warn that the conflict could enter a dangerous new phase.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/new-fighting-in-ethiopia-s-tigray-region-raises-fears-of-a-return-to-the-country-s-civil-war/a-79400869?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-23T17:38:00.000Z",
       "sample": false
     },
     {
@@ -200,28 +222,6 @@
       "url": "https://www.dw.com/en/hungary-eu-commission-wants-to-unblock-€4-2b-in-funding/a-79386848?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-23T10:23:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "cf5nga",
-      "title": "OECD says growth 'resilient' in 2026 despite Middle East war",
-      "summary": "The OECD group of industrialized nations put its 2026 growth forecast at 2.9%. It said investment in AI was helping drive growth, while the war in the Middle East was fueling inflation.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/oecd-says-growth-resilient-in-2026-despite-middle-east-war/a-79386625?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-23T09:49:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "uzuktb",
-      "title": "Campus Project 2026: Georgia Takes Center Stage",
-      "summary": "The Beethovenfest exchange project brings German and Georgian musical traditions together. And the reasons go beyond music.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/campus-project-2026-georgia-takes-center-stage/a-79380639?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-23T09:29:00.000Z",
       "sample": false
     },
     {
