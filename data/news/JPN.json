@@ -2,8 +2,129 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-25T06:22:00.585Z",
+  "updatedAt": "2026-09-25T18:20:06.354Z",
   "daily": [
+    {
+      "id": "unig0z",
+      "title": "Japanese skateboarders grab gold at Asian Games",
+      "summary": "In swimming, Kodai Nishiono won the gold medal in the men's 200-meter backstroke.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/26/more-sports/japanese-skateboarders-asian-games/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/26/thumbs/400x400/565171.jpg",
+      "publishedAt": "2026-09-25T15:24:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "krnrby",
+      "title": "Storm menaces Japan after highest cyclone tally since 1966",
+      "summary": "Tropical Storm Surigae is currently 791 kilometers south-southeast of Okinawa, packing top sustained winds of 74 kilometers per hour.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/tropical-storm-surigae-japan/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/565158.jpg",
+      "publishedAt": "2026-09-25T09:32:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lygaw9",
+      "title": "Japan regulator is boosting scrutiny of AI data center financing",
+      "summary": "The move comes as major financial institutions increase their exposure to the rapidly expanding sector.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/25/fsa-japan-ai-data-center/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/565159.jpg",
+      "publishedAt": "2026-09-25T09:31:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "drejp1",
+      "title": "Japan growth minister says economy has exited reflationary phase",
+      "summary": "Minoru Kiuchi's comments follow renewed weakness in the yen and further gains in government bond yields this week.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/25/kiuchi-reflationary-phase-exit/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/565140.jpg",
+      "publishedAt": "2026-09-25T09:06:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "nxm722",
+      "title": "The unmaking of Friday Night Plans",
+      "summary": "Once a rising star of sleek R&B, Friday Night Plans has spent the past few years dismantling the pop persona she built.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/culture/2026/09/25/music/friday-night-plans-new-album/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/565163.jpg",
+      "publishedAt": "2026-09-25T09:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "socgm7",
+      "title": "Say where? Japanese towns use self-deprecating humor for tourism boost",
+      "summary": "Some municipalities are flipping their low name recognition into opportunities for self-promotion.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/municipalities-joke-tourism-pr/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/565151.jpg",
+      "publishedAt": "2026-09-25T08:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "s0r5zq",
+      "title": "Why Russia’s Potemkin election actually matters",
+      "summary": "There's little purpose to parsing who won the vote; the point is that opponents of Putin and his war were jailed, exiled or banned from running.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/25/world/russias-potemkin-election/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/564670.jpg",
+      "publishedAt": "2026-09-25T08:13:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "8ucfbc",
+      "title": "Xi calls for U.S. to ‘oppose’ Taiwan independence as Trump hails China as WWII ally",
+      "summary": "Trump hailed the superpowers' \"common interests\" that he said made the two \"allies in World War II\" — remarks likely to raise eyebrows in Tokyo.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/25/asia-pacific/politics/trump-xi-taiwan-world-war-ii/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/564977.jpg",
+      "publishedAt": "2026-09-25T07:37:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "734fd0",
+      "title": "The notion that sanctions work is an illusion",
+      "summary": "Those who defend sweeping financial sanctions often claim that popular suffering is a defensible means of pressuring the target government.",
+      "category": "health",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/09/25/world/sanctions-illusion/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/561506.jpg",
+      "publishedAt": "2026-09-25T07:25:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "j5gtc",
+      "title": "NEC building 1-petabit-capacity subsea cable for Meta",
+      "summary": "The Petal cable will help meet the growing data transmission needs of artificial intelligence companies.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/25/companies/nec-undersea-cable/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/565118.jpg",
+      "publishedAt": "2026-09-25T07:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "2t3tr5",
+      "title": "Asian Games off to chaotic start as doubts grow over Japan’s ability to host",
+      "summary": "Problems from playing the wrong national anthem to accommodation issues have cast a cloud over the Aichi-Nagoya Asian Games.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/nagoya-asian-games-mishap/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/565110.jpg",
+      "publishedAt": "2026-09-25T06:54:00.000Z",
+      "sample": false
+    },
     {
       "id": "ic01u3",
       "title": "Japan’s newest party gets off to rocky start with zero percent support rate",
@@ -128,7 +249,7 @@
     {
       "id": "af5ej3",
       "title": "Study reveals evolutionary history of bats, dating back 65 million years",
-      "summary": "The largest combined bat genome and fossil study ever conducted is bringing some clarity on the puzzling past of the flying vertebrates.",
+      "summary": "The largest combined bat genome and fossil study ever conducted is bringing some clarity to the puzzling past of the flying vertebrates.",
       "category": "politics",
       "source": "japan-times",
       "url": "https://www.japantimes.co.jp/environment/2026/09/25/wildlife/bat-evolution-study/",
@@ -159,12 +280,12 @@
       "sample": false
     },
     {
-      "id": "6sva2z",
-      "title": "Harimoto hails new era as Japan dethrone table tennis kings China",
+      "id": "eft5sf",
+      "title": "Harimoto hails new era as Japan dethrones table tennis king China",
       "summary": "China had won gold in the event at every Games since 1994 but Sora Matsushima beat Wen Ruibo in the decisive match.",
       "category": "politics",
       "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/asian-games/2026/09/25/japan-china-table-tennis/",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/25/asian-games/japan-china-table-tennis/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/565067.jpg",
       "publishedAt": "2026-09-25T03:50:00.000Z",
       "sample": false
@@ -211,127 +332,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/09/25/world/banned-media-white-house-return/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/565039.jpg",
       "publishedAt": "2026-09-25T02:57:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "j6iitl",
-      "title": "Panel calls for giving police option to remotely analyze <i>tokuryū</i> members’ phones",
-      "summary": "Police would obtain information by remotely operating smartphones believed to belong to tokuryū masterminds, breaking down their anonymity.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/crime-legal/tokury-smartphones-remote/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/564980.jpg",
-      "publishedAt": "2026-09-25T02:29:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ns6ari",
-      "title": "Kobayashi in ¥500 billion buyout talks after red-yeast case",
-      "summary": "CVC Capital Partners and Nippon Sangyo Suishin Kiko are weighing a bid to take the company private, sources said.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/25/companies/kobayashi-buyout-talks/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/24/thumbs/400x400/564937.jpg",
-      "publishedAt": "2026-09-25T02:24:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lrvc4t",
-      "title": "U.S., Iran said to be exploring phased deal to open Hormuz",
-      "summary": "The two countries — which have refused to make similar deals before — were pushing for a breakthrough on the sidelines of the U.N. General Assembly.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/world/politics/hormuz-phased-reopening/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/564985.jpg",
-      "publishedAt": "2026-09-25T02:23:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "vpj660",
-      "title": "Japan banks, hedge funds tussle for top graduates amid jobs boom",
-      "summary": "To graduates around the world fighting to get their first job, Japan may seem like a hiring paradise.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/25/companies/banks-jobs-graduates-japan/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/564974.jpg",
-      "publishedAt": "2026-09-25T02:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "cjiefm",
-      "title": "Ukrainian man kills priest and wounds four at Polish abbey",
-      "summary": "Prosecutors said the man had entered Poland from Germany and was headed for the Ukraine border, but instead went to the abbey.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/world/crime-legal/poland-priest-stabbing/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/564981.jpg",
-      "publishedAt": "2026-09-25T02:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "qrt7un",
-      "title": "Record level of challenges after Swedish vote, officials say",
-      "summary": "The Sept. 13 general election gave the country's four opposition parties — led by the Social Democrats — a narrow three-seat majority.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/world/politics/sweden-election-challenges/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/565012.jpg",
-      "publishedAt": "2026-09-25T02:01:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "hmgf2u",
-      "title": "21 years sought for man accused of murdering manicurist",
-      "summary": "The defense argued that prison terms of around 17 years are common in many similar cases.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/crime-legal/mito-manicurist-murder-prosecutors/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/564984.jpg",
-      "publishedAt": "2026-09-25T01:44:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "nagvix",
-      "title": "Meloni’s government plans to ban face veils in Italy’s schools",
-      "summary": "The government also endorsed a classroom cap on the number of foreign students who lack adequate Italian.",
-      "category": "health",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/world/politics/italy-face-veils-ban/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/564979.jpg",
-      "publishedAt": "2026-09-25T01:39:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "nmzg54",
-      "title": "Abandoned suitcases used as vegetable planters at Tokyo hotel",
-      "summary": "The hotel has grown about 40 varieties of vegetables and herbs. Some of the harvest is served at restaurants in the hotel.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/25/companies/hotel-abandoned-suitcases-vegetable-planters/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/564989.jpg",
-      "publishedAt": "2026-09-25T01:37:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "hgonye",
-      "title": "Trump tells countries to quit ICC. Few follow his lead.",
-      "summary": "U.S. President Donald Trump's appeal capped an escalating U.S. campaign against the Hague-based court, which Washington says oversteps its authority.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/world/politics/trump-quit-icc/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/564966.jpg",
-      "publishedAt": "2026-09-25T01:32:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "iy5q5n",
-      "title": "Rich nations should foot climate bill, says Nepalese minister",
-      "summary": "The Himalayan nation suffered one of the worst catastrophes in its history late last month when a tsunami-like flood cut a swath of destruction.",
-      "category": "environment",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/asia-pacific/science-health/rich-nations-climate-bill/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/564971.jpg",
-      "publishedAt": "2026-09-25T01:26:00.000Z",
       "sample": false
     }
   ],
