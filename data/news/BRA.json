@@ -2,8 +2,32 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-09-24T12:18:46.651Z",
+  "updatedAt": "2026-09-25T06:22:01.833Z",
   "daily": [
+    {
+      "id": "n43186",
+      "title": "Lula Campaign Seeks Supreme Federal Court, Electoral Court Action Over Possible US Interference in Election",
+      "summary": "President Lula's campaign has asked the STF (Supreme Federal Court) for urgent measures to investigate possible US interference in Brazil's electoral process.\nLeia mais (09/24/2026 - 13h10)",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/lula-campaign-seeks-supreme-federal-court-electoral-court-action-over-possible-us-interference-in-election.shtml",
+      "image": null,
+      "publishedAt": "2026-09-24T16:10:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ctmfdu",
+      "title": "Experts Say Designating Brazilian Factions as Terrorist Is More Political Than Technical",
+      "summary": "An agreement among 14 Latin American countries to designate criminal organizations, including CV (Comando Vermelho) and PCC (Primeiro Comando da Capital), has practical consequences that remain uncertain, experts say. The announcement was made Tuesday (22) at the UN General Assembly in New York.\nLeia mais (09/24/2026 -",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/experts-say-designating-brazilian-factions-as-terrorist-is-more-political-than-technical.shtml",
+      "image": null,
+      "publishedAt": "2026-09-24T16:01:00.000Z",
+      "sample": false
+    }
+  ],
+  "weekly": [
     {
       "id": "qva3cl",
       "title": "Nearly Half of Brasileir�o Clubs Exceed Foreign Player Limit for 2027",
@@ -47,9 +71,7 @@
       "image": null,
       "publishedAt": "2026-09-23T14:47:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "mwvt3r",
       "title": "Ukraine Seeks to Bypass Lula's Veto to Buy Embraer Fighter Aircraft",
@@ -125,28 +147,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/09/brazil-had-26-environmental-activists-murdered-in-2025-ranks-second-globally.shtml",
       "image": null,
       "publishedAt": "2026-09-18T11:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ekxfgz",
-      "title": "Trump Administration Demanded That 'Political Dissidents' Be Allowed to Take Part in Brazil's Election",
-      "summary": "The Trump administration demanded, during negotiations over the first imposition of 50% tariffs on Brazil, that the country allow \"political dissidents\" to take part in the 2026 presidential election. The demand was included in a document sent to Brazilian authorities by their US counterparts in October 2025, revealed ",
-      "category": "economy",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/trump-administration-demanded-that-political-dissidents-be-allowed-to-take-part-in-brazils-election.shtml",
-      "image": null,
-      "publishedAt": "2026-09-17T23:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "m3m90d",
-      "title": "Lula Expected to Oppose Foreign Interference in Final UN Speech of His Term",
-      "summary": "President Luiz In�cio Lula da Silva is expected to oppose foreign interference in other countries' domestic affairs in his speech at the UN General Assembly's 81st session, scheduled for next Tuesday (22) in New York. The speech could be interpreted as a message to Donald Trump, amid concerns within the Brazilian gover",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/lula-expected-to-oppose-foreign-interference-in-final-un-speech-of-his-term.shtml",
-      "image": null,
-      "publishedAt": "2026-09-17T15:20:00.000Z",
       "sample": false
     }
   ],
