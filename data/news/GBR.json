@@ -2,17 +2,94 @@
   "id": "GBR",
   "name": "United Kingdom",
   "sample": false,
-  "updatedAt": "2026-09-25T18:20:02.491Z",
+  "updatedAt": "2026-09-26T00:19:41.113Z",
   "daily": [
     {
-      "id": "zfx0mq",
-      "title": "PM rules out giving Wales independence referendum powers",
-      "summary": "Andy Burnham told the BBC Westminster should have a “say on an issue of that magnitude”.",
+      "id": "rmh2g7",
+      "title": "OpenAI investigating 'dozens' of instances of agents acting improperly",
+      "summary": "OpenAI agents tried to get information from \"governments, universities, public agencies, and other institutions\" through extreme means that sometimes curbed security controls, the company said.",
+      "category": "technology",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a2/live/55e1dbb0-b930-11f1-902b-af1a6d672907.jpg",
+      "publishedAt": "2026-09-26T00:09:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "iaiqpd",
+      "title": "Inside iconic horror game Silent Hill's Scottish makeover",
+      "summary": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
+      "category": "technology",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6dc/live/98dd3e90-b7a1-11f1-ba14-197cc9acea52.jpg",
+      "publishedAt": "2026-09-25T23:34:20.000Z",
+      "sample": false
+    },
+    {
+      "id": "x4i9mn",
+      "title": "How the bare nails trend became a class issue",
+      "summary": "Bare nails - or nails that appear that way - are a growing trend. But is it as innocent as it seems?",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cpd7zw43wexo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/942b/live/73fb0ed0-8cd2-11f1-a7ab-8b30adf0800a.jpg",
+      "publishedAt": "2026-09-25T23:31:20.000Z",
+      "sample": false
+    },
+    {
+      "id": "m6o8vg",
+      "title": "Drumcree parade decision to be challenged in High Court",
+      "summary": "Residents are applying to the High Court in Belfast to overturn the decision to allow a planned Orange Order on the mainly-nationalist Garvaghy Road in Portadown.",
       "category": "politics",
       "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cw980019v929o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7398/live/800201b0-b90b-11f1-b1d1-571ed4d7ff2c.jpg",
-      "publishedAt": "2026-09-25T18:16:04.000Z",
+      "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a10a/live/8c9d1be0-b91e-11f1-b685-519146636d7f.png",
+      "publishedAt": "2026-09-25T23:07:29.000Z",
+      "sample": false
+    },
+    {
+      "id": "cl7qvo",
+      "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+      "summary": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/390c/live/dabff6d0-b7c5-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-25T22:12:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "9jt128",
+      "title": "Fury v Joshua fight to provide 'big boost' to city's economy",
+      "summary": "Cardiff is preparing for an influx of fans from across the globe for the 11 December showdown.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c6qxv75g4zx8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5fc/live/72cc5c90-b8f5-11f1-b1d1-571ed4d7ff2c.png",
+      "publishedAt": "2026-09-25T21:55:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "7s8kd0",
+      "title": "Murder or medical mix-up? New questions in the case of killer nurse Colin Norris",
+      "summary": "A BBC podcast reveals a scenario in which the nurse's murders may never have taken place at all.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/ckg7q33gnwro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be90/live/9f0fec00-b755-11f1-8e7f-6f99c81f3136.jpg",
+      "publishedAt": "2026-09-25T21:48:36.000Z",
+      "sample": false
+    },
+    {
+      "id": "ua11kc",
+      "title": "Diesel prices exceed £2 a litre at hundreds of forecourts across Scotland",
+      "summary": "Motoring organisation the RAC says it expects the average UK diesel price to hit a new record high over the weekend.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cr86xn04gxj9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d55/live/5ec72f60-b8cb-11f1-ad1f-538855f30ba1.jpg",
+      "publishedAt": "2026-09-25T21:47:48.000Z",
       "sample": false
     },
     {
@@ -23,7 +100,84 @@
       "source": "bbc-news",
       "url": "https://www.bbc.co.uk/news/articles/cm86xngyd3xwo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee99/live/1233c730-b8e9-11f1-ba42-19e1456ae537.jpg",
-      "publishedAt": "2026-09-25T18:08:50.000Z",
+      "publishedAt": "2026-09-25T21:38:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "lu7spe",
+      "title": "Relegation? Titles stripped? Appeals? What next for Man City",
+      "summary": "It has taken more than two years, but a judgement finally appears to have been made on the financial rule breaches levelled against the club. Here's what it means.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d05b/live/c288fcf0-b8f2-11f1-bd4a-e9ce4be469f6.jpg",
+      "publishedAt": "2026-09-25T20:48:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "k4l9j7",
+      "title": "Man City found guilty of breaking financial rules",
+      "summary": "Manchester City have been found guilty of breaking the majority of the 115 financial rules they were accused of breaching.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cw7v44ezry5go?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f162/live/8ef99460-b91c-11f1-b1d1-571ed4d7ff2c.jpg",
+      "publishedAt": "2026-09-25T20:11:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "gjc3z4",
+      "title": "One person taken to hospital after barracks fire",
+      "summary": "An investigation is due to take place after a fire at an accommodation block at Catterick Garrison.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cm1j41kxk0w8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4baf/live/98a9bde0-b8d2-11f1-ad1f-538855f30ba1.jpg",
+      "publishedAt": "2026-09-25T20:10:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "o1dnqe",
+      "title": "Glasgow City Council pauses plan to fire and rehire 23,000 staff",
+      "summary": "Talks between the council and three unions will resume early next week to try to reach a new deal on pay.",
+      "category": "society",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c6kg090rx2kdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bb1/live/5b4a9420-b8bd-11f1-8668-c7d18ac42397.jpg",
+      "publishedAt": "2026-09-25T19:10:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "xekgi8",
+      "title": "Save or Overpay? What to do with your mortgage if interest rates rise",
+      "summary": "Save or Overpay? What to do with your mortgage if interest rates rise",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/c65y55j2dxepo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1088/live/def52340-b8fd-11f1-bc1f-3f186ca4140c.jpg",
+      "publishedAt": "2026-09-25T18:43:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "zfx0mq",
+      "title": "PM rules out giving Wales independence referendum powers",
+      "summary": "Andy Burnham told the BBC Westminster should have a “say on an issue of that magnitude”.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cw980019v929o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1274/live/fb7d1fe0-b911-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-25T18:16:04.000Z",
+      "sample": false
+    },
+    {
+      "id": "5asc8d",
+      "title": "Overcrowding and racism at Manston asylum centre linked to government decisions, inquiry hears",
+      "summary": "Kent facility became dangerously overburdened after ministers halted transfers to hotels\nA catalogue of failures including racism, use of force and chronic overcrowding at a Home Office processing site for people who arrive on small boat were linked to decisions made at the highest level of government, an independent i",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/25/failures-at-manston-asylum-centre-linked-to-decisions-at-number-10-inquiry-hears",
+      "image": "https://i.guim.co.uk/img/media/803a8c995ba0bb27a47538171596f64b41051f13/1248_813_4630_3704/master/4630.jpg?width=140&quality=85&auto=format&fit=max&s=a6fd9a25818f83ef368a77cbf99d52e0",
+      "publishedAt": "2026-09-25T18:15:31.000Z",
       "sample": false
     },
     {
@@ -79,17 +233,6 @@
       "url": "https://www.theguardian.com/politics/2026/sep/25/no-snap-election-before-2029-andy-burnham-says",
       "image": "https://i.guim.co.uk/img/media/90b2ce65aea4a6d6facbd5c37783acbea8e41151/1418_146_1000_801/master/1000.jpg?width=140&quality=85&auto=format&fit=max&s=40f208fda85881a9ac42d18e571189df",
       "publishedAt": "2026-09-25T17:06:39.000Z",
-      "sample": false
-    },
-    {
-      "id": "o1dnqe",
-      "title": "Glasgow City Council pauses plan to fire and rehire 23,000 staff",
-      "summary": "Talks between the council and three unions will resume early next week to try to reach a new deal on pay, it is understood.",
-      "category": "society",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c6kg090rx2kdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9bb1/live/5b4a9420-b8bd-11f1-8668-c7d18ac42397.jpg",
-      "publishedAt": "2026-09-25T17:01:14.000Z",
       "sample": false
     },
     {
@@ -170,17 +313,6 @@
       "sample": false
     },
     {
-      "id": "lu7spe",
-      "title": "Man City and the 115 charges - key questions answered",
-      "summary": "It has taken more than two years, but a judgement finally appears to have been made on the financial rule breaches levelled against the club. Here's what it means.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d05b/live/c288fcf0-b8f2-11f1-bd4a-e9ce4be469f6.jpg",
-      "publishedAt": "2026-09-25T16:03:43.000Z",
-      "sample": false
-    },
-    {
       "id": "5f7qtw",
       "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
       "summary": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
@@ -258,17 +390,6 @@
       "sample": false
     },
     {
-      "id": "xt46mr",
-      "title": "‘Major milestone’: TfL to launch new public bus operator in London",
-      "summary": "Buses for London aims for ‘greener, safer and better-value’ service but private operators say move will not fix problems\n\nLondon buses in decline? Why public transport is slowing to a crawl – visualised\n\n\nA publicly owned company, Buses for London, will start running services in the capital next year, Transport for Lon",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/25/tfl-to-launch-new-public-bus-operator-in-london",
-      "image": "https://i.guim.co.uk/img/media/d5a3e9dc464aba7ef75d6786db370956afc396a2/663_0_6627_5304/master/6627.jpg?width=140&quality=85&auto=format&fit=max&s=85da92966633068ce7ff0482f543667e",
-      "publishedAt": "2026-09-25T15:04:56.000Z",
-      "sample": false
-    },
-    {
       "id": "93dtxx",
       "title": "Daniel Thomas pleads not guilty after dinghy slashed",
       "summary": "Daniel Thomas is accused of criminal damage after a video appeared to show him slashing at a dinghy.",
@@ -313,17 +434,6 @@
       "sample": false
     },
     {
-      "id": "v5ygy5",
-      "title": "Giant veg records smashed despite 'bonkers' summer",
-      "summary": "Seven records are thought to have been broken at the National Giant Vegetables Championship.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c5wyzm42zgd2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1611/live/ffe45920-b8e6-11f1-ba42-19e1456ae537.jpg",
-      "publishedAt": "2026-09-25T14:25:12.000Z",
-      "sample": false
-    },
-    {
       "id": "qh5slv",
       "title": "Africa's richest man helps fund $660m fuel pipeline between Ethiopia and Djibouti",
       "summary": "The pipeline would strengthen energy security in landlocked Ethiopia, while creating jobs at Djibouti's port.",
@@ -332,6 +442,17 @@
       "url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a3b/live/73e42a40-b8aa-11f1-8257-a79ccb54f692.jpg",
       "publishedAt": "2026-09-25T14:24:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "7oqk37",
+      "title": "Jeffrey Donaldson could face more than 10 years in jail for child sexual abuse, court told",
+      "summary": "Age difference between former Democratic Unionist party leader and his victims an aggravating factor, say prosecutors\nJeffrey Donaldson, the former leader of the Democratic Unionist party in Northern Ireland, could be sent to prison for more than 10 years over the sexual assault of two women when they were children, a ",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/25/jeffrey-donaldson-should-get-more-than-10-years-jail-for-child-sexual-abuse-court-told",
+      "image": "https://i.guim.co.uk/img/media/4cd7f6acc7e3dbbda5d14464001679b5674351a6/424_0_4831_3864/master/4831.jpg?width=140&quality=85&auto=format&fit=max&s=3f8ab0d4d8be32f03ff7a9f47b0e7245",
+      "publishedAt": "2026-09-25T13:58:46.000Z",
       "sample": false
     },
     {
@@ -374,7 +495,7 @@
       "category": "politics",
       "source": "bbc-news",
       "url": "https://www.bbc.co.uk/news/articles/cqgk54vg053po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cb7/live/35a157e0-b35e-11f1-8f19-bd786ea30d0b.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83dd/live/10bd01b0-b915-11f1-bc1f-3f186ca4140c.jpg",
       "publishedAt": "2026-09-25T12:51:48.000Z",
       "sample": false
     },
@@ -409,17 +530,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6grv78d59jpo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1099/live/e10e9f20-b8d6-11f1-a430-4d16ee157c41.jpg",
       "publishedAt": "2026-09-25T12:00:11.000Z",
-      "sample": false
-    },
-    {
-      "id": "gjc3z4",
-      "title": "One person taken to hospital after barracks fire",
-      "summary": "An investigation is due to take place after a fire at an accommodation block at Catterick Garrison.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cm1j41kxk0w8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4baf/live/98a9bde0-b8d2-11f1-ad1f-538855f30ba1.jpg",
-      "publishedAt": "2026-09-25T11:54:49.000Z",
       "sample": false
     },
     {
@@ -480,7 +590,7 @@
     {
       "id": "hsifpw",
       "title": "David Beckham takes £39m dividend as World Cup deals drive record profits",
-      "summary": "Former footballer appeared in about 12 ad campaigns this summer, pushing holding company’s revenue to $110.5m\n\nBusiness live – latest updates\n\nDavid Beckham has taken a $51m (£39m) dividend from his business empire after a series of deals with brands for the Fifa World Cup.\nBeckham appeared in about a dozen ad campaign",
+      "summary": "Former footballer appeared in about 12 ad campaigns this summer, pushing holding company’s revenue to $110.5m\nDavid Beckham has taken a $51m (£39m) dividend from his business empire after a series of deals with brands for the Fifa World Cup.\nBeckham appeared in about a dozen ad campaigns across this summer’s tournament",
       "category": "politics",
       "source": "the-guardian",
       "url": "https://www.theguardian.com/football/2026/sep/25/david-beckham-dividend-world-cup-deals-record-profits",
@@ -731,17 +841,6 @@
       "sample": false
     },
     {
-      "id": "mokx09",
-      "title": "‘Devastating’: council rejects Frome residents’ bid for regeneration project",
-      "summary": "Locals raised £1m for Mayday Saxonvale scheme involving homes and park but Somerset officials agreed deal with London-based real estate company\nA bold bid by residents of a progressive town in the English West Country who raised almost £1m to create what could have been the UK’s largest community-led regeneration proje",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/society/2026/sep/25/council-rejects-frome-residents-bid-regeneration-project-mayday-saxonvale",
-      "image": "https://i.guim.co.uk/img/media/e0f73ef715ee57cd1d7e75ffb3621774d0dd6436/242_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=1737bf78a7c4fccea921f57e6a83afba",
-      "publishedAt": "2026-09-25T05:00:40.000Z",
-      "sample": false
-    },
-    {
       "id": "dg2uau",
       "title": "The other Post Office scandal: how organised crime launders money on the high street – podcast",
       "summary": "Hundreds of millions of pounds of dirty money are being deposited at post offices every year. So why are the police reluctant to investigate the scale of the problem?\nBy Oliver Bullough\nRead the text version here\nSupport the Guardian today: theguardian.com/longreadpod\n Continue reading...",
@@ -762,7 +861,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f79/live/2b47c240-b87a-11f1-a430-4d16ee157c41.jpg",
       "publishedAt": "2026-09-25T02:51:36.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "8nakmy",
       "title": "Treadmills to deadlifts: Why Gen Z are swapping cardio for strength training",
@@ -883,9 +984,7 @@
       "image": "https://i.guim.co.uk/img/media/9421c6a20c1172db6b9d71dd9ac72a5f3dab1499/469_0_2699_2160/master/2699.jpg?width=140&quality=85&auto=format&fit=max&s=9d0f002df4ed7894fc05ddd2a56f39c0",
       "publishedAt": "2026-09-24T18:27:58.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "8nf6l5",
       "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
@@ -1162,17 +1261,6 @@
       "sample": false
     },
     {
-      "id": "wz5xn7",
-      "title": "Rising fuel costs hitting businesses and customers",
-      "summary": "Business owners say higher fuel costs are creating challenges on several fronts.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cvn0j77dzjdko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9872/live/87f004f0-b765-11f1-8e7f-6f99c81f3136.jpg",
-      "publishedAt": "2026-09-24T05:10:25.000Z",
-      "sample": false
-    },
-    {
       "id": "842ozj",
       "title": "NHS staff investigated over access to dead teenager's medical records",
       "summary": "Oliver McGowan, who died in 2016, may have had his medical records accessed inappropriately after his death by NHS staff in Bristol.",
@@ -1305,17 +1393,6 @@
       "sample": false
     },
     {
-      "id": "ugsh41",
-      "title": "Business Daily",
-      "summary": "What both want from the visit and how the leaders' relationship could shape its outcome",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/sounds/play/w3ct8glw?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pc3mz0.jpg",
-      "publishedAt": "2026-09-23T20:30:00.000Z",
-      "sample": false
-    },
-    {
       "id": "9d49mu",
       "title": "Bentley unveils its first fully electric car",
       "summary": "The SUVs will be built on a new production line in Crewe, which has been Bentley's base since 1946.",
@@ -1371,17 +1448,6 @@
       "sample": false
     },
     {
-      "id": "xg2mic",
-      "title": "Pornhub investigated over its age checks",
-      "summary": "The regulator says it has concerns over how the site is relying on third party checks provided by Apple for some users.",
-      "category": "technology",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c6eq8dw3dlyqo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef85/live/76f98710-b72a-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-23T15:56:44.000Z",
-      "sample": false
-    },
-    {
       "id": "i52elj",
       "title": "UK to join EU ocean science scheme to better predict extreme weather events",
       "summary": "Cooperation on OceanEye, which aims to create ‘real-time’ model of world’s oceans, comes amid efforts to boost EU ties\nBritain is to join a major new ocean science programme, led by the EU, to better forecast extreme weather and climate events, the environment secretary is to announce in New York.\nThe announcement on W",
@@ -1401,17 +1467,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c607ly09y7rlo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5243/live/91e405b0-b751-11f1-bc1f-3f186ca4140c.jpg",
       "publishedAt": "2026-09-23T13:50:25.000Z",
-      "sample": false
-    },
-    {
-      "id": "39tqwk",
-      "title": "OpenAI gives cyber defence tools to Ukraine",
-      "summary": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
-      "category": "technology",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d33f/live/a1cce6f0-b746-11f1-8846-e70401199dae.jpg",
-      "publishedAt": "2026-09-23T12:01:37.000Z",
       "sample": false
     },
     {
@@ -1569,21 +1624,10 @@
       "sample": false
     },
     {
-      "id": "jebwf7",
-      "title": "Developing El Niño becomes strongest on record weeks before expected peak",
-      "summary": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0c8/live/a2ab36e0-b673-11f1-b711-df5e4d50c2fd.jpg",
-      "publishedAt": "2026-09-22T12:54:14.000Z",
-      "sample": false
-    },
-    {
       "id": "wyyg7t",
       "title": "Spain battles climate change on several fronts",
       "summary": "A summer of wildfires and heatwaves underlines the threats to the country's economy.",
-      "category": "environment",
+      "category": "economy",
       "source": "bbc-news",
       "url": "https://www.bbc.co.uk/news/articles/cwg59g3vz564o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f5f/live/45cbd1b0-b271-11f1-b1d1-571ed4d7ff2c.jpg",
