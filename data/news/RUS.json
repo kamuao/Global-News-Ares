@@ -2,8 +2,85 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-09-26T06:18:24.141Z",
+  "updatedAt": "2026-09-26T12:17:19.522Z",
   "daily": [
+    {
+      "id": "jgsu0t",
+      "title": "Ukrainian troops encircled in Kharkov Region lose over 50 soldiers",
+      "summary": "\"The Ukrainian army’s also losses an armored combat vehicle, two cars, an ATV, and a multiple rocket system launcher, the Russian Defense Ministry reported",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2193281",
+      "image": null,
+      "publishedAt": "2026-09-26T10:53:29.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpbyfz",
+      "title": "Leaders of China, US agree to provide mutual support for hosting APEC, G20 summits",
+      "summary": "Еhe heads of state expressed their intention to participate in the events organized by the other side, Xinhua news agency reported",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2193269",
+      "image": null,
+      "publishedAt": "2026-09-26T10:16:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "9qmgm5",
+      "title": "Timur Turlov of Kazakhstan elected World Chess Federation president",
+      "summary": "A total of 110 delegates voted for him",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/sports/2193271",
+      "image": null,
+      "publishedAt": "2026-09-26T10:15:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpbye1",
+      "title": "Trump advocates for trilateral arms control talks between US, Russia, China",
+      "summary": "US leader and Chinese President Xi Jinping also discussed \"on-going global concerns,\" including those concerning Russia, North Korea, and Iran",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2193241",
+      "image": null,
+      "publishedAt": "2026-09-26T08:20:34.000Z",
+      "sample": false
+    },
+    {
+      "id": "sy6cfi",
+      "title": "Euractiv columnist questions need for extra funding for Ukraine",
+      "summary": "Claims were already made earlier this year that Ukraine would run out of money in April, yet this did not happen, Thomas Moller-Nielsen said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/economy/2193239",
+      "image": null,
+      "publishedAt": "2026-09-26T08:18:55.000Z",
+      "sample": false
+    },
+    {
+      "id": "5megil",
+      "title": "Explosion occurres during welding works at Elga deposit in Yakutia causing fatalities",
+      "summary": "According to preliminary information, an explosion occurred on September 26 during welding operations at the backup pumping station, the press service of the regional prosecutor’s office reported",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2193237",
+      "image": null,
+      "publishedAt": "2026-09-26T07:26:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "jgsu50",
+      "title": "Air defense forces shot down nine UAVs flying toward Moscow",
+      "summary": "Emergency service personnel are working at the crash sites, Mayor Sergey Sobyanin said",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2193235",
+      "image": null,
+      "publishedAt": "2026-09-26T07:08:02.000Z",
+      "sample": false
+    },
     {
       "id": "jgsu54",
       "title": "Air defenses down 645 drones over Russian regions, Black Sea, Sea of Azov overnight",
@@ -1050,72 +1127,6 @@
       "sample": false
     },
     {
-      "id": "lpbfx9",
-      "title": "Moldova already overpaid $330 mln for gas after cutting ties with Gazprom — ex-president",
-      "summary": "Igor Dodon noted that the republic had failed to secure favorable European pricing in its dealings with the EU",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2192871",
-      "image": null,
-      "publishedAt": "2026-09-25T13:47:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbsuhh",
-      "title": "Number of injured in attacks on Gorlovka markets rises to five",
-      "summary": "According to preliminary reports, one person was killed",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/politics/2192869",
-      "image": null,
-      "publishedAt": "2026-09-25T13:46:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "sy5tym",
-      "title": "Russian gas for Armenia much cheaper than purchases from other countries",
-      "summary": "As of 2025, more than 2.2 bln cubic meters of gas had been supplied from Russia, accounting for around 83% of all gas deliveries to Armenia",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2192865",
-      "image": null,
-      "publishedAt": "2026-09-25T13:41:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "sy5tyo",
-      "title": "Gazprom increases gas output by 3.4% to 216.55 bcm in 1H 2026",
-      "summary": "Gazprom Group also increased gas sales on domestic and foreign markets by 4.4% to 193.2 bcm",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2192867",
-      "image": null,
-      "publishedAt": "2026-09-25T13:39:31.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbsuhb",
-      "title": "One killed, another injured in drone attack on Gorlovka market",
-      "summary": "Ukrainian forces used drones to attack markets in the city's Nikitovsky and Tsentralno-Gorodskoy districts",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/politics/2192863",
-      "image": null,
-      "publishedAt": "2026-09-25T13:38:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbsuh9",
-      "title": "China, Vietnam back Russian bid for APEC presidency in 2035 — Russian diplomat",
-      "summary": "\"Similar assurances were received during senior officials' contacts with representatives of ASEAN countries; a number of other delegations have also reacted positively,\" Andrey Rudenko noted",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2192861",
-      "image": null,
-      "publishedAt": "2026-09-25T13:28:05.000Z",
-      "sample": false
-    },
-    {
       "id": "hiivdw",
       "title": "St. Petersburg Courts and Moscow Universities Evacuate Following Bomb Threats",
       "summary": "Similar evacuations were reported at more than a dozen universities throughout Moscow on Thursday, Russian media reported.",
@@ -1124,17 +1135,6 @@
       "url": "https://www.themoscowtimes.com/2026/09/25/st-petersburg-courts-and-moscow-universities-evacuate-following-bomb-threats-a93794",
       "image": null,
       "publishedAt": "2026-09-25T13:27:21.000Z",
-      "sample": false
-    },
-    {
-      "id": "jgtcmj",
-      "title": "Belarusian troops heading to Russia to take part in CSTO drills",
-      "summary": "The Interaction 2026 command and staff exercise, the Search 2026 special reconnaissance forces and assets exercise and the Echelon 2026 logistics exercise will be conducted in Russia",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2192859",
-      "image": null,
-      "publishedAt": "2026-09-25T13:27:18.000Z",
       "sample": false
     },
     {
@@ -1147,7 +1147,9 @@
       "image": null,
       "publishedAt": "2026-09-25T12:48:55.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "od51eg",
       "title": "Moscow Police Arrest Political Expert Alexander Kynev on Drug Charges",
@@ -1180,9 +1182,7 @@
       "image": null,
       "publishedAt": "2026-09-25T08:11:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "y8501",
       "title": "Regions Calling: Russia’s Got a Bear Problem",
@@ -1522,17 +1522,6 @@
       "url": "https://www.themoscowtimes.com/2026/09/19/with-united-russias-election-victory-all-but-certain-some-russians-are-still-pushing-back-a93749",
       "image": null,
       "publishedAt": "2026-09-19T12:23:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "m80ed0",
-      "title": "Trump Signs Sweeping Russia Sanctions Bill",
-      "summary": "The measures target Russia's energy and defense industries, as well as its \"shadow fleet\" of tankers that evade existing sanctions.",
-      "category": "politics",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/09/19/trump-signs-sweeping-russia-sanctions-bill-a93750",
-      "image": null,
-      "publishedAt": "2026-09-19T08:53:00.000Z",
       "sample": false
     }
   ],

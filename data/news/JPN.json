@@ -2,13 +2,46 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-26T06:18:25.214Z",
+  "updatedAt": "2026-09-26T12:17:21.098Z",
   "daily": [
+    {
+      "id": "8m60zs",
+      "title": "11-year-old esports prodigy claims gold at Asian Games",
+      "summary": "Yuki Kurihara is the youngest athlete in Japan's Asian Games history.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/26/asian-games/japan-esports-prodigy-asian-games/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/26/thumbs/400x400/565201.jpg",
+      "publishedAt": "2026-09-26T08:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lkzea5",
+      "title": "Organizers ‘not satisfied’ by rows of empty seats at Asian Games",
+      "summary": "The 100-meter sprints are one of the highlights of any Games, but the 30,000-capacity Mizuho Park Athletic Stadium appeared to be only about one-quarter full on Friday night.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/26/asian-games/asian-games-organizers-seats/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/26/thumbs/400x400/565200.jpg",
+      "publishedAt": "2026-09-26T08:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "aazxvf",
+      "title": "Junglia theme park in Okinawa logs ¥17 billion loss in first year",
+      "summary": "The ¥70 billion park opened last July to high expectations that it would help extend tourist stays and boost the local economy.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/26/junglia-okinawa-first-year-loss/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/26/thumbs/400x400/565199.jpg",
+      "publishedAt": "2026-09-26T08:00:00.000Z",
+      "sample": false
+    },
     {
       "id": "654x7i",
       "title": "China and U.S. to open AI ‘communication channel’ after summit",
-      "summary": "China and the United States agreed to set up a \"communication channel\" for artificial intelligence incidents, the White House said Friday, after a Washington summit short on breakthroughs.",
-      "category": "technology",
+      "summary": "U.S. President Donald Trump and Chinese leader Xi Jinping discussed matters ranging from AI and trade to the stalled war in Iran.",
+      "category": "military",
       "source": "japan-times",
       "url": "https://www.japantimes.co.jp/news/2026/09/26/world/us-china-ai-communication-line/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/26/thumbs/400x400/565198.jpg",
@@ -83,7 +116,7 @@
     },
     {
       "id": "bg56qa",
-      "title": "Spotting AI writing: how reliable are the detectors?",
+      "title": "Spotting AI writing: How reliable are the detectors?",
       "summary": "Claims that a Canadian-Haitian writer used AI tools to write his best-selling debut novel are posing questions about how AI can be detected.",
       "category": "technology",
       "source": "japan-times",
@@ -192,16 +225,18 @@
       "sample": false
     },
     {
-      "id": "unig0z",
+      "id": "ncdoqm",
       "title": "Japanese skateboarders grab gold at Asian Games",
       "summary": "In swimming, Kodai Nishiono won the gold medal in the men's 200-meter backstroke.",
       "category": "technology",
       "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/09/26/more-sports/japanese-skateboarders-asian-games/",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/26/asian-games/japanese-skateboarders-asian-games/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/26/thumbs/400x400/565171.jpg",
       "publishedAt": "2026-09-25T15:24:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "krnrby",
       "title": "Storm menaces Japan after highest cyclone tally since 1966",
@@ -299,41 +334,6 @@
       "url": "https://www.japantimes.co.jp/commentary/2026/09/25/world/sanctions-illusion/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/561506.jpg",
       "publishedAt": "2026-09-25T07:25:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "j5gtc",
-      "title": "NEC building 1-petabit-capacity subsea cable for Meta",
-      "summary": "The Petal cable will help meet the growing data transmission needs of artificial intelligence companies.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/25/companies/nec-undersea-cable/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/565118.jpg",
-      "publishedAt": "2026-09-25T07:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2t3tr5",
-      "title": "Asian Games off to chaotic start as doubts grow over Japan’s ability to host",
-      "summary": "Problems from playing the wrong national anthem to accommodation issues have cast a cloud over the Aichi-Nagoya Asian Games.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/nagoya-asian-games-mishap/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/565110.jpg",
-      "publishedAt": "2026-09-25T06:54:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "ic01u3",
-      "title": "Japan’s newest party gets off to rocky start with zero percent support rate",
-      "summary": "Media polls showed the support rate for the Democratic Reform Party, formed last week with 18 members, is at zero percent.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/25/japan/politics/new-party-support-rate-zero/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/565100.jpg",
-      "publishedAt": "2026-09-25T06:12:00.000Z",
       "sample": false
     }
   ],
