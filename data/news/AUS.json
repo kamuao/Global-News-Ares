@@ -2,12 +2,23 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-09-26T12:17:22.784Z",
+  "updatedAt": "2026-09-26T18:16:26.769Z",
   "daily": [
     {
+      "id": "k3lto3",
+      "title": "Roosters earn shot at perfect NRLW season with win over Canberra",
+      "summary": "The Sydney Roosters are through to the NRLW grand final, continuing their perfect season with a 20-10 victory over Canberra.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-26/roosters-through-to-nrlw-grand-final-with-raiders-win/107199658",
+      "image": null,
+      "publishedAt": "2026-09-26T13:21:08.000Z",
+      "sample": false
+    },
+    {
       "id": "o3jg9b",
-      "title": "Iran offers deal to US to reopen Strait of Hormuz",
-      "summary": "Iran's proposal would reopen the Strait of Hormuz within a week, according to its Foreign Minister Abbas Araghchi, but Donald Trump has reportedly already rejected the deal.",
+      "title": "'Trump Strait' post follows Iran offer to reopen peace discussions",
+      "summary": "Iran's proposal would reopen the Strait of Hormuz within a week, according to its Foreign Minister Abbas Araghchi, but Donald Trump has already rejected the deal.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-09-26/iran-offers-deal-to-us-to-reopen-strait-of-hormuz/107199816",
@@ -17,8 +28,8 @@
     },
     {
       "id": "lh2haa",
-      "title": "Live: Safety car throws spanner in the works as Piastri holds off Red Bull charge",
-      "summary": "Oscar Piastri starts from the second row of the grid as the Formula 1 circus moves to Azerbaijan for the always entertaining race around the Baku City Circuit. Follow live.",
+      "title": "Russell wins Azerbaijan GP after Piastri disaster in Baku",
+      "summary": "George Russell has claimed a nail-biting victory in Baku, holding off Max Verstappen by just 0.196 seconds to secure his third victory of the season.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-09-26/live-updates-formula-1-azerbaijan-grand-prix-baku-city-circuit/107199702",
@@ -266,17 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-09-26/petition-for-police-station-in-boulder-stan-two-birds/107158790",
       "image": null,
       "publishedAt": "2026-09-25T23:57:02.000Z",
-      "sample": false
-    },
-    {
-      "id": "yqyb8h",
-      "title": "Sailor, 75, on his last legs and last beer when help arrived",
-      "summary": "After 30 days at sea, Digby Campbell was down to his last can of beer and two Red Bulls when three strangers saved the 75-year-old sailor adrift off Darwin Harbour.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-26/digby-campbell-75-darwin-yacht-rescue-lifesaving-awards/107196120",
-      "image": null,
-      "publishedAt": "2026-09-25T23:28:21.000Z",
       "sample": false
     }
   ],

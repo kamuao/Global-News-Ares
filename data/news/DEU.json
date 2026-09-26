@@ -2,37 +2,114 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-26T12:17:18.543Z",
+  "updatedAt": "2026-09-26T18:16:22.576Z",
   "daily": [
     {
-      "id": "xs3ko8",
-      "title": "Propaganda in Russian schools prepares students to die for their country",
+      "id": "qy4pvd",
+      "title": "Europe's data centers may drive digital sovereignty",
+      "summary": "Massive data centers needed to run AI are triggering protests across Europe. Their operators counter that they boost digital sovereignty and energy independence.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/europe-s-data-centers-may-drive-digital-sovereignty/a-79419800?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-26T18:08:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "5eahx9",
+      "title": "China, US agree to set up channel for AI safety incidents",
+      "summary": "Following the summit between US President Donald Trump and Chinese President Xi Jinping, the two superpowers pledged to set up a \"communication channel\" for AI incidents and boost coordination on military matters.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/china-us-agree-to-set-up-channel-for-ai-safety-incidents/a-79443351?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-26T16:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fyu9x0",
+      "title": "Trump rejects Iran proposal to reopen Strait of Hormuz",
+      "summary": "US President Donald Trump says he has rejected an Iranian proposal to reopen the Strait of Hormuz and put an end to hostilities. \"I'd like to make a deal, too,\" he said. \"But that deal would not be acceptable.\"",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/trump-rejects-iran-proposal-to-reopen-strait-of-hormuz/a-79444893?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-26T16:16:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6r4s94",
+      "title": "Paris: Pope Leo XIV celebrates Mass before huge crowd",
+      "summary": "The pope addressed around 700,000 people during a Mass at the Place de la Concorde, near the Champs-Elysees. Leo XIV is on a four-day visit to France.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-26T16:13:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "sod70i",
+      "title": "Russia expected to intensify hybrid war on Europe",
+      "summary": "Drone explosions, airspace violations, arson attacks: Poland, Romania, and Moldova are now regularly targeted in Russian attacks against Ukraine. More governments are calling these attacks deliberate acts of aggression.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-26T15:39:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "5kt8fg",
+      "title": "Germany's FM Wadephul meets Lavrov on UNGA sidelines",
+      "summary": "It's the first such meeting since Russia launched the invasion of Ukraine in February 2022. DW has the latest on day 5 of the UN General Assembly debate.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-s-fm-wadephul-meets-lavrov-on-unga-sidelines/live-79366211?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-26T15:17:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "eexr0f",
+      "title": "Pakistan: Suicide attack at police stop kills at least 11",
+      "summary": "The blast was claimed by the Pakistani Taliban, which has stepped up attacks on Pakistani security forces in recent years.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/pakistan-suicide-attack-at-police-stop-kills-at-least-11/a-79443050?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-26T14:27:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "hyj17l",
+      "title": "German Olympic Committee names Munich as bid city choice",
+      "summary": "Munich has been voted as the city that will bid for the Olympics in 2036, 2040 or 2044. Berlin had been in the running but withdrew on Thursday.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/german-olympic-committee-names-munich-as-bid-city-choice/a-79441284?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-26T12:47:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "q1hoq2",
+      "title": "Propaganda in Russian schools prepares students to die",
       "summary": "The Russian government wants children to learn about patriotism from an early age. DW spoke to students in Siberia about their views on propaganda, the war in Ukraine and their future.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/propaganda-in-russian-schools-prepares-students-to-die-for-their-country/a-79417294?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/propaganda-in-russian-schools-prepares-students-to-die/a-79417294?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-26T11:55:00.000Z",
       "sample": false
     },
     {
-      "id": "tt5ay7",
-      "title": "Paris: Pope Leo XIV to celebrate Mass before huge crowd",
-      "summary": "Around 600,000 people have registered to attend a Mass at the Place de la Concorde, near the Champs-Elysees. Pope Leo XIV is on a four-day visit to France.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/paris-pope-leo-xiv-to-celebrate-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-26T11:51:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "4alpcl",
-      "title": "A HRW report shows how South Korean women face systemic barriers to climbing the career ladder",
+      "id": "ml5kzd",
+      "title": "South Korea's gender pay gap grows as women get older",
       "summary": "A new report shows how in South Korea, women on average earn less and have fewer employment opportunities throughout their lives.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/a-hrw-report-shows-how-south-korean-women-face-systemic-barriers-to-climbing-the-career-ladder/a-79431285?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/south-korea-s-gender-pay-gap-grows-as-women-get-older/a-79431285?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-26T10:44:00.000Z",
       "sample": false
@@ -146,29 +223,9 @@
       "image": null,
       "publishedAt": "2026-09-25T19:51:00.000Z",
       "sample": false
-    },
-    {
-      "id": "nrzisk",
-      "title": "Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal?",
-      "summary": "Iran's president used his trip to New York this week for the UN General Assembly to signal openness to talks over the nuclear dispute. However, the chances of a major breakthrough on the war remain low.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/iranian-president-pezeshkian-brought-a-diplomatic-tone-to-new-york-for-unga-what-did-his-remarks-signal/a-79428890?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-25T18:56:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ethom3",
-      "title": "Pakistan's Sharif rails against India, praises Trump at UNGA",
-      "summary": "Pakistan's prime minister blamed India for last year's clashes, and credited the US president with preventing \"all-out war\" between two nuclear powers. Albania's PM told the UN delegates an anecdote about AI misuse.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/pakistan-s-sharif-rails-against-india-praises-trump-at-unga/live-79366211?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-25T15:26:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "h0ln0z",
       "title": "DW shows solidarity with Georgians' commitment to democracy",
@@ -178,28 +235,6 @@
       "url": "https://www.dw.com/en/dw-shows-solidarity-with-georgians-commitment-to-democracy/a-79432731?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-25T15:06:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8rxmtf",
-      "title": "Xi wraps up US visit with trip to National Archives",
-      "summary": "On the last day of his visit to the US, Chinese leader Xi Jinping visited the National Archives with President Donald Trump. The Archives store the Declaration of Independence and the US Constitution.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/xi-wraps-up-us-visit-with-trip-to-national-archives/live-79404511?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-25T14:59:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "4d8d9b",
-      "title": "AfD, CDU ban new Holocaust 'stumbling stones' in Heidenau",
-      "summary": "Activists, politicians and representatives of Holocaust victims reacted with anger after the center-right CDU party joined forces with the AfD to ban new Stolpersteine (stumbling stones) in the eastern town of Heidenau.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/afd-cdu-ban-new-holocaust-stumbling-stones-in-heidenau/a-79433919?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-25T14:51:00.000Z",
       "sample": false
     },
     {
@@ -214,17 +249,6 @@
       "sample": false
     },
     {
-      "id": "k63ntn",
-      "title": "India news: Protests against election chief escalate as Gandhi, Cockroach party allege 'rigged' vote",
-      "summary": "Police have used tear gas on protests by the opposition Congress party demanding India's election commission head steps down, following a report alleging \"rigged\" elections.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-protests-against-election-chief-escalate-as-gandhi-cockroach-party-allege-rigged-vote/live-79422469?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-25T14:15:00.000Z",
-      "sample": false
-    },
-    {
       "id": "r2bklb",
       "title": "Bundesliga, other top European leagues call for major FIFA reforms",
       "summary": "The Bundesliga and three other leading European football leagues have said major reforms to world-governing body FIFA are \"essential.\" However, they stopped short of calling for the resignation of boss Gianni Infantino.",
@@ -234,9 +258,7 @@
       "image": null,
       "publishedAt": "2026-09-25T13:52:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "m988on",
       "title": "How Bulgaria become a global leader in battery storage and what this means for the country's grid and energy market?",
@@ -653,39 +675,6 @@
       "url": "https://www.dw.com/en/summer-of-2026-broke-records-in-europe-and-caused-deaths/a-79339630?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-19T19:47:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "4u1vax",
-      "title": "German-Russian relations at freezing point",
-      "summary": "Russia's full-scale invasion of Ukraine destroyed the once-close relationship between Moscow and Berlin. Yet the far-right AfD is calling for a normalization of relations.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/german-russian-relations-at-freezing-point/a-79330741?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T16:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "h2z5mr",
-      "title": "Ukraine steps up measures to protect railways",
-      "summary": "As Russia increases its attacks on Ukraine's rail infrastructure, the Ukrainian government has called for help to replace destroyed locomotives and is making plans to keep passengers safe.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T15:37:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "sjnza5",
-      "title": "Mecklenburg-Western Pomerania: Will economy shape the vote?",
-      "summary": "Voters in the eastern state of Mecklenburg-Western Pomerania head to the polls on Sunday, with the Social Democrats and far-right AfD neck and neck. Here's a look at key economic issues that could influence the election.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/mecklenburg-western-pomerania-will-economy-shape-the-vote/a-79298904?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T14:51:00.000Z",
       "sample": false
     }
   ],

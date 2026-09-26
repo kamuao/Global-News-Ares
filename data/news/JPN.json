@@ -2,7 +2,7 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-26T12:17:21.098Z",
+  "updatedAt": "2026-09-26T18:16:24.978Z",
   "daily": [
     {
       "id": "8m60zs",
@@ -223,7 +223,9 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/564882.jpg",
       "publishedAt": "2026-09-25T23:00:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "ncdoqm",
       "title": "Japanese skateboarders grab gold at Asian Games",
@@ -234,9 +236,7 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/26/thumbs/400x400/565171.jpg",
       "publishedAt": "2026-09-25T15:24:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "krnrby",
       "title": "Storm menaces Japan after highest cyclone tally since 1966",
