@@ -2,8 +2,52 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-26T00:19:42.321Z",
+  "updatedAt": "2026-09-26T06:18:22.932Z",
   "daily": [
+    {
+      "id": "hn9lib",
+      "title": "Thailand: Bangkok flooding triggers disaster declaration",
+      "summary": "Rainfall over the past three days has caused heavy flooding in the Thai capital. A state of disaster has been declared in all 50 districts in Bangkok.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/thailand-bangkok-flooding-triggers-disaster-declaration/a-79440575?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-26T06:08:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "8mp332",
+      "title": "OpenAI tools post user images from ChatGPT online",
+      "summary": "OpenAI said it found 53 cases in which user-uploaded image links on ChatGPT were shared with third-party websites. The company said it had removed most of these links.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/openai-tools-post-user-images-from-chatgpt-online/a-79440406?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-26T05:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "5qdnms",
+      "title": "White House bars CNN from covering upcoming Trump trip, broadcaster says",
+      "summary": "CNN said its journalists have been barred from accompanying President Donald Trump on his upcoming trip to Tennessee. The episode marks the Trump administration's latest salvo against the major cable news network.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-26T03:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "c0le8t",
+      "title": "TikTok agrees to settle with Alabama state over teen safety",
+      "summary": "The settlement involves TikTok adding several child safety measures to its platform including time limits and increased parental control. It is similar to a recent settlement competitor Meta had reached.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/tiktok-agrees-to-settle-with-alabama-state-over-teen-safety/a-79440240?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-26T03:09:00.000Z",
+      "sample": false
+    },
     {
       "id": "j6ndj8",
       "title": "Yemeni leader calls for general mobilization against Houthis",
@@ -181,28 +225,6 @@
       "sample": false
     },
     {
-      "id": "nwqygf",
-      "title": "Volkswagen, Audi to recall almost 1 million cars in Germany",
-      "summary": "Volkswagen and its subsidiary Audi are to recall nearly a million vehicles in Germany due to a potential steering fault.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/volkswagen-audi-to-recall-almost-1-million-cars-in-germany/a-79426960?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-25T09:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "cv3yt9",
-      "title": "Why farmers are pairing crops with solar panels",
-      "summary": "From cooler soil to paid grazing land, farmers in the US are finding that solar panels can do more than generate power.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/why-farmers-are-pairing-crops-with-solar-panels/a-79233970?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-25T09:31:00.000Z",
-      "sample": false
-    },
-    {
       "id": "oc24wl",
       "title": "Italy to ban burqa in schools, limit foreign pupils",
       "summary": "Prime Minister Giorgia Meloni’s government has passed new school rules capping the number of students who don't speak fluent Italian and banning face coverings.",
@@ -211,17 +233,6 @@
       "url": "https://www.dw.com/en/italy-to-ban-burqa-in-schools-limit-foreign-pupils/a-79423432?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-25T08:10:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "1uzxw6",
-      "title": "Ethiopia: Internet disrupted in Tigray amid conflict escalation",
-      "summary": "A web monitor reported an internet disruption in northern Ethiopia amid renewed fighting between the Tigray People's Liberation Front (TPLF) and the federal government.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ethiopia-internet-disrupted-in-tigray-amid-conflict-escalation/a-79424191?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-25T07:44:00.000Z",
       "sample": false
     }
   ],
@@ -686,28 +697,6 @@
       "url": "https://www.dw.com/en/mecklenburg-western-pomerania-spd-seeks-to-fend-off-afd/a-79330234?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-19T06:46:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "em92m",
-      "title": "Ever more Israelis moving to and investing in Cyprus",
-      "summary": "Over the past three years, more and more Israelis have been purchasing property and investing in Cyprus, with many moving to the island permanently. How has this changed the Cypriot economy and how are locals responding?",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ever-more-israelis-moving-to-and-investing-in-cyprus/a-79330240?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T06:07:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "h1s1kb",
-      "title": "Women's football in Germany booming, but still much to do",
-      "summary": "Women's football is growing rapidly, particularly in Germany. Nevertheless, equal pay and investment remain major talking points.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/women-s-football-in-germany-booming-but-still-much-to-do/a-79291687?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-19T04:42:00.000Z",
       "sample": false
     }
   ],

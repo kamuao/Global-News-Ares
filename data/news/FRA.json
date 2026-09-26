@@ -2,28 +2,149 @@
   "id": "FRA",
   "name": "France",
   "sample": false,
-  "updatedAt": "2026-09-26T00:19:41.431Z",
+  "updatedAt": "2026-09-26T06:18:22.237Z",
   "daily": [
     {
-      "id": "jguo98",
-      "title": "IA : la mise à l’écart d’Anthropic par le Pentagone confirmée par la justice",
-      "summary": "La cour d’appel de Washington a jugé conforme, vendredi, la mise à l’index de la start-up d’intelligence artificielle qui avait refusé, en février, de laisser l’armée américaine utiliser sans restriction son modèle, Claude.",
+      "id": "7poqje",
+      "title": "IA : Washington et Pékin vont se doter d’un canal de communication dédié aux incidents",
+      "summary": "Annoncé par la Maison Blanche à l’issue de la visite d’Etat de Xi Jinping, ce mécanisme s’accompagne d’un dialogue bilatéral sur la « super-intelligence », alors que les deux rivaux divergent sur l’encadrement de la technologie.",
       "category": "politics",
       "source": "le-monde",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/26/ia-la-mise-a-l-ecart-d-anthropic-par-le-pentagone-confirmee-par-la-justice_6782773_3234.html",
-      "image": "https://img.lemde.fr/2026/09/25/417/0/5000/2500/644/322/60/0/9f9d6eb_ftp-1-rowkjuyucql3-2026-09-25t180005z-1304128046-rc29lnaagwzx-rtrmadp-3-usa-pentagon-anthropic-lawsuit.JPG",
-      "publishedAt": "2026-09-25T23:26:34.000Z",
+      "url": "https://www.lemonde.fr/international/article/2026/09/26/ia-washington-et-pekin-vont-se-doter-d-un-canal-de-communication-dedie-aux-incidents_6783095_3210.html",
+      "image": "https://img.lemde.fr/2026/09/25/675/0/8098/4049/644/322/60/0/a0f9324_ftp-1-6gi0ijubpqip-5183044-01-06.jpg",
+      "publishedAt": "2026-09-26T05:59:37.000Z",
       "sample": false
     },
     {
-      "id": "bbqbfc",
-      "title": "Au Brésil, Lula interdit les paris sportifs en ligne à quelques jours de la présidentielle, dénonçant une « maladie » qui gagne les foyers",
-      "summary": "Alors que la campagne entre dans sa dernière ligne droite avant le premier tour du 4 octobre, le sujet des paris en ligne est devenu un enjeu pour le président sortant, qui dénonce une source d’endettement massif pour les familles.",
+      "id": "zgqyus",
+      "title": "CNN removed from Trump press pool, despite judge order to reinstate White House access",
+      "summary": "US news outlet CNN has been removed from a press pool that is accompanying President Donald Trump on a trip to Tennessee on Saturday. Last week, CNN, along with MS NOW and Politico, was barred from White House access by the Trump administration, but a judge ordered it temporarily restored, saying the move was likely un",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/americas/20260926-cnn-removed-from-trump-press-pool-despite-judge-order-to-reinstate-white-house-access",
+      "image": "https://s.france24.com/media/display/1eef422c-b96d-11f1-87e8-555a0aff87a4/w:1024/p:16x9/AP26267592547747.jpg",
+      "publishedAt": "2026-09-26T05:56:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "2rzju7",
+      "title": "Joy Sorman : « Je ne deviendrai jamais une artiste sauvage comme Irène Gérard »",
+      "summary": "De livre en livre, l’écrivaine affine sa méthode, fondée sur la longue fréquentation d’un lieu. « La Vie brute » l’a conduite dans un centre d’art brut de Belgique, à la rencontre d’une artiste neuroatypique.",
+      "category": "technology",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/livres/article/2026/09/26/joy-sorman-je-ne-deviendrai-jamais-une-artiste-sauvage-comme-irene-gerard_6783056_3260.html",
+      "image": "https://img.lemde.fr/2026/09/22/886/0/3543/1771/644/322/60/0/71445c0_upload-1-hqkkpuieu6mk-b-118340.jpg",
+      "publishedAt": "2026-09-26T05:00:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "57yyhi",
+      "title": "EN DIRECT, guerre en Ukraine : une attaque russe à Zaporijia fait deux morts, selon l’administration militaire locale",
+      "summary": "Les corps de deux femmes ont été extraits des décombres d’une habitation privée détruite par une frappe russe, qui a aussi fait plusieurs blessés, a annoncé Ivan Fedorov, chef de l’administration militaire de l’oblast.",
+      "category": "society",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/live/2026/09/26/en-direct-guerre-en-ukraine-une-attaque-russe-a-zaporijia-fait-deux-morts-selon-l-administration-militaire-locale_6777944_3210.html",
+      "image": "https://img.lemde.fr/2026/09/25/504/0/3830/1915/644/322/60/0/018be5d_ftp-1-pnkyvgcxg7sv-5182782-01-06.jpg",
+      "publishedAt": "2026-09-26T04:33:20.000Z",
+      "sample": false
+    },
+    {
+      "id": "qgygi",
+      "title": "Après un été de tous les records, des rassemblements pour le climat organisés samedi dans toute la France",
+      "summary": "Plus de 260 rassemblements sont annoncés partout dans l’Hexagone pour réclamer un plan d’urgence climatique. Les militants pour l’environnement à l’origine de cette mobilisation ont depuis été rejoints par des ONG, des syndicats et des partis politiques.",
       "category": "politics",
       "source": "le-monde",
-      "url": "https://www.lemonde.fr/international/article/2026/09/26/au-bresil-lula-interdit-les-paris-sportifs-en-ligne-a-quelques-jours-de-la-presidentielle-denoncant-une-maladie-qui-gagne-les-foyers_6782740_3210.html",
-      "image": "https://img.lemde.fr/2026/09/25/400/0/4672/2336/644/322/60/0/5dcd270_ftp-1-jdtei6grwyba-2026-09-25t222318z-1902496007-rc2mqnaex2z7-rtrmadp-3-brazil-election-lula.JPG",
-      "publishedAt": "2026-09-25T22:53:11.000Z",
+      "url": "https://www.lemonde.fr/planete/article/2026/09/26/apres-un-ete-de-tous-les-records-des-rassemblements-pour-le-climat-organises-samedi-dans-toute-la-france_6783015_3244.html",
+      "image": "https://img.lemde.fr/2026/09/15/679/0/8148/4074/644/322/60/0/36e15f2_ftp-1-bcvdeehcbi6e-5097931-01-06.jpg",
+      "publishedAt": "2026-09-26T04:00:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "skbukg",
+      "title": "Que faire, que voir, où aller ? L’agenda culturel et lifestyle à partir du 26 septembre",
+      "summary": "Chaque samedi, « Le Goût du Monde » vous propose sa sélection de rendez-vous et d’adresses, à Paris et partout en France. Cette semaine, des jarres à fermentation pour le miso, l’histoire du tournage de « Marie-Antoinette », de Sofia Coppola, au château de Versailles et les coulisses de l’hôtel Drouot.",
+      "category": "society",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/m-styles/article/2026/09/26/que-faire-que-voir-ou-aller-l-agenda-culturel-et-lifestyle-a-partir-du-26-septembre_6783008_4497319.html",
+      "image": "https://img.lemde.fr/2026/09/16/166/0/1500/750/644/322/60/0/bf1902a_ftp-1-zq9631y2lyja-443806-3496337.jpg",
+      "publishedAt": "2026-09-26T04:00:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "pga4o4",
+      "title": "L’envoi de « moyens militaires » français en Arabie saoudite sort de l’ombre la discrète coopération de défense entre Paris et Riyad",
+      "summary": "En annonçant mobiliser « soldats, radars et systèmes de défense » pour protéger les infrastructures énergétiques du royaume, attaquées par les houtistes pro-iraniens du Yémen, Emmanuel Macron opère un virage géopolitique, au moment où Riyad cherche à diversifier ses partenariats.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/09/26/l-envoi-de-moyens-militaires-francais-en-arabie-saoudite-sort-de-l-ombre-la-discrete-cooperation-de-defense-entre-paris-et-riyad_6783006_3210.html",
+      "image": "https://img.lemde.fr/2026/09/18/956/0/8000/4000/644/322/60/0/b400567_upload-1-ateoweugmrv1-jmug260918089.jpg",
+      "publishedAt": "2026-09-26T03:53:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "gja8d2",
+      "title": "Visite du pape à Paris : au Stade de France, Léon XIV célèbre le « combat » pour « la foi » au milieu d’une foule de jeunes enfiévrés et disparates",
+      "summary": "Près de 80 000 jeunes ont rempli l’enceinte dyonisienne, vendredi, accueillant le chef de l’Eglise catholique comme une rock star. Une assemblée disparate, formée de sensibilités divergentes, avec la volonté de communier, au moins pour un soir. Récit.",
+      "category": "military",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/societe/article/2026/09/26/visite-du-pape-au-stade-de-france-leon-xiv-celebre-le-combat-pour-la-foi-qui-n-utilise-pas-les-armes-de-la-violence-du-mepris-ou-de-l-oppression_6782973_3224.html",
+      "image": "https://img.lemde.fr/2026/09/26/1196/0/3931/1965/644/322/60/0/3acb741_upload-1-nzxogjfltic1-kzihnioglu-pol-pape-leon-xiv-25092026-47.jpg",
+      "publishedAt": "2026-09-26T03:30:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "4ggo0w",
+      "title": "Après son interdiction d’accès à la Maison Blanche, CNN exclue d’Air Force One pour un déplacement présidentiel",
+      "summary": "La place qui était initialement réservée à CNN sur ce vol est, de longue date, destinée à un membre du « pool » vidéo des chaînes de télévision américaines, qui assure une couverture audiovisuelle mutualisée de la présidence.",
+      "category": "military",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/09/26/apres-son-interdiction-d-acces-a-la-maison-blanche-cnn-ecartee-d-un-deplacement-presidentiel-a-bord-d-air-force-one_6782971_3210.html",
+      "image": "https://img.lemde.fr/2026/09/24/479/0/5747/2873/644/322/60/0/f9fb1b9_ftp-1-sj5aezjlsvvw-fa5b8f42c30740c087d8a6c03a7b6d9b-0-7dc8d96677dd4fb489cf2fef301190e3.jpg",
+      "publishedAt": "2026-09-26T03:22:33.000Z",
+      "sample": false
+    },
+    {
+      "id": "6w872s",
+      "title": "Etats-Unis : avant les élections de mi-mandat, les efforts de l’administration Trump pour remodeler les règles à son avantage",
+      "summary": "La Cour suprême a empêché les républicains, vendredi, de redécouper les circonscriptions du Missouri à leur profit, mais le parti a pu remanier les districts dans de nombreux autres Etats, tandis que la Maison Blanche s’est employée à purger les listes électorales et à limiter le vote par correspondance, sans succès.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/09/26/etats-unis-avant-les-elections-de-mi-mandat-les-efforts-de-l-administration-trump-pour-remodeler-les-regles-a-son-avantage_6782938_3210.html",
+      "image": "https://img.lemde.fr/2026/08/31/1330/0/7984/3992/644/322/60/0/3ac94b5_ftp-1-rv9vm1wajfqq-2026-08-31t100112z-787868199-rc22xjaqw9cz-rtrmadp-3-prediction-markets-enforcement.JPG",
+      "publishedAt": "2026-09-26T03:00:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "8m72cv",
+      "title": "Trump reportedly rejects Iran’s 7-day plan to reopen Strait of Hormuz",
+      "summary": "US President Donald Trump has reportedly rejected an Iranian plan to reopen the Strait of Hormuz. The proposal was presented by Iran's Foreign Minister Abbas Araghchi to Trump’s envoy Steve Witkoff on the sidelines of a UN gathering in New York. The plan stipulated that the important waterway would reopen seven days af",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/middle-east/20260926-trump-reportedly-rejects-iran-s-7-day-plan-to-reopen-strait-of-hormuz",
+      "image": "https://s.france24.com/media/display/d59dfb18-b94e-11f1-9c2f-852b23529bb9/w:1024/p:16x9/de49252b3547da24497242e0261e32a55f43d83e.jpg",
+      "publishedAt": "2026-09-26T02:06:07.000Z",
+      "sample": false
+    },
+    {
+      "id": "nwavcw",
+      "title": "TikTok accepte de limiter le temps d’écran des adolescents dans un accord à plus de 100 millions de dollars avec l’Alabama",
+      "summary": "Comme Meta, la maison mère de Facebook et d’Instagram, TikTok devra imposer par défaut aux jeunes de 13 à 17 ans une limite quotidienne de deux heures, restreindre leur accès entre minuit et 6 heures et suspendre les notifications pendant les heures de cours.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/pixels/article/2026/09/26/tiktok-accepte-de-limiter-le-temps-d-ecran-des-adolescents-en-alabama-pour-s-eviter-un-proces_6782872_4408996.html",
+      "image": "https://img.lemde.fr/2026/07/24/250/0/3000/1500/644/322/60/0/1c5710a_ftp-1-s8thsups8bqn-39ee820f3c444d57b1ddf463a9c99529-0-0afeb014369f406d9269bb4b813c0ab4.jpg",
+      "publishedAt": "2026-09-26T01:48:23.000Z",
+      "sample": false
+    },
+    {
+      "id": "4oq38m",
+      "title": "Zinédine Zidane réussit son baptême du feu en Turquie pour son premier match à la tête de l’équipe de France, malgré la blessure de Kylian Mbappé",
+      "summary": "Les Bleus l’ont emporté avec leur nouveau sélectionneur en Turquie (1-0), vendredi, grâce à un but de Kylian Mbappé. Le capitaine tricolore, qui s’est blessé au genou, manquera les trois prochains matchs du groupe.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/sport/article/2026/09/26/zinedine-zidane-reussit-son-bapteme-du-feu-en-turquie-pour-son-premier-match-a-la-tete-de-l-equipe-de-france-malgre-la-blessure-de-kylian-mbappe_6782806_3242.html",
+      "image": "https://img.lemde.fr/2026/09/25/81/0/1920/960/644/322/60/0/3d97900_ftp-1-i17zyufdwsm2-5184024-01-06.jpg",
+      "publishedAt": "2026-09-26T00:22:52.000Z",
       "sample": false
     },
     {
@@ -49,17 +170,6 @@
       "sample": false
     },
     {
-      "id": "m805kt",
-      "title": "Turquie-France : le résumé des débuts victorieux de Zinédine Zidane à la tête des Bleus, sauvés par Kylian Mbappé mais privés de leur capitaine, blessé et forfait",
-      "summary": "L’équipe de France de football a décroché une courte victoire face à la sélection turque (1-0), vendredi à Izmit, pour entamer sa campagne en Ligue des nations et, surtout, le mandat de Zinédine Zidane, qui a découvert son nouveau rôle sur un succès.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/sport/article/2026/09/25/turquie-france-le-resume-des-debuts-victorieux-de-zinedine-zidane-a-la-tete-des-bleus-sauves-par-kylian-mbappe-mais-prives-de-leur-capitaine-blesse-et-forfait_6782641_3242.html",
-      "image": "https://img.lemde.fr/2026/09/25/149/0/4217/2108/644/322/60/0/eea22bf_ftp-1-pfe1lwkxk67q-5184446-01-06.jpg",
-      "publishedAt": "2026-09-25T21:32:47.000Z",
-      "sample": false
-    },
-    {
       "id": "d7mu70",
       "title": "Loïk Le Priol condamné à vingt-six ans de réclusion, Romain Bouvier à dix-neuf ans : « Federico Martin Aramburu a été la victime de l’alchimie funeste de ce duo »",
       "summary": "Après plus de neuf heures de délibéré, vendredi, la cour d’assises de Paris a rendu un verdict qui ne retient pas la préméditation lors du meurtre de l’ex-rugbyman argentin, en mars 2022. La veille, les avocats avaient appelé à ne « pas faire de ce dossier un épouvantail ».",
@@ -68,6 +178,17 @@
       "url": "https://www.lemonde.fr/societe/article/2026/09/25/loik-le-priol-condamne-a-26-ans-de-reclusion-romain-bouvier-a-19-ans-federico-martin-aramburu-a-ete-la-victime-de-l-alchimie-funeste-de-ce-duo_6782640_3224.html",
       "image": "https://img.lemde.fr/2026/09/25/732/0/6192/3096/644/322/60/0/0801f7e_upload-1-hzh4rgehxyy2-000-c7le364.jpg",
       "publishedAt": "2026-09-25T21:30:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "werzse",
+      "title": "Pope Leo XIV welcomed like a rock star at Stade de France near Paris",
+      "summary": "\"For the pope, for God, make some noise!\": Blending gospel and contemporary Christian music, 80,000 young Catholics filled the Stade de France on Friday evening to proclaim their faith. They gave Pope Leo XIV a rock-star welcome as he arrived at the stadium in his 'popemobile'.",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/video/20260925-pope-leo-xiv-welcomed-like-a-rock-star-at-stade-de-france-near-paris",
+      "image": "https://s.france24.com/media/display/f588663c-b923-11f1-a19b-91cf9f3cd539/w:1024/p:16x9/EN-Stade-de-France-thumb00.png",
+      "publishedAt": "2026-09-25T21:06:48.000Z",
       "sample": false
     },
     {
@@ -90,17 +211,6 @@
       "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260925-telecoms-disruption-raises-fears-as-heavy-fighting-strikes-ethiopia",
       "image": "https://s.france24.com/media/display/a6947f2c-b91c-11f1-b040-852b23529bb9/w:1024/p:16x9/ANGL260925-2140-Live-01.jpg",
       "publishedAt": "2026-09-25T20:32:28.000Z",
-      "sample": false
-    },
-    {
-      "id": "19v42a",
-      "title": "« Pas un refuge dans lequel on se replierait pour se protéger de son époque » : à Notre-Dame de Paris, Léon XIV défend une Eglise ouverte au monde",
-      "summary": "Près de 8 000 personnes, 2 500 à l’intérieur de l’église, et 5 000 à l’extérieur, ont acclamé vendredi le chef de l’Eglise catholique, venu célébrer les vêpres dans la cathédrale.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/le-monde-des-religions/article/2026/09/25/pas-un-refuge-dans-lequel-on-se-replierait-pour-se-proteger-de-son-epoque-a-notre-dame-de-paris-leon-xiv-defend-une-eglise-ouverte-au-monde_6782637_6038514.html",
-      "image": "https://img.lemde.fr/2026/09/25/630/0/4202/2101/644/322/60/0/425dbd7_upload-1-jri0ykdkwjlg-az-7633.jpeg",
-      "publishedAt": "2026-09-25T20:06:59.000Z",
       "sample": false
     },
     {
@@ -134,50 +244,6 @@
       "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260925-pope-in-paris-xi-in-dc-ai-at-a-crossroads",
       "image": "https://s.france24.com/media/display/93dacb3a-b911-11f1-9a83-555a0aff87a4/w:1024/p:16x9/Untitled-Sequence-02-1.jpg",
       "publishedAt": "2026-09-25T18:52:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "fuzrq9",
-      "title": "Nouveau dérapage pour la mise en service du métro du Grand Paris Express",
-      "summary": "Après le retard de la ligne 15 communiqué en juin, la Société des grands projets, chargée des travaux, a annoncé, jeudi, un report de l’entrée en service des futures lignes de métro automatiques 16 et 17 actuellement en construction au nord et à l’est de Paris.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/economie/article/2026/09/25/nouveau-derapage-pour-la-mise-en-service-du-metro-du-grand-paris-express_6782632_3234.html",
-      "image": "https://img.lemde.fr/2026/09/25/613/0/6000/3000/644/322/60/0/a724ad6_upload-1-jf6kw4buwggo-000-34um3fm.jpg",
-      "publishedAt": "2026-09-25T18:35:59.000Z",
-      "sample": false
-    },
-    {
-      "id": "jtbjux",
-      "title": "Villas « de style provençal, avec piscine, au cœur d’un parc arboré » : le patrimoine immobilier de Ziad Takieddine au Cap d’Antibes mis en vente",
-      "summary": "Deux demeures de l’affairiste franco-libanais, mort en 2025 et condamné dans l’affaire Karachi, sont mises en vente par l’Agence de gestion et de recouvrement des avoirs saisis et confisqués.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/25/villas-de-style-provencal-avec-piscine-au-c-ur-d-un-parc-arbore-le-patrimoine-immobilier-de-ziad-takieddine-au-cap-d-antibes-mis-en-vente_6782629_3224.html",
-      "image": "https://img.lemde.fr/2020/12/08/99/0/3500/1748/644/322/60/0/76f0b28_fw1-france-lebanon-businessman-1208-11.JPG",
-      "publishedAt": "2026-09-25T18:00:07.000Z",
-      "sample": false
-    },
-    {
-      "id": "j62er3",
-      "title": "Affaire Thélyson Orélien : « Si les IA écrivent de plus en plus comme des humains, les humains écrivent-ils de plus en plus comme des IA ? »",
-      "summary": "Dans une tribune au « Monde », la romancière et traductrice Noëlle Michel accorde le bénéfice du doute à l’écrivain canado-haïtien. L’affaire suscite néanmoins, selon elle, certaines interrogations, notamment sur l’évolution de notre façon d’écrire alors que se diffuse l’intelligence artificielle.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/idees/article/2026/09/25/affaire-thelyson-orelien-si-les-ia-ecrivent-de-plus-en-plus-comme-des-humains-les-humains-ecrivent-ils-de-plus-en-plus-comme-des-ia_6782630_3232.html",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/ab86f61_upload-1-a5cx556gox5e-frame-1013.jpg",
-      "publishedAt": "2026-09-25T18:00:04.000Z",
-      "sample": false
-    },
-    {
-      "id": "qgdnmp",
-      "title": "Au procès en appel des assistants parlementaires du Modem, la plaidoirie brève et efficace des avocats du Parlement européen",
-      "summary": "« Il y a eu fraude », a constaté Mᵉ Maisonneuve, vendredi, rappelant la réglementation. Le Parlement a demandé la confirmation de son préjudice, estimé à 206 000 euros, et réclame 100 000 euros de préjudice moral.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/societe/article/2026/09/25/au-proces-en-appel-des-assistants-parlementaires-du-modem-la-plaidoirie-breve-et-efficace-des-avocats-du-parlement-europeen_6782628_3224.html",
-      "image": "https://img.lemde.fr/2026/07/07/414/0/6000/3000/644/322/60/0/35cd206_ftp-1-8datwaytl7rl-2026-07-07t125743z-1043815101-rc209mano5eo-rtrmadp-3-france-politics-le-pen.JPG",
-      "publishedAt": "2026-09-25T17:55:27.000Z",
       "sample": false
     },
     {
@@ -236,28 +302,6 @@
       "sample": false
     },
     {
-      "id": "z5jwqf",
-      "title": "A Gaza, après vingt ans sans élections, des législatives incertaines dans un territoire exsangue",
-      "summary": "Entre impatience d’un renouvellement politique et défiance envers le Hamas, qu’ils tiennent pour responsable d’avoir provoqué – par les massacres du 7-Octobre – la guerre dévastatrice menée par Israël, les Gazaouis peinent à envisager un vote dans un contexte de destruction et d’insécurité.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/international/article/2026/09/25/a-gaza-apres-vingt-ans-sans-elections-des-legislatives-incertaines-dans-un-territoire-exsangue_6782614_3210.html",
-      "image": "https://img.lemde.fr/2026/09/23/438/0/5915/2957/644/322/60/0/cdd27d1_ftp-1-7rmn1zfyu1ue-2026-09-23t160046z-1490173457-rc2gonavtmoc-rtrmadp-3-israel-palestinians-gaza-building-collapse.JPG",
-      "publishedAt": "2026-09-25T16:30:08.000Z",
-      "sample": false
-    },
-    {
-      "id": "5dtv40",
-      "title": "EN DIRECT, guerre en Ukraine : les attaques russes sur Kiev ont tué au moins sept personnes vendredi, selon le maire de la ville",
-      "summary": "Quarante-six personnes ont aussi été blessées dans la capitale ukrainienne, d’après le nouveau bilan communiqué par Vitali Klitschko.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/international/live/2026/09/25/en-direct-guerre-en-ukraine-les-attaques-russes-sur-kiev-ont-tue-au-moins-sept-personnes-vendredi-selon-le-maire-de-la-ville_6777944_3210.html",
-      "image": "https://img.lemde.fr/2026/09/25/532/0/6382/3191/644/322/60/0/3ca2e4d_ftp-1-q9tpdo7bsr7c-926460ff9cea423d8a6c6577b1f3f158-0-2d699daae3fd490bbb4bc5de92d99321.jpg",
-      "publishedAt": "2026-09-25T16:27:51.000Z",
-      "sample": false
-    },
-    {
       "id": "968w6b",
       "title": "Pope Leon XIV greets crowds on 'popemobile' ride through Paris",
       "summary": "Enthused believers hailed Pope Leo XIV as he waved to the crowds from a 'popemobile' in the French capital on Friday, after speeches calling for peace and warning against losing humanity in an AI-driven \"paradise of machines\". “He’s extraordinary”, said one person in the crowd just after the pope passed by.",
@@ -291,28 +335,6 @@
       "sample": false
     },
     {
-      "id": "aagldu",
-      "title": "Présidentielle 2027 : Yannick Jadot suspendu à titre conservatoire par Les Ecologistes en raison de son soutien à la candidature de Raphaël Glucksmann",
-      "summary": "Les Verts reprochent au sénateur de Paris son soutien officiel au député européen pour 2027, et sa participation annoncée à un débat, prévu le 10 octobre, sous les couleurs de Place publique, face aux Ecologistes.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/politique/article/2026/09/25/presidentielle-2027-yannick-jadot-suspendu-a-titre-conservatoire-par-les-ecologistes-en-raison-de-son-soutien-a-la-candidature-de-raphael-glucksmann_6782601_823448.html",
-      "image": "https://img.lemde.fr/2026/08/25/1218/0/3333/1666/644/322/60/0/a208fe3_upload-1-yh6c7sget5mp-ad015-glucksmann-dsc04204.jpg",
-      "publishedAt": "2026-09-25T15:23:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "fv9ird",
-      "title": "Sécheresse historique : la Garonne en « crise » en amont de Toulouse ; des restrictions d’eau inédites",
-      "summary": "Face à une situation inédite, les autorités imposent des mesures exceptionnelles pour préserver la Garonne, alors que la région subit des records de chaleur et de sécheresse.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/planete/article/2026/09/25/secheresse-historique-la-garonne-en-crise-en-amont-de-toulouse-des-restrictions-d-eau-inedites_6782600_3244.html",
-      "image": "https://img.lemde.fr/2026/09/25/0/0/8145/4072/644/322/60/0/c23fa2e_ftp-1-rzuqvutsbvwu-5180923-01-06.jpg",
-      "publishedAt": "2026-09-25T15:20:15.000Z",
-      "sample": false
-    },
-    {
       "id": "36eebp",
       "title": "America at 250: From the American dream to book bans and AI",
       "summary": "As the United States marks its 250th anniversary, its founding promises, identity and place in the world are being fiercely debated. As the Festival America in Vincennes gets underway, we're putting that question to two acclaimed novelists: New Yorker Taffy Brodesser-Akner, author of \"Long Island Compromise\", and Leban",
@@ -332,6 +354,17 @@
       "url": "https://www.france24.com/en/europe/20260925-eu-vows-to-pursue-%E2%82%AC120-million-fine-on-x-after-us-backs-musk-s-court-challenge",
       "image": "https://s.france24.com/media/display/f01d8900-b8e9-11f1-b5cc-852b23529bb9/w:1024/p:16x9/AP24047480894574.jpg",
       "publishedAt": "2026-09-25T15:01:34.000Z",
+      "sample": false
+    },
+    {
+      "id": "8jcp5m",
+      "title": "🔴 Live: Pope Leo arrives at Notre-Dame after greeting crowds on 'popemobile' procession through Paris",
+      "summary": "",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/europe/20260925-live-pope-france-first-state-visit-18-years",
+      "image": null,
+      "publishedAt": "2026-09-25T14:55:33.000Z",
       "sample": false
     },
     {
@@ -399,42 +432,21 @@
       "image": "https://s.france24.com/media/display/2638ff94-b8e8-11f1-8915-852b23529bb9/w:1024/p:16x9/EN-20260925-143228-143534-CS.jpg",
       "publishedAt": "2026-09-25T14:06:55.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
-      "id": "e3m6by",
-      "title": "'Iran has dragged us into this conflict,' top Emirati diplomat Anwar Gargash says",
-      "summary": "In an interview with FRANCE 24 on the sidelines of the UN General Assembly, Anwar Gargash, senior diplomatic adviser to the UAE president, said Iran \"has dragged us into this conflict\", after the UAE was \"the target of 3,300 missiles and drones\" fired by Iran. After US President Donald Trump said he could either negoti",
+      "id": "lcj9u7",
+      "title": "Pour le président du Medef, la CGT et la CFDT jettent « une ombre suspecte » sur « la démocratie sociale » en combattant le RN",
+      "summary": "Patrick Martin, le numéro un du principal mouvement patronal, s’est dit, jeudi 24 septembre, « très inquiet » de voir les deux syndicats « se politiser à outrance ».",
       "category": "military",
-      "source": "france24",
-      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260925-iran-has-dragged-us-into-this-conflict-top-emirati-diplomat-anwar-gargash-says",
-      "image": "https://s.france24.com/media/display/e0bbfc2c-b8d9-11f1-bdd6-11fa9f8a3b4f/w:1024/p:16x9/2026-09-24-13-05-26.jpg",
-      "publishedAt": "2026-09-25T14:04:57.000Z",
-      "sample": false
-    },
-    {
-      "id": "nb3r6n",
-      "title": "Macron says ‘military resources’ to be sent to Saudi Arabia",
-      "summary": "Speaking to broadcasters TF1 and France 2, French President Emmanuel Macron on Thursday announced that “military resources” will be sent to protect the Yanbu oil site in Saudi Arabia, integral to maintaining the kingdom’s fuel exports and increasingly threatened by Yemen’s Iran-backed Houthi rebels.",
-      "category": "military",
-      "source": "france24",
-      "url": "https://www.france24.com/en/macron-says-military-resources-to-be-sent-to-saudi-arabia",
-      "image": "https://s.france24.com/media/display/09008ee4-b8e6-11f1-869d-c959b9d22ec6/w:1024/p:16x9/EN-Thumbnail-2.jpg",
-      "publishedAt": "2026-09-25T14:04:20.000Z",
-      "sample": false
-    },
-    {
-      "id": "8jcp5m",
-      "title": "🔴 Live: Pope Leo speaks at UNESCO headquarters on first day of visit to France",
-      "summary": "",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/europe/20260925-live-pope-france-first-state-visit-18-years",
-      "image": null,
-      "publishedAt": "2026-09-25T13:39:02.000Z",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/politique/article/2026/09/24/pour-le-president-du-medef-la-cgt-et-la-cfdt-jettent-une-ombre-suspecte-sur-la-democratie-sociale-en-combattant-le-rn_6781574_823448.html",
+      "image": "https://img.lemde.fr/2026/08/26/112/0/5859/2929/644/322/60/0/401d59e_ftp-1-jieagjmbfzq8-2026-08-26t132001z-928994488-rc2d6namy3xt-rtrmadp-3-france-business.JPG",
+      "publishedAt": "2026-09-24T17:56:00.000Z",
       "sample": false
     }
   ],
-  "weekly": [],
   "developing": [
     {
       "id": "za8p5g",
