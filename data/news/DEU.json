@@ -2,8 +2,41 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-27T00:21:29.259Z",
+  "updatedAt": "2026-09-27T06:18:56.810Z",
   "daily": [
+    {
+      "id": "ecp65w",
+      "title": "South Africa: Pair of mass shootings leave dozens dead",
+      "summary": "South African police have launched a search for suspects after 17 people were found dead at a tavern southwest of Johannesburg. A separate shooting in Cape Town left 10 dead.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/south-africa-pair-of-mass-shootings-leave-dozens-dead/a-79447130?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-27T06:08:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "mi4o8o",
+      "title": "Powerful storm batters northeast US, hundreds of flights canceled",
+      "summary": "Hundreds of flights were canceled and thousands were delayed as a nor'easter brought flooding, power cuts and travel disruption to cities like New York, Boston and Philadelphia.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/powerful-storm-batters-northeast-us-hundreds-of-flights-canceled/a-79446676?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-27T03:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xamxa2",
+      "title": "Spain: Thousands protest in Madrid against housing crisis",
+      "summary": "Tens of thousands rallied in the Spanish capital after an 87-year-old woman was dramatically evicted from her home this week. Protesters called for measures to curb rising costs and reduce evictions.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/spain-thousands-protest-in-madrid-against-housing-crisis/a-79446662?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-27T01:53:00.000Z",
+      "sample": false
+    },
     {
       "id": "s8xf3i",
       "title": "Germany news: EU ministers meet for migration showdown",
@@ -104,12 +137,12 @@
       "sample": false
     },
     {
-      "id": "q1hoq2",
-      "title": "Propaganda in Russian schools prepares students to die",
-      "summary": "The Russian government wants children to learn about patriotism from an early age. DW spoke to students in Siberia about their views on propaganda, the war in Ukraine and their future.",
+      "id": "uvdw2c",
+      "title": "Russian students: Propaganda in school prepares them to die",
+      "summary": "The Russian government wants children to learn about patriotism from an early age. DW spoke to students in Siberia about their views on propaganda at school on the war in Ukraine and their future.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/propaganda-in-russian-schools-prepares-students-to-die/a-79417294?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/russian-students-propaganda-in-school-prepares-them-to-die/a-79417294?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-26T11:55:00.000Z",
       "sample": false
@@ -146,7 +179,9 @@
       "image": null,
       "publishedAt": "2026-09-26T07:28:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "hn9lib",
       "title": "Thailand: Bangkok flooding triggers disaster declaration",
@@ -189,41 +224,6 @@
       "url": "https://www.dw.com/en/tiktok-agrees-to-settle-with-alabama-state-over-teen-safety/a-79440240?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-26T03:09:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "j6ndj8",
-      "title": "Yemeni leader calls for general mobilization against Houthis",
-      "summary": "Amid military escalation with the Iran-backed Houthis, the Saudi-backed head of Yemen's governing body urged his compatriots to join the government forces.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/yemeni-leader-calls-for-general-mobilization-against-houthis/a-79439604?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-25T21:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mmpg9t",
-      "title": "Lula or Bolsonaro as president? Brazil gears up to vote",
-      "summary": "Brazilians go to the polls on October 4. The front-runners are multilateralist incumbent Lula da Silva and former President Jair Bolsonaro's son, Flavio, who wants to bring Brazil closer to the US and away from China.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/lula-or-bolsonaro-as-president-brazil-gears-up-to-vote/a-79437276?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-25T20:15:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8d56ii",
-      "title": "Germany news: Parliament approves fuel tax cut",
-      "summary": "German lawmakers hope to drive down fuel prices by cutting taxes on gas and diesel from October 1. Meanwhile, Germany's defense minister visited Budapest to ramp up defense and military ties.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-parliament-approves-fuel-tax-cut/live-79424882?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-25T19:51:00.000Z",
       "sample": false
     },
     {
@@ -653,17 +653,6 @@
       "url": "https://www.dw.com/en/germany-news-doctors-offer-oktoberfest-flu-jabs/live-79335548?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-20T06:43:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "1qrj1y",
-      "title": "Germany: Is it possible to replace the chancellor?",
-      "summary": "Chancellor Friedrich Merz's record-low approval ratings have emboldened his opponents. There are three ways to remove a chancellor from office in Germany.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-is-it-possible-to-replace-the-chancellor/a-79313623?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-20T05:06:00.000Z",
       "sample": false
     }
   ],

@@ -2,8 +2,118 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-09-27T00:21:30.508Z",
+  "updatedAt": "2026-09-27T06:18:57.816Z",
   "daily": [
+    {
+      "id": "lpc0km",
+      "title": "Vatican envoy heads to Russia to discuss humanitarian aspects of Ukrainian settlement",
+      "summary": "On September 28-30, cardinal Matteo Zuppi will hold a series of meetings in the Russian capital to discuss ways to resolve humanitarian issues",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2193529",
+      "image": null,
+      "publishedAt": "2026-09-27T05:36:51.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbtf5d",
+      "title": "Kiev taking 'exhaustive measures' to hinder reconstruction in DPR — Pushilin",
+      "summary": "DPR Head Denis Pushilin emphasized that the adversary is specifically hindering the installation of utility networks and life-support systems in the liberated territories",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2193525",
+      "image": null,
+      "publishedAt": "2026-09-27T04:22:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpc0kg",
+      "title": "Ukraine's public debt reaches roughly $223 bln by late September",
+      "summary": "It has risen by roughly $4-5 billion over the past month",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2193523",
+      "image": null,
+      "publishedAt": "2026-09-27T03:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "venyes",
+      "title": "OpenAI pauses training of advanced AI models over safety concerns — Axios",
+      "summary": "Specialists at OpenAI and Anthropic are currently investigating tens of thousands of incidents that occurred in recent months during testing and real-world deployment",
+      "category": "technology",
+      "source": "tass",
+      "url": "https://tass.com/society/2193521",
+      "image": null,
+      "publishedAt": "2026-09-27T03:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbtf4k",
+      "title": "Ukrainian army redeploys extra forces to Kharkov’s Prikoltnoye, Khatneye — expert",
+      "summary": "\"They are still attempting to punch a hole in the 'fire trap' that has formed there,\" Andrey Marochko said",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2193517",
+      "image": null,
+      "publishedAt": "2026-09-27T03:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpc0jl",
+      "title": "Four US TV networks to resume coverage of Trump events — NYT",
+      "summary": "According to the newspaper, ABC, CBS, Fox News, and NBC will return to their press pool duties on Sunday",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2193513",
+      "image": null,
+      "publishedAt": "2026-09-27T02:15:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbtf4e",
+      "title": "Number of foreign mercenaries in Ukrainian army rises over past months — expert",
+      "summary": "Andrey Marochko noted that these include Latin American citizens, and the number of Polish mercenaries has also risen slightly",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2193511",
+      "image": null,
+      "publishedAt": "2026-09-27T01:53:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "sy6el0",
+      "title": "Boeing identifies software glitch in 737 MAX aircraft — WSJ",
+      "summary": "The software malfunction could lead to a failure of the automated navigation system and potentially pose a safety risk during landing, the newspaper said",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/economy/2193509",
+      "image": null,
+      "publishedAt": "2026-09-27T01:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbtf3n",
+      "title": "Ukrainian fighters covertly abandoning positions in Zaporozhye region — military expert",
+      "summary": "According to Andrey Marochko , this is primarily due to the intense fire Russian forces are directing at units stationed in the Zaporozhye region",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2193505",
+      "image": null,
+      "publishedAt": "2026-09-27T00:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbtf3l",
+      "title": "Lavrov jokingly evades question on Russia’s alleged targeting of Romanian base",
+      "summary": "\"Well, that’s a secret,\" the Russian Foreign Minister said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2193503",
+      "image": null,
+      "publishedAt": "2026-09-27T00:10:00.000Z",
+      "sample": false
+    },
     {
       "id": "lpbzzy",
       "title": "Seven Palestinians killed in Gaza Strip during Israeli attacks — Health Ministry",
@@ -597,7 +707,9 @@
       "image": null,
       "publishedAt": "2026-09-26T07:08:02.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "jgsu54",
       "title": "Air defenses down 645 drones over Russian regions, Black Sea, Sea of Azov overnight",
@@ -609,184 +721,6 @@
       "publishedAt": "2026-09-26T06:13:00.000Z",
       "sample": false
     },
-    {
-      "id": "jgsu5t",
-      "title": "Russian forces strike Novaya Pochta logistics center in Odessa Region",
-      "summary": "Military cargo was stored there for the Ukrainian army, the Russian Defense Ministry reported",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2193227",
-      "image": null,
-      "publishedAt": "2026-09-26T05:57:23.000Z",
-      "sample": false
-    },
-    {
-      "id": "jgsu5v",
-      "title": "Russian Armed Forces hit Cosmonova data center in Kiev",
-      "summary": "It provided the operation of mobile internet and supported the Starlink satellite communication system in the interests of the Ukrainian army, the Russian Defense Ministry reported",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2193225",
-      "image": null,
-      "publishedAt": "2026-09-26T05:42:21.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpbyat",
-      "title": "Iran may allow IAEA inspectors onto its territory — Pezeshkian",
-      "summary": "",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2193209",
-      "image": null,
-      "publishedAt": "2026-09-26T04:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpbyar",
-      "title": "Hormuz should be open in accordance with US-Iran memorandum — Pezeshkian",
-      "summary": "Masoud Pezeshkian noted that Iran is still committed to this memorandum of understanding and willing to implement it",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2193207",
-      "image": null,
-      "publishedAt": "2026-09-26T04:25:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpbyan",
-      "title": "Typhon systems to be deployed to US Kadena base after drills in Japan — Defense Ministry",
-      "summary": "The American side has explained that storing this facility at Kadena air base is not a permanent deployment in Japan",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2193203",
-      "image": null,
-      "publishedAt": "2026-09-26T03:55:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpbyal",
-      "title": "US must show it is not seeking violent change of power in Iran — Pezeshkian",
-      "summary": "\"The first thing that needs to happen is that the distrust created by this war has to be overcome,\" Iranian President Masoud Pezeshkian said",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2193201",
-      "image": null,
-      "publishedAt": "2026-09-26T03:40:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "5mefx4",
-      "title": "Four Italian troops injured during NATO drills in Latvia — Italian Defense Ministry",
-      "summary": "The injured were evacuated from the training ground and taken to a hospital in Riga",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/emergencies/2193199",
-      "image": null,
-      "publishedAt": "2026-09-26T03:15:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "5mefx2",
-      "title": "Another typhoon approaches Japan’s Okinawa, moving towards Tokyo",
-      "summary": "Under the influence of the typhoon, heavy rains are forecast even in the Kanto region, where the capital prefecture of Tokyo is located",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/emergencies/2193197",
-      "image": null,
-      "publishedAt": "2026-09-26T03:03:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "venvm5",
-      "title": "Hormuz blockade to threaten to least 45 million people with food shortages — UN",
-      "summary": "Under-Secretary-General and Director of the UN Office for Project Services Jorge Moreira da Silva stressed that a humanitarian crisis can be avoided if at least five or seven ships carrying fertilizers pass through this strait per day",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/society/2193195",
-      "image": null,
-      "publishedAt": "2026-09-26T02:51:25.000Z",
-      "sample": false
-    },
-    {
-      "id": "5mefwy",
-      "title": "Number of victims of Japan’s typhoon rises to 12",
-      "summary": "Most of them became victims of landslides; some drowned in their submerged vehicles, which got trapped in low-lying areas",
-      "category": "environment",
-      "source": "tass",
-      "url": "https://tass.com/emergencies/2193193",
-      "image": null,
-      "publishedAt": "2026-09-26T02:34:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbtcci",
-      "title": "EU’s reaction to corruption in Ukraine shows Europeans involved in it — envoy",
-      "summary": "Rodion Miroshnik stressed that even the heads of European states are involved in these corruption schemes",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193191",
-      "image": null,
-      "publishedAt": "2026-09-26T02:22:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbtcbv",
-      "title": "Europe to gain from resuming dialogue with Russia before special military operation ends",
-      "summary": "A member of the State Duma Defense Committee Andrey Kolesnik also recalled the Latin saying \"woe to the vanquished\"",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193189",
-      "image": null,
-      "publishedAt": "2026-09-26T02:00:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpbxqu",
-      "title": "Trump tells aides strikes against Iran may resume after November midterms — WSJ",
-      "summary": "The US President is skeptical Iran would meet his demands and has told his staff that he sees a renewed bombing campaign as likely, the newspaper said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2193183",
-      "image": null,
-      "publishedAt": "2026-09-26T01:30:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbtcbn",
-      "title": "West raised terrorists in Kiev capable of making bombs from children's toys — DPR head",
-      "summary": "According to Denis Pushilin, the West’s tacit approval of terrorism is accompanied by support for such technical means, against which there is no full-fledged \"antidote\"",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193181",
-      "image": null,
-      "publishedAt": "2026-09-26T01:07:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbtcb0",
-      "title": "Ukrainian drone attack on southern Russia kills people, wounds one person",
-      "summary": "Kuban Governor Veniamin Kondratyev said that drone debris damaged a residential building and fires broke out on the premises of two enterprises",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193179",
-      "image": null,
-      "publishedAt": "2026-09-26T00:50:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbtcay",
-      "title": "Ukraine cannot make up for losses in Druzhkovka because of Russian pressure — expert",
-      "summary": "Andrey Marochko stressed that almost all the routes leading to Druzhkovka are under tight fire control of the Russian military",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193177",
-      "image": null,
-      "publishedAt": "2026-09-26T00:30:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "xsmer5",
       "title": "Evan Gershkovich Says His Arrest in Russia Was Carefully Planned FSB Sting",

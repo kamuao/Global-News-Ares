@@ -2,8 +2,96 @@
   "id": "GBR",
   "name": "United Kingdom",
   "sample": false,
-  "updatedAt": "2026-09-27T00:21:28.481Z",
+  "updatedAt": "2026-09-27T06:18:55.807Z",
   "daily": [
+    {
+      "id": "5afddh",
+      "title": "Bumblebee project seeking to help rare species",
+      "summary": "The programme to help the Moss carder species will focus on Cornwall, Kent and the North Pennines.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5x129zqx1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff93/live/2bf73a80-b669-11f1-b785-7d19738c6de2.jpg",
+      "publishedAt": "2026-09-27T06:12:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "bcb8ba",
+      "title": "London’s investment bankers and lawyers make more than £1bn in takeover frenzy",
+      "summary": "Bumper fees paid in the year’s mergers and acquisitions spark anger over high City pay during cost of living crisis\nLondon’s investment bankers and lawyers have made more than £1bn from a frenzy of takeover deals this year, sparking anger over high City pay during the cost of living crisis.\nThe value of mergers and acq",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/27/londons-investment-bankers-lawyers-paid-more-than-1bn",
+      "image": "https://i.guim.co.uk/img/media/9a096a200a0b14f95701af3a0dfa7ad217722869/499_0_4267_3415/master/4267.jpg?width=140&quality=85&auto=format&fit=max&s=ba44b3f6da54abffda2b46b7fd0401ed",
+      "publishedAt": "2026-09-27T06:00:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "5rw2on",
+      "title": "NHS trust apologises for Noah Woods data breach",
+      "summary": "East Suffolk and North Essex NHS Foundation Trust has apologised to the family for \"extra anguish\" caused.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cmqjkk55qg25o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0867/live/18be96e0-ba36-11f1-a238-613d75ce6f97.jpg",
+      "publishedAt": "2026-09-27T05:58:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "v2kb45",
+      "title": "Undercover police officer lied to spycops inquiry about sexual relationship",
+      "summary": "Officer forced to admit relationship with woman lasting at least six months while working under fake name Dave Evans\nAn undercover police officer who infiltrated leftwing and animal rights campaign groups appears to have lied to the spycops inquiry when he claimed he did not have a sexual relationship as part of his de",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/27/undercover-police-officer-lied-spycops-inquiry-sexual-relationship",
+      "image": "https://i.guim.co.uk/img/media/9989c60d36949bc600904f31e1e61d347782a38c/422_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=14c239b5d11278a9cc8664cd3cbdb097",
+      "publishedAt": "2026-09-27T05:00:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "w12pwb",
+      "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
+      "summary": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
+      "category": "society",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b47d/live/ccb92dc0-ba1a-11f1-bc1f-3f186ca4140c.jpg",
+      "publishedAt": "2026-09-27T05:00:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "zeirxa",
+      "title": "Bangkok roads submerged as flood disaster declared",
+      "summary": "Authorities said the heavy rains have subsided but the flooding is not yet over.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b19/live/342eea60-b978-11f1-97d9-a9cee45390c5.jpg",
+      "publishedAt": "2026-09-27T04:45:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "j4qpkq",
+      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg",
+      "publishedAt": "2026-09-27T04:23:09.000Z",
+      "sample": false
+    },
+    {
+      "id": "319c84",
+      "title": "Loyalist parade in Northern Ireland given go-ahead as almost 30-year ban overturned",
+      "summary": "Orange Order march along Garvaghy Road scheduled to take place for first time in 28 years after injunction dismissed on appeal\nA controversial loyalist parade along a nationalist street in the Northern Ireland town of Portadown has been permitted to go ahead for the first time in nearly 30 years, after a ban was overtu",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/26/belfast-court-decision-orange-order-march-garvaghy-road",
+      "image": "https://i.guim.co.uk/img/media/fab265b059ccc130c46e0713d3b5baa2e4ecbb15/60_0_3879_3104/master/3879.jpg?width=140&quality=85&auto=format&fit=max&s=4da44be566450f7616f7625362ca738c",
+      "publishedAt": "2026-09-27T02:39:51.000Z",
+      "sample": false
+    },
     {
       "id": "4a9uq5",
       "title": "The Papers: 'Noel's crying his heart out' and 'global IVF disaster'",
@@ -13,28 +101,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cky9zzre1259o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb81/live/0069c3d0-b9fa-11f1-bc1f-3f186ca4140c.jpg",
       "publishedAt": "2026-09-27T00:09:26.000Z",
-      "sample": false
-    },
-    {
-      "id": "m6o8vg",
-      "title": "Protesters gather on Garvaghy Road as Appeal judges overturn ban on Drumcree parade",
-      "summary": "Portadown District Orange Lodge had declined a request from Judge Patricia Smyth to postpone the parade along the Garvaghy Road",
-      "category": "society",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/ckjrxx22wqgdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a10a/live/8c9d1be0-b91e-11f1-b685-519146636d7f.png",
-      "publishedAt": "2026-09-26T23:42:11.000Z",
-      "sample": false
-    },
-    {
-      "id": "319c84",
-      "title": "Loyalist parade in Northern Ireland given go-ahead after ban overturned",
-      "summary": "Orange Order march along Garvaghy Road could take place for first time in 28 years after injunction dismissed on appeal\nA controversial loyalist parade along a nationalist street in Portadown could go ahead for the first time in nearly 30 years, after a ban was overturned late on Saturday night.\nThe Orange Order parade",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/26/belfast-court-decision-orange-order-march-garvaghy-road",
-      "image": "https://i.guim.co.uk/img/media/fab265b059ccc130c46e0713d3b5baa2e4ecbb15/60_0_3879_3104/master/3879.jpg?width=140&quality=85&auto=format&fit=max&s=4da44be566450f7616f7625362ca738c",
-      "publishedAt": "2026-09-26T23:40:04.000Z",
       "sample": false
     },
     {
@@ -71,17 +137,6 @@
       "sample": false
     },
     {
-      "id": "j4qpkq",
-      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-      "summary": "Tens of millions of people from Maine to Virginia are in the path of the powerful storm.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-26T22:04:26.000Z",
-      "sample": false
-    },
-    {
       "id": "pf0jay",
       "title": "The ecstasy of buying our first home was short-lived after we found 150 faults",
       "summary": "Getting the keys to a new home felt like a dream come true, until this couple found 150 faults.",
@@ -90,17 +145,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c2dyxg0zkpko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c1b/live/1fe592b0-ac31-11f1-b483-f5be285e6b7e.jpg",
       "publishedAt": "2026-09-26T20:52:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "w12pwb",
-      "title": "Burnham announces scheme to help first-time buyers on to housing ladder",
-      "summary": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help.",
-      "category": "society",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c5b/live/b607d7b0-b9c1-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-26T18:50:02.000Z",
       "sample": false
     },
     {
@@ -412,17 +456,6 @@
       "sample": false
     },
     {
-      "id": "9om2gf",
-      "title": "Severely disabled young people should get fast-track access to benefits, Milburn says",
-      "summary": "Alan Milburn said 16- to 24-year-olds with most complex needs should not have to keep proving they cannot work\nYoung people whose complex disabilities mean they have little prospect of getting a paid job should get fast-track access to disability benefits, an official review of youth employment will say.\nThe review, by",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/society/2026/sep/26/severely-disabled-young-people-fast-track-benefits-milburn",
-      "image": "https://i.guim.co.uk/img/media/66281b81367d255b075a5f242e6383361e33045c/752_0_3760_3008/master/3760.jpg?width=140&quality=85&auto=format&fit=max&s=5912be3555a1d025d7492b622b1f746d",
-      "publishedAt": "2026-09-26T09:00:32.000Z",
-      "sample": false
-    },
-    {
       "id": "ua11kc",
       "title": "Scottish drivers hit as diesel passes £2 a litre across the country",
       "summary": "Motoring organisation the RAC says it expects the average UK diesel price to hit a new record high over the weekend.",
@@ -453,17 +486,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c9zrzzmez7j5o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bafc/live/e6f7edd0-b956-11f1-a430-4d16ee157c41.jpg",
       "publishedAt": "2026-09-26T07:59:43.000Z",
-      "sample": false
-    },
-    {
-      "id": "zeirxa",
-      "title": "Bangkok roads submerged as flood disaster declared",
-      "summary": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b19/live/342eea60-b978-11f1-97d9-a9cee45390c5.jpg",
-      "publishedAt": "2026-09-26T07:21:30.000Z",
       "sample": false
     },
     {
@@ -498,7 +520,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cda/live/65eabe20-b8cf-11f1-ad1f-538855f30ba1.jpg",
       "publishedAt": "2026-09-26T06:33:02.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "kkt2k7",
       "title": "Coroner appeals to families linked to jailed surgeon",
@@ -519,6 +543,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cqrm90n3m90po?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4967/live/3d9e6b90-b674-11f1-b711-df5e4d50c2fd.jpg",
       "publishedAt": "2026-09-26T06:10:37.000Z",
+      "sample": false
+    },
+    {
+      "id": "x5ja4h",
+      "title": "Labour must reunite progressive voters to win the next election, says Lucy Powell",
+      "summary": "The deputy leader wants the party to take advantage of a split on the right and not be embarrassed to show its values\nLabour must “reunite the progressive voter coalition” if it is to take advantage of a split on the right and win the next election, the party’s deputy leader has said.\nLucy Powell, who won the race to b",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/26/labour-must-reunite-progressive-voters-to-win-the-next-election-says-lucy-powell",
+      "image": "https://i.guim.co.uk/img/media/5dabb769302d1d0cf97dd3c25fbc985d6ee61b05/60_0_2917_2334/master/2917.jpg?width=140&quality=85&auto=format&fit=max&s=3a25036df3915ac4bb9a4b2d5a31ca8a",
+      "publishedAt": "2026-09-26T05:00:29.000Z",
       "sample": false
     },
     {
@@ -575,9 +610,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pc9thk.jpg",
       "publishedAt": "2026-09-26T01:00:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "iaiqpd",
       "title": "Inside iconic horror game Silent Hill's Scottish makeover",
@@ -667,17 +700,6 @@
       "sample": false
     },
     {
-      "id": "28204u",
-      "title": "Burnham pledges extra £210m towards regenerating boarded-up high streets",
-      "summary": "Funds to help local people turn empty shops, pubs and clubs into community hubs, shared workspaces and cafes\nThe UK government has pledged £210m to regenerate high streets by taking boarded-up shops, pubs and clubs and turning them into shared workspaces, cafes and community hubs.\nAndy Burnham said the funds would “hel",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/25/burnham-pledges-extra-210m-regenerate-high-streets",
-      "image": "https://i.guim.co.uk/img/media/34983a3deb797e2bf8522ba39abf422e601be1c9/174_0_4316_3453/master/4316.jpg?width=140&quality=85&auto=format&fit=max&s=f9ca72db3fd4a3689a6ba12321fe732a",
-      "publishedAt": "2026-09-25T18:00:13.000Z",
-      "sample": false
-    },
-    {
       "id": "n7g20g",
       "title": "Earth microbes survive simulated conditions of Saturn moon’s ocean",
       "summary": "Experiment suggests organisms could live in harsh environment under Enceladus’s icy crust, strengthening possibility moon could support life\nFrom the moment scientists spotted plumes of water erupting from Enceladus, one of Saturn’s moons, it became the most tantalising place in the solar system to search for life beyo",
@@ -719,17 +741,6 @@
       "url": "https://www.theguardian.com/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury",
       "image": "https://i.guim.co.uk/img/media/6b683b2fc67e992b40238fe7b14f8c21cac5bd12/463_92_1968_1575/master/1968.jpg?width=140&quality=85&auto=format&fit=max&s=c07fd9190891ad8f2894c67fa3218186",
       "publishedAt": "2026-09-25T16:34:13.000Z",
-      "sample": false
-    },
-    {
-      "id": "na7l8r",
-      "title": "Why Ed Miliband has embraced his ‘awkward dad’ image in viral TikTok video",
-      "summary": "About 1.5 million people have watched footage of foreign secretary that capitalises on social media’s love of a cringe moment\nIt sparked delight among the diehard Milifans and a begrudging smile from those less keen on the foreign secretary, but a viral video of Ed Miliband has – possibly – confirmed his status as the ",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/25/why-ed-miliband-has-embraced-his-awkward-dad-image-in-viral-tiktok-video",
-      "image": "https://i.guim.co.uk/img/media/7662e3abcc40d2fc4c564a7c92e0fc62189debc4/0_1_5000_3998/master/5000.png?width=140&quality=85&auto=format&fit=max&s=1f0642d767df9ff05676e8b8c6fba9d6",
-      "publishedAt": "2026-09-25T16:22:55.000Z",
       "sample": false
     },
     {
