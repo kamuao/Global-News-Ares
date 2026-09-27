@@ -2,8 +2,184 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-27T06:18:59.223Z",
+  "updatedAt": "2026-09-27T18:18:45.134Z",
   "daily": [
+    {
+      "id": "nk4ax0",
+      "title": "Japanese film ‘Muyou no Hito’ wins International Critics Award",
+      "summary": "The film \"Muyou no Hito\" will be released in Japan next January.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/27/japan/japanese-film-wins-critics-award/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565325.jpg",
+      "publishedAt": "2026-09-27T11:54:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "qdojpz",
+      "title": "Chinese research ship spotted in Japan’s EEZ",
+      "summary": "The research ship Kexue was seen dropping what appeared to be a wire into the sea within the EEZ north of Ishigaki Island.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/27/japan/chinese-research-ship-japans-eez/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565323.jpg",
+      "publishedAt": "2026-09-27T11:42:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "9ysxz7",
+      "title": "U.K. prime minister urges ‘calm’ over flash point Northern Ireland parade",
+      "summary": "Northern Ireland was blighted for three decades by conflict between largely Catholic, pro-Irish republicans and Protestant, pro-U.K. unionists.",
+      "category": "society",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/27/world/politics/uk-pm-n-ireland-parade/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565321.jpg",
+      "publishedAt": "2026-09-27T09:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ld2bkc",
+      "title": "Bangkok floods force thousands into shelters",
+      "summary": "Nearly 4,900 people have been evacuated, with around 52,000 households affected by the floods, which prompted a disaster declaration.",
+      "category": "environment",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/27/asia-pacific/bangkok-floods-shelters/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565320.jpg",
+      "publishedAt": "2026-09-27T09:09:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "t5c9ss",
+      "title": "Men arrested in major incident at U.K. air base used by U.S.",
+      "summary": "Tehran has warned that any base used in strikes could be a target, while British ministers have discussed Russian threats to U.K. infrastructure.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/27/world/arrested-incident-uk-air-base-us/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565318.jpg",
+      "publishedAt": "2026-09-27T09:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "5el1jw",
+      "title": "How students in Japan strive to escape the international school bubble",
+      "summary": "With a life spent outside the public school system, some students at international schools struggle to integrate into broader Japanese society.",
+      "category": "society",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/community/2026/09/27/our-lives/international-school-student-bubble/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/564211.jpg",
+      "publishedAt": "2026-09-27T08:44:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "sje1it",
+      "title": "Fury-Joshua fight in doubt as White uncertain over blockbuster bout",
+      "summary": "Tyson Fury said in a video that the fight was in jeopardy because Anthony Joshua was trying to withdraw from the all-British showdown.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/27/more-sports/fury-joshua-dana-white/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565311.jpg",
+      "publishedAt": "2026-09-27T08:44:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "npyebv",
+      "title": "South Africa police hunt suspects after 27 killed in two separate shootings",
+      "summary": "Gang violence and organized crime are major issue in South Africa, which has one of the highest per capita murder rates in the world.",
+      "category": "society",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/27/world/crime-legal/south-africa-shooting/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565314.jpg",
+      "publishedAt": "2026-09-27T08:21:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "67w9c9",
+      "title": "Takaichi looks to dispel alliance doubts after Trump-Xi summit",
+      "summary": "Signs point to Beijing harnessing the symbolism of the U.S.-China leaders' meeting to further bolster its narrative against Japan.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/27/japan/politics/japan-takaichi-china-us-focus/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565302.jpg",
+      "publishedAt": "2026-09-27T08:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "upj9bj",
+      "title": "Japan marks 12th anniversary of Mount Ontake eruption",
+      "summary": "Participants offered silent prayers at 11:52 a.m., the time of the eruption, and placed white chrysanthemums on the flower offering table.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/27/japan/japan-mount-ontake-eruption-anniversary/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565310.jpg",
+      "publishedAt": "2026-09-27T08:15:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fpii9p",
+      "title": "Beyond fins, Japanese firms seeking new values in sharks",
+      "summary": "Their fins are prized in Chinese cuisine but many consumers do not know about other dining options.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/09/27/companies/japan-shark-meat-products/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565299.jpg",
+      "publishedAt": "2026-09-27T07:28:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "vd1w0u",
+      "title": "China sends two giant pandas to U.S.",
+      "summary": "The pandas' transfer had been already agreed but the departure was announced Thursday during Chinese leader Xi Jinping's visit to Washington.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/27/asia-pacific/china-us-pandas/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565296.jpg",
+      "publishedAt": "2026-09-27T06:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "tx9ozl",
+      "title": "Japan’s booming tourism industry struggling to improve sustainability",
+      "summary": "Emissions from the high-polluting tourism sector are hitting Japan's climate goals, but some destinations are finding their own climate solutions.",
+      "category": "environment",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/environment/2026/09/27/sustainability/tourism-sustainability-measures-japan/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/564646.jpg",
+      "publishedAt": "2026-09-27T06:44:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "tuqhis",
+      "title": "South Korea holds nerve to win Asian Games basketball gold over Japan",
+      "summary": "Japan, backed by a noisy crowd in Nagoya, roared back to within two points late in the game until South Korea finally saw out the win.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/27/asian-games/japan-basketball-south-korea-asian-games/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565289.jpg",
+      "publishedAt": "2026-09-27T06:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "o7d7oq",
+      "title": "NHL stars ready to hit ice as league drops puck on expanded 84-game season",
+      "summary": "The road to the Stanley Cup Final in June will be even longer as the NHL expanded its season by two games in an effort to balance out the number of divisional matchups.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/09/27/new-longer-nhl-season/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565165.jpg",
+      "publishedAt": "2026-09-27T06:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "sr5n23",
+      "title": "Germany selects Munich for Olympics host bid",
+      "summary": "Launched as a race between four candidates, it was ultimately a choice between two as Berlin withdrew on Thursday after Hamburg pulled out in May.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/olympics/2026/09/27/germany-munich-olympics-bid/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565286.jpg",
+      "publishedAt": "2026-09-27T06:30:00.000Z",
+      "sample": false
+    },
     {
       "id": "wgsgwx",
       "title": "World champion Spain punishes England errors to win Nations League thriller",
@@ -115,6 +291,17 @@
       "sample": false
     },
     {
+      "id": "iyh7au",
+      "title": "Japan Defense Ministry to support startups in UAV development",
+      "summary": "The three main research targets will be incorporating domestic components, increasing efficiency in supply warehouses and reducing aircraft noise.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/27/japan/politics/japan-defense-uav-startup/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565225.jpg",
+      "publishedAt": "2026-09-27T01:20:00.000Z",
+      "sample": false
+    },
+    {
       "id": "f2l9ij",
       "title": "Trump is setting up the U.N. and its next leader for failure",
       "summary": "The U.N. system is \"rotting from the head down,\" Richard Gowan, an expert at the International Crisis Group said.",
@@ -146,196 +333,8 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565208.jpg",
       "publishedAt": "2026-09-27T00:30:00.000Z",
       "sample": false
-    },
-    {
-      "id": "fkg224",
-      "title": "Heavy rain deals blow to fish and rice farmers in Chiba Prefecture",
-      "summary": "Most of about 50,000 eels cultured by the Inbanuma fisheries cooperative in Narita, Chiba Prefecture, are believed to have died or been swept away.",
-      "category": "society",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/27/japan/japan-chiba-heavy-rain-damage-farming/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565211.jpg",
-      "publishedAt": "2026-09-27T00:28:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2n74po",
-      "title": "Man City chairman strikes defiant tone after club reportedly found guilty of breaking rules",
-      "summary": "News of the decisions reached by an independent commission was widely reported on Friday but no official announcement has been made by the Premier League.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/09/27/soccer/manchester-city-epl-reports-chairman-reacts/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565207.jpg",
-      "publishedAt": "2026-09-27T00:03:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "r0jljk",
-      "title": "Venezuela president returns from U.S. visit with no deals or firm election date",
-      "summary": "It was Venezuelan interim President Delcy Rodriguez's first visit to the U.S. since American forces captured then-President Nicolas Maduro in January.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/27/world/politics/venezuela-president-us-visit-analysis/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565205.jpg",
-      "publishedAt": "2026-09-26T23:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "o1a3i9",
-      "title": "Shin Ohashi leads charge for Team Japan halfway through Asian Games",
-      "summary": "Ohashi led the Japanese delegation with five medals through the first seven days.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/09/27/asian-games/asian-games-japan-halfay/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565206.jpg",
-      "publishedAt": "2026-09-26T23:33:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "7yxu0l",
-      "title": "At U.N., Russia and Germany’s top diplomats hold first talks since 2022",
-      "summary": "The ministers discussed bilateral ties and the war in Ukraine, officials from both sides said.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/27/world/politics/russia-germany-top-diplomats-talks/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565204.jpg",
-      "publishedAt": "2026-09-26T23:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "6bf2q7",
-      "title": "Iran insists on diplomatic solution after Trump rejects peace plan",
-      "summary": "Tehran said it would grant no concessions over its rights, including enriching uranium or shipping it uranium out of the country.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/27/world/politics/iran-trump-rejects-peace-plan/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565203.jpg",
-      "publishedAt": "2026-09-26T23:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "6jxwcl",
-      "title": "‘Shadow Work’ plumbs the depths of domestic violence — and vengeance",
-      "summary": "Ryuhei Yoshino's \"Shadow Work\" is a morally fraught revenge thriller about victims of domestic abuse who dare to fight back.",
-      "category": "health",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/culture/2026/09/27/film/shadow-work/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/564254.jpg",
-      "publishedAt": "2026-09-26T23:10:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "be3h9j",
-      "title": "As temperatures rise, Japan’s sake rice is feeling the heat",
-      "summary": "Scorching summers are changing the way sake rice performs in the brewery. Are new heat-resistant breeds the answer?",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/life/2026/09/27/food-drink/sake-rice-heat-climate-change-hs85-yamada-nishiki/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/564708.jpg",
-      "publishedAt": "2026-09-26T23:05:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fqrwfq",
-      "title": "Waste not, want not with a banana peel-boosted side dish",
-      "summary": "\"Tsukudani\" is already a sweet treat, so adding byproducts of the fruit is a match made in heaven.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/life/2026/09/27/food-drink/banana-peel-tsukudani-kombu-recipe-side-dish/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/564737.jpg",
-      "publishedAt": "2026-09-26T23:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8pj4ix",
-      "title": "‘Numb’ builds a bleak vision of a troubled boyhood",
-      "summary": "Inspired by director Takuya Uchiyama's own experiences, \"Numb\" is an unflinching look at childhood neglect transmuted into adult sorrow.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/culture/2026/09/27/film/numb/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/25/thumbs/400x400/564340.jpg",
-      "publishedAt": "2026-09-26T23:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2jz4l7",
-      "title": "Takaichi says Trump gave her ‘detailed’ briefing on U.S.-China summit",
-      "summary": "Xi's state visit to Washington has left Tokyo concerned that Beijing could seek to bolster its narrative against Japan.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/27/japan/politics/us-japan-takaichi-trump-china/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/27/thumbs/400x400/565202.jpg",
-      "publishedAt": "2026-09-26T21:57:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8m60zs",
-      "title": "11-year-old esports prodigy claims gold at Asian Games",
-      "summary": "Yuki Kurihara is the youngest athlete in Japan's Asian Games history.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/09/26/asian-games/japan-esports-prodigy-asian-games/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/26/thumbs/400x400/565201.jpg",
-      "publishedAt": "2026-09-26T08:35:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lkzea5",
-      "title": "Organizers ‘not satisfied’ by rows of empty seats at Asian Games",
-      "summary": "The 100-meter sprints are one of the highlights of any Games, but the 30,000-capacity Mizuho Park Athletic Stadium appeared to be only about one-quarter full on Friday night.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/09/26/asian-games/asian-games-organizers-seats/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/26/thumbs/400x400/565200.jpg",
-      "publishedAt": "2026-09-26T08:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "aazxvf",
-      "title": "Junglia theme park in Okinawa logs ¥17 billion loss in first year",
-      "summary": "The ¥70 billion park opened last July to high expectations that it would help extend tourist stays and boost the local economy.",
-      "category": "economy",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/26/junglia-okinawa-first-year-loss/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/26/thumbs/400x400/565199.jpg",
-      "publishedAt": "2026-09-26T08:00:00.000Z",
-      "sample": false
     }
   ],
-  "weekly": [
-    {
-      "id": "654x7i",
-      "title": "China and U.S. to open AI ‘communication channel’ after summit",
-      "summary": "U.S. President Donald Trump and Chinese leader Xi Jinping discussed matters ranging from AI and trade to the stalled war in Iran.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/26/world/us-china-ai-communication-line/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/26/thumbs/400x400/565198.jpg",
-      "publishedAt": "2026-09-26T06:03:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "92jg4g",
-      "title": "Japan wary China could use Trump-Xi summit to bolster narrative against Tokyo",
-      "summary": "Prime Minister Sanae Takaichi is believed to be seeking a call with U.S. President Donald Trump to dispel Tokyo's concerns.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/26/japan/politics/japan-trump-xi-summit/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/26/thumbs/400x400/565195.jpg",
-      "publishedAt": "2026-09-26T03:25:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "epg4cz",
-      "title": "When infinity becomes finite: How will Yayoi Kusama’s death influence the art market?",
-      "summary": "There will be no new Kusamas, but rarity is another matter. Her death exposes the very different kinds of scarcity within her vast body of work.",
-      "category": "health",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/culture/2026/09/26/art/yayoi-kusama-posthumous-exhibition-value/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/26/thumbs/400x400/564941.jpg",
-      "publishedAt": "2026-09-26T02:45:00.000Z",
-      "sample": false
-    }
-  ],
+  "weekly": [],
   "developing": []
 }
