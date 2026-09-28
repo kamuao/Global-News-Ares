@@ -2,8 +2,30 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-27T18:18:42.508Z",
+  "updatedAt": "2026-09-28T00:22:58.953Z",
   "daily": [
+    {
+      "id": "7hwbi",
+      "title": "Israel strips Dutch diplomats of status in West Bank",
+      "summary": "The move by the Israeli Foreign Ministry is a response to Dutch sanctions targeting goods from illegal Israeli settlements in the occupied West Bank. The Dutch Foreign Ministry is yet to comment.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/israel-strips-dutch-diplomats-of-status-in-west-bank/a-79451271?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "maet8k",
+      "title": "Serbian President Aleksandar Vucic announces resignation",
+      "summary": "Aleksandar Vucic will now be running to be prime minister in the upcoming snap parliamentary elections slated for next month.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/serbian-president-aleksandar-vucic-announces-resignation/a-79450358?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-27T19:32:00.000Z",
+      "sample": false
+    },
     {
       "id": "5x0d5q",
       "title": "Yemen: Houthis report deadly Saudi strikes on Taiz market",
@@ -27,6 +49,17 @@
       "sample": false
     },
     {
+      "id": "71c2cp",
+      "title": "UK: 5 arrested after 'major incident' near Fairford air base",
+      "summary": "Scores of homes were evacuated in the UK town of Whelford, near an air base used by the US military, with bomb disposal teams checking \"suspicious vehicles\" at the scene. Police said five men had been arrested.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-27T17:45:00.000Z",
+      "sample": false
+    },
+    {
       "id": "9nesvk",
       "title": "Two people killed as bus crashes on way to Oktoberfest",
       "summary": "The bus was traveling from Italy to Munich, carrying 33 Filipino tourists who wanted to visit the famous beer festival. One of the dozens injured remains in life-threatening condition.",
@@ -46,17 +79,6 @@
       "url": "https://www.dw.com/en/pope-decries-scourge-of-sexual-abuse-during-france-visit/a-79449335?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-27T14:32:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "71c2cp",
-      "title": "UK: 5 arrested after 'major incident' near Fairford air base",
-      "summary": "Scores of homes were evacuated in the UK town of Whelford, near an air base used by the US military, with bomb disposal teams checking \"suspicious vehicles\" at the scene. Police said five men had been arrested.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-27T13:50:00.000Z",
       "sample": false
     },
     {
@@ -202,28 +224,6 @@
       "url": "https://www.dw.com/en/backlash-over-data-centers-tests-europe-s-ai-ambitions/a-79419800?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-26T18:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5eahx9",
-      "title": "China, US agree to set up channel for AI safety incidents",
-      "summary": "Following the summit between US President Donald Trump and Chinese President Xi Jinping, the two superpowers pledged to set up a \"communication channel\" for AI incidents and boost coordination on military matters.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/china-us-agree-to-set-up-channel-for-ai-safety-incidents/a-79443351?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-26T16:26:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fyu9x0",
-      "title": "Trump rejects Iran proposal to reopen Strait of Hormuz",
-      "summary": "US President Donald Trump says he has rejected an Iranian proposal to reopen the Strait of Hormuz and put an end to hostilities. \"I'd like to make a deal, too,\" he said. \"But that deal would not be acceptable.\"",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/trump-rejects-iran-proposal-to-reopen-strait-of-hormuz/a-79444893?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-26T16:16:00.000Z",
       "sample": false
     },
     {
@@ -620,28 +620,6 @@
       "url": "https://www.dw.com/en/germany-s-car-crisis-can-the-35-hour-workweek-survive/a-79307488?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-21T08:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "togpjh",
-      "title": "German state elections deal a blow to Chancellor Friedrich Merz",
-      "summary": "Elections in Berlin and Mecklenburg-Western Pomerania have dealt the CDU a historic defeat while the AfD saw a massive gain. The pressure on Germany's unpopular chancellor is mounting.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-20T21:20:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "g3ajkk",
-      "title": "AfD makes gains in state elections but has no government options",
-      "summary": "Despite making significant gains in both Berlin and Mecklenburg-Western Pomerania, the far-right AfD remains without options to form a state government.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/afd-makes-gains-in-state-elections-but-has-no-government-options/a-79348308?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-20T19:58:00.000Z",
       "sample": false
     }
   ],

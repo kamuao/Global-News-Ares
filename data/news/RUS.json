@@ -2,8 +2,140 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-09-27T18:18:43.710Z",
+  "updatedAt": "2026-09-28T00:22:59.992Z",
   "daily": [
+    {
+      "id": "lpc1ha",
+      "title": "Ukraine’s Zelensky says Kiev may ease strikes on Russian oil refineries — Trump",
+      "summary": "The US president said this was his demand to Vladimir Zelensky",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2193697",
+      "image": null,
+      "publishedAt": "2026-09-28T00:04:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpc1h8",
+      "title": "US to win war against Iran, and oil prices to decline, says Trump",
+      "summary": "According to the president, the US has already defeated Iran from a military standpoint",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2193695",
+      "image": null,
+      "publishedAt": "2026-09-27T23:29:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "jgsr14",
+      "title": "Kiev troops bombard Donetsk People’s Republic 11 times over past day",
+      "summary": "There were no reports about casualties among civilians",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2193693",
+      "image": null,
+      "publishedAt": "2026-09-27T22:23:22.000Z",
+      "sample": false
+    },
+    {
+      "id": "sy6fj8",
+      "title": "Russia ready to supply India with as much oil as it needs — ambassador",
+      "summary": "Denis Alipov added that in addition to oil, Russia has been India’s partner for many years in nuclear energy, petrochemical production, and oil refining",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/economy/2193691",
+      "image": null,
+      "publishedAt": "2026-09-27T21:09:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbtg1c",
+      "title": "Russia open to practical proposals from India on Ukraine conflict — ambassador",
+      "summary": "Denis Alipov recalled that for decades, right up until 2022, Russia had done everything possible to persuade NATO to sit down at the negotiating table and agree on common principles of security in Europe",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2193689",
+      "image": null,
+      "publishedAt": "2026-09-27T21:04:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbtg1a",
+      "title": "US will seek to contain India as it grows stronger — Russian ambassador",
+      "summary": "Denis Alipov clarified that earlier this year, at the Raisina Dialogue, a senior US official publicly said that the US would never allow India to become the next China",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2193687",
+      "image": null,
+      "publishedAt": "2026-09-27T21:01:30.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbtg18",
+      "title": "BRICS not opposed to use of US dollar — Russian ambassador to India",
+      "summary": "Denis Alipov added that BRICS provides a platform for developing countries to have a stronger voice in global affairs",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2193685",
+      "image": null,
+      "publishedAt": "2026-09-27T20:57:07.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpc1gb",
+      "title": "Netanyahu seeks ICC case against Erdogan over Kurds, Hamas",
+      "summary": "According to sources cited by i24News, the Israeli prime minister instructed an interagency team to compile the allegations",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2193683",
+      "image": null,
+      "publishedAt": "2026-09-27T20:37:40.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpc1g9",
+      "title": "Over 5,000 join protest against militarization of Netherlands",
+      "summary": "According to the organizers, cited by NOS, the protest, held under the slogan \"Stop the War Fever,\" was the first successful demonstration of its kind",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2193681",
+      "image": null,
+      "publishedAt": "2026-09-27T19:58:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpc1fi",
+      "title": "Vucic announces resignation as Serbian president",
+      "summary": "Snap parliamentary elections in Serbia will be held on October 25",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2193675",
+      "image": null,
+      "publishedAt": "2026-09-27T19:28:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbtg0h",
+      "title": "Lavrov held around 50 meetings in New York — diplomat",
+      "summary": "Of those, 42 were rounds of full-fledged talks",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2193679",
+      "image": null,
+      "publishedAt": "2026-09-27T19:27:37.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbtg0b",
+      "title": "Lavrov dismantles Western narratives at UN, brings West back to reality — diplomat",
+      "summary": "Russian Foreign Ministry Spokeswoman Maria Zakharova noted that Western representatives take historical episodes out of whichever era and context suits them and begin reshaping them to serve their own immediate interests",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2193673",
+      "image": null,
+      "publishedAt": "2026-09-27T18:39:55.000Z",
+      "sample": false
+    },
     {
       "id": "jgsr3j",
       "title": "Russian air defenses down 43 Ukrainian drones during day",
@@ -432,7 +564,9 @@
       "image": null,
       "publishedAt": "2026-09-27T00:55:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "rbtf3l",
       "title": "Lavrov jokingly evades question on Russia’s alleged targeting of Romanian base",
@@ -444,239 +578,6 @@
       "publishedAt": "2026-09-27T00:10:00.000Z",
       "sample": false
     },
-    {
-      "id": "lpbzzy",
-      "title": "Seven Palestinians killed in Gaza Strip during Israeli attacks — Health Ministry",
-      "summary": "Most of the victims were brought from the Sheikh Radwan neighborhood and the Nuseirat refugee camp, where Israeli forces had been conducting intense fire",
-      "category": "health",
-      "source": "tass",
-      "url": "https://tass.com/world/2193499",
-      "image": null,
-      "publishedAt": "2026-09-26T22:50:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpbzzw",
-      "title": "Israeli aircraft launch series of strikes on mountainous areas in southern Lebanon",
-      "summary": "Intense airstrikes targeted underground shelters, command posts, and depots belonging to the Shiite organization Hezbollah on the heights of Jebel al-Rafi, Rayhan, and Sajoud",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2193497",
-      "image": null,
-      "publishedAt": "2026-09-26T22:33:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbtekp",
-      "title": "Ukrainian forces launched 31 attacks on DPR settlements over past 24 hours",
-      "summary": "Three residential buildings, passenger cars, specialized machinery, and three civilian infrastructure facilities sustained damage",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193495",
-      "image": null,
-      "publishedAt": "2026-09-26T21:35:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "9qmf2z",
-      "title": "Ex-Russian sports minister Kolobkov elected FIDE vice-president",
-      "summary": "Kazakhstan’s Timur Turlov was elected president of the global chess body",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/sports/2193493",
-      "image": null,
-      "publishedAt": "2026-09-26T20:45:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbtejy",
-      "title": "Putin’s envoy says Russia, Germany could reopen Nord Stream jointly",
-      "summary": "Kirill Dmitriev noted that AfD is the voice of German people that fights for German energy sovereignty, prosperity, peace and cooperation",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193489",
-      "image": null,
-      "publishedAt": "2026-09-26T20:24:36.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbtejq",
-      "title": "Many analysts say Europe is trying to create Fourth Reich — Lavrov",
-      "summary": "Not to mention that all memory of those who defeated Nazism is being erased from textbooks and through the removal of monuments in a number of European countries, he said.",
-      "category": "health",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193481",
-      "image": null,
-      "publishedAt": "2026-09-26T19:58:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbtej3",
-      "title": "Russia may agree to move S-400s from Turkey to friendly jurisdiction — Lavrov",
-      "summary": "We will be ready to transfer the S-400s to such a country when there is a request, he explained",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193479",
-      "image": null,
-      "publishedAt": "2026-09-26T19:49:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbtej1",
-      "title": "IN BRIEF: Lavrov comments on EU attempts to derail Ukraine settlement, threats to billions",
-      "summary": "Russian Foreign Minister Sergey Lavrov addressed the general debate of the 81st session of the UN General Assembly, touching on Ukraine, the West’s Russophobic and destructive policies, the Middle East and UN reform",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193477",
-      "image": null,
-      "publishedAt": "2026-09-26T19:48:24.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbteiz",
-      "title": "Russia insists Anchorage summit yielded agreement — Lavrov",
-      "summary": "We believe that an agreement was reached in Anchorage and we are still ready to return to it. And Europe is feeling sidelined, Lavrov noted",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193475",
-      "image": null,
-      "publishedAt": "2026-09-26T19:44:13.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbteix",
-      "title": "Europe willingly hands Nazi ashes to Ukraine, knowing it will make show — Lavrov",
-      "summary": "Compliant Europeans willingly handed them over to the Kiev regime, fully aware that they would turn them into a show, he said",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193473",
-      "image": null,
-      "publishedAt": "2026-09-26T19:43:47.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbteiv",
-      "title": "Meeting with Germany’s top diplomat shows Russia ready for dialogue with everyone — Lavrov",
-      "summary": "We are always ready to lend an ear, the Russian foreign minister said, referring to his meeting earlier on Saturday with Johann Wadephul.",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193471",
-      "image": null,
-      "publishedAt": "2026-09-26T19:43:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbtei8",
-      "title": "Ukraine solely responsible for all damage to Black Sea shipping — Lavrov",
-      "summary": "All damage to commercial shipping is caused by Ukrainian terrorist attacks and not only in the Black Sea, but also in the Caspian Sea -- the Caspian Pipeline Consortium, Lavrov said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193469",
-      "image": null,
-      "publishedAt": "2026-09-26T19:42:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbtei6",
-      "title": "Russia has confidential capacity with some EU, NATO nations to exchange opinions — Lavrov",
-      "summary": "We have several channels of communication with a number of EU and NATO countries, and we have the confidential capacity, if you wish, to exchange opinions through bilateral channels, he stated",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193467",
-      "image": null,
-      "publishedAt": "2026-09-26T19:42:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbtei4",
-      "title": "Russia ready to continue dialogue with US — Lavrov",
-      "summary": "We are ready, we will always talk. Especially with countries like the United States. We will always listen and honestly say what we disagree with, he said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193465",
-      "image": null,
-      "publishedAt": "2026-09-26T19:41:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbtei2",
-      "title": "US-Iran Islamabad memorandum is fair deal, worth returning to — Lavrov",
-      "summary": "There was also the Islamabad memorandum, which contained specific agreements, he said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193463",
-      "image": null,
-      "publishedAt": "2026-09-26T19:41:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbtei0",
-      "title": "Russia, US maintain regular dialogue in various formats, Lavrov reveals",
-      "summary": "We maintain regular dialogue with the [US President Donald] Trump administration in various formats. This alone equates to normality, he said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193461",
-      "image": null,
-      "publishedAt": "2026-09-26T19:41:02.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbtehb",
-      "title": "Lavrov says he learned nothing new from German foreign minister's remarks at UN meeting",
-      "summary": "Lavrov stressed that Moscow does not suffer from a lack of trust in the context of the Ukraine negotiation track, but continues to insist that \"one must prove that one is capable of reaching agreements and prove that one can be trusted,\" while Kiev has failed to do so, encouraged by Western representatives",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193457",
-      "image": null,
-      "publishedAt": "2026-09-26T19:40:37.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbteh9",
-      "title": "Lavrov says Guterres’ team promotes double standards, serves Western interests",
-      "summary": "Moscow wants the UN to genuinely become a center for coordinating the interests of all states, as required by its Charter, the foreign minister said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193455",
-      "image": null,
-      "publishedAt": "2026-09-26T19:40:11.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbteh7",
-      "title": "Lavrov says Putin repeatedly said Russia has no intention of going to war with Europe",
-      "summary": "Quite recently, I think it was in St. Petersburg, he reaffirmed that we have no intention of going to war with Europe, Lavrov said",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193453",
-      "image": null,
-      "publishedAt": "2026-09-26T19:39:44.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbteh5",
-      "title": "Russia opposes new ‘Western seats’ on UN Security Council — Lavrov",
-      "summary": "He reiterated support for permanent seats for Brazil and India while meeting Africa's interests in line with the Ezulwini Consensus and Sirte Declaration",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193451",
-      "image": null,
-      "publishedAt": "2026-09-26T19:39:21.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbtegi",
-      "title": "Lavrov sees Europeans preparing for war with Russia",
-      "summary": "It is Europe which is preparing for a war with us, he said",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2193449",
-      "image": null,
-      "publishedAt": "2026-09-26T19:38:59.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "n9arf",
       "title": "Russian and German FMs Meet for First Time Since Ukraine Invasion",
