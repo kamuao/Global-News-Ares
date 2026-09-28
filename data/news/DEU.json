@@ -2,8 +2,41 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-28T00:22:58.953Z",
+  "updatedAt": "2026-09-28T06:21:39.540Z",
   "daily": [
+    {
+      "id": "zbw1tm",
+      "title": "Germany news: Berlin's Left files complaint against Dobrindt",
+      "summary": "Interior Minister Dobrindt could be in legal trouble after he seemed to accuse the Left's Elif Eralp of antisemitism. Domestic intelligence has warned on research cooperation with China. DW has more.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-berlin-s-left-files-complaint-against-dobrindt/live-79453904?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-28T06:19:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "tlrue9",
+      "title": "What would Francis of Assisi make of his fame today?",
+      "summary": "The Catholic saint renounced wealth and fame to become a mendicant friar. Yet over history, his teachings and life have inspired popes, Dante, and even Mussolini.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/what-would-francis-of-assisi-make-of-his-fame-today/a-79346151?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-28T06:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "zcz9yq",
+      "title": "Ukraine, South Korea relations sour over North Korean POWs",
+      "summary": "South Korea has accused Ukraine of breaching a confidentiality agreement over the transfer of North Korean prisoners of war — and of denying the deal's existence. Seoul has demanded an apology.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-south-korea-relations-sour-over-north-korean-pows/a-79451515?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-28T02:32:00.000Z",
+      "sample": false
+    },
     {
       "id": "7hwbi",
       "title": "Israel strips Dutch diplomats of status in West Bank",
@@ -168,7 +201,9 @@
       "image": null,
       "publishedAt": "2026-09-27T07:45:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "tafkzp",
       "title": "Gunmen kill 27 people in two mass shootings in South Africa",
@@ -191,30 +226,6 @@
       "publishedAt": "2026-09-27T04:45:00.000Z",
       "sample": false
     },
-    {
-      "id": "mi4o8o",
-      "title": "Powerful storm batters northeast US, hundreds of flights canceled",
-      "summary": "Hundreds of flights were canceled and thousands were delayed as a nor'easter brought flooding, power cuts and travel disruption to cities like New York, Boston and Philadelphia.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/powerful-storm-batters-northeast-us-hundreds-of-flights-canceled/a-79446676?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-27T03:33:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "xamxa2",
-      "title": "Spain: Thousands protest in Madrid against housing crisis",
-      "summary": "Tens of thousands rallied in the Spanish capital after an 87-year-old woman was dramatically evicted from her home this week. Protesters called for measures to curb rising costs and reduce evictions.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/spain-thousands-protest-in-madrid-against-housing-crisis/a-79446662?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-27T01:53:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "17q5uo",
       "title": "Backlash over data centers tests Europe's AI ambitions",
