@@ -2,8 +2,569 @@
   "id": "GBR",
   "name": "United Kingdom",
   "sample": false,
-  "updatedAt": "2026-09-28T12:20:32.929Z",
+  "updatedAt": "2026-09-29T00:21:17.218Z",
   "daily": [
+    {
+      "id": "tftrlv",
+      "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
+      "summary": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California Sur.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e35/live/359c99e0-bb96-11f1-857e-2582c6806c50.jpg",
+      "publishedAt": "2026-09-28T23:43:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "3xmety",
+      "title": "Burnham to unveil public body to invest in electricity grid",
+      "summary": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0979/live/a9ce1040-bb83-11f1-a7f1-45ae25eeed0b.jpg",
+      "publishedAt": "2026-09-28T23:35:53.000Z",
+      "sample": false
+    },
+    {
+      "id": "xw1opo",
+      "title": "Temperatures to hit 25C in burst of late September warmth",
+      "summary": "Temperatures are expected to rise well above the late September average on Tuesday with a very warm night to follow, as Simon King explains.",
+      "category": "military",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/weather/articles/cqn7438pym51o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df03/live/ff21de30-bb30-11f1-a9b8-670e5d9d8eee.jpg",
+      "publishedAt": "2026-09-28T23:13:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "ngnhe1",
+      "title": "Warning more homes will be uninsurable due to flood risk",
+      "summary": "Aviva boss Amanda Blanc said England was \"for sure\" building homes that might be uninsurable at some point in the future.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec74/live/d048b840-bb3a-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-28T23:10:13.000Z",
+      "sample": false
+    },
+    {
+      "id": "x94t1c",
+      "title": "Unis are offering degrees in content creation for £30,000. But are they worth it?",
+      "summary": "Content creation degrees aim to help people make money from their social media posts.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c61mvy1emr2zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bd8/live/052c6f10-b754-11f1-bc1f-3f186ca4140c.jpg",
+      "publishedAt": "2026-09-28T23:10:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "8f9n0j",
+      "title": "Five UK nationals arrested near RAF Fairford released on bail",
+      "summary": "Police say alleged offences could have been committed ‘knowingly or unknowingly’ on behalf of a foreign state\nFive men arrested over a suspected bomb plot at RAF Fairford have been released on bail as police investigate why they were so close to the airbase in three vans with suspicious material in the back.\nThe five s",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/28/men-arrested-raf-fairford-counter-terrorism-police",
+      "image": "https://i.guim.co.uk/img/media/05f44af803afa7387b36223fe0b5748b9ed7631e/171_0_1101_881/master/1101.jpg?width=140&quality=85&auto=format&fit=max&s=8a697077f15316ceee03c4803235091e",
+      "publishedAt": "2026-09-28T22:02:22.000Z",
+      "sample": false
+    },
+    {
+      "id": "x66yly",
+      "title": "Stroke patient, 80, could be placed in care 100 miles from home",
+      "summary": "John Russell's wife, Teresa, wants to look after him at home with some help - but because he needs 24-hour care he could be placed in a care home in Edinburgh.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yen96l1p6o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ded/live/70a9b560-bb3f-11f1-a9b8-670e5d9d8eee.jpg",
+      "publishedAt": "2026-09-28T22:00:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "ihx9gr",
+      "title": "Orange Order parade dispute continues after main players hold talks",
+      "summary": "A controversial march was due to take place on Sunday morning but was blocked by protesters on the mainly-nationalist Garvaghy Road.",
+      "category": "society",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cmqlwn60yyq9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5ad/live/9ef90bb0-bb52-11f1-a071-65d2e11c8f4a.jpg",
+      "publishedAt": "2026-09-28T21:42:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "i2mi8i",
+      "title": "Questions remain over Iran’s link to alleged RAF Fairford bomb plot",
+      "summary": "Tehran has been trying to step up attacks on targets in the west but its track record has been mixed\nInvestigators may be some way from determining exactly what led five men with three vans to a village just outside RAF Fairford in the small hours of Sunday – but the fact they have all been released on bail without imm",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/28/questions-remain-over-irans-link-to-alleged-raf-fairford-bomb-plot",
+      "image": "https://i.guim.co.uk/img/media/3876d46c2ef3a10833811d68ce60f559ea3c3a55/564_118_3072_2459/master/3072.jpg?width=140&quality=85&auto=format&fit=max&s=d7c8711e8fd679ed439b93d975ba6381",
+      "publishedAt": "2026-09-28T21:36:40.000Z",
+      "sample": false
+    },
+    {
+      "id": "ibnkdz",
+      "title": "Burnham promises to roll back privatisation with government-backed grid plan",
+      "summary": "Exclusive: Creation of GB Grid will be major step towards putting Britain’s utility companies into public control \nAndy Burnham will take his first major step to putting Britain’s utility companies into public control when, at the Labour conference, he announces a new government-backed body to invest in the electricity",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/28/burnham-to-announce-government-backed-body-to-invest-in-electricity-grid",
+      "image": "https://i.guim.co.uk/img/media/9da08b53b1de57c6714b2d31a4823c97299d0378/468_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=7fc83a3f37185da0b72d5274c3ee6478",
+      "publishedAt": "2026-09-28T21:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "oq5evg",
+      "title": "Why UK diesel prices have hit an all-time high",
+      "summary": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg",
+      "publishedAt": "2026-09-28T20:43:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "1v3152",
+      "title": "UK diesel price hits all-time high, the RAC says",
+      "summary": "The US-Israel war with Iran has caused fuel prices to soar due to disruption of global oil supplies.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c7b/live/e8d5cf70-bb20-11f1-bd21-bdf910f2cec6.jpg",
+      "publishedAt": "2026-09-28T20:42:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "anpgk6",
+      "title": "UK tries to stop Trump's diesel export ban",
+      "summary": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/445a/live/ee159a80-bb5a-11f1-b3b3-91d0b491a464.jpg",
+      "publishedAt": "2026-09-28T20:39:31.000Z",
+      "sample": false
+    },
+    {
+      "id": "b549l8",
+      "title": "Cost of green transition could be spread among UK taxpayers, energy secretary suggests",
+      "summary": "Miatta Fahnbulleh says Britain must look at how costs are recovered – and that could mean money off bills\nBillions of pounds worth of green levies could be taken off bills, the energy secretary has said, as the government investigates funding green infrastructure through taxes instead.\nMiatta Fahnbulleh is looking at h",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/28/green-transition-uk-taxpayers-energy-secretary-miatta-fahnbulleh",
+      "image": "https://i.guim.co.uk/img/media/527a2586d713a57183b086e5bc0f342cef1db282/356_0_3888_3110/master/3888.jpg?width=140&quality=85&auto=format&fit=max&s=c0f5e380b46c2b1ae24337d122dda257",
+      "publishedAt": "2026-09-28T19:25:17.000Z",
+      "sample": false
+    },
+    {
+      "id": "c4ug35",
+      "title": "Five men arrested in RAF Fairford incident released on police bail",
+      "summary": "Police are exploring whether proxies or individuals working on behalf of a foreign state are involved.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c6e9elmpvglno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b523/live/4b9ddb40-bb6a-11f1-9ecf-8dd029790cef.jpg",
+      "publishedAt": "2026-09-28T19:16:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "x5h753",
+      "title": "Local representatives question official accounts after suspected bomb plot at RAF Fairford",
+      "summary": "Amid conflicting statements, local MP and councillors demand answers over how suspects were allowed to enter residential areas of nearby village\nAn MP and councillors representing the residents of the village near RAF Fairford who were evacuated due to a suspected terror plot have expressed scepticism and concern over ",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/28/raf-fairford-representatives-sceptical-suspected-bomb-plot",
+      "image": "https://i.guim.co.uk/img/media/e2fa2a94484bf6e10408de19620068b8ed6f33f9/359_0_3545_2835/master/3545.jpg?width=140&quality=85&auto=format&fit=max&s=49f76571b856fb9cba63fc16513b35c4",
+      "publishedAt": "2026-09-28T19:13:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "7avqwg",
+      "title": "Michael Wynn-Jones, husband of Delia Smith, dies aged 85",
+      "summary": "Former journalist and honorary life president of Norwich City FC died peacefully at home on Monday\nMichael Wynn-Jones, the journalist and husband of the TV chef Delia Smith, has died at the age of 85.\nWynn-Jones was honorary life president of Norwich City football club, which said everyone at the club was “deeply sadde",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/28/michael-wynn-jones-dies-aged-85-delia-smith-husband",
+      "image": "https://i.guim.co.uk/img/media/476753424298e1f6206ced50fbc8719ed40b91ea/501_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=8c7a5866cf7b7e02a82dd60bb236a923",
+      "publishedAt": "2026-09-28T19:07:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "e94k75",
+      "title": "‘They will bow’: energy secretary challenges Reform and Tories – podcast",
+      "summary": "Speaking to Pippa Crerar and Kiran Stacey at the Labour party conference in Liverpool, Miatta Fahnbulleh, the energy secretary, said a mark of her success or failure would be whether she could get bills down and said she would do so. She also challenged Reform UK and the Tories on their climate inaction, saying they wo",
+      "category": "environment",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/audio/2026/sep/28/they-will-bow-energy-secretary-challenges-reform-tories-podcast",
+      "image": "https://i.guim.co.uk/img/media/ccb9257c870e0ae456d6a48177cbe0e791b2ece4/519_0_3360_2688/master/3360.jpg?width=140&quality=85&auto=format&fit=max&s=3e654a39b6f9c50d8416858afd405f00",
+      "publishedAt": "2026-09-28T19:03:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "nr0bk9",
+      "title": "Russian foreign minister questions 'what will become of UK' and future of 'the Celts'",
+      "summary": "In response, Plaid Cymru said Wales' future was \"not for the Kremlin to endorse, oppose or exploit\".",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9xk474wxgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34f0/live/ea39d1d0-bb58-11f1-b3b3-91d0b491a464.jpg",
+      "publishedAt": "2026-09-28T18:58:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2uwqf",
+      "title": "Absence of violence in Drumcree does not make standoff any less significant",
+      "summary": "Row comes amid rising division and a tendency towards cynical political posturing in Northern Ireland\nThree decades ago, it took the deaths of three Roman Catholic children – the Quinn brothers, Jason, nine, Mark, 10, and 11-year-old Richard – in a petrol bomb attack to bring an end to the Drumcree dispute. “No road is",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/28/absence-of-violence-in-drumcree-does-not-make-standoff-any-less-significant",
+      "image": "https://i.guim.co.uk/img/media/845bfd6d12ea0fbf2b1af4d7a43c72e2af9930fa/417_0_2083_1667/master/2083.jpg?width=140&quality=85&auto=format&fit=max&s=ca8e950f3ab266f6040efdd73bc5db99",
+      "publishedAt": "2026-09-28T18:37:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "l7g6ic",
+      "title": "What a US diesel export ban could mean for you",
+      "summary": "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e413/live/471b3a50-bb5f-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-28T18:18:30.000Z",
+      "sample": false
+    },
+    {
+      "id": "ljuknx",
+      "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
+      "summary": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3638/live/21935300-bb35-11f1-bd21-bdf910f2cec6.jpg",
+      "publishedAt": "2026-09-28T18:07:25.000Z",
+      "sample": false
+    },
+    {
+      "id": "9ywoiu",
+      "title": "Mahmood signals rethink on migrants' right to remain",
+      "summary": "The home secretary has been under pressure to water down the proposals from some Labour MPs, including Angela Rayner.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cmz7zxdy4gllo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b84/live/2f3fc940-bb60-11f1-bd21-bdf910f2cec6.jpg",
+      "publishedAt": "2026-09-28T18:04:41.000Z",
+      "sample": false
+    },
+    {
+      "id": "6n0cnp",
+      "title": "Aldi boss says some of rivals' loyalty discounts 'dupe' customers",
+      "summary": "Aldi is the only major supermarket chain that doesn't operate a loyalty scheme, which are hugely popular and used by millions of shoppers.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4vkwg8j0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9fb/live/1a3e24c0-bb64-11f1-b3b3-91d0b491a464.jpg",
+      "publishedAt": "2026-09-28T17:45:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "j3guby",
+      "title": "Nandy labels Farage ‘master of conspiracy theory’ over Fairford claims",
+      "summary": "Culture secretary criticises Reform leader after he tried to link suspected bomb plot to small boat crossings\nNigel Farage has been described as a “master of the conspiracy theory” by the culture secretary, Lisa Nandy, after he tried to link events at RAF Fairford to small boat crossings.\nThe Reform UK leader was criti",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/28/nandy-labels-farage-master-of-conspiracy-theory-over-fairford-claims",
+      "image": "https://i.guim.co.uk/img/media/83f7d98f6b0f2798d9120d06763aa97e7701c6ae/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=f0f2de905c37aae2cd8382a7bafa744f",
+      "publishedAt": "2026-09-28T17:16:25.000Z",
+      "sample": false
+    },
+    {
+      "id": "j3vuac",
+      "title": "What is the Budget and what could be in it?",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes in October.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2e/live/b81a2280-b8e8-11f1-ba42-19e1456ae537.jpg",
+      "publishedAt": "2026-09-28T17:14:16.000Z",
+      "sample": false
+    },
+    {
+      "id": "8bquje",
+      "title": "Merseyside blaze that killed mother and three children caused by lithium-ion battery",
+      "summary": "Local fire and rescue service says last week’s tragic incident highlights risks the batteries can pose\nA fire that left a mother and her three children dead was caused by a lithium-ion battery, firefighters in Merseyside have said.\nAn electrical event caused the battery, of a type commonly used in vapes, ebikes and e-s",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/28/merseyside-blaze-killed-mother-three-children-caused-lithium-ion-battery",
+      "image": "https://i.guim.co.uk/img/media/cebdbb16d7a74b7b8f910b0b1d6f8186ad9ddb7b/357_0_5355_4284/master/5355.jpg?width=140&quality=85&auto=format&fit=max&s=54d41f9a3e6305d5a57b38a7eec03b36",
+      "publishedAt": "2026-09-28T17:09:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "cylkgg",
+      "title": "Shabana Mahmood says Labour party wants to create ‘fairness in our immigration system’ – UK politics live",
+      "summary": "She says a lack of fairness can make ‘people turn inwards’\n\nHealey vows to stick to fiscal rules in budget built on hope\n\nLisa O’Carroll is a senior Guardian correspondent.\nThe head of the SDLP, Claire Hanna, has called for an international mediator to resolve the continuing crisis over a unionist parade in a nationali",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
+      "image": "https://i.guim.co.uk/img/media/4ad71437585e4b69878434ff8c7aa85c6e7f48ee/387_0_3857_3087/master/3857.jpg?width=140&quality=85&auto=format&fit=max&s=9c582e953839b6c57264cb73e8c366e2",
+      "publishedAt": "2026-09-28T17:00:36.000Z",
+      "sample": false
+    },
+    {
+      "id": "9hrrlh",
+      "title": "Slipknot fans hit back after Marilyn Manson announced as support act for UK show",
+      "summary": "The heavy metal band will be joined by the US rock musician during their London show.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/ckjw5egyexz8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65a5/live/69d81200-bb4d-11f1-bc1f-3f186ca4140c.jpg",
+      "publishedAt": "2026-09-28T17:00:29.000Z",
+      "sample": false
+    },
+    {
+      "id": "bf92p4",
+      "title": "Five men arrested near RAF Fairford to be released on bail, police say – as it happened",
+      "summary": "Counter terror police say earlier that they arrested five men who were British national in their 20s from London\n\nUK security forces aware of suspected bomb plot, hints defence secretary\n\nRAF Fairford suspected bomb plot: have you been affected?\n\nSpeaking at the Labour party conference in Liverpool, the defence secreta",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/live/2026/sep/28/raf-fairford-counter-terror-police-suspected-bomb-plot-iran-link-investigated-latest-news-updates",
+      "image": "https://i.guim.co.uk/img/media/cdfb6d74fd6d9b9b7cb71ec42d648b22e4678257/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=bfb2e81102f425ccf6b579da7ce56e3f",
+      "publishedAt": "2026-09-28T16:57:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "qqe3iv",
+      "title": "UK needs plan in case of 'unprecedented' AI job losses, says minister",
+      "summary": "Kanishka Narayan says one of his top priorities is to have a plan in place if job losses are as bad as some fear.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cvj64jg5prpgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9b2/live/1a7db2b0-bb4c-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-28T16:47:53.000Z",
+      "sample": false
+    },
+    {
+      "id": "o94dxi",
+      "title": "Watch: Starship splashdown ends in fireball",
+      "summary": "The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/c6j9xkdvrd94o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4186/live/897294e0-bb58-11f1-bc1f-3f186ca4140c.jpg",
+      "publishedAt": "2026-09-28T16:28:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "689u09",
+      "title": "Avanti West Coast to be renationalised in March as ministers float public ownership of new trains",
+      "summary": "Andy Burnham hails nationalisation of much-criticised service between London, Birmingham and Glasgow\nBritain’s biggest intercity rail operator, Avanti West Coast, will be renationalised in spring, ministers have announced, while new trains could also be publicly owned under plans to reduce costs paid to private firms.\n",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/28/avanti-west-coast-to-be-renationalised-in-march",
+      "image": "https://i.guim.co.uk/img/media/6bf709bd79c853ef446a2f15afc4c7a528084c8e/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=2f28c4bc9156add6b6f6c117b975ed1d",
+      "publishedAt": "2026-09-28T16:22:29.000Z",
+      "sample": false
+    },
+    {
+      "id": "m70cqp",
+      "title": "Fossil found on Welsh beach ends 'confusion' over 200-million-year-old fish teeth",
+      "summary": "Fossilised teeth across Europe had been wrongly identified until the latest find in south Wales.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/ckz7zd7nxj73o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3af/live/dd427590-bb3f-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-28T16:04:59.000Z",
+      "sample": false
+    },
+    {
+      "id": "s0z34m",
+      "title": "Palestine has become electoral issue in UK for first time, says solidarity campaign chief",
+      "summary": "Anger over Israel’s war in Gaza is mobilising British voters, according to Aimee Shalan\nPalestine has become a domestic electoral issue in Britain for the first time, according to the incoming head of the country’s largest Palestinian solidarity organisation.\nAimee Shalan, who will take over as director of the Palestin",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/28/palestine-gaza-electoral-issue-uk-israel-aimee-shalan",
+      "image": "https://i.guim.co.uk/img/media/81f9a06865022535549ea6224d3ac49586c2f52e/792_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=8d9cefcb2e958a5b2bbefb0084173341",
+      "publishedAt": "2026-09-28T16:00:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "tm84yk",
+      "title": "Councils to get new homelessness powers in Rayner drive on social housing",
+      "summary": "Charities hail new powers as gamechanger ahead of housing secretary’s speech to Labour conference\nHousing associations in England will be told they cannot decline to house homeless families without good reason, Angela Rayner will tell the Labour conference, as part of a drive for more public control of housing.\nHomeles",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/society/2026/sep/28/angela-rayner-labour-conference-greater-public-control-housing-england",
+      "image": "https://i.guim.co.uk/img/media/131fe23c8b337b87c2b30229341073382015b9cd/178_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=18d2aa2d797e6a916332ce7fd08ce1da",
+      "publishedAt": "2026-09-28T16:00:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "5mlzma",
+      "title": "Mahmood to reopen scheme to resettle refugees in the UK",
+      "summary": "Around 25% of arrivals under the UK Resettlement Scheme are expected to be Afghan women and girls and Palestinians.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c5vgyj8k3dzgo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e06a/live/028a3900-bbf5-11f0-afe7-091f65e80e83.jpg",
+      "publishedAt": "2026-09-28T15:53:30.000Z",
+      "sample": false
+    },
+    {
+      "id": "9jmk6m",
+      "title": "Gene-edited bananas that don’t go brown could hit UK supermarkets",
+      "summary": "Scientific breakthrough could reduce food waste and make it easier to add the fruit to prepackaged food\nIt is the bane of every fruit bowl: sliced banana that turns brown before it has reached the table. But such woes could soon be a thing of the past, with gene-edited bananas that keep their freshly peeled colour now ",
+      "category": "economy",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/science/2026/sep/28/gene-edited-non-browning-banana-britain-shops",
+      "image": "https://i.guim.co.uk/img/media/0e01c3850b876930647f425f439f5944cb11599f/99_0_4836_3869/master/4836.jpg?width=140&quality=85&auto=format&fit=max&s=6b8f585fb134ea798146aea26bdc0406",
+      "publishedAt": "2026-09-28T15:50:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "cprpok",
+      "title": "Shabana Mahmood hints she could water down plans on leave to remain",
+      "summary": "Home secretary under pressure over changes that would make it harder for foreign workers to claim permanent residence\nShabana Mahmood has signalled she could water down her plans to make it harder for foreign workers to claim permanent residence in the UK, amid growing demands for a U-turn from cabinet colleagues and u",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/sep/28/shabana-mahmood-hints-water-down-care-worker-visa-plans",
+      "image": "https://i.guim.co.uk/img/media/f5760bec911bf357bd37ae4b32ceccd49e278c79/0_86_6722_5378/master/6722.jpg?width=140&quality=85&auto=format&fit=max&s=76d9f58636779cf8d826ebea33470caf",
+      "publishedAt": "2026-09-28T15:49:43.000Z",
+      "sample": false
+    },
+    {
+      "id": "s5cknf",
+      "title": "What we know about RAF Fairford counter-terror probe",
+      "summary": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e30/live/3900ff30-bb15-11f1-97b0-3f86b3abbccc.jpg",
+      "publishedAt": "2026-09-28T15:40:24.000Z",
+      "sample": false
+    },
+    {
+      "id": "8hl4vk",
+      "title": "‘Are these chemicals in my blood?’ How one community learned the truth about Pfas pollution",
+      "summary": "People living next to a chemicals plant near Blackpool were tested for ‘forever chemicals’. Last week they received the alarming results\nLast February, I got a call from a woman called Sam Hammond. We had been speaking on and off for a while over her growing concern that her garden could be affected by pollution from a",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/environment/2026/sep/28/blackpool-community-pfas-pollution-forever-chemicals",
+      "image": "https://i.guim.co.uk/img/media/a12604231cb674d295769ca09a0d5fc6bb7117f3/70_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=a7cd31b1e1d4f325f24697c8d2a07795",
+      "publishedAt": "2026-09-28T14:54:50.000Z",
+      "sample": false
+    },
+    {
+      "id": "22gaiq",
+      "title": "What you need to know about Your First Home scheme for first-time buyers",
+      "summary": "Government announcement sparks a rally in FTSE-listed housebuilders, but there are still a lot of unknowns\n\nLabour’s modest reheat of help to buy is worth a try\n\n\nThe government will unveil a fresh scheme to help people on to the housing ladder next month but a debate is already raging over whether it is first-time buy",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/money/2026/sep/28/first-home-scheme-first-time-buyers-what-you-need-to-know",
+      "image": "https://i.guim.co.uk/img/media/ccc05a4d48e3ef0776c3230cd792354caf746390/78_0_1986_1589/master/1986.jpg?width=140&quality=85&auto=format&fit=max&s=7cb2f3b5a61c607207a102992c076d52",
+      "publishedAt": "2026-09-28T14:53:22.000Z",
+      "sample": false
+    },
+    {
+      "id": "sl6qnl",
+      "title": "What will the energy cap changes mean for my bills?",
+      "summary": "The regulator Ofgem says the price cap increases by 4% in October for millions of households.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4155/live/6d965910-59d2-11f1-8b8c-6d33e1d5abb6.jpg",
+      "publishedAt": "2026-09-28T14:20:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "xks2ly",
+      "title": "Aldi to invest £900m in UK and open 40 more stores next year",
+      "summary": "Supermarket chain declares ‘increasing confidence’ in its growth plans after posting record annual revenue of £19bn\n\nBusiness live – latest updates\n\nAldi says it is stepping up investment in the UK with plans to spend £900m and open more than 40 stores.\nThe company, which operates 1,092 budget supermarkets in the UK an",
+      "category": "economy",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/business/2026/sep/28/aldi-900m-investment-uk-open-40-new-supermarkets",
+      "image": "https://i.guim.co.uk/img/media/d7c3ab841de020ea75f826661bc5d2061dc5a2ea/300_0_2899_2319/master/2899.jpg?width=140&quality=85&auto=format&fit=max&s=b0e40d5724835da880f03a3187e73495",
+      "publishedAt": "2026-09-28T14:20:11.000Z",
+      "sample": false
+    },
+    {
+      "id": "ju0ps4",
+      "title": "Bulger killer's parole hearing to be held in private",
+      "summary": "James Bulger's mother Denise Fergus had demanded that the hearing be held in public.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cm86xzdn3y41o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a09/live/d8cc2580-87ea-11f0-b36e-47414de99d82.jpg",
+      "publishedAt": "2026-09-28T14:19:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "3jiq1t",
+      "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
+      "summary": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5257/live/7f188680-bb44-11f1-a430-4d16ee157c41.jpg",
+      "publishedAt": "2026-09-28T13:59:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "hs43be",
+      "title": "Healey offers upbeat vision but sheds little light on how it will be paid for",
+      "summary": "With the budget a month away, chancellor gives little indication in conference speech of where money will come from to reindustrialise Britain\n\nHealey vows to stick to fiscal rules in budget\n\nUK politics live – latest updates\n\n\nJohn Healey cheered the Labour faithful with his first conference speech as chancellor, offe",
+      "category": "economy",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/28/john-healey-chancellor-upbeat-vision-reindustrialise-britain",
+      "image": "https://i.guim.co.uk/img/media/e29cbfb37916041c7bb15737faf3de5e32dd4fe9/209_0_7023_5618/master/7023.jpg?width=140&quality=85&auto=format&fit=max&s=03d4f953f112173448db53bab147306f",
+      "publishedAt": "2026-09-28T13:46:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "im3bzd",
+      "title": "Four ways to keep your energy bills down",
+      "summary": "Household energy bills are due to rise again in October but there are ways to keep a lid on your expenditure.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/026a/live/81f6e9b0-8345-11f0-a34f-318be3fb0481.jpg",
+      "publishedAt": "2026-09-28T13:07:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "h9olti",
+      "title": "Avanti West Coast services to be nationalised from March",
+      "summary": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80b4/live/50e80e00-badd-11f1-a82f-af5731f3a958.jpg",
+      "publishedAt": "2026-09-28T12:52:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "6o53b3",
+      "title": "Watch: Were the arrests near RAF Fairford 'pure luck'?",
+      "summary": "A farmer who called 999 when she saw a group of \"masked men\" near RAF Fairford early on Sunday believes she \"foiled\" their plans by \"pure luck\".",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/cqlyk0p7kdmzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8553/live/3353a070-bb37-11f1-bc1f-3f186ca4140c.jpg",
+      "publishedAt": "2026-09-28T12:47:31.000Z",
+      "sample": false
+    },
+    {
+      "id": "2r633t",
+      "title": "Healey signals welfare reform push and new apprenticeships scheme",
+      "summary": "Chancellor sets out measures to support jobs and growth in conference speech but vows fiscal discipline in budget\n\nAnalysis: Healey offers upbeat vision but little light on how to pay for it\n\nAverage price of diesel on UK forecourts reaches all-time high\n\nJohn Healey has signalled Labour will stage a fresh attempt at w",
+      "category": "economy",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope",
+      "image": "https://i.guim.co.uk/img/media/f91926efdef9934f2f1f3ee6c4e466075ed88a48/1009_783_6044_4835/master/6044.jpg?width=140&quality=85&auto=format&fit=max&s=83f00e53c0625a2a98717b5e650e67f9",
+      "publishedAt": "2026-09-28T12:25:29.000Z",
+      "sample": false
+    },
     {
       "id": "hyv3ka",
       "title": "Lithium-ion battery caused fire that killed mum and 3 children",
@@ -27,116 +588,6 @@
       "sample": false
     },
     {
-      "id": "bf92p4",
-      "title": "RAF Fairford live updates: Five men arrested over suspected bomb plot are UK nationals from London, say counter terror police",
-      "summary": "The counter terror police say the investigation has led to multiple lines of new enquiry\n\nUK security forces aware of suspected bomb plot, hints defence secretary\n\nRAF Fairford suspected bomb plot: have you been affected?\n\nSpeaking at the Labour party conference in Liverpool, the defence secretary, Wes Streeting, said ",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/live/2026/sep/28/raf-fairford-counter-terror-police-suspected-bomb-plot-iran-link-investigated-latest-news-updates",
-      "image": "https://i.guim.co.uk/img/media/b2ced2821ea3ccca7bdff7fefd4c2703cbc16530/503_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=e9afda23c7fae15fc7d14f33454cf084",
-      "publishedAt": "2026-09-28T12:05:33.000Z",
-      "sample": false
-    },
-    {
-      "id": "cylkgg",
-      "title": "John Healey says Labour will stick to fiscal rules in first speech as chancellor – UK politics live",
-      "summary": "The chancellor announced a new local apprenticeship service to boost opportunities for young people\nLisa O’Carroll is a senior Guardian correspondent.\nThe head of the SDLP, Claire Hanna, has called for an international mediator to resolve the continuing crisis over a unionist parade in a nationalist area close to Drumc",
-      "category": "society",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
-      "image": "https://i.guim.co.uk/img/media/5f4418a6224681aca5517921ce9d7fb0af30bbad/140_83_2389_1912/master/2389.jpg?width=140&quality=85&auto=format&fit=max&s=85bfde7dfa2489868caf483e4cd80a44",
-      "publishedAt": "2026-09-28T12:01:05.000Z",
-      "sample": false
-    },
-    {
-      "id": "qieyy0",
-      "title": "Teachers at Euan Blair firm report ‘horrendous stress’ after AI used to rate their work",
-      "summary": "Exclusive: Instructors at tech training company Multiverse hit out at ‘remorseless’ and ‘unnerving’ AI teacher monitoring system\nTeachers at Euan Blair’s £1.6bn tech training company, Multiverse, have blown the whistle about “horrendous stress” and feeling constantly watched after bosses started using AI models to surv",
-      "category": "technology",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/technology/2026/sep/28/teachers-euan-blair-firm-report-horrendous-stress-ai-used-to-rate-their-work",
-      "image": "https://i.guim.co.uk/img/media/f25dae988909db9bba50f245cf9da60048dcd975/0_638_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=b31b863f57d805457720463993ca32e8",
-      "publishedAt": "2026-09-28T11:57:57.000Z",
-      "sample": false
-    },
-    {
-      "id": "8f9n0j",
-      "title": "Five men arrested at RAF Fairford are all UK nationals from London, say police",
-      "summary": "Officers say they have secured extension to continue to hold men, all in their 20s, on suspicion of terror offences\nFive men arrested on suspicion of terror offences at RAF Fairford are all British nationals from London in their 20s, counter-terrorism police have said.\nThe men were pictured on Sunday being apprehended,",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/28/men-arrested-raf-fairford-counter-terrorism-police",
-      "image": "https://i.guim.co.uk/img/media/05f44af803afa7387b36223fe0b5748b9ed7631e/171_0_1101_881/master/1101.jpg?width=140&quality=85&auto=format&fit=max&s=8a697077f15316ceee03c4803235091e",
-      "publishedAt": "2026-09-28T11:56:19.000Z",
-      "sample": false
-    },
-    {
-      "id": "s5cknf",
-      "title": "What we know about RAF Fairford counter-terror probe",
-      "summary": "Five men have been arrested as counter-terror police lead an investigation into a major incident near the airbase.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e30/live/3900ff30-bb15-11f1-97b0-3f86b3abbccc.jpg",
-      "publishedAt": "2026-09-28T11:50:36.000Z",
-      "sample": false
-    },
-    {
-      "id": "oq5evg",
-      "title": "Why UK diesel prices have hit an all-time high",
-      "summary": "The average price of a litre of diesel at the pump stands at 198.32p, according to the RAC motoring body.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/f8d0c8b0-7572-11f1-b976-0b9c15b0ccfc.jpg",
-      "publishedAt": "2026-09-28T11:50:18.000Z",
-      "sample": false
-    },
-    {
-      "id": "m0dag4",
-      "title": "Three people dead, including a child, in attempt to cross Channel to UK",
-      "summary": "Official says deaths – and dozens of injuries – were probably caused by crushing on boat carrying 105 people\nA 10-year-old child and two women died ⁠attempting ​to cross the Channel on Monday, French authorities have said.\nTheir deaths and the injuries of dozens of others in a large dinghy were probably caused by crush",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/28/people-dead-english-channel-crossing",
-      "image": "https://i.guim.co.uk/img/media/e744ebd39ad607be3a4504e184ce68d9c697255e/1062_689_3921_3137/master/3921.jpg?width=140&quality=85&auto=format&fit=max&s=e70fc2caacef1df6f56bb280c0ba73f6",
-      "publishedAt": "2026-09-28T11:45:11.000Z",
-      "sample": false
-    },
-    {
-      "id": "ovn7eb",
-      "title": "Watch: Were the RAF Fairford arrests 'pure luck'?",
-      "summary": "Five men have been arrested on suspicion of explosive and terrorism offences after a major incident was declared at an airbase in the west of England.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/c65ywnl3dvzno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/a2c84de0-bb2b-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-28T11:44:16.000Z",
-      "sample": false
-    },
-    {
-      "id": "c50eix",
-      "title": "Tensions rise as Orange Order members vow to continue with march blocked by police",
-      "summary": "Talks expected on Monday after Sinn Féin leaders join those on streets opposing decision to allow unionist parade for first time since 1998\nTensions between unionist and nationalist leaders in Northern Ireland have escalated as a number of Orange Order members remain at Drumcree church, vowing not to leave until they c",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/sep/27/tense-standoff-loyalist-march-portadown-protesters-block-route",
-      "image": "https://i.guim.co.uk/img/media/ac79818e9efd27d7ae79a6efd56e6224aa79b4f5/618_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=89e7dfa088a93cdf62ecf0f6a2112682",
-      "publishedAt": "2026-09-28T11:42:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "xx8tzv",
-      "title": "Israel does not have right to close UK consulate in Jerusalem, Foreign Office advised",
-      "summary": "Former attorney general Dominic Grieve says Israel is not entitled to shut mission in occupied Palestinian territory\n\nUK politics live – latest updates\n\nIsrael does not have a legal right to act on its plan to close the British consulate in East Jerusalem, the former attorney general Dominic Grieve has advised the UK F",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/28/israel-no-right-close-jerusalem-uk-consulate-foreign-office-advised",
-      "image": "https://i.guim.co.uk/img/media/368aa88866708a8d21ff6b48b9cb902ece0ac78f/936_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=111cfec978f18dacb7607e6dd8bc4c44",
-      "publishedAt": "2026-09-28T11:28:12.000Z",
-      "sample": false
-    },
-    {
       "id": "ig7n14",
       "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
       "summary": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
@@ -145,17 +596,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b94e/live/b987eeb0-bb2a-11f1-971b-5fdf53b135ba.jpg",
       "publishedAt": "2026-09-28T11:16:08.000Z",
-      "sample": false
-    },
-    {
-      "id": "tftrlv",
-      "title": "Mexico's Pacific coast braces for Hurricane Polo",
-      "summary": "The category-four storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bb2/live/28a55460-bb1f-11f1-97b0-3f86b3abbccc.jpg",
-      "publishedAt": "2026-09-28T11:05:49.000Z",
       "sample": false
     },
     {
@@ -194,45 +634,12 @@
     {
       "id": "vqnm79",
       "title": "Price of diesel on UK forecourts reaches all-time high",
-      "summary": "Fallout from Iran conflict continues to drive up bill for motorists with record average cost now at 199.18p a litre\n\nBusiness live – latest updates\n\nThe price of diesel on UK forecourts has hit an all-time high average of 199.18p a litre, as the conflict in the Middle East continues to drive the cost of fuel to record ",
+      "summary": "Fallout from Iran conflict continues to drive up bill for motorists with record average cost now at 199.18p a litre\n\nBusiness live – latest updates\n\nShare your experience of high diesel prices in Shetland and the Outer Hebrides\n\nThe price of diesel on UK forecourts has hit an all-time high average of 199.18p a litre, a",
       "category": "politics",
       "source": "the-guardian",
       "url": "https://www.theguardian.com/money/2026/sep/28/price-of-diesel-on-uk-forecourts-reaches-all-time-high",
       "image": "https://i.guim.co.uk/img/media/e421ea4e90454f0289a447260271fec84cef26ea/929_0_6174_4938/master/6174.jpg?width=140&quality=85&auto=format&fit=max&s=a32c9fa794cdf0457b6ca80258253f32",
       "publishedAt": "2026-09-28T10:45:36.000Z",
-      "sample": false
-    },
-    {
-      "id": "15niv5",
-      "title": "Passports needed for ferry passengers travelling between UK and Ireland",
-      "summary": "Previously, passengers were able to use other forms of ID, such as driving licences and national identity cards.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c51kxdgygjm2o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4f4/live/9f4d5190-bb23-11f1-97b0-3f86b3abbccc.jpg",
-      "publishedAt": "2026-09-28T10:40:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "zhai65",
-      "title": "Wrestler Benjamin Satterley, known as Pac, dies aged 40",
-      "summary": "His death was confirmed just a day after he participated in an AEW match in Chicago.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cmn0749g5gryo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bf2/live/eba9bb50-baf1-11f1-92a4-6d81fdc11f0e.jpg",
-      "publishedAt": "2026-09-28T10:30:22.000Z",
-      "sample": false
-    },
-    {
-      "id": "1v3152",
-      "title": "UK diesel price hits all-time high, RAC says",
-      "summary": "The US-Israel war with Iran has caused fuel prices to soar.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c7b/live/e8d5cf70-bb20-11f1-bd21-bdf910f2cec6.jpg",
-      "publishedAt": "2026-09-28T10:00:18.000Z",
       "sample": false
     },
     {
@@ -266,17 +673,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cqwyzrg7xm2zo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a406/live/752721d0-bb2c-11f1-a9b8-670e5d9d8eee.jpg",
       "publishedAt": "2026-09-28T09:11:30.000Z",
-      "sample": false
-    },
-    {
-      "id": "h9olti",
-      "title": "Avanti West Coast services to be nationalised from March",
-      "summary": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80b4/live/50e80e00-badd-11f1-a82f-af5731f3a958.jpg",
-      "publishedAt": "2026-09-28T09:07:52.000Z",
       "sample": false
     },
     {
@@ -368,28 +764,6 @@
       "sample": false
     },
     {
-      "id": "689u09",
-      "title": "Avanti West Coast to be renationalised in March",
-      "summary": "Rail operator linking London to Birmingham, the north-west and Glasgow had highest number of cancellations across network\nAvanti West Coast will be renationalised in spring, as Andy Burnham declares “enough is enough” for passengers who have put up with a rail service “that has failed them time and time again”.\nThe rai",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/28/avanti-west-coast-to-be-renationalised-in-march",
-      "image": "https://i.guim.co.uk/img/media/6bf709bd79c853ef446a2f15afc4c7a528084c8e/456_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=2f28c4bc9156add6b6f6c117b975ed1d",
-      "publishedAt": "2026-09-28T07:24:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "odi4ak",
-      "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
-      "summary": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44ef/live/05e9aa10-bac1-11f1-b327-372771fd59f2.jpg",
-      "publishedAt": "2026-09-28T07:19:48.000Z",
-      "sample": false
-    },
-    {
       "id": "55rzur",
       "title": "The endangered native ponies of Eriskay in the Outer Hebrides – a photo essay",
       "summary": "Fewer than 400 Eriskay ponies remain. One of the rarest native breeds in the world, their plight is unique because the community living on their tiny Hebridean island are fighting for them. The ponies wander the village and townsfolk care for them together\nOn the slopes of Beinn Sciathan, a rocky outcrop in the Outer H",
@@ -423,28 +797,6 @@
       "sample": false
     },
     {
-      "id": "j8n1sj",
-      "title": "Carer at home investigated by BBC struck off for threatening elderly man",
-      "summary": "Amina Sani, who is Nigerian, was found to have threatened the 81-year-old with police and threatened to hit him.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cm9dwz5d1j77o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4024/live/8334b1a0-ba98-11f1-aa28-a504dd3edde0.jpg",
-      "publishedAt": "2026-09-28T05:18:57.000Z",
-      "sample": false
-    },
-    {
-      "id": "m7l4ce",
-      "title": "How waste food helps families through the week",
-      "summary": "The scheme runs in schools across the West Midlands, including Birmingham and Walsall.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cjqlw1p4pvxgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df2e/live/126cc9e0-b82b-11f1-89f8-b5d404417bc8.jpg",
-      "publishedAt": "2026-09-28T05:15:22.000Z",
-      "sample": false
-    },
-    {
       "id": "rnhwmm",
       "title": "Getting river pollution investigated like 'pulling teeth'",
       "summary": "Bristol residents say an oil-like substance has been bubbling up for years and killing wildlife.",
@@ -467,28 +819,6 @@
       "sample": false
     },
     {
-      "id": "60lcu5",
-      "title": "Felled Sycamore Gap stump has 'encouraging' growth",
-      "summary": "A thick layer of growth surrounds the stump three years after the landmark was illegally felled.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgyxrlve46o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e76/live/376d4b70-ba47-11f1-952f-c5888b744c34.jpg",
-      "publishedAt": "2026-09-28T05:01:06.000Z",
-      "sample": false
-    },
-    {
-      "id": "fnyiyd",
-      "title": "‘You were right’: Ed Miliband tells critics Labour was wrong on Gaza",
-      "summary": "Foreign secretary will tell party’s conference ‘we are not here to accept the status quo but to change it’\nEd Miliband will tell campaigners and party members who raised the plight of Palestinians they were right that Labour’s approach had not been enough, saying he was heeding the calls of millions of people by imposi",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/28/ed-miliband-labour-former-stance-palestine-fell-short",
-      "image": "https://i.guim.co.uk/img/media/657f498d7e96180ec5496f40af22eced44ef945f/396_0_4160_3328/master/4160.jpg?width=140&quality=85&auto=format&fit=max&s=3ef29fb7b82d501ba0cbbb525948e971",
-      "publishedAt": "2026-09-28T04:00:24.000Z",
-      "sample": false
-    },
-    {
       "id": "28zmfu",
       "title": "Shipwreck found on Nantucket beach during storm",
       "summary": "The so-called nor'easter storm has washed up what may be a shipwreck from the 19th century in Massachusetts, local media says.",
@@ -498,7 +828,9 @@
       "image": null,
       "publishedAt": "2026-09-28T01:09:57.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "j4qpkq",
       "title": "One dead as nor'easter storm pummels New York and New Jersey",
@@ -519,17 +851,6 @@
       "url": "https://www.bbc.co.uk/news/articles/crd689de186jo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7eb/live/7686be90-b8cb-11f1-a430-4d16ee157c41.jpg",
       "publishedAt": "2026-09-27T23:05:53.000Z",
-      "sample": false
-    },
-    {
-      "id": "m5st0t",
-      "title": "Failure to protect free speech could cost Labour votes at next election, says Liberty",
-      "summary": "Polling for rights group shows issue is concern for voters and many feel recent policies have had negative effect \nFree speech will be a big concern for voters at the next general election, with the government’s current approach on the issue perceived by many to be bad for Britain, polling suggests.\nThree in five peopl",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/28/protect-free-speech-labour-liberty-poll",
-      "image": "https://i.guim.co.uk/img/media/3cd5fefc9614794b8fef1bc6a1d0fd233c84c860/771_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=8076a1fc4e8f07e425a0c23073dff9ac",
-      "publishedAt": "2026-09-27T23:01:17.000Z",
       "sample": false
     },
     {
@@ -566,36 +887,14 @@
       "sample": false
     },
     {
-      "id": "xl2hpd",
-      "title": "Andy Burnham to fight next election with plan for NHS-style care service",
-      "summary": "PM says he is willing to expend political capital to bring in universal service for England funded by ‘everybody’\n\nAnalysis: can Labour hang on to Burnham bounce?\n\nAndy Burnham will fight the next election with a pledge to finally fix the broken social care system, acknowledging he is willing to expend political capita",
-      "category": "politics",
+      "id": "2mz04l",
+      "title": "UK politics live: Pat McFadden tells Labour activists they should not defend benefits system ‘status quo’ because it ‘writes off’ claimants",
+      "summary": "Work and pensions secretary says the current system is flawed because it consigns too many people to a life on benefits when they would be better off working\n‘I can deliver’: Burnham pledges radical change on eve of Labour conference\nKuenssberg puts it to Burnham that, according to the Health Foundation, a system offer",
+      "category": "health",
       "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-election-nhs-style-care-service-labour-conference",
-      "image": "https://i.guim.co.uk/img/media/5fa7ed79ec65c0c686125d09699c198d78c07958/719_0_7202_5760/master/7202.jpg?width=140&quality=85&auto=format&fit=max&s=862a7a8229bca941aa53eba45eff70fe",
-      "publishedAt": "2026-09-27T18:56:22.000Z",
-      "sample": false
-    },
-    {
-      "id": "ofrck9",
-      "title": "‘Don’t squander it’: Can Labour hang on to the Burnham bounce?",
-      "summary": "Conference delegates grateful ousting Starmer has paid off, but relief tempered by fiscal headwinds ahead\n\nUK politics live – latest updates\n\nEven Andy Burnham’s closest allies accept that deposing Keir Starmer to install their man as leader was a huge political gamble. But if the mood at the Labour party conference in",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/27/burnham-bounce-gives-labour-a-second-chance-but-budget-realities-are-looming",
-      "image": "https://i.guim.co.uk/img/media/b00e18938cdbe0463a1eb8f4957b84919019350c/964_0_6990_5592/master/6990.jpg?width=140&quality=85&auto=format&fit=max&s=50c477b97635ee6d7587f789dfa30071",
-      "publishedAt": "2026-09-27T18:05:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "innh8f",
-      "title": "UK to open new refugee resettlement routes for Afghan women and Palestinians",
-      "summary": "Exclusive: Move by Shabana Mahmood comes after closure of Afghan scheme last year but experts say numbers too small to deter Channel crossings\nShabana Mahmood will announce a new legal route for refugees that prioritises Afghan women and girls and Palestinians, unfreezing a scheme that will put the most vulnerable refu",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/sep/27/shabana-mahmood-uk-refugee-resettlement-scheme-afghan-women-girls-palestinians",
-      "image": "https://i.guim.co.uk/img/media/b7021b246b6be128ec65b4ebe944007c61c2eef6/982_549_3496_2796/master/3496.jpg?width=140&quality=85&auto=format&fit=max&s=83458f62d5b34344601118df1372bd0d",
-      "publishedAt": "2026-09-27T18:00:11.000Z",
+      "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
+      "image": "https://i.guim.co.uk/img/media/8ba2e7292347cd94c03767c5fa1c2d37143b9521/952_0_6990_5592/master/6990.jpg?width=140&quality=85&auto=format&fit=max&s=74ee6211bba04b3789c6b20369f02c5e",
+      "publishedAt": "2026-09-27T17:11:00.000Z",
       "sample": false
     },
     {
@@ -621,6 +920,17 @@
       "sample": false
     },
     {
+      "id": "yo6t7e",
+      "title": "Three in four UK GPs ‘too busy to talk to their patients in depth’",
+      "summary": "Family doctors’ professional body finds the majority have no time to discuss preventative measures \nA friendly chat with your GP about your life, health and happiness was once a key part of the UK’s family doctor service.\nBut most GPs no longer have time to have pastoral conversations, because they are too busy dealing",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/society/2026/sep/27/three-in-four-uk-gps-too-busy-to-talk-to-their-patients-in-depth",
+      "image": "https://i.guim.co.uk/img/media/1cba6dca96336694725679402cbf1349f38140f9/355_0_3561_2848/master/3561.jpg?width=140&quality=85&auto=format&fit=max&s=4d06380ed56be00249616b226c051ec7",
+      "publishedAt": "2026-09-27T14:03:56.000Z",
+      "sample": false
+    },
+    {
       "id": "y9iioa",
       "title": "Monty Don says he may have to let go of his gardeners after leaving BBC",
       "summary": "Presenter reveals corporation has been paying part of their salaries to keep his Herefordshire garden camera-ready\nFor 15 years, viewers have looked in amazement at Monty Don’s beautiful Herefordshire garden, known as Longmeadow, as he hosted the show Gardeners’ World from his own back yard.\nBut now the BBC presenter, ",
@@ -641,9 +951,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c2/live/6fbf72f0-ba6f-11f1-a109-c7409015a263.jpg",
       "publishedAt": "2026-09-27T12:32:51.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "3k385q",
       "title": "Andy Burnham refuses to back third runway at Heathrow",
@@ -686,17 +994,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cmq5x129zqx1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff93/live/2bf73a80-b669-11f1-b785-7d19738c6de2.jpg",
       "publishedAt": "2026-09-27T06:12:48.000Z",
-      "sample": false
-    },
-    {
-      "id": "bcb8ba",
-      "title": "London’s investment bankers and lawyers make more than £1bn in takeover frenzy",
-      "summary": "Bumper fees paid in the year’s mergers and acquisitions spark anger over high City pay during cost of living crisis\nLondon’s investment bankers and lawyers have made more than £1bn from a frenzy of takeover deals this year, sparking anger over high City pay during the cost of living crisis.\nThe value of mergers and acq",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/27/londons-investment-bankers-lawyers-paid-more-than-1bn",
-      "image": "https://i.guim.co.uk/img/media/9a096a200a0b14f95701af3a0dfa7ad217722869/499_0_4267_3415/master/4267.jpg?width=140&quality=85&auto=format&fit=max&s=ba44b3f6da54abffda2b46b7fd0401ed",
-      "publishedAt": "2026-09-27T06:00:56.000Z",
       "sample": false
     },
     {
@@ -774,17 +1071,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cv5yj62zn56yo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9635/live/39a08c10-b80b-11f1-93f5-ff96839fb91e.jpg",
       "publishedAt": "2026-09-26T11:11:16.000Z",
-      "sample": false
-    },
-    {
-      "id": "cgj9mv",
-      "title": "Work intensifying on UK laws to stamp out concert ticket touts, say sources",
-      "summary": "Artists including Tinie Tempah and the Smiths’ drummer Mike Joyce ramp up pressure on government to keep its pledge to outlaw for-profit resales\nThe government has stepped up work on new laws to stop ticket touts fleecing fans, as the prime minister came under pressure from artists including the drummer from the Smiths",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/sep/26/work-intensifying-uk-laws-stamp-out-concert-ticket-touts",
-      "image": "https://i.guim.co.uk/img/media/4fd72db9704698ace7bc4742736969b322a421f1/318_0_4001_3200/master/4001.jpg?width=140&quality=85&auto=format&fit=max&s=b849d7999ba2d0bfd8cae1969f4d9d05",
-      "publishedAt": "2026-09-26T11:00:35.000Z",
       "sample": false
     },
     {
@@ -909,28 +1195,6 @@
       "sample": false
     },
     {
-      "id": "n7g20g",
-      "title": "Earth microbes survive simulated conditions of Saturn moon’s ocean",
-      "summary": "Experiment suggests organisms could live in harsh environment under Enceladus’s icy crust, strengthening possibility moon could support life\nFrom the moment scientists spotted plumes of water erupting from Enceladus, one of Saturn’s moons, it became the most tantalising place in the solar system to search for life beyo",
-      "category": "environment",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/science/2026/sep/25/earth-microbes-survive-conditions-enceladus-saturn-moon-ocean-study",
-      "image": "https://i.guim.co.uk/img/media/dce4933de4a0b1039dcecbc5422421a6d9704035/0_605_4421_3534/master/4421.jpg?width=140&quality=85&auto=format&fit=max&s=3c7d62bcd349cf263dd703c65a1f1f83",
-      "publishedAt": "2026-09-25T18:00:13.000Z",
-      "sample": false
-    },
-    {
-      "id": "lmd7yx",
-      "title": "Space museum launched by Britain's first astronaut",
-      "summary": "Helen Sharman officially opened the John Dulcamara Space Flight Museum at Grizedale Observatory.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/crpd00leqy1go?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d166/live/ff630b70-b8f7-11f1-b57c-437a6c3aeb18.jpg",
-      "publishedAt": "2026-09-25T16:49:09.000Z",
-      "sample": false
-    },
-    {
       "id": "5f7qtw",
       "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
       "summary": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
@@ -975,17 +1239,6 @@
       "sample": false
     },
     {
-      "id": "1ff7gw",
-      "title": "BBC Sport’s digital revamp poses wider questions about purpose of the corporation",
-      "summary": "Some staff fear digital approach will pull BBC towards commercial model built around football, leaving minority sports and older TV viewers behind\nEarlier this month, the BBC conducted a sit-down interview with England’s captain, Harry Kane. In years gone by, a chance to quiz Kane about England’s tournament chances or ",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/media/2026/sep/25/bbc-sport-digital-revamp-raises-questions-over-purpose",
-      "image": "https://i.guim.co.uk/img/media/9edf4fb19dd47b2a036345aab9c1aecea83e8e7e/369_0_3685_2948/master/3685.jpg?width=140&quality=85&auto=format&fit=max&s=4e4343940b8de0e2b03f22f1f28ec8dd",
-      "publishedAt": "2026-09-25T13:26:38.000Z",
-      "sample": false
-    },
-    {
       "id": "s1weh9",
       "title": "NHS to suspend staff suspected of snooping on patient records",
       "summary": "There have been too many cases of staff abusing patient trust, and enough is enough, the head of the NHS in England says.",
@@ -994,28 +1247,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cjr4v9g14vygo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1a3/live/6f930ce0-b8dc-11f1-bc1f-3f186ca4140c.jpg",
       "publishedAt": "2026-09-25T12:47:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "pvkok",
-      "title": "DNA database of UK dogs could help police collar criminals",
-      "summary": "Experts working on database that could identify particular breeds involved in crimes, or rule out canine suspects\nFrom tracking criminals to sniffing out drugs, dogs have long helped police crack cases. Now experts are hoping a database of canine DNA could offer vital leads.\nWhile hair, saliva and other canine material",
-      "category": "society",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/science/2026/sep/25/dna-database-uk-dogs-vital-evidence-police-criminals",
-      "image": "https://i.guim.co.uk/img/media/e7f042ddedec644136049404f2312924231eafd8/457_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=3e5933bf8aecd723a834344e75cf0580",
-      "publishedAt": "2026-09-25T12:00:49.000Z",
-      "sample": false
-    },
-    {
-      "id": "pew8mg",
-      "title": "‘Gamechanging’ brain tumour test reduces diagnosis from eight weeks to two hours",
-      "summary": "NHS England says test can be done while patient is on operating table and is being piloted in five centres around the country\nA rapid new test for brain tumours can diagnose patients while they are still on the operating table.\nScientists have called the development “gamechanging” and said it could secure early treatme",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/society/2026/sep/25/gamechanging-brain-tumour-test-reduces-diagnosis-eight-weeks-two-hours",
-      "image": "https://i.guim.co.uk/img/media/6f4c55cd7ddcba9b79e619500207bbcc8fea7f5c/684_0_4509_3607/master/4509.jpg?width=140&quality=85&auto=format&fit=max&s=8bef3bf1d73532ae4c5e67b17615dbe4",
-      "publishedAt": "2026-09-25T11:53:43.000Z",
       "sample": false
     },
     {
@@ -1096,17 +1327,6 @@
       "sample": false
     },
     {
-      "id": "l5nqpm",
-      "title": "Two-year waiting times highlight NHS struggle with rise in ADHD and autism awareness",
-      "summary": "Assessment bottlenecks have knock-on effects, with delays in medical help and access to specialist support\n• NHS bodies in England impose two-year minimum wait for ADHD and autism assessments\nThat NHS boards have imposed minimum two-year waiting times for attention deficit hyperactivity disorder and autism assessments ",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/society/2026/sep/25/two-year-nhs-waiting-times-reveal-struggle-rise-adhd-autism-awareness",
-      "image": "https://i.guim.co.uk/img/media/d8a30509368edb4ddd569bcf88437a85b24b566c/624_0_3120_2496/master/3120.jpg?width=140&quality=85&auto=format&fit=max&s=a3e6b0f6417f3e5540229f50dd5b79e5",
-      "publishedAt": "2026-09-25T06:32:13.000Z",
-      "sample": false
-    },
-    {
       "id": "51ddlf",
       "title": "FA Cup assistant ref says tumours ended his career",
       "summary": "Dan Robathan says he needs time to \"grieve\" his career.",
@@ -1126,17 +1346,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cm9w4n9lrr8eo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57d5/live/60d82060-b36d-11f1-a430-4d16ee157c41.jpg",
       "publishedAt": "2026-09-25T05:28:27.000Z",
-      "sample": false
-    },
-    {
-      "id": "fajcw1",
-      "title": "Capital gains tax: how it works, and the pros and cons of another rise",
-      "summary": "Increasing the rate of CGT is one of the levers available to the chancellor as he considers revenue-raising options\nCapital gains tax (CGT) has been widely cited as a possible revenue-raiser as the chancellor, John Healey, prepares to deliver a tough budget next month. How does it work, and what are the pros and cons o",
-      "category": "economy",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/money/2026/sep/25/capital-gains-tax-how-it-works-benefits-and-pitfalls-of-another-hike",
-      "image": "https://i.guim.co.uk/img/media/c21bc46d851c6603c7097051d1984ed14453b9e9/553_478_3462_2770/master/3462.jpg?width=140&quality=85&auto=format&fit=max&s=6ac0eb07ff23c541a840ac9a89005f43",
-      "publishedAt": "2026-09-25T05:00:40.000Z",
       "sample": false
     },
     {
@@ -1203,17 +1412,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a1b/live/c8b49cd0-b053-11f1-89e4-0bbff5cb7e23.png",
       "publishedAt": "2026-09-24T23:00:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "i2bx9o",
-      "title": "Toxic waste: 'Every person that played in the pool is dead'",
-      "summary": "Michael Phillips played at a lagoon as a child, oblivious to the toxic chemicals within.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/cqkgv3dr5gjeo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21e6/live/33b26ae0-b819-11f1-bc1f-3f186ca4140c.jpg",
-      "publishedAt": "2026-09-24T22:10:35.000Z",
       "sample": false
     },
     {
@@ -1305,17 +1503,6 @@
       "sample": false
     },
     {
-      "id": "deo7ey",
-      "title": "Elephants use medicinal plants to treat themselves, researchers find",
-      "summary": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick, research reveals.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a1a/live/57752de0-b667-11f1-b785-7d19738c6de2.jpg",
-      "publishedAt": "2026-09-24T11:42:42.000Z",
-      "sample": false
-    },
-    {
       "id": "noau6o",
       "title": "Are we back in big tech's 'move fast and break things' era?",
       "summary": "Despite promises to make safe AI, examples of bots behaving badly are now coming at us thick and fast.",
@@ -1357,17 +1544,6 @@
       "url": "https://www.bbc.co.uk/videos/cm70dy5e055jo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55a3/live/c9403830-b7ec-11f1-bc1f-3f186ca4140c.jpg",
       "publishedAt": "2026-09-24T07:23:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "kktpmd",
-      "title": "‘Cash to trash’ levy on house developers too low to offset damage to Norfolk Broads, say critics",
-      "summary": "Exclusive: Levy that allows almost 16,000 houses to be built on Norfolk Broads will not cover cost of mitigating environmental damage, critics say\nA new levy on developers to allow almost 16,000 homes to be built in the environmentally protected Norfolk Broads has been cut by tens of thousands of pounds per house, the ",
-      "category": "environment",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/24/cash-to-trash-levy-house-developers-too-low-offset-nature-damage",
-      "image": "https://i.guim.co.uk/img/media/4a6626810103c1e9e1f4510cfe996cfe77e6191f/448_0_4483_3587/master/4483.jpg?width=140&quality=85&auto=format&fit=max&s=dac054cff26ec2345c225f17b9489cdb",
-      "publishedAt": "2026-09-24T06:00:09.000Z",
       "sample": false
     },
     {
@@ -1423,17 +1599,6 @@
       "url": "https://www.bbc.co.uk/news/videos/c34gdygn5lqpo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/801a/live/bba851a0-b790-11f1-b1d1-571ed4d7ff2c.jpg",
       "publishedAt": "2026-09-23T21:29:04.000Z",
-      "sample": false
-    },
-    {
-      "id": "n5x3n6",
-      "title": "UK shares findings of damning climate crisis national security report suppressed under Starmer",
-      "summary": "El Niño poses critical threat to nations’ defences, says Ed Miliband in presentation to global foreign ministers\nThe UK has warned countries around the world that the climate and nature crises and the coming El Niño threaten their national security and defence, presenting foreign ministries with the findings of a repor",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/23/uk-climate-crisis-national-security-report-suppressed-starmer-ed-miliband",
-      "image": "https://i.guim.co.uk/img/media/08041ea62dcfb568f0c9e5d9d7a877b6b2bbdd98/0_53_4141_3314/master/4141.jpg?width=140&quality=85&auto=format&fit=max&s=f3188489f0a302947b745863d476706b",
-      "publishedAt": "2026-09-23T21:21:33.000Z",
       "sample": false
     },
     {
@@ -1567,28 +1732,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f5f/live/45cbd1b0-b271-11f1-b1d1-571ed4d7ff2c.jpg",
       "publishedAt": "2026-09-22T09:11:48.000Z",
       "sample": false
-    },
-    {
-      "id": "lqdyek",
-      "title": "Invitation for men to 'experience hot flushes'",
-      "summary": "A MenoVest will allow people at an event in Hull to experience one of the symptoms of the menopause.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cwn8mp7kj9gjo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8709/live/327ba880-b5bc-11f1-8d1d-a985658d9d3a.jpg",
-      "publishedAt": "2026-09-21T17:07:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "er6z1b",
-      "title": "Can Andy Burnham pull off the ‘Mamdani effect’ on Donald Trump? – podcast",
-      "summary": "The UK prime minister will meet the US president for the first time in New York on Tuesday. With Trump at his weakest in the polls, could this be a perfect moment for Burnham to charm the president and avoid a very public political spat? Pippa and Kiran discuss what the two leaders might discuss in policy terms, and so",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/audio/2026/sep/21/andy-burnham-meet-new-york-donald-trump-podcast",
-      "image": "https://i.guim.co.uk/img/media/e0f396214eee36167d6dc43043c9013803feb65b/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=a9012fc2ccc9861cd5baf89f1a212d04",
-      "publishedAt": "2026-09-21T15:52:48.000Z",
-      "sample": false
     }
   ],
   "developing": [
@@ -1633,7 +1776,7 @@
       "source": "bbc-news",
       "url": "https://www.bbc.co.uk/news/articles/c85ydnwqpzyzo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e30/live/3900ff30-bb15-11f1-97b0-3f86b3abbccc.jpg",
-      "publishedAt": "2026-09-28T11:50:36.000Z",
+      "publishedAt": "2026-09-28T15:40:24.000Z",
       "sample": false
     },
     {
