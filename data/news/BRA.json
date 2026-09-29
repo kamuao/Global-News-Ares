@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-09-29T00:21:22.313Z",
+  "updatedAt": "2026-09-29T18:21:40.063Z",
   "daily": [
+    {
+      "id": "hqv1ij",
+      "title": "Brazil Sues Betting Companies, Seeks $191 million in Damages and Reimbursement for Public Healthcare System",
+      "summary": "Brazil's Attorney General's Office filed a lawsuit against 17 betting companies seeking at least R$1 billion ($191 million) in damages for collective moral harm and reimbursement for expenses incurred by the Unified Health System (SUS) in treating people affected by gambling addiction. According to the agency, the bett",
+      "category": "health",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/09/government-sues-betting-companies-seeks-191-million-in-damages-and-reimbursement-for-public-healthcare-system.shtml",
+      "image": null,
+      "publishedAt": "2026-09-29T16:10:00.000Z",
+      "sample": false
+    },
     {
       "id": "bl6sl2",
       "title": "Drought Threatens Water Supply in Northeast and Power Supply in Amazon",
@@ -25,7 +36,9 @@
       "image": null,
       "publishedAt": "2026-09-28T21:58:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "nmmu0b",
       "title": "In Its Third Edition in Brazil, the NFL Fully Embraces Brazilian Identity",
@@ -58,9 +71,7 @@
       "image": null,
       "publishedAt": "2026-09-28T14:52:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "nxt68c",
       "title": "Messages Point to Close Relationship Between Brazil's Senate President and Imprisoned Former Banker",
@@ -147,17 +158,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/09/cia-linked-organization-to-train-and-fund-world-bank-staff-in-brazil.shtml",
       "image": null,
       "publishedAt": "2026-09-23T14:47:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mwvt3r",
-      "title": "Ukraine Seeks to Bypass Lula's Veto to Buy Embraer Fighter Aircraft",
-      "summary": "Ukraine has resumed negotiations to buy Embraer Super Tucano light attack aircraft, seeking to bypass President Lula's veto on supplying weapons to Kyiv. In 2022, under Bolsonaro, the request had already been denied due to trade relations between Bras�lia and Moscow, and Lula refused to reopen the issue in 2023.\nLeia m",
-      "category": "military",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/ukraine-seeks-to-bypass-lulas-veto-to-buy-embraer-fighter-aircraft.shtml",
-      "image": null,
-      "publishedAt": "2026-09-22T10:27:00.000Z",
       "sample": false
     }
   ],
