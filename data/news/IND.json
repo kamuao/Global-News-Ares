@@ -2,8 +2,382 @@
   "id": "IND",
   "name": "India",
   "sample": false,
-  "updatedAt": "2026-09-29T18:21:39.161Z",
+  "updatedAt": "2026-09-30T00:22:27.895Z",
   "daily": [
+    {
+      "id": "lk1g38",
+      "title": "Supreme Court to hear plea for CEC’s suspension, voiding SIR next week",
+      "summary": "",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/india/supreme-court-to-hear-plea-for-cecs-suspension-voiding-sir-next-week/articleshow/134576542.cms",
+      "image": "https://static.toiimg.com/photo/msid-134576584,imgsize-69186.cms",
+      "publishedAt": "2026-09-29T23:49:17.000Z",
+      "sample": false
+    },
+    {
+      "id": "7mkxtk",
+      "title": "‘Bigger than internet’: Trump officially renames AI as ‘super intelligence’",
+      "summary": "US President Donald Trump has officially signed an executive order that replaces the term 'Artificial Intelligence' with 'Super Intelligence.' This shift mandates federal agencies to update their communications accordingly, showcasing the evolving technological landscape. At a White House gathering with tech executives",
+      "category": "technology",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/world/us/bigger-than-the-internet-trump-officially-renames-ai-as-super-intelligence/articleshow/134576549.cms",
+      "image": "https://static.toiimg.com/photo/msid-134576556,imgsize-118862.cms",
+      "publishedAt": "2026-09-29T23:40:28.000Z",
+      "sample": false
+    },
+    {
+      "id": "vrjd6q",
+      "title": "‘Court must protect liberty of accused if trial may be delayed’, says Supreme Court",
+      "summary": "",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/india/court-must-protect-liberty-of-accused-if-trial-may-be-delayed/articleshow/134576518.cms",
+      "image": "https://static.toiimg.com/photo/msid-134576523,imgsize-150668.cms",
+      "publishedAt": "2026-09-29T23:27:31.000Z",
+      "sample": false
+    },
+    {
+      "id": "db820h",
+      "title": "Pentagon Signs $20 Billion Boeing Deal For 6th-Generation Strike Fighter",
+      "summary": "The Pentagon has chosen Boeing to build the Navy's next-generation strike fighter weapon in a contract valued at $20 billion, US officials announced Tuesday.",
+      "category": "military",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/world-news/pentagon-signs-20-billion-boeing-deal-for-6th-generation-strike-fighter-12117289#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/6j53f1kg_boeing-logo_625x300_30_September_26.jpeg",
+      "publishedAt": "2026-09-29T23:09:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "ryw8m9",
+      "title": "Supreme Court imposes 10 lakh cost on UP government for illegal NSA detention",
+      "summary": "",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/india/supreme-court-imposes-10-lakh-cost-on-up-government-for-illegal-nsa-detention/articleshow/134576449.cms",
+      "image": "https://static.toiimg.com/photo/msid-134576466,imgsize-150668.cms",
+      "publishedAt": "2026-09-29T22:50:23.000Z",
+      "sample": false
+    },
+    {
+      "id": "uti592",
+      "title": "Zubeen Garg Death Case: 2 Security Officers Get Relief, But Remain In Jail",
+      "summary": "The two had been arrested in the case and were in custody in connection with allegations relating to Garg's property and financial transactions.",
+      "category": "politics",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/zubeen-garg-death-case-2-security-officers-get-relief-but-remain-in-jail-12117275#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/2utvpa98_zubeen-garg-security-officers_625x300_30_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-09-29T22:50:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "l6jeq4",
+      "title": "India warns US about cosying up to Pakistan, says could impact ties",
+      "summary": "EAM flags lack of empathy on terror concerns",
+      "category": "military",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/india/as-us-cozies-up-to-pakistan-india-warns-it-could-impact-ties/articleshow/134576433.cms",
+      "image": "https://static.toiimg.com/photo/msid-134576443,imgsize-73348.cms",
+      "publishedAt": "2026-09-29T22:35:53.000Z",
+      "sample": false
+    },
+    {
+      "id": "aa3tn8",
+      "title": "\"Much Bigger...\": Trump Announces US To Rename AI To 'Super Intelligence'",
+      "summary": "Trump also emphasized the infrastructure needed to support advanced computing, noting that tech firms must actively collaborate with and support local towns hosting data centers.",
+      "category": "technology",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/world-news/donald-trump-announces-us-to-rename-ai-to-super-intelligence-12117259#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/qt2vfeeg_donald-trump_625x300_30_September_26.jpeg",
+      "publishedAt": "2026-09-29T22:29:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "m70hu6",
+      "title": "Florida clears $100m-plus surf park with 6-acre wave lagoon miles from ocean",
+      "summary": "",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/world/us/florida-officials-have-cleared-the-way-for-a-100-million-plus-surf-park-where-developers-plan-a-35-acre-attraction-with-a-six-acre-artificial-wave-lagoon-and-half-mile-beach-miles-from-the-ocean/articleshow/134559979.cms",
+      "image": "https://static.toiimg.com/photo/msid-134560215,imgsize-125371.cms",
+      "publishedAt": "2026-09-29T22:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "kpp48q",
+      "title": "India's Kaveri engine clears Russia trials, set for Ghatak stealth UCAV integration",
+      "summary": "",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/defence/news/indias-kaveri-engine-clears-trials-in-russia-ready-for-integration-with-stealth-ucav-ghatak/articleshow/134574087.cms",
+      "image": "https://static.toiimg.com/photo/msid-134574089,imgsize-80924.cms",
+      "publishedAt": "2026-09-29T21:59:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "lx0dv6",
+      "title": "'Operate faster than adversary': CDS Gen Subramani stresses integrated multi-domain ops",
+      "summary": "",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/defence/news/operate-faster-than-adversary-cds-gen-subramani-stresses-integrated-multi-domain-ops/articleshow/134574085.cms",
+      "image": "https://static.toiimg.com/photo/msid-134574086,imgsize-74156.cms",
+      "publishedAt": "2026-09-29T21:56:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "pie8z",
+      "title": "Pak Vows To Defend Saudi Against Iran-Backed Houthis By \"Whatever Means\"",
+      "summary": "Defense Minister Khawaja Muhammad Asif said that Pakistan's military capabilities would be available to Saudi Arabia under a new mutual defense pact with Saudi Arabia and Turkey.",
+      "category": "military",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/world-news/pakistan-vows-to-defend-saudi-against-iran-backed-houthis-by-whatever-means-12117178#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/apsd36jg_khawaja-muhammad-asif_625x300_30_September_26.jpeg",
+      "publishedAt": "2026-09-29T21:13:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "6o0jx3",
+      "title": "5 New Sites Added To India's UNESCO Tentative List For World Heritage",
+      "summary": "The Udaigiri hill in Madhya Pradesh contains a rock-cut sacred ensemble developed primarily under Gupta patronage between the late 4th and early 5th centuries, according to the UNESCO website.",
+      "category": "politics",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/5-new-sites-added-to-indias-unesco-tentative-list-for-world-heritage-12117131#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/0mtb2d2c_ginnorgarh-fort_625x300_30_September_26.jpeg",
+      "publishedAt": "2026-09-29T20:48:04.000Z",
+      "sample": false
+    },
+    {
+      "id": "ydc7ki",
+      "title": "Trump, Tech Executives Sign \"Morally Binding\" AI Document",
+      "summary": "\"It's almost like a Constitution in a way, and the biggest people in the world signed that and I signed it as president and it really is a form of protection,\" Trump told reporters after the meeting.",
+      "category": "technology",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/world-news/donald-trump-tech-executives-sign-morally-binding-ai-document-12117085#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/a1eleb7c_donald-trump-with-top-tech-bosses_625x300_30_September_26.jpeg",
+      "publishedAt": "2026-09-29T20:22:13.000Z",
+      "sample": false
+    },
+    {
+      "id": "4kbaln",
+      "title": "'Will strain Centre-J&amp;K ties': BJP asks chief secy to ‘throw away’ statehood resolution",
+      "summary": "",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/india/bjp-asks-chief-secy-to-throw-away-statehood-resolution-says-it-will-strain-centre-jk-ties/articleshow/134573733.cms",
+      "image": "https://static.toiimg.com/photo/msid-134573737,imgsize-124174.cms",
+      "publishedAt": "2026-09-29T20:13:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "dvojp8",
+      "title": "15k Ladakh-grown Liliums set out for national flower markets",
+      "summary": "",
+      "category": "economy",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/india/15k-ladakh-grown-liliums-set-out-for-national-flower-markets/articleshow/134573645.cms",
+      "image": "https://static.toiimg.com/photo/msid-134573665,imgsize-333490.cms",
+      "publishedAt": "2026-09-29T20:08:29.000Z",
+      "sample": false
+    },
+    {
+      "id": "a1gr0b",
+      "title": "Can’t deny employee security clearance based on kin’s antecedents: J&amp;K high court",
+      "summary": "",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/india/cant-deny-employee-security-clearance-based-on-kins-antecedents-jk-high-court/articleshow/134573666.cms",
+      "image": "https://static.toiimg.com/photo/msid-134573724,imgsize-828592.cms",
+      "publishedAt": "2026-09-29T20:08:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "4k6bsj",
+      "title": "US Supreme Court Allows Trump's 3rd-Country Deportations",
+      "summary": "Under a series of often-secret agreements, the Trump administration has deported some 25,000 people to more than two dozen countries, including Liberia and Guyana. The vast majority have been sent to Mexico.",
+      "category": "politics",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/world-news/us-supreme-court-allows-trumps-3rd-country-deportations-12117032#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/7mj237jc_us-supreme-court-_625x300_15_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-09-29T19:46:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "jb2g5p",
+      "title": "Budgam encounter: Army kills LeT terrorist in fierce gunfight in Yousmarg",
+      "summary": "",
+      "category": "military",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/india/budgam-encounter-army-kills-let-terrorist-in-fierce-gunfight-in-yousmarg/articleshow/134573357.cms",
+      "image": "https://static.toiimg.com/photo/msid-134573478,imgsize-103248.cms",
+      "publishedAt": "2026-09-29T19:21:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "4890c5",
+      "title": "Local Shiv Sena (UBT) Leader Dies In Thane After Firing By Unidentified Men",
+      "summary": "Purnekar was the Thane 'vibhag pramukh' or division head of the Uddhav Thackeray-led party, a Sena (UBT) leader said.",
+      "category": "society",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/local-shiv-sena-ubt-leader-pradeep-purnekar-dies-in-thane-after-firing-by-unidentified-men-12117002#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/erk79n3g_pradeep-purnekar_625x300_30_September_26.jpeg",
+      "publishedAt": "2026-09-29T19:21:25.000Z",
+      "sample": false
+    },
+    {
+      "id": "vehnw0",
+      "title": "No Mother-Child Photo On Baby Food Packets, Orders Team Tukaram Mundhe",
+      "summary": "Tukaram Mundhe, who made headlines with his crackdown on restaurants over food quality and hygiene, has ordered baby food manufacturers to carry the \"Mother's Milk Is Best\" message on all their packages.",
+      "category": "health",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/no-mother-child-photo-on-baby-food-packets-orders-team-tukaram-mundhe-12116965#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/92372ofc_tukaram-mundhe_625x300_25_September_26.jpeg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-09-29T19:04:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "1a8of2",
+      "title": "Mehul Choksi drops damages claim against government, Hungarian woman in London HC",
+      "summary": "",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/world/uk/mehul-choksi-drops-damages-claim-in-london-hc-against-goi-hungarian-woman-he-accused-of-kidnapping-him/articleshow/134572978.cms",
+      "image": "https://static.toiimg.com/photo/msid-134573112,imgsize-861055.cms",
+      "publishedAt": "2026-09-29T18:59:43.000Z",
+      "sample": false
+    },
+    {
+      "id": "dpl1ni",
+      "title": "Delhi Bans Bus Strikes For 6 Months, Commuters Get Relief",
+      "summary": "The Delhi government has invoked the Essential Services Maintenance Act (ESMA), which allows strikes in essential services to be prohibited.",
+      "category": "politics",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/delhi-bans-bus-strikes-agitations-for-6-months-commuters-get-relief-12116939#publisher=newsstand",
+      "image": "https://i.ndtvimg.com/i/2017-11/dtc_650x400_51510307851.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-09-29T18:57:55.000Z",
+      "sample": false
+    },
+    {
+      "id": "kvslnn",
+      "title": "Noida Gang Rape Survivor Tried To Escape, Bus Conductor Locked Door: Cops",
+      "summary": "The incident occurred on the night of August 4 when the minor, a resident of Uttar Pradesh, boarded the bus in Greater Noida after being told that it was headed towards Noida Sector 63, where she wanted to go.",
+      "category": "military",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/noida-gang-rape-survivor-tried-to-escape-bus-conductor-locked-door-cops-12116928#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/qpir7ceo_bus-_625x300_01_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-09-29T18:54:07.000Z",
+      "sample": false
+    },
+    {
+      "id": "6q2xso",
+      "title": "INDIA Bloc To Meet Today Over Poll Body Row: Options And Gameplan",
+      "summary": "The meet will also draw up a strategy to launch a nationwide agitation. Protests and public rallies against the Chief Election Commissioner will be held across the country, while an impeachment motion will be moved in Parliament.",
+      "category": "society",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/india-bloc-to-meet-today-over-poll-body-row-options-and-gameplan-12116922#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-06/clt7lcr_india-bloc_625x300_08_June_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-09-29T18:51:57.000Z",
+      "sample": false
+    },
+    {
+      "id": "apt64y",
+      "title": "Zohran Mamdani Reveals Why He Texts Trump From \"Time To Time\"",
+      "summary": "During the show, Jimmy Kimmel asked Zohran Mamdani about his \"very unexpected\" relationship with Trump after the two leaders met last week at Gracie Mansion, the mayor's residence.",
+      "category": "politics",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/world-news/zohran-mamdani-reveals-why-he-texts-donald-trump-from-time-to-time-12116918#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/15c2lg54_trump-mamdani-afp_625x300_30_September_26.jpeg",
+      "publishedAt": "2026-09-29T18:47:04.000Z",
+      "sample": false
+    },
+    {
+      "id": "6iprhn",
+      "title": "High Court Setback For Arvind Kejriwal In PM Modi Degree Case",
+      "summary": "The two-judge bench delivered the verdict after having previously reserved its judgment. The court found no merit in Kejriwal's challenge and refused to interfere with the earlier ruling.",
+      "category": "politics",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/high-court-setback-for-arvind-kejriwal-in-pm-modi-degree-case-12116915#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-08/jrmq33ec_arvind-kejriwal-_625x300_06_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-09-29T18:46:34.000Z",
+      "sample": false
+    },
+    {
+      "id": "lffv1f",
+      "title": "CISF jawan kills 4 colleagues at Kathua hydel plant",
+      "summary": "",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/india/cisf-jawan-kills-4-colleagues-at-kathua-hydel-plant/articleshow/134572873.cms",
+      "image": "https://static.toiimg.com/photo/msid-134572882,imgsize-617208.cms",
+      "publishedAt": "2026-09-29T18:46:21.000Z",
+      "sample": false
+    },
+    {
+      "id": "mu9e1g",
+      "title": "Bhagat Singh To Punjab's Water: AAP Widens Its Political Campaign",
+      "summary": "The clearest example came in Ludhiana, where the AAP government organised 'Jashan-e-Inquilab' at Punjab Agricultural University to mark Bhagat Singh's birth anniversary.",
+      "category": "politics",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/bhagat-singh-to-punjabs-water-aap-widens-its-political-campaign-12116891#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/3suiflbs_cm-bhagwant-mann_625x300_15_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-09-29T18:39:50.000Z",
+      "sample": false
+    },
+    {
+      "id": "kwdble",
+      "title": "Attend, Don't Just Write Articles: Mallikarjun Kharge's Lighthearted Dig At Shashi Tharoor",
+      "summary": "At the Congress Working Committee meeting, Tharoor suggested holding an event on October 2, Mahatma Gandhi's birth anniversary.",
+      "category": "politics",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/attend-dont-just-write-articles-mallikarjun-kharges-lighthearted-dig-at-shashi-tharoor-12116706#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/d3srntpo_1_625x300_29_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-09-29T18:38:09.000Z",
+      "sample": false
+    },
+    {
+      "id": "1ddi8m",
+      "title": "YouTuber Savukku Shankar Gets 3 Years' Jail In 2013 Defamation, Threat Case",
+      "summary": "The complaint was filed by former Sun TV news anchor and advocate Mahalakshmi.",
+      "category": "politics",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/youtuber-savukku-shankar-gets-3-years-jail-in-2013-defamation-threat-case-12116860#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/smeqj654_savukku-shankar_625x300_29_September_26.jpeg",
+      "publishedAt": "2026-09-29T18:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "adriqr",
+      "title": "Chargesheet Against Accused's Parents Cancelled In Chennai Techie Murder Case",
+      "summary": "The court observed that neither parent was present at the crime scene, nor was there any evidence of prior knowledge, conspiracy, or pre-planning.",
+      "category": "technology",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/c-kavin-selvaganesh-chargesheet-against-accuseds-parents-cancelled-in-chennai-techie-murder-case-12116819#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2025-07/kcti1iig_dalit-techie-killed_625x300_28_July_25.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-09-29T18:15:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "egfh88",
+      "title": "\"Nothing On Record\": Ex-Cop Sachin Waze Gets Bail In Mumbai Bomb Scare Case",
+      "summary": "Sachin Waze was likely to walk out of prison after five years on Wednesday, his lawyer said.",
+      "category": "technology",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/nothing-on-record-ex-cop-sachin-waze-gets-bail-in-mumbai-bomb-scare-case-12116813#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2021-03/1ag80hqs_sachin-vaze_625x300_10_March_21.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-09-29T18:12:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "56uttq",
+      "title": "Cyclone Arnab Triggers Flooding, Damages Paddy Crop In UP, Bihar",
+      "summary": "As the crop reached maturity, heavy rainfall between September 25 and September 28 has caused flooding in paddy fields, while accompanying strong winds flattened standing crops in several districts.",
+      "category": "environment",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/cyclone-arnab-triggers-flooding-damages-paddy-crop-in-up-bihar-12116811#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-09/lkoet35o_datafy_625x300_29_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-09-29T18:12:06.000Z",
+      "sample": false
+    },
     {
       "id": "tgfnve",
       "title": "US to lend 40m barrel oil from strategic reserve as Ukraine war strains supply",
@@ -38,17 +412,6 @@
       "sample": false
     },
     {
-      "id": "cxuq60",
-      "title": "Supreme Court Rejects Plea Against SIR Ahead Of West Bengal Bypolls",
-      "summary": "The by-elections are scheduled to take place on October 6. Voters in Rejinagar and Nandigram who had applied before the tribunal had been hoping to get some relief from the top court on Monday.",
-      "category": "health",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/supreme-court-rejects-plea-against-sir-ahead-of-west-bengal-bypolls-12116568#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2023-01/astlnkkg_supreme-court-of-india-generic-getty_625x300_06_January_23.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-29T17:10:05.000Z",
-      "sample": false
-    },
-    {
       "id": "m5lsk1",
       "title": "INDIA bloc meet: Opposition to sharpen EC, BJP attack - what's on agenda",
       "summary": "The INDIA bloc is gathering to address significant concerns regarding the Election Commission's Special Intensive Revision process. This crucial meeting will see opposition parties deliberating on an agitation and a potential motion for the removal of Chief Election Commissioner Gyanesh Kumar. Key opposition leaders wi",
@@ -60,17 +423,6 @@
       "sample": false
     },
     {
-      "id": "pwklb",
-      "title": "Over 100 Names, Rape Claims: Inside Silicon Valley's Secret 'Whisper Network'",
-      "summary": "The private document is part of a so-called \"whisper network\" used by women in Silicon Valley to warn one another about alleged sexual misconduct, according to several insiders who have seen it.",
-      "category": "military",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/world-news/over-100-names-rape-claims-inside-silicon-valleys-secret-whisper-network-12116497#publisher=newsstand",
-      "image": "https://i.ndtvimg.com/i/2017-02/apple-campus-2-california_650x400_81486458526.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-29T17:05:24.000Z",
-      "sample": false
-    },
-    {
       "id": "2a673n",
       "title": "Trump’s own America.gov chatbot contradicts US president on 2020 polls, climate",
       "summary": "",
@@ -79,28 +431,6 @@
       "url": "https://timesofindia.indiatimes.com/world/us/trumps-own-america-gov-chatbot-contradicts-us-president-on-2020-polls-climate/articleshow/134571029.cms",
       "image": "https://static.toiimg.com/photo/msid-134571066,imgsize-635242.cms",
       "publishedAt": "2026-09-29T17:04:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "25yt4o",
-      "title": "On Camera, Nuclear-Capable Heavy Bomber Crashes In Russia, 6 Killed",
-      "summary": "Russia uses the nuclear-capable bomber aircraft, that was flying without ammunition load regularly, for routine military exercises according to the defence ministry.",
-      "category": "military",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/world-news/on-camera-nuclear-capable-russian-heavy-bomber-crashes-into-flames-6-dead-12115947#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-09/rt0b8ii4_russian-bomber-flight_625x300_29_September_26.png?im=FaceCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-29T16:58:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "5x48ir",
-      "title": "Utah man jailed 41 years in murder case ordered released after new DNA tests",
-      "summary": "After spending 41 years on death row for the murder of Eva Olesen, Douglas Stewart Carter is finally released on bail following new DNA evidence proving his innocence. The Utah Supreme Court acknowledged serious police misconduct in the case. Although some family members of the victim have raised concerns regarding his",
-      "category": "military",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-utah-man-who-spent-41-years-behind-bars-after-being-sentenced-to-death-in-a-1985-murder-case-has-been-ordered-released-on-bail-after-new-dna-tests-excluded-him-from-crime-scene-evidence/articleshow/134570828.cms",
-      "image": "https://static.toiimg.com/photo/msid-134570907,imgsize-755459.cms",
-      "publishedAt": "2026-09-29T16:53:42.000Z",
       "sample": false
     },
     {
@@ -126,39 +456,6 @@
       "sample": false
     },
     {
-      "id": "njyvh9",
-      "title": "Taylor Swift’s former Beverly Hills home where she wrote ‘1989’ lists for $7.995m",
-      "summary": "Taylor Swift’s former Beverly Hills estate, where she wrote her hit album 1989, is back on the market for $7.995 million. The 1.5-acre Pillsbury Estate features a main residence, guest house, four bedrooms, five bathrooms, mature oak trees, a pickleball court and an eight-car motor court following extensive renovations",
-      "category": "economy",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/in-2011-taylor-swift-purchased-her-former-beverly-hills-estate-where-she-wrote-1989-the-1-5-acre-property-is-now-on-the-market-for-7-995-million-after-renovations-featuring-four-bedrooms-and-five-bathrooms/articleshow/134570653.cms",
-      "image": "https://static.toiimg.com/photo/msid-134570745,imgsize-164656.cms",
-      "publishedAt": "2026-09-29T16:44:25.000Z",
-      "sample": false
-    },
-    {
-      "id": "7satmi",
-      "title": "Exclusive: Bengaluru Minister Krishna Byre Gowda Lists Fixes For Potholes, Traffic Jams, Flooding",
-      "summary": "Bengaluru has a new minister in charge of Bengaluru Development, Krishna Byre Gowda, who has promised to bring about systematic change by improving the basics while simultaneously working on long-term solutions.",
-      "category": "health",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/exclusive-bengaluru-minister-krishna-byre-gowda-lists-fixes-for-potholes-traffic-jams-flooding-12116446#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-09/gcid18i8_bengaluru-minister-_625x300_29_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-29T16:44:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "tgh1o8",
-      "title": "\"Brexit Has Done More Harm Than Good\": UK PM Andy Burnham Seeks New EU Ties",
-      "summary": "Britain's membership of the EU has long been a thorny and highly divisive subject after a knife-edge majority voted to leave in a landmark referendum a decade ago.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/world-news/brexit-has-done-more-harm-than-good-uk-pm-andy-burnham-seeks-new-eu-ties-12116438#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-07/n3u0gag_andy-burnham_625x300_10_July_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-29T16:42:23.000Z",
-      "sample": false
-    },
-    {
       "id": "kqt89z",
       "title": "Essex farm flooded with seawater helped double saltmarsh across Thames estuary",
       "summary": "In October 2002, a sea wall breach in Essex transformed farmland into a coastal wetland, increasing saltmarsh areas. This project, supported by various environmental organizations, aimed to restore natural habitats and manage coastal erosion. Marine life flourished, and biodiversity increased rapidly in the newly flood",
@@ -167,28 +464,6 @@
       "url": "https://timesofindia.indiatimes.com/world/uk/in-2002-a-3-5km-sea-wall-was-breached-in-five-places-at-a-283-hectare-essex-arable-farm-seawater-returned-to-the-land-creating-new-habitat-and-helping-double-saltmarsh-across-the-greater-thames-estuary/articleshow/134570011.cms",
       "image": "https://static.toiimg.com/photo/msid-134570153,imgsize-1565342.cms",
       "publishedAt": "2026-09-29T16:39:50.000Z",
-      "sample": false
-    },
-    {
-      "id": "hcwf9r",
-      "title": "Gurugram Thar Driver Arrested Days After He Hit Bike On Dwarka Expressway",
-      "summary": "The incident happened after 8 pm on September 26, when the speeding SUV entered the service lane of the Dwarka Expressway from the left and attempted to bypass several lanes at once.",
-      "category": "military",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/gurugram-thar-driver-arrested-days-after-he-hit-bike-on-dwarka-expressway-12116404#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-09/4gbuvr5_gurugram-thar_625x300_29_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-29T16:34:16.000Z",
-      "sample": false
-    },
-    {
-      "id": "qua3r9",
-      "title": "India's Readiness For Sustainable Aviation Fuel At 52%: Boeing",
-      "summary": "The report gives India an overall SAF readiness score of 52 per cent. The assessment is based on conditions prevailing around the middle of 2026 and is intended as a measure of India's domestic readiness.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/indias-readiness-for-sustainable-aviation-fuel-at-52-boeing-12116229#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-09/o6tqk4lc_saf-_625x300_29_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-29T16:02:45.000Z",
       "sample": false
     },
     {
@@ -203,28 +478,6 @@
       "sample": false
     },
     {
-      "id": "yyzxee",
-      "title": "Donkey, Son Of 'Donkey Father', Gets Registered As Nurse In Madhya Pradesh",
-      "summary": "NSUI state vice-president Ravi Parmar claims he tested the council's online portal to check whether mandatory documents and an applicant's identity were verified before a registration certificate was issued.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/nurse-certificate-for-donkey-puts-registration-on-hold-in-madhya-pradesh-12115701#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-09/0elpjffs_donjey-nursing-certificate_625x300_29_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-29T15:59:06.000Z",
-      "sample": false
-    },
-    {
-      "id": "ddgjcd",
-      "title": "Not Trying To Become E-Commerce Company: YouTube India MD To NDTV",
-      "summary": "YouTube India MD Gunjan Soni said the platform is now allowing creators to tag products.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/not-trying-to-become-e-commerce-company-youtube-india-md-gunjan-soni-to-ndtv-12116200#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-09/jvflh77k_1_625x300_29_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-29T15:58:40.000Z",
-      "sample": false
-    },
-    {
       "id": "mxcebp",
       "title": "How SpaceX’s latest Starship engine failure could affect Nasa’s Moon mission",
       "summary": "",
@@ -233,28 +486,6 @@
       "url": "https://timesofindia.indiatimes.com/science/how-spacexs-latest-starship-engine-failure-could-affect-nasas-moon-mission-artemis-programme/articleshow/134569523.cms",
       "image": "https://static.toiimg.com/photo/msid-134570085,imgsize-42276.cms",
       "publishedAt": "2026-09-29T15:49:28.000Z",
-      "sample": false
-    },
-    {
-      "id": "6ohku8",
-      "title": "AI Role In 2 Lakh Channels, Big Addition To GDP: YouTube India Head To NDTV",
-      "summary": "In an exclusive interview with NDTV's Shiv Aroor, Gunjan Soni said there were around 200,000 new channels that were monetised for the very first time last year. And much of this was possible only because of AI.",
-      "category": "technology",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/ai-role-in-200-000-new-channels-big-addition-to-gdp-youtube-chief-to-ndtv-12116010#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-09/ct7g6nb_gunjan-soni_625x300_29_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-29T15:35:13.000Z",
-      "sample": false
-    },
-    {
-      "id": "vggbq9",
-      "title": "\"Make Him President\": Omar Abdullah's Dig At BJP Amid Gyanesh Kumar Row",
-      "summary": "The chief minister said the Election Commission of India (ECI) should do some soul-searching as the charges against the poll panel were not levelled by any political party.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/make-him-president-omar-abdullahs-dig-at-bjp-amid-gyanesh-kumar-row-12115228#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-09/d4eilb3s_omar-abdullah_625x300_29_September_26.jpeg",
-      "publishedAt": "2026-09-29T15:33:37.000Z",
       "sample": false
     },
     {
@@ -269,17 +500,6 @@
       "sample": false
     },
     {
-      "id": "2o4qyw",
-      "title": "\"Despicable Murderers\": Israel Minister Threatens To Kill Hamas Leaders Abroad",
-      "summary": "\"None of these despicable murderers, who played a central role in the October 7 massacre, should die peacefully in their beds,\" Israel Katz said.",
-      "category": "health",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/world-news/despicable-murderers-israel-minister-threatens-to-kill-hamas-leaders-abroad-12116090#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2024-08/n6di67mg_israel-katz_625x300_07_August_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-29T15:32:57.000Z",
-      "sample": false
-    },
-    {
       "id": "jwnt32",
       "title": "Fort Kochi’s 300-year-old Koder House completely gutted in fire",
       "summary": "Koder House, a significant heritage structure in Fort Kochi, suffered complete destruction due to a fire. This building, dating back to 1800s, was connected to the influential Koder family in the local Jewish community. Previously, it functioned as a boutique hotel and hosted cultural events related to Judaism. The inc",
@@ -291,25 +511,14 @@
       "sample": false
     },
     {
-      "id": "17npu7",
-      "title": "As More Women Move Into Hostels, What Data Says About Campus Safety",
-      "summary": "The number of girl students residing in hostels across India has increased over the years, according to the All India Survey on Higher Education.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/as-more-women-move-into-hostels-what-data-says-about-campus-safety-12115978#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-09/u4u0ll94_datafy_625x300_29_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-29T15:11:12.000Z",
-      "sample": false
-    },
-    {
-      "id": "sh1t9x",
-      "title": "Rahul Gandhi Posed Uncomfortable Questions Over SIR At Party Meet: Sources",
-      "summary": "According to sources, Rahul Gandhi also remarked that many leaders within the party remain \"preoccupied with analysis\" rather than forcefully raising the EVM issue.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/you-didnt-trust-me-people-do-rahul-gandhi-on-vote-chori-at-congress-meet-12115317#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-09/la105d14_rahul-gandhi-cwc-_625x300_29_September_26.jpeg",
-      "publishedAt": "2026-09-29T15:04:38.000Z",
+      "id": "xegven",
+      "title": "Orlando Bravo paid $39.25m for Phil Collins’ Miami mansion, then demolished it",
+      "summary": "Orlando Bravo has received approval to tear down a historic estate in Miami Beach that was once the home of Phil Collins. This demolition paves the way for a new luxury mansion, purposefully designed to combat flooding. The choice has ignited discussions about the importance of preserving historical sites in South Flor",
+      "category": "military",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-2021-billionaire-orlando-bravo-paid-39-25-million-for-phil-collinss-1929-miami-beach-mansion-months-later-he-won-approval-to-demolish-it-for-a-flood-resilient-home-with-tropical-gardens/articleshow/134569131.cms",
+      "image": "https://static.toiimg.com/photo/msid-134569601,imgsize-2430118.cms",
+      "publishedAt": "2026-09-29T15:04:07.000Z",
       "sample": false
     },
     {
@@ -324,39 +533,6 @@
       "sample": false
     },
     {
-      "id": "u1lcq2",
-      "title": "Hookah Can't Be Served Even In Designated Smoking Areas: Allahabad High Court",
-      "summary": "The petitioners had sought permission for restaurants holding valid food establishment licences to serve hookah in designated smoking areas and had also sought protection from police interference in their business.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/hookah-cant-be-served-even-in-designated-smoking-areas-allahabad-high-court-12115751#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2024-02/pt7tmrd8_hookah-parlour_625x300_12_February_24.jpeg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-29T14:51:04.000Z",
-      "sample": false
-    },
-    {
-      "id": "uipivi",
-      "title": "15-Day-Old Baby Sold For Rs 5 Lakh In UP, Parents Among 6 Arrested",
-      "summary": "During the investigation, police found that the infant had allegedly been sold to Sulochana, wife of Pritam, for Rs 5 lakh, police said.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/15-day-old-baby-sold-for-rs-5-lakh-in-uttar-pradeshs-bijnor-parents-among-6-arrested-12115378#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2025-02/c4vp2pbg_up-police-generic-_625x300_18_February_25.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-29T14:50:22.000Z",
-      "sample": false
-    },
-    {
-      "id": "vu9clk",
-      "title": "4 CISF personnel killed after colleague opens fire in J&amp;K's Kathua",
-      "summary": "",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/india/4-cisf-personnel-killed-in-fratricide-incident-in-jks-kathua/articleshow/134569385.cms",
-      "image": "https://static.toiimg.com/photo/msid-134569618,imgsize-1596726.cms",
-      "publishedAt": "2026-09-29T14:44:27.000Z",
-      "sample": false
-    },
-    {
       "id": "maj7ag",
       "title": "HM launches PRAGATI-50 initiative to establish cleaning benchmark for Indian cities",
       "summary": "Under the PRAGATI-50 initiative, fifty cities in India have been selected to boost cleanliness and sanitation efforts. These cities will implement focused strategies and be closely monitored within the Swachh Bharat Mission–Urban 2.0 framework. Union Minister Manohar Lal will chair regular reviews to ensure consistent ",
@@ -368,28 +544,6 @@
       "sample": false
     },
     {
-      "id": "2t19vb",
-      "title": "Eiffel Tower Official To Step Down Over Removal Of Women Staff For Hindu Group",
-      "summary": "Patrick Branco Ruivo, who has been in charge of the Paris landmark since 2018, would leave his job at the end of the year.",
-      "category": "health",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/world-news/eiffel-tower-official-to-step-down-over-removal-of-women-staff-for-hindu-group-12115765#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-09/6kf2dc54_eiffel-tower-afp_625x300_08_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-29T14:36:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "etli87",
-      "title": "Maharashtra Couple 'Sells' Month-Old Baby To Spend On Luxury Lifestyle",
-      "summary": "The child was bought and sold as many as four times by different people before being rescued from over 550 kilometres away.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/maharashtra-couple-wanted-phones-gold-they-sold-their-baby-for-a-lakh-12115417#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-09/m3ofa7fo_maharashtra-child_625x300_29_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-29T14:25:47.000Z",
-      "sample": false
-    },
-    {
       "id": "uhypk",
       "title": "Roger Federer’s $550M fortune: How did tennis greatness build his empire?",
       "summary": "Roger Federer's financial story is a case study in how elite sporting success can translate into a long-term commercial career. His Uniqlo deal provided large guaranteed income, while his On investment gave him significant equity exposure. These ventures, along with Rolex, Mercedes-Benz, TEAM8 and the Laver Cup, helped",
@@ -398,28 +552,6 @@
       "url": "https://timesofindia.indiatimes.com/sports/international-sports/roger-federer-built-a-550-million-fortune-by-turning-tennis-greatness-into-uniqlo-on-endorsements-investments-and-one-of-sports-most-powerful-global-brands/articleshow/134568735.cms",
       "image": "https://static.toiimg.com/photo/msid-134568758,imgsize-39082.cms",
       "publishedAt": "2026-09-29T14:25:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5cu760",
-      "title": "Ted Turner bought 4,680-acre island to stop development; sold it for $4.9m",
-      "summary": "Ted Turner sold St Phillips Island to the South Carolina government for $4.9 million, much lower than its appraised value. The island will become part of South Carolina's state park system, focusing on ecosystem protection. Public access will be limited, allowing for educational programs and eco-tourism opportunities. ",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-1979-ted-turner-bought-a-4680-acre-south-carolina-barrier-island-to-prevent-development-38-years-later-he-sold-it-to-the-state-for-4-9-million-about-one-third-of-its-appraised-value-and-it-became-state-parkland/articleshow/134568650.cms",
-      "image": "https://static.toiimg.com/photo/msid-134569095,imgsize-2449848.cms",
-      "publishedAt": "2026-09-29T14:12:37.000Z",
-      "sample": false
-    },
-    {
-      "id": "vmnsnc",
-      "title": "20% More Creators Earning Over 7 Figures: YouTube India MD To NDTV",
-      "summary": "YouTube India Managing Director Gunjan Soni was speaking exclusively to NDTV.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/gunjan-soni-youtube-report-20-more-creators-earning-over-7-figures-youtube-india-md-to-ndtv-12115547#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-09/b7ifqmeo_1_625x300_29_September_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-29T14:04:48.000Z",
       "sample": false
     },
     {
@@ -456,47 +588,14 @@
       "sample": false
     },
     {
-      "id": "onleo5",
-      "title": "Asian Games: Neeru, women’s 4x400m relay shine as 8-medal haul takes India past 50",
-      "summary": "Neeru Dhanda made history by clinching a gold medal in the women's trap event at the Asian Games, marking a significant achievement in Indian sports. The women's 4x400m relay team also triumphed, boosting India's medal tally to 53 and placing the nation 10th in the overall standings. Other athletes performed admirably ",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-day-10-two-golds-from-neeru-dhanda-womens-4x400m-relay-take-india-past-50-medals/articleshow/134568551.cms",
-      "image": "https://static.toiimg.com/photo/msid-134568619,imgsize-198818.cms",
-      "publishedAt": "2026-09-29T13:52:30.000Z",
-      "sample": false
-    },
-    {
-      "id": "5yom4",
-      "title": "New NCERT book says Indian kings got swords from goddesses to resist invasions",
-      "summary": "A new class nine social science textbook by NCERT titled 'Understanding Society: India and Beyond-Part 2' delves into India's historical experience with warfare. It emphasizes the cultural worship of deities like Kali and Durga for protection during conflicts, documents invasions from the seventh century, and highlight",
+      "id": "6009ms",
+      "title": "18 warships to be inducted in 2026, largest addition in a year in Navy’s history: Rajnath",
+      "summary": "During the Commanders' Conference 2026, defence minister Rajnath Singh emphasised the Indian Navy's impressive blue-water capabilities. He unveiled plans for essential upgrades and the arrival of new warships aimed at enhancing maritime surveillance. Singh lauded the Navy's commitment to protecting vital sea lanes that",
       "category": "military",
       "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/india/new-ncert-textbook-says-indian-kings-invoked-religious-goddesses-resisted-religion-driven-invasions/articleshow/134568413.cms",
-      "image": "https://static.toiimg.com/photo/msid-134568519,imgsize-92312.cms",
-      "publishedAt": "2026-09-29T13:36:05.000Z",
-      "sample": false
-    },
-    {
-      "id": "ymlpe7",
-      "title": "Julia Child’s longtime Cambridge home renovated, now listed for $6.475m",
-      "summary": "",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/julia-child-lived-in-this-1889-cambridge-home-for-40-years-and-filmed-tv-shows-there-its-current-owners-paid-3-7-million-in-2009-renovated-it-and-have-now-listed-it-for-6-475-million/articleshow/134564937.cms",
-      "image": "https://static.toiimg.com/photo/msid-134565010,imgsize-118760.cms",
-      "publishedAt": "2026-09-29T13:27:36.000Z",
-      "sample": false
-    },
-    {
-      "id": "eloem7",
-      "title": "Meet Ishaan Dokania, sixth-grader whose AI model spots lithium with 89% accuracy",
-      "summary": "Ishaan Dokania, a sixth-grader from Oregon, is exploring lithium resource identification using satellite imagery and machine learning. His project reached 89% accuracy in predicting potential lithium deposits after addressing data noise and testing various algorithms. Ishaan's innovative approach combines geology and r",
-      "category": "technology",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/science/discovery/meet-ishaan-dokania-the-indian-origin-beaverton-sixth-grader-who-trained-a-machine-learning-model-on-satellite-data-to-spot-potential-lithium-deposits-with-89-accuracy/articleshow/134564891.cms",
-      "image": "https://static.toiimg.com/photo/msid-134564988,imgsize-746820.cms",
-      "publishedAt": "2026-09-29T13:26:57.000Z",
+      "url": "https://timesofindia.indiatimes.com/defence/news/presence-of-indian-warships-in-south-china-sea-mediterranean-atlantic-demonstrates-indian-navys-blue-water-force-capability-rajnath/articleshow/134568261.cms",
+      "image": "https://static.toiimg.com/photo/msid-134568307,imgsize-126254.cms",
+      "publishedAt": "2026-09-29T13:24:09.000Z",
       "sample": false
     },
     {
@@ -522,17 +621,6 @@
       "sample": false
     },
     {
-      "id": "ral78s",
-      "title": "Texas mogul paid $36m for 1963 Coral Gables home, then demolished it",
-      "summary": "A Texas property developer recently demolished the Wood Residence, a historic mansion in Coral Gables, Florida. The estate, designed by Alfred Browning Parker, was not designated as a historic landmark. Local preservation advocates expressed frustration over regulatory loopholes allowing such demolitions without public",
-      "category": "society",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2023-texas-mogul-felix-sorkin-paid-36-million-for-an-11000-sq-ft-coral-gables-home-designed-by-alfred-browning-parker-months-later-the-1963-modernist-house-was-demolished-for-a-replacement/articleshow/134567682.cms",
-      "image": "https://static.toiimg.com/photo/msid-134567951,imgsize-1286423.cms",
-      "publishedAt": "2026-09-29T13:11:33.000Z",
-      "sample": false
-    },
-    {
       "id": "z7wv7g",
       "title": "A 56-million-year bat mystery may finally have an answer, and it points to Europe",
       "summary": "",
@@ -544,28 +632,6 @@
       "sample": false
     },
     {
-      "id": "1khgp7",
-      "title": "Severed genital, grinder in room: What happened to Premanand Maharaj's disciple",
-      "summary": "Deepak Lodhi, a follower of Premanand Maharaj, died after falling from the Gau Kripa Kunj Ashram. Forensic experts are examining a grinder found in his room for fingerprints and possible connections to his injuries. Lodhi sustained several injuries, including fractures and an amputated genital. The investigation is foc",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/city/agra/severed-genital-grinder-in-room-fatal-fall-what-happened-to-premanand-maharajs-disciple/articleshow/134567018.cms",
-      "image": "https://static.toiimg.com/photo/msid-134567685,imgsize-933098.cms",
-      "publishedAt": "2026-09-29T12:59:57.000Z",
-      "sample": false
-    },
-    {
-      "id": "dqzgsp",
-      "title": "US imposes visa curbs on officials blocking international child abduction cases",
-      "summary": "",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-announces-visa-restrictions-for-officials-blocking-international-child-abduction-cases/articleshow/134567373.cms",
-      "image": "https://static.toiimg.com/photo/msid-134567937,imgsize-1418897.cms",
-      "publishedAt": "2026-09-29T12:56:44.000Z",
-      "sample": false
-    },
-    {
       "id": "uhtvl4",
       "title": "Son died, LIC denied Rs 5 lakh insurance; Commission orders payout with interest",
       "summary": "The Commission referred to a National Consumer Disputes Redressal Commission decision concerning \"silent diseases\", observing that a person may not necessarily be aware of a condition until it aggravates and symptoms become apparent. It also referred to a Punjab and Haryana High Court judgment concerning repudiation of",
@@ -574,39 +640,6 @@
       "url": "https://timesofindia.indiatimes.com/business/india-business/his-son-died-insurance-company-denied-father-rs-5-lakh-over-alleged-undisclosed-heart-condition-punjab-consumer-commission-finds-no-reliable-medical-proof-orders-rs-5-lakh-plus-7-interest-and-rs-10000/articleshow/134560425.cms",
       "image": "https://static.toiimg.com/photo/msid-134560836,imgsize-320616.cms",
       "publishedAt": "2026-09-29T12:25:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fhzppv",
-      "title": "Manhattan doctor bought Bridgehampton estate for $3.95m, now asks $7.5m",
-      "summary": "A nearly 5-acre Bridgehampton estate featuring a replica 15th-century Buddhist temple has been listed for $7.5 million. Manhattan doctor and entrepreneur Roshini Raj bought the property for $3.95 million in 2022 and later made extensive changes. The estate includes a large main house, gardens, koi ponds, a pool, orchar",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/in-2022-manhattan-doctor-roshini-raj-paid-3-95-million-for-a-nearly-5-acre-bridgehampton-estate-with-a-replica-15th-century-buddhist-temple-after-3-million-in-updates-she-is-asking-7-5-million/articleshow/134559274.cms",
-      "image": "https://static.toiimg.com/photo/msid-134559469,imgsize-113166.cms",
-      "publishedAt": "2026-09-29T12:20:38.000Z",
-      "sample": false
-    },
-    {
-      "id": "9zh8s3",
-      "title": "Reddy's Ram-Shiva remarks: Congress defends Telangana CM as BJP demands apology",
-      "summary": "",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/india/revanth-reddys-ram-shiva-remarks-congress-defends-telangana-cm-as-bjp-demands-apology/articleshow/134565836.cms",
-      "image": "https://static.toiimg.com/photo/msid-134565845,imgsize-218118.cms",
-      "publishedAt": "2026-09-29T12:17:06.000Z",
-      "sample": false
-    },
-    {
-      "id": "aj4klk",
-      "title": "Why children copy their parents’ habits and emotions, according to psychology",
-      "summary": "Children naturally mirror their parents, adopting behaviors and emotional reactions as they learn to engage with their environment. Through observational learning, they grasp essential skills like communication and emotional regulation from daily exchanges. While parents significantly influence their kids' perceptions ",
-      "category": "health",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/psychology-says-children-who-copy-their-parents-are-building-their-identity-through-everyday-habits-and-emotions-they-observe-at-home/articleshow/134564758.cms",
-      "image": "https://static.toiimg.com/photo/msid-134564844,imgsize-121843.cms",
-      "publishedAt": "2026-09-29T12:14:56.000Z",
       "sample": false
     },
     {
@@ -643,17 +676,6 @@
       "sample": false
     },
     {
-      "id": "3ioilu",
-      "title": "Pak blocks airspace for Russian flight carrying uranium for Bangladesh nuclear plant",
-      "summary": "",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/technical-issue-pakistan-blocks-airspace-for-russian-flight-carrying-uranium-for-bangladesh-nuclear-plant/articleshow/134565076.cms",
-      "image": "https://static.toiimg.com/photo/msid-134565192,imgsize-198978.cms",
-      "publishedAt": "2026-09-29T11:48:59.000Z",
-      "sample": false
-    },
-    {
       "id": "mfcr5k",
       "title": "Ketan had tattooed Siya’s name as her birthday surprise before his death",
       "summary": "A new detail has emerged in the Lohagad Fort murder case, with Ketan Agarwal's father Vishal Agarwal saying that his son had got his fiancée Siya Goyal's name tattooed on his back as a birthday gift for her.",
@@ -666,24 +688,13 @@
     },
     {
       "id": "y3ylpk",
-      "title": "Patrick Mahomes &amp; Brittany Mahomes’ Kansas City Current hits setback over $1.4 billion project",
+      "title": "Patrick and Brittany Mahomes’ $1.4B project: Why is it facing opposition?",
       "summary": "Patrick Mahomes and Brittany Mahomes' Kansas City Current has now faced a setback as council members oppose some redevelopment plans.",
       "category": "politics",
       "source": "times-of-india",
       "url": "https://timesofindia.indiatimes.com/sports/nfl/news/patrick-mahomes-and-brittany-mahomes-kansas-city-current-faces-setback-as-1-4-billion-expansion-project-sparks-opposition/articleshow/134553599.cms",
       "image": "https://static.toiimg.com/photo/msid-134553607,imgsize-907166.cms",
       "publishedAt": "2026-09-29T11:30:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "f2koro",
-      "title": "Candace Owens faces family warning: Why did they urge her to “just disappear”?",
-      "summary": "Candace Owens is reportedly facing growing concern from a relative who wants her to step away from the public spotlight. The Daily Mail quoted the family member saying, “I pray every day for her safety. I would like for her to get fully out of it. Don’t talk anymore. Just disappear.” The reported warning comes as Owens",
-      "category": "military",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/just-disappear-candace-owens-reportedly-gets-stark-warning-from-her-own-family-amid-legal-troubles/articleshow/134553010.cms",
-      "image": "https://static.toiimg.com/photo/msid-134553033,imgsize-2032559.cms",
-      "publishedAt": "2026-09-29T11:02:00.000Z",
       "sample": false
     },
     {
@@ -731,19 +742,7 @@
       "sample": false
     }
   ],
-  "weekly": [
-    {
-      "id": "6oi3p3",
-      "title": "30-something heart: Inside a threefold spike striking young India",
-      "summary": "A significant increase in cardiovascular diseases is noted among younger Indians, impacting populations previously thought healthy. A recent survey indicates a threefold rise in heart-related ailments from 2017-2018 to 2025. Conditions like hypertension and diabetes are contributing factors for this rise. Unforeseen he",
-      "category": "health",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/30-something-heart-inside-a-threefold-spike-striking-young-india/articleshow/134548412.cms",
-      "image": "https://static.toiimg.com/photo/msid-134563853,imgsize-165686.cms",
-      "publishedAt": "2026-09-28T17:39:15.000Z",
-      "sample": false
-    }
-  ],
+  "weekly": [],
   "developing": [
     {
       "id": "j08jzg",

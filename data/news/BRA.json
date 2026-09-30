@@ -2,7 +2,7 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-09-29T18:21:40.063Z",
+  "updatedAt": "2026-09-30T00:22:28.719Z",
   "daily": [
     {
       "id": "hqv1ij",
@@ -14,7 +14,9 @@
       "image": null,
       "publishedAt": "2026-09-29T16:10:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "bl6sl2",
       "title": "Drought Threatens Water Supply in Northeast and Power Supply in Amazon",
@@ -36,9 +38,7 @@
       "image": null,
       "publishedAt": "2026-09-28T21:58:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "nmmu0b",
       "title": "In Its Third Edition in Brazil, the NFL Fully Embraces Brazilian Identity",

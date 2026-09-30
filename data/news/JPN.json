@@ -2,8 +2,30 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-29T18:21:39.002Z",
+  "updatedAt": "2026-09-30T00:22:27.696Z",
   "daily": [
+    {
+      "id": "w8fvf2",
+      "title": "U.N. alarmed by reports that Myanmar air strike killed 50",
+      "summary": "The Kyauktaw airstrike is the deadliest such attack since a December hospital bombing killed at least 30 people.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/30/asia-pacific/un-myanmar-air-strike-50-dead/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/30/thumbs/400x400/565880.jpg",
+      "publishedAt": "2026-09-29T22:24:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3tf3nr",
+      "title": "U.K. police find fuel but no explosives at Fairford scene",
+      "summary": "Investigators still believe it may be a plot involving proxies for Iran but are keeping an open mind to other possibilities.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/30/world/uk-police-fuel-explosives-fairford/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/30/thumbs/400x400/565830.jpg",
+      "publishedAt": "2026-09-29T22:06:00.000Z",
+      "sample": false
+    },
     {
       "id": "ujouh3",
       "title": "Japan’s new arctic research vessel set to arrive in December",
@@ -310,28 +332,6 @@
       "url": "https://www.japantimes.co.jp/commentary/2026/09/29/world/ai-trusted-journalism/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/29/thumbs/400x400/565270.jpg",
       "publishedAt": "2026-09-29T03:39:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fj382g",
-      "title": "AMD to buy Fei-Fei Li’s World Labs AI startup for $8.2 billion",
-      "summary": "World Labs develops AI software that can run applications in the physical world.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/29/tech/amd-feifei-li-world-labs-billion/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/29/thumbs/400x400/565620.jpg",
-      "publishedAt": "2026-09-29T03:26:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2i37rh",
-      "title": "Gunma police arrest man wanted after murder of ex-wife’s mother",
-      "summary": "The victim's 26-year-old son was also injured in the Gunma city of Ota.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/29/japan/crime-legal/gunma-arrest-ex-wife-mother-murder/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/29/thumbs/400x400/565619.jpg",
-      "publishedAt": "2026-09-29T03:25:00.000Z",
       "sample": false
     }
   ],
