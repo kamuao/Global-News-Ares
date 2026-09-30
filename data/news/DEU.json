@@ -2,17 +2,138 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-09-30T12:23:22.577Z",
+  "updatedAt": "2026-09-30T18:17:52.555Z",
   "daily": [
+    {
+      "id": "bsuuv7",
+      "title": "France's Macron, Spain's Sanchez welcome idea of UK rejoining EU after Burnham remarks",
+      "summary": "During a visit to Spain, France's Emmanuel Macron said it would be \"good news\" if the UK moves towards the EU, with Pedro Sanchez also embracing the idea. UK PM Andy Burnham has not ruled out rejoining the bloc.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/france-s-macron-spain-s-sanchez-welcome-idea-of-uk-rejoining-eu-after-burnham-remarks/a-79493469?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-30T17:34:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "n1eq8b",
+      "title": "Are the Houthis winning against Saudi Arabia?",
+      "summary": "It's unclear how the Saudis can defuse the threat presented by the Houthis in next-door Yemen or who they can turn to for help. The US isn't interested, the Europeans are hedging and nobody wants open conflict with Iran.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/are-the-houthis-winning-against-saudi-arabia/a-79492476?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-30T17:23:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "2ul9d3",
+      "title": "Germany debates alleged antisemitism in the Left Party",
+      "summary": "The Central Council of Jews in Germany thinks the Left Party is dangerous. Other Jews, however, are showing solidarity with the party. How does that add up?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-debates-alleged-antisemitism-in-the-left-party/a-79493282?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-30T16:54:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "y67xdk",
+      "title": "Senegal's Youth Olympics makes Olympics in Africa 'logical'",
+      "summary": "The Youth Olympics are to be hosted in Africa for the first time ever. The edition in Senegal is also a chance to prove the continent can host a full Olympics in the future.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/senegal-s-youth-olympics-makes-olympics-in-africa-logical/a-79468975?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-30T15:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "u7t8ql",
+      "title": "African leaders herald $16B Dangote oil refinery in Kenya",
+      "summary": "An oil refinery on Kenya's coast is expected to be completed in 40 months, and will process an estimated 700,000 barrels of oil per day. Africa's richest man, Aliko Dangote, will lead the project.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/african-leaders-herald-16b-dangote-oil-refinery-in-kenya/a-79491068?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-30T15:11:00.000Z",
+      "sample": false
+    },
     {
       "id": "qxf85e",
       "title": "Flydubai pilot investigated over possible attempt to crash Tel Aviv-bound flight",
-      "summary": "Israeli media say authorities are investigating whether a Flydubai pilot tried to crash an Israel-bound plane before it diverted to Saudi Arabia.",
+      "summary": "A Flydubai service from the UAE to Israel made an emergency landing after one pilot stabbed another. Officials are investigating whether this was a deliberate attempt to crash the plane.",
       "category": "technology",
       "source": "dw",
       "url": "https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-09-30T09:37:00.000Z",
+      "publishedAt": "2026-09-30T14:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fyt3rz",
+      "title": "Germany raises Deutschlandticket price to €66.80 a month from 2027 under new cost-based formula",
+      "summary": "A new cost-based formula has pushed up the price of Germany's nationwide public transport pass for 2027.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-raises-deutschlandticket-price-to-€66-80-a-month-from-2027-under-new-cost-based-formula/a-79492524?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-30T14:32:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "49ct33",
+      "title": "Iran's nuclear program remains shrouded in mystery as the regime debates ditching non-proliferation",
+      "summary": "Iran's nuclear program is entering a critical phase as Tehran debates dropping out of a nuclear non-proliferation treaty. Satellite images also show activity at known nuclear sites.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/iran-s-nuclear-program-remains-shrouded-in-mystery-as-the-regime-debates-ditching-non-proliferation/a-79488197?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-30T14:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "5lu3as",
+      "title": "Lawyer of Junaid Hafeez, a Pakistai scholar imprisoned for 13 years, is hopeful for his release",
+      "summary": "A former Fullbright scholar, Junaid Hafeez was sentenced to death under Pakistan's controversial blasphemy laws. His family and lawyer told DW there is now hope a court will overturn the conviction.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/lawyer-of-junaid-hafeez-a-pakistai-scholar-imprisoned-for-13-years-is-hopeful-for-his-release/a-79490207?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-30T13:59:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "j022y",
+      "title": "Manchester City Premier League charges: What do they mean?",
+      "summary": "Since being bought by the UAE in 2008, Manchester City have become one of the world's most successful football clubs. A raft of serious financial charges threatens to undermine this and bring chaos to the Premier League.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/manchester-city-premier-league-charges-what-do-they-mean/a-79485638?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-30T13:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "m01l48",
+      "title": "Servers at Munich's iconic Oktoberfest call for more respect",
+      "summary": "Oktoberfest is famous the world over for beer, brass band music and Bavarian traditions. But staff at the Wiesn are also reporting incidents of racism and sexism. They're taking a stand against discrimination.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/servers-at-munich-s-iconic-oktoberfest-call-for-more-respect/a-79491207?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-30T13:22:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ukigpi",
+      "title": "Bosnia elections: Polls overshadowed by exhaustion, exodus and geopolitics as ethnic politics eclipse real problems",
+      "summary": "Bosnia goes to the polls on October 4 to elect several parliaments and presidents. While voters worry about the economy and emigration, the campaign is focused on ethnicity, exposing the country's political paralysis.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/bosnia-elections-polls-overshadowed-by-exhaustion-exodus-and-geopolitics-as-ethnic-politics-eclipse-real-problems/a-79487802?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-09-30T12:45:00.000Z",
       "sample": false
     },
     {
@@ -27,12 +148,12 @@
       "sample": false
     },
     {
-      "id": "r34a95",
-      "title": "Eurovision seeks to expand brand despite frictions",
+      "id": "sifcba",
+      "title": "Ireland will boycott Eurovision again because of Israel's participation, but the song contest is still expanding",
       "summary": "The 2026 Eurovision Song Contest was marred by boycotts in protest against Israel's participation in the midst of its war on Gaza. It still aims to keep growing.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/eurovision-seeks-to-expand-brand-despite-frictions/a-79401752?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/ireland-will-boycott-eurovision-again-because-of-israel-s-participation-but-the-song-contest-is-still-expanding/a-79401752?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-30T09:18:00.000Z",
       "sample": false
@@ -71,12 +192,12 @@
       "sample": false
     },
     {
-      "id": "2676fo",
-      "title": "Germany news: Cabinet approves care reform bill",
-      "summary": "The German Cabinet has approved a draft bill on reforming the care system after long debate. Police have launched raids across Germany targeting Hells Angels gangs and a money-laundering network. DW has more.",
+      "id": "yi39n",
+      "title": "Germany news: Volkswagen ends collective wage agreements",
+      "summary": "In an effort to cut costs, automaker Volkswagen terminated most of its collective wage agreements in Germany. This could reignite disputes with employee representatives. DW has more.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-cabinet-approves-care-reform-bill/live-79481802?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/germany-news-volkswagen-ends-collective-wage-agreements/live-79481802?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-30T08:10:00.000Z",
       "sample": false
@@ -104,124 +225,27 @@
       "sample": false
     },
     {
-      "id": "ls00br",
-      "title": "'Alternative Nobel' honors women's rights activists, AI researcher",
-      "summary": "The Right Livelihood Award has gone to a female AI researcher and women fighting repression. The Sweden-based prize has been dubbed an \"alternative Nobel.\"",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/alternative-nobel-honors-women-s-rights-activists-ai-researcher/a-79481171?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-30T06:14:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fynkie",
-      "title": "Hungary's reckoning with Orban's corrupt system picks up speed with high-profile arrests",
+      "id": "tnlnnn",
+      "title": "Hungary's reckoning with Orban's corrupt system picks up speed",
       "summary": "Hungary's Prime Minister Peter Magyar vowed to dismantle Orban's corrupt networks. High-profile figures are being arrested and many Hungarians are pushing for swift accountability, but the rule of law takes time.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/hungary-s-reckoning-with-orban-s-corrupt-system-picks-up-speed-with-high-profile-arrests/a-79473714?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/hungary-s-reckoning-with-orban-s-corrupt-system-picks-up-speed/a-79473714?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-30T04:37:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
-      "id": "pv0ff4",
-      "title": "North Korea denies South's claim, calls DMZ blast a 'farce'",
-      "summary": "North Korean leader Kim Jong Un's sister Kim Yo Jong has accused Seoul of conspiracy after it blamed Pyongyang for the blast in the DMZ.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/north-korea-denies-south-s-claim-calls-dmz-blast-a-farce/a-79481164?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-30T04:27:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "t5zvxc",
-      "title": "Trump says AI companies agree to 'self-police'",
-      "summary": "Donald Trump said the US won't \"stifle\" the development of AI, which he sees as \"bigger than the Industrial Revolution.\" The agreement comes amid mounting concerns over AI safety after recent hacking incidents.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/trump-says-ai-companies-agree-to-self-police/a-79480781?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-29T23:10:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "vx5bu5",
-      "title": "Morocco: King appoints first woman prime minister",
-      "summary": "The appointment of Fatima Zahra Mansouri comes after her center-right party won last week's parliamentary elections in Morocco. She had previously served as mayor of the city of Marrakesh.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/morocco-king-appoints-first-woman-prime-minister/a-79479722?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-29T19:56:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "z1dv29",
-      "title": "Estonia blames Russia for arson attack on defense company",
-      "summary": "The Estonian government accused Moscow of an \"act of sabotage\" that is part of Russia's broader campaign across Europe. The Baltic state has received support from EU and NATO leaders.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/estonia-blames-russia-for-arson-attack-on-defense-company/a-79478937?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-29T18:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fvw0gt",
-      "title": "Germany news: Bremerhaven port to receive defense boost",
-      "summary": "Bremerhaven's port and Bremen's airport will be upgraded for German, NATO defense needs in case of an attack on the alliance. It comes as European countries upgrade militarily amid Russia's war in Ukraine. DW has more.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-bremerhaven-port-to-receive-defense-boost/live-79468663?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-29T17:28:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "4p4efe",
-      "title": "Ethiopia: No regard for civilians as fighting in Ethiopia's Tigray region continues",
-      "summary": "Fighting has returned to northern Ethiopia, shattering a fragile peace in the region. DW spoke to civilians caught in the crossfire amid communication blackouts, as rebel and federal forces keep battling for territory.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ethiopia-no-regard-for-civilians-as-fighting-in-ethiopia-s-tigray-region-continues/a-79464569?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-29T16:14:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "sn7ljn",
-      "title": "TV journalist is crowned king of Uganda's Tooro Kingdom",
-      "summary": "Edward Rukidi Kijanangoma has ascended to the throne after King Oyo died at the age of 34 due to a cancer battle. He previously worked for Ugandan broadcaster UBC as a TV anchor and editor.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/tv-journalist-is-crowned-king-of-uganda-s-tooro-kingdom/a-79475911?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-29T14:48:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "u7dvgj",
-      "title": "Satirist launches site naming Cornell students accused in gang-rape lawsuit",
+      "id": "9fagto",
+      "title": "South Park satirist pushes for accountability in Cornell gang-rape lawsuit",
       "summary": "Writer Toby Morton is using a new website to amplify allegations in a high-profile sexual assault lawsuit involving seven Cornell students. The reopening of the case is causing an outcry on social media.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/satirist-launches-site-naming-cornell-students-accused-in-gang-rape-lawsuit/a-79475382?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/south-park-satirist-pushes-for-accountability-in-cornell-gang-rape-lawsuit/a-79475382?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-29T14:20:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "y67xdk",
-      "title": "Senegal's Youth Olympics makes Olympics in Africa 'logical'",
-      "summary": "The Youth Olympics are to be hosted in Africa for the first time ever. The edition in Senegal is also a chance to prove the continent can host a full Olympics in the future.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/senegal-s-youth-olympics-makes-olympics-in-africa-logical/a-79468975?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-29T14:14:00.000Z",
       "sample": false
     },
     {
@@ -234,9 +258,7 @@
       "image": null,
       "publishedAt": "2026-09-29T13:38:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "ax2wmt",
       "title": "Albania: As corruption cases multiply, experts question whether the anti-corruption drive is addressing the causes or just the symptoms.",
@@ -576,50 +598,6 @@
       "url": "https://www.dw.com/en/pope-fever-takes-hold-as-pope-leo-visits-france/a-79401291?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-24T12:03:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "j48v82",
-      "title": "Could a Left Party government in Berlin expropriate large real estate companies?",
-      "summary": "The socialist Left Party won the Berlin election partly on the promise to implement the city's 2021 expropriation referendum as a way to solve the city's rent crisis. But can it really happen?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-23T14:49:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "k9itqe",
-      "title": "China's 13-year-old swimming star raises questions on child athletes",
-      "summary": "Three gold medals and three Asian Games records have catapulted China's Yu Zidi, 13, into the sporting spotlight. She is far from the first teen prodigy, but should teens be competing at elite level?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/china-s-13-year-old-swimming-star-raises-questions-on-child-athletes/a-79394183?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-23T14:07:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "qvbiu3",
-      "title": "Slovakia: PM Robert Fico's NATO Article 5 remarks spark criticism and raise questions about his country's NATO commitment",
-      "summary": "Slovak Prime Minister Robert Fico says he fears war and will do everything he can to keep his country out of one. Critics say his remarks risk weakening NATO, the alliance that was designed to prevent such a war.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/slovakia-pm-robert-fico-s-nato-article-5-remarks-spark-criticism-and-raise-questions-about-his-country-s-nato-commitment/a-79387050?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-23T13:32:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "nyt08j",
-      "title": "Germany's oldest party, the center-left SPD, is in a difficult position following its success in the Mecklenburg-Western Pomerania state election",
-      "summary": "Chancellor Friedrich Merz (CDU) has vowed to press ahead with controversial reforms, but resistance is mounting within his coalition partner, the SPD. How much dissent can a governing coalition tolerate?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-s-oldest-party-the-center-left-spd-is-in-a-difficult-position-following-its-success-in-the-mecklenburg-western-pomerania-state-election/a-79376827?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-23T13:28:00.000Z",
       "sample": false
     }
   ],

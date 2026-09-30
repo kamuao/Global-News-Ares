@@ -2,8 +2,41 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-09-30T12:23:25.019Z",
+  "updatedAt": "2026-09-30T18:17:54.429Z",
   "daily": [
+    {
+      "id": "7hmmb",
+      "title": "Japan officially overhauls permanent residency rules",
+      "summary": "The country finalized sweeping rule changes for its most coveted immigration status on Thursday, including higher income and language requirements.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/01/japan/permanent-residency-guidelines-revision/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/30/thumbs/400x400/566053.jpg",
+      "publishedAt": "2026-09-30T15:15:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "76b6wx",
+      "title": "Komeito selects former party policy chief Okamoto as new leader",
+      "summary": "Komeito is rushing to rebuild its organization ahead of an extraordinary Diet session beginning next week.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/30/japan/komeito-okamoto-leader/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/30/thumbs/400x400/566070.jpg",
+      "publishedAt": "2026-09-30T12:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "8zi304",
+      "title": "Emperor and empress visit quake-hit Kumamoto Prefecture",
+      "summary": "As of Tuesday, the number of homes damaged by the quake stood at about 72,000, including some 9,700 that were destroyed or heavily damaged.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/09/30/japan/emperor-kumamoto-visit/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/30/thumbs/400x400/566069.jpg",
+      "publishedAt": "2026-09-30T12:12:00.000Z",
+      "sample": false
+    },
     {
       "id": "ute2ji",
       "title": "New internal affairs minister Fujii vows to revamp local government systems",
@@ -299,39 +332,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/09/30/world/crime-legal/cornell-gang-rape-prosecutors-reopen-case/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/30/thumbs/400x400/565948.jpg",
       "publishedAt": "2026-09-30T03:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "z4pyrq",
-      "title": "Liberty complete historic sweep of top-seeded Lynx",
-      "summary": "It was the first time that the No. 8 seed knocked out the No. 1 seed in the WNBA's current playoff format.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/09/30/basketball/lynx-liberty-wnba-playoffs/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/30/thumbs/400x400/565923.jpg",
-      "publishedAt": "2026-09-30T03:22:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "v3992o",
-      "title": "Japan’s health cost caps rise, widening gaps between insurers",
-      "summary": "Japan's health care system is often held up abroad as a model of universal coverage, but universal does not mean uniform.",
-      "category": "health",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/09/30/japan/science-health/japan-health-care-costs/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/30/thumbs/400x400/565890.jpg",
-      "publishedAt": "2026-09-30T03:05:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "w8ue8a",
-      "title": "Japan’s output falls for second month due to impact from quake and Iran war",
-      "summary": "Wednesday's data suggest Japanese manufacturers may be feeling the impact of a major quake that hit Kyushu and the Iran war.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/09/30/economy/industrial-output-august/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/09/30/thumbs/400x400/565897.jpg",
-      "publishedAt": "2026-09-30T03:03:00.000Z",
       "sample": false
     }
   ],

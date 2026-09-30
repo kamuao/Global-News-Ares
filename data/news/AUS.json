@@ -2,8 +2,85 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-09-30T12:23:26.756Z",
+  "updatedAt": "2026-09-30T18:17:55.014Z",
   "daily": [
+    {
+      "id": "us0vzi",
+      "title": "Russia launches major attack on Ukraine's energy grid as winter looms",
+      "summary": "Emergency power cuts are in operation and some public transport systems are suspended after heavy strikes across the country.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-01/russia-hits-ukrainian-energy-grid/107214710",
+      "image": null,
+      "publishedAt": "2026-09-30T17:53:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "g728lh",
+      "title": "US appeals court pauses execution of Tennessee killer Christa Pike",
+      "summary": "The execution, which was halted an hour before it was scheduled to go ahead, would have been the first time a woman had been subjected to the death penalty in more than 200 years.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-01/tennessee-execution-christa-pike-halted-appeals/107214642",
+      "image": null,
+      "publishedAt": "2026-09-30T16:28:29.000Z",
+      "sample": false
+    },
+    {
+      "id": "r15ce",
+      "title": "'Strong indications' Iran involved in RAF airbase incident, UK prime minister says",
+      "summary": "In an interview with the BBC, Andy Burnham says UK authorities \"believe Iran to have played a part\" in an incident that unfolded over the weekend near a vital UK air base.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-01/raf-fairford-likely-by-iran-burnham-says/107214676",
+      "image": null,
+      "publishedAt": "2026-09-30T16:14:30.000Z",
+      "sample": false
+    },
+    {
+      "id": "jk0j7s",
+      "title": "Israel to 'ramp up' aviation security after pilot 'tries to crash plane'",
+      "summary": "Benjamin Netanyahu says a commercial flight with 174 people on board bound for Tel Aviv had to divert to Saudi Arabia after one pilot stabbed the other and \"apparently tried to crash the plane\" in what is being treated in Israel as a terrorist attack.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-01/flydubai-ez1073-diverts-after-accusations-of-pilot-stabbing/107214522",
+      "image": null,
+      "publishedAt": "2026-09-30T15:57:55.000Z",
+      "sample": false
+    },
+    {
+      "id": "j88z2e",
+      "title": "More than 1,000 large companies paid no tax in Australia, ATO reveals",
+      "summary": "Almost 30 per cent of large companies paid no tax in 2024-25, an Australian Taxation Office report reveals, resulting in the corporate tax amount payable dropping by $8.2 billion from the previous year.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-01/ato-reveals-companies-that-paid-no-tax-as-fights-profit-shifting/107204032",
+      "image": null,
+      "publishedAt": "2026-09-30T14:19:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "scrtry",
+      "title": "House prices plummet for sixth consecutive month as experts warn of greater falls",
+      "summary": "Australian house prices fell for a sixth straight month in September, and the property market is likely to continue experiencing falls of up to 15 per cent in the coming months off the back of higher interest rates and cuts to property tax breaks, experts say.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-01/australian-house-prices-fall-for-sixth-straight-month/107206782",
+      "image": null,
+      "publishedAt": "2026-09-30T14:12:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "li1278",
+      "title": "'Extraordinarly reckless': Prince Harry says children targeted by paparazzi",
+      "summary": "Prince Harry's children have been stalked by \"certain European paparazzi\" while at school in the English countryside, his spokesperson says, marking the latest security incident in the royal's long-running battle with media outlets.",
+      "category": "society",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-09-30/prince-harry-children-targeted-by-paparazzi/107214506",
+      "image": null,
+      "publishedAt": "2026-09-30T13:13:19.000Z",
+      "sample": false
+    },
     {
       "id": "tyxboy",
       "title": "After 10-year probe, police want 54 people charged over Grenfell Tower blaze",
@@ -28,7 +105,7 @@
     },
     {
       "id": "asas71",
-      "title": "Shoebridge close to tears as he remembers mentor and 'bloody fun friend'",
+      "title": "Shoebridge emotional as he remembers mentor and 'bloody fun friend'",
       "summary": "New Greens leader David Shoebridge gets emotional during his first interview as leader while paying tribute to his political mentor before critiquing the federal government over the cost of living.",
       "category": "politics",
       "source": "abc-au",
@@ -50,7 +127,7 @@
     },
     {
       "id": "wdih9h",
-      "title": "Baghdad celebrates, Kurds concerned as US completes Iraq withdrawal",
+      "title": "Last US-led coalition forces withdraw from Iraq after 12 years",
       "summary": "This final withdrawal of troops ends a 12-year mission to fight the Islamic State group, after the US began winding down its military presence in Iraq in 2024.",
       "category": "military",
       "source": "abc-au",
@@ -171,8 +248,8 @@
     },
     {
       "id": "7cmlqq",
-      "title": "Israeli officials suspect flydubai pilot of attempted 'terror attack'",
-      "summary": "The Israeli government believes an incident on flight FZ1073, which forced the plane to make an emergency landing in Saudi Arabia, may have been an attempted \"terror attack\" by one of the pilots.",
+      "title": "Co-pilot attempted to crash plane from Dubai to Tel Aviv, Netanyahu says",
+      "summary": "Passenger Miryam Shira Ohayon said the plane was \"pretty much out of control\" when one of the pilots tried to stab the other while they were flying over Jordan en route from Dubai to Tel Aviv.",
       "category": "technology",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-09-30/dubai-to-tel-aviv-flight-signals-emergency/107213638",
@@ -193,90 +270,13 @@
     },
     {
       "id": "tiwvch",
-      "title": "Live: Nathan Cleary accepts maiden Dally M Medal from his dad's couch",
-      "summary": "Injured Penrith superstar Nathan Cleary has claimed his maiden Dally M Medal, with Brisbane fullback Tamika Upton taking the NRLW award for the third time in four seasons. Follow live.",
+      "title": "Nathan Cleary accepts maiden Dally M Medal from his dad's couch",
+      "summary": "Injured Penrith superstar Nathan Cleary has claimed his maiden Dally M Medal, with Brisbane fullback Tamika Upton taking the NRLW award for the third time in four seasons.",
       "category": "military",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-09-30/dally-m-medal-awards-ceremony-red-carpet-live-blog/107204384",
       "image": null,
       "publishedAt": "2026-09-30T07:11:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "2qjjhx",
-      "title": "Judge recuses himself in Rohan Dennis case of driving while disqualified",
-      "summary": "A new sentencing judge will hear a case against former Olympic cyclist Rohan Dennis, who has pleaded guilty to driving while disqualified.",
-      "category": "health",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-30/judge-recuses-himself-in-rohan-dennis-driving-case/107212278",
-      "image": null,
-      "publishedAt": "2026-09-30T07:04:41.000Z",
-      "sample": false
-    },
-    {
-      "id": "lgcejt",
-      "title": "Ted was pants-less and shipwrecked but the Navy rescued him 1,000km from anywhere",
-      "summary": "In the middle of the night, in the remote Indian Ocean a boat begins to sink. What follows is a remarkable tale of an unlikely sea rescue carried out by Australian authorities.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-30/james-ted-rutledge-rescue-australian-navy-indian-ocean-boat-sink/107182902",
-      "image": null,
-      "publishedAt": "2026-09-30T07:01:12.000Z",
-      "sample": false
-    },
-    {
-      "id": "wrl4i4",
-      "title": "Hostage watches as notorious bank robber is sentenced 29 years later",
-      "summary": "Alexander Robert Macdonald, who shot a man to steal his identity in the 1990s while committing dozens of bank robberies, has been sentenced for more historical offences.",
-      "category": "health",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-30/alexander-robert-macdonald-sentence-hostage-bank-robberies/107003702",
-      "image": null,
-      "publishedAt": "2026-09-30T06:47:18.000Z",
-      "sample": false
-    },
-    {
-      "id": "ugu014",
-      "title": "Former American Idol contestant guilty of fatally shooting wife",
-      "summary": "It took just a few hours for the jury to reach a guilty verdict in Flynn's murder trial after two weeks of evidence, including the testimony of his mistress, AI-generated love songs and thousands of text messages.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-30/caleb-flynn-american-idol-found-guilty-wife-murder/107210462",
-      "image": null,
-      "publishedAt": "2026-09-30T06:34:43.000Z",
-      "sample": false
-    },
-    {
-      "id": "6g03km",
-      "title": "Whale carcass on Perth beach awaits crane big enough to move it",
-      "summary": "A 13-metre-long whale carcass that washed up at City Beach on Monday will remain on the sand overnight, with a crane big enough to lift it expected to arrive on site in the morning.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-30/whale-carcass-removed-from-perth-city-beach/107211224",
-      "image": null,
-      "publishedAt": "2026-09-30T06:25:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "ryhkdy",
-      "title": "Childcare centre forced to close after recording 126 breaches",
-      "summary": "Jenny's Kindergarten and Early Learning Centre at Bathurst has been shut down due to non-compliance and child safety risks.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-30/bathurst-childcare-centre-forced-to-shut/107212612",
-      "image": null,
-      "publishedAt": "2026-09-30T06:02:53.000Z",
-      "sample": false
-    },
-    {
-      "id": "pnfeky",
-      "title": "Fossils to unravel secrets of ancient seabed buried beneath outback",
-      "summary": "Geologists have discovered fossils from an ancient coral reef deep beneath the surface of outback Queensland, which have attracted the attention of international researchers.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-09-30/mysteries-of-ancient-coral-reef-buried-under-qld/107212034",
-      "image": null,
-      "publishedAt": "2026-09-30T06:02:15.000Z",
       "sample": false
     }
   ],
