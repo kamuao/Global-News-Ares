@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-01T06:21:47.376Z",
+  "updatedAt": "2026-10-01T18:16:04.671Z",
   "daily": [
+    {
+      "id": "snih3f",
+      "title": "Eduardo Bolsonaro Threatens Retaliation against Diplomats Who \"Sabotaged\" His Father's Administration If Fl�vio Is Elected",
+      "summary": "In a video posted on Wednesday (30), former congressman Eduardo Bolsonaro promised to carry out \"a cleanout\" at Brazil's Foreign Ministry if his brother, Senator Fl�vio Bolsonaro (PL-RJ), wins the election. He said he had \"mapped out\" the ambassadors who moved in and out of posts under the Lula administration and that ",
+      "category": "military",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/eduardo-bolsonaro-threatens-retaliation-against-diplomats-who-sabotaged-his-fathers-administration-if-flavio-is-elected.shtml",
+      "image": null,
+      "publishedAt": "2026-10-01T15:08:00.000Z",
+      "sample": false
+    },
     {
       "id": "1n944q",
       "title": "Brazil's Electronic Voting Machine Turns 30 with Greater Accessibility and Reaffirmed Security",
@@ -25,7 +36,9 @@
       "image": null,
       "publishedAt": "2026-09-30T21:17:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "op2jdw",
       "title": "S�o Paulo City Hall Revokes Taxi Driver's License After He Charged Argentine $5,760 for A $5.76 Ride",
@@ -47,9 +60,7 @@
       "image": null,
       "publishedAt": "2026-09-30T14:27:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "fjb1u7",
       "title": "From Chicken to Rockets, J&F's Batista Brothers Become Weapons Manufacturers with Avibras",
@@ -147,28 +158,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/09/datafolha-lula-has-40-flavio-36-in-first-round-presidential-vote.shtml",
       "image": null,
       "publishedAt": "2026-09-25T13:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "n43186",
-      "title": "Lula Campaign Seeks Supreme Federal Court, Electoral Court Action Over Possible US Interference in Election",
-      "summary": "President Lula's campaign has asked the STF (Supreme Federal Court) for urgent measures to investigate possible US interference in Brazil's electoral process.\nLeia mais (09/24/2026 - 13h10)",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/lula-campaign-seeks-supreme-federal-court-electoral-court-action-over-possible-us-interference-in-election.shtml",
-      "image": null,
-      "publishedAt": "2026-09-24T16:10:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ctmfdu",
-      "title": "Experts Say Designating Brazilian Factions as Terrorist Is More Political Than Technical",
-      "summary": "An agreement among 14 Latin American countries to designate criminal organizations, including CV (Comando Vermelho) and PCC (Primeiro Comando da Capital), has practical consequences that remain uncertain, experts say. The announcement was made Tuesday (22) at the UN General Assembly in New York.\nLeia mais (09/24/2026 -",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/experts-say-designating-brazilian-factions-as-terrorist-is-more-political-than-technical.shtml",
-      "image": null,
-      "publishedAt": "2026-09-24T16:01:00.000Z",
       "sample": false
     }
   ],
