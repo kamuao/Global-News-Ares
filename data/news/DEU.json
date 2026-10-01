@@ -2,8 +2,41 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-01T00:23:40.438Z",
+  "updatedAt": "2026-10-01T06:21:43.417Z",
   "daily": [
+    {
+      "id": "bduo70",
+      "title": "Germany news: Berlin leftists seek to pave way for coalition",
+      "summary": "The Berlin Left Party, Greens and SPD are to meet to clarify controversial issues ahead of possible coalition talks. The second fuel tax cut this year has come into force as gas and diesel prices spiral. DW has more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-berlin-leftists-seek-to-pave-way-for-coalition/live-79496180?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-01T06:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "qojb29",
+      "title": "Swiss glaciers lose more than 5% in ice volume in 2026",
+      "summary": "Over the last five years, Swiss glaciers have lost nearly 20% of their mass, and 2026 saw the second-biggest loss of glacier volume on record. Experts warn there could be no ice left in the next 10-15 years.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/swiss-glaciers-lose-more-than-5-in-ice-volume-in-2026/a-79495965?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-01T03:13:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "btwj6f",
+      "title": "US military cuts generals, admirals by 20%, Hegseth says",
+      "summary": "The US defense secretary has also unveiled major changes, including a new drone command and an Elon Musk-led task force to assess the future of warfare.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-military-cuts-generals-admirals-by-20-hegseth-says/a-79495683?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-01T01:45:00.000Z",
+      "sample": false
+    },
     {
       "id": "fpxlmy",
       "title": "France: Hundreds arrested as student protests escalate",
@@ -192,39 +225,6 @@
       "sample": false
     },
     {
-      "id": "tsldk5",
-      "title": "South Korea: Lost shark draws over half a million visitors",
-      "summary": "The South Korean port of Busan says that a stranded shark has become a major tourist draw. It's also named the ocean predator an honorary ambassador to the city.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/south-korea-lost-shark-draws-over-half-a-million-visitors/a-79482014?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-30T09:07:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2954s0",
-      "title": "Eiffel Tower chief Patrick Branco Ruivo to step down after female staff excluded during Hindu group's visit",
-      "summary": "An investigation found management failures led to female Eiffel Tower staff being excluded during a Hindu group's visit.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/eiffel-tower-chief-patrick-branco-ruivo-to-step-down-after-female-staff-excluded-during-hindu-group-s-visit/a-79482406?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-30T08:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2t6br1",
-      "title": "India news: Key opposition leaders meet to discuss poll body row",
-      "summary": "India's opposition leaders meet in New Delhi to push back against voter roll revisions and discuss poll body chief Gyanesh Kumar. DW has more.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-key-opposition-leaders-meet-to-discuss-poll-body-row/live-79481549?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-30T08:39:00.000Z",
-      "sample": false
-    },
-    {
       "id": "yi39n",
       "title": "Germany news: Volkswagen ends collective wage agreements",
       "summary": "In an effort to cut costs, automaker Volkswagen terminated most of its collective wage agreements in Germany. This could reignite disputes with employee representatives.",
@@ -245,7 +245,9 @@
       "image": null,
       "publishedAt": "2026-09-30T06:49:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "tnlnnn",
       "title": "Hungary's reckoning with Orban's corrupt system picks up speed",
@@ -256,9 +258,7 @@
       "image": null,
       "publishedAt": "2026-09-30T04:37:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "9fagto",
       "title": "South Park satirist pushes for accountability in Cornell gang-rape lawsuit",
