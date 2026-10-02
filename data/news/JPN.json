@@ -2,8 +2,85 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-10-02T04:57:43.348Z",
+  "updatedAt": "2026-10-02T12:12:05.373Z",
   "daily": [
+    {
+      "id": "ewn21t",
+      "title": "In Maebashi, the city-making is the art",
+      "summary": "The inaugural art festival is the cherry on top of the town's decade-long revitalization efforts which include new buildings and renovations.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/culture/2026/10/02/art/maebashi-biennale-art-festival/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566304.jpg",
+      "publishedAt": "2026-10-02T10:15:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1wnzjp",
+      "title": "Japan hit by nationwide flu outbreak",
+      "summary": "The health ministry is asking the public to take basic precautions against infection such as handwashing and covering the mouth when coughing.",
+      "category": "health",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/02/japan/science-health/japan-flu-outbreak/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566472.jpg",
+      "publishedAt": "2026-10-02T09:19:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "7zj4u",
+      "title": "Takaichi told during Trump talks that weak yen was hurting U.S. trade",
+      "summary": "U.S. Treasury Secretary Scott Bessent has repeatedly suggested the BOJ should raise interest rates to help the yen find an appropriate level.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/02/japan/politics/takaichi-trump-talks-weak-yen/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566466.jpg",
+      "publishedAt": "2026-10-02T09:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "s7gfcp",
+      "title": "Tokai Kisen subject of Japan’s first-ever ship suspension order",
+      "summary": "Between January and June this year, the ministry conducted an extraordinary inspection of the company and found 13 cases of violations of the law.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/02/japan/tokai-kisen-suspension-order/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566461.jpg",
+      "publishedAt": "2026-10-02T09:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "o6cn1t",
+      "title": "Missed the JLPT? Here’s what you can do next",
+      "summary": "Even if you missed out on a spot for this year's Japanese-Language Proficiency Test, you may have more options than you originally thought.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/02/japan/jlpt-test-alternatives/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566463.jpg",
+      "publishedAt": "2026-10-02T08:54:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "bqh6no",
+      "title": "Fukushima town gets first new supermarket since nuclear accident",
+      "summary": "\"It will serve as an important base for bringing prosperity and vitality to the community,\" Okuma Mayor Jun Yoshida said at an opening ceremony.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/02/japan/fukushima-post-nuclear-disaster-supermarket/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566462.jpg",
+      "publishedAt": "2026-10-02T08:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "mj69gn",
+      "title": "New islands appear after Indonesia’s Anak Krakatau volcano erupts",
+      "summary": "The islands were spotted in satellite images of the water-filled caldera in which Anak Krakatau stands.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/02/asia-pacific/indonesia-new-islands-volcano-eruption/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566459.jpg",
+      "publishedAt": "2026-10-02T07:46:00.000Z",
+      "sample": false
+    },
     {
       "id": "t23elz",
       "title": "South Korea warns ‘further measures’ if Ukraine refuses public apology",
@@ -12,7 +89,95 @@
       "source": "japan-times",
       "url": "https://www.japantimes.co.jp/news/2026/10/02/asia-pacific/ukraine-official-south-korea/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566399.jpg",
-      "publishedAt": "2026-10-02T04:17:00.000Z",
+      "publishedAt": "2026-10-02T07:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6wei89",
+      "title": "Why is oil close to $100 if Trump is winning the battle in Hormuz?",
+      "summary": "A couple of months ago, the surge in oil shipments would have been seen as a major American victory.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/10/02/world/iran-war-100-crude-prices/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566259.jpg",
+      "publishedAt": "2026-10-02T07:13:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xv2ul9",
+      "title": "Tokyo inflation hits 2.7% in September as some subsidies come to an end",
+      "summary": "The reading was above expectations and could increase the chances of a rate rise.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/02/economy/tokyo-inflation-september/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566430.jpg",
+      "publishedAt": "2026-10-02T07:11:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "yh96qu",
+      "title": "Lin wins ‘monumental’ Asian Games gold two years after gender row",
+      "summary": "Lin Yu-ting considered retiring after winning gold at Paris 2024 but wanted to carry on fighting in part to defy those who questioned her eligibility.",
+      "category": "health",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/10/02/asian-games/lin-yu-ting-gold-asian-games/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566448.jpg",
+      "publishedAt": "2026-10-02T07:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pvs1jp",
+      "title": "Browns snuff out Rodgers fightback to beat Steelers 27-24",
+      "summary": "A fifth straight home win against their local rivals meant the largely unheralded Browns moved to 3-1, while the Steelers sank to 2-2.",
+      "category": "society",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/10/02/more-sports/browns-steelers-watson-rodgers/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566445.jpg",
+      "publishedAt": "2026-10-02T06:56:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "s2hh0u",
+      "title": "South Korea’s Lee strips power from prosecutors who indicted him",
+      "summary": "South Korea's prosecutors have long been accused of exercising excessive power, but the move has raised concerns it may leave crime victims worse off.",
+      "category": "health",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/02/asia-pacific/south-korea-lee-prosecutors/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566425.jpg",
+      "publishedAt": "2026-10-02T06:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "7ezzzs",
+      "title": "23-year-old woman stabbed to death in Okinawa in possible stalking incident",
+      "summary": "Rin Zamami was found collapsed and bleeding on the staircase outside of her apartment on Wednesday and was pronounced dead at the scene.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/02/japan/crime-legal/okinawa-stalking-murder/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566389.jpg",
+      "publishedAt": "2026-10-02T05:59:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "zeq6lk",
+      "title": "Virtual taekwondo makes Asian Games debut",
+      "summary": "Taekwondo officials have billed the event as \"real-world martial arts meets cutting-edge virtual technology.\"",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/10/02/asian-games/virtual-taekwondo-asian-games/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566420.jpg",
+      "publishedAt": "2026-10-02T04:41:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fzmo37",
+      "title": "Sanctioned ICC head’s former students demand action from Tokyo",
+      "summary": "A petition with 170,000 signatures has been submitted to Deputy Chief Cabinet Secretary Masanao Ozaki.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/02/japan/akane-icc-ex-students-petition/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566412.jpg",
+      "publishedAt": "2026-10-02T04:34:00.000Z",
       "sample": false
     },
     {
@@ -24,6 +189,17 @@
       "url": "https://www.japantimes.co.jp/news/2026/10/02/world/us-carrier-troops-mideast/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566393.jpg",
       "publishedAt": "2026-10-02T03:43:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "jl4uao",
+      "title": "Tepco begins long-delayed probe of Fukushima reactor’s interior",
+      "summary": "Tepco has frequently postponed investigations in order to remove accumulated debris and replace cameras, among other reasons.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/02/japan/tepco-investigation-start/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566411.jpg",
+      "publishedAt": "2026-10-02T03:39:00.000Z",
       "sample": false
     },
     {
@@ -104,6 +280,17 @@
       "sample": false
     },
     {
+      "id": "qovbk8",
+      "title": "Immigration reform should help the country, not punish immigrants",
+      "summary": "The changes to permanent residency requirements add stricter income and pension standards, language requirements and raise fees substantially.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/editorials/2026/10/02/japan-immigration-reform/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566401.jpg",
+      "publishedAt": "2026-10-02T02:11:00.000Z",
+      "sample": false
+    },
+    {
       "id": "icuxg9",
       "title": "Nishikori bows out for final time in Tokyo as crowd salutes Japanese trailblazer",
       "summary": "The 36-year-old was the first Asian man to reach a Grand Slam singles final, at the 2014 U.S. Open.",
@@ -145,193 +332,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/10/02/world/hormuz-oil-risky-job/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566346.jpg",
       "publishedAt": "2026-10-02T01:53:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "zdm5z9",
-      "title": "当社グループ管理サーバーへの不正アクセスに関するお知らせ",
-      "summary": "株式会社ジャパンタイムズ（本社：東京都千代田区、以下「当社」）はグループ会社が管理するサーバーの一部において、不正アクセスを受けたことをお知らせいたします。",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/press/2026/10/02/noticeransomware-incident-jp/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/566349.pdf",
-      "publishedAt": "2026-10-02T01:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "nq50kb",
-      "title": "Notice Regarding Unauthorized Access to Servers Managed by Our Group",
-      "summary": "The Japan Times, Ltd. (headquartered in Chiyoda-ku, Tokyo; hereinafter referred to as “the Company”) hereby announces that certain servers managed by a group company have been subject to unauthorized access.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/press/2026/10/02/notice-ransomware-incident/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/566350.pdf",
-      "publishedAt": "2026-10-02T01:33:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bvr3q3",
-      "title": "What we know about the Cornell University rape investigation",
-      "summary": "The reopened case has prompted public outcry and raised questions about how law enforcement and the university initially responded.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/02/world/crime-legal/cornell-rape-investigation/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566342.jpg",
-      "publishedAt": "2026-10-02T01:22:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "kt96ur",
-      "title": "Iran offers to allow nuclear inspectors if sanctions are eased",
-      "summary": "Inflation in Iran is now almost 90% year over year, and the rial has weakened 30% against the dollar as sanctions begin to bite.",
-      "category": "economy",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/02/world/politics/iran-nuclear-inspector-offer/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566345.jpg",
-      "publishedAt": "2026-10-02T01:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mhh4o5",
-      "title": "Rodman joins Trump as he eyes meeting with North Korea’s Kim",
-      "summary": "Basketball star Dennis Rodman has traveled to North Korea multiple times and joined the U.S. president at an event in Texas Thursday.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/02/world/dennis-rodman-trump-kim/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566343.jpg",
-      "publishedAt": "2026-10-02T01:03:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "iswsxv",
-      "title": "U.S. inmate in critical condition after botched execution",
-      "summary": "Christa Pike would have been the first woman put to death in the U.S. state of Tennessee in more than 200 years.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/02/world/crime-legal/us-inmate-critical-condition/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566341.jpg",
-      "publishedAt": "2026-10-02T00:48:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "qb7haw",
-      "title": "Alaska LNG could cost more than double Gulf Coast rivals",
-      "summary": "U.S. President Donald Trump unveiled the plan as part of a broader South Korean package, though Seoul said it had not yet decided whether to fund it.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/02/alaska-lng-cost-projection/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566340.jpg",
-      "publishedAt": "2026-10-02T00:23:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "sqbnr8",
-      "title": "LDP proposes restrictions on speculative condo trading",
-      "summary": "In 2024, 12.1% of new condos in central Tokyo were sold off less than a year after being purchased.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/01/japan/politics/ldp-condo-speculative-trading/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/01/thumbs/400x400/566290.jpg",
-      "publishedAt": "2026-10-01T12:44:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "wm3cwc",
-      "title": "Takaichi says government will compile action plan to spread the use of AI",
-      "summary": "\"The societal implementation of high-performance AI is essential for realizing the government's growth strategy,\" Takaichi said.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/01/japan/politics/takaichi-ai-promote/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/01/thumbs/400x400/566289.jpg",
-      "publishedAt": "2026-10-01T12:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "u1ppp2",
-      "title": "Heat deaths in Western Europe top 34,600 during hottest summer on record",
-      "summary": "Heat can exacerbate existing illnesses and is particularly dangerous for vulnerable people including young children and the elderly.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/environment/2026/10/01/climate-change/heat-deaths-western-europe/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/01/thumbs/400x400/566288.jpg",
-      "publishedAt": "2026-10-01T11:46:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "b0gzzq",
-      "title": "New Okinawa governor rejects unconditional defense buildup",
-      "summary": "\"I will not unconditionally accept\" the defense buildup in the region, Gov. Koja said in an inaugural news conference at his office in Naha.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/01/japan/politics/okinawa-governor-defense-reject/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/01/thumbs/400x400/566287.jpg",
-      "publishedAt": "2026-10-01T11:42:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "iirx8p",
-      "title": "U.K.’s path back to the EU will hit hard post-Brexit realities",
-      "summary": "New U.K. Prime Minister Andy Burnham touched off a flurry of speculation that he may campaign to re-enter the EU.",
-      "category": "health",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/01/world/politics/uk-post-brexit-realities/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/01/thumbs/400x400/566286.jpg",
-      "publishedAt": "2026-10-01T11:38:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bp823n",
-      "title": "Kyoto plans to introduce dual pricing for World Heritage castle",
-      "summary": "The admission fee will be revised down to ¥1,000 from ¥1,300 for Kyoto residents and raised to ¥2,000 for visitors from outside the city.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/01/japan/kyoto-pricing-world-heritage-castle/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/01/thumbs/400x400/566285.jpg",
-      "publishedAt": "2026-10-01T09:49:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "by0t4q",
-      "title": "Japan and Germany sign evacuation cooperation memorandum",
-      "summary": "Since 2024, Japan has established similar arrangements with South Korea, Australia, Canada, Britain and Brazil. Germany is the sixth partner country.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/01/japan/japan-germany-evacuation-memorandum/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/01/thumbs/400x400/566284.jpg",
-      "publishedAt": "2026-10-01T09:32:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "l9tv4x",
-      "title": "Ex-GSDF member admits trespassing at Chinese embassy in Tokyo",
-      "summary": "According to the indictment, Kodai Murata, 24, entered the embassy grounds on March 24 carrying a kitchen knife with an 18-centimeter blade.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/01/japan/crime-legal/gsdf-member-china-embassy/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/01/thumbs/400x400/566275.jpg",
-      "publishedAt": "2026-10-01T09:26:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "gofmby",
-      "title": "Indonesia’s neighbors powerless as smoke from monthlong wildfires shuts schools",
-      "summary": "Respiratory complaints have been skyrocketing, but existing legal frameworks offer little recourse to tackles transboundary air pollution.",
-      "category": "environment",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/01/asia-pacific/crime-legal/indonesia-haze-neighbors/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/01/thumbs/400x400/566236.jpg",
-      "publishedAt": "2026-10-01T09:15:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "v4ae3f",
-      "title": "Indian pilot hailed as ‘hero’ after cockpit struggle",
-      "summary": "Smit Machchhar fought to retain control of a flight headed for Tel Aviv when his co-pilot allegedly attacked him.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/01/asia-pacific/indian-pilot-hero-israel-flight/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/01/thumbs/400x400/566276.jpg",
-      "publishedAt": "2026-10-01T09:14:00.000Z",
       "sample": false
     }
   ],
