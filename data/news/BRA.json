@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-01T18:16:04.671Z",
+  "updatedAt": "2026-10-02T04:57:45.233Z",
   "daily": [
+    {
+      "id": "pdatx7",
+      "title": "Brazil Has More than 45,000 Officials with Special Jurisdiction Due to Their Positions",
+      "summary": "About 45,300 people have special jurisdiction due to their positions in Brazil, the right to be tried by higher courts rather than by a lower-court judge for ordinary crimes and crimes of responsibility. The figure comes from a Folha survey based on more than 70 official sources, the Federal Constitution and the 27 reg",
+      "category": "society",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/brazil-has-more-than-45000-officials-with-special-jurisdiction-due-to-their-positions.shtml",
+      "image": null,
+      "publishedAt": "2026-10-01T21:28:00.000Z",
+      "sample": false
+    },
     {
       "id": "snih3f",
       "title": "Eduardo Bolsonaro Threatens Retaliation against Diplomats Who \"Sabotaged\" His Father's Administration If Fl�vio Is Elected",
@@ -14,7 +25,9 @@
       "image": null,
       "publishedAt": "2026-10-01T15:08:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "1n944q",
       "title": "Brazil's Electronic Voting Machine Turns 30 with Greater Accessibility and Reaffirmed Security",
@@ -36,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-09-30T21:17:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "op2jdw",
       "title": "S�o Paulo City Hall Revokes Taxi Driver's License After He Charged Argentine $5,760 for A $5.76 Ride",

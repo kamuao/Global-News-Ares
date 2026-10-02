@@ -2,8 +2,470 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-10-01T18:16:02.578Z",
+  "updatedAt": "2026-10-02T04:57:41.849Z",
   "daily": [
+    {
+      "id": "lpdwsi",
+      "title": "Ukrainians tired of Zelensky’s PR built on their blood — former spokeswoman",
+      "summary": "According to Yulia Mendel, Ukrainians are also tired of the laundering of Western aid",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2196429",
+      "image": null,
+      "publishedAt": "2026-10-02T04:51:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "hi4x66",
+      "title": "Kyrgyzstan sends its first satellite into space",
+      "summary": "The launch was performed from Vandenberg Space Force Base in California and involved a Falcon 9 carrier rocket by SpaceX",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/science/2196427",
+      "image": null,
+      "publishedAt": "2026-10-02T04:38:33.000Z",
+      "sample": false
+    },
+    {
+      "id": "sy8aui",
+      "title": "Russian-US economic cooperation to overcome Biden’s short-sightedness — envoy",
+      "summary": "Earlier, Russian Presidential Press Secretary Dmitry Peskov said that presidential envoy Kirill Dmitriev continues to discuss prospects for resuming bilateral economic cooperation",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/economy/2196425",
+      "image": null,
+      "publishedAt": "2026-10-02T04:16:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpdwsc",
+      "title": "Japan mulls new anti-Russian sanctions — newspaper",
+      "summary": "Yomiuri cited government sources as saying that the restrictive measures may target vessels of the so-called shadow fleet",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2196423",
+      "image": null,
+      "publishedAt": "2026-10-02T04:11:13.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpdwsa",
+      "title": "Ukraine sustained damage of $600 bln during conflict with Russia — diplomat",
+      "summary": "Ukraine’s Ambassador to Hungary Fyodor Shandor added that the figures are growing day by day",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2196421",
+      "image": null,
+      "publishedAt": "2026-10-02T03:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "5mgeww",
+      "title": "Drone crashes into apartment block in Russia’s Volga area, one hospitalized",
+      "summary": "First responders are working at the scene, Governor Andrey Bocharov says",
+      "category": "health",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2196419",
+      "image": null,
+      "publishedAt": "2026-10-02T03:20:43.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpdwrl",
+      "title": "US sends two additional Patriot batteries to Saudi Arabia, Qatar — Axios",
+      "summary": "According to the report, Washington will protect key energy sites",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2196417",
+      "image": null,
+      "publishedAt": "2026-10-02T03:02:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "hi4x73",
+      "title": "Crew-13 mission, including Russian cosmonaut, enters ISS",
+      "summary": "Sergey Teteryatnikov thanked NASA, SpaceX and Roscosmos for the opportunity",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/science/2196415",
+      "image": null,
+      "publishedAt": "2026-10-02T02:48:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbvbcc",
+      "title": "Russian premier to take part in Eurasian Intergovernmental Council in Minsk",
+      "summary": "Attendance will initially be restricted to heads of governments of the member countries, and then other delegates from member countries and observer states will join them",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196413",
+      "image": null,
+      "publishedAt": "2026-10-02T02:42:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpdwrf",
+      "title": "Situation in Europe so critical that it is being ‘eaten alive’ — Trump",
+      "summary": "The US president made the statement while addressing his supporters in Texas",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2196411",
+      "image": null,
+      "publishedAt": "2026-10-02T02:03:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbvbbl",
+      "title": "IN BRIEF: Putin speaks on Russia’s economic sustainability, Europe’s aggression",
+      "summary": "Russia’s offensive in the special military operation zone is gaining momentum, the president says",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196407",
+      "image": null,
+      "publishedAt": "2026-10-02T01:50:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpdwqo",
+      "title": "EU rejects Kiev’s request to allocate additional 27 billion euros — Bloomberg",
+      "summary": "European sources also told the news agency that the EU would not speed up payments as part of the 90-billion-euro loan",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2196405",
+      "image": null,
+      "publishedAt": "2026-10-02T00:58:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpdwqm",
+      "title": "US may create military base in Europe",
+      "summary": "US President Donald Trump says he \"might have made\" this decision",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2196403",
+      "image": null,
+      "publishedAt": "2026-10-02T00:17:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "hi4x82",
+      "title": "Crew Dragon spacecraft with Russian cosmonaut on board docks with ISS",
+      "summary": "The flight to the orbital station took seven hours and 55 minutes, which makes it the fastest journey to the ISS in the history of manned spaceflights",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/science/2196401",
+      "image": null,
+      "publishedAt": "2026-10-01T23:53:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "5mged3",
+      "title": "Fire in 18th century mansion in St. Petersburg put out",
+      "summary": "Open fire was put out at 10:45 p.m. Thursday GMT",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2196399",
+      "image": null,
+      "publishedAt": "2026-10-01T23:09:53.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpdw7s",
+      "title": "Europeans tired of Ukrainian conflict, want peace there — WSJ",
+      "summary": "The report says that more and more European voters start to view financial and military assistance to Ukraine as a harmful and dangerous practice",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2196397",
+      "image": null,
+      "publishedAt": "2026-10-01T22:45:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "5mgecz",
+      "title": "Fire at 18th-century mansion in downtown St. Petersburg contained",
+      "summary": "The category of the fire was downgraded to two out of possible five",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2196395",
+      "image": null,
+      "publishedAt": "2026-10-01T22:15:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "jgqwam",
+      "title": "Kiev troops shell DPR 14 times in past day, two civilians wounded",
+      "summary": "Two residential buildings were damaged",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2196393",
+      "image": null,
+      "publishedAt": "2026-10-01T21:58:49.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpdw7m",
+      "title": "Houthis report new Saudi strikes on Sana’a, other provinces",
+      "summary": "No information on casualties or damage is available at this point",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2196391",
+      "image": null,
+      "publishedAt": "2026-10-01T21:53:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpdw6z",
+      "title": "US to deploy 10,000 troops, third aircraft carrier strike group to Middle East — newspaper",
+      "summary": "US officials told The Wall Street Journal that the ships, fighter jets, Marines, and sailors are expected to arrive in the region by the end of November",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2196389",
+      "image": null,
+      "publishedAt": "2026-10-01T21:46:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "5mgec4",
+      "title": "18th-century mansion on fire in downtown St. Petersburg",
+      "summary": "The Emergencies Ministry specified that the area affected by the fire is 2,000 square meters",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2196385",
+      "image": null,
+      "publishedAt": "2026-10-01T20:58:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "sy8a5l",
+      "title": "Bank of Russia sets dollar rate at 83.25 rubles for October 2",
+      "summary": "The official euro rate was lowered to 94.53 rubles",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/economy/2196347",
+      "image": null,
+      "publishedAt": "2026-10-01T20:43:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbvaq2",
+      "title": "Europe should not be dictating terms for renewing dialogue with Russia, says Putin",
+      "summary": "The Russian president pointed out that Moscow was ready to begin a dialogue without preconditions",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196367",
+      "image": null,
+      "publishedAt": "2026-10-01T20:32:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbvaq0",
+      "title": "New world’s conflicts, chaos, West’s attempts to destroy Russia: Putin’s speech",
+      "summary": "The Russian president says the world needs to think about what should be done to avoid the most catastrophic scenarios, in which humanity could slide to the brink of survival",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196365",
+      "image": null,
+      "publishedAt": "2026-10-01T20:28:41.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbvapy",
+      "title": "Putin says Russia agreed to US proposals on Ukraine at Anchorage summit",
+      "summary": "The US has asked for time to think this over, the Russian president added",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196363",
+      "image": null,
+      "publishedAt": "2026-10-01T20:09:36.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbvapw",
+      "title": "Soviet Union’s collapse is tragedy for tens of millions — Putin",
+      "summary": "Russia has been through a complicated path of fundamental transformations and this process is ongoing, said russian leader",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196361",
+      "image": null,
+      "publishedAt": "2026-10-01T19:56:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbvap1",
+      "title": "Budget deficit to be about 2% in 2027 — Putin",
+      "summary": "The Russian state debt is just 17% of GDP, russian leader added",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196351",
+      "image": null,
+      "publishedAt": "2026-10-01T19:50:03.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbvanb",
+      "title": "Institutions working since 1945 no longer reflect current international situation — Putin",
+      "summary": "The Russian president added that all new international communities still have a lot of work to do in terms of defining their functions",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196331",
+      "image": null,
+      "publishedAt": "2026-10-01T19:03:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbvamk",
+      "title": "Everyone responsible for tomorrow, no exaggeration — Putin",
+      "summary": "The Russian leader expressed hope that future generations will be able to learn from future history textbooks that the second quarter of the 21st century became a positive turning point",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196325",
+      "image": null,
+      "publishedAt": "2026-10-01T18:59:34.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbvamg",
+      "title": "European companies to get their assets in Russia back in favorable scenario — Putin",
+      "summary": "The Russian leader stressed that certain European companies took large Russian businesses in gross violation of every rules",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196321",
+      "image": null,
+      "publishedAt": "2026-10-01T18:56:23.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbvalp",
+      "title": "Russia to raise standard of living while restoring historical regions — Putin",
+      "summary": "The Russian president said the authorities will proceed from the principle of expediency and from the fact that the people living in these territories are full-fledged citizens of the Russian Federation",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196315",
+      "image": null,
+      "publishedAt": "2026-10-01T18:49:30.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbvall",
+      "title": "Western community is trying to lower new Iron Curtain — Putin",
+      "summary": "The president said that the \"Iron Curtain\" is being built through sanctions against Russia",
+      "category": "society",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196311",
+      "image": null,
+      "publishedAt": "2026-10-01T18:46:40.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbvaky",
+      "title": "Russia wants to end conflict in Ukraine as soon as possible through talks — Putin",
+      "summary": "The head of state urged to stop the accusations that Russia does not want these negotiations",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196309",
+      "image": null,
+      "publishedAt": "2026-10-01T18:45:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbva1w",
+      "title": "Putin, Xi understand each other 'without words'",
+      "summary": "According to the Russian president, there is no language barrier between him and Chinese leader",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196295",
+      "image": null,
+      "publishedAt": "2026-10-01T18:41:54.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbva08",
+      "title": "BRICS could serve as prototype for building future world order — Putin",
+      "summary": "The Russian leader stressed that BRICS' share of the world economy is steadily growing",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196277",
+      "image": null,
+      "publishedAt": "2026-10-01T18:38:21.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbva04",
+      "title": "Europe more aggressive towards Russia than US — Putin",
+      "summary": "Commenting on the possible influence of the EU on US policy, the Russian president expressed confidence that it is \"excessive\" to assume that \"someone from the outside determines US policy in certain areas\"",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196273",
+      "image": null,
+      "publishedAt": "2026-10-01T18:35:31.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbva02",
+      "title": "Putin says EU countries may 'collapse on their own' due to economic mistakes",
+      "summary": "The Russian president also pointed out that all problems stem from the economy and cited assessments of the economic conditions of Western countries",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196271",
+      "image": null,
+      "publishedAt": "2026-10-01T18:29:53.000Z",
+      "sample": false
+    },
+    {
+      "id": "sy89gm",
+      "title": "Putin estimates damage from strikes against Russian refineries at 1% of GDP",
+      "summary": "The Russian leader said the strikes were launched deliberately",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/economy/2196267",
+      "image": null,
+      "publishedAt": "2026-10-01T18:27:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbv9zb",
+      "title": "Putin says work begins on Eurasian Charter of Multipolarity and Diversity",
+      "summary": "The Russian leader stressed that Eurasia is capable of becoming a prototype for international interaction amidst a diversity of cultures, approaches, and interests",
+      "category": "society",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196265",
+      "image": null,
+      "publishedAt": "2026-10-01T18:24:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbv9yi",
+      "title": "Indian prime minister has good ideas for Ukraine settlement — Putin",
+      "summary": "The Russian president noted that Narendra Modi constantly raises the issue and asks questions about ending the conflict in Ukraine",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196257",
+      "image": null,
+      "publishedAt": "2026-10-01T18:21:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "sy89fn",
+      "title": "Sanctions prevent Russian diesel fuel from flowing to global markets",
+      "summary": "The head of state assured that Russia has enough diesel fuel",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/economy/2196253",
+      "image": null,
+      "publishedAt": "2026-10-01T18:17:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbv9xl",
+      "title": "Putin says EU plans to twist Russia's nuclear statements to justify aggression",
+      "summary": "The Russian leader said the European states will divert the attention of their citizens from the fact that they themselves are pursuing an aggressive policy toward Russia",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2196245",
+      "image": null,
+      "publishedAt": "2026-10-01T18:15:48.000Z",
+      "sample": false
+    },
     {
       "id": "rbv9ws",
       "title": "'Hegemon' knows multipolar world here, says Putin",
@@ -698,28 +1160,6 @@
       "sample": false
     },
     {
-      "id": "rbuq0e",
-      "title": "Russia, Republic of the Congo ink cooperation plan for 2026-2028",
-      "summary": "The parties discussed key areas of interaction in development of energy infrastructure, exploration and digital development",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195689",
-      "image": null,
-      "publishedAt": "2026-10-01T13:00:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbuq17",
-      "title": "IN BRIEF: What to know on summoning of Hungarian charge d'affaires, expulsion of diplomats",
-      "summary": "Gabor Gergics received a strong protest over Hungary’s \"unfounded and openly unfriendly\" demand that several Russian diplomatic staff leave the country",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195697",
-      "image": null,
-      "publishedAt": "2026-10-01T12:55:41.000Z",
-      "sample": false
-    },
-    {
       "id": "4d0rt4",
       "title": "Jailed Gulag Historian in Stable But Precarious Condition After Suspected Stroke, Source Says",
       "summary": "Yury Dmitriev's supporters have warned that his life could be at risk if he is not moved to a civilian hospital immediately.",
@@ -728,72 +1168,6 @@
       "url": "https://www.themoscowtimes.com/2026/10/01/jailed-gulag-historian-in-stable-but-precarious-condition-after-suspected-stroke-source-says-a93839",
       "image": null,
       "publishedAt": "2026-10-01T12:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbuq08",
-      "title": "Russia to retaliate swiftly if NATO implements threats against Kaliningrad Region — aide",
-      "summary": "Nikolay Patrushev empasized that Russia had stated this repeatedly",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195683",
-      "image": null,
-      "publishedAt": "2026-10-01T12:42:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbuq06",
-      "title": "Russian troops liberate three communities in Kharkov Region over past day — top brass",
-      "summary": "Russia's Battlegroup North units took control of the settlements of Nesternoye, Rublenoye and Vysokaya Yaruga",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195681",
-      "image": null,
-      "publishedAt": "2026-10-01T12:38:26.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpdbek",
-      "title": "Pezeshkian states Iran will not avoid dialogue with US",
-      "summary": "The Iranian president added that the national unity and internal cohesion had only grown stronger",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2195675",
-      "image": null,
-      "publishedAt": "2026-10-01T12:33:47.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbupzb",
-      "title": "Kiev's European backers do not want peace between Russia, Ukraine — envoy to OSCE",
-      "summary": "According to Dmitry Polyansky, this peace \"could have been achieved long ago, provided that it is long-term and sustainable\"",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195671",
-      "image": null,
-      "publishedAt": "2026-10-01T12:31:58.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpdbdl",
-      "title": "Trump calls Iran’s potential annihilation ‘possibility’",
-      "summary": "The US leader claimed that by annihilating Iran, the United States had created \"peace in the world\"",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2195661",
-      "image": null,
-      "publishedAt": "2026-10-01T12:29:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "jgrh5c",
-      "title": "Russia’s new modular Svarog FPV drones undergoing combat testing",
-      "summary": "The Svarog Research and Production Center specified that interchangeable control and video modules allow the platforms to be adapted to various frequency bands",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2195659",
-      "image": null,
-      "publishedAt": "2026-10-01T12:23:56.000Z",
       "sample": false
     },
     {
@@ -808,61 +1182,6 @@
       "sample": false
     },
     {
-      "id": "lpdbcq",
-      "title": "US actively replenishing its weapons stockpiles over past six months — Trump",
-      "summary": "Donald Trump added that Joe Biden \"gave away massive amounts of munitions to Ukraine\"",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2195651",
-      "image": null,
-      "publishedAt": "2026-10-01T11:56:50.000Z",
-      "sample": false
-    },
-    {
-      "id": "sy7pe7",
-      "title": "Cost of explored mineral resources in Arctic over $20 trillion — minister",
-      "summary": "\"At the same time, according to the estimate of subsurface users, the exploration maturity is not above 20%,\" Russian Minister of Far East and Arctic Development Alexey Chekunkov said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2195649",
-      "image": null,
-      "publishedAt": "2026-10-01T11:55:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "sy7pe5",
-      "title": "Russia’s LNG production may reach 44 mln metric tons in 2026",
-      "summary": "An updated forecast for Russia’s socioeconomic development previously said that Russian LNG exports were expected to reach 35 mln metric tons in 2026",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2195647",
-      "image": null,
-      "publishedAt": "2026-10-01T11:55:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbupws",
-      "title": "Special op to continue until Kiev regime’s total military collapse — envoy",
-      "summary": "\"The special military operation will continue until Europe’s 'party of war' is sidelined and European elites stop obstructing efforts to achieve genuine peace,\" Dmitry Polyansky added",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195643",
-      "image": null,
-      "publishedAt": "2026-10-01T11:53:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbupwu",
-      "title": "IN BRIEF: Kremlin comments on Putin’s remarks at Valdai and warning over Kaliningrad",
-      "summary": "According to Dmitry Peskov, the whole world is waiting for today's Russian president's address",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195645",
-      "image": null,
-      "publishedAt": "2026-10-01T11:52:58.000Z",
-      "sample": false
-    },
-    {
       "id": "8oa9qd",
       "title": "Russia Expels ‘Group’ of Hungarian Diplomats in Tit-for-Tat Move",
       "summary": "Budapest previously expelled 10 Russian diplomats for activities incompatible with their status, wording that is often used as a euphemism for spying.",
@@ -871,94 +1190,6 @@
       "url": "https://www.themoscowtimes.com/2026/10/01/russia-expels-group-of-hungarian-diplomats-in-tit-for-tat-move-a93840",
       "image": null,
       "publishedAt": "2026-10-01T11:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "jgrh6f",
-      "title": "Skat-350M UAV suitable for missions in Caspian Sea — Kalashnikov",
-      "summary": "Kalashnikov’s product is distinguished by its high wind resistance",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/defense/2195641",
-      "image": null,
-      "publishedAt": "2026-10-01T11:48:39.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbupw3",
-      "title": "Ukraine corruption scheme funded by EU taxpayers: SVR statements",
-      "summary": "According to the intelligence service, Vladimir Zelensky and his inner circle refuse to end the conflict as they continue lining their pockets, \"driven mad by the prospect of easy pickings\"",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195639",
-      "image": null,
-      "publishedAt": "2026-10-01T11:45:27.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbupw1",
-      "title": "Dmitriev always reports to Putin about contacts with US representatives — Kremlin",
-      "summary": "According to Dmitry Peskov, Kirill Dmitriev continues to discuss with the United States economic issues in the context of a possible resumption of business ties",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195637",
-      "image": null,
-      "publishedAt": "2026-10-01T11:43:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "vep94r",
-      "title": "Nearly 90% of banned groups promoted destructive ideas among youth — prosecutor general",
-      "summary": "As an example, Alexander Gutsan cited Bard College, which \"deliberately instilled cultural and moral nihilism among teenagers and systematically created conditions for their radicalization\"",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/society/2195629",
-      "image": null,
-      "publishedAt": "2026-10-01T11:42:19.000Z",
-      "sample": false
-    },
-    {
-      "id": "vep95g",
-      "title": "Colombian journalist says it is important to explain who is 'driving' conflict in Donbass",
-      "summary": "Earlier, it was reported that representatives of 13 foreign media outlets from 11 countries had visited the LPR",
-      "category": "health",
-      "source": "tass",
-      "url": "https://tass.com/society/2195633",
-      "image": null,
-      "publishedAt": "2026-10-01T11:41:59.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbupv6",
-      "title": "Ukraine is becoming very costly project for EU amid requests for new aid tranches — expert",
-      "summary": "Alexander Irkhin said Europe is gradually realizing that its own resources in the conflict in Ukraine are limited",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195627",
-      "image": null,
-      "publishedAt": "2026-10-01T11:37:52.000Z",
-      "sample": false
-    },
-    {
-      "id": "jgrh83",
-      "title": "Several countries show interest in Russia’s Supercam S180 recon UAV — developer",
-      "summary": "\"It still needs to build up a certain track record during the special military operation so that the audience can fully assess its capabilities,\" Unmanned Systems Group Spokeswoman Yekaterina Zgirovskaya said",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2195623",
-      "image": null,
-      "publishedAt": "2026-10-01T11:30:07.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpdb9g",
-      "title": "Hungary to avoid escalating diplomatic tensions with Russia — Foreign Ministry",
-      "summary": "According to the statement, Hungary’s diplomatic presence in the country is maintained",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2195617",
-      "image": null,
-      "publishedAt": "2026-10-01T11:20:01.000Z",
       "sample": false
     },
     {
@@ -973,116 +1204,6 @@
       "sample": false
     },
     {
-      "id": "rbupti",
-      "title": "Ukrainian forces suffering heavy losses in Zaporozhye area — governor",
-      "summary": "Behind every liberated settlement lies the courage and heroism of Russian soldiers, Yevgeny Balitsky said",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195609",
-      "image": null,
-      "publishedAt": "2026-10-01T11:03:31.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbupac",
-      "title": "Warning about consequences of Kaliningrad blockade not confrontational — Kremlin",
-      "summary": "Kaliningrad is an integral part of Russia, Dmitry Peskov said",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195591",
-      "image": null,
-      "publishedAt": "2026-10-01T10:35:02.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbup9l",
-      "title": "Russia expels employees of Hungarian embassy, consulates in response to Hungary — MFA",
-      "summary": "The Russian Foreign Ministry said that a strong protest was lodged with the head of the Hungarian diplomatic mission",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195585",
-      "image": null,
-      "publishedAt": "2026-10-01T10:30:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpdaoo",
-      "title": "UK adds 23 individuals, entities, 8 vessels to Russia sanctions list",
-      "summary": "Under the restrictions, any assets or bank accounts belonging to the sanctioned individuals and entities in the UK will be frozen, and the listed individuals are subject to a travel ban",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2195583",
-      "image": null,
-      "publishedAt": "2026-10-01T10:26:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "sy7oqq",
-      "title": "Russia earmarks over $48.05 bln for national security in 2027",
-      "summary": "The expenditures include, among other things, funding for the operation of the Russian Armed Forces, national security and law enforcement agencies, troops, and other military formations",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/economy/2195581",
-      "image": null,
-      "publishedAt": "2026-10-01T10:24:47.000Z",
-      "sample": false
-    },
-    {
-      "id": "sy7op4",
-      "title": "Russian gas exports to Europe via TurkStream up 1.4% in 9M",
-      "summary": "The pipeline operated at 79% of its total capacity",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2195565",
-      "image": null,
-      "publishedAt": "2026-10-01T10:05:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "jgrhw3",
-      "title": "Russian army integrating AI for automatic UAV detection into recon equipment — commander",
-      "summary": "According to Andrey Mordvichev, work is currently underway to integrate machine vision functions and AI technologies into reconnaissance devices",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2195557",
-      "image": null,
-      "publishedAt": "2026-10-01T10:00:48.000Z",
-      "sample": false
-    },
-    {
-      "id": "cpgml8",
-      "title": "Press review: Flydubai incident raises Mid East escalation risks and US ends Iraq mission",
-      "summary": "Top stories from the Russian press on Thursday, October 1st",
-      "category": "technology",
-      "source": "tass",
-      "url": "https://tass.com/pressreview/2195421",
-      "image": null,
-      "publishedAt": "2026-10-01T10:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "sy7oo5",
-      "title": "Finance ministry expects budget revenues from dividends at $10 bln in 2027",
-      "summary": "This year’s revenues from dividends are expected at $9.7 bln",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2195551",
-      "image": null,
-      "publishedAt": "2026-10-01T09:55:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "sy7one",
-      "title": "Russia's federal budget oil and gas revenues seen at $83.7 bln in 2027",
-      "summary": "Oil and gas revenues for the federal budget in 2027 are projected at 2.8% of GDP",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2195545",
-      "image": null,
-      "publishedAt": "2026-10-01T09:52:09.000Z",
-      "sample": false
-    },
-    {
       "id": "4abay8",
       "title": "Russian Pro-War Writers Say State Has Failed Them",
       "summary": "Poets and authors accused the authorities of failing to promote their work and restricting their access to schools and literary events.",
@@ -1091,39 +1212,6 @@
       "url": "https://www.themoscowtimes.com/2026/10/01/russian-pro-war-writers-say-state-has-failed-them-a93838",
       "image": null,
       "publishedAt": "2026-10-01T09:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpdahu",
-      "title": "Iran grateful to Russia for Lavrov's remarks at UN — ambassador to Moscow",
-      "summary": "Kazem Jalali described the Russian foreign minister's speech as magnificent",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2195505",
-      "image": null,
-      "publishedAt": "2026-10-01T09:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "jgriji",
-      "title": "Combat experience confirms proper choice of developing Russian Missile Troops — commander",
-      "summary": "According to Colonel General Andrey Mordvichev, this military branch is at the final stage of switching over to the system that consists of a set of reconnaissance, firing, command and control and support subsystems",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2195491",
-      "image": null,
-      "publishedAt": "2026-10-01T09:24:11.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbuoi1",
-      "title": "US withdraws from Iraq after failing counter-terrorism mission — expert",
-      "summary": "By leaving Iraq, the Americans are abandoning a country on the brink of a new civil war, with the Kurds increasingly asserting their autonomy and independence, Alexander Kharchenko said",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195475",
-      "image": null,
-      "publishedAt": "2026-10-01T09:03:54.000Z",
       "sample": false
     },
     {
@@ -1136,95 +1224,9 @@
       "image": null,
       "publishedAt": "2026-10-01T08:50:23.000Z",
       "sample": false
-    },
-    {
-      "id": "5mfs0n",
-      "title": "UAE considers terrorist attack among possible causes of Flydubai plane incident — WAM",
-      "summary": "The investigative team, together with the UAE General Civil Aviation Authority, is establishing all the circumstances of the incident",
-      "category": "technology",
-      "source": "tass",
-      "url": "https://tass.com/emergencies/2195453",
-      "image": null,
-      "publishedAt": "2026-10-01T08:48:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "jgrinl",
-      "title": "Russia to develop next-generation tanks for modern forms of warfare — general",
-      "summary": "According to Colonel General Andrey Mordvichev, the introduction of effective fire control systems incorporating artificial intelligence and a high degree of automation in combat and operational processes will help boost firepower",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2195449",
-      "image": null,
-      "publishedAt": "2026-10-01T08:40:57.000Z",
-      "sample": false
-    },
-    {
-      "id": "sy7nwr",
-      "title": "French gas storage facilities 83% full — regulator",
-      "summary": "According to Chairwoman of the French Energy Regulatory Commission Emmanuelle Wargon, the target is 85%",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/economy/2195447",
-      "image": null,
-      "publishedAt": "2026-10-01T08:39:40.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbuofe",
-      "title": "West demonstrating intention to disrupt global trading system — Russian minister",
-      "summary": "Maksim Reshetnikov noted that despite the large scale of the American economy the world is developing more and more rapidly",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195443",
-      "image": null,
-      "publishedAt": "2026-10-01T08:38:17.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbuofg",
-      "title": "Crimea left without power, 330 UAVs: aftermath of attacks on Russian regions",
-      "summary": "A 16-year-old teenager was injured in Russia’s western Bryansk Region",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195445",
-      "image": null,
-      "publishedAt": "2026-10-01T08:34:13.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbuofc",
-      "title": "Russia maintains constructive dialogue with Mexico — Foreign Ministry",
-      "summary": "According to Director of the Russian Foreign Ministry's Department of Latin America Alexander Shchetinin, business dialogue between Russia and Mexico is developing pragmatically",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195441",
-      "image": null,
-      "publishedAt": "2026-10-01T08:21:51.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpd9tq",
-      "title": "US excludes number of European allies from meeting on NATO’s future — Politico",
-      "summary": "Diplomatic circles fear that Washington’s selectivity could lead to a transformation of the alliance as a whole",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2195435",
-      "image": null,
-      "publishedAt": "2026-10-01T08:08:22.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbuoep",
-      "title": "Kherson Region is testing ground for new UAVs, anti-drone weapons — governor",
-      "summary": "Vladimir Saldo noted that a multi-layered defense system against Ukrainian UAVs is now fully operational across the region",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2195439",
-      "image": null,
-      "publishedAt": "2026-10-01T08:03:43.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "e103zt",
       "title": "Vatican Envoy Discusses Humanitarian Issues, Visits POWs in Russia, Foreign Ministry Says",
@@ -1235,9 +1237,7 @@
       "image": null,
       "publishedAt": "2026-09-30T18:23:41.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "7su09v",
       "title": "Russian Regions Turn to Residents and Businesses to Fund Bomb Shelters",
