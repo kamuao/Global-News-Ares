@@ -2,8 +2,32 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-02T12:12:06.073Z",
+  "updatedAt": "2026-10-03T04:41:04.364Z",
   "daily": [
+    {
+      "id": "xrpcpy",
+      "title": "Itacolomi Park in Minas Gerais Combines Hiking, History and, Now, Overnight Stays",
+      "summary": "Itacolomi State Park, in Ouro Preto, in the interior of Minas Gerais in southeastern Brazil, reopened in February and now offers accommodation in addition to trails and historical heritage. The park is open from 8 a.m. to 5 p.m., Tuesday through Sunday, and admission costs R$28.75.\nLeia mais (10/02/2026 - 12h20)",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/travel/2026/10/itacolomi-park-in-minas-gerais-combines-hiking-history-and-now-overnight-stays.shtml",
+      "image": null,
+      "publishedAt": "2026-10-02T15:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pc99zh",
+      "title": "Datafolha Poll: Lula Has 45% and Fl�vio Bolsonaro 40% of Valid Votes in First Round",
+      "summary": "The presidential race enters the final days before the first round with Lula (PT) at 45% of voting intentions among valid votes, which exclude blank and null votes and undecided voters, compared with 40% for Fl�vio Bolsonaro (PL), according to Datafolha. A week ago, they stood at 43% and 39%, respectively. They are fol",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/datafolha-poll-lula-has-45-and-flavio-bolsonaro-40-of-valid-votes-in-first-round.shtml",
+      "image": null,
+      "publishedAt": "2026-10-02T15:11:00.000Z",
+      "sample": false
+    }
+  ],
+  "weekly": [
     {
       "id": "pdatx7",
       "title": "Brazil Has More than 45,000 Officials with Special Jurisdiction Due to Their Positions",
@@ -25,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-10-01T15:08:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "1n944q",
       "title": "Brazil's Electronic Voting Machine Turns 30 with Greater Accessibility and Reaffirmed Security",
@@ -147,28 +169,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/rockbridge-conservative-group-founded-by-us-vice-president-began-setting-up-in-brazil.shtml",
       "image": null,
       "publishedAt": "2026-09-28T14:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "nxt68c",
-      "title": "Messages Point to Close Relationship Between Brazil's Senate President and Imprisoned Former Banker",
-      "summary": "Messages extracted by the Federal Police and revealed by Veja magazine, with their contents confirmed by Folha, show a friendship between Senate President Davi Alcolumbre and Banco Master owner Daniel Vorcaro, who is in custody.\nLeia mais (09/25/2026 - 10h43)",
-      "category": "health",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/09/messages-point-to-close-relationship-between-brazils-senate-president-and-imprisoned-former-banker.shtml",
-      "image": null,
-      "publishedAt": "2026-09-25T13:43:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "a8xqlu",
-      "title": "Datafolha: Lula Has 40%, Fl�vio 36% in First-Round Presidential Vote",
-      "summary": "A Datafolha poll indicates that Lula has 40% of voting intentions in the first round, compared with 36% for Fl�vio Bolsonaro. In the second round, there is a tie: the president has 47% and the senator, 45%. The margin of error is two percentage points, plus or minus.\nLeia mais (09/25/2026 - 10h34)",
-      "category": "military",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/09/datafolha-lula-has-40-flavio-36-in-first-round-presidential-vote.shtml",
-      "image": null,
-      "publishedAt": "2026-09-25T13:34:00.000Z",
       "sample": false
     }
   ],
