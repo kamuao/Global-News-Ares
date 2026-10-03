@@ -2,8 +2,41 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-03T11:21:58.508Z",
+  "updatedAt": "2026-10-03T16:00:09.211Z",
   "daily": [
+    {
+      "id": "osr4a9",
+      "title": "Spain: Massive protests after housing bills voted down",
+      "summary": "Organizers estimated that 500,000 people turned out in the streets of Madrid to demand affordable housing. Similar protests were held in around 50 other Spanish cities.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/spain-massive-protests-after-housing-bills-voted-down/a-79532124?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-03T14:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "m0anxc",
+      "title": "Greece returns remains of Czar Samuel to Bulgaria",
+      "summary": "A warrior emperor who ruled the Bulgarian Empire in the Middle Ages, Czar Samuel is a symbol of Bulgarian national identity. But his remains have been in Greece for decades – and he is also claimed by North Macedonia.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/greece-returns-remains-of-czar-samuel-to-bulgaria/a-79530104?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-03T12:17:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "jrogv3",
+      "title": "Spain: Floods leave 102-year-old woman dead in southeast",
+      "summary": "Authorities in Spain rescued some 90 people after heavy rain sparked flooding in the town of Madrigueras. Prime Minister Pedro Sanchez expressed his condolences to the family of a 102-year-old woman who died.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/spain-floods-leave-102-year-old-woman-dead-in-southeast/a-79529983?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-03T12:01:00.000Z",
+      "sample": false
+    },
     {
       "id": "sxmqau",
       "title": "On German Unity Day, Steinmeier laments 'bitter setbacks'",
@@ -190,7 +223,9 @@
       "image": null,
       "publishedAt": "2026-10-02T16:39:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "iwl8dd",
       "title": "\"NAZA\": Israeli military issues statement on film",
@@ -200,28 +235,6 @@
       "url": "https://www.dw.com/en/naza-israeli-military-issues-statement-on-film/a-79520483?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-02T15:55:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fu48d2",
-      "title": "Israel's top court allows Arab parties to run in election",
-      "summary": "The ruling overturns a move by the Central Elections Committee to ban four parties. The conservative Muslim Ra'am party could serve as the kingmaker following the next elections.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/israel-s-top-court-allows-arab-parties-to-run-in-election/a-79519184?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-02T15:53:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "j2zkcq",
-      "title": "Iran accused of blocking SIM cards, digital access to silence dissent",
-      "summary": "DW has spoken with several Iranians who say their SIM cards, bank access and online accounts were blocked until they deleted critical content or pledged to stop activism.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/iran-accused-of-blocking-sim-cards-digital-access-to-silence-dissent/a-79522440?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-02T15:19:00.000Z",
       "sample": false
     },
     {
@@ -256,9 +269,7 @@
       "image": null,
       "publishedAt": "2026-10-02T11:59:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "dimev6",
       "title": "ARD-Deutschlandtrend survey: Germans unite in frustration over the government",
@@ -284,7 +295,7 @@
     {
       "id": "b262vl",
       "title": "Turkey: Stock market scandal hits half a million investors",
-      "summary": "Asset managers are alleged to have artificially inflated the value of their funds. Turkish authorities have made multiple arrests, and a leading AKP lawmakers has resigned.",
+      "summary": "Asset managers are alleged to have artificially inflated the value of their funds. Turkish authorities have made multiple arrests, and a leading AKP lawmaker has resigned.",
       "category": "economy",
       "source": "dw",
       "url": "https://www.dw.com/en/turkey-stock-market-scandal-hits-half-a-million-investors/a-79494710?maca=en-rss-en-all-1573-xml-mrss",
@@ -437,7 +448,7 @@
     },
     {
       "id": "sifcba",
-      "title": "Ireland will boycott Eurovision again because of Israel's participation, but the song contest is still expanding.",
+      "title": "Ireland will boycott Eurovision again because of Israel's participation, but the song contest is still expanding",
       "summary": "The 2026 Eurovision Song Contest was marred by boycotts in protest against Israel's participation in the midst of its war on Gaza. It still aims to keep growing.",
       "category": "military",
       "source": "dw",
@@ -675,28 +686,6 @@
       "url": "https://www.dw.com/en/backlash-over-data-centers-tests-europe-s-ai-ambitions/a-79419800?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-26T18:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "sod70i",
-      "title": "Russia expected to intensify hybrid war on Europe",
-      "summary": "Drone explosions, airspace violations, arson attacks: Poland, Romania, and Moldova are now regularly targeted in Russian attacks against Ukraine. More governments are calling these attacks deliberate acts of aggression.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-26T15:39:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fa57a8",
-      "title": "Russian classroom propaganda glorifies dying for your country, students say",
-      "summary": "The Russian government has stepped up its efforts to spread patriotic propaganda in schools. DW spoke to students about textbooks that portray the West as hostile and promote sacrifice for the nation.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/russian-classroom-propaganda-glorifies-dying-for-your-country-students-say/a-79417294?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-26T11:55:00.000Z",
       "sample": false
     }
   ],

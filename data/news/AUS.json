@@ -2,8 +2,19 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-10-03T11:22:02.063Z",
+  "updatedAt": "2026-10-03T16:00:12.575Z",
   "daily": [
+    {
+      "id": "tnaqpt",
+      "title": "Teen charged for alleged crashing into crowd of Newcastle Knights supporters",
+      "summary": "The alleged teenaged driver of the car which ploughed into a crowd a crowd of Newcastle Knights supporters has been charged.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-03/teen-charged-for-alleged-crashing-into-crowd/107225432",
+      "image": null,
+      "publishedAt": "2026-10-03T11:42:26.000Z",
+      "sample": false
+    },
     {
       "id": "nxvu42",
       "title": "Verstappen claims pole at Grand Prix in Malaysia",
@@ -94,7 +105,7 @@
     },
     {
       "id": "8we4w4",
-      "title": "Saints hit rock bottom, Essendon, Suns claim breakthrough AFLW victories",
+      "title": "Saints hit rock bottom, Essendon, Suns, Port claim AFLW victories",
       "summary": "St Kilda were 90 seconds from failing to score in their AFLW clash against the Western Bulldogs, as Essendon's first win of the year leaves the Saints as the only winless team in the league.",
       "category": "politics",
       "source": "abc-au",
@@ -266,17 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-10-03/labor-risks-seats-with-working-holiday-visa-policy/107222324",
       "image": null,
       "publishedAt": "2026-10-02T23:08:36.000Z",
-      "sample": false
-    },
-    {
-      "id": "k6arnb",
-      "title": "How do I know my child is ready to leave the house on their own?",
-      "summary": "As children get older they start wanting more independence. But how do you know when they are ready to go somewhere without adult supervision?",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-03/how-do-i-know-my-child-is-ready-to-leave-the-house-on-their-own/107219816",
-      "image": null,
-      "publishedAt": "2026-10-02T23:00:00.000Z",
       "sample": false
     }
   ],

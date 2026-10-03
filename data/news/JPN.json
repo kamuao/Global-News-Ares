@@ -2,7 +2,7 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-10-03T11:22:01.014Z",
+  "updatedAt": "2026-10-03T16:00:11.183Z",
   "daily": [
     {
       "id": "hr5rfk",
@@ -39,7 +39,7 @@
     },
     {
       "id": "8ruf49",
-      "title": "Asian carmakers besting U.S. rivals at home, China poised to strike",
+      "title": "Asian carmakers besting U.S. rivals at home, with China poised to join fray",
       "summary": "U.S. President Donald Trump has floated the idea of allowing Chinese firms to enter the U.S. market, worrying U.S. carmakers.",
       "category": "economy",
       "source": "japan-times",
@@ -201,7 +201,9 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/03/thumbs/400x400/566504.jpg",
       "publishedAt": "2026-10-02T21:56:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "e91l1y",
       "title": "U.S. to put missile system on island near Taiwan for drills",
@@ -212,9 +214,7 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566492.jpg",
       "publishedAt": "2026-10-02T12:05:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "ewn21t",
       "title": "In Maebashi, the city-making is the art",
