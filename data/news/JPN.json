@@ -2,8 +2,19 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-10-03T04:41:03.312Z",
+  "updatedAt": "2026-10-03T11:22:01.014Z",
   "daily": [
+    {
+      "id": "hr5rfk",
+      "title": "AI’s race to transform the world before the money runs out",
+      "summary": "Assumptions about future profits are driving the AI rush, but economists say there is little evidence to suggest the technology is sure to deliver.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/03/tech/ai-transform-world-money/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/03/thumbs/400x400/566520.jpg",
+      "publishedAt": "2026-10-03T05:03:00.000Z",
+      "sample": false
+    },
     {
       "id": "6fspgz",
       "title": "Taiwanese foreign minister to visit Arizona to deepen economic ties",
@@ -13,6 +24,17 @@
       "url": "https://www.japantimes.co.jp/news/2026/10/03/asia-pacific/politics/taiwan-fm-visit-arizona/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/03/thumbs/400x400/566518.jpg",
       "publishedAt": "2026-10-03T04:32:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "vee0n1",
+      "title": "Police search Toyama City Hall over census inflation claims",
+      "summary": "The internal affairs ministry said that Toyama's population had been padded by at least 2,000, and that city staff members may have been involved.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/03/japan/politics/police-toyama-census-inflation/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/03/thumbs/400x400/566519.jpg",
+      "publishedAt": "2026-10-03T04:31:00.000Z",
       "sample": false
     },
     {
@@ -190,7 +212,9 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566492.jpg",
       "publishedAt": "2026-10-02T12:05:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "ewn21t",
       "title": "In Maebashi, the city-making is the art",
@@ -311,31 +335,8 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566448.jpg",
       "publishedAt": "2026-10-02T07:00:00.000Z",
       "sample": false
-    },
-    {
-      "id": "pvs1jp",
-      "title": "Browns snuff out Rodgers fightback to beat Steelers 27-24",
-      "summary": "A fifth straight home win against their local rivals meant the largely unheralded Browns moved to 3-1, while the Steelers sank to 2-2.",
-      "category": "society",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/10/02/more-sports/browns-steelers-watson-rodgers/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566445.jpg",
-      "publishedAt": "2026-10-02T06:56:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "s2hh0u",
-      "title": "South Korea’s Lee strips power from prosecutors who indicted him",
-      "summary": "South Korea's prosecutors have long been accused of exercising excessive power, but the move has raised concerns it may leave crime victims worse off.",
-      "category": "health",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/02/asia-pacific/south-korea-lee-prosecutors/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/02/thumbs/400x400/566425.jpg",
-      "publishedAt": "2026-10-02T06:01:00.000Z",
-      "sample": false
     }
   ],
-  "weekly": [],
   "developing": [
     {
       "id": "bvr3q3",
