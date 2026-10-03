@@ -2,8 +2,96 @@
   "id": "GBR",
   "name": "United Kingdom",
   "sample": false,
-  "updatedAt": "2026-10-03T16:00:08.982Z",
+  "updatedAt": "2026-10-03T20:49:52.314Z",
   "daily": [
+    {
+      "id": "bfihc0",
+      "title": "Man shot dead as families gather for memorial",
+      "summary": "The 40-year-old died at the scene in west London from a gunshot wound, the Met Police said.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c3zxjl2pp49zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9020/live/de31cbc0-bf6a-11f1-8dde-c5daf8e396f5.jpg",
+      "publishedAt": "2026-10-03T20:42:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "hyppwf",
+      "title": "Are AI models the next big danger for body image?",
+      "summary": "Could the rise of AI models in advertising and on social media harm young people's body confidence?",
+      "category": "technology",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/ckgw8yq4kyzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c70/live/7101a300-bf69-11f1-8dde-c5daf8e396f5.jpg",
+      "publishedAt": "2026-10-03T20:40:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "3v4bnq",
+      "title": "Huge crowds turn out in support of residents over Drumcree parade dispute",
+      "summary": "The Police Service of Northern Ireland said anyone found to have blocked the Garvaghy Road will be treated as participating in an \"illegal protest\".",
+      "category": "society",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cmd6dywn1nnvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a22e/live/4a393020-bf65-11f1-91f8-435d8f2bfb16.jpg",
+      "publishedAt": "2026-10-03T19:15:50.000Z",
+      "sample": false
+    },
+    {
+      "id": "x7p7em",
+      "title": "Astronomers get permission for mini-observatory",
+      "summary": "The Shropshire Astronomical Society plans to install the dome at Rodington village hall.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynpzz4q28o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/279b/live/461bc430-bf5b-11f1-bf94-5355097afbf2.png",
+      "publishedAt": "2026-10-03T19:05:35.000Z",
+      "sample": false
+    },
+    {
+      "id": "r07rs1",
+      "title": "Sinfield completes final ultramarathon challenge",
+      "summary": "Sir Kevin Sinfield crosses the finish line at Old Trafford after seven ultramarathons in seven days.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cwgkvy047gkno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b9c/live/0c43cbc0-bf4e-11f1-a84d-81c67bc2828e.jpg",
+      "publishedAt": "2026-10-03T17:38:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "kfy1t1",
+      "title": "Greens would offer two-year jobs to unemployed under-24s",
+      "summary": "Co-deputy leader Mothin Ali tells the party's conference many young people are \"bored, desperate and lost\".",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0ad/live/a0ceddd0-bf1b-11f1-9b47-174f268aae1d.jpg",
+      "publishedAt": "2026-10-03T17:08:40.000Z",
+      "sample": false
+    },
+    {
+      "id": "kffzma",
+      "title": "I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise",
+      "summary": "Wildlife cameraman Dan Abbot is caught off guard by a humpback whale, a rare sight in Welsh waters.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c6q8jly114j8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe3/live/9d28c1d0-be6e-11f1-8a45-cd59664d243b.jpg",
+      "publishedAt": "2026-10-03T17:08:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "ro88lb",
+      "title": "Desmond targeted by Celtic fan protest at Alfred Dunhill",
+      "summary": "Celtic's largest shareholder Dermot Desmond is targeted in a protest at the Alfred Dunhill Links golf tournament in St Andrews as tennis balls were thrown towards him.",
+      "category": "military",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94e2/live/cf56a740-bf44-11f1-8acc-0bb5649ca116.jpg",
+      "publishedAt": "2026-10-03T16:24:56.000Z",
+      "sample": false
+    },
     {
       "id": "lkii1d",
       "title": "Watch the moment a landslip leaves Skye drivers facing a 40-mile diversion",
@@ -27,6 +115,17 @@
       "sample": false
     },
     {
+      "id": "58zupx",
+      "title": "Police appeal to help find heavily pregnant woman",
+      "summary": "Leicestershire Police say they are \"extremely concerned\" for Charlie Ryan's welfare.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyv4k7kvl9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09c8/live/a6cca080-bf3b-11f1-88b2-23b6d574e863.jpg",
+      "publishedAt": "2026-10-03T15:11:59.000Z",
+      "sample": false
+    },
+    {
       "id": "bjwywt",
       "title": "Tories plan to extend cuts beyond £47bn previously pledged, leak reveals",
       "summary": "Exclusive: Shadow chancellor Andrew Griffith told party members last year he had discussed making further savings if they win next election\nThe Conservatives are planning to make sweeping cuts beyond the £47bn announced last year if they win the next election, according to leaked comments by the shadow chancellor.\nSpea",
@@ -46,17 +145,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dfb/live/9d6abfc0-be61-11f1-b36c-81ad410b221e.jpg",
       "publishedAt": "2026-10-03T14:17:52.000Z",
-      "sample": false
-    },
-    {
-      "id": "o7nxkm",
-      "title": "Police name two men who died in workplace incident near rural road",
-      "summary": "It happened on the Ballygowan Road in Crossnacreevy at about 10:45 BST on Friday.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy75k3xd1lo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c9e/live/834f5780-be67-11f1-b36c-81ad410b221e.jpg",
-      "publishedAt": "2026-10-03T13:27:46.000Z",
       "sample": false
     },
     {
@@ -126,17 +214,6 @@
       "sample": false
     },
     {
-      "id": "kfy1t1",
-      "title": "Greens would offer two-year jobs to unemployed under-24s",
-      "summary": "Co-deputy leader Mothin Ali tells the party's conference many young people are \"bored, desperate and lost\".",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0ad/live/a0ceddd0-bf1b-11f1-9b47-174f268aae1d.jpg",
-      "publishedAt": "2026-10-03T12:51:14.000Z",
-      "sample": false
-    },
-    {
       "id": "2pnb7c",
       "title": "Homemade bomb part of alleged plot on Manchester's Jewish community, court told",
       "summary": "Two men were arrested on the eve of Yom Kippur, considered the holiest day in the Jewish calendar.",
@@ -183,7 +260,7 @@
     {
       "id": "6uoe8t",
       "title": "UAE may halt UK investments after Manchester City guilty verdict",
-      "summary": "The Premier League’s actions would ‘have an influence on the bilateral state relationship’, Emirati officials said\nThe United Arab Emirates have reportedly warned the government it could cancel big investments in the UK after Manchester City were found guilty by an independent commission.\nEmirati officials said “the Pr",
+      "summary": "Premier League’s actions would ‘have an influence on the bilateral state relationship’, Emirati officials said\nThe United Arab Emirates has reportedly warned the government it could cancel big investments in the UK after Manchester City were found guilty by an independent commission.\nEmirati officials said “the Premier",
       "category": "military",
       "source": "the-guardian",
       "url": "https://www.theguardian.com/football/2026/oct/03/united-arab-emirates-uae-uk-investments-manchester-city-guilty-verdict",
@@ -531,7 +608,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fab2/live/e805b6e0-be91-11f1-9f15-2f9dbc671f7d.jpg",
       "publishedAt": "2026-10-02T21:00:41.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "ks24ic",
       "title": "Watch: Why has UK diesel price hit an all time high?",
@@ -575,9 +654,7 @@
       "image": "https://i.guim.co.uk/img/media/9bb30b2c5f557f09cdf438c3469ffcba199c4be0/507_0_6565_5252/master/6565.jpg?width=140&quality=85&auto=format&fit=max&s=306611f28dccd98d02e58bbcbde00dc4",
       "publishedAt": "2026-10-02T16:00:11.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "z5tvu9",
       "title": "Polanski says he does not need to win ‘50/50’ byelection to stay Green leader",
@@ -1228,17 +1305,6 @@
       "sample": false
     },
     {
-      "id": "7kno78",
-      "title": "Michael Sheen campaign on toxic waste sites wins Senedd backing",
-      "summary": "All parties urge Welsh and UK ministers to ensure polluters pay to clean up contaminated land.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cvrl6g6rl081o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0db/live/04cb0e90-bccd-11f1-9f83-d9975ff80416.jpg",
-      "publishedAt": "2026-09-30T17:03:58.000Z",
-      "sample": false
-    },
-    {
       "id": "a9zsyh",
       "title": "Scottish screen sector boom brings questions over jobs and overtourism",
       "summary": "The Traitors and big film shoots help boost economy but some highlight lack of opportunities for local talent\nScotland’s striking Ardross Castle, the oldest star of The Celebrity Traitors, which kicks off on Thursday night, is just one of the stops on the Scottish tourist board’s “screen tourism” trail. From Outlander ",
@@ -1547,17 +1613,6 @@
       "sample": false
     },
     {
-      "id": "3jiq1t",
-      "title": "Watch: From launch to fiery splashdown, SpaceX's Starship completes orbit test",
-      "summary": "A thunderous lift off, rapid satellite deployments and a fiery ending. That's how SpaceX's 14th launch of its Starship rocket panned out today.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/c6ge4lp442npo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5257/live/7f188680-bb44-11f1-a430-4d16ee157c41.jpg",
-      "publishedAt": "2026-09-28T13:59:06.000Z",
-      "sample": false
-    },
-    {
       "id": "xurogh",
       "title": "New NHS-style social care system could take decades, Dilnot says",
       "summary": "Sir Andrew Dilnot, who proposed reforms 15 years ago, says the cost of such a scheme would be \"very substantial\".",
@@ -1610,17 +1665,6 @@
       "url": "https://www.bbc.co.uk/news/videos/c6ge4lyy9x0no?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8856/live/901265a0-ba54-11f1-9a84-01517feb24bf.jpg",
       "publishedAt": "2026-09-27T09:52:49.000Z",
-      "sample": false
-    },
-    {
-      "id": "awu45u",
-      "title": "Andy Burnham 'prepared' to deliver radical change despite economic challenges – video",
-      "summary": "The UK prime minister, Andy Burnham, speaks to the Guardian's political editor, Pippa Crerar, about how to change the public's perception of politics after a difficult fiscal period. He says he is prepared to make changes on the issues people are worried about, 'rather than constantly playing the political game'\n\nAndy ",
-      "category": "economy",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/video/2026/sep/26/andy-burnham-prepared-to-deliver-radical-change-despite-economic-challenges-video",
-      "image": "https://i.guim.co.uk/img/media/0b6e2320e5422e928707167faa41cbe326cf022f/99_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=aa974d57685af11d77a36720439f2a6a",
-      "publishedAt": "2026-09-26T16:31:16.000Z",
       "sample": false
     }
   ],

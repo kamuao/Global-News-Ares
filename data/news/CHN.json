@@ -2,8 +2,19 @@
   "id": "CHN",
   "name": "China",
   "sample": false,
-  "updatedAt": "2026-10-03T16:00:11.030Z",
+  "updatedAt": "2026-10-03T20:49:54.396Z",
   "daily": [
+    {
+      "id": "2lp1ol",
+      "title": "Tennessee prisons chief resigning after botched execution of Christa Pike",
+      "summary": "The head of Tennessee’s prison system is resigning, Governor Bill Lee announced on Saturday, the first major staff shake-up since Christa Pike’s stunning failed execution left her unconscious and on a ventilator at a hospital.\nFrank Strada, commissioner of the Department of Correction, will step down this month, Lee sa",
+      "category": "health",
+      "source": "scmp",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3369673/tennessee-prisons-chief-resigning-after-botched-execution-christa-pike?utm_source=rss_feed",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/04/560d7622-21de-4bab-bb7e-48a22800371c_837c6ca0.jpg?itok=x2-Hlb2M&v=1791046401",
+      "publishedAt": "2026-10-03T16:53:29.000Z",
+      "sample": false
+    },
     {
       "id": "rv0pnz",
       "title": "Probe launched into luxury One Stanley project over alleged steel bar shortage",
@@ -28,9 +39,9 @@
     },
     {
       "id": "7ven8t",
-      "title": "Flames, smoke seen at Aramco facility south of Saudi capital",
-      "summary": "Flames and smoke were seen rising from a facility belonging to Saudi oil giant Aramco south of the kingdom’s capital Riyadh on Saturday, an AFP journalist said.\nThe circumstances remained unclear but in recent weeks Aramco, majority-owned by the Saudi state, has come under attack from the Houthi group targeting the kin",
-      "category": "politics",
+      "title": "Houthis say they struck Aramco oil facility, as Saudis hit Sanaa",
+      "summary": "Yemen’s Houthis claimed an attack on an oil facility near the Saudi capital on Saturday, where flames and smoke were seen, and accused the Gulf kingdom of striking Sanaa dozens of times.\nThe foes have traded strikes since the Houthis seized all of Yemen’s Red Sea coast and took control of the Bab al-Mandab strait in a ",
+      "category": "economy",
       "source": "scmp",
       "url": "https://www.scmp.com/news/world/middle-east/article/3369667/flames-smoke-seen-aramco-facility-south-saudi-capital?utm_source=rss_feed",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/03/759e9922-7fe1-4a79-9c42-3a639e753c84_636b51c5.jpg?itok=m1uC0S50&v=1791035862",
@@ -421,7 +432,9 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/03/4346675e-7a1c-43bb-8f55-4bd284bb2da5_19807638.jpg?itok=vQXSaeLv&v=1790975054",
       "publishedAt": "2026-10-02T21:04:21.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "eyfvnl",
       "title": "Panama auditor targets ex-port regulators, CK Hutchison’s subsidiary in canal probe",
@@ -476,9 +489,7 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/03/021f51e5-225a-4544-9704-5187797176ff_1b696df1.jpg?itok=-qHhswHE&v=1790957393",
       "publishedAt": "2026-10-02T16:12:25.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "mqfolc",
       "title": "2 Hongkongers held in Philippines for months after prison terms end",
@@ -543,17 +554,6 @@
       "url": "https://www.scmp.com/news/china/diplomacy/article/3369609/if-young-us-people-accept-xis-invitation-china-what-will-beijing-show-them?utm_source=rss_feed",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/02/cf07e50a-4a2c-4a0e-991d-4a484b34d631_5456269b.jpg?itok=d9kN-moW&v=1790941154",
       "publishedAt": "2026-10-02T14:00:21.000Z",
-      "sample": false
-    },
-    {
-      "id": "mn0rql",
-      "title": "‘America is back’, AI ‘conspiracy’, China’s Laos deal: 7 global relations reads",
-      "summary": "We have selected seven of the most interesting and important news stories covering global relations from the past few weeks. If you would like to see more of our reporting, please consider subscribing.\n1. Trump condemns ‘sick conspiracy’ against AI, says he is only guardrail needed\n\nUS President Donald Trump downplayed",
-      "category": "technology",
-      "source": "scmp",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3369257/america-back-ai-conspiracy-chinas-laos-deal-7-global-relations-reads?utm_source=rss_feed",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/30/c539a055-78da-4d5d-82dd-fa631dc4430a_25eee9a5.jpg?itok=3YlU8tBk&v=1790716521",
-      "publishedAt": "2026-10-02T14:00:15.000Z",
       "sample": false
     }
   ],
