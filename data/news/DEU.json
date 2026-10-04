@@ -2,8 +2,63 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-03T20:49:52.668Z",
+  "updatedAt": "2026-10-04T05:12:26.394Z",
   "daily": [
+    {
+      "id": "ibrbh2",
+      "title": "Germany's Merz arrives in Kyiv to pledge more support",
+      "summary": "Chancellor Friedrich Merz is expected to announce a new raft of measures to support Ukraine, including military aid and plans for the joint production of interceptor drones.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-s-merz-arrives-in-kyiv-to-pledge-more-support/a-79534734?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-04T05:07:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "dplzl8",
+      "title": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
+      "summary": "Reports indicate Ethiopian government forces have made advances against a northern rebel group. Renewed fighting has raised fears the conflict could spill over into the wider region.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-04T03:48:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "7pv8fc",
+      "title": "Peru: Fire burning on road to Machu Picchu kills 1",
+      "summary": "One person has died and two others have suffered burns in a fire near the main access route to the historic sanctuary of Machu Picchu.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/peru-fire-burning-on-road-to-machu-picchu-kills-1/a-79534344?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-04T02:08:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "c1h4ni",
+      "title": "Brazil's 2026 presidential election is kicking off with polls showing Lula and Bolsonaro nearly tied.",
+      "summary": "Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-04T01:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "l48w3i",
+      "title": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
+      "summary": "Days after President Donald Trump signed a voluntary pact with artificial intelligence giants, a former OpenAI worker said his industry needs the same safeguards as nuclear power or aviation.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-03T21:55:00.000Z",
+      "sample": false
+    },
     {
       "id": "nw6nmt",
       "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
@@ -146,7 +201,9 @@
       "image": null,
       "publishedAt": "2026-10-03T06:51:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "8lilnq",
       "title": "German reunification: How inequality is shaping a new East German identity",
@@ -167,63 +224,6 @@
       "url": "https://www.dw.com/en/australia-car-crashes-into-rugby-fans-10-injured/a-79526643?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-03T04:27:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mdla9p",
-      "title": "US, Australia suspend consular services in Brazil",
-      "summary": "The US and Australia have announced a halt to their consular services in Brazil beginning Friday. The news comes two days before Brazilians head to the polls to vote in the high-stakes presidential election.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-australia-suspend-consular-services-in-brazil/a-79526311?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-03T02:24:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "6s2hu6",
-      "title": "Christa Pike unconscious after failed execution — attorneys",
-      "summary": "Lawyers for Christa Pike said she's unconscious and on a ventilator after a botched execution attempt. Pike is believed to be the first person to have survived the administration of lethal drugs in the modern era.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/christa-pike-unconscious-after-failed-execution-attorneys/a-79526118?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-02T22:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bgsnu3",
-      "title": "North Korea fires ballistic missile into sea, Seoul says",
-      "summary": "North Korea fired a ballistic missile toward the sea off its east coast, the South Korean military has said.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-02T22:06:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "5a4ibs",
-      "title": "UK: Man charged with planning to attack Nigel Farage",
-      "summary": "The suspect was already charged with the killing of Reform UK's Ann Widdecombe.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-02T20:38:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "7t3twm",
-      "title": "New York governor condemns handling of Cornell rape case",
-      "summary": "An 2024 alleged gang rape at the prestigious Cornell University has gained national attention after the accuser, identified only as Jane Doe, filed a lawsuit. A special prosecutor has been appointed to handle the case.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/new-york-governor-condemns-handling-of-cornell-rape-case/a-79525431?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-02T19:09:00.000Z",
       "sample": false
     },
     {
