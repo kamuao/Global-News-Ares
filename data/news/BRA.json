@@ -2,8 +2,20 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-04T12:03:53.732Z",
-  "daily": [],
+  "updatedAt": "2026-10-05T04:56:41.691Z",
+  "daily": [
+    {
+      "id": "5gzkco",
+      "title": "Fl�vio Bolsonaro and Lula Advance to Presidential Election Runoff",
+      "summary": "Senator Fl�vio Bolsonaro (PL), 45, will face President Lula (PT), 80, in the election runoff on Oct. 25.\nLeia mais (10/04/2026 - 20h20)",
+      "category": "military",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/datafolha-projects-flavio-bolsonaro-and-lula-advance-to-presidential-election-runoff.shtml",
+      "image": null,
+      "publishedAt": "2026-10-04T23:20:00.000Z",
+      "sample": false
+    }
+  ],
   "weekly": [
     {
       "id": "xrpcpy",
@@ -157,17 +169,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/09/datafolha-negative-assessment-of-brazils-supreme-court-rises-to-47-hitting-record.shtml",
       "image": null,
       "publishedAt": "2026-09-28T14:56:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "xrl7t1",
-      "title": "Rockbridge, Conservative Group Founded by U.S. Vice President, Began Setting Up in Brazil",
-      "summary": "Rockbridge Network, a U.S. conservative group founded by Vice President J.D. Vance, reached out to Brazilian businesspeople and politicians about a possible expansion into Brazil. The interest gained prominence after presidential candidate Renan Santos (Miss�o) suggested that the Americans would support Fl�vio Bolsonar",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/rockbridge-conservative-group-founded-by-us-vice-president-began-setting-up-in-brazil.shtml",
-      "image": null,
-      "publishedAt": "2026-09-28T14:52:00.000Z",
       "sample": false
     }
   ],

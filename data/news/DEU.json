@@ -2,8 +2,96 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-04T12:03:50.341Z",
+  "updatedAt": "2026-10-05T04:56:37.557Z",
   "daily": [
+    {
+      "id": "2dilsw",
+      "title": "US: FBI arrests woman accused of spying for China",
+      "summary": "A California woman was arrested at Los Angeles International Airport, just before departing for China, with the US officials accusing her of spying on Taiwan's president's son.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-fbi-arrests-woman-accused-of-spying-for-china/a-79541849?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T03:47:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "v0rbu2",
+      "title": "US pulls bombers out of UK's Fairford airbase after arrests",
+      "summary": "Following a suspected terrorist plot targeting the UK's Fairford airbase, the US Air Force withdrew all its B-1 planes from the site.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-pulls-bombers-out-of-uk-s-fairford-airbase-after-arrests/a-79541731?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T01:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pjlfgz",
+      "title": "Brazil election: Bolsonaro and Lula head to runoff",
+      "summary": "Populist Flavio Bolsonaro has secured a thin lead over incumbent Luiz Inacio Lula da Silva, but the next president of Brazil will be decided in the runoff round, according to the country’s electoral court.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T00:27:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "tj406f",
+      "title": "Nationalists top Bosnia-Herzegovina's divisive election",
+      "summary": "Bosnia-Herzegovina's three-member presidency is set to be dominated by nationalists from the three major ethnic groups, including Zeljka ​Cvijanovic, backed by disqualified Serb secessionist leader Milorad Dodik.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/nationalists-top-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-04T22:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fyhpa7",
+      "title": "Pakistan: Imran Khan supporters demand ex-PM's release",
+      "summary": "Thousands of Imran Khan supporters have begun a trek to Islamabad to demand he be freed as Pakistan's political leadership remains in deadlock. The government has set up roadblocks to keep protesters at bay.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-04T18:22:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "sx9slq",
+      "title": "Anthropic report: Is Russia using AI for disinformation in the Central African Republic and elsewhere?",
+      "summary": "An Anthropic report says the AI model Claude was used in pro-Russian campaigns in the Central African Republic. Similar allegations were raised for the Democratic Republic of the Congo, Kenya, Sudan and Mali.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-04T17:15:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "z5926d",
+      "title": "Germany's Merz visits Kyiv as Russia strikes bridge",
+      "summary": "As air raid sirens sounded in Kyiv, Chancellor Merz called on President Putin to end his \"senseless war\" and announced new measures to support Ukraine, including plans for joint Ukrainian-German drone production.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-04T14:24:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "5lebw8",
+      "title": "Trump names AI czar to head White House task force",
+      "summary": "US President Donald Trump has chosen members to lead a new AI task force to coordinate the administration's response to the rapidly evolving technology.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/trump-names-ai-czar-to-head-white-house-task-force/a-79537966?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-04T13:34:00.000Z",
+      "sample": false
+    },
     {
       "id": "mpsgz0",
       "title": "Torrential rain and flooding leave 2 dead and 1 missing in Spain's Catalonia region",
@@ -16,17 +104,6 @@
       "sample": false
     },
     {
-      "id": "enfhzx",
-      "title": "Voting in Brazil's 2026 presidential election has begun, with polls showing Lula and Bolsonaro nearly tied",
-      "summary": "Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show the first round of voting will likely lead to a runoff.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/voting-in-brazil-s-2026-presidential-election-has-begun-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-04T11:28:00.000Z",
-      "sample": false
-    },
-    {
       "id": "wmf77d",
       "title": "Japan: US Marine arrested in Okinawa on suspicion of murder",
       "summary": "The Japanese government has lodged an official protest with Washington after a US Marine was arrested on suspicion of murdering a woman in Okinawa — where incidents involving US service personnel are not uncommon.",
@@ -35,17 +112,6 @@
       "url": "https://www.dw.com/en/japan-us-marine-arrested-in-okinawa-on-suspicion-of-murder/a-79536987?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-04T11:15:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "k15yk0",
-      "title": "Bosnia-Herzegovina votes amid divisive campaigns, EU bid",
-      "summary": "Polls have opened in Bosnia and Herzegovina, where voters are taking part in parliamentary, presidential and local elections.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/bosnia-herzegovina-votes-amid-divisive-campaigns-eu-bid/a-79535336?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-04T09:30:00.000Z",
       "sample": false
     },
     {
@@ -80,18 +146,9 @@
       "image": null,
       "publishedAt": "2026-10-04T08:29:00.000Z",
       "sample": false
-    },
-    {
-      "id": "z5926d",
-      "title": "Germany's Merz visits Kyiv as Russia strikes bridge",
-      "summary": "As air raid sirens sounded in Kyiv, Chancellor Merz called on President Putin to end his \"senseless war\" and announced new measures to support Ukraine, including plans for joint Ukrainian-German drone production.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-04T08:13:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "dplzl8",
       "title": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
@@ -167,63 +224,6 @@
       "url": "https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-03T16:10:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "osr4a9",
-      "title": "Spain: Massive protests after housing bills voted down",
-      "summary": "Organizers estimated that 500,000 people turned out in the streets of Madrid to demand affordable housing. Similar protests were held in around 50 other Spanish cities.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/spain-massive-protests-after-housing-bills-voted-down/a-79532124?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-03T14:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "m0anxc",
-      "title": "Greece returns remains of Czar Samuel to Bulgaria",
-      "summary": "A warrior emperor who ruled the Bulgarian Empire in the Middle Ages, Czar Samuel is a symbol of Bulgarian national identity. But his remains have been in Greece for decades – and he is also claimed by North Macedonia.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/greece-returns-remains-of-czar-samuel-to-bulgaria/a-79530104?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-03T12:17:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "jrogv3",
-      "title": "Spain: Floods leave 102-year-old woman dead in southeast",
-      "summary": "Authorities in Spain rescued some 90 people after heavy rain sparked flooding in the town of Madrigueras. Prime Minister Pedro Sanchez expressed his condolences to the family of a 102-year-old woman who died.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/spain-floods-leave-102-year-old-woman-dead-in-southeast/a-79529983?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-03T12:01:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "v60bez",
-      "title": "Flydubai co-pilot attempted 'terrorist attack,' UAE says",
-      "summary": "The man, who stabbed his fellow pilot on an Israel-bound Flydubai flight, was reportedly barred from flying in his native Oman over security concerns.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-03T08:17:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "7flx1y",
-      "title": "Morocco's first female head of government: Symbol or real reform?",
-      "summary": "Fatima Zahra Mansouri has been chosen as Morocco's first female prime minister. Is her appointment a kind of symbolism, to show Morocco in a positive light? Or could Mansouri bring genuine changes for Moroccan women?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/morocco-s-first-female-head-of-government-symbol-or-real-reform/a-79521808?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-03T08:10:00.000Z",
       "sample": false
     },
     {
@@ -686,17 +686,6 @@
       "url": "https://www.dw.com/en/what-would-francis-of-assisi-make-of-his-fame-today/a-79346151?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-28T06:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5crhuh",
-      "title": "European cities seek ways of boosting affordable housing",
-      "summary": "In many major urban centers of Europe, the housing shortage has become an explosive social issue. DW looks into various models that have been put in place across the continent.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/european-cities-seek-ways-of-boosting-affordable-housing/a-79438939?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-27T13:47:00.000Z",
       "sample": false
     }
   ],
