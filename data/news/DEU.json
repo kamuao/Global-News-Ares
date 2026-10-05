@@ -2,15 +2,103 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-05T14:07:31.179Z",
+  "updatedAt": "2026-10-05T23:54:37.866Z",
   "daily": [
     {
-      "id": "kpqf02",
-      "title": "Military aircraft with 32 people onboard crashes in southern Nigeria",
-      "summary": "Rescue teams are searching the crash site after the military aircraft went down in southern Nigeria. The fate of those onboard remains unclear.",
+      "id": "oywedo",
+      "title": "ICC unseals Taliban leaders' warrants over persecuting women",
+      "summary": "The court gave more details on the warrants for four Taliban leaders accused of the crime against humanity of gender persecution of women, girls and the LGBTQ+ community. The Islamist group rejected the warrants.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/military-aircraft-with-32-people-onboard-crashes-in-southern-nigeria/a-79552403?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/icc-unseals-taliban-leaders-warrants-over-persecuting-women/a-79556631?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T21:07:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ntqfyb",
+      "title": "Australia's migrant policy offers lessons for EU and US",
+      "summary": "Australia has used offshore processing centers to deter asylum seekers for more than two decades. As the EU and US pursue similar third-country arrangements, Australia's experience highlights the potential problems.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/australia-s-migrant-policy-offers-lessons-for-eu-and-us/a-79388096?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T19:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6nx1er",
+      "title": "Yemen launches major military operation against Houthis",
+      "summary": "Yemen's internationally recognized government has launched a new military offensive to retake Houthi-held territory, as the Iran-backed rebel group claims new attacks in Saudi Arabia.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T18:36:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "309fl8",
+      "title": "Denmark: Data of millions compromised in hack",
+      "summary": "The breach by the hackers was through the legitimate login credentials of a local company, initial findings suggest. The data of some 8.8 million registered people was compromised.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/denmark-data-of-millions-compromised-in-hack/a-79555907?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T17:46:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "eau1ig",
+      "title": "Merz, Macron seek tougher EU measures against unfair trade",
+      "summary": "Emmanuel Macron and Friedrich Merz have written to Ursula von der Leyen, calling for tougher EU mechanisms against unfair trade practices by other states. They name no names but seem to have China or the US in mind.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T17:23:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6znykg",
+      "title": "Ukraine says Russian drones behind Turkish ship sinking",
+      "summary": "Romanian authorities did not say what caused the fire, but local media reported that the ship was carrying grain and was hit by a drone.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-says-russian-drones-behind-turkish-ship-sinking/a-79552387?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T15:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "7itt0i",
+      "title": "Australia, New Zealand probe Flydubai pilot's time there",
+      "summary": "The Flydubai pilot from Oman suspected of trying to crash a plane in Israel spent time in Oceania as a young man. Police in both Australia and New Zealand said they would investigate his links to the countries.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/australia-new-zealand-probe-flydubai-pilot-s-time-there/a-79551423?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T15:02:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "mx7oyf",
+      "title": "Euro plummets against US dollar: has the next financial crisis begun?",
+      "summary": "The euro has fallen to a 17-month low against the dollar. That will make inflation worse in the EU, where political worries and concern over French debt are already troubling investors. Is a fiscal crisis at hand?",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T14:28:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "bpdfcp",
+      "title": "Military aircraft with 32 people on board crashes in southern Nigeria",
+      "summary": "Rescue teams searched the crash site after the military aircraft went down in southern Nigeria. All 32 people on the plane are confirmed to have died.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/military-aircraft-with-32-people-on-board-crashes-in-southern-nigeria/a-79552403?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-05T14:05:00.000Z",
       "sample": false
@@ -82,12 +170,12 @@
       "sample": false
     },
     {
-      "id": "j1ib26",
-      "title": "Bosnia election: New technology might have stopped votes being cast on behalf of dead voters, but the result remains unchanged",
+      "id": "7vw3hb",
+      "title": "Bosnia election: New steps to prevent electoral fraud, but nationalist parties remain on top",
       "summary": "New technology has stopped votes being cast on behalf of dead or absent voters, and turnout has fallen to a record low. But it was a case of deja vu in Bosnia's elections with the same parties winning.",
       "category": "technology",
       "source": "dw",
-      "url": "https://www.dw.com/en/bosnia-election-new-technology-might-have-stopped-votes-being-cast-on-behalf-of-dead-voters-but-the-result-remains-unchanged/a-79544717?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/bosnia-election-new-steps-to-prevent-electoral-fraud-but-nationalist-parties-remain-on-top/a-79544717?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-05T10:23:00.000Z",
       "sample": false
@@ -137,93 +225,18 @@
       "sample": false
     },
     {
-      "id": "3109ef",
-      "title": "Spanish Prime Minister Pedro Sanchez calls snap election",
-      "summary": "The Spanish prime minister had repeatedly insisted he would serve out his four-year term, with elections scheduled for 2027. The move comes after a major defeat for his coalition's proposed housing reforms.",
+      "id": "dxviht",
+      "title": "Hundreds of French schools shut, teen loses hand in protests",
+      "summary": "The student protests that rocked France last week have prompted authorities to keep up to 500 schools closed on Monday. A teenage boy lost his hand, seemingly while trying to pick up a police tear gas grenade.",
       "category": "society",
       "source": "dw",
-      "url": "https://www.dw.com/en/spanish-prime-minister-pedro-sanchez-calls-snap-election/a-79542826?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-05T07:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "6nx1er",
-      "title": "Yemen launches major military operation against Houthis",
-      "summary": "Yemen's internationally recognized government announced a new military offensive to retake Houthi-held territory after rebels cut a key road linking the city of Taiz with Aden.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-05T06:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "p7l7mu",
-      "title": "India news: Top court hears petitions against Chief Election Commissioner Gyanesh Kumar",
-      "summary": "The Supreme Court heard pleas against India's beleagured poll body chief over alleged unilateral decisions related to the large-scale revision of voter lists. DW has the latest.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-top-court-hears-petitions-against-chief-election-commissioner-gyanesh-kumar/live-79542552?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-05T05:50:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rznmhf",
-      "title": "Hundreds of French schools closed amid protests",
-      "summary": "The student protests that rocked France last week have prompted authorities to keep up to 500 schools closed on Monday. More protests are planned for Tuesday.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/hundreds-of-french-schools-closed-amid-protests/a-79542656?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/hundreds-of-french-schools-shut-teen-loses-hand-in-protests/a-79542656?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-05T05:48:00.000Z",
       "sample": false
-    },
-    {
-      "id": "fjvtzu",
-      "title": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks",
-      "summary": "Gulf crude exports returned to pre-war levels in September, with producers increasingly relying on alternative routes and ship-to-ship transfers to bypass Hormuz. Iranian exports remain below the pre-war average.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-05T05:35:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2dilsw",
-      "title": "US: FBI arrests woman accused of spying for China",
-      "summary": "A California woman was arrested at Los Angeles International Airport, just before departing for China, with the US officials accusing her of spying on Taiwan's president's son.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-fbi-arrests-woman-accused-of-spying-for-china/a-79541849?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-05T03:47:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "v0rbu2",
-      "title": "US pulls bombers out of UK's Fairford airbase after arrests",
-      "summary": "Following a suspected terrorist plot targeting the UK's Fairford airbase, the US Air Force withdrew all its B-1 planes from the site.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-pulls-bombers-out-of-uk-s-fairford-airbase-after-arrests/a-79541731?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-05T01:58:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "pjlfgz",
-      "title": "Brazil election: Bolsonaro and Lula head to runoff",
-      "summary": "Populist Flavio Bolsonaro has secured a thin lead over incumbent Luiz Inacio Lula da Silva, but the next president of Brazil will be decided in the runoff round, according to the country’s electoral court.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-05T00:27:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "tj406f",
       "title": "Nationalists top Bosnia-Herzegovina's divisive election",
@@ -234,9 +247,7 @@
       "image": null,
       "publishedAt": "2026-10-04T22:55:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "t683io",
       "title": "UK remands 2 Iranians over alleged antisemitic terror plot",
@@ -620,39 +631,6 @@
       "url": "https://www.dw.com/en/uk-us-government-questions-bail-for-fairford-base-suspects/a-79468803?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-29T08:17:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "9542mr",
-      "title": "Sicily: Mount Etna ash disrupts Catania flights again",
-      "summary": "A thick ash cloud from Mount Etna has been disrupting flights to Catania in Sicily for several days. Italy and Europe's most active volcano, Etna has impacted air travel several times this summer.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/sicily-mount-etna-ash-disrupts-catania-flights-again/a-79462773?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-28T15:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "dcc75m",
-      "title": "Turkey: Comedian convicted for 'insulting' Erdogan in show",
-      "summary": "Deniz Goktas was convicted of two of three charges, including \"insulting\" the president, but was released pending the appeal process. Nominally, Turkey is a secular country with free speech.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/turkey-comedian-convicted-for-insulting-erdogan-in-show/a-79455759?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-28T14:51:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lcwp9g",
-      "title": "What do Manchester City's charges mean for German football?",
-      "summary": "Manchester City have reportedly been found guilty of major financial rule breaches. What does this mean for German football?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/what-do-manchester-city-s-charges-mean-for-german-football/a-79460412?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-28T14:18:00.000Z",
       "sample": false
     }
   ],
