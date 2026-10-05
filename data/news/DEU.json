@@ -2,8 +2,195 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-05T04:56:37.557Z",
+  "updatedAt": "2026-10-05T14:07:31.179Z",
   "daily": [
+    {
+      "id": "kpqf02",
+      "title": "Military aircraft with 32 people onboard crashes in southern Nigeria",
+      "summary": "Rescue teams are searching the crash site after the military aircraft went down in southern Nigeria. The fate of those onboard remains unclear.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/military-aircraft-with-32-people-onboard-crashes-in-southern-nigeria/a-79552403?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T14:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ua2bn2",
+      "title": "Iran poised to exploit security vacuum as US leaves Iraq",
+      "summary": "The end of the US military mission in Iraq leaves the Kurdistan region facing a severe security vacuum. As Erbil grapples with deep internal divisions, Tehran is well positioned to make strategic gains.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/iran-poised-to-exploit-security-vacuum-as-us-leaves-iraq/a-79550833?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T14:04:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "9ihk30",
+      "title": "Trust in the German Constitutional Court is eroding — how can this be stopped?",
+      "summary": "Germany's top court, which turned 75 this year, is losing the population's trust, surveys show. Some say reforms in the way it picks candidates would help, to also accept candidates nominated by the far-right AfD.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/trust-in-the-german-constitutional-court-is-eroding-how-can-this-be-stopped/a-79549211?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T14:03:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "e8t6ds",
+      "title": "What China's new military foothold in Laos means for Southeast Asia",
+      "summary": "Beijing says its new Laos facility will train pilots. Analysts see a broader signal: China's growing military presence in mainland Southeast Asia.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/what-china-s-new-military-foothold-in-laos-means-for-southeast-asia/a-79548259?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T14:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "211936",
+      "title": "Germany news: Spy chief warns Russia conflict risk growing",
+      "summary": "Moscow is already waging a \"shadow war\" against Europe, the head of Germany's foreign intelligence service says. The Left Party is taking a case over remarks by the CDU's Katherina Reiche to a top court. DW has more.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-spy-chief-warns-russia-conflict-risk-growing/live-79542789?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T12:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1dtw33",
+      "title": "Suspected pneumonic plague in Siberia: What we know about the disease",
+      "summary": "A worker at a plague research institute in Siberia has died, and nearly 200 of her contacts are under medical observation. Russian authorities deny a link to the bacterial infection. The US is monitoring the situation.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T11:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "tk3m5w",
+      "title": "German soccer: Can new coach Klopp turn things around?",
+      "summary": "Jürgen Klopp has done things a little differently since becoming Germany coach. Casting a wider net for talent and trying to connect with players and country haven't made an immediate impact, but he is not bowed.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/german-soccer-can-new-coach-klopp-turn-things-around/a-79547308?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T10:34:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "j1ib26",
+      "title": "Bosnia election: New technology might have stopped votes being cast on behalf of dead voters, but the result remains unchanged",
+      "summary": "New technology has stopped votes being cast on behalf of dead or absent voters, and turnout has fallen to a record low. But it was a case of deja vu in Bosnia's elections with the same parties winning.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/bosnia-election-new-technology-might-have-stopped-votes-being-cast-on-behalf-of-dead-voters-but-the-result-remains-unchanged/a-79544717?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T10:23:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rii4y7",
+      "title": "As rising seas threaten low-lying Pacific Islands, regional leaders call on the world to take climate more seriously",
+      "summary": "For Pacific island nations, climate change is no distant threat. As seas rise, they're bringing the real-time consequences of a warming planet directly to world leaders in Tuvalu.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/as-rising-seas-threaten-low-lying-pacific-islands-regional-leaders-call-on-the-world-to-take-climate-more-seriously/a-79540127?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T09:37:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "34kr9o",
+      "title": "German and US scientists win Nobel Prize in medicine for research on brain activity",
+      "summary": "Karl Deisseroth, Peter Hegemann and Georg Nagel won the award for discoveries that provide new insights into how we might treat blindness, depression, addiction and dementia.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/german-and-us-scientists-win-nobel-prize-in-medicine-for-research-on-brain-activity/a-79544130?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T09:37:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "v0yxcn",
+      "title": "Israel's mental health crisis in the wake of Oct. 7 attacks",
+      "summary": "More than a third of Israelis have shown symptoms of mental health conditions, a report found. Three years after the October 7 attack, the country's health system is still struggling to come to terms with its effects.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/israel-s-mental-health-crisis-in-the-wake-of-oct-7-attacks/a-79507122?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T08:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ylvj16",
+      "title": "Israel observes October 7 anniversary with national memorial day",
+      "summary": "Israel is holding memorial ceremonies nationwide for those killed in the October 7, 2023 Hamas terror attacks and soldiers who died in the ensuing war.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/israel-observes-october-7-anniversary-with-national-memorial-day/a-79543531?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T08:38:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3109ef",
+      "title": "Spanish Prime Minister Pedro Sanchez calls snap election",
+      "summary": "The Spanish prime minister had repeatedly insisted he would serve out his four-year term, with elections scheduled for 2027. The move comes after a major defeat for his coalition's proposed housing reforms.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/spanish-prime-minister-pedro-sanchez-calls-snap-election/a-79542826?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T07:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6nx1er",
+      "title": "Yemen launches major military operation against Houthis",
+      "summary": "Yemen's internationally recognized government announced a new military offensive to retake Houthi-held territory after rebels cut a key road linking the city of Taiz with Aden.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T06:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "p7l7mu",
+      "title": "India news: Top court hears petitions against Chief Election Commissioner Gyanesh Kumar",
+      "summary": "The Supreme Court heard pleas against India's beleagured poll body chief over alleged unilateral decisions related to the large-scale revision of voter lists. DW has the latest.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-top-court-hears-petitions-against-chief-election-commissioner-gyanesh-kumar/live-79542552?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T05:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rznmhf",
+      "title": "Hundreds of French schools closed amid protests",
+      "summary": "The student protests that rocked France last week have prompted authorities to keep up to 500 schools closed on Monday. More protests are planned for Tuesday.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/hundreds-of-french-schools-closed-amid-protests/a-79542656?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T05:48:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fjvtzu",
+      "title": "Middle East oil exports recover to pre-Iran war levels despite Hormuz attacks",
+      "summary": "Gulf crude exports returned to pre-war levels in September, with producers increasingly relying on alternative routes and ship-to-ship transfers to bypass Hormuz. Iranian exports remain below the pre-war average.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/middle-east-oil-exports-recover-to-pre-iran-war-levels-despite-hormuz-attacks/a-79542680?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T05:35:00.000Z",
+      "sample": false
+    },
     {
       "id": "2dilsw",
       "title": "US: FBI arrests woman accused of spying for China",
@@ -47,174 +234,9 @@
       "image": null,
       "publishedAt": "2026-10-04T22:55:00.000Z",
       "sample": false
-    },
-    {
-      "id": "fyhpa7",
-      "title": "Pakistan: Imran Khan supporters demand ex-PM's release",
-      "summary": "Thousands of Imran Khan supporters have begun a trek to Islamabad to demand he be freed as Pakistan's political leadership remains in deadlock. The government has set up roadblocks to keep protesters at bay.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/pakistan-imran-khan-supporters-demand-ex-pm-s-release/a-79539221?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-04T18:22:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "sx9slq",
-      "title": "Anthropic report: Is Russia using AI for disinformation in the Central African Republic and elsewhere?",
-      "summary": "An Anthropic report says the AI model Claude was used in pro-Russian campaigns in the Central African Republic. Similar allegations were raised for the Democratic Republic of the Congo, Kenya, Sudan and Mali.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/anthropic-report-is-russia-using-ai-for-disinformation-in-the-central-african-republic-and-elsewhere/a-79476947?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-04T17:15:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "z5926d",
-      "title": "Germany's Merz visits Kyiv as Russia strikes bridge",
-      "summary": "As air raid sirens sounded in Kyiv, Chancellor Merz called on President Putin to end his \"senseless war\" and announced new measures to support Ukraine, including plans for joint Ukrainian-German drone production.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-04T14:24:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5lebw8",
-      "title": "Trump names AI czar to head White House task force",
-      "summary": "US President Donald Trump has chosen members to lead a new AI task force to coordinate the administration's response to the rapidly evolving technology.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/trump-names-ai-czar-to-head-white-house-task-force/a-79537966?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-04T13:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mpsgz0",
-      "title": "Torrential rain and flooding leave 2 dead and 1 missing in Spain's Catalonia region",
-      "summary": "Authorities warned of extreme danger around Barcelona and Girona, with rivers at risk of overflowing and residents urged to stay indoors.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/torrential-rain-and-flooding-leave-2-dead-and-1-missing-in-spain-s-catalonia-region/a-79536990?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-04T11:36:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "wmf77d",
-      "title": "Japan: US Marine arrested in Okinawa on suspicion of murder",
-      "summary": "The Japanese government has lodged an official protest with Washington after a US Marine was arrested on suspicion of murdering a woman in Okinawa — where incidents involving US service personnel are not uncommon.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/japan-us-marine-arrested-in-okinawa-on-suspicion-of-murder/a-79536987?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-04T11:15:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mvxa6k",
-      "title": "India news: Police order probe amid sexual harassment allegations against officers at Delhi protest",
-      "summary": "Three women journalists say police officers sexually harassed them as they covered protests demanding the resignation of India's election chief. Meanwhile, LGBTQIA influencer Mad Sandhu was shot dead in Amritsar.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-police-order-probe-amid-sexual-harassment-allegations-against-officers-at-delhi-protest/live-79527537?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-04T08:53:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "i0z2va",
-      "title": "Latvia election: Pro-Ukraine PM Kulbergs set to retain power after historic victory for his United List party",
-      "summary": "Latvia's prime minister, Andris Kulbergs, looks set to retain power after his party appeared to score the country's biggest election victory since independence.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/latvia-election-pro-ukraine-pm-kulbergs-set-to-retain-power-after-historic-victory-for-his-united-list-party/a-79527253?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-04T08:38:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "dxysid",
-      "title": "Germany news: Many believe Merkel more capable than Merz",
-      "summary": "Nearly half of Germans view former Chancellor Angela Merkel as better suited to handle Germany's challenges than current Chancellor Friedrich Merz. Also, today is the last day of Oktoberfest in Munich. DW has the latest.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-many-believe-merkel-more-capable-than-merz/live-79528092?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-04T08:29:00.000Z",
-      "sample": false
     }
   ],
   "weekly": [
-    {
-      "id": "dplzl8",
-      "title": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
-      "summary": "Reports indicate Ethiopian government forces have made advances against a northern rebel group. Renewed fighting has raised fears the conflict could spill over into the wider region.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-04T03:48:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "7pv8fc",
-      "title": "Peru: Fire burning on road to Machu Picchu kills 1",
-      "summary": "One person has died and two others have suffered burns in a fire near the main access route to the historic sanctuary of Machu Picchu.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/peru-fire-burning-on-road-to-machu-picchu-kills-1/a-79534344?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-04T02:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "l48w3i",
-      "title": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
-      "summary": "Days after US President Donald Trump signed a voluntary pact with artificial intelligence giants, a former OpenAI worker said his industry needs the same safeguards as nuclear power or aviation.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-03T21:55:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "nw6nmt",
-      "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
-      "summary": "For years, Pakistan supported the Taliban in Afghanistan. But now Pakistan is bombing its neighbor. How the former allies became adversaries and why negotiations keep failing.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-03T18:49:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fm559i",
-      "title": "Tennessee's prison chief resigns after botched execution of murderer Christa Pike",
-      "summary": "Prison commissioner Frank Strada insisted his team followed protocol, even after two doses of anesthetic failed to kill convicted murderer Christa Pike. He is set to leave his post this month.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/tennessee-s-prison-chief-resigns-after-botched-execution-of-murderer-christa-pike/a-79532481?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-03T18:41:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "qrdvfu",
-      "title": "Ukraine to step up oil attacks as Russia hits Kyiv bridges",
-      "summary": "As Moscow intensifies attacks on Kyiv and other cities, Ukrainian President Volodymyr Zelenskyy has vowed to hit Russian energy infrastructure.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-03T17:16:00.000Z",
-      "sample": false
-    },
     {
       "id": "t683io",
       "title": "UK remands 2 Iranians over alleged antisemitic terror plot",
@@ -632,61 +654,6 @@
       "image": null,
       "publishedAt": "2026-09-28T14:18:00.000Z",
       "sample": false
-    },
-    {
-      "id": "yyhkei",
-      "title": "Germany news: COVID vaccine maker BioNTech to close 3 sites",
-      "summary": "COVID-19 vaccine maker BioNTech is to close three sites in Germany after efforts to find buyers failed. Meanwhile, Rhine water levels have fallen to record lows after an unusually dry September. DW has more.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-covid-vaccine-maker-biontech-to-close-3-sites/live-79453904?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-28T14:05:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "y7623",
-      "title": "Diesel prices are surging putting further pressure on Europe",
-      "summary": "Trucks, farms and industry are powered with diesel. Now prices are soaring due to refinery disruptions, supply shortages and geopolitical tensions. A potential US export ban could make Europe's diesel crunch even worse.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/diesel-prices-are-surging-putting-further-pressure-on-europe/a-79390992?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-28T10:35:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "gs2ndb",
-      "title": "Will Jürgen Klopp's charisma be enough for Germany?",
-      "summary": "After defeat to Greece, Jürgen Klopp faces the first real test of his tenure as coach of Germany's national men's football team. Can his charisma alone push this group forward?",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/will-jürgen-klopp-s-charisma-be-enough-for-germany/a-79455266?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-28T09:42:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "pgmkwc",
-      "title": "Ireland beat Israel 3-0 in Nations League match overshadowed by political controversy",
-      "summary": "Ireland easily beat Israel in a Nations League fixture that 24 hours earlier appeared in doubt. One Irish player pulled out of the match to express his opposition to Israel's actions in the Gaza Strip.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ireland-beat-israel-3-0-in-nations-league-match-overshadowed-by-political-controversy/a-79455254?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-28T09:26:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "tlrue9",
-      "title": "What would Francis of Assisi make of his fame today?",
-      "summary": "The Catholic saint renounced wealth and fame to become a mendicant friar. Yet throughout history, his teachings and life have inspired popes, Dante and even Mussolini.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/what-would-francis-of-assisi-make-of-his-fame-today/a-79346151?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-28T06:18:00.000Z",
-      "sample": false
     }
   ],
   "developing": [
@@ -699,6 +666,17 @@
       "url": "https://www.dw.com/en/live-updates-trump-welcomes-xi-to-washington/live-79404511?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-23T22:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1dtw33",
+      "title": "Suspected pneumonic plague in Siberia: What we know about the disease",
+      "summary": "A worker at a plague research institute in Siberia has died, and nearly 200 of her contacts are under medical observation. Russian authorities deny a link to the bacterial infection. The US is monitoring the situation.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T11:58:00.000Z",
       "sample": false
     }
   ]
