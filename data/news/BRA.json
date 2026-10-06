@@ -2,8 +2,21 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-06T13:05:11.770Z",
+  "updatedAt": "2026-10-06T22:32:03.430Z",
   "daily": [
+    {
+      "id": "mwo9ut",
+      "title": "PL, Fl�vio Bolsonaro's Party, Grows to 121 Lawmakers; Left Will Have 124",
+      "summary": "Fl�vio Bolsonaro's PL gained 23 lawmakers in the elections and formed a 121-member caucus in the Chamber of Deputies, the largest in the chamber since 1986. Including parties such as PP and Republicanos, the right will have 303 lawmakers, or 59% of the total, a share close to the current level (57%).\nLeia mais (10/06/2",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/pl-flavio-bolsonaros-party-grows-to-121-lawmakers-left-will-have-124.shtml",
+      "image": null,
+      "publishedAt": "2026-10-06T14:47:00.000Z",
+      "sample": false
+    }
+  ],
+  "weekly": [
     {
       "id": "dx2l2g",
       "title": "Fl�vio's Senate Bloc Already Has Votes and Plans to Weaken Supreme Court by Removing Criminal Cases from Its Jurisdiction",
@@ -47,9 +60,7 @@
       "image": null,
       "publishedAt": "2026-10-05T14:01:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "5gzkco",
       "title": "Fl�vio Bolsonaro and Lula Advance to Presidential Election Runoff",
@@ -158,17 +169,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/09/from-chicken-to-rockets-jfs-batista-brothers-become-weapons-manufacturers-with-avibras.shtml",
       "image": null,
       "publishedAt": "2026-09-30T01:51:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "hqv1ij",
-      "title": "Brazil Sues Betting Companies, Seeks $191 million in Damages and Reimbursement for Public Healthcare System",
-      "summary": "Brazil's Attorney General's Office filed a lawsuit against 17 betting companies seeking at least R$1 billion ($191 million) in damages for collective moral harm and reimbursement for expenses incurred by the Unified Health System (SUS) in treating people affected by gambling addiction. According to the agency, the bett",
-      "category": "health",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/09/government-sues-betting-companies-seeks-191-million-in-damages-and-reimbursement-for-public-healthcare-system.shtml",
-      "image": null,
-      "publishedAt": "2026-09-29T16:10:00.000Z",
       "sample": false
     }
   ],
