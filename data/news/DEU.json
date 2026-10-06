@@ -2,15 +2,125 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-06T05:44:20.232Z",
+  "updatedAt": "2026-10-06T13:05:08.611Z",
   "daily": [
     {
-      "id": "fo7ol4",
-      "title": "India news: Opposition leaders set to march to Election Commission",
-      "summary": "India's opposition is amping up pressure on Chief Election Commissioner Gyanesh Kumar to resign over alleged voter roll manipulation. DW has more.",
+      "id": "5e4p37",
+      "title": "Nigerian military plane crash kills all 25 on board",
+      "summary": "Rescue teams searched the crash site after the military aircraft went down in southern Nigeria, with everyone on board now confirmed to have died.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/nigerian-military-plane-crash-kills-all-25-on-board/a-79552403?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-06T11:29:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "wb70wh",
+      "title": "Kenya reports first-ever Ebola death",
+      "summary": "The patient arrived in Kenya over the weekend from the Democratic Republic of Congo before testing positive for the virus. Health authorities are on high alert and monitoring for more cases.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/kenya-reports-first-ever-ebola-death/a-79563120?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-06T11:14:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "37egcu",
+      "title": "Fact check: Misleading claims spark plague fears in Russia",
+      "summary": "The death of a lab worker at a plague research institute in Russia has sparked claims about a lab accident, hundreds of infections and international spread. Some of these viral narratives are misleading.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/india-news-opposition-leaders-set-to-march-to-election-commission/live-79557629?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/fact-check-misleading-claims-spark-plague-fears-in-russia/a-79560752?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-06T11:07:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "40lk7u",
+      "title": "AI models keep hacking real systems during tests. What does this mean?",
+      "summary": "AI models have repeatedly broken into real commercial and government systems during safety tests during 2026. Cybersecurity researcher Thorsten Holz explains what that means, and why he isn't expecting a robot uprising.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ai-models-keep-hacking-real-systems-during-tests-what-does-this-mean/a-79471943?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-06T10:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "x72mz5",
+      "title": "Nobel Physics Prize goes to Francis Halzen for neutrino work",
+      "summary": "Halzen got the Nobel for his contributions to the IceCube neutrino Observatory and discovery of high-energy neutrinos, described as \"ghostly messengers from space.\"",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/nobel-physics-prize-goes-to-francis-halzen-for-neutrino-work/a-79561506?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-06T09:54:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "r5s5h1",
+      "title": "Germany faces a triple threat from Russia, China and domestic far-right extremists",
+      "summary": "At a rare public hearing Germany's intelligence agencies identified Russia as the country's most dangerous adversary. The threat from China is also coming into focus. And the homegrown far right also poses a challenge.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-faces-a-triple-threat-from-russia-china-and-domestic-far-right-extremists/a-79560490?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-06T09:41:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "hlyssl",
+      "title": "France: Trade unions join students in major demonstration",
+      "summary": "Tens of thousands are expected at nationwide protests against poor learning conditions for students in France.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/france-trade-unions-join-students-in-major-demonstration/a-79560273?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-06T08:51:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ahpuy6",
+      "title": "Germany's ex-spy chief arrested for espionage",
+      "summary": "August Hanning, the man who once led Germany's spy service, is now under investigation for passing on state secrets.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-s-ex-spy-chief-arrested-for-espionage/a-79560278?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-06T08:10:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "uxy9ra",
+      "title": "Canada: Quebec separatists return to power, promise new independence referendum",
+      "summary": "Parti Quebecois has won the provincial election, but fallen short of a majority. Leader Paul St-Pierre Plamondon says he will seek another referendum on independence, but not while US President Donald Trump is in office.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/canada-quebec-separatists-return-to-power-promise-new-independence-referendum/a-79558642?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-06T06:57:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1354k7",
+      "title": "Germany news: Far-right AfD gets first house speaker in a German state parliament",
+      "summary": "For the first time since World War II, a far-right party has a house speaker in a German state parliament. And Germany's foreign minister has warned that the climate crisis could fuel extremism. DW has more.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-06T06:21:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "vog15e",
+      "title": "India news: Opposition leaders march towards Election Commission",
+      "summary": "India's opposition is amping up pressure on Chief Election Commissioner Gyanesh Kumar to resign over alleged voter roll manipulation. DW has more.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-opposition-leaders-march-towards-election-commission/live-79557629?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-06T05:02:00.000Z",
       "sample": false
@@ -71,6 +181,17 @@
       "sample": false
     },
     {
+      "id": "ua2bn2",
+      "title": "Iran poised to exploit security vacuum as US leaves Iraq",
+      "summary": "The end of the US military mission in Iraq leaves the Kurdistan region facing a severe security vacuum. As Erbil grapples with deep internal divisions, Tehran is well positioned to make strategic gains.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/iran-poised-to-exploit-security-vacuum-as-us-leaves-iraq/a-79550833?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-05T18:10:00.000Z",
+      "sample": false
+    },
+    {
       "id": "309fl8",
       "title": "Denmark: Data of millions compromised in hack",
       "summary": "The breach by the hackers was through the legitimate login credentials of a local company, initial findings suggest. The data of some 8.8 million registered people was compromised.",
@@ -126,28 +247,6 @@
       "sample": false
     },
     {
-      "id": "bpdfcp",
-      "title": "Military aircraft with 32 people on board crashes in southern Nigeria",
-      "summary": "Rescue teams searched the crash site after the military aircraft went down in southern Nigeria. All 32 people on the plane are confirmed to have died.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/military-aircraft-with-32-people-on-board-crashes-in-southern-nigeria/a-79552403?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-05T14:05:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ua2bn2",
-      "title": "Iran poised to exploit security vacuum as US leaves Iraq",
-      "summary": "The end of the US military mission in Iraq leaves the Kurdistan region facing a severe security vacuum. As Erbil grapples with deep internal divisions, Tehran is well positioned to make strategic gains.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/iran-poised-to-exploit-security-vacuum-as-us-leaves-iraq/a-79550833?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-05T14:04:00.000Z",
-      "sample": false
-    },
-    {
       "id": "9ihk30",
       "title": "Trust in the German Constitutional Court is eroding — how can this be stopped?",
       "summary": "Germany's top court, which turned 75 this year, is losing the population's trust, surveys show. Some say reforms in the way it picks candidates would help, to also accept candidates nominated by the far-right AfD.",
@@ -157,18 +256,9 @@
       "image": null,
       "publishedAt": "2026-10-05T14:03:00.000Z",
       "sample": false
-    },
-    {
-      "id": "e8t6ds",
-      "title": "What China's new military foothold in Laos means for Southeast Asia",
-      "summary": "Beijing says its new Laos facility will train pilots. Analysts see a broader signal: China's growing military presence in mainland Southeast Asia.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/what-china-s-new-military-foothold-in-laos-means-for-southeast-asia/a-79548259?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-05T14:01:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "211936",
       "title": "Germany news: Spy chief warns Russia conflict risk growing",
@@ -192,12 +282,12 @@
       "sample": false
     },
     {
-      "id": "tk3m5w",
-      "title": "German soccer: Can new coach Klopp turn things around?",
+      "id": "ro734r",
+      "title": "Jürgen Klopp faces myriad of issues after rough start with Germany",
       "summary": "Jürgen Klopp has done things a little differently since becoming Germany coach. Casting a wider net for talent and trying to connect with players and country haven't made an immediate impact, but he is not bowed.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/german-soccer-can-new-coach-klopp-turn-things-around/a-79547308?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/jürgen-klopp-faces-myriad-of-issues-after-rough-start-with-germany/a-79547308?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-05T10:34:00.000Z",
       "sample": false
@@ -214,17 +304,6 @@
       "sample": false
     },
     {
-      "id": "rii4y7",
-      "title": "As rising seas threaten low-lying Pacific Islands, regional leaders call on the world to take climate more seriously",
-      "summary": "For Pacific island nations, climate change is no distant threat. As seas rise, they're bringing the real-time consequences of a warming planet directly to world leaders in Tuvalu.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/as-rising-seas-threaten-low-lying-pacific-islands-regional-leaders-call-on-the-world-to-take-climate-more-seriously/a-79540127?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-05T09:37:00.000Z",
-      "sample": false
-    },
-    {
       "id": "dxviht",
       "title": "Hundreds of French schools shut, teen loses hand in protests",
       "summary": "The student protests that rocked France last week have prompted authorities to keep up to 500 schools closed on Monday. A teenage boy lost his hand, seemingly while trying to pick up a police tear gas grenade.",
@@ -234,9 +313,7 @@
       "image": null,
       "publishedAt": "2026-10-05T05:48:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "tj406f",
       "title": "Nationalists top Bosnia-Herzegovina's divisive election",
@@ -576,61 +653,6 @@
       "url": "https://www.dw.com/en/uk-pm-burnham-seeks-hope-again-at-labour-party-conference/a-79473376?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-09-29T13:38:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ax2wmt",
-      "title": "Albania: As corruption cases multiply, experts question whether the anti-corruption drive is addressing the causes or just the symptoms.",
-      "summary": "From a former president to the ex-intelligence chief, Albania is prosecuting senior officials at a rate once thought impossible. But do more prosecutions mean less corruption or simply better enforcement?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/albania-as-corruption-cases-multiply-experts-question-whether-the-anti-corruption-drive-is-addressing-the-causes-or-just-the-symptoms/a-79473031?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-29T11:59:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "563jau",
-      "title": "Global trade weathers Iran, Ukraine and Trump's tariffs",
-      "summary": "Over the past six years, COVID, two wars and Donald Trump's tariffs have shaken world trade. With globalization already stalling, is this a temporary shock or the start of a great reversal?",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/global-trade-weathers-iran-ukraine-and-trump-s-tariffs/a-79352643?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-29T10:35:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "wzksx3",
-      "title": "AI: Concern as Germany plans to double data center capacity",
-      "summary": "Germany is rewriting the rules to attract data center investment from AI companies. But local communities are becoming increasingly skeptical.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ai-concern-as-germany-plans-to-double-data-center-capacity/a-79407981?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-29T10:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "86d1xu",
-      "title": "Spain grows fruit and vegetables for Europe, but it's running out of water",
-      "summary": "Spain's southern coast produces up to 25% of Europe's fruit and vegetables. But amid intensive farming, climate change and illegal wells, the water it takes to grow them is drying up.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/spain-grows-fruit-and-vegetables-for-europe-but-it-s-running-out-of-water/a-79399905?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-29T09:51:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "q0fv8f",
-      "title": "UK: US government questions bail for Fairford base suspects",
-      "summary": "The US government sees \"the hand of a foreign actor\" in the security scare at RAF Fairford, a hub for US heavy bombers in Europe. Donald Trump criticized the suspects being released on bail amid ongoing investigations.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/uk-us-government-questions-bail-for-fairford-base-suspects/a-79468803?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-29T08:17:00.000Z",
       "sample": false
     }
   ],
