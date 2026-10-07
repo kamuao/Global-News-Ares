@@ -2,8 +2,32 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-07T12:59:55.268Z",
+  "updatedAt": "2026-10-07T22:55:46.883Z",
   "daily": [
+    {
+      "id": "6esdqt",
+      "title": "Brazil Considers Assuming Part of Climate Risks at Ports and Airports",
+      "summary": "The federal government is considering assuming part of the risks caused by extreme weather events in airport, port and waterway concessions, sharing with private companies the losses that exceed the coverage capacity of contracted insurance policies.\nLeia mais (10/07/2026 - 12h35)",
+      "category": "environment",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/10/brazil-considers-assuming-part-of-climate-risks-at-ports-and-airports.shtml",
+      "image": null,
+      "publishedAt": "2026-10-07T15:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ptjd2w",
+      "title": "Fl�vio Bolsonaro Talks about Changing Constitution to 'Redemocratize the Country'",
+      "summary": "Senator Fl�vio Bolsonaro, the PL presidential candidate, said the congressional majority won by the right will make it possible to change the Constitution \"so that we can redemocratize this country, so that the institutions go back to respecting the Constitution.\"\nLeia mais (10/07/2026 - 12h08)",
+      "category": "military",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/flavio-bolsonaro-talks-about-changing-constitution-to-redemocratize-the-country.shtml",
+      "image": null,
+      "publishedAt": "2026-10-07T15:08:00.000Z",
+      "sample": false
+    }
+  ],
+  "weekly": [
     {
       "id": "36s30",
       "title": "Supreme Court Justice Wants to Rule on Bolsonaro's Release after Runoff",
@@ -25,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-10-06T14:47:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "dx2l2g",
       "title": "Fl�vio's Senate Bloc Already Has Votes and Plans to Weaken Supreme Court by Removing Criminal Cases from Its Jurisdiction",
@@ -125,50 +147,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/eduardo-bolsonaro-threatens-retaliation-against-diplomats-who-sabotaged-his-fathers-administration-if-flavio-is-elected.shtml",
       "image": null,
       "publishedAt": "2026-10-01T15:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "1n944q",
-      "title": "Brazil's Electronic Voting Machine Turns 30 with Greater Accessibility and Reaffirmed Security",
-      "summary": "Brazil's electronic voting machine marks 30 years of use in Brazilian elections in 2026. Created to gradually replace paper ballots, it debuted in the 1996 municipal elections in 57 municipalities, reaching about 32.5 million voters, one-third of the electorate. By 2000, it was already being used nationwide. The idea o",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/09/brazils-electronic-voting-machine-turns-30-with-greater-accessibility-and-reaffirmed-security.shtml",
-      "image": null,
-      "publishedAt": "2026-09-30T21:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "apawjl",
-      "title": "If He Wins Election, Fl�vio Bolsonaro Wants to Implement Marco Rubio Model in Brazil's Foreign Policy",
-      "summary": "Senator Fl�vio Bolsonaro (PL-RJ), son of former Brazilian President Jair Bolsonaro and a candidate to govern the country, plans to implement the model of U.S. Secretary of State Marco Rubio at Brazil's Foreign Ministry if he wins the election. The idea has been presented by Marcos Degaut, former congressman Eduardo Bol",
-      "category": "military",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/if-he-wins-election-flavio-bolsonaro-wants-to-implement-marco-rubio-model-in-brazils-foreign-policy.shtml",
-      "image": null,
-      "publishedAt": "2026-09-30T21:17:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "op2jdw",
-      "title": "S�o Paulo City Hall Revokes Taxi Driver's License After He Charged Argentine $5,760 for A $5.76 Ride",
-      "summary": "S�o Paulo City Hall revoked the driver's license of a taxi driver under investigation for charging an Argentine $5,760 for a $5.76 ride. The taxi used in the incident was also seized.\nLeia mais (09/30/2026 - 11h38)",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/saopaulo/2026/09/sao-paulo-city-hall-revokes-taxi-drivers-license-after-he-charged-argentine-5760-for-a-576-ride.shtml",
-      "image": null,
-      "publishedAt": "2026-09-30T14:38:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "j8ewvg",
-      "title": "Brazil Open to Discussing Joining Regional Security Alliance Created by Chile",
-      "summary": "Brazil is open to talks and is considering joining the Santiago Regional Commitment Against Transnational Organized Crime, an alliance created in May by Chile under President Jos� Antonio Kast and comprising Argentina, Bolivia, Ecuador, Peru, Paraguay and Uruguay. According to Folha, Bras�lia received an informal invit",
-      "category": "society",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/09/brazil-open-to-discussing-joining-regional-security-alliance-created-by-chile.shtml",
-      "image": null,
-      "publishedAt": "2026-09-30T14:27:00.000Z",
       "sample": false
     }
   ],
