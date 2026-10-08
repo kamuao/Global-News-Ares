@@ -2,8 +2,173 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-08T05:25:24.069Z",
+  "updatedAt": "2026-10-08T13:07:23.321Z",
   "daily": [
+    {
+      "id": "f4ffym",
+      "title": "S. Korea warns of AI-aided hacking after bank data breaches",
+      "summary": "Seoul is alarmed after a recent breach of South Korean banks' cyber defenses that reportedly involved AI-assisted hacking. Officials warn such methods could be used to also target other sectors and government agencies.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/s-korea-warns-of-ai-aided-hacking-after-bank-data-breaches/a-79592922?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T12:17:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fynwc7",
+      "title": "India news: Opposition doubles down against poll chief after detentions",
+      "summary": "India's opposition alliance is gearing up for another day of protests after demonstrating lawmakers were detained for the second time. Meanwhile, India is seeking to repatriate its nationals working in Russian military.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-opposition-doubles-down-against-poll-chief-after-detentions/live-79587554?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T12:16:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "igwpgd",
+      "title": "Security in the Black Sea region: is Bulgaria the weak link in Europe's defense against threats from Russia?",
+      "summary": "Two ships have sunk off the coast of Bulgaria and Romania after drone attacks in recent days. Sofia has held back on pointing the finger at Russia. What does that mean for security in the Black Sea and the region?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/security-in-the-black-sea-region-is-bulgaria-the-weak-link-in-europe-s-defense-against-threats-from-russia/a-79592663?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T11:45:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "nt0izy",
+      "title": "French police arrest 5 suspects over Renoir museum theft",
+      "summary": "Thieves broke into the Renoir Museum on the French Riviera last month and made off with two paintings. The heist follows a string of high-profile robberies from European museums.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/french-police-arrest-5-suspects-over-renoir-museum-theft/a-79595309?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T11:44:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "7hyo4k",
+      "title": "How a multibillion-dollar oilfield has ignited UK-Argentina feud over the Falklands",
+      "summary": "Argentina and the UK once fought a war over the Falkland Islands. Now the multibillion-dollar Sea Lion oil project has reignited old tensions, with Buenos Aires seeking to put a stop to the plans.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/how-a-multibillion-dollar-oilfield-has-ignited-uk-argentina-feud-over-the-falklands/a-79588973?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T11:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "bpb0ei",
+      "title": "Nobel Prize in literature goes to Canada's Anne Carson",
+      "summary": "Carson won for her \"bold and inventive oeuvre.\" The decorated poet and essayist is known for her reverence for Latin and Greek classics.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/nobel-prize-in-literature-goes-to-canada-s-anne-carson/a-79594136?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T11:02:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "t5edvd",
+      "title": "South Korea recalls Ukraine ambassador amid POW dispute",
+      "summary": "South Korea has said it will recall its ambassador to Ukraine. Seoul is upset about a transfer of North Korean prisoners of war being made public knowledge at the UN and had demanded — but not received — an apology.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T10:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "44zsf9",
+      "title": "As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?",
+      "summary": "As Russia targets Ukraine's data centers more and more, experts say the country's internet system is too robust to shut down entirely. However, services could become more expensive.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T10:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pcwuh4",
+      "title": "Ukraine says 30 killed, 18 wounded in Russian attack on passenger buses in Kramatorsk",
+      "summary": "Authorities in the eastern Ukrainian city of Kramatorsk have suspended public transport following the deadly attack near the front line.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-says-30-killed-18-wounded-in-russian-attack-on-passenger-buses-in-kramatorsk/a-79592331?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T10:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "l1cw32",
+      "title": "UK scales back Jerusalem consulate after Israel dispute",
+      "summary": "Britain says its diplomatic mission will remain open with reduced staff, despite Israel's order to close the nearly 200-year-old consulate.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/uk-scales-back-jerusalem-consulate-after-israel-dispute/a-79590790?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T09:56:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "kbwp3a",
+      "title": "German Bundeswehr: A new naval port in Emden aims to enhance Germany's defense capabilities",
+      "summary": "Citing the escalating security threat, Germany's Navy has decided to establish a second port on the North Sea coast. Emden was chosen as the location.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/german-bundeswehr-a-new-naval-port-in-emden-aims-to-enhance-germany-s-defense-capabilities/a-79561414?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T09:34:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "812wsj",
+      "title": "NASA Apollo program pioneer Margaret Hamilton dies",
+      "summary": "US scientist Margaret Hamilton is being hailed as a pioneer for her groundbreaking work developing software for NASA's Apollo lunar program. She died at the age of 90.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/nasa-apollo-program-pioneer-margaret-hamilton-dies/a-79589778?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T09:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "yzs13z",
+      "title": "Middle Corridor: Can Bulgaria be a safe gateway for Asian imports to the EU?",
+      "summary": "The EU wants more trade via the Middle Corridor, which could bring big benefits for Bulgaria. But Tuesday's drone attacks on commercial ships off the Bulgarian coast are a stark reminder of the security risks involved.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/middle-corridor-can-bulgaria-be-a-safe-gateway-for-asian-imports-to-the-eu/a-79584530?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T08:38:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "r8mrdx",
+      "title": "US to lay fresh torture charges against Venezuela's Maduro and wife",
+      "summary": "Prosecutors are considering charges for the alleged torture of more than a dozen Americans detained in Venezuela. Meanwhile, Cilia Flores is seeking release from jail on health grounds.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-to-lay-fresh-torture-charges-against-venezuela-s-maduro-and-wife/a-79588019?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T06:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "h4fno4",
+      "title": "Germany news: UK's Burnham, Merz to talk security in Berlin",
+      "summary": "UK Prime Minister Andy Burnham is visiting Berlin to launch a joint security partnership with Germany. President Steinmeier is on a state visit to France. DW has more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-uk-s-burnham-merz-to-talk-security-in-berlin/live-79587637?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T05:50:00.000Z",
+      "sample": false
+    },
     {
       "id": "lffgpz",
       "title": "Yemen's Houthis claim strike on Riyadh airport, three killed",
@@ -16,14 +181,14 @@
       "sample": false
     },
     {
-      "id": "fynwc7",
-      "title": "India news: Opposition doubles down against poll chief after detentions",
-      "summary": "India's opposition alliance is gearing up for another day of protests after demonstrating lawmakers were detained for the second time. Meanwhile, India is seeking to repatriate its nationals working in Russian military.",
-      "category": "military",
+      "id": "aidebb",
+      "title": "Why music in Iran is more than just entertainment",
+      "summary": "Iranian authorities are trying to persuade prominent singers in exile to return home. While the state seeks to harness music as a political tool, music has also become a powerful expression of dissent and resistance.",
+      "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/india-news-opposition-doubles-down-against-poll-chief-after-detentions/live-79587554?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/why-music-in-iran-is-more-than-just-entertainment/a-79583224?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-10-08T04:40:00.000Z",
+      "publishedAt": "2026-10-08T05:20:00.000Z",
       "sample": false
     },
     {
@@ -60,72 +225,6 @@
       "sample": false
     },
     {
-      "id": "ojgeah",
-      "title": "Brazil: Thousands of students march against Bolsonaro",
-      "summary": "After Flavio Bolsonaro came out on top in the first round of Brazil's presidential election, thousands of people joined student-led protests against the far-right in Rio de Janeiro.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/brazil-thousands-of-students-march-against-bolsonaro/a-79586626?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-08T00:50:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnqcjn",
-      "title": "Christa Pike 'angry and confused' after botched execution",
-      "summary": "Pike's lawyers have said she was very aware of Tennessee's failed execution effort. A judge has ordered state officials to preserve all evidence from the botched execution.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/christa-pike-angry-and-confused-after-botched-execution/a-79586250?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-07T21:23:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lwzmyz",
-      "title": "As US midterm elections loom, Trump's campaign tactics are becoming increasingly unusual, and expensive",
-      "summary": "Despite not being on the ballot, Trump is campaigning hard ahead of the upcoming midterm elections. His tactics and promises have mostly been at the expense of US taypayers. Experts say some might violate federal law.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/as-us-midterm-elections-loom-trump-s-campaign-tactics-are-becoming-increasingly-unusual-and-expensive/a-79585673?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-07T20:10:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2x1k84",
-      "title": "Evicted Spanish pensioner who sparked housing protests has died, Madrid tenant union says",
-      "summary": "Maricarmen ⁠Abascal, the octogenarian woman whose eviction set off housing protests across Spain, has died, a tenants' union in Madrid has said. Unions are now calling for a nationwide general strike on November 11.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/evicted-spanish-pensioner-who-sparked-housing-protests-has-died-madrid-tenant-union-says/a-78184386?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-07T18:49:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "4ri30s",
-      "title": "Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?",
-      "summary": "Pakistan and Turkey have agreed to provide \"practical measures\" to defend Saudi Arabia against Houthi attacks. Could a new alliance reshape the war against the Houthis in Yemen?",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/saudi-arabia-pakistan-turkey-could-the-mecca-defense-pact-become-a-game-changer-in-the-war-against-the-houthis-in-yemen/a-79577245?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-07T17:33:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2vjgjh",
-      "title": "Russia: WHO not able to 'fully' assess plague situation",
-      "summary": "The UN health agency said Russia should be more transparent about the case of the plague as reports of a second case of the disease emerged. Russia played down any concerns, saying the population faces no risk.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/russia-who-not-able-to-fully-assess-plague-situation/a-79584532?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-07T17:16:00.000Z",
-      "sample": false
-    },
-    {
       "id": "qvdtlz",
       "title": "Gerhard Schröder visits latest Russian employer, Hyperglobus",
       "summary": "Former German Chancellor Gerhard Schröder visited a Moscow supermarket in his new role on the supervisory board. Schröder is no stranger to retirement stipends in Russia — or the scandal that accompanies them.",
@@ -134,17 +233,6 @@
       "url": "https://www.dw.com/en/gerhard-schröder-visits-latest-russian-employer-hyperglobus/a-79583018?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-07T16:39:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "r2kum5",
-      "title": "German politicians warn of antisemitism on October 7 anniversary",
-      "summary": "Leading German politicians including Chancellor Merz and President Steinmeier called for people to reject antisemitism.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/german-politicians-warn-of-antisemitism-on-october-7-anniversary/a-79583326?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-07T16:04:00.000Z",
       "sample": false
     },
     {
@@ -179,29 +267,9 @@
       "image": null,
       "publishedAt": "2026-10-07T15:05:00.000Z",
       "sample": false
-    },
-    {
-      "id": "aidebb",
-      "title": "Why music in Iran is more than just entertainment",
-      "summary": "Iranian authorities are trying to persuade prominent singers in exile to return home. While the state seeks to harness music as a political tool, music has also become a powerful expression of dissent and resistance.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/why-music-in-iran-is-more-than-just-entertainment/a-79583224?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-07T14:58:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8inngz",
-      "title": "China's Golden Week reveals cautious consumer spending despite travel surge",
-      "summary": "Chinese visitors are returning from trips after the 13-day Golden Week holiday. Their subdued spending has raised fresh questions about domestic demand in the world's second-largest economy.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/china-s-golden-week-reveals-cautious-consumer-spending-despite-travel-surge/a-79577254?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-07T13:18:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "p3cva1",
       "title": "German spy scandal threatens national security",
@@ -211,17 +279,6 @@
       "url": "https://www.dw.com/en/german-spy-scandal-threatens-national-security/a-79580000?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-07T12:39:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ckpaii",
-      "title": "France suspends use of stun grenades against protesters",
-      "summary": "France suspended the use of stun grenades against protesters as allegations of student brutality draw more anger. French Prime Minister Sebastien Lecornu said the country could not ignore students' concerns.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/france-suspends-use-of-stun-grenades-against-protesters/a-79577769?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-07T12:12:00.000Z",
       "sample": false
     },
     {
@@ -289,9 +346,7 @@
       "image": null,
       "publishedAt": "2026-10-07T07:48:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "bfpb44",
       "title": "Where is Spain headed after the snap election announcement?",
@@ -603,7 +658,7 @@
     {
       "id": "j022y",
       "title": "Manchester City Premier League charges: What do they mean?",
-      "summary": "Since being bought by the UAE in 2008, Manchester City have become one of the world's most successful football clubs. A raft of serious financial charges threatens to undermine this and bring chaos to the Premier League.",
+      "summary": "Since being bought by the UAE in 2008, Manchester City has become one of the world's most successful football clubs. A raft of serious financial charges threatens to undermine this and bring chaos to the Premier League.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/manchester-city-premier-league-charges-what-do-they-mean/a-79485638?maca=en-rss-en-all-1573-xml-mrss",
@@ -675,39 +730,6 @@
       "url": "https://www.dw.com/en/latvians-head-to-the-polls-with-russia-on-their-minds/a-79477614?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-01T17:57:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "7gu6sd",
-      "title": "Weakened US fuel-efficiency rules and promises of cheaper cars could see drivers pay higher running costs while also increasing carbon emissions.",
-      "summary": "Weakened US fuel-efficiency rules and promises of cheaper cars could yet see drivers pay higher running costs while increasing planet-heating emissions.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/weakened-us-fuel-efficiency-rules-and-promises-of-cheaper-cars-could-see-drivers-pay-higher-running-costs-while-also-increasing-carbon-emissions/a-79496554?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-01T11:05:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "1k500v",
-      "title": "Germans' biggest fear is the high cost of living, an annual study finds",
-      "summary": "What do Germans fear most in 2026? Wars? Global crises? Wrong. Their biggest concern is the cost of living, which keeps rising.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germans-biggest-fear-is-the-high-cost-of-living-an-annual-study-finds/a-79497762?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-01T09:46:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "gokl11",
-      "title": "Germany news: Merz lauds NATO with Westphalian Peace Prize",
-      "summary": "At a ceremony to honor NATO, the German chancellor warned that Russia will threaten the rest of Europe if it isn't stopped in Ukraine. In other news, the German military will set up its first drone regiment.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-merz-lauds-nato-with-westphalian-peace-prize/live-79496180?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-01T06:12:00.000Z",
       "sample": false
     }
   ],
