@@ -2,8 +2,74 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-07T22:55:43.394Z",
+  "updatedAt": "2026-10-08T05:25:24.069Z",
   "daily": [
+    {
+      "id": "lffgpz",
+      "title": "Yemen's Houthis claim strike on Riyadh airport, three killed",
+      "summary": "A Houthi missile strike on Riyadh's King Khalid International Airport killed three people and disrupted operations, the rebels said, as Yemen's conflict continues to escalate beyond its borders.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/yemen-s-houthis-claim-strike-on-riyadh-airport-three-killed/a-79587815?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T05:22:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fynwc7",
+      "title": "India news: Opposition doubles down against poll chief after detentions",
+      "summary": "India's opposition alliance is gearing up for another day of protests after demonstrating lawmakers were detained for the second time. Meanwhile, India is seeking to repatriate its nationals working in Russian military.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-opposition-doubles-down-against-poll-chief-after-detentions/live-79587554?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T04:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "yg23ge",
+      "title": "South Sudan's road to elections remains uncertain",
+      "summary": "South Sudan's first general election is set for December 22. Insecurity, political tensions and the failure to begin voter registration have raised doubts over whether a credible poll can be held.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T04:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "atttq3",
+      "title": "US: Award-winning Kashmiri filmmaker detained",
+      "summary": "Arfat Sheikh was detained by ICE agents in Washington on September 24, it was confirmed on Wednesday. Officials say he \"illegally overstayed his lawful admittance\" as US President Trump pursues an immigration clampdown.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-award-winning-kashmiri-filmmaker-detained/a-79587046?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T03:21:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "yencaw",
+      "title": "IMF reaches tentative $1.21 billion bailout deal with Pakistan",
+      "summary": "Pakistan's dependence on Gulf energy imports, remittances and regional financing has left the economy exposed to the fallout from the Middle East conflict.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/imf-reaches-tentative-1-21-billion-bailout-deal-with-pakistan/a-79587047?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T02:24:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ojgeah",
+      "title": "Brazil: Thousands of students march against Bolsonaro",
+      "summary": "After Flavio Bolsonaro came out on top in the first round of Brazil's presidential election, thousands of people joined student-led protests against the far-right in Rio de Janeiro.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/brazil-thousands-of-students-march-against-bolsonaro/a-79586626?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-08T00:50:00.000Z",
+      "sample": false
+    },
     {
       "id": "rnqcjn",
       "title": "Christa Pike 'angry and confused' after botched execution",
@@ -95,7 +161,7 @@
     {
       "id": "mxu8fc",
       "title": "Germany news: Merz rails against extremism, AfD sympathizers",
-      "summary": "Political extremism threatens Germany's existing social order, Chancellor Merz has said. The Transport Ministry has proposed a five-year plan to improve Germany's ailing railroad infrastructure. DW has more.",
+      "summary": "Political extremism threatens Germany's existing social order, Chancellor Merz has said. The Transport Ministry has proposed a five-year plan to improve Germany's ailing railroad infrastructure.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/germany-news-merz-rails-against-extremism-afd-sympathizers/live-79570924?maca=en-rss-en-all-1573-xml-mrss",
@@ -123,17 +189,6 @@
       "url": "https://www.dw.com/en/why-music-in-iran-is-more-than-just-entertainment/a-79583224?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-07T14:58:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "yg23ge",
-      "title": "South Sudan's road to elections remains uncertain",
-      "summary": "South Sudan's first general election is set for December 22. Insecurity, political tensions and the failure to begin voter registration have raised doubts over whether a credible poll can be held.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-07T13:45:00.000Z",
       "sample": false
     },
     {
@@ -167,17 +222,6 @@
       "url": "https://www.dw.com/en/france-suspends-use-of-stun-grenades-against-protesters/a-79577769?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-07T12:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "u5a1bl",
-      "title": "Germany: Ex-spy chief sent to pretrial detention on treason charges",
-      "summary": "August Hanning has been remanded into pretrial detention after his arrest. The case has prompted calls for transparency when spies leave the government.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-ex-spy-chief-sent-to-pretrial-detention-on-treason-charges/a-79576300?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-07T11:46:00.000Z",
       "sample": false
     },
     {
@@ -245,7 +289,9 @@
       "image": null,
       "publishedAt": "2026-10-07T07:48:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "bfpb44",
       "title": "Where is Spain headed after the snap election announcement?",
@@ -256,9 +302,7 @@
       "image": null,
       "publishedAt": "2026-10-07T04:33:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "crrsg5",
       "title": "Munich up against at least six competitors for 2036 Olympics",
@@ -664,17 +708,6 @@
       "url": "https://www.dw.com/en/germany-news-merz-lauds-nato-with-westphalian-peace-prize/live-79496180?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-01T06:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fpxlmy",
-      "title": "France: Hundreds arrested as student protests escalate",
-      "summary": "Student protests have grown in scale and intensity, with violent clashes in some places leading to hundreds of arrests and dozens of injuries.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-09-30T23:02:00.000Z",
       "sample": false
     }
   ],
