@@ -2,8 +2,21 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-09T12:54:07.619Z",
+  "updatedAt": "2026-10-09T22:28:02.877Z",
   "daily": [
+    {
+      "id": "c03738",
+      "title": "Supreme Court Justice Orders Eduardo Bolsonaro to Begin Serving Prison Sentence and Cancels Passports",
+      "summary": "Supreme Court Justice Alexandre de Moraes ordered former federal lawmaker Eduardo Bolsonaro to begin serving his four-year, two-month prison sentence under an initially semi-open regime for the crime of coercion.\nLeia mais (10/09/2026 - 12h45)",
+      "category": "society",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/supreme-court-justice-orders-eduardo-bolsonaro-to-begin-serving-prison-sentence-and-cancels-passports.shtml",
+      "image": null,
+      "publishedAt": "2026-10-09T15:45:00.000Z",
+      "sample": false
+    }
+  ],
+  "weekly": [
     {
       "id": "9bkbl4",
       "title": "Fire Destroys Two Decades of Research at Brazilian University; Federal Police Investigate",
@@ -28,7 +41,7 @@
     },
     {
       "id": "r82pfh",
-      "title": "Ex�mia in S�o Paulo Named Worlds 20th Best Bar by 50 Best",
+      "title": "Ex�mia in S�o Paulo Named World's 20th Best Bar by 50 Best",
       "summary": "Hong Kong's Leone was named the world's best bar by 50 Best, one of the industry's leading rankings. Moebius, in Milan, Italy, came in second, followed by Alqu�mico, in Cartagena, Colombia.\nLeia mais (10/08/2026 - 13h14)",
       "category": "politics",
       "source": "folha",
@@ -36,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-10-08T16:14:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "t69pt2",
       "title": "Fl�vio Bolsonaro Says He Wants to Change Constitution to Reform Criminal Law and Judiciary, Leaves Door Open to Extending Presidential Term",
@@ -158,17 +169,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/datafolha-projects-flavio-bolsonaro-and-lula-advance-to-presidential-election-runoff.shtml",
       "image": null,
       "publishedAt": "2026-10-04T23:20:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "xrpcpy",
-      "title": "Itacolomi Park in Minas Gerais Combines Hiking, History and, Now, Overnight Stays",
-      "summary": "Itacolomi State Park, in Ouro Preto, in the interior of Minas Gerais in southeastern Brazil, reopened in February and now offers accommodation in addition to trails and historical heritage. The park is open from 8 a.m. to 5 p.m., Tuesday through Sunday, and admission costs R$28.75.\nLeia mais (10/02/2026 - 12h20)",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/travel/2026/10/itacolomi-park-in-minas-gerais-combines-hiking-history-and-now-overnight-stays.shtml",
-      "image": null,
-      "publishedAt": "2026-10-02T15:20:00.000Z",
       "sample": false
     }
   ],

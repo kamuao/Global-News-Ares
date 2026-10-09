@@ -2,39 +2,380 @@
   "id": "GBR",
   "name": "United Kingdom",
   "sample": false,
-  "updatedAt": "2026-10-09T12:54:03.056Z",
+  "updatedAt": "2026-10-09T22:27:57.785Z",
   "daily": [
     {
-      "id": "t5r1mm",
-      "title": "'It's heartbreaking' - Family of hit-and-run victim speak out as driver jailed",
-      "summary": "Richard Boyle, 42, was walking his dog on the Stewartstown Road in February 2021 when he was hit by a car.",
-      "category": "military",
+      "id": "85y7oo",
+      "title": "'Thuggish' behaviour could see balaclava ban in more cities",
+      "summary": "The hashtag \"no face no case\" has been gaining traction glorifying balaclavas as a way to avoid prosecution.",
+      "category": "politics",
       "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cm2ke5d07wdvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/004d/live/7db69a20-c3d7-11f1-95ba-dba767ffba7e.jpg",
-      "publishedAt": "2026-10-09T12:52:48.000Z",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg6xw7dlq7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e23/live/62e7e990-c23f-11f1-b390-9f59a375fdd2.png",
+      "publishedAt": "2026-10-09T21:56:11.000Z",
+      "sample": false
+    },
+    {
+      "id": "gy5dbp",
+      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg",
+      "publishedAt": "2026-10-09T21:54:28.000Z",
+      "sample": false
+    },
+    {
+      "id": "cqyqgc",
+      "title": "NI secretary to ban the Drumcree parade",
+      "summary": "The parade has led to a stand-off between Orangemen and nationalist residents of the Garvaghy Road in Portadown lasting almost two weeks.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cw23dn0xven7o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eba8/live/d744ba50-c41c-11f1-a175-8928617a734f.jpg",
+      "publishedAt": "2026-10-09T21:46:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "axgx78",
+      "title": "Northern Ireland secretary Chris Bryant bans Drumcree parade",
+      "summary": "Prospect of contentious Orange Order march down Garvaghy Road has led to a two-week standoff in Portadown\nThe Northern Ireland secretary of state has banned the Drumcree parade after a 13-day impasse between the Orange Order and nationalists.\nChris Bryant announced on Friday night that it was “not in the public interes",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/09/northern-ireland-secretary-chris-bryant-bans-drumcree-parade",
+      "image": "https://i.guim.co.uk/img/media/22abd47dc88efdeefcd4264565e2c7b88bbd7c70/912_0_5002_4000/master/5002.jpg?width=140&quality=85&auto=format&fit=max&s=9ab5c6a712ac38aa937bfdc60749ac14",
+      "publishedAt": "2026-10-09T20:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "f7r6wv",
+      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
+      "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/146c/live/3ab50800-c33d-11f1-b521-0bbd7e4f1f2e.jpg",
+      "publishedAt": "2026-10-09T19:32:50.000Z",
+      "sample": false
+    },
+    {
+      "id": "27f5jc",
+      "title": "Four jailed for death of man tortured and set alight",
+      "summary": "Tomasz Samel was kidnapped and attacked over the loss of illicit cigarettes worth £1m.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cmly04jz139wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2746/live/ede3bc20-c40d-11f1-838e-6d1d6d701264.png",
+      "publishedAt": "2026-10-09T19:30:32.000Z",
       "sample": false
     },
     {
       "id": "94ssfs",
-      "title": "Polanski vows to stay on as Green leader as criticism mounts",
+      "title": "Polanski vows to stay as Green leader as he faces criticism after by-election defeat",
       "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat.",
       "category": "politics",
       "source": "bbc-news",
       "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f10d/live/a324f3e0-c3de-11f1-a64c-550be9e3c66b.jpg",
-      "publishedAt": "2026-10-09T12:49:29.000Z",
+      "publishedAt": "2026-10-09T19:26:53.000Z",
+      "sample": false
+    },
+    {
+      "id": "2rrrhv",
+      "title": "'People don't think recycling at work is part of their job description'",
+      "summary": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rn65yj2ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8143/live/ed655970-c3c2-11f1-8fc5-335d62f6730b.jpg",
+      "publishedAt": "2026-10-09T19:11:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "9r5xb3",
+      "title": "Swinney backs Flynn in ferry gas leak row and says 'nobody's perfect'",
+      "summary": "The first minister says he has confidence in his transport secretary, who denies being briefed about the ferry incident.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yn75jr75ro?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a07/live/1905fa90-c3c2-11f1-8fc5-335d62f6730b.jpg",
+      "publishedAt": "2026-10-09T18:04:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "t3m1wc",
+      "title": "Parties prepare for byelection in Farage seat amid speculation over £5m gift inquiry",
+      "summary": "Tories said to be ready to fight in Clacton, with standards investigation rumoured to be nearing its end\nNigel Farage’s rivals are gearing up for a byelection in Clacton in the months ahead, amid speculation that the standards inquiry into his £5m gift is nearing a conclusion.\nConservative sources said the party was re",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/09/nigel-farage-byelection-clacton-seat-speculation-5m-gift-inquiry",
+      "image": "https://i.guim.co.uk/img/media/319ede727f93aa0da1da84beb0fda39afdd49ebf/660_468_3839_3072/master/3839.jpg?width=140&quality=85&auto=format&fit=max&s=00d52160c65d089193138863642dc53c",
+      "publishedAt": "2026-10-09T17:52:17.000Z",
+      "sample": false
+    },
+    {
+      "id": "oof3sb",
+      "title": "Two Latvians arrested at RAF base in Cambridgeshire released on bail",
+      "summary": "Men found inside RAF Molesworth, used by US and Nato for intelligence, freed on strict conditions as police continue investigation\nTwo Latvian men have been released on bail after being arrested at an RAF base in Cambridgeshire used by the US military and Nato.\nThe two men, aged 32 and 26, were arrested at 2am on Thurs",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/09/two-latvians-arrested-at-raf-molesworth-base-in-cambridgeshire-released-on-bail",
+      "image": "https://i.guim.co.uk/img/media/3ab483e2bc599fa865b47db22ca6f7f2c726c40f/422_0_4945_3956/master/4945.jpg?width=140&quality=85&auto=format&fit=max&s=454bf6d9cb865a6e7e1d3ae6f9ead244",
+      "publishedAt": "2026-10-09T17:46:16.000Z",
+      "sample": false
+    },
+    {
+      "id": "ozoev7",
+      "title": "NHS faces exodus of ADHD and autism services staff to private clinics",
+      "summary": "Brain drain of psychologists, psychiatrists and nurses leaves NHS ‘weaker’, driving patients to seek care elsewhere\n\nFull report | NHS at risk of ‘system failures’ as demand for ADHD and autism care soars, inquiry finds\n\nThe NHS is facing an exodus of staff quitting its ADHD and autism services to join private clinics ",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/09/nhs-exodus-adhd-autism-services-staff-private-clinics",
+      "image": "https://i.guim.co.uk/img/media/b5f4395f4dbd5e5e21bd0907d33eb6f34ccc1dcd/93_0_4875_3899/master/4875.jpg?width=140&quality=85&auto=format&fit=max&s=d3ed6f10a04941ea9c8deec11425a82d",
+      "publishedAt": "2026-10-09T17:24:16.000Z",
+      "sample": false
+    },
+    {
+      "id": "6gyc6h",
+      "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
+      "summary": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\"",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9261/live/51d4e370-c3fb-11f1-a64c-550be9e3c66b.jpg",
+      "publishedAt": "2026-10-09T17:14:16.000Z",
+      "sample": false
+    },
+    {
+      "id": "o189jc",
+      "title": "Labour hails byelection win as return of leftwing voters after Starmer era",
+      "summary": "Party now polling 15 points above Greens, who had been ahead of Labour before Keir Starmer resigned as PM\n\nLabour is starting to win back voters on the left who became disillusioned under Keir Starmer’s leadership, the party’s deputy leader has claimed after it saw off Zack Polanski and the Greens to win the Holborn an",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/09/labour-byelection-winning-back-voters-on-left-greens",
+      "image": "https://i.guim.co.uk/img/media/0f915728502fbf213d1b28e291589d53f416fd35/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=5af0e353bd54384d0c61fb1cb4f02452",
+      "publishedAt": "2026-10-09T17:08:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "giy4rt",
+      "title": "Isaias becomes major category three storm before landfall",
+      "summary": "Isaias, the first hurricane of the Atlantic season has been continuing to strengthen and is now a category three 'major' hurricane.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/cmewe552de72o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73f6/live/ed683ba0-c3ee-11f1-9a39-31b474234113.jpg",
+      "publishedAt": "2026-10-09T16:46:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "v77u6r",
+      "title": "Ed Davey faces growing revolt against leadership as senior Lib Dem MP quits",
+      "summary": "Treasury spokesperson Charlie Maynard reportedly resigned in attempt to unseat leader as party slips in polls\nEd Davey is facing a growing revolt against his leadership of the Liberal Democrats, after the resignation of a senior frontbench figure on Friday.\nCharlie Maynard, the Liberal Democrat Treasury spokesperson, h",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/09/ed-davey-faces-growing-revolt-against-leadership-as-senior-lib-dem-mp-quits",
+      "image": "https://i.guim.co.uk/img/media/10e3cfbc34afc36d17344c15f1f9651d8933ddbb/425_0_4247_3397/master/4247.jpg?width=140&quality=85&auto=format&fit=max&s=8e11b4aea5b7a001de10eb11608431cb",
+      "publishedAt": "2026-10-09T16:46:29.000Z",
+      "sample": false
+    },
+    {
+      "id": "2al8be",
+      "title": "Does Polanski have to go? Greens at the crossroads after Holborn and St Pancras",
+      "summary": "Pressure is building on the party leader after byelection defeat, a damaging row over Zionism and polls that show him less popular than Nigel Farage\nWhen Zack Polanski addressed his campaigners flush with victory after the Gorton and Denton byelection in February, he declared: “Labour’s electoral stranglehold is over.”",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/09/zack-polanski-future-as-green-party-leader-holborn-st-pancras-byelection-defeat",
+      "image": "https://i.guim.co.uk/img/media/7aea2eba83a830d2641f37f3a2a4b154d9a3074c/595_61_3818_3054/master/3818.jpg?width=140&quality=85&auto=format&fit=max&s=37a66d67f16df331606f746fa5880cd3",
+      "publishedAt": "2026-10-09T16:32:30.000Z",
+      "sample": false
+    },
+    {
+      "id": "s88nch",
+      "title": "‘The real deal’: Sagal Abdi-Wali’s journey from child refugee to Labour MP in former PM’s seat",
+      "summary": "Decades of volunteering combined with years of active local party politics propels Abdi-Wali to victory over Green leader Zack Polanski\nFor Sagal Abdi-Wali, the new MP for Holborn and St Pancras, being elected to replace Keir Starmer in the north London constituency is “deeply personal”, she said in her acceptance spee",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/09/sagal-abdi-wali-journey-child-refugee-labour-mp-former-pms-seat-london",
+      "image": "https://i.guim.co.uk/img/media/36c8ba0f5cd978ec45c10101b6ef150d6984da93/0_0_2242_1793/master/2242.jpg?width=140&quality=85&auto=format&fit=max&s=a8594fec4dc93ede02fb1b912059885b",
+      "publishedAt": "2026-10-09T16:17:24.000Z",
+      "sample": false
+    },
+    {
+      "id": "ayothe",
+      "title": "Burnham promises to curb non-compete rules in job contracts",
+      "summary": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\".",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/887d/live/a06cb1b0-c3de-11f1-95ba-dba767ffba7e.png",
+      "publishedAt": "2026-10-09T16:15:30.000Z",
+      "sample": false
+    },
+    {
+      "id": "7sal9",
+      "title": "UK coastguard agency chief faces calls to resign over ‘misleading’ claims in pay row",
+      "summary": "Regulator says poll data did not sufficiently back up claim of support for plan to stop remunerating rescue officers \nThe head of the UK coastguard agency is facing calls to resign after she was found to have used unverified data to back up her controversial plan to strip rescue officers of their pay.\nVirginia McVea, t",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/09/maritime-coastguard-agency-uk-virginia-mcvea-faces-calls-to-resign",
+      "image": "https://i.guim.co.uk/img/media/6b86aa96924f2339bc61288e71a986b40497de52/334_438_2347_1878/master/2347.jpg?width=140&quality=85&auto=format&fit=max&s=81b72ec4bd751937091784e42d5e49f9",
+      "publishedAt": "2026-10-09T16:07:29.000Z",
+      "sample": false
+    },
+    {
+      "id": "mftj3e",
+      "title": "Christian Bittar has conviction for rigging interest rates quashed",
+      "summary": "Former City banker becomes eighth to clear their name, just days after five others were acquitted\nFormer City trader Christian Bittar has become the eighth person to have his conviction for rigging interest rates quashed, just days after five other former bankers also successfully cleared their names.\nChristian Bittar,",
+      "category": "economy",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/09/christian-bittar-conviction-rigging-interest-rates-quashed-euribor",
+      "image": "https://i.guim.co.uk/img/media/049a8a8ea3b4a44d50a1ebea9f5eff145bb14925/288_99_2959_2367/master/2959.jpg?width=140&quality=85&auto=format&fit=max&s=1974a76660343eb1f0e9ef0a7974e451",
+      "publishedAt": "2026-10-09T15:59:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "v9e272",
+      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+      "summary": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b04d/live/ba559970-c3f2-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-10-09T15:32:30.000Z",
       "sample": false
     },
     {
       "id": "e8lq2c",
-      "title": "Polanski defends leadership of Greens and says he will not step down after byelection defeat by Labour – UK politics live",
-      "summary": "Sagal Abdi-Wali defeats Green party leader Zack Polanski to retain the Holborn and St Pancras seat for Labour\n\nReport: Labour wins Holborn and St Pancras byelection\n\nAnalysis: defeat will disappoint Greens – but there may also be relief\n\nActivists in Camden have suggested the Greens’ decision to back the anti-Zionism m",
+      "title": "UK politics: Green MP Siân Berry says opponents of Zionism motion were ‘persuaded’ not to fight it because of byelection – as it happened",
+      "summary": "The MP says that passing the motion has done ‘genuine damage; to the party’s reputation\n\nReport: Labour wins Holborn and St Pancras byelection\n\nAnalysis: defeat will disappoint Greens – but there may also be relief\n\nActivists in Camden have suggested the Greens’ decision to back the anti-Zionism motion has cost them vo",
       "category": "politics",
       "source": "the-guardian",
       "url": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
-      "image": "https://i.guim.co.uk/img/media/476a837f6409dc2caac0d20dcac48fc98fef8eec/923_335_4581_3665/master/4581.jpg?width=140&quality=85&auto=format&fit=max&s=0a2e044fc06ae44f1075df4379f67295",
-      "publishedAt": "2026-10-09T12:45:07.000Z",
+      "image": "https://i.guim.co.uk/img/media/a4f79d442c52bb43d80b4b350d94b67f59bdd68b/414_0_4135_3308/master/4135.jpg?width=140&quality=85&auto=format&fit=max&s=d882a0fd90d44b184666779cb1317a78",
+      "publishedAt": "2026-10-09T15:25:07.000Z",
+      "sample": false
+    },
+    {
+      "id": "1y6a9z",
+      "title": "Dad and son remain critical after masked men attack",
+      "summary": "Leicestershire Police say the attack at the family home appeared \"completely unprovoked\".",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cj040n79wk94o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3907/live/6beca660-c3ee-11f1-913a-eb4b8e15ad15.jpg",
+      "publishedAt": "2026-10-09T15:07:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "tdwtpg",
+      "title": "Yes, hang-xiety is a real thing",
+      "summary": "Waking up feeling hungover AND anxious? BBC Health's Chloe Hayward explains the science behind hang-xiety.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/ck98zyyer83mo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2204/live/b57543f0-c3ee-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-10-09T14:59:16.000Z",
+      "sample": false
+    },
+    {
+      "id": "vsgwbl",
+      "title": "Ex-Deutsche Bank trader jailed for rigging rates has conviction overturned",
+      "summary": "The Court of Appeal quashes the conviction of Christian Bittar, a former Deutsche Bank trader jailed in 2018.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvj10k6lno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/875d/live/70d424a0-c3ee-11f1-9a39-31b474234113.jpg",
+      "publishedAt": "2026-10-09T14:36:35.000Z",
+      "sample": false
+    },
+    {
+      "id": "j77tzt",
+      "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
+      "summary": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35a8/live/26c53480-c3f8-11f1-97a9-2d4b5e26e282.jpg",
+      "publishedAt": "2026-10-09T14:35:31.000Z",
+      "sample": false
+    },
+    {
+      "id": "462bna",
+      "title": "Woman found dead in burning van was pregnant, police say",
+      "summary": "A court is told Samantha Phythian, from Rhyl, was alive when the fire started.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/crn4ez947zezo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d75/live/6b919f00-c3f7-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-10-09T14:29:20.000Z",
+      "sample": false
+    },
+    {
+      "id": "443f5m",
+      "title": "Hurricane Isaias strengthens as it heads towards land",
+      "summary": "Isaias will bring damaging winds, torrential rain and a storm surge with landfall expected late Friday.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/cw073kg2dgr9o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be69/live/8ac843e0-c3ea-11f1-bc2e-018d645d8d21.jpg",
+      "publishedAt": "2026-10-09T14:23:57.000Z",
+      "sample": false
+    },
+    {
+      "id": "5m1vov",
+      "title": "Ofsted faces fresh calls to halt graded school inspections in England",
+      "summary": "A second head teachers' union says it is \"increasingly concerned\" about members' \"welfare and morale\".",
+      "category": "society",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m45l17n7no?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52d8/live/3efd73f0-c3e9-11f1-badc-154546719036.jpg",
+      "publishedAt": "2026-10-09T14:01:41.000Z",
+      "sample": false
+    },
+    {
+      "id": "3llh0x",
+      "title": "Boy, 15, denies 22 sexual offences",
+      "summary": "The teenager is due to stand trial at Northampton Crown Court in October 2027.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c6gel7j1yr2xo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53cc/live/167b6f60-c3d3-11f1-95ba-dba767ffba7e.jpg",
+      "publishedAt": "2026-10-09T13:55:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "zguhtv",
+      "title": "Report highlights flaws in ADHD and autism care",
+      "summary": "There is a risk of people being over-diagnosed with ADHD and autism, an official review in England has found.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/cw073kg8p557o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf4/live/33c62720-c3e4-11f1-9a39-31b474234113.jpg",
+      "publishedAt": "2026-10-09T13:52:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "xw46g1",
+      "title": "Tory tax break for banks has cost UK public purse £6bn, says TUC",
+      "summary": "Exclusive: Chancellor urged to reverse Jeremy Hunt’s tax surcharge cuts to claw back billions in lost revenue\n\nBusiness live – latest updates\n\nTax cuts for big banks have deprived the UK government of £6bn in revenues, according to campaigners, who are calling on the chancellor, John Healey, to increase taxes and force",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/money/2026/oct/09/tory-tax-break-banks-cost-uk-public-purse-tuc",
+      "image": "https://i.guim.co.uk/img/media/13de89d324040efdbe3c273c40116649f6e3f2fd/0_47_3038_2431/master/3038.jpg?width=140&quality=85&auto=format&fit=max&s=693d28dcc59e59e8dc646007cf8ed11b",
+      "publishedAt": "2026-10-09T13:18:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "q19k3y",
+      "title": "Chair of Jewish Greens calls for Zack Polanski to resign after byelection loss",
+      "summary": "Vivien Lichtenstein urges party leader to quit over ‘Zionism is racism’ policy – but could face no-confidence motion herself\nThe chair of the Jewish Greens has called for Zack Polanski to step down as pressure increases on the Green leader to acknowledge anger within the party over a new policy that equates Zionism wit",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/09/leader-of-jewish-greens-calls-for-zack-polanski-to-resign",
+      "image": "https://i.guim.co.uk/img/media/27a0d2537fdc8bf038da35c42230c95c5cc2cb3c/374_0_5749_4599/master/5749.jpg?width=140&quality=85&auto=format&fit=max&s=b9cb85b6f4f8ce223c0fb78249219acd",
+      "publishedAt": "2026-10-09T13:13:15.000Z",
       "sample": false
     },
     {
@@ -44,8 +385,30 @@
       "category": "environment",
       "source": "bbc-news",
       "url": "https://www.bbc.co.uk/news/articles/c6lye90xj478o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d198/live/0642ea30-b8eb-11f1-8e38-ff13e96f88b3.png",
-      "publishedAt": "2026-10-09T12:40:34.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b54d/live/8649e050-c3ed-11f1-913a-eb4b8e15ad15.jpg",
+      "publishedAt": "2026-10-09T13:12:23.000Z",
+      "sample": false
+    },
+    {
+      "id": "i1q1ay",
+      "title": "'Tropical jungle' of wallabies, porcupines and parrots must move after neighbours complain",
+      "summary": "James Wale moved to the site two years ago and keeps animals including wallabies and rare birds.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cqn8d5gj8jd3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2854/live/9cb90da0-c3e0-11f1-95ba-dba767ffba7e.png",
+      "publishedAt": "2026-10-09T13:01:57.000Z",
+      "sample": false
+    },
+    {
+      "id": "rfox3v",
+      "title": "Hurricane Isaias strengthens to a major category three storm",
+      "summary": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11af/live/b7dc7730-c3b2-11f1-a0b5-7b6bc14012a9.png",
+      "publishedAt": "2026-10-09T12:54:28.000Z",
       "sample": false
     },
     {
@@ -126,17 +489,6 @@
       "sample": false
     },
     {
-      "id": "xypjhm",
-      "title": "Andrew Mountbatten-Windsor granted £302,000 for end of Royal Lodge lease",
-      "summary": "Former prince surrendered lease on home within its first 25 years after public outcry about the rent he paid\nAndrew Mountbatten-Windsor has been granted £302,000 in compensation after the lease on his former Royal Lodge home in Windsor was officially surrendered.\nA crown estate spokesperson said the former prince paid ",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/09/andrew-mountbatten-windsor-granted-302000-for-end-of-royal-lodge-lease",
-      "image": "https://i.guim.co.uk/img/media/15680aaa05c755326b0727324cfa87b7cbc8a546/810_99_4419_3535/master/4419.jpg?width=140&quality=85&auto=format&fit=max&s=2e75a7dedac61fbbe8fb2f5ba97a980d",
-      "publishedAt": "2026-10-09T11:39:49.000Z",
-      "sample": false
-    },
-    {
       "id": "kzf3eb",
       "title": "Fund launched to back community wellbeing projects",
       "summary": "The fund aims to attract support from individuals, families, businesses and charitable trusts.",
@@ -167,17 +519,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cvn06yl7kd01o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6ac/live/9ba9b7f0-c3c9-11f1-8fc5-335d62f6730b.jpg",
       "publishedAt": "2026-10-09T11:00:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "q19k3y",
-      "title": "Leader of Jewish Greens calls for Zack Polanski to resign after byelection loss",
-      "summary": "Vivien Lichtenstein says party leader should stand down over ‘Zionism is racism’ policy  \n\nUK politics live – latest updates\n\nThe leader of the Jewish Greens has called for Zack Polanski to step down as pressure increases on the Green leader to acknowledge anger within the party over a new policy that equates Zionism w",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/09/leader-of-jewish-greens-calls-for-zack-polanski-to-resign",
-      "image": "https://i.guim.co.uk/img/media/27a0d2537fdc8bf038da35c42230c95c5cc2cb3c/374_0_5749_4599/master/5749.jpg?width=140&quality=85&auto=format&fit=max&s=b9cb85b6f4f8ce223c0fb78249219acd",
-      "publishedAt": "2026-10-09T10:48:50.000Z",
       "sample": false
     },
     {
@@ -227,22 +568,11 @@
     {
       "id": "9ryu4m",
       "title": "Bragging rights for Burnham, blues for Farage: conference season winners and losers",
-      "summary": "While the Labour and Conservative leaders will be delighted with their showing, Nigel Farage, Ed Davey and Zach Polanski have less reason for cheer\nAndy Burnham\n Continue reading...",
+      "summary": "While the Labour and Conservative leaders will be delighted with their showing, Nigel Farage, Ed Davey and Zack Polanski have less reason for cheer\nAndy Burnham\n Continue reading...",
       "category": "politics",
       "source": "the-guardian",
       "url": "https://www.theguardian.com/politics/2026/oct/09/burnham-badenoch-farage-conference-season-winners-losers",
       "image": "https://i.guim.co.uk/img/media/cc84532c93d8f637252bc4eb775137e2b72f1cf5/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=156f70037561200f8fcd0bbc4618cbc3",
-      "publishedAt": "2026-10-09T09:00:43.000Z",
-      "sample": false
-    },
-    {
-      "id": "b7kh7k",
-      "title": "Labour chair of housing committee calls for urgent funds for affordable homes in England",
-      "summary": "Exclusive: Abena Oppong-Asare urges chancellor to unlock billions of pounds, as housing associations say they could build 41,000 homes in 10 years\nThe Labour chair of the Commons housing committee is urging John Healey to bring forward billions of pounds of planned spending on social and affordable homes in England, af",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/society/2026/oct/09/labour-social-affordable-housing-abena-oppong-asare-england",
-      "image": "https://i.guim.co.uk/img/media/8249144616297b4707fd511566a223532ffad7ea/0_25_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=fc6596c411389b296ad631df325d5a77",
       "publishedAt": "2026-10-09T09:00:43.000Z",
       "sample": false
     },
@@ -266,39 +596,6 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/cmvg9pgg4keyo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af14/live/7efc42e0-c3be-11f1-9798-abffda1e61e7.jpg",
       "publishedAt": "2026-10-09T08:23:50.000Z",
-      "sample": false
-    },
-    {
-      "id": "h4q82j",
-      "title": "Labour fends off Green party to win Holborn and St Pancras byelection",
-      "summary": "Victory by Sagal Abdi-Wali in north London seat will reassure Andy Burnham in high-stakes battle for left of British politics\n\nHolborn and St Pancras byelection – live updates\n\n\nLabour has seen off the Greens to win the Holborn and St Pancras byelection in a result that will reassure Andy Burnham and dent Zack Polanski",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/09/labour-wins-holborn-st-pancras-byelection-green-party",
-      "image": "https://i.guim.co.uk/img/media/5a7a20fae5d7793ab3528a99435c969345139c5b/911_269_6730_5385/master/6730.jpg?width=140&quality=85&auto=format&fit=max&s=a43ae0e489d4f7cb272c1f5918e059fa",
-      "publishedAt": "2026-10-09T08:14:43.000Z",
-      "sample": false
-    },
-    {
-      "id": "rfox3v",
-      "title": "Hurricane Isaias forecast to strengthen to category three before landfall in US",
-      "summary": "El Niño has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11af/live/b7dc7730-c3b2-11f1-a0b5-7b6bc14012a9.png",
-      "publishedAt": "2026-10-09T07:34:51.000Z",
-      "sample": false
-    },
-    {
-      "id": "sh61me",
-      "title": "Palantir’s Tom Watson says ‘mob rule’ must not dictate awarding of government contracts",
-      "summary": "Former Labour deputy leader says tech firm would work with a Reform UK government on immigration crackdowns\nTom Watson, the former Labour deputy leader who recently joined Palantir, has warned against “mob rule” when it comes to awarding public contracts.\nLord Watson, now a senior vice-president at the US tech corporat",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/09/palantir-tom-watson-mob-rule-government-contracts",
-      "image": "https://i.guim.co.uk/img/media/feaa93bb4c00e44a655ff9ed1d226f783dc7d75c/0_0_2750_2200/master/2750.jpg?width=140&quality=85&auto=format&fit=max&s=463595922b7a8989f804ca98047a7b1e",
-      "publishedAt": "2026-10-09T07:20:33.000Z",
       "sample": false
     },
     {
@@ -348,7 +645,7 @@
     {
       "id": "gwwh9t",
       "title": "Holborn and St Pancras byelection loss will disappoint Greens – but there may also be relief",
-      "summary": "It may sound odd to think Zack Polanski would be happy with second place, but after his most challenging week in politics, it could have been worse\n\nLabour’s Abdi-Wali fends off Polanski and Greens\n\nHolborn and St Pancras byelection – live updates\n\nParliamentary byelections can generate all sorts of emotional responses",
+      "summary": "It may sound odd to think Zack Polanski would be happy with second place, but after his most challenging week in politics, it could have been worse\n\nLabour’s Abdi-Wali fends off Polanski and Greens\n\n\nParliamentary byelections can generate all sorts of emotional responses, often very strong ones. But for the main conten",
       "category": "politics",
       "source": "the-guardian",
       "url": "https://www.theguardian.com/politics/2026/oct/09/holborn-st-pancras-byelection-greens-zack-polanski",
@@ -467,6 +764,17 @@
       "sample": false
     },
     {
+      "id": "4nsiop",
+      "title": "Second UK health body drops Israeli drug firm after activist pressure",
+      "summary": "Decision by Royal College of Pharmacy to end sponsorship comes after concerns over Teva Pharmaceuticals’ ‘activities’\nA second major UK health body has cut ties with an Israeli drug firm after coming under pressure from pro-Palestine campaigners.\nThe Royal College of Pharmacy has dropped Teva UK, the British arm of the",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/09/royal-college-pharmacy-cuts-ties-teva-israel-palestine-campaigners",
+      "image": "https://i.guim.co.uk/img/media/1639707ef0ccfb040370e51080907550481cf6fd/499_0_5002_4000/master/5002.jpg?width=140&quality=85&auto=format&fit=max&s=f25fea602e3a4dff0ef21add28808c23",
+      "publishedAt": "2026-10-09T05:00:39.000Z",
+      "sample": false
+    },
+    {
       "id": "phwrcq",
       "title": "£15m spent cleaning illegal waste supersite in ancient woodland",
       "summary": "Concerns remain over the ancient Kent woodland's future after 39,500 tonnes of rubbish were cleared.",
@@ -475,17 +783,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cq98zdp612pko?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdc3/live/945b6820-c3a3-11f1-9a39-31b474234113.jpg",
       "publishedAt": "2026-10-09T05:00:23.000Z",
-      "sample": false
-    },
-    {
-      "id": "f7r6wv",
-      "title": "Trump wants to reduce the cost of fuel as the midterms loom - will it work?",
-      "summary": "The price of fuel has soared as the cost of living emerges as a key issue for millions of Americans.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b1a/live/12929650-c32c-11f1-9981-cf94ea240e40.jpg",
-      "publishedAt": "2026-10-09T04:55:14.000Z",
       "sample": false
     },
     {
@@ -619,18 +916,9 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pfq91g.jpg",
       "publishedAt": "2026-10-08T23:01:00.000Z",
       "sample": false
-    },
-    {
-      "id": "vxnhoq",
-      "title": "Polls close in Holborn and St Pancras byelection as Labour hopes to retain seat",
-      "summary": "Contest seen as test of Andy Burnham’s ability to unite Labour voters amid threat from Green party’s Zack Polanski\nPolls have closed in the Holborn and St Pancras byelection, a contest seen as a test of whether Andy Burnham can unite Labour’s voters or whether Zack Polanski can peel off support from the party’s progres",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/08/polls-close-holborn-st-pancras-byelection-labour-greens",
-      "image": "https://i.guim.co.uk/img/media/241e1892c1f7d1aff5f840c621c79a2877881fdc/552_0_5468_4374/master/5468.jpg?width=140&quality=85&auto=format&fit=max&s=8071c9634f2c421a9afeb25f14d01f96",
-      "publishedAt": "2026-10-08T22:43:39.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "oa12tg",
       "title": "White House blocks Microsoft from foreign worker hiring programme",
@@ -643,12 +931,12 @@
       "sample": false
     },
     {
-      "id": "4e44oz",
+      "id": "ip5005",
       "title": "BBC Inside Science",
       "summary": "What next for the world of maths after a major intrusion by AI?",
       "category": "environment",
       "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/sounds/play/w3ct9788?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m1ww2j.jpg",
       "publishedAt": "2026-10-08T20:00:00.000Z",
       "sample": false
@@ -720,17 +1008,6 @@
       "sample": false
     },
     {
-      "id": "b1bhuh",
-      "title": "What would make your life easier? Martin Lewis asks public for ‘small ideas’ to improve UK",
-      "summary": "Finance expert launches Small Ideas Initiative to gather ‘practical, low-cost’ ideas to put before cross-party panel\nEvery day, people run into what the finance expert Martin Lewis calls “the life-potholes of unintended consequences” – clunky systems and poorly conceived rules that make life harder than it should be. H",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/08/martin-lewis-small-ideas-institute-public-improve-uk",
-      "image": "https://i.guim.co.uk/img/media/cc159de4373b8afa8bddef7dda4127e75426a7e6/340_0_3429_2743/master/3429.jpg?width=140&quality=85&auto=format&fit=max&s=6a722af390d226a889480b21997f6872",
-      "publishedAt": "2026-10-08T17:29:25.000Z",
-      "sample": false
-    },
-    {
       "id": "93ez4w",
       "title": "Why the search warrants were deemed unlawful and what happens next?",
       "summary": "Special correspondent Lucy Manning explains why the Hight Court has ruled that search warrants used to search Mr Mountbatten-Windsor's home were unlawful.",
@@ -786,39 +1063,6 @@
       "sample": false
     },
     {
-      "id": "x39se0",
-      "title": "MoD has objected to four windfarms in past year over radar interference fears",
-      "summary": "Complaints risks putting defence ministry on collision course with Department for Energy Security and Net Zero\nThe Ministry of Defence has objected to at least four planned windfarms in the past year over fears the spinning blades could cause “unacceptable interference” with radars used to detect military aircraft.\nMoD",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/08/mod-objection-four-windfarms-radar-interference-fears",
-      "image": "https://i.guim.co.uk/img/media/aaf71745b0d1bc943c7be454d4724b3c6ec9b819/701_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=f0409dafebd6d0628482a0473aa7f67f",
-      "publishedAt": "2026-10-08T17:00:24.000Z",
-      "sample": false
-    },
-    {
-      "id": "p3ho62",
-      "title": "British consulate in East Jerusalem will stay open as UK mission, says Ed Miliband",
-      "summary": "UK and Israel back away from full diplomatic confrontation, though British presence in Palestine will be much reduced\nIsrael and the UK have backed away from a full-scale diplomatic confrontation, with Britain announcing it is rebranding its consulate general ⁠building in ⁠East Jerusalem ​as a UK mission, a move that w",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/08/uk-consulate-east-jerusalem-remain-open-uk-mission-ed-miliband",
-      "image": "https://i.guim.co.uk/img/media/1125317cf6dab6dcaaa9ea4fe64db6815e209442/458_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=a5b51c75f3c1caefdbc495fe5d51d953",
-      "publishedAt": "2026-10-08T16:43:39.000Z",
-      "sample": false
-    },
-    {
-      "id": "mwifl0",
-      "title": "Bank governor urges John Healey to use budget to allay market fears amid bond turmoil",
-      "summary": "Andrew Bailey tells chancellor ‘whatever the stance of fiscal policy, it must be credible and be seen as such by financial markets’\nThe Bank of England governor, Andrew Bailey, has urged the chancellor, John Healey, to agree a budget that reassures financial markets after the UK’s medium-term borrowing costs hit a fres",
-      "category": "economy",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/08/medium-term-borrowing-costs-uk-government-19-year-high",
-      "image": "https://i.guim.co.uk/img/media/97f80b3f42c838a89e39268d06585786978abb2c/298_0_3504_2803/master/3504.jpg?width=140&quality=85&auto=format&fit=max&s=d201be6bffe9bde67b462987ea93e613",
-      "publishedAt": "2026-10-08T16:38:25.000Z",
-      "sample": false
-    },
-    {
       "id": "ie9mvb",
       "title": "Warrants used to search Andrew's homes were unlawful, court says",
       "summary": "A criminal investigation into the former prince continues and police have retained material seized from his homes.",
@@ -827,17 +1071,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cr1exlvpzylvo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fbb/live/79288160-c325-11f1-9981-cf94ea240e40.jpg",
       "publishedAt": "2026-10-08T16:33:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "kjlzxo",
-      "title": "Campaigners led by Chris Packham urge prime minister to rethink Send overhaul",
-      "summary": "Exclusive: Letter to government says changes will unfairly remove legal protections for children in England\n\nLetter: Legal rights must be retained for children with Send\n\nCampaigners are calling on Andy Burnham to abandon the core elements of the government’s overhaul of special educational needs provision in England, ",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/education/2026/oct/08/campaigners-letter-send-reform-chris-packham-sally-phillips",
-      "image": "https://i.guim.co.uk/img/media/8d5408a396ec323a871fac3ff28ce948e793c740/50_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=3afdea0ea5b1fe16b91ccf4d9fa272ab",
-      "publishedAt": "2026-10-08T16:30:23.000Z",
       "sample": false
     },
     {
@@ -883,9 +1116,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05b7/live/52103b30-b507-11f1-91cc-c5691e33b858.jpg",
       "publishedAt": "2026-10-08T13:11:01.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "annjj1",
       "title": "Chrysler Building to get its crown restored after being sold",
@@ -961,17 +1192,6 @@
       "url": "https://www.theguardian.com/world/2026/oct/08/july-record-wildfires-england-data-shows",
       "image": "https://i.guim.co.uk/img/media/4e3062fed85837374cb05b288b7ba470a4a2d5d1/430_0_4300_3440/master/4300.jpg?width=140&quality=85&auto=format&fit=max&s=eb1b97e1a06833c9b36cf38a084d7c1c",
       "publishedAt": "2026-10-08T10:34:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "z0pues",
-      "title": "The bendy elm crowned UK Tree of the Year",
-      "summary": "It is the first time a tree in Northern Ireland has won the national title since it was launched in 2014.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c69wzr9qr7qro?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efc0/live/62375e30-c303-11f1-9955-5d2e13ff2bea.jpg",
-      "publishedAt": "2026-10-08T10:32:34.000Z",
       "sample": false
     },
     {
@@ -1107,17 +1327,6 @@
       "sample": false
     },
     {
-      "id": "gozhw4",
-      "title": "UK bluefin tuna comeback shows nature can recover, says WWF",
-      "summary": "The tuna is one of several wildlife recoveries highlighted in a major new report from WWF.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c5rmyzgdjzkwo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/239f/live/5580dbc0-c24b-11f1-ab30-1f92d324dff9.jpg",
-      "publishedAt": "2026-10-08T05:00:04.000Z",
-      "sample": false
-    },
-    {
       "id": "jckapg",
       "title": "'Come all the way' back to EU, French finance minister tells UK",
       "summary": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
@@ -1148,17 +1357,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2882/live/c97d4d10-c2b4-11f1-a0fd-81bd2aaa775c.jpg",
       "publishedAt": "2026-10-08T01:59:54.000Z",
-      "sample": false
-    },
-    {
-      "id": "f3z1k",
-      "title": "Asahi and Kirin among Japan beer giants raided over alleged price-fixing cartel",
-      "summary": "Japan's Fair Trade Commission conducted searches of the country's largest beer-makers.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adce/live/8f5568b0-c21f-11f1-b7d8-6f930589c871.jpg",
-      "publishedAt": "2026-10-08T00:53:46.000Z",
       "sample": false
     },
     {
@@ -1217,17 +1415,6 @@
       "sample": false
     },
     {
-      "id": "jooz3t",
-      "title": "Family of student who took his own life say university ‘will be held to account’",
-      "summary": "Ethan Scott Brown died after being wrongly told he would not be eligible to graduate from the University of Glasgow \nThe family of a student who took his own life after being wrongly told he would not be eligible to graduate have said the University of Glasgow “will be held to account”.\nEthan Scott Brown, 23, was due t",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/education/2026/oct/07/family-student-ethan-scott-brown-university-glasgow-accountable",
-      "image": "https://i.guim.co.uk/img/media/17cb60ed423430436f6e7acb1266b3080b36a48c/0_164_1057_845/master/1057.jpg?width=140&quality=85&auto=format&fit=max&s=113373896e78eca75b2d5669bbca2d18",
-      "publishedAt": "2026-10-07T21:52:59.000Z",
-      "sample": false
-    },
-    {
       "id": "syluxp",
       "title": "Business Daily",
       "summary": "The economy is high on the agenda for US voters this election.",
@@ -1247,17 +1434,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8459/live/4bc569a0-c27f-11f1-98ea-35e6bf307fc9.jpg",
       "publishedAt": "2026-10-07T20:34:17.000Z",
-      "sample": false
-    },
-    {
-      "id": "w53obr",
-      "title": "Boots sold in £7bn deal to Canadian billionaire family",
-      "summary": "The sale of the High Street chain was announced on Wednesday.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/882a/live/37402510-c257-11f1-ab30-1f92d324dff9.jpg",
-      "publishedAt": "2026-10-07T17:18:30.000Z",
       "sample": false
     },
     {
@@ -1283,28 +1459,6 @@
       "sample": false
     },
     {
-      "id": "1nn7pm",
-      "title": "Badenoch says Tories would scrap inheritance tax on family homes",
-      "summary": "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfc8/live/ac877ba0-c26d-11f1-b278-615cdfb74f16.png",
-      "publishedAt": "2026-10-07T14:33:11.000Z",
-      "sample": false
-    },
-    {
-      "id": "huagtp",
-      "title": "South West Water owner taps investors to fix infrastructure after sewage spills",
-      "summary": "Pennon slashes dividend and launches £550m cash call ‘to drive improved outcomes for customers and communities’\n\nBurnham, take note: water shareholders have their uses\n\nThe owner of embattled South West Water has slashed its dividend and launched a cash call to investors as it attempts to fund infrastructure investment",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/oct/07/south-west-water-owner-taps-investors-to-fix-infrastructure-after-sewage-spills",
-      "image": "https://i.guim.co.uk/img/media/7b4d7b00fe9ae48302ce114a793d15e71e0fa97e/61_541_2923_2338/master/2923.jpg?width=140&quality=85&auto=format&fit=max&s=828481a160c28656823e7b6e57fd38c4",
-      "publishedAt": "2026-10-07T14:14:35.000Z",
-      "sample": false
-    },
-    {
       "id": "j3o1k9",
       "title": "'My father abused me in the countryside. I felt trapped'",
       "summary": "Growing up on a farm, Tracy Lewis loved being around its animals but said the physical and emotional abuse from her farmer father was \"torture\".",
@@ -1324,17 +1478,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cxr5ym53l7e0o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2366/live/5a239360-c24c-11f1-bc2e-018d645d8d21.jpg",
       "publishedAt": "2026-10-07T12:53:05.000Z",
-      "sample": false
-    },
-    {
-      "id": "ujvjph",
-      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
-      "summary": "The prize was given to the French and Japanese scientists for solving the mystery of life's asymmetry.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly038jg0d4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/caf1/live/a5f2fc60-c23b-11f1-be2f-0fbd447d6e43.png",
-      "publishedAt": "2026-10-07T11:51:52.000Z",
       "sample": false
     },
     {
@@ -1426,17 +1569,6 @@
       "sample": false
     },
     {
-      "id": "eo380k",
-      "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
-      "summary": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
-      "category": "technology",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebee/live/d275dfa0-c218-11f1-bc2e-018d645d8d21.jpg",
-      "publishedAt": "2026-10-06T17:50:19.000Z",
-      "sample": false
-    },
-    {
       "id": "br3ftf",
       "title": "Cancer patient hit with £680 in parking charges",
       "summary": "Jeremy received four parking notices at Queen Alexandra Hospital after his free exemption expired.",
@@ -1514,17 +1646,6 @@
       "sample": false
     },
     {
-      "id": "3u7i8b",
-      "title": "Parents' plea for kidney transplant for daughter",
-      "summary": "Four-year-old Aryia needs a kidney transplant after doctors ruled out her parents as donors.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/cm4g15vje124o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2143/live/450c7190-c0d0-11f1-babe-4199b0e7ccea.jpg",
-      "publishedAt": "2026-10-05T16:01:40.000Z",
-      "sample": false
-    },
-    {
       "id": "d6lkkq",
       "title": "Plaque honours Mars mission scientist",
       "summary": "The tribute recognises Colin Pillinger who led the 2003 probe mission to Mars.",
@@ -1555,17 +1676,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceaa/live/22381b10-c0b2-11f1-bc2e-018d645d8d21.jpg",
       "publishedAt": "2026-10-05T11:04:37.000Z",
-      "sample": false
-    },
-    {
-      "id": "1qh4ob",
-      "title": "I found out I had cancer when my son kicked me",
-      "summary": "Ben Lidgey was accidentally kicked in the testicles by his son, which may have saved his life",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/cw4g1lz3p8p0o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2231/live/f9eb33d0-be78-11f1-bc2e-018d645d8d21.jpg",
-      "publishedAt": "2026-10-05T10:02:18.000Z",
       "sample": false
     },
     {
