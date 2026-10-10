@@ -2,8 +2,85 @@
   "id": "GBR",
   "name": "United Kingdom",
   "sample": false,
-  "updatedAt": "2026-10-09T22:27:57.785Z",
+  "updatedAt": "2026-10-10T05:12:54.462Z",
   "daily": [
+    {
+      "id": "tn3i8j",
+      "title": "The Papers: 'Airlines sound alarm on costs crisis' and 'King's £1.5m bailout'",
+      "summary": "The weekend edition of the Financial Times highlights what it is calling a \"mounting crisis\" for airlines.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0el6r7lzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e41/live/664c5ca0-c434-11f1-82d8-49a147d9cec2.png",
+      "publishedAt": "2026-10-10T04:58:37.000Z",
+      "sample": false
+    },
+    {
+      "id": "gy5dbp",
+      "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
+      "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f173/live/ee0a99e0-c461-11f1-98eb-5dd4f1288128.jpg",
+      "publishedAt": "2026-10-10T04:38:20.000Z",
+      "sample": false
+    },
+    {
+      "id": "5or4gl",
+      "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+      "summary": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32d0/live/ee00aa70-c443-11f1-8e13-7de7b0658be0.jpg",
+      "publishedAt": "2026-10-10T01:58:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "bpv4tz",
+      "title": "Tech Now",
+      "summary": "Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.",
+      "category": "technology",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pfw9y5.jpg",
+      "publishedAt": "2026-10-10T01:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pbw0zk",
+      "title": "Headteachers threaten strike ballots after losing confidence in Ofsted",
+      "summary": "Unions tell government to fix ‘overbearing mess’ of inspection regime and its impact on staff wellbeing – or risk industrial action\nTensions between England’s headteachers and Ofsted are developing into a crisis after school leadership unions said they had no confidence in the watchdog and would hold strike ballots unl",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/education/2026/oct/10/ofsted-strikes-head-teachers-confidence",
+      "image": "https://i.guim.co.uk/img/media/17052718b449f24288dd7cdbaa8dd313d377cc62/853_0_5425_4338/master/5425.jpg?width=140&quality=85&auto=format&fit=max&s=8e330737925ec29abeb67608fd9df592",
+      "publishedAt": "2026-10-09T23:01:40.000Z",
+      "sample": false
+    },
+    {
+      "id": "f5dkbl",
+      "title": "Boots has a new owner: Three ways it could affect you",
+      "summary": "The stalwart of Britain's High Street has been sold to a Canadian billionaire family. What will that mean for you?",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c63djxry8124o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31cf/live/7e917260-c32a-11f1-9981-cf94ea240e40.jpg",
+      "publishedAt": "2026-10-09T23:01:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "ipt4ny",
+      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+      "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9075/live/94a528a0-c422-11f1-9462-0fb8e72a616b.jpg",
+      "publishedAt": "2026-10-09T22:30:22.000Z",
+      "sample": false
+    },
     {
       "id": "85y7oo",
       "title": "'Thuggish' behaviour could see balaclava ban in more cities",
@@ -13,17 +90,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cmvg6xw7dlq7o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e23/live/62e7e990-c23f-11f1-b390-9f59a375fdd2.png",
       "publishedAt": "2026-10-09T21:56:11.000Z",
-      "sample": false
-    },
-    {
-      "id": "gy5dbp",
-      "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-      "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d61b/live/93d8fbd0-c41e-11f1-a175-8928617a734f.jpg",
-      "publishedAt": "2026-10-09T21:54:28.000Z",
       "sample": false
     },
     {
@@ -40,7 +106,7 @@
     {
       "id": "axgx78",
       "title": "Northern Ireland secretary Chris Bryant bans Drumcree parade",
-      "summary": "Prospect of contentious Orange Order march down Garvaghy Road has led to a two-week standoff in Portadown\nThe Northern Ireland secretary of state has banned the Drumcree parade after a 13-day impasse between the Orange Order and nationalists.\nChris Bryant announced on Friday night that it was “not in the public interes",
+      "summary": "Prospect of contentious Orange Order march through Garvaghy Road in Portadown has led to a nearly two-week standoff\nThe Northern Ireland secretary of state has banned the Drumcree parade after a 13-day impasse between the Orange Order and nationalists.\nChris Bryant announced on Friday night that it was “not in the publ",
       "category": "politics",
       "source": "the-guardian",
       "url": "https://www.theguardian.com/uk-news/2026/oct/09/northern-ireland-secretary-chris-bryant-bans-drumcree-parade",
@@ -247,17 +313,6 @@
       "sample": false
     },
     {
-      "id": "e8lq2c",
-      "title": "UK politics: Green MP Siân Berry says opponents of Zionism motion were ‘persuaded’ not to fight it because of byelection – as it happened",
-      "summary": "The MP says that passing the motion has done ‘genuine damage; to the party’s reputation\n\nReport: Labour wins Holborn and St Pancras byelection\n\nAnalysis: defeat will disappoint Greens – but there may also be relief\n\nActivists in Camden have suggested the Greens’ decision to back the anti-Zionism motion has cost them vo",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/oct/09/holborn-st-pancras-byelection-result-zack-polanski-sagal-abdi-wali-uk-labour-green-party-uk-politics-latest-news",
-      "image": "https://i.guim.co.uk/img/media/a4f79d442c52bb43d80b4b350d94b67f59bdd68b/414_0_4135_3308/master/4135.jpg?width=140&quality=85&auto=format&fit=max&s=d882a0fd90d44b184666779cb1317a78",
-      "publishedAt": "2026-10-09T15:25:07.000Z",
-      "sample": false
-    },
-    {
       "id": "1y6a9z",
       "title": "Dad and son remain critical after masked men attack",
       "summary": "Leicestershire Police say the attack at the family home appeared \"completely unprovoked\".",
@@ -302,17 +357,6 @@
       "sample": false
     },
     {
-      "id": "462bna",
-      "title": "Woman found dead in burning van was pregnant, police say",
-      "summary": "A court is told Samantha Phythian, from Rhyl, was alive when the fire started.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/crn4ez947zezo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d75/live/6b919f00-c3f7-11f1-bc2e-018d645d8d21.jpg",
-      "publishedAt": "2026-10-09T14:29:20.000Z",
-      "sample": false
-    },
-    {
       "id": "443f5m",
       "title": "Hurricane Isaias strengthens as it heads towards land",
       "summary": "Isaias will bring damaging winds, torrential rain and a storm surge with landfall expected late Friday.",
@@ -354,6 +398,17 @@
       "url": "https://www.bbc.co.uk/news/videos/cw073kg8p557o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bf4/live/33c62720-c3e4-11f1-9a39-31b474234113.jpg",
       "publishedAt": "2026-10-09T13:52:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "tdrjpd",
+      "title": "Robert Jenrick launches scathing broadside against ‘Kensington Kemi’",
+      "summary": "Reform UK economics spokesperson seeks to associate Tory leader with metropolitan elite as party relations sour further\n\nRobert Jenrick has launched an extended attack on Kemi Badenoch, calling her part of a metropolitan elite and saying a coalition deal with the Tories would be like being “handcuffed to a zombie”.\nRef",
+      "category": "economy",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/09/robert-jenrick-launches-scathing-broadside-against-kensington-kemi",
+      "image": "https://i.guim.co.uk/img/media/7f8f28f1e13675c3c76dcea0938217c92f0bb288/511_0_5058_4048/master/5058.jpg?width=140&quality=85&auto=format&fit=max&s=91bf817a25d4c173c3ff9068fbec934a",
+      "publishedAt": "2026-10-09T13:21:14.000Z",
       "sample": false
     },
     {
@@ -566,17 +621,6 @@
       "sample": false
     },
     {
-      "id": "9ryu4m",
-      "title": "Bragging rights for Burnham, blues for Farage: conference season winners and losers",
-      "summary": "While the Labour and Conservative leaders will be delighted with their showing, Nigel Farage, Ed Davey and Zack Polanski have less reason for cheer\nAndy Burnham\n Continue reading...",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/oct/09/burnham-badenoch-farage-conference-season-winners-losers",
-      "image": "https://i.guim.co.uk/img/media/cc84532c93d8f637252bc4eb775137e2b72f1cf5/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=156f70037561200f8fcd0bbc4618cbc3",
-      "publishedAt": "2026-10-09T09:00:43.000Z",
-      "sample": false
-    },
-    {
       "id": "ov7p09",
       "title": "'We didn't get it over the line': Green party's Zack Polanski on byelection loss – video",
       "summary": "Labour has seen off the Greens to win the Holborn and St Pancras byelection in a result that will reassure Andy Burnham and dent Zack Polanski’s position as a decisive power player on the left of British politics. In an emotional victory speech, Sagal Abdi-Wali, a former child refugee who came to the UK from Somalia in",
@@ -707,7 +751,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a53/live/ef8a7b40-c331-11f1-9981-cf94ea240e40.jpg",
       "publishedAt": "2026-10-09T05:29:43.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "a7iz6a",
       "title": "'You cannot build this car anywhere else in the world'",
@@ -916,9 +962,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pfq91g.jpg",
       "publishedAt": "2026-10-08T23:01:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "oa12tg",
       "title": "White House blocks Microsoft from foreign worker hiring programme",
@@ -1159,17 +1203,6 @@
       "url": "https://www.theguardian.com/music/2026/oct/08/dafydd-owain-second-album-wins-welsh-music-prize-2026",
       "image": "https://i.guim.co.uk/img/media/b92d78d2ff45b5b92783401ca8b409673f12a3d5/262_157_1003_803/master/1003.jpg?width=140&quality=85&auto=format&fit=max&s=5c29b931baa15df6e56967d551c2bf95",
       "publishedAt": "2026-10-08T12:00:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "2q83uv",
-      "title": "Residents airlifted to safety after flooding in central Chile",
-      "summary": "The Mapocho river has burst its banks after an unusually large amount of rain fell in recent days.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/ck5yn8jn677vo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f394/live/470aaad0-c2fa-11f1-b8c6-6d610e41a5d9.jpg",
-      "publishedAt": "2026-10-08T11:31:22.000Z",
       "sample": false
     },
     {
@@ -1709,17 +1742,6 @@
       "url": "https://www.theguardian.com/politics/audio/2026/oct/03/theres-no-such-thing-as-democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty-podcast",
       "image": "https://i.guim.co.uk/img/media/c181cfbcc5aaeef3ee07fd87e2cb3c68cb2c1c6c/0_294_2160_1728/master/2160.jpg?width=140&quality=85&auto=format&fit=max&s=5b9292c7a345687801576157d67c2b56",
       "publishedAt": "2026-10-03T06:50:52.000Z",
-      "sample": false
-    },
-    {
-      "id": "9tsfuj",
-      "title": "Tech Now",
-      "summary": "Alasdair Keane heads to the Pokémon World Championships in San Francisco.",
-      "category": "technology",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/iplayer/episode/m0032n6v?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pdn4dw.jpg",
-      "publishedAt": "2026-10-03T01:00:00.000Z",
       "sample": false
     }
   ],
