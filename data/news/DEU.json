@@ -2,8 +2,63 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-11T12:26:11.950Z",
+  "updatedAt": "2026-10-11T21:41:31.538Z",
   "daily": [
+    {
+      "id": "sqoel3",
+      "title": "Air strikes kill dozens of gold miners on Sudan-Egypt border",
+      "summary": "A Sudan-based rights group said 72 people were killed in a remote, disputed area known for illegal gold mining.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/air-strikes-kill-dozens-of-gold-miners-on-sudan-egypt-border/a-79634889?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-11T19:41:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "t974lm",
+      "title": "Who are the Ukrainian 'volunteers' under Russian command?",
+      "summary": "Russia has announced a battalion consisting of Ukrainian \"volunteers.\" But veterans and former prisoners of war share very different accounts.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-11T18:57:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ivnw53",
+      "title": "Saudi Arabia: Second strike hits Riyadh airport",
+      "summary": "Sunday's strike came as the King Khalid International Airport remained closed after a deadly attack on Saturday, and after a warning from Houthi rebels in Yemen that \"worse is yet to come.\" Dammam airport was also hit.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/saudi-arabia-second-strike-hits-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-11T16:24:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "cyqga9",
+      "title": "German 'lawfare': When lawsuits become a political weapon",
+      "summary": "The Left Party is suing two government ministers for accusing them of antisemitism, while Chancellor Friedrich Merz has been sued several times by various parties. Is German politics descending into \"lawfare?\"",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-11T15:14:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "qq6dc0",
+      "title": "Trump claims Russia and Ukraine agreed to 'energy ceasefire'",
+      "summary": "US President Donald Trump says both sides have agreed to stop targeting oil refineries, power plants and other energy infrastructure immediately.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-11T14:47:00.000Z",
+      "sample": false
+    },
     {
       "id": "9yd27n",
       "title": "Pope Leo XIV to undergo surgery to remove lump on lung",
@@ -18,7 +73,7 @@
     {
       "id": "4b27ay",
       "title": "A migrant boat sank off the coast of Djibouti with the UN reporting over 200 people dead or missing",
-      "summary": "The UN migration agency has reported that at least 109 people were killed and 116 remain missing after a migrant boat sank overnight on its way to Yemen. At least 80 Ethiopians survived the incident but 15 children died.",
+      "summary": "The UN migration agency has reported that at least 139 people were killed and 84 remain missing after a migrant boat sank overnight on its way to Yemen. At least 80 Ethiopians survived the incident but 15 children died.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-all-1573-xml-mrss",
@@ -27,12 +82,12 @@
       "sample": false
     },
     {
-      "id": "28kdtb",
-      "title": "Poland on alert amid possible attack on PM, defense minister",
-      "summary": "Poland was holding an emergency meeting after police received information about a possible assassination plot against PM Donald Tusk. The meeting comes amid a wave of violence at Polish schools this week.",
+      "id": "366xyp",
+      "title": "Poland arrests man over plot to kill PM Donald Tusk",
+      "summary": "Prime Minister Donald Tusk confirmed the arrest hours after police received information about a possible assassination plot. Poland is still reeling from a wave of school violence this week.",
       "category": "society",
       "source": "dw",
-      "url": "https://www.dw.com/en/poland-on-alert-amid-possible-attack-on-pm-defense-minister/a-79633128?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/poland-arrests-man-over-plot-to-kill-pm-donald-tusk/a-79633128?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-11T10:48:00.000Z",
       "sample": false
@@ -49,58 +104,36 @@
       "sample": false
     },
     {
-      "id": "ormvst",
-      "title": "Yemen's Houthis warn passengers not to use Saudi airports",
-      "summary": "The warning from the Iran-backed rebels comes a day after a missile attack on Riyadh airport killed 12 people and injured more than 300. The airport will remain closed until at least Sunday night.",
+      "id": "mp1gcb",
+      "title": "Germany rejects Trump demand, 'fully supports' Zelenskyy",
+      "summary": "Germany's foreign minister has said Berlin is behind Ukraine's president and will keep pressuring Russia to end its war. Meanwhile, Deutsche Bank's CEO warned that political extremism is spooking investors. More on DW.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/yemen-s-houthis-warn-passengers-not-to-use-saudi-airports/a-79632306?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-11T09:35:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "gukr1f",
-      "title": "Germany sticks to Russia sanctions after Trump diesel deal",
-      "summary": "After Washington announced a sanctions pause on Russian diesel, Germany has said it remains committed to pressuring Moscow and supporting Ukraine. More on DW.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/germany-rejects-trump-demand-fully-supports-zelenskyy/live-79627811?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-11T09:13:00.000Z",
       "sample": false
     },
     {
-      "id": "1ruof3",
-      "title": "Couples looking to have children often turn to surrogacy agencies in Georgia without understanding the hidden costs",
+      "id": "p1xc0l",
+      "title": "Surrogacy in Georgia is booming, but at what cost?",
       "summary": "Georgia became a hub for surrogate pregnancies after Russia's full-scale invasion of Ukraine in 2022. DW spoke with parents, and those who wanted to become parents, about the hidden costs of a booming industry.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/couples-looking-to-have-children-often-turn-to-surrogacy-agencies-in-georgia-without-understanding-the-hidden-costs/a-79629971?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/surrogacy-in-georgia-is-booming-but-at-what-cost/a-79629971?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-11T07:45:00.000Z",
       "sample": false
     },
     {
-      "id": "86ny2m",
-      "title": "Demographic change: Germany's population is declining, but not everywhere",
-      "summary": "By 2045, Germany will have more older people, fewer workers, and a smaller population overall. Yet some regions will defy this trend. Their success depends on how much they have to offer.",
+      "id": "q1savd",
+      "title": "Germany's population is shrinking, but not everywhere",
+      "summary": "By 2045, Germany will have more older people, fewer workers and a smaller population overall. Yet some regions will defy this trend. Their success depends on how much they have to offer.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/demographic-change-germany-s-population-is-declining-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/germany-s-population-is-shrinking-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-11T07:21:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "puzq6x",
-      "title": "Ukrainian prisoners of war and defectors have been gathered into a Russian battalion to face Ukrainian forces — why? And how?",
-      "summary": "Russia has announced a battalion consisting of Ukrainian \"volunteers.\" But veterans and former prisoners of war share very different accounts.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ukrainian-prisoners-of-war-and-defectors-have-been-gathered-into-a-russian-battalion-to-face-ukrainian-forces-why-and-how/a-79629555?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-11T06:38:00.000Z",
       "sample": false
     },
     {
@@ -168,11 +201,13 @@
       "image": null,
       "publishedAt": "2026-10-10T22:07:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "ebskdk",
       "title": "Money, networks and bias: Why women struggle to win seats in US politics",
-      "summary": "The US is holding Congress and state governors elections. At all levels of US politics, women are underrepresented — but they may win some historic victories in the midterms on November 3.",
+      "summary": "The US is holding Congress and state governor elections. At all levels of US politics, women are underrepresented — but they may win some historic victories in the midterms on November 3.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179?maca=en-rss-en-all-1573-xml-mrss",
@@ -192,17 +227,6 @@
       "sample": false
     },
     {
-      "id": "9t8kdm",
-      "title": "Trump slams Zelenskyy, says Ukraine should elect new president",
-      "summary": "President Trump has criticized Volodymyr Zelenskyy for not making a deal with Russia to end the Ukraine war. Trump also warned Kyiv against targeting Russian oil refineries that will supply the US with diesel fuel.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-10T17:48:00.000Z",
-      "sample": false
-    },
-    {
       "id": "9gq0va",
       "title": "'Ragebait' is the 2026 German Youth Word of the Year",
       "summary": "Already named the 2025 Oxford Word of the Year, \"rage bait\" has also been widely adopted in German slang.",
@@ -212,9 +236,7 @@
       "image": null,
       "publishedAt": "2026-10-10T13:36:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "pgbaen",
       "title": "Operations Plan Germany: How the Bundeswehr trains for NATO collective defense",
@@ -304,12 +326,12 @@
       "sample": false
     },
     {
-      "id": "9li6bo",
-      "title": "Bosnia and Herzegovina will soon have a new Grand Mufti",
-      "summary": "The new leader of the Islamic Community in Bosnia and Herzegovina will be elected on October 10. The reis-ul-ulema's role is not only important for Muslims in the country itself, but could inspire Muslims across Europe.",
+      "id": "z1dydi",
+      "title": "Bosnia-Herzegovina will soon have a new grand mufti",
+      "summary": "The new leader of the Islamic Community in Bosnia-Herzegovina will be elected on October 10. The reis-ul-ulema's role is not only important for Muslims in the country itself, but could inspire Muslims across Europe.",
       "category": "society",
       "source": "dw",
-      "url": "https://www.dw.com/en/bosnia-and-herzegovina-will-soon-have-a-new-grand-mufti/a-79604402?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/bosnia-herzegovina-will-soon-have-a-new-grand-mufti/a-79604402?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-09T08:20:00.000Z",
       "sample": false
@@ -339,7 +361,7 @@
     {
       "id": "r6x0vo",
       "title": "2026 Nobel Prize winner Anne Carson: Where to start reading",
-      "summary": "The works of this year's Nobel Literature Prize-winning poet and essayist Anne Carson can feel slightly daunting. Here are some keys to understanding her universe.",
+      "summary": "The works of this year's Nobel Prize-winning poet and essayist Anne Carson can feel slightly daunting. Here are some keys to understanding her universe.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/2026-nobel-prize-winner-anne-carson-where-to-start-reading/a-79598953?maca=en-rss-en-all-1573-xml-mrss",
@@ -459,8 +481,8 @@
     },
     {
       "id": "1t44ia",
-      "title": "90s art scene in the UK: An international, edgy trendsetter",
-      "summary": "The 1990s are remembered for Britpop and provocative fashion, but beyond the nostalgia, it was a decade of cultural experimentation and social change. Tate Britain's new exhibition looks past the familiar icons.",
+      "title": "'90s art scene in the UK: An international, edgy trendsetter",
+      "summary": "The 1990s are remembered for Brit-pop and provocative fashion, but beyond the nostalgia, it was a decade of cultural experimentation and social change. Tate Britain's new exhibition looks past the familiar icons.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/90s-art-scene-in-the-uk-an-international-edgy-trendsetter/a-79581777?maca=en-rss-en-all-1573-xml-mrss",
@@ -514,8 +536,8 @@
     },
     {
       "id": "wp0qot",
-      "title": "Nobel Prize in Chemistry goes to Henri B. Kagan and Kenso Soai",
-      "summary": "Henri B. Kagan and Kenso Soai won the Nobel Prize in Chemistry for their groundbreaking discoveries related to the origin of chirality and life's building blocks.",
+      "title": "Nobel Prize in chemistry goes to Henri B. Kagan and Kenso Soai",
+      "summary": "Henri B. Kagan and Kenso Soai won the Nobel Prize in chemistry for their groundbreaking discoveries related to the origin of chirality and life's building blocks.",
       "category": "technology",
       "source": "dw",
       "url": "https://www.dw.com/en/nobel-prize-in-chemistry-goes-to-henri-b-kagan-and-kenso-soai/a-79573924?maca=en-rss-en-all-1573-xml-mrss",
@@ -645,12 +667,12 @@
       "sample": false
     },
     {
-      "id": "9zv9on",
-      "title": "Nobel Literature Prize: How the winner is secretly chosen",
-      "summary": "Can Xue is considered one of this year's favorites; Margaret Atwood and Salman Rushdie are other strong contenders. But what goes on behind the scenes in the selection of the Nobel Prize in Literature?",
+      "id": "13wbcf",
+      "title": "Nobel Prize in literature: How the winner is secretly chosen",
+      "summary": "Can Xue is considered one of this year's favorites; Margaret Atwood and Salman Rushdie are other strong contenders. But what goes on behind the scenes in the selection of the Nobel Prize in literature?",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/nobel-literature-prize-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/nobel-prize-in-literature-how-the-winner-is-secretly-chosen/a-79564151?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-06T13:15:00.000Z",
       "sample": false

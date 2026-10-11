@@ -2,8 +2,305 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-10-11T12:26:12.907Z",
+  "updatedAt": "2026-10-11T21:41:32.316Z",
   "daily": [
+    {
+      "id": "m1dku0",
+      "title": "Death toll from Israeli attacks on Lebanon nears 4,390 — health ministry",
+      "summary": "Meanwhile, 12,424 people have being injured",
+      "category": "health",
+      "source": "tass",
+      "url": "https://tass.com/world/2200599",
+      "image": null,
+      "publishedAt": "2026-10-11T20:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dkty",
+      "title": "Iran says US’ response to its conditions for talks are insufficient — Iranian official",
+      "summary": "Secretary of Iran’s Supreme National Security Council Mohsen Rezaei stressed that \"if the Americans do not meet these conditions, neither will the Strait of Hormuz be opened to them\"",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2200597",
+      "image": null,
+      "publishedAt": "2026-10-11T20:43:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnuzer",
+      "title": "One killed, three wounded in Ukrainian drone attacks on Belgorod Region",
+      "summary": "Ukrainian drones continue attacks on the region",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2200595",
+      "image": null,
+      "publishedAt": "2026-10-11T20:12:55.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dktu",
+      "title": "Iran-Oman agreement on Hormuz Strait doesn’t provide for its immediate reopening",
+      "summary": "The reopening of the strait depends entirely on the United States fulfilling its obligations, Iranian Deputy Foreign Minister Kazem Gharibabadi said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2200593",
+      "image": null,
+      "publishedAt": "2026-10-11T20:01:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dkts",
+      "title": "Iran warns ships against transiting Strait of Hormuz with their navigation systems off",
+      "summary": "In such cases, the vessels \"will be subject to severe punishment,\" it warned",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2200591",
+      "image": null,
+      "publishedAt": "2026-10-11T19:36:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dkt5",
+      "title": "US threatens to stop weapons supplies to Ukraine — media",
+      "summary": "Sources claim the administration of US President Donald Trump is also threatening to stop sharing intelligence with Kyiv",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2200589",
+      "image": null,
+      "publishedAt": "2026-10-11T19:18:51.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dkt1",
+      "title": "EU promises Kiev more funds for drones, missiles amid statements from US",
+      "summary": "European Commission President Ursula von der Leyen reassured Vladimir Zelensky of full support following US President Donald Trump’s remarks that Ukraine needs a new president",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2200585",
+      "image": null,
+      "publishedAt": "2026-10-11T18:33:34.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dksz",
+      "title": "EU defense commissioner calls for stopping to rely on US help regarding Ukraine",
+      "summary": "Andrius Kubilius did not explain why it was decided to change the stance",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2200583",
+      "image": null,
+      "publishedAt": "2026-10-11T17:53:36.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dksa",
+      "title": "Houthis say they attacked Saudi Aramco facilities, airports in Saudi Arabia",
+      "summary": "According to the Houthi spokesman Yahya Saria, the attacks targeted a Saudi Aramco gas processing facility in Shedgum and an oil facility in Tanajib in the east of Saudi Arabia and were followed by fires",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2200579",
+      "image": null,
+      "publishedAt": "2026-10-11T17:51:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "5yg2xh",
+      "title": "Several people hurt in attack on Riyadh Airport — authorities",
+      "summary": "Damage is being assessed and a security check continues",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2200577",
+      "image": null,
+      "publishedAt": "2026-10-11T17:07:43.000Z",
+      "sample": false
+    },
+    {
+      "id": "j4r7q4",
+      "title": "Russian forces hit logistics center in Nikolayev Region, dry cargo ship",
+      "summary": "They were used to store military cargoes for the Ukrainian army",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2200575",
+      "image": null,
+      "publishedAt": "2026-10-11T16:42:17.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dkrf",
+      "title": "NATO reconnaissance aircraft was flying over Black Sea for over seven hours",
+      "summary": "The source noted that this aircraft is permanently based in Romania’s Constan·a, from where it typically departs on weekdays for areas over the Black Sea, the Baltic states, or near the Kaliningrad Region",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2200569",
+      "image": null,
+      "publishedAt": "2026-10-11T16:41:36.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dkrd",
+      "title": "Man threatening Polish PM Tusk detained",
+      "summary": "He also wrote e-mails with threats to Defense Minister Wladyslaw Kosiniak-Kamysz",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2200567",
+      "image": null,
+      "publishedAt": "2026-10-11T16:18:23.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dkrb",
+      "title": "IDF eliminates Hamas military wing’s elite platoon commander in Gaza Strip",
+      "summary": "Hisham Jamal Muhammad Abu Ghala was among the leaders of the raid on the Kissufim outpost and took part in abducting Israelis during the October 7th Massacre, the Israel Defense Forces said",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2200565",
+      "image": null,
+      "publishedAt": "2026-10-11T15:58:40.000Z",
+      "sample": false
+    },
+    {
+      "id": "ta7ysk",
+      "title": "Situation at Zaporozhye NPP remains complex — Rosatom CEO",
+      "summary": "The main focus of attention is currently on negotiations to establish ceasefires, in which, along with Rosatom, representatives of law enforcement agencies, the foreign ministry, and the IAEA are participating, Alexey Likhachev said",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/economy/2200555",
+      "image": null,
+      "publishedAt": "2026-10-11T15:39:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "5yg2vn",
+      "title": "Unidentified projectile hits Riyadh Airport passenger terminal",
+      "summary": "Fire breaks out",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2200553",
+      "image": null,
+      "publishedAt": "2026-10-11T15:16:28.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dkqc",
+      "title": "Russian diesel imports beneficial to Americans — Treasury Secretary",
+      "summary": "Agreements on importing Russian diesel fuel will lower diesel prices, Scott Bessent said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2200551",
+      "image": null,
+      "publishedAt": "2026-10-11T15:14:40.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dkpp",
+      "title": "Trump says Russia, Ukraine agree on ‘energy ceasefire’",
+      "summary": "US President urged both sides not to violate it",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2200549",
+      "image": null,
+      "publishedAt": "2026-10-11T15:09:31.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dkpn",
+      "title": "Pope Leo XIV says is to undergo lung surgery",
+      "summary": "Sources in Vatican told TASS that the 71-year-old pontiff may be admitted to the Agostino Gemelli Hospital as early as October 12",
+      "category": "health",
+      "source": "tass",
+      "url": "https://tass.com/world/2200547",
+      "image": null,
+      "publishedAt": "2026-10-11T15:07:03.000Z",
+      "sample": false
+    },
+    {
+      "id": "5yg2uu",
+      "title": "Explosion heard in Riyadh — agency",
+      "summary": "AFP provided no further details",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2200545",
+      "image": null,
+      "publishedAt": "2026-10-11T14:28:57.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dkpj",
+      "title": "No sanctions bills ban US from importing diesel from Russia — Treasury Secretary",
+      "summary": "The US administration possesses all the necessary legal authority to do so, Scott Bessent said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2200543",
+      "image": null,
+      "publishedAt": "2026-10-11T14:27:09.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dkph",
+      "title": "Iranian diplomat calls Trump’s remarks about Tehran destroying LA election rhetoric",
+      "summary": "US President’s allegations about the possible destruction of American cities are completely unfounded, Iranian Ambassador to Russia Kazem Jalali said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2200541",
+      "image": null,
+      "publishedAt": "2026-10-11T13:44:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dkou",
+      "title": "Israel attack Hamas targets in Gaza Strip — IDF",
+      "summary": "Prior to the strikes, advance warnings were issued to the population, the Israel Defense Forces said",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2200539",
+      "image": null,
+      "publishedAt": "2026-10-11T13:42:23.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnuz9n",
+      "title": "Russia condemns attack on Riyadh Airport, calls for not targeting civilian facilities",
+      "summary": "Russia’s position is unchanged: there are no alternatives to a political and diplomatic settlement of any crisis situations in the region, with due account of the interests of all the countries of the region without exception, the Russian foreign ministry said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2200537",
+      "image": null,
+      "publishedAt": "2026-10-11T13:18:21.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dkoq",
+      "title": "Europe’s false solidarity only prolongs Ukrainian conflict — Finnish politician",
+      "summary": "A member of the Freedom Alliance national conservative party  Armando Mema noted that while Europe promises to maintain sanctions pressure and provide military aid to Ukraine, the US is lifting restrictions and working to end the conflict",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2200535",
+      "image": null,
+      "publishedAt": "2026-10-11T13:16:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dkoo",
+      "title": "Threat of assassination attempt on Polish PM ‘extremely serious’ — intelligence agency",
+      "summary": "There is a high probability that these threats will be carried out, spokesman Jacek Dobrzynski stated",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2200533",
+      "image": null,
+      "publishedAt": "2026-10-11T12:49:47.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1dkom",
+      "title": "European Commission wants to tighten visa issuance for Russians in 2027 — newspaper",
+      "summary": "Politico pointed out, citing its sources, that Brussels is thus attempting, in particular, to prevent 650,000 veterans of the special military operation from entering the EU",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2200531",
+      "image": null,
+      "publishedAt": "2026-10-11T12:42:37.000Z",
+      "sample": false
+    },
     {
       "id": "rnuz8u",
       "title": "Ballistic missiles, not Trump's words, bringing about victory in special op — Medvedev",
@@ -39,13 +336,13 @@
     },
     {
       "id": "nchhpi",
-      "title": "Ukraine Will Stop Hitting Refineries if Russia Halts Energy Attacks, Zelensky Says",
-      "summary": "Zelensky repeated Ukraine's long-standing position that it was willing to halt attacks on Russian refineries only as part of a mutual de-escalation of the conflict.",
-      "category": "politics",
+      "title": "Trump Says Russia and Ukraine Reached ‘Energy Ceasefire'",
+      "summary": "Trump, in a social media post, said the energy ceasefire was taking effect immediately, but did not elaborate further.",
+      "category": "military",
       "source": "moscow-times",
       "url": "https://www.themoscowtimes.com/2026/10/11/ukraine-will-stop-hitting-refineries-if-russia-halts-energy-attacks-zelensky-says-a93943",
       "image": null,
-      "publishedAt": "2026-10-11T11:58:16.000Z",
+      "publishedAt": "2026-10-11T11:58:00.000Z",
       "sample": false
     },
     {
@@ -465,7 +762,9 @@
       "image": null,
       "publishedAt": "2026-10-10T21:55:26.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "ta7xcy",
       "title": "This year’s grain harvest to be laudable — Putin",
@@ -475,138 +774,6 @@
       "url": "https://tass.com/economy/2200377",
       "image": null,
       "publishedAt": "2026-10-10T21:38:42.000Z",
-      "sample": false
-    },
-    {
-      "id": "ta7xcu",
-      "title": "Rosatom CEO says share of unfriendly countries’ projects in portfolio declining",
-      "summary": "The absolute number of projects in unfriendly countries remains unchanged, Alexey Likhachev added",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2200373",
-      "image": null,
-      "publishedAt": "2026-10-10T21:05:18.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1djao",
-      "title": "Oil supertanker hits mine in Strait of Hormuz — IRGC",
-      "summary": "According to the Iranian military, the tanker struck a mine and exploded after turning off its positioning and navigation systems",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2200371",
-      "image": null,
-      "publishedAt": "2026-10-10T20:55:35.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1dj9z",
-      "title": "Rwanda proud to use Russian military hardware, envoy says",
-      "summary": "Joseph Nzabamwita added that Rwanda has started selling lots of agriculture products in Russia",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2200367",
-      "image": null,
-      "publishedAt": "2026-10-10T20:51:06.000Z",
-      "sample": false
-    },
-    {
-      "id": "ta7xc1",
-      "title": "Riyadh airport to remain closed until end of Sunday — air traffic control source",
-      "summary": "Earlier, the airport was expected to resume operations at midnight local time",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/economy/2200365",
-      "image": null,
-      "publishedAt": "2026-10-10T20:36:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1dj9v",
-      "title": "US-Ukraine talks in Miami derailed by Putin-Trump diesel deal — media",
-      "summary": "A senior Ukrainian official told the Financial Times that the delegation was cutting its trip short instead of holding a second round of talks on October 10",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2200363",
-      "image": null,
-      "publishedAt": "2026-10-10T20:13:04.000Z",
-      "sample": false
-    },
-    {
-      "id": "5yg1f2",
-      "title": "US death toll from Hurricane Isaias reaches four — TV",
-      "summary": "Local authorities told CNN that hundreds of thousands of people remain without power",
-      "category": "environment",
-      "source": "tass",
-      "url": "https://tass.com/emergencies/2200361",
-      "image": null,
-      "publishedAt": "2026-10-10T19:59:36.000Z",
-      "sample": false
-    },
-    {
-      "id": "9ekvtp",
-      "title": "Russia’s Kornev sets new world record in 50-meter butterfly at short-course event",
-      "summary": "The event is taking place in Uzbekistan’s capital of Tashkent",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/sports/2200355",
-      "image": null,
-      "publishedAt": "2026-10-10T19:44:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "ta7xad",
-      "title": "Russian government partially lifts diesel export ban following Putin-Trump agreements",
-      "summary": "It takes effect on October 10",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2200347",
-      "image": null,
-      "publishedAt": "2026-10-10T19:01:52.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1dj7g",
-      "title": "Riyadh airport to remain closed until midnight — air traffic control service",
-      "summary": "The information had been communicated to all relevant airspace users",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2200339",
-      "image": null,
-      "publishedAt": "2026-10-10T18:59:42.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1dj7a",
-      "title": "Trump says US demanded Zelensky halt strikes on Russian oil refineries",
-      "summary": "He can't do that because we have a world problem, and the problem is caused by the lack of refineries for diesel fuel, US President said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2200333",
-      "image": null,
-      "publishedAt": "2026-10-10T18:12:20.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1dj78",
-      "title": "Several injured in attack on Riyadh airport — Saudi Arabia’s aviation authority",
-      "summary": "The airport’s operations had been suspended to assess the damage and conduct security checks",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2200331",
-      "image": null,
-      "publishedAt": "2026-10-10T18:10:24.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1dj6h",
-      "title": "Zelensky had numerous chances to end conflict but chose not to do so — Trump",
-      "summary": "US President thinks it's time for Ukraine to get a new president",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2200325",
-      "image": null,
-      "publishedAt": "2026-10-10T18:03:55.000Z",
       "sample": false
     },
     {
@@ -620,96 +787,6 @@
       "publishedAt": "2026-10-10T17:26:05.000Z",
       "sample": false
     },
-    {
-      "id": "j4r9df",
-      "title": "Russian forces strike Kiev data center used by Ukrainian army to store intelligence",
-      "summary": "Russian forces have struck a dry cargo ship involved in delivering military supplies to Odessa at sea",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2200309",
-      "image": null,
-      "publishedAt": "2026-10-10T16:20:37.000Z",
-      "sample": false
-    },
-    {
-      "id": "ta7x6x",
-      "title": "Riyadh airport suspends operations — air traffic control source",
-      "summary": "The Riyadh airport has suspended operations; no inbound or outbound flights are being serviced",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2200307",
-      "image": null,
-      "publishedAt": "2026-10-10T16:02:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1dilx",
-      "title": "US negotiators Witkoff, Kushner may visit Moscow in next two weeks — source",
-      "summary": "There is indeed such a possibility, a source said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2200299",
-      "image": null,
-      "publishedAt": "2026-10-10T15:03:41.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1dilr",
-      "title": "Rwandan president to visit Moscow for Russia-Africa Summit",
-      "summary": "According to the East African nation’s Ambassador to Russia Joseph Nzabamwita, participation in the economic forum in the North Caucasus is aimed at extending cooperation from the federal to the regional level",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/world/2200293",
-      "image": null,
-      "publishedAt": "2026-10-10T14:36:27.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1dil2",
-      "title": "EU unhappy with US decision to allow Russian diesel imports — top diplomat",
-      "summary": "This is not the time to ease pressure on Russia, and Europe won’t, Kaja Kallas said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2200289",
-      "image": null,
-      "publishedAt": "2026-10-10T14:16:25.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1diky",
-      "title": "Finnish PM plans to propose Europe stop issuing tourist visas to Russians",
-      "summary": "According to Petteri Orpo, Russian citizens should not be allowed to travel freely to Europe as tourists",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2200285",
-      "image": null,
-      "publishedAt": "2026-10-10T13:37:39.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnux5r",
-      "title": "Ukraine created humanitarian crisis in Alyoshki — Russian Human Rights Commissioner",
-      "summary": "Russia would do everything possible to save civilians, Yana Lantratova said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2200283",
-      "image": null,
-      "publishedAt": "2026-10-10T13:09:12.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1diku",
-      "title": "NATO ‘Theory of Victory’ plan not directed against Russia — chairman of military committee",
-      "summary": "The word ‘victory’ in this context means, first and foremost, just one thing: war will never begin because those who threaten us are convinced not to start it, Giuseppe Cavo Dragone said",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2200281",
-      "image": null,
-      "publishedAt": "2026-10-10T12:40:40.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "77qc8w",
       "title": "Germany Sticks to Russia Sanctions After Trump Diesel Announcement",
