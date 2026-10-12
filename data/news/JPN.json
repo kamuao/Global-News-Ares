@@ -2,8 +2,184 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-10-11T21:41:33.481Z",
+  "updatedAt": "2026-10-12T05:17:30.798Z",
   "daily": [
+    {
+      "id": "c0ho26",
+      "title": "Brewers edge Dodgers 2-1 in National League Championship Series opener",
+      "summary": "One year after they were unceremoniously swept by the Dodgers in the NLCS, the Brewers thrilled fans in Milwaukee.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/10/12/baseball/brewers-dodgers-nlcs/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/568010.jpg",
+      "publishedAt": "2026-10-12T05:08:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rmcowe",
+      "title": "Unbeaten 49ers edge Seahawks while Vikings stay perfect",
+      "summary": "Thirty-eight points — 21 by the Niners — scored off seven turnovers, four by Seattle, were the most in an NFL game since 2017.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/10/12/more-sports/49ers-seahawks-vikings/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/568007.jpg",
+      "publishedAt": "2026-10-12T04:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "8to2no",
+      "title": "Efforts to stop criminals fleeing the country stepped up",
+      "summary": "Amid an increase in crimes committed by criminal groups, border control has become more important than ever before.",
+      "category": "society",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/12/japan/crime-legal/tokyo-police-haneda-airport/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/568000.jpg",
+      "publishedAt": "2026-10-12T04:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "8fmji4",
+      "title": "Five people missing after Nepal flash floods sweep away houses",
+      "summary": "Some 45 houses were swept away, with the flood also damaging three hydropower projects and four bridges.",
+      "category": "environment",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/12/asia-pacific/nepal-new-flash-floods/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/568006.jpg",
+      "publishedAt": "2026-10-12T04:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ortg9j",
+      "title": "Japan urges oil stockpiling and development as Mideast risks rise",
+      "summary": "The push reflects Japan's efforts to reduce Asia's vulnerability to oil supply disruptions.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/12/japan-trade-minister-energy-security/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/568005.jpg",
+      "publishedAt": "2026-10-12T04:22:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "t2jqxm",
+      "title": "China sanctions ministers from Paraguay and Belize over Taiwan ties",
+      "summary": "The sanctions are largely symbolic given ministers from Taiwan's diplomatic allies generally never travel to China.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/12/asia-pacific/china-paraguay-belize-sanctions-taiwan/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/568004.jpg",
+      "publishedAt": "2026-10-12T03:51:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rpa8q6",
+      "title": "New York’s notorious Rikers jail awaits elusive closure",
+      "summary": "The jail has counted John Lennon's killer Mark David Chapman, rapper Tupac Shakur and Sex Pistols musician Sid Vicious among its residents.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/12/world/rikers-jail-closure-new-york/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/568002.jpg",
+      "publishedAt": "2026-10-12T03:31:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "u8dtoh",
+      "title": "Verstappen captures first Singapore Grand Prix on 10th attempt",
+      "summary": "Red Bull's Verstappen held the lead throughout the race after he held off Ferrari's Charles Leclerc in the first corner.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/10/12/more-sports/verstappen-singapore-win/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/568001.jpg",
+      "publishedAt": "2026-10-12T03:22:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "37pa4m",
+      "title": "Nishikori appears alongside Federer at retirement event",
+      "summary": "At the event held at the Ariake Coliseum indoor stadium in Tokyo, Nishikori held exhibition matches with Swiss tennis legend Roger Federer and others.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/10/12/tennis/nishikori-retirement-event/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/567999.jpg",
+      "publishedAt": "2026-10-12T03:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "khl7xn",
+      "title": "Zelenskyy risks rupture with Trump as midterms pressure mounts",
+      "summary": "Tensions between the two leaders have come and gone since Trump returned to the White House with a pledge to quickly end the war in Ukraine.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/12/world/zelenskyy-trump-midterms-pressure/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/567995.jpg",
+      "publishedAt": "2026-10-12T02:29:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "918yni",
+      "title": "Riyadh airport hit by fresh Houthi strike day after deadly attack",
+      "summary": "The fresh attack on the airport killed one person — a Pakistani resident — and wounded 11 others, Saudi Arabia's civil aviation authority said on X.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/12/world/riyadh-airport-houthi-attack/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/567994.jpg",
+      "publishedAt": "2026-10-12T02:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "cvt3xf",
+      "title": "Emperor and empress watch table tennis matches at Japan Games",
+      "summary": "The imperial couple watched matches for boys and girls, held at a gymnasium in the city of Aomori.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/12/japan/emperor-empress-japan-games/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/567991.jpg",
+      "publishedAt": "2026-10-12T02:10:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "t9vzvl",
+      "title": "Anti-sexual assault certification set for Japan’s cram schools",
+      "summary": "The move comes ahead of the Dec. 25 launch of a Japanese version of Britain's Disclosure and Barring Service.",
+      "category": "society",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/12/japan/society/cram-schools-anti-sexual-assault-certification/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/567989.jpg",
+      "publishedAt": "2026-10-12T02:07:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "974qt4",
+      "title": "Sports club affiliation influences physical strength, survey shows",
+      "summary": "The Japan Sports Agency survey also revealed that the physical strength of women in their 40s is declining markedly.",
+      "category": "health",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/12/japan/society/sports-clubs-physical-strength/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/567988.jpg",
+      "publishedAt": "2026-10-12T02:03:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "msa2vj",
+      "title": "North Korea fires multiple ballistic missiles into Sea of Japan",
+      "summary": "At least two of the weapons were believed to have fallen into waters outside Japan's exclusive economic zone.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/12/japan/north-korea-multiple-ballistic-missiles-launch/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/568003.jpg",
+      "publishedAt": "2026-10-12T01:56:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "bh4str",
+      "title": "Cooling innovation from a hot startup",
+      "summary": "Eztia CEO Tiffany Yeh discusses the story behind this innovation and its potential across a wide range of applications.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/12/tech/hydrovault-startup/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/09/thumbs/400x400/560542.jpg",
+      "publishedAt": "2026-10-11T23:00:00.000Z",
+      "sample": false
+    },
     {
       "id": "gz5wqi",
       "title": "Pope Leo says will undergo surgery for small growth on lung",
@@ -39,7 +215,7 @@
     },
     {
       "id": "vygmjw",
-      "title": "The do’s, don’ts and pitfalls when applying for permanent residency in Japan",
+      "title": "The do’s and don’ts when applying for permanent residency in Japan",
       "summary": "What to know about income requirements, pension payments and the all-important statement of reasons.",
       "category": "politics",
       "source": "japan-times",
@@ -91,7 +267,9 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/thumbs/400x400/567460.jpg",
       "publishedAt": "2026-10-11T05:31:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "re5yq5",
       "title": "‘Everyone is angry’: Okinawans fearful and frustrated after killing",
@@ -137,6 +315,17 @@
       "sample": false
     },
     {
+      "id": "f429qu",
+      "title": "Brewers out for revenge against Dodgers as teams prepare for NLCS rematch",
+      "summary": "The Dodgers held the Brewers to four runs in the NLCS last season en route to the World Series title.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/10/11/baseball/brewers-dodgers-nlcs-rematch/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/12/thumbs/400x400/567990.jpg",
+      "publishedAt": "2026-10-11T03:37:00.000Z",
+      "sample": false
+    },
+    {
       "id": "1z36m",
       "title": "Newspaper subscription rate in Japan falls below 50% for first time",
       "summary": "More people are getting their news from television programs and the internet.",
@@ -145,195 +334,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/10/11/japan/media/newspaper-subscriptions-below-50-percent/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/thumbs/400x400/567901.jpg",
       "publishedAt": "2026-10-11T03:36:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "9qynxc",
-      "title": "Trump calls for replacing Zelenskyy in tussle over diesel deal with Russia",
-      "summary": "Zelenskyy, in some of his sharpest criticism yet of the White House, blasted Trump's deal with Putin to lift sanctions on Russian diesel.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/11/world/politics/trump-replacing-ukraine-zelenskyy/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/thumbs/400x400/567861.jpg",
-      "publishedAt": "2026-10-11T03:06:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "plpiq0",
-      "title": "Eliud Kipchoge wins first marathon since 2023",
-      "summary": "It was his first victory over the distance since Berlin in 2023 and part of his \"World Tour\" to raise funds for causes he believes in.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/10/11/more-sports/eliud-kipchoge-sydney-marathon/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/thumbs/400x400/567899.jpg",
-      "publishedAt": "2026-10-11T02:53:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "k3ekvz",
-      "title": "Rubio cites ‘necessity’ of U.S. sanctions on ICC in call with Japanese counterpart",
-      "summary": "The court's legislative body demanded \"the immediate revocation\" of the sanctions, urging \"the international community to stand firm\" in its defense.",
-      "category": "society",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/11/japan/politics/rubio-motegi-icc-sanctions/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/thumbs/400x400/567887.jpg",
-      "publishedAt": "2026-10-11T01:41:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "a0603r",
-      "title": "26% in Japan see U.S. as biggest threat to world peace: survey",
-      "summary": "The rate for the United States rose 9.3 percentage points from the previous fiscal 2025 survey. The figure stood at 6.6% in fiscal 2024.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/11/japan/japan-survey-us-biggest-threat-to-peace/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/thumbs/400x400/567883.jpg",
-      "publishedAt": "2026-10-11T01:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "uggygp",
-      "title": "Three years after Oct. 7, Netanyahu’s legacy is isolation",
-      "summary": "The shift in attitudes toward Israel is not unique to the U.S., with international polling showing negative views among voters in several countries.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/commentary/2026/10/11/world/netanyahu-isolation-legacy/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/thumbs/400x400/567567.jpg",
-      "publishedAt": "2026-10-11T01:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lxmlxr",
-      "title": "People-loving Autumn is ready for a new home",
-      "summary": "Autumn is a very sweet beagle, a colorful chap with a penchant for play. And, he'll warm your heart no matter what the temperature.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/community/2026/10/11/autumn-beagle-adopt-me/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/thumbs/400x400/567878.jpg",
-      "publishedAt": "2026-10-11T01:21:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "32koc2",
-      "title": "Ronaldo suspended by Portugal FA after leaving camp and criticizing coach",
-      "summary": "The Portuguese Football Federation opened disciplinary proceedings against Ronaldo after he left camp following a miscommunication with coach Jorge Jesus.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/10/11/soccer/portugal-ronaldo-provisionally-suspended/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/thumbs/400x400/567881.jpg",
-      "publishedAt": "2026-10-11T01:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "syio6p",
-      "title": "Tomoka Nishiyama earns right to become shogi’s first female <i>kishi</i> player",
-      "summary": "Nishiyama, 31, who holds four titles in the joryu kishi system for women, could become the first female to compete in the top open system.",
-      "category": "health",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/11/japan/japan-first-female-kishi-shogi-player/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/thumbs/400x400/567879.jpg",
-      "publishedAt": "2026-10-11T01:06:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "yr1a0e",
-      "title": "Trust in science falls as COVID-era confidence fades, global survey finds",
-      "summary": "The retreat has potentially far-reaching consequences for public health as vaccination rates decline and preventable diseases resurge.",
-      "category": "health",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/11/world/science-health/trust-in-science-falls-survey/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/thumbs/400x400/567876.jpg",
-      "publishedAt": "2026-10-11T00:48:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "y0psmz",
-      "title": "Two die and 16 hurt in Osaka <i>danjiri</i> float festival accidents",
-      "summary": "The victims, both men, were crushed under floats that overturned when traveling on the road, according to the Osaka Prefectural Police department.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/11/japan/japan-float-festival-deaths/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/thumbs/400x400/567877.jpg",
-      "publishedAt": "2026-10-11T00:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "wh3efv",
-      "title": "Hunger and malnutrition stalk Gazans, one year on from ceasefire",
-      "summary": "Every day, Niyaha al-Masri spends six exhausting hours or more queueing at a community kitchen in the hope of getting some food for her family.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/11/world/hunger-malnutrition-gaza-ceasefire/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/thumbs/400x400/567875.jpg",
-      "publishedAt": "2026-10-11T00:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "i788hg",
-      "title": "Survivor of botched U.S. lethal injection returns to prison",
-      "summary": "Pike, 50, was given two doses of the drug pentobarbital on Sept. 30 — a usually fatal dose that nevertheless failed to kill her.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/11/world/crime-legal/us-lethal-injection-survivor-returns-prison/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/thumbs/400x400/567873.jpg",
-      "publishedAt": "2026-10-11T00:11:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bev9uf",
-      "title": "Nao-Cola Yamazaki is your favorite writer’s favorite writer",
-      "summary": "More than 20 years after their literary debut, two of Nao-Cola Yamazaki's books have finally appeared in English translation for the first time.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/culture/2026/10/11/books/nao-cola-yamazaki-japanese-novelist/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/09/thumbs/400x400/566898.jpg",
-      "publishedAt": "2026-10-11T00:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "a0n52l",
-      "title": "Trump’s AI liability push opens blame game for models gone rogue",
-      "summary": "Further complicating any finding of responsibility, a model's behavior is shaped by both its AI developer and the end user deploying the system.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/11/tech/trump-ai-liability-models-rogue/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/thumbs/400x400/567863.jpg",
-      "publishedAt": "2026-10-10T23:43:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "xypz4",
-      "title": "Houthi strike on airport kills 12 as Saudi coalition vows ‘decisive’ response",
-      "summary": "The attack has raised the specter of a wider escalation, with President Donald Trump signaling the U.S. could join action against the fighters.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/11/world/houthi-attack-saudi-airport/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/11/thumbs/400x400/567860.jpg",
-      "publishedAt": "2026-10-10T23:41:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "1ki1ns",
-      "title": "Win friends and influence people with nori ‘caviar’",
-      "summary": "It doesn't have to be caviar to have the same culinary cachet, and this nori 'caviar' recipe proves it.",
-      "category": "health",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/life/2026/10/11/food-drink/nori-caviar-recipe-soy-sauce-seafood-japanese-cuisine/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/08/thumbs/400x400/566941.jpg",
-      "publishedAt": "2026-10-10T23:00:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "gqkkhz",
-      "title": "Germany eyes joining GCAP fighter jet project with U.K, Italy and Japan",
-      "summary": "There has been mounting speculation the group could open the door to Germany after a rival Franco-German fighter program collapsed in June.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/10/japan/gcap-germany-join-japan/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/10/thumbs/400x400/567842.jpg",
-      "publishedAt": "2026-10-10T05:02:00.000Z",
       "sample": false
     }
   ],
