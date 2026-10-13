@@ -2,8 +2,118 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-13T13:53:53.893Z",
+  "updatedAt": "2026-10-13T22:27:57.952Z",
   "daily": [
+    {
+      "id": "vslc9j",
+      "title": "OpenAI says employee caught planting listening device",
+      "summary": "A Saudi national employed by the artificial intelligence lab has been arrested after a listening device was planted in a company conference room.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/openai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-13T21:24:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "m8eq29",
+      "title": "Vatican confirms Pope Leo underwent surgery for lung cancer",
+      "summary": "The pope has had part of his lung removed and is recovering after surgery. Leo has been unusually candid for a pontiff about his health issues, disclosing the surgery to thousands of people in St. Peter's Square.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/vatican-confirms-pope-leo-underwent-surgery-for-lung-cancer/a-79647264?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-13T19:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "u5h3e6",
+      "title": "Tupac Shakur murder trial: Former gang leader Duane Davis sentenced to 40 years",
+      "summary": "Former Los Angeles gang leader Duane \"Keffe D\" Davis was found guilty of ordering the killing of hip-hop icon Tupac Shakur",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/tupac-shakur-murder-trial-former-gang-leader-duane-davis-sentenced-to-40-years/a-79655189?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-13T19:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "txcmzd",
+      "title": "Germany news: Left-leaning Berlin coalition talks break down",
+      "summary": "The SPD and Greens in Berlin have halted exploratory coalition talks with the Left Party amid a dispute over Israel policy and antisemitism. DW has more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-left-leaning-berlin-coalition-talks-break-down/live-79647092?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-13T19:22:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "420iv3",
+      "title": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
+      "summary": "Germany's Johann Wadephul said hybrid plots like the Starlink fire showed Europe was \"in Russia's crosshairs.\" The UK's Ed Miliband said Trump's Russian diesel deal led to a \"very difficult few days\" diplomatically.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-13T18:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "bbinfi",
+      "title": "Ukraine and the US: What's next after Trump's diesel deal with Russia?",
+      "summary": "Donald Trump plans to allow the purchase of Russian diesel, drawing criticism at home and abroad. What is behind the US president’s decision and what should Ukraine do next? DW spoke with experts.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-13T18:51:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "mealrx",
+      "title": "Iran seeking 'harder targets' for attacks abroad, UK warns",
+      "summary": "The warning from the head of the UK's domestic security agency comes after PM Burnham said an attempted plot at an air force base hosting US bombers was \"almost certainly\" coordinated in Tehran.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/iran-seeking-harder-targets-for-attacks-abroad-uk-warns/a-79654454?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-13T17:23:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "a515mp",
+      "title": "Saudi Arabia's military struggle against Houthi attacks",
+      "summary": "Houthi attacks on airports and energy facilities are putting Saudi Arabia under pressure. Could a Saudi-led international military offensive succeed against the Iran-aligned Houthi militia in Yemen?",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/saudi-arabia-s-military-struggle-against-houthi-attacks/a-79650857?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-13T16:11:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "5wk4k1",
+      "title": "How will emergency rule in Pakistan's northwest affect Afghan ties?",
+      "summary": "Pakistan's decision to suspend Khyber Pakhtunkhwa's provincial government could further strain already tense relations between Islamabad and Kabul.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/how-will-emergency-rule-in-pakistan-s-northwest-affect-afghan-ties/a-79654262?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-13T16:11:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "41vjgd",
+      "title": "Kimberly Guilfoye: US ambassador to Greece resigns amid misconduct allegations",
+      "summary": "Kimberly Guilfoyle has resigned as US ambassador to Greece. President Trump previously said he was unhappy with her amid reports of a bribery scandal and ethics violations.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/kimberly-guilfoye-us-ambassador-to-greece-resigns-amid-misconduct-allegations/a-79652952?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-13T16:08:00.000Z",
+      "sample": false
+    },
     {
       "id": "wossu2",
       "title": "Hungary's parliament votes to reverse anti-LGBTQ legislation from Orban era",
@@ -12,7 +122,29 @@
       "source": "dw",
       "url": "https://www.dw.com/en/hungary-s-parliament-votes-to-reverse-anti-lgbtq-legislation-from-orban-era/a-79647826?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-10-13T13:47:00.000Z",
+      "publishedAt": "2026-10-13T15:48:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "du8dxk",
+      "title": "DR Congo: Kabila’s move towards M23 raises questions over peace",
+      "summary": "Former DR Congo President Joseph Kabila has joined a new political-military front that brings together the Rwandan-backed AFC/M23 coalition. Analysts say it could reshape opposition to President Felix Tshisekedi.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/dr-congo-kabila-s-move-towards-m23-raises-questions-over-peace/a-79652262?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-13T15:46:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ilu70r",
+      "title": "India: Can 'cockroaches' threaten Modi's political grip?",
+      "summary": "Thousands detained, leaders arrested on arrival, and a capital under lockdown: The youth-led protests against the election chief have the attention of the Indian government. But experts say toppling it is another matter.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-can-cockroaches-threaten-modi-s-political-grip/a-79649732?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-13T15:20:00.000Z",
       "sample": false
     },
     {
@@ -27,12 +159,12 @@
       "sample": false
     },
     {
-      "id": "cgpqrs",
-      "title": "Nord Stream: Trial of Ukrainian attack suspect begins in Germany",
+      "id": "2wbz8j",
+      "title": "Nord Stream: Germany puts suspected Ukrainian pipeline saboteur on trial",
       "summary": "A Ukrainian citizen faces court in Hamburg, accused of attacking the Nord Stream gas pipelines in 2022. It raises questions about Kyiv's possible role in the explosions. German support for Ukraine is also under scrutiny.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/nord-stream-trial-of-ukrainian-attack-suspect-begins-in-germany/a-79647617?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-13T12:40:00.000Z",
       "sample": false
@@ -40,7 +172,7 @@
     {
       "id": "y7ohlg",
       "title": "Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia",
-      "summary": "Slovakia is restoring military-diplomatic relations with Russia for the first time since 2022. The government has defended the move; critics warn of espionage risks and further damage to trust within NATO.",
+      "summary": "Slovakia is restoring military-diplomatic relations with Russia for the first time since 2022. The government has defended the move but critics warn of espionage risks and further damage to trust within NATO.",
       "category": "military",
       "source": "dw",
       "url": "https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-xml-mrss",
@@ -73,7 +205,7 @@
     {
       "id": "uvnji3",
       "title": "Formula 1: Rwanda to bring sport back to Africa",
-      "summary": "The last time Formula 1 hosted a race in Africa was way back in 1993. But a new track in Rwanda is set to host a Grand Prix in \"the early 2030s\" continuing the country’s investment in international sport.",
+      "summary": "The last time Formula 1 hosted a race in Africa was way back in 1993. But a new track in Rwanda is set to host a Grand Prix in \"the early 2030s,\" continuing the country’s investment in international sport.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/formula-1-rwanda-to-bring-sport-back-to-africa/a-79649217?maca=en-rss-en-all-1573-xml-mrss",
@@ -115,28 +247,6 @@
       "sample": false
     },
     {
-      "id": "a7cza3",
-      "title": "Pope Leo in Rome hospital for lung surgery",
-      "summary": "Leo has been unusually candid for a pontiff about his health issues, disclosing the surgery to thousands of people in St. Peter's Square.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/pope-leo-in-rome-hospital-for-lung-surgery/a-79647264?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-13T07:51:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "375g0k",
-      "title": "Germany news: Economy set for stronger growth, wine harvest hit by drought",
-      "summary": "Germany's economic outlook is looking a little brighter, with the International Monetary Fund almost doubling its growth forecast. However, Germany's winegrowers are facing another disappointing harvest. DW has more.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-economy-set-for-stronger-growth-wine-harvest-hit-by-drought/live-79647092?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-13T06:38:00.000Z",
-      "sample": false
-    },
-    {
       "id": "czn3ar",
       "title": "What is holding back Cyprus's Schengen ambitions?",
       "summary": "The European Commission says Cyprus is ready to join the Schengen Area. Yet questions relating to the island's division and British military bases could still complicate its path to Europe's border-free travel zone.",
@@ -146,40 +256,9 @@
       "image": null,
       "publishedAt": "2026-10-13T06:26:00.000Z",
       "sample": false
-    },
-    {
-      "id": "i4oa4i",
-      "title": "India opposition to huddle over tea after thousands march in their Delhi protest",
-      "summary": "Congress' Rahul Gandhi will reportedly host oppositon MPs for tea after rallying thousands in Monday's election protest. The 'Cockroach' movement says its leaders have been detained during a flash protest. Follow DW.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-opposition-to-huddle-over-tea-after-thousands-march-in-their-delhi-protest/live-79646819?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-13T06:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "l4lkk",
-      "title": "US: Man killed in Six Flags roller coaster incident",
-      "summary": "Local media showed passengers being evacuated from the Goliath coaster, which reaches a maximum height of 61 meters and speeds of up to 113 km/h.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-man-killed-in-six-flags-roller-coaster-incident/a-79646793?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-13T03:30:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "6h36ie",
-      "title": "'Breaking Bad' actor and disability advocate RJ Mitte dies",
-      "summary": "RJ Mitte said his lived experience with cerebral palsy was an asset for his role as Walter White's son Flynn on \"Breaking Bad.\"",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/breaking-bad-actor-and-disability-advocate-rj-mitte-dies/a-79646725?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-13T01:00:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "x72xbo",
       "title": "UK: Iran 'highly likely' to be behind RAF Fairford incident",
@@ -189,17 +268,6 @@
       "url": "https://www.dw.com/en/uk-iran-highly-likely-to-be-behind-raf-fairford-incident/a-79645941?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-12T19:02:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "95d4gi",
-      "title": "Hundreds of French supermarkets hit by a cyberattack that  defrosted refrigeration systems",
-      "summary": "Hundreds of French supermarkets saw their refrigeration systems defrosted, spoiling tons of frozen food. The unprecedented attack has raised serious questions about food security across Europe.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/hundreds-of-french-supermarkets-hit-by-a-cyberattack-that-defrosted-refrigeration-systems/a-79646097?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-12T18:15:00.000Z",
       "sample": false
     },
     {
@@ -235,19 +303,6 @@
       "publishedAt": "2026-10-12T14:41:00.000Z",
       "sample": false
     },
-    {
-      "id": "ledcay",
-      "title": "Starlink India launch: Why Elon Musk is still waiting",
-      "summary": "Despite securing key approvals, the Starlink satellite internet service remains in regulatory limbo, raising questions about security clearances, competition and India’s investment climate.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/starlink-india-launch-why-elon-musk-is-still-waiting/a-79643043?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-12T14:33:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "br23r0",
       "title": "Germany's women: Ena Mahmutovic makes her case to become Germany's next No.1 goalkeeper",
@@ -697,61 +752,6 @@
       "url": "https://www.dw.com/en/where-is-spain-headed-after-the-snap-election-announcement/a-79567959?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-07T04:33:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "crrsg5",
-      "title": "Munich up against at least six competitors for 2036 Olympics",
-      "summary": "The International Olympic Committee has revealed the six other countries intending to bid for the 2036 Olympic Games. This comes after Germany selected Munich as its Olympic candidate.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/munich-up-against-at-least-six-competitors-for-2036-olympics/a-79566678?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-06T19:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "1165vj",
-      "title": "Germany shaken by espionage and treason allegations",
-      "summary": "The former head of Germany's foreign intelligence service, the BND, has been accused of spying for a foreign country. Never before has a German official of August Hanning's stature been accused of treason.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-shaken-by-espionage-and-treason-allegations/a-79566578?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-06T18:11:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ti39cw",
-      "title": "EU seeks ways to make expansion more palatable to members",
-      "summary": "The European Commission has put forward ideas it hopes will both ease the EU expansion process and allay concerns among existing members. Several countries, not least war-torn Ukraine, are among the candidates.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-06T18:02:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "p6mcba",
-      "title": "France's conundrum: How to cut spending amid protests",
-      "summary": "Prime Minister Lecornu is pledging to improve schools at a time when the government seeks to save billions. France's dilemma can be seen across the EU: How to cut spending when citizens are demanding more from the state?",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/france-s-conundrum-how-to-cut-spending-amid-protests/a-79563475?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-06T16:49:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "x4kpir",
-      "title": "Paramount and Warner Bros merge into one Hollywood giant",
-      "summary": "Paramount has completed an $81 billion purchase of Warner Bros. Discovery, as its owner Skydance creates a new entertainment behemoth. Billionaire David Ellison's hostile takeover bid defeated rival efforts from Netflix.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-06T14:18:00.000Z",
       "sample": false
     }
   ],

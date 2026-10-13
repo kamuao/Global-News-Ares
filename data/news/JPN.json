@@ -2,8 +2,19 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-10-13T13:53:56.420Z",
+  "updatedAt": "2026-10-13T22:28:00.913Z",
   "daily": [
+    {
+      "id": "d0xzk0",
+      "title": "Russia detains Japanese journalist on suspicion of spying",
+      "summary": "A Hokkaido Shimbun newspaper journalist was detained in the far eastern Sakhalin region, the day before he planned to leave Russia.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/14/japan/russia-arrests-japanese-journalist-espionage/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/14/thumbs/400x400/568227.jpg",
+      "publishedAt": "2026-10-13T21:53:00.000Z",
+      "sample": false
+    },
     {
       "id": "nq6k12",
       "title": "Japanese municipalities with over 5% foreign nationals up more than twofold",
@@ -321,17 +332,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/10/13/asia-pacific/thai-tourist-tax/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/13/thumbs/400x400/568080.jpg",
       "publishedAt": "2026-10-13T03:20:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "3jjilr",
-      "title": "Thai migrant labor crunch leaves fruit rotting and jobs unfilled",
-      "summary": "The shortage highlights Thailand's growing dependence on migrant labor as an aging population shrinks its domestic workforce.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/13/thai-migrant-labor-crunch/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/13/thumbs/400x400/568079.jpg",
-      "publishedAt": "2026-10-13T02:59:00.000Z",
       "sample": false
     }
   ],
