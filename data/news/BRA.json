@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-14T11:31:11.608Z",
+  "updatedAt": "2026-10-14T16:53:27.462Z",
   "daily": [
+    {
+      "id": "8gt0pq",
+      "title": "As Igua�u River Rises, Park Removes Railings From Walkway Leading to Falls",
+      "summary": "With water levels rising in the Igua�u River, Urbia+Cataratas, the concessionaire that operates Igua�u National Park in Foz do Igua�u, Paran�, removed the railings from the walkway that takes tourists close to the falls on Tuesday (13). According to the company, the measure is preventive, ensures the free flow of water",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/10/as-iguacu-river-rises-park-removes-railings-from-walkway-leading-to-falls.shtml",
+      "image": null,
+      "publishedAt": "2026-10-14T15:21:00.000Z",
+      "sample": false
+    },
     {
       "id": "mmwcc1",
       "title": "After Visiting Jair, Fl�vio Bolsonaro Says Father Was Happy With First-Round Result and Is Optimistic About Future",
@@ -25,7 +36,9 @@
       "image": null,
       "publishedAt": "2026-10-13T21:06:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "3324qb",
       "title": "Lula Draws Crowds in S�o Paulo and Rio as Left Holds Rallies Across Brazil Seeking Momentum Against Fl�vio",
@@ -58,9 +71,7 @@
       "image": null,
       "publishedAt": "2026-10-13T15:19:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "c03738",
       "title": "Supreme Court Justice Orders Eduardo Bolsonaro to Begin Serving Prison Sentence and Cancels Passports",
@@ -125,28 +136,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/first-gripen-fighter-jet-made-in-brazil-makes-maiden-flight.shtml",
       "image": null,
       "publishedAt": "2026-10-07T23:33:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "6esdqt",
-      "title": "Brazil Considers Assuming Part of Climate Risks at Ports and Airports",
-      "summary": "The federal government is considering assuming part of the risks caused by extreme weather events in airport, port and waterway concessions, sharing with private companies the losses that exceed the coverage capacity of contracted insurance policies.\nLeia mais (10/07/2026 - 12h35)",
-      "category": "environment",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/10/brazil-considers-assuming-part-of-climate-risks-at-ports-and-airports.shtml",
-      "image": null,
-      "publishedAt": "2026-10-07T15:35:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ptjd2w",
-      "title": "Fl�vio Bolsonaro Talks about Changing Constitution to 'Redemocratize the Country'",
-      "summary": "Senator Fl�vio Bolsonaro, the PL presidential candidate, said the congressional majority won by the right will make it possible to change the Constitution \"so that we can redemocratize this country, so that the institutions go back to respecting the Constitution.\"\nLeia mais (10/07/2026 - 12h08)",
-      "category": "military",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/flavio-bolsonaro-talks-about-changing-constitution-to-redemocratize-the-country.shtml",
-      "image": null,
-      "publishedAt": "2026-10-07T15:08:00.000Z",
       "sample": false
     }
   ],

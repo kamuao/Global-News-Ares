@@ -2,8 +2,19 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-10-14T11:31:12.551Z",
+  "updatedAt": "2026-10-14T16:53:27.802Z",
   "daily": [
+    {
+      "id": "ekk3w3",
+      "title": "Russell Brand a 'ruthless, calculated sexual predator', court hears",
+      "summary": "A prosecutor describes Russell Brand as a \"ruthless calculated and manipulative sexual predator\" in her opening address at the British entertainer's rape trial.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-15/russell-brand-a-ruthless-sexual-predator-court-hears/107267856",
+      "image": null,
+      "publishedAt": "2026-10-14T13:45:54.000Z",
+      "sample": false
+    },
     {
       "id": "rxw1nq",
       "title": "Zelenskyy says partners not warning Ukraine of incoming ballistic missiles",
@@ -266,17 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-10-14/james-tedesco-reece-walsh-australia-world-cup-kevin-walters/107266374",
       "image": null,
       "publishedAt": "2026-10-14T06:00:30.000Z",
-      "sample": false
-    },
-    {
-      "id": "uhqryx",
-      "title": "Rural doctors hit out at 'unsafe' birthing services model amid shortages",
-      "summary": "Rural GPs in South Australia's Mid North are urging the government not to trial a new birthing service at two of their hospitals, saying it will fragment patient care and have flow-on effects on an already under-pressure health system.",
-      "category": "health",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-14/doctors-say-birthing-model-unsafe-yorke-northern-health-network/107263890",
-      "image": null,
-      "publishedAt": "2026-10-14T05:59:15.000Z",
       "sample": false
     }
   ],

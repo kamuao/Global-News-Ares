@@ -2,8 +2,41 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-10-14T11:31:10.602Z",
+  "updatedAt": "2026-10-14T16:53:26.426Z",
   "daily": [
+    {
+      "id": "9tglf",
+      "title": "Kobe sees off Jeonbuk to claim second Asian Champions League win",
+      "summary": "The win moved Kobe level with compatriots Kashima Antlers and Gamba Osaka as well as China's Beijing Guoan on six points.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/10/14/soccer/kobe-jeonbuk-asian-champions-league/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/14/thumbs/400x400/568551.jpg",
+      "publishedAt": "2026-10-14T13:09:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "822iup",
+      "title": "Hitachi eyes small nuclear reactors in Japan as power costs rise",
+      "summary": "Small modular reactors, having capacity of 300 megawatts or less, are increasingly seen as a way to decarbonize energy.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/14/hitachi-small-nuclear-reactors/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/14/thumbs/400x400/568550.jpg",
+      "publishedAt": "2026-10-14T12:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "j8ftjh",
+      "title": "Program helps children with developmental issues through theater",
+      "summary": "Nabi Ito said that theater can make communication easier for children who struggle with conversation because scripts provide a framework.",
+      "category": "health",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/14/japan/theater-developmental-issues/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/14/thumbs/400x400/568549.jpg",
+      "publishedAt": "2026-10-14T11:56:00.000Z",
+      "sample": false
+    },
     {
       "id": "xqsyb",
       "title": "‘Zen and Ghibli’ doesn’t lecture. It teaches contemplation.",
@@ -22,7 +55,7 @@
       "category": "society",
       "source": "japan-times",
       "url": "https://www.japantimes.co.jp/news/2026/10/14/japan/politics/takaichi-cabinet-yana-parliament-resigns/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/14/thumbs/400x400/568443.jpg",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/14/thumbs/400x400/568548.jpg",
       "publishedAt": "2026-10-14T09:48:00.000Z",
       "sample": false
     },
@@ -172,7 +205,7 @@
     {
       "id": "2up4m1",
       "title": "China sends aircraft carrier group into western Pacific",
-      "summary": "Japan is expected to be watching closely after Beijing said the \"realistic\" exercises are \"not directed against any specific country or target.\"",
+      "summary": "Japan conducted \"surveillance and intelligence-gathering\" activities near the flotilla, which operated near Okinawa's Ishigaki Island on Wednesday.",
       "category": "politics",
       "source": "japan-times",
       "url": "https://www.japantimes.co.jp/news/2026/10/14/japan/china-aircraft-carrier-western-pacific-japan/",
@@ -299,39 +332,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/10/14/japan/egypt-schools-japanese-classes/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/14/thumbs/400x400/568243.jpg",
       "publishedAt": "2026-10-14T02:38:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "dp1l27",
-      "title": "Japan’s 2026 rice harvest projected to fall 1%",
-      "summary": "The forecast is relatively high despite concerns about the impact of prolonged rain in September.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/14/japan/rice-harvest-fall/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/13/thumbs/400x400/568204.jpg",
-      "publishedAt": "2026-10-14T02:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "hhvqmx",
-      "title": "SoftBank junk bond sale raises stakes for CEO Son’s all-in AI bet",
-      "summary": "Son's bets have a mixed track record.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/14/companies/softbank-junk-bond-sale/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/14/thumbs/400x400/568241.jpg",
-      "publishedAt": "2026-10-14T02:14:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "4preky",
-      "title": "In Trump’s pardons for public officials, Republicans win most of the mercy",
-      "summary": "Experts say U.S. President Donald Trump's repeated acts of clemency for corruption give impunity to people meant to uphold the public trust.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/14/world/donald-trump-pardons-republicans/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/14/thumbs/400x400/568394.jpg",
-      "publishedAt": "2026-10-14T02:13:00.000Z",
       "sample": false
     }
   ],
