@@ -2,7 +2,7 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-15T16:40:03.857Z",
+  "updatedAt": "2026-10-15T21:08:20.985Z",
   "daily": [
     {
       "id": "ecppok",
@@ -25,7 +25,9 @@
       "image": null,
       "publishedAt": "2026-10-14T22:50:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "x1vrr6",
       "title": "Meta AI Creates Campaign Material for Fl�vio Bolsonaro and Blocks Lula Content",
@@ -36,9 +38,7 @@
       "image": null,
       "publishedAt": "2026-10-14T19:35:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "8gt0pq",
       "title": "As Igua�u River Rises, Park Removes Railings From Walkway Leading to Falls",
@@ -114,28 +114,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/supreme-court-justice-orders-eduardo-bolsonaro-to-begin-serving-prison-sentence-and-cancels-passports.shtml",
       "image": null,
       "publishedAt": "2026-10-09T15:45:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "9bkbl4",
-      "title": "Fire Destroys Two Decades of Research at Brazilian University; Federal Police Investigate",
-      "summary": "The Federal Police will open an investigation into the fire that hit a building on the campus of the Federal University of Pernambuco (UFPE) on Wednesday (7) in Recife, the capital of the northeastern Brazilian state. The building housed laboratories specializing in pharmaceuticals, computer science and genetics.\nLeia ",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/10/fire-destroys-two-decades-of-research-at-brazilian-university-federal-police-investigate.shtml",
-      "image": null,
-      "publishedAt": "2026-10-08T20:09:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "yc7ywe",
-      "title": "Website Distributes Cryptocurrency in Exchange for Sharing Content Encouraging Votes for Fl�vio Bolsonaro",
-      "summary": "A cryptocurrency sales website launched a scheme on Tuesday (6) that distributes \"tokens\" to users who share the B22 message and content, such as videos, encouraging people to vote for Fl�vio Bolsonaro, a candidate for president of Brazil. The website is being promoted by an Instagram account with 12.9 million follower",
-      "category": "health",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/website-distributes-cryptocurrency-in-exchange-for-sharing-content-encouraging-votes-for-flavio-bolsonaro.shtml",
-      "image": null,
-      "publishedAt": "2026-10-08T19:58:00.000Z",
       "sample": false
     }
   ],

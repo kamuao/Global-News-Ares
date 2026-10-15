@@ -2,8 +2,63 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-15T16:39:58.548Z",
+  "updatedAt": "2026-10-15T21:08:17.975Z",
   "daily": [
+    {
+      "id": "gm7s0a",
+      "title": "Bus, train collide, injuring 19 at Channel Tunnel terminal",
+      "summary": "A minibus carrying truck drivers collided with a freight train near the Channel Tunnel entrance in France, injuring 19 people, with five severely hurt. Emergency services rushed to the scene.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-15T20:42:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "t8blzf",
+      "title": "Venezuela's Nicolas Maduro pleads not guilty to torture charges",
+      "summary": "Maduro and his wife were charged with leading a state-sponsored repression campaign that tortured scores of victims during his presidency from 2013 to 2026.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-charges/a-79673496?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-15T18:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "m5ufdw",
+      "title": "Self-replicating AI: Is your fridge a cybersecurity risk?",
+      "summary": "Anthropic researchers warn that AI worms could soon target connected household devices and spread from one device to another. Cyberattacks on French supermarkets illustrate just how vulnerable such systems can be.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-15T18:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "djlq6l",
+      "title": "Middle East updates: Houthis target Yemen government palace in Aden",
+      "summary": "Houthi rebels say they targeted Saudi military assets in a rare attack on the interim seat of Yemen's internationally recognized government. Meanwhile, vessels are again under fire near the Strait of Hormuz. More on DW.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-15T17:44:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3qeph6",
+      "title": "Police raid the major pro-opposition Halk TV channel in Turkey",
+      "summary": "Turkish police raided the Istanbul headquarters of an important pro-opposition television station on Wednesdazy, the day that jailed Istanbul Mayor Ekrem Imamoglu was set to start his defense against corruption charges.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-15T16:48:00.000Z",
+      "sample": false
+    },
     {
       "id": "iyr4vi",
       "title": "Trump says execution of Fort Hood shooter will not be livestreamed",
@@ -29,7 +84,7 @@
     {
       "id": "gz1oxz",
       "title": "Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'",
-      "summary": "Volodymyr Zelenskyy has announced that Ukraine is resuming attacks on Russian energy sites. It came after Moscow summarily ignored a claim by US President Donald Trump that an \"energy ceasefire\" had been agreed.",
+      "summary": "Volodymyr Zelenskyy has said Ukraine will again attack Russian energy sites, as Moscow has ignored a claim by US President Trump that an \"energy ceasefire\" had been agreed. Russia reported two attacks on refineries.",
       "category": "military",
       "source": "dw",
       "url": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-xml-mrss",
@@ -84,7 +139,7 @@
     {
       "id": "khyzy0",
       "title": "Hamburg court jails 2 men over plot to attack Jewish leaders on behalf of Iran",
-      "summary": "The pair was found guilty of espionage and attempted murder. The court says they planned to attack the president of the Central Council of Jews in Germany and president of the German-Israeli society.",
+      "summary": "The men were found guilty of espionage and attempted murder. According to the court, they planned to attack the president of the Central Council of Jews in Germany and president of the German-Israeli society.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/hamburg-court-jails-2-men-over-plot-to-attack-jewish-leaders-on-behalf-of-iran/a-79667895?maca=en-rss-en-all-1573-xml-mrss",
@@ -170,17 +225,6 @@
       "sample": false
     },
     {
-      "id": "6e625f",
-      "title": "India news: Supreme Court hears Rahul Gandhi's Election Commission plea",
-      "summary": "A petition filed by opposition leader Rahul Gandhi and others seeks an independent audit of India's sweeping voter deletions. Meanwhile, actor Imran Khan has reportedly been ordered to leave India.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-15T09:48:00.000Z",
-      "sample": false
-    },
-    {
       "id": "xq5pi6",
       "title": "Why Chinese tech brands are outpacing Western rivals from EVs to robot vacuums",
       "summary": "From action cameras and smartphones to EVs and robot vacuums, Chinese brands are gaining ground worldwide, despite privacy and security concerns. What's driving their rise, and can European rivals keep up?",
@@ -201,29 +245,9 @@
       "image": null,
       "publishedAt": "2026-10-15T08:13:00.000Z",
       "sample": false
-    },
-    {
-      "id": "2uyq1u",
-      "title": "North Korea, China open border bridge after 12-year delay",
-      "summary": "Twelve years after it was constructed, the New Yalu River Bridge between China and North Korea is finally operational. It is the latest sign of warming ties between the two nations.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/north-korea-china-open-border-bridge-after-12-year-delay/a-79666112?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-15T08:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "kposbc",
-      "title": "India urges Russia, Ukraine to protect Black Sea shipping",
-      "summary": "New Delhi wants Moscow and Kyiv to ensure safe commercial shipping in the Black Sea amid attacks that put Indian seafarers at risk.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-15T04:19:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "g0czwu",
       "title": "Nord Stream trial opens in Germany, defense seeks dismissal",
@@ -234,9 +258,7 @@
       "image": null,
       "publishedAt": "2026-10-14T18:00:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "7pvegi",
       "title": "Germany's far-right AfD forges a pro-Russia alliance with the BSW",
