@@ -2,8 +2,448 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-10-15T04:00:12.428Z",
+  "updatedAt": "2026-10-15T11:08:45.300Z",
   "daily": [
+    {
+      "id": "rnw8kh",
+      "title": "Moscow unaware of US attempts to unfreeze its assets in EU — Kremlin",
+      "summary": "Dmitry Peskov said these are issues on the agenda of the dialogue between the Americans and the Europeans, judging by media reports",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2202463",
+      "image": null,
+      "publishedAt": "2026-10-15T11:03:53.000Z",
+      "sample": false
+    },
+    {
+      "id": "mg1dnf",
+      "title": "Starlink Functionality Restored Fully for Ukrainian Military, Source Says",
+      "summary": "Zelensky dismissed the idea that the issue might have been caused by a fault, saying, “It was not a technical problem, it was the will.\"",
+      "category": "military",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/10/15/starlink-functionality-restored-fully-for-ukrainian-military-source-says-a93985",
+      "image": null,
+      "publishedAt": "2026-10-15T10:56:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1etyv",
+      "title": "Ceasefire declared at Zaporozhye Thermal Power Plant for equipment repair — Rosatom CEO",
+      "summary": "This will help strengthen the power supply to the Zaporozhye NPP and reduce the risk of another loss of stable power supply to the plant, Alexey Likhachev stressed",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2202457",
+      "image": null,
+      "publishedAt": "2026-10-15T10:54:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1etyp",
+      "title": "Houthis deny involvement in missile launch toward Medina",
+      "summary": "Houthi military spokesman Yahya Saree said that Saudi allegations about an attack toward Medina are \"a blatant lie\"",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2202451",
+      "image": null,
+      "publishedAt": "2026-10-15T10:39:33.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnw8it",
+      "title": "Russia moves to enlist foreign influencers to convey viewpoint to blocked audiences",
+      "summary": "This is necessary under the conditions of the current Western information boycott, Russian Foreign Ministry International Organizations Department Director Kirill Logvinov undescored",
+      "category": "health",
+      "source": "tass",
+      "url": "https://tass.com/politics/2202445",
+      "image": null,
+      "publishedAt": "2026-10-15T10:28:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnw8ip",
+      "title": "France’s detention of tanker requires international condemnation — Russian diplomat",
+      "summary": "Alexander Grushko specified that there were no Russian nationals on board",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2202441",
+      "image": null,
+      "publishedAt": "2026-10-15T10:24:50.000Z",
+      "sample": false
+    },
+    {
+      "id": "j4pyl7",
+      "title": "Depesha robot turns ‘deadly mission’ into routine work in special op — Rostec",
+      "summary": "The ground robotic system can haul about 100 kilograms of cargo over a distance of more than 20 kilometers",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/defense/2202435",
+      "image": null,
+      "publishedAt": "2026-10-15T10:20:30.000Z",
+      "sample": false
+    },
+    {
+      "id": "tmpni2",
+      "title": "Kremlin Says Russian Diesel Exports Reaching Global Markets",
+      "summary": "Spokesman Dmitry Peskov said the exports would have a positive impact on global markets, but would not fully stabilize them.",
+      "category": "economy",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/10/15/kremlin-says-russian-diesel-exports-reaching-global-markets-a93977",
+      "image": null,
+      "publishedAt": "2026-10-15T10:15:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lzdu1g",
+      "title": "Moscow Court Places Prominent Economist Under House Arrest in Bribery Case",
+      "summary": "This is Sinelniov-Murylev’s second criminal prosecution in recent years. In March 2025, he was convicted of large-scale embezzlement and abuse of power.",
+      "category": "politics",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/10/15/moscow-court-places-prominent-economist-under-house-arrest-in-bribery-case-a93983",
+      "image": null,
+      "publishedAt": "2026-10-15T10:08:39.000Z",
+      "sample": false
+    },
+    {
+      "id": "cdf3a4",
+      "title": "Press review: Ukraine, EU push peace away and US blacks out Kiev's missile sight",
+      "summary": "Top stories from the Russian press on Thursday, October 15th",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/pressreview/2202307",
+      "image": null,
+      "publishedAt": "2026-10-15T10:00:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1etbo",
+      "title": "CSTO peacekeepers practice repelling enemy attack on humanitarian convoy",
+      "summary": "According to the exercise scenario, a simulated sabotage and reconnaissance group attacked the humanitarian convoy while it was in transit",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2202399",
+      "image": null,
+      "publishedAt": "2026-10-15T09:57:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1etbg",
+      "title": "US, Iran have weeks to avert food crisis, UN official warns",
+      "summary": "According to Jorge Moreira da Silva, the issue of fertilizer transit requires an immediate solution",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2202391",
+      "image": null,
+      "publishedAt": "2026-10-15T09:41:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnw7ur",
+      "title": "Top Russian diplomat meets with his Turkish counterpart in Baku",
+      "summary": "Sergey Lavrov arrived in Azerbaijan the day before and held talks with his Chinese counterpart Wang Yi",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2202377",
+      "image": null,
+      "publishedAt": "2026-10-15T09:22:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "vqqr44",
+      "title": "What we know about FSB’s detention of Swedish citizen for plotting subversive acts",
+      "summary": "Available documents confirm the detainee’s participation in combat operations on the Ukrainian army’s side against Russia, the press office said, Russia’s Federal Security Service specified",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/society/2202371",
+      "image": null,
+      "publishedAt": "2026-10-15T09:11:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnw7ty",
+      "title": "Russian ambassador rejects Japan’s complaints over Chinese delegation’s visit to Iturup",
+      "summary": "Nikolay Nozdrev noted that practical cooperation and interregional exchanges within the framework of the comprehensive partnership and strategic cooperation with Beijing will continue to grow steadily",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2202369",
+      "image": null,
+      "publishedAt": "2026-10-15T09:05:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "ta97b3",
+      "title": "First diesel supplies to US possible in at least 2-3 weeks — Novak",
+      "summary": "The Russian deputy prime minister believes that it is necessary to conclude an agreement as soon as possible",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/economy/2202365",
+      "image": null,
+      "publishedAt": "2026-10-15T09:04:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "j4pz99",
+      "title": "CIS Defense Ministers Council meeting centers on organizing troop combat training",
+      "summary": "According to Russian Defense Minister Andrey Belousov, the meeting included discussions on how to plan combat training and defining priorities for this work under current conditions",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2202367",
+      "image": null,
+      "publishedAt": "2026-10-15T09:03:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ta979h",
+      "title": "Russian oil companies ready to start exporting diesel any moment — Novak",
+      "summary": "The Russian deputy prime minister said that negotiations are currently underway",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/economy/2202349",
+      "image": null,
+      "publishedAt": "2026-10-15T08:57:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "3yxcz8",
+      "title": "FSB Arrests Swede in Pskov Region Over Border Crossing and Sabotage Allegations",
+      "summary": "The man allegedly crossed into Russian territory under the guise of enlisting in the Russian military.",
+      "category": "military",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/10/15/fsb-arrests-swede-in-pskov-region-over-border-crossing-and-sabotage-allegations-a93982",
+      "image": null,
+      "publishedAt": "2026-10-15T08:54:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnw7s6",
+      "title": "Lavrov to hold series of meetings on sidelines of CICA summit — diplomat",
+      "summary": "Foreign Ministry Spokeswoman Maria Zakharova noted that it usually happens on the sidelines of multilateral events",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2202347",
+      "image": null,
+      "publishedAt": "2026-10-15T08:48:13.000Z",
+      "sample": false
+    },
+    {
+      "id": "5yhbbr",
+      "title": "Oil refinery catches fire in Ryazan Region as Russia downs 166 Ukrainian drones overnight",
+      "summary": "More than 20 drones were destroyed over four municipalities in south Russia’s Rostov Region last night, Governor Yury Slyusar said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2202339",
+      "image": null,
+      "publishedAt": "2026-10-15T08:40:07.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnw7s0",
+      "title": "Russian envoy says Japan journalist caught 'red-handed' spying, Tokyo complaints off base",
+      "summary": "Nikolay Nozdrev \"pointed out to Director General Nakamura the unacceptable situation where Japanese intelligence agencies establish 'cooperation' with individuals, including Japanese journalists accredited in Russia\"",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2202341",
+      "image": null,
+      "publishedAt": "2026-10-15T08:39:54.000Z",
+      "sample": false
+    },
+    {
+      "id": "fn9yz0",
+      "title": "Ukrainian Drones Spark Fire at Ryazan Refinery as Zelensky Vows to Resume Attacks",
+      "summary": "“The block [on attacking refineries] is out. We’re done,” Zelensky told the FT, accusing Russia of refusing to follow the Trump-announced deal.",
+      "category": "politics",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/10/15/ukrainian-drones-spark-fire-at-ryazan-refinery-as-zelensky-vows-to-resume-attacks-a93981",
+      "image": null,
+      "publishedAt": "2026-10-15T08:37:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ta978e",
+      "title": "Diesel deal with US could shield Russian tankers from attacks — ombudsman",
+      "summary": "According to Alexander Shokhin, it is also possible that the diesel deal could lead to further developments in other areas of economic cooperation",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/economy/2202331",
+      "image": null,
+      "publishedAt": "2026-10-15T08:17:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "5yhbaw",
+      "title": "Roof collapses in Parkistani school, killing 29 people — TV",
+      "summary": "According to the TV channel, more than 40 people were injured",
+      "category": "society",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2202329",
+      "image": null,
+      "publishedAt": "2026-10-15T08:10:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1et5l",
+      "title": "US condones Japan's pursuit of nuclear weapons — North Korean news agency",
+      "summary": "The US is supporting Tokyo’s intention to acquire nuclear-powered submarines, international security analyst Pak Ju Won said",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2202327",
+      "image": null,
+      "publishedAt": "2026-10-15T07:55:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnw7qc",
+      "title": "Zelensky’s London visit undermines peace efforts, Russian envoy says",
+      "summary": "As Kirill Dmitriev noted, \"UK warmongers know how to promote war and undermine peace\"",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2202323",
+      "image": null,
+      "publishedAt": "2026-10-15T07:46:13.000Z",
+      "sample": false
+    },
+    {
+      "id": "j4pzcr",
+      "title": "Novosibirsk nuclear-powered submarine fires Oniks, Kalibr missiles during exercises",
+      "summary": "A second missile, Kalibr, successfully hit its designated target at the Kura testing ground on the Kamchatka Peninsula, covering a distance of more than 1,200 kilometers",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2202325",
+      "image": null,
+      "publishedAt": "2026-10-15T07:43:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "ta977j",
+      "title": "Musk calls Kiev’s position on Putin-Trump diesel deal 'troubling'",
+      "summary": "The US entrepreneur was commenting on a social media post from Mike Cernovich, a US blogger and political commentator, who highlighted Ukraine’s ungratefulness",
+      "category": "health",
+      "source": "tass",
+      "url": "https://tass.com/economy/2202321",
+      "image": null,
+      "publishedAt": "2026-10-15T07:28:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "ta976w",
+      "title": "Russia-US diesel deal could set precedent for suspension or removal of sanctions",
+      "summary": "In European Union countries, the automotive industry is currently surviving only because they're now producing weapons, Russian presidential commissioner for the protection of entrepreneurs' rights Alexander Shokhin noted",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/economy/2202319",
+      "image": null,
+      "publishedAt": "2026-10-15T07:27:33.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1et4q",
+      "title": "Starlink restrictions in Ukraine deal serious blow to Ukrainian forces — newspaper",
+      "summary": "The Daily Telegraph added that the situation for Ukraine could worsen due to the likely suspension of intelligence exchange with Washington",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2202317",
+      "image": null,
+      "publishedAt": "2026-10-15T07:26:11.000Z",
+      "sample": false
+    },
+    {
+      "id": "ta976o",
+      "title": "Russian stocks up as main trading session opens",
+      "summary": "According to trading data as of 9:00 a.m. Moscow time, Russia’s MOEX and RTS indices added 0.06% to 2,422.92 and 909.2 points, respectively",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/economy/2202311",
+      "image": null,
+      "publishedAt": "2026-10-15T07:10:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "vqqqyb",
+      "title": "FSB detains Swedish citizen traveling to Russia to carry out terrorist attacks",
+      "summary": "According to the Federal Security Service, the Swedish national came to Russia under the pretext of joining the Russian Armed Forces",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/society/2202309",
+      "image": null,
+      "publishedAt": "2026-10-15T07:10:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1et3p",
+      "title": "US may use the ultra-powerful 'mother of all bombs' against Iran — broadcaster",
+      "summary": "According to the broadcaster, the Iranian energy infrastructure and nuclear facilities could be targeted if US President Donald Trump orders a resumption of hostilities",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2202301",
+      "image": null,
+      "publishedAt": "2026-10-15T06:50:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnw75q",
+      "title": "Musk wants peace — Russian presidential envoy",
+      "summary": "Kirill Dmitriev commented on Musk’s post saying that it is high time for Vladimir Zelensky to step down",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2202295",
+      "image": null,
+      "publishedAt": "2026-10-15T06:48:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnw744",
+      "title": "Russia hits at least ten thermal, hydroelectric power plants in Ukraine since early 2026",
+      "summary": "The first strike on such an infrastructure facility occurred on August 9, when a combined heat and power plant in Odessa that supported the port's operations was destroyed",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2202279",
+      "image": null,
+      "publishedAt": "2026-10-15T06:03:35.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1esj7",
+      "title": "Trump open to Russia-US economic cooperation after peace in Ukraine — newspaper",
+      "summary": "US officials opined that Trump reached an agreement on Russian diesel supplies in order, first, to lower fuel prices in the US, and second, to \"offer economic and political benefits\" to Russia to engage in negotiations",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/world/2202277",
+      "image": null,
+      "publishedAt": "2026-10-15T05:40:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "j4pzz5",
+      "title": "Russian forces hit Izmail port infrastructure, two dry cargo ships at sea",
+      "summary": "The targets were damaged by drone strikes",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2202275",
+      "image": null,
+      "publishedAt": "2026-10-15T04:58:49.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1esie",
+      "title": "US may ease sanctions on vessels used to transport oil from Russia — agency",
+      "summary": "According to a source cited by Reuters, the US administration may take this step to reduce record-high global freight rates",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2202269",
+      "image": null,
+      "publishedAt": "2026-10-15T04:47:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1esic",
+      "title": "Musk says it is time for Zelensky to step down",
+      "summary": "The US entrepreneur commented on a post by one of the X platform's users",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2202267",
+      "image": null,
+      "publishedAt": "2026-10-15T04:08:51.000Z",
+      "sample": false
+    },
     {
       "id": "vqqqco",
       "title": "Zaporozhye NPP has enough fuel for backup generators — spokesperson",
@@ -731,39 +1171,6 @@
       "sample": false
     },
     {
-      "id": "rnw5nh",
-      "title": "Russian forces pound Ukrainian UAV assembly, storage sites over past day — top brass",
-      "summary": "The Ukrainian army lost roughly 1,265 troops in battles with Russian forces in all the frontline areas over the past 24 hours",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2202085",
-      "image": null,
-      "publishedAt": "2026-10-14T14:21:24.000Z",
-      "sample": false
-    },
-    {
-      "id": "ta955j",
-      "title": "Russian, US companies discuss diesel supply contracts — Novak",
-      "summary": "Russia will be able to boost diesel fuel exports to 3.5 mln metric tons per month by the end of the year, the deputy PM said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2202093",
-      "image": null,
-      "publishedAt": "2026-10-14T14:13:43.000Z",
-      "sample": false
-    },
-    {
-      "id": "9ejnza",
-      "title": "Medvedev beats Tsitsipas to advance to Shanghai Masters quarterfinals",
-      "summary": "The Russian athlete won the match 6:4, 7:5",
-      "category": "technology",
-      "source": "tass",
-      "url": "https://tass.com/sports/2202095",
-      "image": null,
-      "publishedAt": "2026-10-14T14:12:24.000Z",
-      "sample": false
-    },
-    {
       "id": "cglz10",
       "title": "Nord Stream May Have Been Lawful Target, Argue Lawyers for Ukrainian Accused of Bombing",
       "summary": "The secret operation that blew up the Nord Stream pipelines severed western Europe from the biggest source of Russian natural gas.",
@@ -772,259 +1179,6 @@
       "url": "https://www.themoscowtimes.com/2026/10/14/nord-stream-may-have-been-lawful-target-argue-lawyers-for-ukrainian-accused-of-bombing-a93972",
       "image": null,
       "publishedAt": "2026-10-14T14:09:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnw5nl",
-      "title": "Putin comments on Russia’s cybersecurity, strengthening digital sovereignty",
-      "summary": "The head of state stressed that Russia consistently worked to strengthen its sovereignty in all areas",
-      "category": "technology",
-      "source": "tass",
-      "url": "https://tass.com/politics/2202089",
-      "image": null,
-      "publishedAt": "2026-10-14T14:08:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnw5nf",
-      "title": "Kiev goes blind, panics without US intelligence, Medvedev says",
-      "summary": "\"When you’re rude to your sponsors, they get angry,\" the Russian politician noted",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2202083",
-      "image": null,
-      "publishedAt": "2026-10-14T14:07:04.000Z",
-      "sample": false
-    },
-    {
-      "id": "ta954m",
-      "title": "Diesel exports to boost oil refining, budget revenues — Novak",
-      "summary": "This is a positive signal on the whole for Russia's economy, the deputy PM stressed",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2202081",
-      "image": null,
-      "publishedAt": "2026-10-14T14:04:54.000Z",
-      "sample": false
-    },
-    {
-      "id": "ta953z",
-      "title": "OPEC+ countries boost oil output by 2.31 mln bpd in September but miss targets — IEA",
-      "summary": "According to IEA data, the target level for OPEC+ countries voluntarily limiting oil production was 34.45 million bpd in September",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2202079",
-      "image": null,
-      "publishedAt": "2026-10-14T14:02:48.000Z",
-      "sample": false
-    },
-    {
-      "id": "ta954s",
-      "title": "Russia expects adjustment of global petroleum product prices — Novak",
-      "summary": "The petroleum product price will be adjusted when rebalancing demand and supply worldwide, the official stated",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2202087",
-      "image": null,
-      "publishedAt": "2026-10-14T14:02:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnw5mk",
-      "title": "Russia condemns strikes on civilian targets in Saudi Arabia — deputy foreign minister",
-      "summary": "Moscow is monitoring the situation in the Middle East with concern, Georgy Borisenko said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2202073",
-      "image": null,
-      "publishedAt": "2026-10-14T13:59:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1er1n",
-      "title": "FACTBOX: SpaceX restricts access to Starlink for Ukrainian military",
-      "summary": "Ukraine received no intelligence warnings regarding the first wave of Russian ballistic missile launches overnight into October 14",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2202071",
-      "image": null,
-      "publishedAt": "2026-10-14T13:56:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1er0u",
-      "title": "IN BRIEF: First hearing of Nord Stream blast case takes place in Germany",
-      "summary": "Ukrainian national Sergey Kuznetsov is the defendant in the case",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2202063",
-      "image": null,
-      "publishedAt": "2026-10-14T13:56:20.000Z",
-      "sample": false
-    },
-    {
-      "id": "ta9532",
-      "title": "Russian oil exports fall to 6.52 mln bpd in September, revenues rise to $17.67 bln",
-      "summary": "Russian crude oil shipments increased by 60,000 bpd in September, while exports of petroleum products decreased by 80,000 bpd",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2202067",
-      "image": null,
-      "publishedAt": "2026-10-14T13:51:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "vqqova",
-      "title": "Batalhadzhin community linked to international terrorist organizations — FSB",
-      "summary": "On Wednesday, the Supreme Court recognized the community as a terrorist organization and banned its activities in Russia",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/society/2202065",
-      "image": null,
-      "publishedAt": "2026-10-14T13:49:20.000Z",
-      "sample": false
-    },
-    {
-      "id": "j4q1hi",
-      "title": "Russian-Indian Indra-2026 military exercises kick off in Russian Far East, Urals",
-      "summary": "Units of the ground forces of the two countries, warships of the Russian and Indian Navy, as well as aircraft of the Russian Aerospace Forces are participating in the maneuvers",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2202061",
-      "image": null,
-      "publishedAt": "2026-10-14T13:46:14.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1er05",
-      "title": "Belarusian foreign ministry condemns NATO’s new ‘Theory of Victory’ plan",
-      "summary": "Belarusian Foreign Ministry Spokesman Ruslan Varankov highlighted that under the guise of defensive language, the Alliance is effectively laying the groundwork for military escalation and aggression",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2202059",
-      "image": null,
-      "publishedAt": "2026-10-14T13:44:37.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1eqzz",
-      "title": "NATO reconnaissance plane spends nearly 4.5 hours near Kaliningrad Region",
-      "summary": "The Bombardier Artemis II reconnaissance aircraft flew in the area of the Kaliningrad Region from its home base in Constanta, Romania",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2202053",
-      "image": null,
-      "publishedAt": "2026-10-14T13:38:17.000Z",
-      "sample": false
-    },
-    {
-      "id": "ta9521",
-      "title": "Russia to supply diesel fuel to the US after making contract — Novak",
-      "summary": "The deputy prime minister said that it will require some time",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2202051",
-      "image": null,
-      "publishedAt": "2026-10-14T13:35:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnw5k1",
-      "title": "Russia to continue economic cooperation with US — Dmitriev",
-      "summary": "According to the RDIF chief, the Russian side will keep engaging with the US on economic and investment projects and explaining that American sanctions primarily harm the American people and American farmers",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/politics/2202045",
-      "image": null,
-      "publishedAt": "2026-10-14T13:32:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "ta9516",
-      "title": "Digital Development Ministry helps Yandex find additional sites after data center attacks",
-      "summary": "The company is continuing restoration work and transferring its remaining systems to third-party sites",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2202041",
-      "image": null,
-      "publishedAt": "2026-10-14T13:23:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnw5j4",
-      "title": "Lavrov arrives in Azerbaijan to participate in CICA summit",
-      "summary": "The participants will exchange opinions on pressing international and regional issues",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2202033",
-      "image": null,
-      "publishedAt": "2026-10-14T13:22:23.000Z",
-      "sample": false
-    },
-    {
-      "id": "ta950b",
-      "title": "Assessment of OPEC+ maximum production capacity to be ready by end of 2026 — Novak",
-      "summary": "Russia will restore and increase its production as possible, the deputy prime minister said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2202031",
-      "image": null,
-      "publishedAt": "2026-10-14T13:20:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnw5if",
-      "title": "Kremlin comments on Kiev fighting with Trump, strikes on data centers, protective measures",
-      "summary": "Dmitry Peskov stressed that the Kiev regime’s harsh statements directed at US President Donald Trump will not help Vladimir Zelensky",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2202029",
-      "image": null,
-      "publishedAt": "2026-10-14T13:12:16.000Z",
-      "sample": false
-    },
-    {
-      "id": "85m25r",
-      "title": "Moscow Hails Trump Diesel Deal, Promises Direct Exports to U.S.",
-      "summary": "Russian state agencies and oil companies are now finalizing supply contracts with U.S. counterparts, Deputy Prime Minister Alexander Novak said.",
-      "category": "politics",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/14/moscow-hails-trump-diesel-deal-says-exports-will-reach-us-a93977",
-      "image": null,
-      "publishedAt": "2026-10-14T13:11:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ta94zk",
-      "title": "Fuel market situation improving, Novak says",
-      "summary": "This is related in particular to strengthened protection of facilities, the official noted",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2202025",
-      "image": null,
-      "publishedAt": "2026-10-14T13:10:43.000Z",
-      "sample": false
-    },
-    {
-      "id": "ta94zi",
-      "title": "Russian, US energy authorities discussing diesel supplies — Novak",
-      "summary": "\"An instrument will be found there that will make it possible to support supplies,\" the deputy prime miniser said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2202023",
-      "image": null,
-      "publishedAt": "2026-10-14T13:04:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "ta94yr",
-      "title": "Russia, Egypt agree to expand direct air service opportunities",
-      "summary": "This will make flights more affordable for nationals of both countries, the Russian Ministry of Transport noted",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2202017",
-      "image": null,
-      "publishedAt": "2026-10-14T12:59:05.000Z",
       "sample": false
     },
     {
@@ -1039,105 +1193,6 @@
       "sample": false
     },
     {
-      "id": "m1eqwj",
-      "title": "Nord Stream blasts should be classified as war crime, German prosecutor says",
-      "summary": "The trial is underway at the Hamburg Higher Regional Court",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2202013",
-      "image": null,
-      "publishedAt": "2026-10-14T12:57:39.000Z",
-      "sample": false
-    },
-    {
-      "id": "ta94yl",
-      "title": "Russia, China can discuss Power of Siberia 2 gas pipeline at APEC summit — Novak",
-      "summary": "The deputy prime minister expressed hope that the talks on the pipeline will be completed in the near future",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2202011",
-      "image": null,
-      "publishedAt": "2026-10-14T12:56:04.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnw5gh",
-      "title": "Russia seeks to strengthen sovereignty in all areas — Putin",
-      "summary": "The Russian president stressed that it concerns energy security, as well as digital infrastructure",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2202001",
-      "image": null,
-      "publishedAt": "2026-10-14T12:45:24.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnvpd6",
-      "title": "Kremlin comments on Ukraine’s restricted access to Starlink, settlement process",
-      "summary": "Dmitry Peskov said the Kremlin had seen media reports about restrictions on the Ukrainian army’s access to the Starlink satellite internet service but had no further information",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2201999",
-      "image": null,
-      "publishedAt": "2026-10-14T12:41:49.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnvpd4",
-      "title": "Russia's opponents trying to derail diesel deal with US — Dmitriev",
-      "summary": "The RDIF chief emphasized that the deal is beneficial not only for Russia, but for the United States and the global markets",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/politics/2201997",
-      "image": null,
-      "publishedAt": "2026-10-14T12:36:37.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnvpd0",
-      "title": "Starlink restrictions undermining Ukrainian army effectiveness — expert",
-      "summary": "According to Dmitry Kuzyakin, the Kiev regime's uncontrolled actions are irritating both US President Donald Trump personally and that part of the American establishment",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2201993",
-      "image": null,
-      "publishedAt": "2026-10-14T12:33:05.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnvpcb",
-      "title": "South Korea, US, Japan seek nuclear alliance against regional countries — Russia’s MFA",
-      "summary": "Konstantin Vorontsov, deputy head of the Russian MFA’s Department for Nonproliferation and Arms Control, highlighted \"Seoul’s regular attempts to blame Russia for its own years-long deliberate escalatory moves\"",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2201989",
-      "image": null,
-      "publishedAt": "2026-10-14T12:29:04.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1eas3",
-      "title": "Ukraine caught off guard by Starlink restrictions — newspaper",
-      "summary": "The unnamed Ukrainian official noted that the restrictions had been imposed \"without warning, in the middle of the night\"",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2201991",
-      "image": null,
-      "publishedAt": "2026-10-14T12:27:48.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnvpc3",
-      "title": "Russia received no requests to mediate conflict in southern Arabian Peninsula — MFA",
-      "summary": "Russian Deputy Foreign Minister Georgy Borisenko noted that Moscow remained in contact with both sides of the conflict",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2201981",
-      "image": null,
-      "publishedAt": "2026-10-14T12:18:14.000Z",
-      "sample": false
-    },
-    {
       "id": "2m71k9",
       "title": "Russia Announces Visas for Citizens of Montenegro in Reciprocal Move",
       "summary": "Montenegro announced in July that it would end visa-free access for citizens of Russia, Belarus, China, Saudi Arabia and Turkey to align with EU standards.",
@@ -1146,17 +1201,6 @@
       "url": "https://www.themoscowtimes.com/2026/10/14/russia-announces-visas-for-citizens-of-montenegro-in-reciprocal-move-a93974",
       "image": null,
       "publishedAt": "2026-10-14T12:08:32.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnvpaj",
-      "title": "US makes no official statements on slowdown in Starlink service for Ukraine — Kremlin",
-      "summary": "It is too early to jump to conclusions, Dmitry Peskov said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2201967",
-      "image": null,
-      "publishedAt": "2026-10-14T11:57:31.000Z",
       "sample": false
     },
     {
@@ -1180,7 +1224,9 @@
       "image": null,
       "publishedAt": "2026-10-14T11:41:09.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "x5mq8d",
       "title": "Latvia Formally Blacklists Russian Journalist Leonid Ragozin",
@@ -1246,9 +1292,7 @@
       "image": null,
       "publishedAt": "2026-10-14T08:30:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "biuddd",
       "title": "Lukashenko Denies Belarus Breached Latvian Border as Experts Claim Intelligence Operation",
@@ -1611,50 +1655,6 @@
       "image": null,
       "publishedAt": "2026-10-08T15:52:56.000Z",
       "sample": false
-    },
-    {
-      "id": "oxasly",
-      "title": "How ‘Digital Oblivion’ Is Helping Russia Rewrite the Past",
-      "summary": "The loss of online records — a process that researchers call “digital oblivion” — is contributing to public “amnesia” about key events that autocrats find unhelpful.",
-      "category": "politics",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/08/how-digital-oblivion-is-helping-russia-rewrite-the-past-a93923",
-      "image": null,
-      "publishedAt": "2026-10-08T14:49:23.000Z",
-      "sample": false
-    },
-    {
-      "id": "qtx4ib",
-      "title": "U.K. Expands Sanctions to Cover 90% of Russian Oil Output, Shadow Fleet and Finance Networks",
-      "summary": "The sanctions come on the heels of the EU approving another sanctions package Wednesday.",
-      "category": "politics",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/08/uk-expands-sanctions-to-cover-90-of-russian-oil-output-shadow-fleet-and-finance-networks-a93922",
-      "image": null,
-      "publishedAt": "2026-10-08T13:07:40.000Z",
-      "sample": false
-    },
-    {
-      "id": "qbf940",
-      "title": "Ukrainian Drones Hit Yandex Data Center, Industrial Facilities Across Russia",
-      "summary": "The attack marks the first confirmed strike against Russian data infrastructure, weeks after Moscow did the same.",
-      "category": "politics",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/08/ukrainian-drones-hit-yandex-data-center-after-wave-of-russian-attacks-a93915",
-      "image": null,
-      "publishedAt": "2026-10-08T12:30:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "e79no2",
-      "title": "Lithuania Deploys Army to Kaliningrad Border After Belarus-Latvia Breach",
-      "summary": "Defense Minister Robertas Kaunas said around 100 soldiers would help guard the Lithuanian-Russian border over the next two weeks.",
-      "category": "military",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/08/lithuania-deploys-army-to-kaliningrad-border-after-belarus-latvia-breach-a93920",
-      "image": null,
-      "publishedAt": "2026-10-08T11:34:51.000Z",
-      "sample": false
     }
   ],
   "developing": [
@@ -1722,6 +1722,17 @@
       "url": "https://tass.com/economy/2201499",
       "image": null,
       "publishedAt": "2026-10-13T14:37:43.000Z",
+      "sample": false
+    },
+    {
+      "id": "vqqr44",
+      "title": "What we know about FSB’s detention of Swedish citizen for plotting subversive acts",
+      "summary": "Available documents confirm the detainee’s participation in combat operations on the Ukrainian army’s side against Russia, the press office said, Russia’s Federal Security Service specified",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/society/2202371",
+      "image": null,
+      "publishedAt": "2026-10-15T09:11:26.000Z",
       "sample": false
     }
   ]
