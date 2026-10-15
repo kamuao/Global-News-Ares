@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-15T11:08:47.970Z",
+  "updatedAt": "2026-10-15T16:40:03.857Z",
   "daily": [
+    {
+      "id": "ecppok",
+      "title": "Brazilian Senate Approves Constitutional Amendment Ending 6x1 Work Schedule, Giving Lula a Victory 11 Days Before Election",
+      "summary": "The Senate approved on Wednesday (14), in two rounds of voting, the proposed constitutional amendment (PEC) ending the 6x1 work schedule, an important victory for the Lula (PT) administration 11 days before the election. The proposal received 75 votes in favor in both rounds, and only Hamilton Mour�o (Republicanos-RS),",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/10/brazilian-senate-approves-constitutional-amendment-ending-6x1-work-schedule-giving-lula-a-victory-11-days-before-election.shtml",
+      "image": null,
+      "publishedAt": "2026-10-15T15:35:00.000Z",
+      "sample": false
+    },
     {
       "id": "q6dwb6",
       "title": "Wildfires Double in Amazonas in 2026, but Number Remains Below Historical Average",
@@ -25,7 +36,9 @@
       "image": null,
       "publishedAt": "2026-10-14T19:35:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "8gt0pq",
       "title": "As Igua�u River Rises, Park Removes Railings From Walkway Leading to Falls",
@@ -36,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-10-14T15:21:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "mmwcc1",
       "title": "After Visiting Jair, Fl�vio Bolsonaro Says Father Was Happy With First-Round Result and Is Optimistic About Future",
@@ -125,17 +136,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/website-distributes-cryptocurrency-in-exchange-for-sharing-content-encouraging-votes-for-flavio-bolsonaro.shtml",
       "image": null,
       "publishedAt": "2026-10-08T19:58:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "r82pfh",
-      "title": "Ex�mia in S�o Paulo Named World's 20th Best Bar by 50 Best",
-      "summary": "Hong Kong's Leone was named the world's best bar by 50 Best, one of the industry's leading rankings. Moebius, in Milan, Italy, came in second, followed by Alqu�mico, in Cartagena, Colombia.\nLeia mais (10/08/2026 - 13h14)",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/10/eximia-in-sao-paulo-named-worlds-20th-best-bar-by-50-best.shtml",
-      "image": null,
-      "publishedAt": "2026-10-08T16:14:00.000Z",
       "sample": false
     }
   ],
