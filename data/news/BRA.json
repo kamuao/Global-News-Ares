@@ -2,8 +2,30 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-14T16:53:27.462Z",
+  "updatedAt": "2026-10-15T04:00:14.433Z",
   "daily": [
+    {
+      "id": "q6dwb6",
+      "title": "Wildfires Double in Amazonas in 2026, but Number Remains Below Historical Average",
+      "summary": "The number of fire outbreaks in Amazonas has more than doubled in 2026. The state recorded 7,815 outbreaks between January 1 and October 12, up 116% from 3,611 during the same period in 2025, according to Inpe's Fire Monitoring Program. Smoke has been choking Manaus for weeks. One-third of the outbreaks recorded over t",
+      "category": "health",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/10/wildfires-double-in-amazonas-in-2026-but-number-remains-below-historical-average.shtml",
+      "image": null,
+      "publishedAt": "2026-10-14T22:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "x1vrr6",
+      "title": "Meta AI Creates Campaign Material for Fl�vio Bolsonaro and Blocks Lula Content",
+      "summary": "Meta AI, the artificial intelligence tool available on WhatsApp, refuses to create campaign material for President Lula (PT) but complies with similar requests involving Senator Fl�vio Bolsonaro (PL-RJ), according to tests conducted by M�nica Bergamo's column. The chatbot blocked a poster with the phrase \"Lula 13\" and ",
+      "category": "military",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/meta-ai-creates-campaign-material-for-flavio-bolsonaro-and-blocks-lula-content.shtml",
+      "image": null,
+      "publishedAt": "2026-10-14T19:35:00.000Z",
+      "sample": false
+    },
     {
       "id": "8gt0pq",
       "title": "As Igua�u River Rises, Park Removes Railings From Walkway Leading to Falls",
@@ -14,7 +36,9 @@
       "image": null,
       "publishedAt": "2026-10-14T15:21:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "mmwcc1",
       "title": "After Visiting Jair, Fl�vio Bolsonaro Says Father Was Happy With First-Round Result and Is Optimistic About Future",
@@ -36,9 +60,7 @@
       "image": null,
       "publishedAt": "2026-10-13T21:06:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "3324qb",
       "title": "Lula Draws Crowds in S�o Paulo and Rio as Left Holds Rallies Across Brazil Seeking Momentum Against Fl�vio",
@@ -114,28 +136,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/10/eximia-in-sao-paulo-named-worlds-20th-best-bar-by-50-best.shtml",
       "image": null,
       "publishedAt": "2026-10-08T16:14:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "t69pt2",
-      "title": "Fl�vio Bolsonaro Says He Wants to Change Constitution to Reform Criminal Law and Judiciary, Leaves Door Open to Extending Presidential Term",
-      "summary": "Brazilian presidential candidate Fl�vio Bolsonaro (PL) said that when he spoke about \"redemocratizing the country\" and changing the Constitution if elected, he was referring to proposed amendments that he has defended throughout the campaign. In listing them, he left open the possibility of extending the presidential t",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/flavio-bolsonaro-says-he-wants-to-change-constitution-to-reform-criminal-law-and-judiciary-leaves-door-open-to-extending-presidential-term.shtml",
-      "image": null,
-      "publishedAt": "2026-10-07T23:41:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "4518ds",
-      "title": "First Gripen Fighter Jet Made in Brazil Makes Maiden Flight",
-      "summary": "The first supersonic fighter jet produced in Brazil made its maiden flight on Tuesday (6). The Gripen E took off from Embraer's runway in Gavi�o Peixoto, in the interior of S�o Paulo state, and completed its test without any problems.\nLeia mais (10/07/2026 - 20h33)",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/first-gripen-fighter-jet-made-in-brazil-makes-maiden-flight.shtml",
-      "image": null,
-      "publishedAt": "2026-10-07T23:33:00.000Z",
       "sample": false
     }
   ],
