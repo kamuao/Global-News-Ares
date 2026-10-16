@@ -2,8 +2,426 @@
   "id": "IND",
   "name": "India",
   "sample": false,
-  "updatedAt": "2026-10-16T16:22:52.614Z",
+  "updatedAt": "2026-10-16T20:45:25.041Z",
   "daily": [
+    {
+      "id": "uy8h6h",
+      "title": "Sylvester Stallone gave $200,000 after daughter’s heart surgery to help children",
+      "summary": "",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/world/us/after-his-infant-daughter-underwent-heart-surgery-in-1996-sylvester-stallone-donated-200000-to-help-other-children-with-heart-defects/articleshow/134919937.cms",
+      "image": "https://static.toiimg.com/photo/msid-134920156,imgsize-2011170.cms",
+      "publishedAt": "2026-10-16T20:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "97kf3r",
+      "title": "Indianapolis removes 127-year-old dam to restore White River wildlife",
+      "summary": "The city of Indianapolis is set to dismantle the Emrichsville Dam as part of an initiative to revitalize the White River's natural flow. This endeavor is designed to improve aquatic habitats and ensure the safety of river goers. Funding has been obtained from a variety of federal and state organizations to assist with ",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-1899-indianapolis-built-a-dam-to-create-a-boating-lake-on-the-white-river-127-years-later-crews-are-removing-it-after-the-structure-altered-more-than-four-miles-of-river-and-blocked-aquatic-wildlife/articleshow/134983494.cms",
+      "image": "https://static.toiimg.com/photo/msid-134983580,imgsize-2563064.cms",
+      "publishedAt": "2026-10-16T20:29:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "niag9b",
+      "title": "Nantucket mansion bought for $13.95m now asks $45m, could set state record",
+      "summary": "",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/in-2024-buyers-paid-13-95-million-for-a-nantucket-property-and-built-a-13500-sq-ft-mansion-with-a-private-tunnel-two-years-later-it-is-asking-45-million-and-could-set-a-massachusetts-record/articleshow/134960665.cms",
+      "image": "https://static.toiimg.com/photo/msid-134960770,imgsize-1149142.cms",
+      "publishedAt": "2026-10-16T20:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6jjyt0",
+      "title": "Indian jailed for life for murder of woman he met at a brothel in UK",
+      "summary": "",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/world/uk/indian-man-sentenced-to-life-in-jail-for-murder-of-chinese-woman-he-met-at-brothel-in-uk/articleshow/135003279.cms",
+      "image": "https://static.toiimg.com/photo/msid-135003286,imgsize-1002905.cms",
+      "publishedAt": "2026-10-16T20:16:11.000Z",
+      "sample": false
+    },
+    {
+      "id": "18nax7",
+      "title": "Yemen's Government-Controlled City Of Aden Attacked In Houthi Strikes",
+      "summary": "The attack came a day after the Iran-backed Houthi rebels in Yemen struck a palace complex in Aden, which has been the seat of Yemen's internationally recognized government since 2015.",
+      "category": "politics",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/world-news/yemens-government-controlled-city-of-aden-attacked-in-houthi-strikes-12197212#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/lf03boa_yemen-aden-city-attacked_625x300_17_October_26.jpeg",
+      "publishedAt": "2026-10-16T20:01:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "c2arf2",
+      "title": "‘For 5 hrs, no one knew’: AISA claims Neha Bora detained at RK Puram police station",
+      "summary": "",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/india/for-5-hrs-no-one-knew-aisa-claims-neha-bora-detained-at-rk-puram-police-station/articleshow/135003084.cms",
+      "image": "https://static.toiimg.com/photo/msid-135003091,imgsize-127886.cms",
+      "publishedAt": "2026-10-16T19:38:43.000Z",
+      "sample": false
+    },
+    {
+      "id": "rljw5a",
+      "title": "Iran Denies Saudi Accusation Of Involvement In Houthi Attacks",
+      "summary": "The Houthis are part of Iran's so-called \"Axis of Resistance\", which also includes Lebanon's Hezbollah and Iran-backed armed groups in Iraq, all united in opposing Israel.",
+      "category": "politics",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/world-news/iran-denies-saudi-accusation-of-involvement-in-houthi-attacks-12197172#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/3e0rmfu_houthi-attacks-saudi_625x300_17_October_26.jpeg",
+      "publishedAt": "2026-10-16T19:35:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "q1czyl",
+      "title": "No airfare cap, but govt to curb sharp fare hikes in 'exceptional' situations",
+      "summary": "",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/new-airfare-rules-govt-wont-cap-charges-but-ensure-no-sudden-spike-in-exceptional-situations/articleshow/135002980.cms",
+      "image": "https://static.toiimg.com/photo/msid-135002998,imgsize-36074.cms",
+      "publishedAt": "2026-10-16T19:23:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "p9a52",
+      "title": "Trump Fires Press Secretary Katie Zacharia After  5 Days On The Job: Report",
+      "summary": "Trump told reporters that he had asked Zacharia to \"reconsider\" the job. He said that he told Zacharia that she did not have to do this job and that if he were her, he would reconsider the position.",
+      "category": "politics",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/world-news/trump-fires-press-secretary-katie-zacharia-after-5-days-on-the-job-report-12196998#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/rgl39tgk_white-house_625x300_15_October_26.jpeg",
+      "publishedAt": "2026-10-16T18:48:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "8u5kvn",
+      "title": "Sean 'Diddy' Combs Moved To New Prison Over Reports Of High Life Behind Bars",
+      "summary": "The Bureau of Prisons confirmed the move but provided no further details. The agency said it does not discuss conditions of confinement for anyone in its custody, including reasons for transfer, for privacy, safety, and security reasons.",
+      "category": "politics",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/world-news/sean-diddy-combs-moved-to-new-prison-over-reports-of-high-life-behind-bars-12197078#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2025-05/h2b2ejog_sean-diddy-combs_625x300_26_May_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-10-16T18:40:25.000Z",
+      "sample": false
+    },
+    {
+      "id": "k98k48",
+      "title": "Probe Agency ED Summons Pinarayi Vijayan In Money Laundering Case",
+      "summary": "The Keralam Vigilance and Anti-Corruption Bureau (VACB) recently registered two FIRs against Vijayan and his family members in connection with the alleged CMRL bribery case.",
+      "category": "politics",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/probe-agency-ed-summons-pinarayi-vijayan-in-money-laundering-case-12197077#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2018-10/7f3sla2g_pinarayi-vijayan_625x300_27_October_18.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-10-16T18:39:54.000Z",
+      "sample": false
+    },
+    {
+      "id": "g2e7bg",
+      "title": "\"Tibetan Issue Will Remain Alive\": Dalai Lama To NDTV",
+      "summary": "For most of the time, the Tibetan cause and the leader have been almost the same thing in the public mind. As he ages, the debate over what comes next has only grown louder",
+      "category": "technology",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/world-news/tibetan-issue-will-remain-alive-dalai-lama-to-ndtv-12197047#publisher=newsstand",
+      "image": "https://i.ndtvimg.com/i/2017-03/dalai-lama-reuters_650x400_41490006645.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-10-16T18:28:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "caembr",
+      "title": "Tremors, Tectonic Shifts: Milind Deora, Shashi Tharoor's Banter Over Protests",
+      "summary": "The exchange began after Milind Deora posted and mentioned the earthquake in Panama.",
+      "category": "society",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/cjp-congress-shiv-sena-gyanesh-kumar-tremors-tectonic-shifts-milind-deora-shashi-tharoors-banter-over-protests-12197041#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/rmcnvbrk_deora-tharoor_625x300_16_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-10-16T18:27:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "n3xrsv",
+      "title": "Trump’s press secretary Katie Zacharia ‘let go’ five days into new job",
+      "summary": "",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/world/us/trumps-press-secretary-katie-zacharia-let-go-five-days-into-new-job/articleshow/135001934.cms",
+      "image": "https://static.toiimg.com/photo/msid-135001974,imgsize-67962.cms",
+      "publishedAt": "2026-10-16T18:24:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "ayqu0o",
+      "title": "Sankoo Becomes Ladakh's 8th District, Gets Separate Hill Council",
+      "summary": "Sankoo was not among the five new districts announced earlier this year, despite demands from local organisations and political representatives.",
+      "category": "society",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/sankoo-becomes-ladakhs-8th-district-gets-separate-hill-council-12197014#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2025-06/ae48qgf8_ladakh_625x300_04_June_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-10-16T18:18:16.000Z",
+      "sample": false
+    },
+    {
+      "id": "2qaoi6",
+      "title": "3 Detained After Missing J&K Special Officer's Body Found With Head Injuries",
+      "summary": "Bashir Ahmad, who was posted at the Pedil police post, was found dead near his residence a day after he went missing on Thursday morning. There were visible injury marks on his head when he was found.",
+      "category": "health",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/3-detained-after-missing-j-k-special-officers-body-found-with-head-injuries-12196967#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/e6r2us_missing-spo_625x300_16_October_26.jpeg",
+      "publishedAt": "2026-10-16T18:05:54.000Z",
+      "sample": false
+    },
+    {
+      "id": "9ubu70",
+      "title": "TGIKS 5: Kapil Sharma jokes Saif Ali Khan has kids in every decade",
+      "summary": "Kareena Kapoor and Saif Ali Khan graced 'The Great Indian Kapil Show' with their lively presence. They exchanged humorous stories about their lives, including Saif's numerous marriage proposals, which left the audience in stitches. Kareena humorously highlighted Saif's notorious snoring, prompting a series of light-hea",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/the-great-indian-kapil-show-5-kapil-sharma-jokes-saif-ali-khan-has-kids-in-every-decade-kareena-says-we-are-entering-a-new-decade-but-not-with-me/articleshow/135001348.cms",
+      "image": "https://static.toiimg.com/photo/msid-135001411,imgsize-636768.cms",
+      "publishedAt": "2026-10-16T18:05:30.000Z",
+      "sample": false
+    },
+    {
+      "id": "2l2pql",
+      "title": "Two vessels carrying 24 Indian seafarers hit by projectiles, drone in separate incidents",
+      "summary": "Union shipping minister Sarbananda Sonowal confirmed that two vessels carrying Indian seafarers were attacked in October. The MT ST 3 was struck by a projectile in the Strait of Hormuz, while the YARA J was hit by a drone off Romania. Fortunately, all 24 Indian nationals aboard both vessels are reported safe and unharm",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/india/two-vessels-carrying-24-indian-seafarers-hit-by-projectiles-drone-in-separate-incidents-all-safe/articleshow/135001203.cms",
+      "image": "https://static.toiimg.com/photo/msid-135001298,imgsize-41564.cms",
+      "publishedAt": "2026-10-16T17:59:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "19wvi",
+      "title": "Debt-Trapped Pakistan To Chair IMF, World Bank Boards In 2027",
+      "summary": "Minister for Economic Affairs Ahad Khan Cheema, who is also Pakistan's governor to the World Bank, was formally announced as the incoming chair during the plenary session of the 2026 WBG-IMF Annual Meetings in Bangkok.",
+      "category": "health",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/world-news/debt-trapped-pakistan-to-chair-imf-world-bank-boards-in-2027-12196933#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2022-08/fpd3c7hg_imf-generic-reuters_625x300_13_August_22.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-10-16T17:53:21.000Z",
+      "sample": false
+    },
+    {
+      "id": "8jw82d",
+      "title": "From Ronaldo to Ronaldinho: How 10 football stars earned UAE Golden Visas",
+      "summary": "From Cristiano Ronaldo and Paul Pogba to Rio Ferdinand and Patrice Evra, several football legends have secured UAE Golden Visas and built connections with the region beyond the pitch. From business ventures and youth development to media careers and sports investments, explore how 10 footballers have used their long-te",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/from-cristiano-ronaldo-to-ronaldinho-how-these-10-football-stars-earned-uae-golden-visas-and-made-emirates-second-home-for-business-and-beyond/articleshow/134997258.cms",
+      "image": "https://static.toiimg.com/photo/msid-135001137,imgsize-170712.cms",
+      "publishedAt": "2026-10-16T17:52:23.000Z",
+      "sample": false
+    },
+    {
+      "id": "36hwiy",
+      "title": "Tibetan Government-in-Exile Tells World: Prepare Now for Dalai Lama's Succession",
+      "summary": "Who gets to recognise Dalai Lama's his successor is now a sensitive issue between the exiles and Beijing.",
+      "category": "health",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/tibetan-government-in-exile-tells-world-prepare-now-for-dalai-lamas-succession-12190282#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/bpe2tt8s_tibet_625x300_15_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-10-16T17:51:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "8ixgw5",
+      "title": "TVK Worker Arrested in Drugs Case, Udhayanidhi Stalin Targets Vijay",
+      "summary": "Udhayanidhi Stalin contrasted the arrest with Vijay's campaign message, \"Give up drugs, take up sports\", questioning the government's commitment to tackling narcotics.",
+      "category": "politics",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/tvk-worker-arrested-in-drugs-case-udhayanidhi-stalin-targets-vijay-12196844#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/kr67r0vs_mn_625x300_16_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-10-16T17:35:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "5bf5bc",
+      "title": "Video: Musk Was Mocked For Flying Car Idea In 2018, Now Tesla Takes Flight",
+      "summary": "During his 2018 appearance on The Joe Rogan Experience, Musk discussed the possibility of equipping the next-generation Roadster with rocket or cold-gas thrusters developed using SpaceX technology.",
+      "category": "technology",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/world-news/video-elon-musk-was-mocked-for-flying-car-idea-in-2018-now-his-tesla-takes-flight-12196846#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/o3ki50pg_elon-musk_625x300_16_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-10-16T17:31:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "3g4xkt",
+      "title": "'Waving Tiranga Is No Crime': Opposition Rallies Behind Neha Bora, Abhijeet Dipke",
+      "summary": "Arvind Kejriwal turned the \"go to Pakistan\" phrase around on BJP, asking why a march to wave the national flag was seen as illegal: \"If we don't wave the Tiranga in our own country, will we in Pakistan?\"",
+      "category": "society",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/waving-tiranga-a-crime-opposition-rallies-behind-abhijeet-dipke-neha-bora-mamata-banerjee-mk-stalin-post-on-x-for-aisa-chief-cjp-founder-12196298#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/0ua1qits_neha-bora-was-picked-up-while-marching-near-mandi-house-abhijeet-dipke-from-where-hes-staying-in-delhi_625x300_16_October_26.png?im=FitAndFill,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-10-16T17:29:30.000Z",
+      "sample": false
+    },
+    {
+      "id": "d6bd9w",
+      "title": "Bill Gates' daughters join mother to sign as founding backers of $100 million fund",
+      "summary": "Melinda French Gates, alongside her daughters, has joined a groundbreaking philanthropic venture designed to enhance women's health globally. The Women's Health Co-Lab aims to generate $100 million, supporting diverse organizations over three years. Phoebe Gates highlights the ongoing challenges women encounter in heal",
+      "category": "health",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-daughters-join-mother-melinda-french-gates-to-sign-as-founding-backers-of-a-100-million-fund-that-supports-the-cause-for-which-phoebe-gates-said-it-is-unacceptable-that-in-2025-women-are-/articleshow/135000552.cms",
+      "image": "https://static.toiimg.com/photo/msid-135000568,imgsize-76008.cms",
+      "publishedAt": "2026-10-16T17:27:28.000Z",
+      "sample": false
+    },
+    {
+      "id": "11d1vi",
+      "title": "Dolph Ziggler’s net worth in 2026: How did Nic Nemeth build his fortune?",
+      "summary": "Dolph Ziggler, also known as Nic Nemeth, transitioned from WWE to independent wrestling promotions in 2023. He is recognized for his significant contributions, achieving multiple championships over his two-decade career. Nemeth has pursued stand-up comedy alongside his wrestling endeavors, performing regularly at vario",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/sports/wwe/top-stories/dolph-ziggler-net-worth-2026-how-nic-nemeth-built-his-wrestling-fortune-inside-his-wwe-and-acting-career-and-more/articleshow/134994448.cms",
+      "image": "https://static.toiimg.com/photo/msid-134994820,imgsize-37722.cms",
+      "publishedAt": "2026-10-16T17:25:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1p64vi",
+      "title": "Russia building 'security zone' in Ukraine that won't be part of future peace talks: Putin",
+      "summary": "Russian President Vladimir Putin announced the creation of a security zone within Ukraine to secure Russia's borders. He stated that his armed forces are successfully pushing Ukrainian troops beyond Russian territory. Kremlin spokesman Dmitry Peskov detailed that this buffer zone spans 660 km, with Russian control over",
+      "category": "military",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/world/europe/russia-building-security-zone-in-ukraine-that-wont-be-part-of-future-peace-talks-putin/articleshow/134999813.cms",
+      "image": "https://static.toiimg.com/photo/msid-135000003,imgsize-102254.cms",
+      "publishedAt": "2026-10-16T17:16:13.000Z",
+      "sample": false
+    },
+    {
+      "id": "8gxaj7",
+      "title": "Saudi-Led Coalition Intercepts Drones, Missiles Targeted At Riyadh",
+      "summary": "Since Yemen's civil war flared back to life in July, the Houthis have repeatedly struck Saudi targets including Red Sea tankers, oil facilities and Riyadh's international airport, where 13 people were killed in a single attack last week.",
+      "category": "military",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/world-news/saudi-led-coalition-intercepts-drones-missiles-targeted-at-riyadh-12196793#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/pqkv2njg_riyadh_625x300_14_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-10-16T17:13:57.000Z",
+      "sample": false
+    },
+    {
+      "id": "phtmzk",
+      "title": "US Says Trump Did Not Order Curb To Starshield For Ukraine After Musk Claim",
+      "summary": "Kyiv on Wednesday reported restrictions to the SpaceX-operated service, which it sees as crucial to fending off Moscow's invasion, shortly after Trump criticised Ukraine and urged it to stop targeting Russian oil refineries.",
+      "category": "military",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/world-news/us-says-trump-did-not-order-curb-to-starshield-for-ukraine-after-musk-claim-12196791#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/jho3nthc_ukraine-starshield-reuters_625x300_16_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-10-16T17:13:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "lrqg2b",
+      "title": "Deepti, debutant Niki rescue India after top-order collapse against Zimbabwe",
+      "summary": "India had to work harder than expected while chasing a target of 115, but recovered from losing four wickets for just 19 runs to reach the target with 4.2 overs to spare.",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/deepti-sharma-debutant-niki-prasad-rescue-india-after-top-order-collapse-against-zimbabwe/articleshow/134999651.cms",
+      "image": "https://static.toiimg.com/photo/msid-134999767,imgsize-118928.cms",
+      "publishedAt": "2026-10-16T17:08:35.000Z",
+      "sample": false
+    },
+    {
+      "id": "8sm9ov",
+      "title": "Analysis: Anti-Drugs Activist's Murder Sparks Pan-Punjab Protest, AAP Faces Dual Challenge",
+      "summary": "There are already questions that have arisen from another activist's suicide and the alleged torture of a protester, among crime- or drugs-related incidents over the past few months.",
+      "category": "society",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/anti-drugs-activist-parvinder-jhotas-murder-sparks-pan-punjab-protest-aap-struggles-for-answers-12196763#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2026-10/c9n9o434_parvinder-singh-jhota_625x300_13_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-10-16T17:06:55.000Z",
+      "sample": false
+    },
+    {
+      "id": "5286rv",
+      "title": "Sikkim Congress Protests Against Dushyant Gautam's Appointment As Governor",
+      "summary": "SPCC president Gopal Chettri questioned the decision to appoint Gautam to a constitutional office while allegations linked to the high-profile case remain unresolved.",
+      "category": "society",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/india-news/sikkim-congress-protests-against-dushyant-gautams-appointment-as-governor-12196749#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2025-01/ooe3uqn_dushyant-kumar-gautam_640x480_15_January_25.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-10-16T17:03:11.000Z",
+      "sample": false
+    },
+    {
+      "id": "cefv8i",
+      "title": "'India Among Leading World Bank Investors': Ajay Banga",
+      "summary": "In his address to the World Bank Annual Meeting plenary in Bangkok, Ajay Banga highlighted India's growing role in international development financing.",
+      "category": "politics",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/world-news/india-among-leading-world-bank-investors-ajay-banga-12196667#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2023-02/e619b2mg_ajay-banga-getty_625x300_25_February_23.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-10-16T16:45:41.000Z",
+      "sample": false
+    },
+    {
+      "id": "elsa8o",
+      "title": "Gautam Singhania To Attend NDTV World Summit 2026: All About Raymond Chairman",
+      "summary": "The NDTV World Summit 2026 will be held in New Delhi on October 22 and 23. This year's theme is \"A World Between Orders\".",
+      "category": "politics",
+      "source": "ndtv",
+      "url": "https://www.ndtv.com/world-news/who-is-gautam-singhania-raymond-chairman-to-attend-ndtv-world-summit-2026-12188556#publisher=newsstand",
+      "image": "https://c.ndtvimg.com/2025-10/qqak7s3_bn_625x300_10_October_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
+      "publishedAt": "2026-10-16T16:44:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "688q7q",
+      "title": "Ryan Clark challenges Stephen A. Smith over Lane Johnson’s retirement",
+      "summary": "Ryan Clark defended Lane Johnson after Stephen A. Smith questioned the Eagles tackle’s retirement and mental health reasons. Clark said the impact of someone’s words matters more than their intentions. Johnson retired on October 6 after 14 seasons with Philadelphia, explaining that his mental health and family prioriti",
+      "category": "health",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/ryan-clark-challenges-stephen-a-smith-over-lane-johnsons-retirement-as-eagles-star-puts-mental-health-first/articleshow/134999070.cms",
+      "image": "https://static.toiimg.com/photo/msid-134999080,imgsize-49729.cms",
+      "publishedAt": "2026-10-16T16:18:30.000Z",
+      "sample": false
+    },
+    {
+      "id": "ajp4ln",
+      "title": "Indian charged in US for illegally voting in 2024 polls; faces up to 10 yrs in jail",
+      "summary": "",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/world/us/indian-national-charged-in-us-over-false-citizenship-claim-to-vote-in-2024-election-faces-up-to-10-years-in-prison/articleshow/134999089.cms",
+      "image": "https://static.toiimg.com/photo/msid-134999131,imgsize-365017.cms",
+      "publishedAt": "2026-10-16T16:17:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "wn6b2g",
+      "title": "Why BCCI named two captains for India's New Zealand ODI series",
+      "summary": "India will have two captains during the five-match ODI series against New Zealand. Shubman Gill will lead the team in the first three matches, while Shreyas Iyer will take over for the final two games.",
+      "category": "politics",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/why-bcci-named-two-captains-for-indias-new-zealand-odi-series/articleshow/134999011.cms",
+      "image": "https://static.toiimg.com/photo/msid-134999094,imgsize-52002.cms",
+      "publishedAt": "2026-10-16T16:17:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "2mpq9h",
+      "title": "Zubeen Garg death case: Gauhati HC grants bail to suspended DSP Sandipon Garg",
+      "summary": "The Gauhati High Court has granted bail to Sandipon Garg, the suspended Assam Police DSP, linked to the controversial death of his cousin, Zubeen Garg. Arrested by the Special Investigation Team, Sandipon follows Amritprava Mahanta, the first accused, who also received bail. Additionally, the Supreme Court emphasized t",
+      "category": "health",
+      "source": "times-of-india",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/zubeen-garg-death-case-gauhati-high-court-grants-bail-to-suspended-dsp-sandipon-garg-prosecutor-says-the-court-has-not-read-out-the-full-order/articleshow/134998760.cms",
+      "image": "https://static.toiimg.com/photo/msid-134998793,imgsize-538111.cms",
+      "publishedAt": "2026-10-16T16:05:19.000Z",
+      "sample": false
+    },
     {
       "id": "gsko7h",
       "title": "Zelenskyy slams Trump's diesel deal, says will help fund Putin’s war in Ukraine",
@@ -27,36 +445,14 @@
       "sample": false
     },
     {
-      "id": "dwpv2n",
-      "title": "19-year-old turns $500 3D printer into $808K business",
-      "summary": "",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/world/us/meet-mike-satterlee-19-who-turned-a-500-3d-printer-into-a-160-printer-new-york-operation-after-cruisecup-generated-808000-in-gross-revenue-in-2025/articleshow/134995450.cms",
-      "image": "https://static.toiimg.com/photo/msid-134995671,imgsize-705572.cms",
-      "publishedAt": "2026-10-16T15:30:00.000Z",
-      "sample": false
-    },
-    {
       "id": "pr9kib",
       "title": "No Jadeja, Iyer to lead in last two ODIs: Check full Test and ODI squads vs NZ",
-      "summary": "India's men's cricket team has announced its line-up for the upcoming New Zealand tour, revealing the ODI and Test squads. The tour will host five ODIs followed by two Tests after the T20I series wraps up. Shubman Gill is set to captain the ODIs, with Shreyas Iyer stepping in for the last two.",
+      "summary": "The BCCI selection committee has announced India's ODI and Test squads for the upcoming tour of New Zealand. India will play five T20Is, five ODIs and two Tests on the tour. Fast bowlers Akash Deep and Anshul Kamboj have returned to the Test squad. Shubman Gill will lead India in the first three ODIs, while Shreyas Iye",
       "category": "politics",
       "source": "times-of-india",
       "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/india-test-and-odi-squads-for-new-zealand-tour-announced-who-is-in-who-is-out/articleshow/134998318.cms",
       "image": "https://static.toiimg.com/photo/msid-134998728,imgsize-55520.cms",
       "publishedAt": "2026-10-16T15:27:13.000Z",
-      "sample": false
-    },
-    {
-      "id": "50s7p",
-      "title": "Mailchimp founders bootstrap side project to $12B exit",
-      "summary": "Originating from humble beginnings, Mailchimp evolved within two decades from a small business tool to a powerhouse in the marketing industry. Launched by The Rocket Science Group's Ben Chestnut and Dan Kurzius, it caught the attention of Intuit, who acquired it for around $12 billion in 2021. With a sharp focus on cus",
-      "category": "health",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2001-ben-chestnut-and-dan-kurzius-built-mailchimp-as-a-side-project-inside-their-atlanta-web-design-agency-and-took-no-outside-funding-20-years-later-intuit-acquired-the-company-for-about-12-billion/articleshow/134998082.cms",
-      "image": "https://static.toiimg.com/photo/msid-134998129,imgsize-89604.cms",
-      "publishedAt": "2026-10-16T15:21:00.000Z",
       "sample": false
     },
     {
@@ -115,39 +511,6 @@
       "sample": false
     },
     {
-      "id": "gp8zln",
-      "title": "Kuki-Naga Clashes Shift Manipur Violence To New Hill Districts",
-      "summary": "The violence between the Kukis and Nagas has entered the deadliest phase, with September recording at least 19 reported deaths.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/kuki-naga-clashes-shift-manipur-violence-to-new-hill-districts-12196144#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-05/u9pu4r7c_naga-manipur_625x300_20_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T14:48:30.000Z",
-      "sample": false
-    },
-    {
-      "id": "lj2fxw",
-      "title": "Analysis: Why Akali Dal Still Has Much To Answer On Punjab Drugs Crisis",
-      "summary": "The Shiromani Akali Dal (SAD) belongs in this debate for two reasons. It governed Punjab with the Bharatiya Janata Party (BJP) for 10 years -- from 2007 to 2017. It also claims a Panthic identity rooted in service and collective responsibility.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/analysis-why-akali-dal-still-has-much-to-answer-on-punjab-drugs-crisis-12196142#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/d0bve64g_doortodoor-campaign-bus-yatra-mega-rally-akali-dal-gets-into-poll-mode_625x300_02_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T14:47:26.000Z",
-      "sample": false
-    },
-    {
-      "id": "js0cd0",
-      "title": "IAS Officer Who Said B****y S**t To Woman Colleague Faces Inquiry",
-      "summary": "IAS officer Kumar Rajeev Ranjan used abusive language against the woman.",
-      "category": "health",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/ias-officer-who-said-b-y-s-t-to-woman-colleague-faces-inquiry-12196118#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/rejceogk_jk_625x300_16_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T14:46:11.000Z",
-      "sample": false
-    },
-    {
       "id": "2nfs4",
       "title": "Ilhan Omar's husband breaks silence after FBI raid on home; denies concerns over immigration probe",
       "summary": "",
@@ -156,39 +519,6 @@
       "url": "https://timesofindia.indiatimes.com/world/us/ilhan-omars-husband-breaks-silence-after-fbi-raid-on-home-denies-concerns-over-immigration-probe/articleshow/134997458.cms",
       "image": "https://static.toiimg.com/photo/msid-134997795,imgsize-94397.cms",
       "publishedAt": "2026-10-16T14:45:47.000Z",
-      "sample": false
-    },
-    {
-      "id": "y689k8",
-      "title": "Opinion: Blog: As Himalayas Change, Jim Corbett's Voice Echoes Louder Than Ever",
-      "summary": "The Himalayas are currently witnessing an unprecedented expansion of tourism and infrastructure, often putting fragile ecosystems under immense pressure.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/opinion/as-himalayas-change-jim-corbetts-voice-echoes-louder-than-ever-12195572#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/dpv4gsi_gargi-_625x300_16_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T14:38:37.000Z",
-      "sample": false
-    },
-    {
-      "id": "4af02y",
-      "title": "After Drug Activist's Killing, Centre Sends 3 Letters To Punjab Government",
-      "summary": "The ministry also asked Punjab to spell out the action taken on the Centre's Vision Document on Narcotics Control (2026-2029), shared by Union Home Minister Amit Shah with the chief minister on August 10.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/after-drug-activists-killing-centre-sends-3-letters-to-punjab-government-12196052#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/8o05foc4_jhota_625x300_16_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T14:32:27.000Z",
-      "sample": false
-    },
-    {
-      "id": "aboblg",
-      "title": "Josh Allen searches for Hailee Steinfeld after Bills vs Rams game",
-      "summary": "Josh Allen reportedly copied Stefon Diggs. As Diggs looked for Cardi B on the stands in the 2025 NFL season, Allen looked for Hailee Steinfeld from the stadium.",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/josh-allen-takes-a-page-out-of-stefon-diggs-gridiron-romance-book-with-cardi-b-as-he-searches-for-wife-hailee-steinfeld-after-bills-vs-rams-game/articleshow/134985487.cms",
-      "image": "https://static.toiimg.com/photo/msid-134997468,imgsize-141690.cms",
-      "publishedAt": "2026-10-16T14:31:15.000Z",
       "sample": false
     },
     {
@@ -280,17 +610,6 @@
       "sample": false
     },
     {
-      "id": "bu6ky0",
-      "title": "After Bhagwant Mann, Akal Takht Declares AAP MLA Guilty Of Misconduct",
-      "summary": "AAP MLA Manwinder Singh Giaspura allegedly made false allegations and used derogatory language against Sikh institutions.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/punjab-elections-aap-mlas-apologise-at-akal-takht-deepening-bhagwant-manns-troubles-12195597#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/8m8a3vs_1_625x300_16_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T13:55:58.000Z",
-      "sample": false
-    },
-    {
       "id": "3hhnpg",
       "title": "Russian officer helped Ukraine kill over 300 troops by leaking military secrets",
       "summary": "Russian army lieutenant Lev Stupnikov took a perilous stand against his own military by secretly supplying Ukrainian forces with critical intelligence. His actions led to the targeted elimination of more than 300 Russian soldiers and deliberate sabotage of weapons systems, culminating in his flight to the Russian Volun",
@@ -299,17 +618,6 @@
       "url": "https://timesofindia.indiatimes.com/world/europe/russian-officer-helped-ukraine-kill-over-300-troops-by-leaking-military-secrets-report/articleshow/134996936.cms",
       "image": "https://static.toiimg.com/photo/msid-134997049,imgsize-112001.cms",
       "publishedAt": "2026-10-16T13:55:41.000Z",
-      "sample": false
-    },
-    {
-      "id": "jpqrd2",
-      "title": "Trump Says May Attack Pickaxe Mountain, Linked To Iran's Nuclear Programme",
-      "summary": "Trump said the US wanted to make sure Iran will never have a nuclear weapon \"because if they had it, they would use it.\"",
-      "category": "military",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/world-news/trump-says-may-attack-pickaxe-mountain-linked-to-irans-nuclear-programme-12195836#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/7uiru26s_trump-iran-plan_625x300_07_March_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T13:51:15.000Z",
       "sample": false
     },
     {
@@ -324,39 +632,6 @@
       "sample": false
     },
     {
-      "id": "ymtkp5",
-      "title": "Dehradun to host the Times of India Sports Awards on December 6",
-      "summary": "The Times of India Sports Awards (TOISA) will return for its ninth edition in Dehradun on December 6, 2026. The awards will recognise India’s sporting achievements across disciplines, with the Asian Games in Aichi-Nagoya and the Commonwealth Games in Glasgow among the major events shaping the year. The ceremony will br",
-      "category": "military",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/toisa-2026-set-to-celebrate-indias-sporting-heroes-dehradun-to-host-9th-edition-of-the-times-of-india-sports-awards-on-december-6/articleshow/134996913.cms",
-      "image": "https://static.toiimg.com/photo/msid-134996928,imgsize-52470.cms",
-      "publishedAt": "2026-10-16T13:47:17.000Z",
-      "sample": false
-    },
-    {
-      "id": "6eawu8",
-      "title": "India pulls up US lawmaker for ‘unwarranted &amp; uninformed’ claims on voter roll deletions",
-      "summary": "India has dismissed Congresswoman Pramila Jayapal's remarks regarding its electoral process as unwarranted and uninformed. The Ministry of External Affairs warned that her comments interfere with India’s democratic practices. India's Ambassador to the US, Vinay Mohan Kwatra, also rejected these allegations as unaccepta",
-      "category": "military",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/india/interfering-in-electoral-practices-india-pulls-up-us-lawmaker-for-claims-on-voter-roll-deletions/articleshow/134996363.cms",
-      "image": "https://static.toiimg.com/photo/msid-134996617,imgsize-88354.cms",
-      "publishedAt": "2026-10-16T13:46:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "1zier9",
-      "title": "How Real Madrid made history with $1.42 bn in 2025-26 despite winning nothing",
-      "summary": "Real Madrid have generated a record €1.221 billion in operating revenue for 2025-26, becoming the first sports organisation to cross the €1.2 billion mark despite ending the season without a major trophy. From the renovated Santiago Bernabéu and lucrative Adidas, Emirates and HP sponsorships to squad investments and gl",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/real-madrid-become-first-in-sports-history-to-generate-1-22bn-in-revenue-in-2025-26-despite-trophyless-season-how-did-they-pull-it-off/articleshow/134990274.cms",
-      "image": "https://static.toiimg.com/photo/msid-134996823,imgsize-259928.cms",
-      "publishedAt": "2026-10-16T13:39:04.000Z",
-      "sample": false
-    },
-    {
       "id": "p0rs88",
       "title": "Return of Gulf oil: Has Iran lost grip on Hormuz &amp; what does it mean for India?",
       "summary": "The US war with Iran exposed Tehran’s ability to disrupt the global economy by blocking the Strait of Hormuz. Before the war, around 19 million barrels of crude oil were exported daily from the Middle East. However, September data from tanker-tracking firm Kpler showed oil flows recovering to an average of 16 million b",
@@ -368,17 +643,6 @@
       "sample": false
     },
     {
-      "id": "7mfdcn",
-      "title": "Abhijeet Dipke Detained Before March, Neha Bora Picked Up Near Jantar Mantar",
-      "summary": "Earlier in the day, Delhi Police landed at Dipke's home and served him a notice against carrying out the march.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/abhijeet-dipke-detained-by-delhi-police-ahead-of-cjps-national-flag-march-12194967#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/6o2qppkc_dipke-bora-_625x300_16_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T13:31:30.000Z",
-      "sample": false
-    },
-    {
       "id": "qosf2g",
       "title": "'Once again, an abduction': Aides claim Neha Bora taken to unknown location by cops",
       "summary": "AISA chief Neha Bora was detained by Delhi Police while heading to a protest, and was taken to an unknown location. CJP leader Abhijeet Dipke was also detained at his residence shortly before the protest. Police stated the situation remained peaceful despite the detentions and heightened security in the capital. Hundre",
@@ -387,193 +651,6 @@
       "url": "https://timesofindia.indiatimes.com/india/once-again-an-abduction-aides-claim-neha-bora-taken-to-unknown-location-by-police/articleshow/134996613.cms",
       "image": "https://static.toiimg.com/photo/msid-134996646,imgsize-179228.cms",
       "publishedAt": "2026-10-16T13:30:20.000Z",
-      "sample": false
-    },
-    {
-      "id": "s4vlej",
-      "title": "How much gold and silver can you legally keep at home?",
-      "summary": "In a recent case before the ITAT Mumbai, the Income Tax Department carried out searches at a woman's residence and bank lockers, and seized diamonds, gold and silver articles, along with jewellery, which it treated as unexplained assets. The seized items included gold jewellery of 427.71 grams, 258 grams of pure gold, ",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/how-much-gold-and-silver-can-you-keep-at-home-without-tax-trouble-500g-for-married-women-250g-for-unmarried-women-and-100g-for-men-and-why-they-are-not-tax-free-limits/articleshow/134987512.cms",
-      "image": "https://static.toiimg.com/photo/msid-134988362,imgsize-421487.cms",
-      "publishedAt": "2026-10-16T13:30:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ii17a5",
-      "title": "Michigan court upholds solar deals covering 563 acres in $330m project",
-      "summary": "",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2020-members-of-a-michigan-farming-family-signed-solar-option-agreements-covering-562-8-acres-a-judge-has-now-ruled-them-valid-keeping-nearly-30-of-a-proposed-330-million-solar-project-in-play/articleshow/134995018.cms",
-      "image": "https://static.toiimg.com/photo/msid-134995203,imgsize-853610.cms",
-      "publishedAt": "2026-10-16T13:30:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mv7fjr",
-      "title": "Food Body Issues Notice To Radisson Blu Delhi Operator Over Hygiene Lapses",
-      "summary": "According to the FSSAI, poor maintenance of premises and equipment was observed, including rusted machinery, freezer leakage, and deficiencies in refrigeration, temperature monitoring, ventilation, flooring and lighting.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/food-body-issues-notice-to-radisson-blu-delhi-operator-over-hygiene-lapses-12194773#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-08/j7ghk628_chefs-hotel-generic-ai-image_625x300_08_August_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T13:28:50.000Z",
-      "sample": false
-    },
-    {
-      "id": "1w2794",
-      "title": "'We The Chhotu': Congress Wing's Reaction To Neha Bora's Centrality At Rahul Gandhi Events",
-      "summary": "NSUI member renamed the Congress wing's official WhatsApp group to 'WE THE Chhotu' for three days, 'chhotu' denoting 'errand-runner'; others spoke of \"too much prominence\" for AISA chief Neha Bora too. Resentment dissipated after meeting with Rahul Gandhi.",
-      "category": "technology",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/we-the-chhotu-congress-student-wings-reaction-to-neha-boras-centrality-at-rahul-gandhi-events-12195631#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/d07cr37s_neha-bora-rahul-gandhi-nsui_625x300_16_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T13:27:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "4famqe",
-      "title": "MHA seeks reports from Punjab govt on killings, suicide linked to anti-drug efforts",
-      "summary": "The Ministry of Home Affairs has called for detailed reports from Punjab's authorities concerning two violent occurrences linked to the fight against drugs. The first incident, the murder of anti-drug activist Parwinder Singh in Mansa, ignited widespread protests. Meanwhile, an assault on Bikramjit Singh in Gurdaspur r",
-      "category": "society",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/india/mha-seeks-reports-from-punjab-governments-on-killings-suicide-linked-to-anti-drug-efforts/articleshow/134995818.cms",
-      "image": "https://static.toiimg.com/photo/msid-134996498,imgsize-63190.cms",
-      "publishedAt": "2026-10-16T13:25:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "gmltik",
-      "title": "Zelensky Was Asked 'Is Trump Scapegoating You?' What He Replied",
-      "summary": "The question came after Trump said he found it easier to deal with Russian President Vladimir Putin than Zelensky as ties have soured with Kyiv.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/world-news/zelensky-was-asked-is-trump-scapegoating-you-what-he-replied-12195644#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/3siud3no_zelensky_625x300_16_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T13:14:54.000Z",
-      "sample": false
-    },
-    {
-      "id": "eychpc",
-      "title": "BlackRock CEO warns US could face recession if data center ban is imposed",
-      "summary": "Larry Fink highlighted the risks of a recession due to a halt in data center construction during a CNBC interview. He emphasized that investments in AI infrastructure are crucial for the economy's growth and job creation. Communities opposing data centers are raising concerns ahead of the midterm elections regarding en",
-      "category": "military",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/blackrock-ceo-larry-fink-warns-americans-of-recession-if-there-is-a-moratorium-on-data-centres-as-their-construction-heats-up-upcoming-mid-term-elections/articleshow/134996246.cms",
-      "image": "https://static.toiimg.com/photo/msid-134996284,imgsize-61662.cms",
-      "publishedAt": "2026-10-16T13:13:23.000Z",
-      "sample": false
-    },
-    {
-      "id": "r15ryo",
-      "title": "Murder Plot Exposed By Unfanged Snake, UP Couple Gets Death Sentence",
-      "summary": "The couple has been sentenced to death by a family in Uttar Pradesh's Meerut.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/snake-was-up-couples-murder-alibi-until-cops-found-it-had-been-defanged-12194906#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/58iqs59c_acc_625x300_16_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T13:06:26.000Z",
-      "sample": false
-    },
-    {
-      "id": "xigbsp",
-      "title": "A Russian Officer Helped Ukraine Kill 300 Soldiers, Then Escaped To Kyiv: Report",
-      "summary": "Lt. Lev Stupnikov used his position in the Russian army to share sensitive military information with Ukrainian intelligence. His role gave him access to troop movements, battle plans and feeds from reconnaissance drones and surveillance cameras.",
-      "category": "military",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/world-news/a-russian-officer-helped-ukraine-kill-300-soldiers-then-escaped-to-kyiv-report-12195555#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/sftk81io_lev-stupnikov_625x300_16_October_26.jpeg",
-      "publishedAt": "2026-10-16T13:01:31.000Z",
-      "sample": false
-    },
-    {
-      "id": "rpijos",
-      "title": "A Step Behind Neha Bora: What Rahul Gandhi's Gesture Says About Congress' Gen-Z Pitch",
-      "summary": "At INDIA bloc's march to Supreme Court, Rahul Gandhi placed himself a step behind two women, hands resting on their shoulders. One was his sister Priyanka. The one on his right was Neha Bora. Here's what the image means for the protest wave now, and for Rahul's politics in general.",
-      "category": "society",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/rahul-gandhi-neha-bora-and-the-second-row-how-the-congress-is-learning-to-walk-with-the-gen-z-protests-12185290#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/k5ljap0s_neha-rahul-priyanka_625x300_14_October_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T12:58:42.000Z",
-      "sample": false
-    },
-    {
-      "id": "t3fb03",
-      "title": "Under Fire Over Activist's Murder, Bhagwant Mann Calls For 'People Against Drugs'",
-      "summary": "\"A people's movement has to be built against drugs. This is not the job of the police alone,\" Bhagwant Mann said, adding that drug users should be treated as patients.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/at-fag-end-of-tenure-mann-calls-for-peoples-movement-against-drugs-amid-political-storm-over-jhotas-killing-12194691#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-09/8v14v1tg_bhagwant-mann_625x300_19_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T12:57:31.000Z",
-      "sample": false
-    },
-    {
-      "id": "pgknx6",
-      "title": "Michigan woman’s survivorship deed upheld over daughter’s challenge",
-      "summary": "A Michigan appeals court has confirmed the validity of a survivorship deed that granted ownership of a house to Jessica Rae Harless. The ruling asserts that Shirley Ann Page's 2012 deed established a joint tenancy with rights of survivorship. Despite Anita Lanctot's challenge regarding the absence of the term 'joint' i",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2012-a-michigan-woman-put-her-troy-home-in-her-name-and-that-of-a-woman-who-regarded-her-as-a-grandmother-14-years-later-an-appeals-court-upheld-the-survivorship-deed-over-her-daughters-challenge/articleshow/134993244.cms",
-      "image": "https://static.toiimg.com/photo/msid-134995883,imgsize-1679145.cms",
-      "publishedAt": "2026-10-16T12:55:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "7oi3p6",
-      "title": "'In Bad Taste': Madras High Court Slams Use Of Children In Vijay's Poll Campaign",
-      "summary": "Justice D Bharatha Chakravarthy made the observations while allowing an application by TVK MLA K Sivakumar seeking rejection of an election petition challenging his victory from the Salem North Assembly constituency.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/in-bad-taste-madras-high-court-slams-use-of-children-in-vijays-poll-campaign-12195488#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/6eossgho_cm-vijay-pti_625x300_15_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T12:53:18.000Z",
-      "sample": false
-    },
-    {
-      "id": "f50n43",
-      "title": "Hundreds Of Flights Cancelled, Delayed In Italy Due To Data Network Failure",
-      "summary": "Air traffic authority ENAV said it introduced temporary restrictions on air traffic capacity after detecting anomalies overnight on the data transmission network supporting air traffic control services nationwide.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/world-news/hundreds-of-flights-cancelled-delayed-in-italy-due-to-data-network-failure-12195466#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-03/3l73il6s_plane-landing-generic_625x300_26_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T12:47:32.000Z",
-      "sample": false
-    },
-    {
-      "id": "wne29f",
-      "title": "Kelce brothers’ Stoney Clover Lane deal: What’s changing for New Heights merch?",
-      "summary": "Jason and Travis Kelce have partnered with Stoney Clover Lane to launch a New Heights-inspired collection featuring clear stadium bags, a fanny pack, pouches and custom patches. The accessories celebrate the brothers' podcast and its 92 percenters fanbase while combining practical designs with playful details. Availabl",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/jason-and-travis-kelce-team-up-with-33-5-million-stoney-clover-lane-as-new-heights-merchandise-gets-a-makeover/articleshow/134982932.cms",
-      "image": "https://static.toiimg.com/photo/msid-134982936,imgsize-57028.cms",
-      "publishedAt": "2026-10-16T12:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "culsyg",
-      "title": "Anti-Indian stickers with ‘Remigration now' message sparks row in Australia",
-      "summary": "",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/anti-indian-stickers-with-remigration-now-message-found-on-australian-food-products-sparks-row/articleshow/134994723.cms",
-      "image": "https://static.toiimg.com/photo/msid-134994987,imgsize-108127.cms",
-      "publishedAt": "2026-10-16T12:30:37.000Z",
-      "sample": false
-    },
-    {
-      "id": "nrkw9v",
-      "title": "Caitlin Clark's family: How her parents and siblings shaped her WNBA journey",
-      "summary": "Caitlin Clark’s road to WNBA stardom was paved by a family that supported her basketball dreams early on; and her father, Brent Clark, taught her the basics and her mother, Anne Clark, gave her emotional support, and her brothers, Blake and Colin, added a competitive element to her upbringing, helping to shape the dete",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/sports/international-sports/caitlin-clarks-family-how-parents-brent-and-anne-clark-and-siblings-blake-and-colin-supported-her-basketball-journey-from-childhood-to-wnba-stardom-through-guidance-discipline-and-competition/articleshow/134965370.cms",
-      "image": "https://static.toiimg.com/photo/msid-134965641,imgsize-568823.cms",
-      "publishedAt": "2026-10-16T12:30:00.000Z",
       "sample": false
     },
     {
@@ -599,58 +676,14 @@
       "sample": false
     },
     {
-      "id": "o8meia",
-      "title": "'Jantar Mantar Chalo', A Video Game That Lets You Join A Protest From Home",
-      "summary": "The game, titled Jantar Mantar Chalo, was developed by 27-year-old Suraj Kushwah, an IT professional based in Bareilly, Uttar Pradesh.",
-      "category": "society",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/jantar-mantar-chalo-a-video-game-that-lets-you-join-a-protest-from-home-12195228#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/bvv48e4k_jantar-mantar_625x300_16_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T12:11:35.000Z",
-      "sample": false
-    },
-    {
-      "id": "yjuqku",
-      "title": "Anti-India Slogans Raised After 'Beef Khichdi' Served Near Dhaka Temple",
-      "summary": "A group of Islamic history students has now announced plans to slaughter cows on the campus today, coinciding with Durga Puja.",
-      "category": "politics",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/india-news/anti-india-slogans-raised-after-beef-khichdi-served-near-dhaka-temple-12195162#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/s7qb7d0s_dhaka_625x300_16_October_26.jpeg",
-      "publishedAt": "2026-10-16T11:57:36.000Z",
-      "sample": false
-    },
-    {
-      "id": "2ixxu5",
-      "title": "'Never Intended To Practice Law': Trump Press Secretary Says Failed Bar Exam",
-      "summary": "The 41-year-old graduated from Pepperdine University's law school in 2011, but obtaining a law degree does not automatically qualify someone to practice law.",
-      "category": "society",
-      "source": "ndtv",
-      "url": "https://www.ndtv.com/world-news/never-intended-to-practice-law-trump-press-secretary-says-failed-bar-exam-12195156#publisher=newsstand",
-      "image": "https://c.ndtvimg.com/2026-10/cmbq4ca8_katie_625x300_10_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-16T11:56:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "skmwt8",
-      "title": "'I am alone, broke no law': Dipke argues with Delhi cops as they detain him - watch",
-      "summary": "Dipke, earlier today, had defended the party's protests, asserting that peaceful demonstrations were a democratic right. He accused the government of restricting citizens' freedoms and disrupting business activities through shutdowns, Internet suspensions and movement restrictions. \"I'm alone, what law did I break,\" Di",
-      "category": "society",
+      "id": "cclqye",
+      "title": "Rs 10,000 crore for small businesses: Who can benefit from India's new SME Growth Fund?",
+      "summary": "The Union Cabinet has greenlit a substantial Rs 10,000-crore SME Growth Fund dedicated to bolstering small and medium enterprises. This initiative focuses on equity investments in growth-driven manufacturing businesses that demonstrate strong viability and scalability. While the fund's launch is promising, the specific",
+      "category": "health",
       "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/india/i-am-alone-cjps-dipke-argues-with-cops-during-detention-ahead-of-tiranga-march-watch/articleshow/134993030.cms",
-      "image": "https://static.toiimg.com/photo/msid-134993455,imgsize-60528.cms",
-      "publishedAt": "2026-10-16T11:37:37.000Z",
-      "sample": false
-    },
-    {
-      "id": "nm6194",
-      "title": "Texas woman turned homemade soda into Poppi; PepsiCo later bought it for $1.95bn",
-      "summary": "Allison Ellsworth began making homemade soda in her Texas kitchen to address her digestive concerns before selling it at farmers’ markets. After appearing on Shark Tank and building Poppi through social media, her business grew to over $500 million in annual revenue. In 2025, PepsiCo acquired the prebiotic soda brand f",
-      "category": "economy",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/world/us/allison-ellsworth-began-mixing-a-homemade-soda-in-her-texas-kitchen-then-took-it-from-farmers-markets-to-shark-tank-10-years-later-pepsico-acquired-poppi-in-a-1-95-billion-deal/articleshow/134986284.cms",
-      "image": "https://static.toiimg.com/photo/msid-134987102,imgsize-102081.cms",
-      "publishedAt": "2026-10-16T09:25:00.000Z",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/rs-10000-crore-for-small-businesses-who-can-benefit-from-indias-new-sme-growth-fund/articleshow/134990584.cms",
+      "image": "https://static.toiimg.com/photo/msid-134990854,imgsize-180630.cms",
+      "publishedAt": "2026-10-16T10:14:52.000Z",
       "sample": false
     },
     {
@@ -674,17 +707,6 @@
       "image": "https://static.toiimg.com/photo/msid-134987068,imgsize-65940.cms",
       "publishedAt": "2026-10-16T07:55:58.000Z",
       "sample": false
-    },
-    {
-      "id": "6ij465",
-      "title": "A slice of Andhra in US: Texas emerges as a hub for grand Telugu weddings",
-      "summary": "Telugu families in the US no longer need to travel to India for a traditional wedding. Texas, especially Austin, Frisco and Dallas, is emerging as a top destination, thanks to a booming ecosystem of purohits, caterers, planners, photographers and sprawling NRI-owned venues. From turmeric roots to betel leaves, every ri",
-      "category": "politics",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/city/vijayawada/telugu-weddings-flourish-in-texas-as-nris-recreate-traditions-in-us/articleshow/134975541.cms",
-      "image": "https://static.toiimg.com/photo/msid-134989137,imgsize-660200.cms",
-      "publishedAt": "2026-10-15T19:04:15.000Z",
-      "sample": false
     }
   ],
   "weekly": [
@@ -697,17 +719,6 @@
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/down-the-rabbit-hole-in-claude-we-trust-can-god-save-frontier-models/articleshow/134970183.cms",
       "image": "https://static.toiimg.com/photo/msid-134970306,imgsize-506341.cms",
       "publishedAt": "2026-10-15T14:54:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "oz12r7",
-      "title": "Tyler Perry turned 330-acre former Army base into major Atlanta film studio",
-      "summary": "In 2015, Tyler Perry acquired the former Fort McPherson Army base in Atlanta for $30 million, and transformed it into a major production hub featuring 12 sound stages. This initiative not only aims to create new jobs but also emphasizes the importance of preserving historical structures while meeting the evolving deman",
-      "category": "military",
-      "source": "times-of-india",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2015-tyler-perry-acquired-330-acres-of-atlantas-former-fort-mcpherson-army-base-11-years-later-the-site-has-12-sound-stages-40-historic-buildings-and-200-acres-of-green-space/articleshow/134941441.cms",
-      "image": "https://static.toiimg.com/photo/msid-134943089,imgsize-2001421.cms",
-      "publishedAt": "2026-10-14T12:39:27.000Z",
       "sample": false
     }
   ],
