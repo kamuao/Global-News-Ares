@@ -2,8 +2,19 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-10-16T11:03:44.237Z",
+  "updatedAt": "2026-10-16T16:22:52.357Z",
   "daily": [
+    {
+      "id": "ig9xhf",
+      "title": "【第2報】当社グループ管理サーバーへの不正アクセスおよび情報漏えいの可能性に関するご報告",
+      "summary": "株式会社ジャパンタイムズおよび株式会社ニューズ・ツー・ユーホールディングス（東京都千代田区、以下「当社グループ」）は、株式会社ジャパンタイムズが2026年10月2日にお知らせいたしました当社グループ管理サーバーへの不正アクセスの件につきまして、外部専門機関と連携して実施しております調査およびモニタリングの経過について、以下の通りご報告いたします。",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/press/2026/10/16/notice-ransomware-incident-second-report-jp/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/569021.pdf",
+      "publishedAt": "2026-10-16T12:30:00.000Z",
+      "sample": false
+    },
     {
       "id": "c1eln",
       "title": "ADB chief warns of high inflation in Asia amid uncertainty",
@@ -321,17 +332,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/10/16/japan/china-carrier-pacific-japan-koizumi-defense/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568876.jpg",
       "publishedAt": "2026-10-16T02:53:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "cxhd7n",
-      "title": "Japan’s national security strategy could be up for a major overhaul",
-      "summary": "All eyes are on how Tokyo will upgrade its three key security documents by the end of the year.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/16/japan/politics/japan-three-security-documents/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568855.jpg",
-      "publishedAt": "2026-10-16T02:52:00.000Z",
       "sample": false
     }
   ],

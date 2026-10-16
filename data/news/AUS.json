@@ -2,8 +2,41 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-10-16T11:03:45.761Z",
+  "updatedAt": "2026-10-16T16:22:53.895Z",
   "daily": [
+    {
+      "id": "n8g0ko",
+      "title": "Violent clashes involving slingshots during West Bank olive harvest",
+      "summary": "Israeli settlers have attacked Palestinians and journalists in the occupied West Bank, using slingshots to hurl rocks from hilltops.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-17/violent-west-bank-clashes-during-olive-harvest/107278284",
+      "image": null,
+      "publishedAt": "2026-10-16T14:18:24.000Z",
+      "sample": false
+    },
+    {
+      "id": "nf3qed",
+      "title": "A rugby union player has died the day before championship competition begins",
+      "summary": "The identity of the player is not yet known, as team officials work to notify his family in South Africa.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-17/south-african-rugby-player-dies-day-before-game/107278364",
+      "image": null,
+      "publishedAt": "2026-10-16T13:53:47.000Z",
+      "sample": false
+    },
+    {
+      "id": "vzq1lu",
+      "title": "At least three killed by Russian drones in Ukraine which cut power to 370,000",
+      "summary": "At least three people were killed by Russian drones in Ukraine overnight, the strikes also hit two shopping centres and key energy grid infrastructure.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-16/three-killed-by-russian-drones-in-ukraine/107278218",
+      "image": null,
+      "publishedAt": "2026-10-16T12:55:31.000Z",
+      "sample": false
+    },
     {
       "id": "raywwh",
       "title": "Freshly unearthed abuse claim ahead of notorious paedophile's prison release",
@@ -83,8 +116,8 @@
     },
     {
       "id": "cvva8l",
-      "title": "Live: Jillaroos begins World Cup defence with 40-0 win over Samoa",
-      "summary": "The all-conquering Jillaroos begin their women's Rugby League World Cup campaign against Samoa. Follow live.",
+      "title": "Jillaroos flex muscle in 40-point World Cup win over Samoa",
+      "summary": "Australia's quest for a fourth consecutive Women's Rugby League World Cup has started with a bang courtesy of a 40-0 victory over Fetu Samoa.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-10-16/rugby-league-world-cup-live-australia-vs-fetu-samoa/107260412",
@@ -244,39 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-10-16/act-man-return-country-child-abuse-material-denied-bail/107276254",
       "image": null,
       "publishedAt": "2026-10-16T05:50:20.000Z",
-      "sample": false
-    },
-    {
-      "id": "ngym3h",
-      "title": "Jury to deliberate landlord's cold case murder trial",
-      "summary": "Christopher Jarvis left for work in 2006 and was never seen again. Two decades later, his former landlord is on trial charged with his murder.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-16/christopher-jarvis-steven-johnson-cold-case-muder-warrnambool/107251076",
-      "image": null,
-      "publishedAt": "2026-10-16T05:47:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "ds9kmm",
-      "title": "Awlad Hossain denied bail in foreign bribery case surrounding wife's death",
-      "summary": "Awlad Hossain is accused of transferring $97k to Bangladeshi associates in a bid to have his name removed from a police investigation into the suspected murder of Rehana Parvin.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-16/qld-awlad-hossain-denied-bail/107276182",
-      "image": null,
-      "publishedAt": "2026-10-16T05:15:40.000Z",
-      "sample": false
-    },
-    {
-      "id": "g3cv5m",
-      "title": "Proposed Dalby data centre to harvest rainwater from roof",
-      "summary": "The international developer that has proposed Australia's largest data centre says it would be able to operate during even the worst droughts.",
-      "category": "environment",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-16/data-centre-water-usage-commitment-dalby-qld/107271160",
-      "image": null,
-      "publishedAt": "2026-10-16T04:50:12.000Z",
       "sample": false
     }
   ],

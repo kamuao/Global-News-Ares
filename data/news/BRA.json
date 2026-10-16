@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-16T11:03:45.279Z",
+  "updatedAt": "2026-10-16T16:22:53.462Z",
   "daily": [
+    {
+      "id": "gqqtjc",
+      "title": "Datafolha: Fl�vio Bolsonaro Has 51% and Lula 49% of Valid Votes, a Technical Tie",
+      "summary": "Ten days before the runoff, Fl�vio Bolsonaro (PL) has 51% of valid votes, compared with 49% for Lula (PT), according to Datafolha. The result is a technical tie, within the two-percentage-point margin of error. Last week, the senator had 52% and the PT candidate 48%. In total votes, Fl�vio has 47% and Lula 45%; previou",
+      "category": "military",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/datafolha-flavio-bolsonaro-has-51-and-lula-49-of-valid-votes-a-technical-tie.shtml",
+      "image": null,
+      "publishedAt": "2026-10-16T13:41:00.000Z",
+      "sample": false
+    },
     {
       "id": "llp29p",
       "title": "Australia's BRE Pays $1 for Rare Earth Assets Worth $12 Million, and Brazilians Take Case to Court",
@@ -14,7 +25,9 @@
       "image": null,
       "publishedAt": "2026-10-15T22:06:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "ecppok",
       "title": "Brazilian Senate Approves Constitutional Amendment Ending 6x1 Work Schedule, Giving Lula a Victory 11 Days Before Election",
@@ -25,9 +38,7 @@
       "image": null,
       "publishedAt": "2026-10-15T15:35:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "q6dwb6",
       "title": "Wildfires Double in Amazonas in 2026, but Number Remains Below Historical Average",
@@ -114,17 +125,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/culture/2026/10/the-search-for-beauty-has-brought-me-great-happiness-says-photographer-mirella-ricciardi-who-inspired-sebastiao-salgado.shtml",
       "image": null,
       "publishedAt": "2026-10-13T15:19:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "c03738",
-      "title": "Supreme Court Justice Orders Eduardo Bolsonaro to Begin Serving Prison Sentence and Cancels Passports",
-      "summary": "Supreme Court Justice Alexandre de Moraes ordered former federal lawmaker Eduardo Bolsonaro to begin serving his four-year, two-month prison sentence under an initially semi-open regime for the crime of coercion.\nLeia mais (10/09/2026 - 12h45)",
-      "category": "society",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/supreme-court-justice-orders-eduardo-bolsonaro-to-begin-serving-prison-sentence-and-cancels-passports.shtml",
-      "image": null,
-      "publishedAt": "2026-10-09T15:45:00.000Z",
       "sample": false
     }
   ],
