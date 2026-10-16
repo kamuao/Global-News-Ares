@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-15T21:08:20.985Z",
+  "updatedAt": "2026-10-16T11:03:45.279Z",
   "daily": [
+    {
+      "id": "llp29p",
+      "title": "Australia's BRE Pays $1 for Rare Earth Assets Worth $12 Million, and Brazilians Take Case to Court",
+      "summary": "Australian mining company Brazilian Rare Earths (BRE) is facing a multimillion-dollar legal dispute with the former owners of rare earth mining rights in Bahia, in northeastern Brazil. They accuse the company of using a contractual clause to buy back, for one Australian dollar, 4 million shares that were worth R$61.6 m",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/10/australias-bre-pays-1-for-rare-earth-assets-worth-12-million-and-brazilians-take-case-to-court.shtml",
+      "image": null,
+      "publishedAt": "2026-10-15T22:06:00.000Z",
+      "sample": false
+    },
     {
       "id": "ecppok",
       "title": "Brazilian Senate Approves Constitutional Amendment Ending 6x1 Work Schedule, Giving Lula a Victory 11 Days Before Election",
@@ -14,7 +25,9 @@
       "image": null,
       "publishedAt": "2026-10-15T15:35:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "q6dwb6",
       "title": "Wildfires Double in Amazonas in 2026, but Number Remains Below Historical Average",
@@ -25,9 +38,7 @@
       "image": null,
       "publishedAt": "2026-10-14T22:50:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "x1vrr6",
       "title": "Meta AI Creates Campaign Material for Fl�vio Bolsonaro and Blocks Lula Content",

@@ -2,12 +2,155 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-15T21:08:17.975Z",
+  "updatedAt": "2026-10-16T11:03:41.245Z",
   "daily": [
+    {
+      "id": "cpm8jg",
+      "title": "How prepared is Kenya for an Ebola outbreak?",
+      "summary": "The first two confirmed Ebola cases in Kenya have raised urgent questions about the country's public health preparedness and border controls. But the health ministry says there is no need for panic.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/how-prepared-is-kenya-for-an-ebola-outbreak/a-79668144?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-16T10:41:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "gbf3it",
+      "title": "Italy cuts air traffic in half amid data transmission issue",
+      "summary": "Citing problems with the data transmission network, Italian authorities have drastically reduced the volume of flights in their airspace. The ENAV authority ruled out malicious activity and said flights remained safe.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/italy-cuts-air-traffic-in-half-amid-data-transmission-issue/a-79678133?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-16T10:37:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lwfbb4",
+      "title": "Germany, France agree on deal to support Europe's struggling car industry",
+      "summary": "The two countries said the agreement aimed to safeguard Europe's automotive industry, encouraging development and research. Car makers in Europe have so far struggled to compete with Chinese electric car companies.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-france-agree-on-deal-to-support-europe-s-struggling-car-industry/a-79678595?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-16T10:32:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "dcx28i",
+      "title": "Clashes erupt at Argentine student protests against President Milei's austerity policies",
+      "summary": "Demonstrators clashed with police as President Javier Milei's decision not to release funding for universities brought students and employees to the streets. Protesters say the country's future is at stake.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/clashes-erupt-at-argentine-student-protests-against-president-milei-s-austerity-policies/a-79676861?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-16T09:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "k60cqk",
+      "title": "Who was Eva Mamlok? Berlin square renamed after Jewish anti-fascist resistance fighter",
+      "summary": "She started taking action against Hitler as a teenager and never stopped until her death in a concentration camp. Berlin's Blücherplatz is now being renamed after her.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/who-was-eva-mamlok-berlin-square-renamed-after-jewish-anti-fascist-resistance-fighter/a-79668919?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-16T09:16:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "n4ngq3",
+      "title": "Europe promotes sovereign, trusted AI as it struggles to catch US and China",
+      "summary": "At an international AI summit in Dublin, European leaders promoted trusted and independent AI. Critics question whether the EU can close the gap with the US and China while maintaining strict regulation.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/europe-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-16T09:07:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "uw5un7",
+      "title": "Formula 1 in Rwanda: Sportswashing claims vs. hopes for African legacy",
+      "summary": "Formula 1 will return to Africa for the first time since 1993. There is concern Rwanda are using it as another sportswashing opportunity, but there is also hope the event's legacy can impact wider African society.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/formula-1-in-rwanda-sportswashing-claims-vs-hopes-for-african-legacy/a-79650744?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-16T08:37:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "msbwbi",
+      "title": "California wildfires force evacuations near Malibu",
+      "summary": "A fast-moving fire near Malibu has forced evacuations. Stronger overnight winds threaten to spread the flames further.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/california-wildfires-force-evacuations-near-malibu/a-79676355?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-16T08:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1u7bcp",
+      "title": "Wildfire kills 4 firefighters in Indonesia's Mount Bromo national park",
+      "summary": "The latest victims of Indonesia's wildfires were trapped by thick smoke and fast-spreading flames, authorities said. Meanwhile, the toxic haze from the fires has spread to Indonesia's neighbors.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/wildfire-kills-4-firefighters-in-indonesia-s-mount-bromo-national-park/a-79676291?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-16T08:11:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "wletlp",
+      "title": "India's 'Cockroaches' to march again after protest crackdown",
+      "summary": "The Cockroach Janta Party has called on people to gather at New Delhi's central business district to wave the Indian national flag as it asserts a right to protest. DW has more.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-s-cockroaches-to-march-again-after-protest-crackdown/live-79675849?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-16T06:04:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "depfry",
+      "title": "Starlink: How Elon Musk's company influences geopolitics",
+      "summary": "Designed to bring internet access to remote regions, Elon Musk's Starlink has become vital in crisis regions and war zones. But Ukraine also shows the risks of depending on the service.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-16T05:51:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6fr76",
+      "title": "Carney implies US trying to 'break' Canada amid vote for Alberta independence referendum",
+      "summary": "The oil-rich province of Alberta will vote to decide if it wants to remain a Canadian province or start the legal process toward separation.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/carney-implies-us-trying-to-break-canada-amid-vote-for-alberta-independence-referendum/a-79675652?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-16T04:24:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "b7675a",
+      "title": "Oregon school shooting: Gunman kills 3 students and teacher before being shot dead by community member",
+      "summary": "A 16-year-old gunman opened fire at an elementary school in Bend, Oregon, killing three children and a teacher. Two others were wounded. A community member pursued and killed the suspected shooter, authorities said.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/oregon-school-shooting-gunman-kills-3-students-and-teacher-before-being-shot-dead-by-community-member/a-79674849?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-15T21:59:00.000Z",
+      "sample": false
+    },
     {
       "id": "gm7s0a",
       "title": "Bus, train collide, injuring 19 at Channel Tunnel terminal",
-      "summary": "A minibus carrying truck drivers collided with a freight train near the Channel Tunnel entrance in France, injuring 19 people, with five severely hurt. Emergency services rushed to the scene.",
+      "summary": "A minibus carrying truck drivers collided with a freight train near the Channel Tunnel entrance in France, injuring 19 people, two of them severely. Authorities launched an inquiry into what caused the accident.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-xml-mrss",
@@ -82,28 +225,6 @@
       "sample": false
     },
     {
-      "id": "gz1oxz",
-      "title": "Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'",
-      "summary": "Volodymyr Zelenskyy has said Ukraine will again attack Russian energy sites, as Moscow has ignored a claim by US President Trump that an \"energy ceasefire\" had been agreed. Russia reported two attacks on refineries.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-15T14:51:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bqah2g",
-      "title": "Can Kenya preserve the democratic space Raila Odinga fought for?",
-      "summary": "One year after the former prime minister's death, Kenyans are reflecting on his contribution to democracy and national reconciliation. Odinga's \"handshakes\" with his political rivals remain the subject of much debate.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/can-kenya-preserve-the-democratic-space-raila-odinga-fought-for/a-79668443?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-15T14:46:00.000Z",
-      "sample": false
-    },
-    {
       "id": "usaifg",
       "title": "EU summit to focus on China, Ukraine and bloc budget",
       "summary": "EU leaders meeting in Brussels will examine measures to curb the bloc's huge trade deficit with China. But they will also be looking to further agreement on the next EU budget ahead of some major elections next year.",
@@ -137,17 +258,6 @@
       "sample": false
     },
     {
-      "id": "khyzy0",
-      "title": "Hamburg court jails 2 men over plot to attack Jewish leaders on behalf of Iran",
-      "summary": "The men were found guilty of espionage and attempted murder. According to the court, they planned to attack the president of the Central Council of Jews in Germany and president of the German-Israeli society.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/hamburg-court-jails-2-men-over-plot-to-attack-jewish-leaders-on-behalf-of-iran/a-79667895?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-15T13:49:00.000Z",
-      "sample": false
-    },
-    {
       "id": "r3cci8",
       "title": "AI-assisted dying? Doris Dörrie's new film addresses prospect of care robots",
       "summary": "While the world debates the dangers of artificial intelligence, filmmaker Doris Dörrie explores how humanoid robots could change the way we deal with aging, caregiving and how people choose to die.",
@@ -157,29 +267,9 @@
       "image": null,
       "publishedAt": "2026-10-15T13:24:00.000Z",
       "sample": false
-    },
-    {
-      "id": "depfry",
-      "title": "Starlink: How Elon Musk's company influences geopolitics",
-      "summary": "Designed to bring internet access to remote regions, Elon Musk's Starlink has become vital in crisis regions and war zones. But Ukraine also shows the risks of depending on the service.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-15T12:59:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "qj760y",
-      "title": "Hypersonic missiles highlight arms race on Korean Peninsula",
-      "summary": "Both South and North Korea have tested weapons feared by military planners for their speed and ability to maneuver in flight.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/hypersonic-missiles-highlight-arms-race-on-korean-peninsula/a-79667084?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-15T12:02:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "9e0cze",
       "title": "Thousands of German gamblers could sue for their money back",
@@ -192,20 +282,9 @@
       "sample": false
     },
     {
-      "id": "eqiv45",
-      "title": "School roof collapse in Pakistan's Peshawar kills dozens of students and one teacher",
-      "summary": "Local authorities said more than 50 other people were injured in the disaster. Roof collapses have become increasingly common in Pakistan.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-dozens-of-students-and-one-teacher/a-79666091?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-15T10:20:00.000Z",
-      "sample": false
-    },
-    {
       "id": "8f113u",
       "title": "Germany news: Train station alcohol ban comes into force",
-      "summary": "Consuming alcohol is no longer permitted at train stations in Germany, to improve the lot of travelers and staff alike. Coalition talks are restarting in Berlin, and an inmate is loose in Essen. Follow DW for more.",
+      "summary": "Consuming alcohol is no longer permitted at train stations in Germany, to improve the lot of travelers and staff alike. Coalition talks are restarting in Berlin, and an inmate is loose in Essen.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/germany-news-train-station-alcohol-ban-comes-into-force/live-79666807?maca=en-rss-en-all-1573-xml-mrss",
@@ -245,9 +324,7 @@
       "image": null,
       "publishedAt": "2026-10-15T08:13:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "g0czwu",
       "title": "Nord Stream trial opens in Germany, defense seeks dismissal",
@@ -653,28 +730,6 @@
       "url": "https://www.dw.com/en/world-cup-2034-does-saudi-arabia-shelving-neom-stadium-spell-trouble/a-79592948?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-09T11:43:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "z1dydi",
-      "title": "Bosnia-Herzegovina will soon have a new grand mufti",
-      "summary": "The new leader of the Islamic Community in Bosnia-Herzegovina will be elected on October 10. The reis-ul-ulema's role is not only important for Muslims in the country itself, but could inspire Muslims across Europe.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/bosnia-herzegovina-will-soon-have-a-new-grand-mufti/a-79604402?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-09T08:20:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8rk8hw",
-      "title": "Finland, the world's happiest nation, faces a glum winter",
-      "summary": "Finns have many reasons to feel content, but the country's pile of debt is not one of them. Russia's war in Ukraine has added to the fiscal burden. Can the Nordic nation absorb another shock?",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/finland-the-world-s-happiest-nation-faces-a-glum-winter/a-79544348?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-09T08:12:00.000Z",
       "sample": false
     }
   ],
