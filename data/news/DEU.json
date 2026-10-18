@@ -2,8 +2,30 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-17T22:24:44.195Z",
+  "updatedAt": "2026-10-18T03:53:29.033Z",
   "daily": [
+    {
+      "id": "1zd3ji",
+      "title": "Canada: Major fire reported at military base in Alberta",
+      "summary": "Canadian Prime Minister Mark Carney has said a \"serious incident\" sparked a major fire at a military base in Alberta. He did not provide details on the cause of the fire.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-18T02:08:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "8te1co",
+      "title": "'No Kings' rallies push early voting ahead of US midterm elections",
+      "summary": "Organizers of the \"No Kings\" protests, known for their anti-Trump sentiment, are urging Americans to vote early in the November 3 midterm elections, as Republicans face tough races to retain control of Congress.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-18T00:51:00.000Z",
+      "sample": false
+    },
     {
       "id": "5jx5cw",
       "title": "Ilhan Omar: The US Democrat targeted by Donald Trump",
@@ -84,7 +106,7 @@
     {
       "id": "ih7if9",
       "title": "India news: CJP founder released a day after detention",
-      "summary": "India's \"Cockroach\" movement founder, Abhijeet Dipke, was released after agreeing to certain conditions, according to the CJP's head of legal affairs. DW has more.",
+      "summary": "India's \"Cockroach\" movement founder, Abhijeet Dipke, was released after agreeing to certain conditions, according to the CJP's head of legal affairs.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/india-news-cjp-founder-released-a-day-after-detention/live-79685143?maca=en-rss-en-all-1573-xml-mrss",
@@ -128,7 +150,7 @@
     {
       "id": "2up1ga",
       "title": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
-      "summary": "Unrest broke out in parts of France as students, trade unionists and Yellow Vest activists took to the streets to protest high prices and inequality. Police arrested hundreds amid chaotic scenes in French cities.",
+      "summary": "Unrest broke out in parts of France as students, trade unionists and Yellow Vest activists took to the streets to protest high prices and inequality. Police arrested over 1,000 people amid chaotic scenes.",
       "category": "economy",
       "source": "dw",
       "url": "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-all-1573-xml-mrss",
@@ -157,7 +179,9 @@
       "image": null,
       "publishedAt": "2026-10-17T06:04:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "5egfgn",
       "title": "Trump puts new Russia sanctions on hold",
@@ -179,9 +203,7 @@
       "image": null,
       "publishedAt": "2026-10-16T22:30:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "yqvhrr",
       "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
@@ -202,17 +224,6 @@
       "url": "https://www.dw.com/en/west-bank-us-journalist-injured-by-israeli-settlers/a-79684181?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-16T19:32:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ltx522",
-      "title": "White House press secretary Zacharia exiting role after short tenure",
-      "summary": "Zacharia, having served only five days in the role, is now the shortest-serving press secretary in White House history. Her departure follows a rocky debut at the podium and controversy surrounding her background.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/white-house-press-secretary-zacharia-exiting-role-after-short-tenure/a-79684341?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-16T19:05:00.000Z",
       "sample": false
     },
     {

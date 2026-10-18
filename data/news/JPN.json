@@ -2,8 +2,206 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-10-17T22:24:47.093Z",
+  "updatedAt": "2026-10-18T03:53:31.789Z",
   "daily": [
+    {
+      "id": "ubb3ag",
+      "title": "Russia may seek prisoner swap after detaining Japanese journalist",
+      "summary": "Some say the detention of the reporter is linked to the handover to Germany this month of a Russian hacker detained in Japan in May.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/18/japan/crime-legal/russia-japan-prisoner-swap-speculation/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/17/thumbs/400x400/569030.jpg",
+      "publishedAt": "2026-10-18T02:27:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3rfvx6",
+      "title": "Takaichi to attend APEC in China if parliament allows",
+      "summary": "The APEC summit often serves as an opportunity for Japanese and Chinese leaders to meet, but questions remain amid a deep freeze in ties.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/18/japan/politics/takaichi-china-apec-parliament/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569079.jpg",
+      "publishedAt": "2026-10-18T01:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "9xyi6s",
+      "title": "All Toyota models to be software-based by 2030",
+      "summary": "The move will help Toyota generate revenue through software update fees after delivery.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/18/companies/toyota-software-defined-vehicles/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569076.jpg",
+      "publishedAt": "2026-10-18T01:41:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "29apvd",
+      "title": "Nidec to seek damages from founder and executives over accounting fraud",
+      "summary": "The motor manufacturer said it had concluded that the executives violated laws and regulations in the course of their duties.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/18/companies/nidec-legal-measures/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569073.jpg",
+      "publishedAt": "2026-10-18T01:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ckph3v",
+      "title": "Takaichi makes ritual offering to Yasukuni Shrine",
+      "summary": "The prime minister is expected to skip a visit to the Shinto shrine during the three-day festival, which runs through Monday.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/18/japan/politics/takaichi-yasukuni-shrine-offering/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/17/thumbs/400x400/569040.jpg",
+      "publishedAt": "2026-10-18T01:32:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "jthtu2",
+      "title": "Musk back in the spotlight, but politics dims the awe",
+      "summary": "Despite his success in various fields, Elon Musk's unrelenting commitment to right-wing politics has taken a toll on his public image.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/18/world/politics/elon-musk-spotlight-politics/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569077.jpg",
+      "publishedAt": "2026-10-18T01:27:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "tdc212",
+      "title": "In shadow of war, Israelis to decide if hard-right turn is permanent",
+      "summary": "The trauma of Oct. 7, 2023, remains raw across Israel.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/18/world/politics/israeli-election-war-right-shift/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569075.jpg",
+      "publishedAt": "2026-10-18T01:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3kqub",
+      "title": "Princess Aiko attends disaster prevention forum in Tottori",
+      "summary": "This marks Princess Aiko's first trip to Tottori and her second time attending the forum.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/18/japan/princess-aiko-disaster-prevention-forum/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569072.jpg",
+      "publishedAt": "2026-10-18T01:07:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "vkkycu",
+      "title": "Egypt’s Abdel-Fattah el-Sissi says his presidency will end in 2030",
+      "summary": "Egyptian President Abdel-Fattah el-Sissi's proposal gives the Egyptian Military Academy a central role in preparing future leaders.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/18/world/politics/el-sissi-egypt-president-2030/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569070.jpg",
+      "publishedAt": "2026-10-18T00:06:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rtonph",
+      "title": "U.S. interest costs hit record $1 trillion, risking debt snowball",
+      "summary": "For the year through September, net interest costs came to $1.05 trillion, up more than 8% from the $970 billion in fiscal 2025.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/18/economy/us-interest-costs-1-trillion/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569071.jpg",
+      "publishedAt": "2026-10-18T00:06:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lsffop",
+      "title": "Across U.S., ‘No Kings’ events seek to boost early voting",
+      "summary": "Rather than holding massive marches, the latest \"No Kings\" protests varied — with honking convoys, concerts and neighborhood gatherings.",
+      "category": "society",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/18/world/politics/us-no-kings-early-voting/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569067.jpg",
+      "publishedAt": "2026-10-18T00:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "chx5s4",
+      "title": "Saudi Arabia reports incoming fire as Egypt weighs sending help",
+      "summary": "Saudi Arabia has faced sustained Houthi missile and drone attacks targeting its oil installations, tankers and transit hubs.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/18/world/saudi-arabia-attack-egypt-help/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569068.jpg",
+      "publishedAt": "2026-10-18T00:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rxt91z",
+      "title": "At least 19 dead and 25 hurt in stampede at India religious gathering",
+      "summary": "Deadly crowd incidents are a frequent occurrence at Indian mass events, such as religious festivals, due to poor management and safety lapses.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/18/asia-pacific/stampede-india-religious-gathering/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569069.jpg",
+      "publishedAt": "2026-10-18T00:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "cuie3w",
+      "title": "Trump-Zelenskyy rift threatens vital support for Kyiv",
+      "summary": "The widening rift has sparked concerns that Trump and Zelenskyy's tumultuous relationship could lead to even worse outcomes for Kyiv.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/18/world/politics/trump-zelenskyy-ukraine-support-analysis/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569065.jpg",
+      "publishedAt": "2026-10-17T23:24:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6oxdn9",
+      "title": "Trump’s Russia sanctions waiver called mistake by GOP allies",
+      "summary": "At least eight Republican senators and several House lawmakers have spoken out against Trump's diesel deal with Russia or the sanctions waiver.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/18/world/politics/trump-russia-sanctions-republicans-mistake/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569064.jpg",
+      "publishedAt": "2026-10-17T23:23:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "vemiiz",
+      "title": "Mass protests in France spiral into worst riots in years",
+      "summary": "Demonstrations against rising living costs and declining public services spiraled out of control in some of the country's worst violence in decades.",
+      "category": "society",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/18/world/mass-protests-france-riots/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569063.jpg",
+      "publishedAt": "2026-10-17T23:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "o9844a",
+      "title": "Now is the time for Japan’s most flavorful shiitake",
+      "summary": "The most popular mushroom in the country reaches peak flavor in two periods — one of which is happening right now.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/life/2026/10/18/food-drink/shiitake-recipe-japanese-cuisine-mushrooms/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568326.jpg",
+      "publishedAt": "2026-10-17T23:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "tkiq28",
+      "title": "Kyoto exhibition finds Zen in the worlds of Studio Ghibli",
+      "summary": "Studio Ghibli co-founder and producer Toshio Suzuki invites visitors to consider what it means to live well at \"Zen and Ghibli.\"",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/culture/2026/10/18/art/zen-ghibli-exhibition-toshio-suzuki/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/17/thumbs/400x400/569059.jpg",
+      "publishedAt": "2026-10-17T23:00:00.000Z",
+      "sample": false
+    },
     {
       "id": "ns9pf6",
       "title": "‘Ozu showed the way’: A documentarian looks for the man behind the legend",
@@ -49,17 +247,6 @@
       "sample": false
     },
     {
-      "id": "65yqcm",
-      "title": "Takaichi makes ritual offering to Yasukuni Shrine",
-      "summary": "The prime minister is expected to skip a visit to the Shinto shrine during the three-day festival, which runs through Monday.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/17/japan/politics/takaichi-yasukuni-shrine-offering/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/17/thumbs/400x400/569040.jpg",
-      "publishedAt": "2026-10-17T06:06:00.000Z",
-      "sample": false
-    },
-    {
       "id": "7jbje9",
       "title": "BOJ’s Ueda ‘can’t tolerate’ underlying inflation further over 2%",
       "summary": "The BOJ governor was speaking two weeks ahead of the bank's next policy decision, with observers currently anticipating no change at that gathering.",
@@ -102,7 +289,9 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/17/thumbs/400x400/569035.jpg",
       "publishedAt": "2026-10-17T04:40:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "8gojzj",
       "title": "Russia is using an army of bots to push fake U.S. election videos",
@@ -145,195 +334,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/10/17/japan/politics/takaichi-makeup-chores/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/17/thumbs/400x400/569031.jpg",
       "publishedAt": "2026-10-17T02:03:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "hpmgmk",
-      "title": "U.S. holds more secret talks with Myanmar’s military-backed rulers in Tokyo, sources say",
-      "summary": "It was their second meeting in a month as Washington steps up reengagement with the generals it shunned after their 2021 coup.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/17/asia-pacific/politics/us-myanmar-secret-talks/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568955.jpg",
-      "publishedAt": "2026-10-17T01:51:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "yy7ynd",
-      "title": "Russia may seek prisoner swap after detaining Japanese journalist",
-      "summary": "Some say the detention of the reporter is linked to the handover to Germany this month of a Russian hacker detained in Japan in May.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/17/japan/crime-legal/russia-japan-prisoner-swap-speculation/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/17/thumbs/400x400/569030.jpg",
-      "publishedAt": "2026-10-17T01:41:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "ig9xhf",
-      "title": "【第2報】当社グループ管理サーバーへの不正アクセスおよび情報漏えいの可能性に関するご報告",
-      "summary": "株式会社ジャパンタイムズおよび株式会社ニューズ・ツー・ユーホールディングス（東京都千代田区、以下「当社グループ」）は、株式会社ジャパンタイムズが2026年10月2日にお知らせいたしました当社グループ管理サーバーへの不正アクセスの件につきまして、外部専門機関と連携して実施しております調査およびモニタリングの経過について、以下の通りご報告いたします。",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/press/2026/10/16/notice-ransomware-incident-second-report-jp/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/569021.pdf",
-      "publishedAt": "2026-10-16T12:30:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "c1eln",
-      "title": "ADB chief warns of high inflation in Asia amid uncertainty",
-      "summary": "\"The global economy is facing unprecedented uncertainty,\" said Masato Kanda, a former Japanese vice finance minister for international affairs.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/16/adb-chief-interview/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568973.jpg",
-      "publishedAt": "2026-10-16T09:17:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2awo5c",
-      "title": "Busan International Film Festival builds momentum as an ‘A-list’ festival",
-      "summary": "Iranian filmmaker Majid Majidi and Malaysian actor Michelle Yeoh were among the honorees in Busan, a showcase of Asian talent.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/culture/2026/10/16/film/31st-busan-international-film-festival-a-list/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/569003.jpg",
-      "publishedAt": "2026-10-16T09:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "kcsmwl",
-      "title": "Toyota to debut its own version of Tesla EV-making tech in China",
-      "summary": "The Shanghai plant is under construction and due to start producing cars in 2027.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/16/companies/toyota-electric-vehicle-china/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568999.jpg",
-      "publishedAt": "2026-10-16T09:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "6789mg",
-      "title": "Carney campaigns for Canadian unity before Alberta secession vote",
-      "summary": "Polling indicates less than a quarter of Alberta's roughly 5 million people want to break away from Canada.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/16/world/politics/carney-alberta-secession-vote/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568956.jpg",
-      "publishedAt": "2026-10-16T08:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "m9fk7u",
-      "title": "Modi’s predicament: Gen Z pours out on India’s streets as dissent surges",
-      "summary": "Despite tens of thousands of security personnel deployed, protesters scaled barricades, chanted anti-government slogans and scuffled with police.",
-      "category": "society",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/16/asia-pacific/politics/modi-youth-protests/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568918.jpg",
-      "publishedAt": "2026-10-16T08:17:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8y8myo",
-      "title": "Japan and India must prepare for the risks of China’s Medog dam",
-      "summary": "Infrastructure investment in the Himalayas must go hand in hand with regional water cooperation and disaster resilience.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/commentary/2026/10/16/japan/china-medog-dam-risks/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568776.jpg",
-      "publishedAt": "2026-10-16T07:56:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "7cruoj",
-      "title": "Rakuten sells record ¥400 billion of bonds on retail demand",
-      "summary": "The 5.5-year bonds carry a 4.37% coupon and were priced at a spread of 200 basis points over the benchmark 10-year Japanese government bond.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/16/companies/rakuten-yen-bond-sale/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568966.jpg",
-      "publishedAt": "2026-10-16T07:44:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "jg6u7k",
-      "title": "Yakuza member found not guilty in fatal shooting of Gyoza no Ohsho president",
-      "summary": "Yukio Tanaka was arrested in October 2022, nine years after Takayuki Ohigashi's killing.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/16/japan/crime-legal/ohsho-murder-ruling/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568976.jpg",
-      "publishedAt": "2026-10-16T07:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "a0coyi",
-      "title": "Power harassment and a possible casino weigh on Yokohama mayoral election",
-      "summary": "While Takeharu Yamanaka promised to change his behavior, he has also rekindled the question of, and his opposition to, a potential casino development.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/16/japan/politics/yokohama-mayoral-election-preview/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568977.jpg",
-      "publishedAt": "2026-10-16T07:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "t0tbtq",
-      "title": "Daniel Calvert, formerly of three-starred Sezanne, opens new restaurant",
-      "summary": "All eyes are on Daniel Calvert's latest venture after his stellar work at French restaurant Sezanne.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/life/2026/10/16/food-drink/chez-calvert-daniel-calvert-opening-michelin-tokyo-restaurant/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568960.jpg",
-      "publishedAt": "2026-10-16T07:02:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "9m74x3",
-      "title": "Mie Prefecture enacts Japan’s first ordinance penalizing customer harassment",
-      "summary": "According to the prefectural government, it is the first ordinance in Japan to impose penalties for customer harassment.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/16/japan/mie-customer-harassment-penalties/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568951.jpg",
-      "publishedAt": "2026-10-16T06:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "cg0p5y",
-      "title": "Shinkansen helps Kyushu economy with fast connections and local development",
-      "summary": "A major transportation bottleneck was eliminated more than a decade ago when the line was fully completed.",
-      "category": "economy",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/16/economy/nagata-ihra/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568957.jpg",
-      "publishedAt": "2026-10-16T06:33:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "52bp7s",
-      "title": "Nagoya court dismisses lawsuit filed on paper under digital civil litigation rules",
-      "summary": "The lawsuit was thrown out by the Nagoya District Court under rules requiring legal representatives to submit civil court documents online.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/16/japan/crime-legal/nagoya-lawsuit-filed-on-paper/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568875.jpg",
-      "publishedAt": "2026-10-16T06:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "nwxlrm",
-      "title": "Cabinet approves bill to allow remote access to devices used by criminal groups",
-      "summary": "Authorities are seeking to counter encrypted messaging and prevent fraud, robbery and other offenses.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/16/japan/crime-legal/police-remote-access-criminal-groups/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568907.jpg",
-      "publishedAt": "2026-10-16T06:16:00.000Z",
       "sample": false
     }
   ],
