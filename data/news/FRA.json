@@ -2,16 +2,192 @@
   "id": "FRA",
   "name": "France",
   "sample": false,
-  "updatedAt": "2026-10-18T15:38:45.606Z",
+  "updatedAt": "2026-10-18T20:22:34.995Z",
   "daily": [
     {
+      "id": "sp7bf7",
+      "title": "« Les gens sont énervés, il y a beaucoup de colère accumulée » : à Paris, le jour d’après, à l’heure de compter les plaies",
+      "summary": "Dans plusieurs quartiers, les stigmates des débordements des manifestations du 17 octobre sont visibles sur de nombreuses artères. Entre écœurement et compréhension, chacun tente de trouver un sens aux événements. En soirée, des affrontements sporadiques ont à nouveau eu lieu, autour de la place de la République.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/18/les-gens-sont-enerves-il-y-a-beaucoup-de-colere-accumulee-a-paris-le-jour-d-apres-a-l-heure-de-compter-les-plaies_6797232_3224.html",
+      "image": "https://img.lemde.fr/2026/10/18/104/0/1600/800/644/322/60/0/a2d5609_upload-1-8qmkaaa2jpoo-whatsapp-image-2026-10-18-at-14-32-09-2.jpeg",
+      "publishedAt": "2026-10-18T19:44:04.000Z",
+      "sample": false
+    },
+    {
+      "id": "j3q6xs",
+      "title": "Macron says 'nothing justifies' violence in protests during address to nation",
+      "summary": "French President Emmanuel Macron said that \"nothing justifies\" violence during an address to the nation on Sunday, a day after demonstrations drew hundreds of thousands of people to the streets to protest the rising cost of living and poor school conditions. Police arrested more than 2,300 people over the weekend after",
+      "category": "society",
+      "source": "france24",
+      "url": "https://www.france24.com/en/france/20261018-macron-says-nothing-justifies-violence-in-protests-during-address-to-nation",
+      "image": "https://s.france24.com/media/display/9cf2627e-cb21-11f1-a2c3-638c1c1f5fd6/w:1024/p:16x9/EN-20261018-195951-200843-CS.jpg",
+      "publishedAt": "2026-10-18T18:44:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "vmfveu",
+      "title": "Au Venezuela, la Prix Nobel de la paix Maria Corina Machado reconnue leader de l’opposition lors d’un « grand accord national »",
+      "summary": "Plusieurs représentants politiques ont accepté de « reconnaître et soutenir le leadership de Maria Corina Machado », en exil au Panama, selon un document publié à Caracas, près de dix mois après la capture de Nicolas Maduro par l’armée américaine.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/10/18/au-venezuela-la-prix-nobel-de-la-paix-maria-corina-machado-reconnue-leader-de-l-opposition-lors-d-un-grand-accord-national_6797230_3210.html",
+      "image": "https://img.lemde.fr/2026/09/27/719/0/5000/2500/644/322/60/0/627203d_ftp-1-469zgogoluip-2026-09-27t173910z-1447121452-rc2trnak0p6n-rtrmadp-3-venezuela-opposition-machado-protest.JPG",
+      "publishedAt": "2026-10-18T18:41:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "8yc31q",
+      "title": "Au lendemain des pillages, des commerçants désespérés face à « plusieurs centaines de millions d’euros » de dégâts",
+      "summary": "L’estimation, avancée par Alexandre Bompard, le président de la Fédération du commerce et de la distribution, n’est que provisoire. Une réunion est programmée à Bercy, le lundi 19 octobre, à 9 heures, avec les organisations représentant commerçants et restaurateurs qui demandent d’ores et déjà une accélération des mesu",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/18/au-lendemain-des-pillages-des-commercants-desesperes-face-a-plusieurs-centaines-de-millions-d-euros-de-degats_6797229_3234.html",
+      "image": "https://img.lemde.fr/2026/10/18/240/0/1600/800/644/322/60/0/2d708b4_upload-1-vmdemrdftwng-whatsapp-image-2026-10-18-at-13-15-36-5.jpeg",
+      "publishedAt": "2026-10-18T18:35:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "wpwpyh",
+      "title": "REPLAY: French President Emmanuel Macron addresses the nation after unrest",
+      "summary": "French President Emmanuel Macron on Sunday vowed there would be \"full transparency\" over the response by security forces to protests that turned violent this weekend, after criticism that police preparations had been inadequate.",
+      "category": "society",
+      "source": "france24",
+      "url": "https://www.france24.com/en/video/20261018-replay-french-president-emmanuel-macron-addresses-the-nation-after-unrest",
+      "image": "https://s.france24.com/media/display/9cf2627e-cb21-11f1-a2c3-638c1c1f5fd6/w:1024/p:16x9/EN-20261018-195951-200843-CS.jpg",
+      "publishedAt": "2026-10-18T18:33:34.000Z",
+      "sample": false
+    },
+    {
+      "id": "aevzrw",
+      "title": "French Riots: A Gift for Le Pen?",
+      "summary": "How much damage has the unrest in France caused to a protest movement rooted in genuine grievances but hijacked by rioters, violence and vandalism? Is it a gift to Marine Le Pen, the far-right leader and presidential frontrunner? Or is it a spectre of trouble to come in a deeply polarised society, amid an increasingly ",
+      "category": "society",
+      "source": "france24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261018-french-riots-a-gift-for-le-pen",
+      "image": "https://s.france24.com/media/display/95985c86-cb1c-11f1-9116-638c1c1f5fd6/w:1024/p:16x9/Untitled-Sequence-01-25.jpg",
+      "publishedAt": "2026-10-18T18:25:51.000Z",
+      "sample": false
+    },
+    {
+      "id": "aagy43",
+      "title": "Retransmission de l’exécution de Nidal Hasan : « Donald Trump a finalement renoncé à un projet dont la mise en scène risquait de se retourner contre lui »",
+      "summary": "Même si elle a été finalement abandonnée, la seule annonce de la diffusion en direct de la mise à mort de l’ancien militaire a provoqué une controverse autour de la mise en scène de la violence d’Etat, analyse le spécialiste des Etats-Unis Florian Leniaud, dans une tribune au « Monde ».",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/18/retransmission-de-l-execution-de-nidal-hasan-donald-trump-a-finalement-renonce-a-un-projet-dont-la-mise-en-scene-risquait-de-se-retourner-contre-lui_6797195_3232.html",
+      "image": "https://img.lemde.fr/2026/03/05/125/0/1500/750/644/322/60/0/d09a6fb_upload-1-ufawt3i05por-frame-1461.jpg",
+      "publishedAt": "2026-10-18T18:00:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "6mamft",
+      "title": "Trump says 'France is burning', country 'shattered' by immigration",
+      "summary": "US President Donald Trump on Sunday blamed immigration for unrest during protests in France and urged the country to tighten its migration rules. Washington bureau chief David Smith tells us more.",
+      "category": "society",
+      "source": "france24",
+      "url": "https://www.france24.com/en/video/20261018-trump-says-france-is-burning-country-shattered-by-immigration",
+      "image": "https://s.france24.com/media/display/abaac61a-cb0f-11f1-b6f8-638c1c1f5fd6/w:1024/p:16x9/EN-20261018-171331-171801-CS.jpg",
+      "publishedAt": "2026-10-18T16:54:55.000Z",
+      "sample": false
+    },
+    {
+      "id": "s1e8x7",
+      "title": "Renewed clashes in Paris: \"We've seen numerous CRS charges to disperse protesters\"",
+      "summary": "Fresh clashes broke out in Paris on Sunday, a day after France experienced one of its worst bouts of unrest in years. Protests over high prices left one demonstrator dead, thousands arrested, and shops across the country looted or damaged. France 24's Antonia Kerrigan tells us more.",
+      "category": "society",
+      "source": "france24",
+      "url": "https://www.france24.com/en/video/20261018-renewed-clashes-in-paris-we-ve-seen-numerous-crs-charges-to-disperse-protesters",
+      "image": "https://s.france24.com/media/display/5f07ab52-cb0f-11f1-a7d7-638c1c1f5fd6/w:1024/p:16x9/EN-20261018-170040-170511-CS.jpg",
+      "publishedAt": "2026-10-18T16:53:17.000Z",
+      "sample": false
+    },
+    {
+      "id": "wuasz6",
+      "title": "Israeli settlers attack European diplomats, beat French mayor",
+      "summary": "Israeli settlers attacked a convoy of European diplomats in the West Bank and beat up a visiting French mayor on Saturday, witnesses said, while US Secretary of State Marco Rubio warned against a brewing \"crisis\" in the territory a day after an American photojournalist was injured in a brutal attack.",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/video/20261018-israeli-settlers-attack-european-diplomats-beat-french-mayor",
+      "image": "https://s.france24.com/media/display/f8408122-caf6-11f1-a301-2d1c143cdef3/w:1024/p:16x9/EN-20261018-151317-151504-CS.jpg",
+      "publishedAt": "2026-10-18T16:51:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "b593zd",
+      "title": "France protests: \"There's a constant back and forth over who's actually responsible\"",
+      "summary": "The government has blamed the violence on hard-left and ultra-left groups, as well as criminals it says instigated the looting. We discuss this with international affairs commentator Matthew-Mary Caruchet and our reporter Antonia Kerrigan.",
+      "category": "society",
+      "source": "france24",
+      "url": "https://www.france24.com/en/video/20261018-france-protests-there-s-a-constant-back-and-forth-over-who-s-actually-responsible",
+      "image": "https://s.france24.com/media/display/d4bef8c4-cb0e-11f1-8c6f-6313a763b466/w:1024/p:16x9/EN-20261018-160405-161443-CS.jpg",
+      "publishedAt": "2026-10-18T16:49:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "777o0y",
+      "title": "Trump endorses embattled Israeli PM Netanyahu ahead of October 27 election",
+      "summary": "US President Donald Trump on Sunday endorsed Prime Minister Benjamin Netanyahu ahead of Israel's October 27 elections. It was not clear what impact the endorsement would have on voters, since many Israelis have expressed disappointment with Trump over the outcome of the Iran war and the US president's ceasefire proposa",
+      "category": "military",
+      "source": "france24",
+      "url": "https://www.france24.com/en/middle-east/20261018-trump-endorses-embattled-israeli-pm-netanyahu-ahead-of-october-27-election",
+      "image": "https://s.france24.com/media/display/7c3ce8c8-cb0e-11f1-946e-6313a763b466/w:1024/p:16x9/2026-10-18T155301Z-1509213277-RC2KQIA83EQP-RTRMADP-3-ISRAEL-ELECTION-TRUMP.jpg",
+      "publishedAt": "2026-10-18T16:25:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "hnm7sf",
+      "title": "Paris police clash with demonstrators and looters as protests continue",
+      "summary": "Paris police clashed with protesters and looters on Sunday as France reeled from nationwide demonstrations over the cost of living a day earlier that saw nearly 2,400 people arrested. Local authorities said that some 550,000 people took part in protests across France on Saturday, while organisers counted about 800,000",
+      "category": "society",
+      "source": "france24",
+      "url": "https://www.france24.com/en/france/20261018-paris-police-in-new-battles-with-protesters-and-looters",
+      "image": "https://s.france24.com/media/display/b87b081c-cb2a-11f1-b092-2d1c143cdef3/w:1024/p:16x9/2026-10-18T180011Z-1398708429-RC2T5OAIURFE-RTRMADP-3-FRANCE-PROTEST.jpg",
+      "publishedAt": "2026-10-18T16:11:22.000Z",
+      "sample": false
+    },
+    {
+      "id": "xzgvva",
+      "title": "La vie de la résistante Lucie Aubrac racontée à travers ses archives : « On sentait l’antisémitisme qui montait en 1940. Il fallait faire quelque chose »",
+      "summary": "« Lucie Aubrac par Lucie », à paraître le 21 octobre, éclaire, à travers des archives familiales réunies par Pascal Convert, le destin de la résistante, les balbutiements des mouvements opposés au régime de Vichy, son combat pour la visibilisation des femmes mortes sous l’Occupation, ou encore la traque de son premier ",
+      "category": "military",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/18/la-vie-de-la-resistante-lucie-aubrac-racontee-a-travers-ses-archives-on-sentait-l-antisemitisme-qui-montait-en-1940-il-fallait-faire-quelque-chose_6797089_3224.html",
+      "image": "https://img.lemde.fr/2026/10/12/160/0/1920/960/644/322/60/0/9b2bc1b_upload-1-q38zrxcnv4bb-generated-1791813454956.jpg",
+      "publishedAt": "2026-10-18T16:00:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "f4b0ba",
+      "title": "Comment l’administration de Donald Trump utilise des pays africains pour expulser des migrants en dépit du droit international",
+      "summary": "Sur les 28 000 immigrés expulsés des Etats-Unis entre le début de 2025 et août 2026, plus de 500 ont été envoyés sur le continent africain, selon les données du Deportation Data Project. La plupart du temps, ils n’ont pas de lien direct avec les pays d’Afrique.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/afrique/video/2026/10/18/comment-l-administration-de-donald-trump-utilise-des-pays-africains-pour-expulser-des-migrants-en-depit-du-droit-international_6797087_3212.html",
+      "image": "https://img.lemde.fr/2026/10/15/0/0/1920/960/644/322/60/0/cb6ed61_upload-1-m0s6mhfygc3n-migrants-expulsion-us-afrique-sans0.png",
+      "publishedAt": "2026-10-18T16:00:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "bhv9ko",
+      "title": "Ce qu’il faut retenir de l’actualité du week-end des 17 et 18 octobre",
+      "summary": "Vous n’avez pas suivi l’actualité ces derniers jours ? Voici ce qu’il s’est passé pendant ces dernières quarante-huit heures.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2026/10/18/ce-qu-il-faut-retenir-de-l-actualite-du-week-end-des-17-et-18-octobre_6797086_4355770.html",
+      "image": "https://img.lemde.fr/2026/10/17/104/0/1023/511/644/322/60/0/995f763_ftp-1-egdjekn5ugcn-afp-d3ln9nt-1024.jpg",
+      "publishedAt": "2026-10-18T15:48:02.000Z",
+      "sample": false
+    },
+    {
       "id": "ylooil",
-      "title": "EN DIRECT, mobilisation du 17 octobre : à Paris, nouvelles tensions sur la place de la République et ses alentours",
-      "summary": "Pour éviter un cortège sauvage sur cette place emblématique après une journée de samedi marquée par 855 interpellations dans la capitale, les forces de l’ordre ont « procédé à des contrôles » et « mis en place un dispositif de sécurité », afin de pouvoir « intervenir rapidement si nécessaire », a fait savoir dimanche l",
+      "title": "EN DIRECT, mobilisation du 17 octobre : Emmanuel Macron exprime « sa honte » après les violences ; Sébastien Lecornu chargé de réunir partis politiques et syndicats ; situation toujours tendue à Paris",
+      "summary": "Sous pression, Emmanuel Macron s’est s’adressé aux Français à 20 heures. Le chef de l’Etat a promis que l’exécutif sera « intraitable » face aux casseurs, ajoutant que les préfets « prendront les décisions » qui s’imposent pour protéger les villes, allant jusqu’à « interdire » si nécessaire « certains rassemblements ».",
       "category": "politics",
       "source": "le-monde",
       "url": "https://www.lemonde.fr/societe/live/2026/10/18/en-direct-mobilisation-du-17-octobre-a-paris-nouvelles-tensions-sur-la-place-de-la-republique-et-ses-alentours_6795855_3224.html",
-      "image": "https://img.lemde.fr/2026/10/18/406/0/1600/800/644/322/60/0/fc1f405_upload-1-aas1kmq4sebz-whatsapp-image-2026-10-18-at-15-55-54-3.jpeg",
+      "image": "https://img.lemde.fr/2026/10/18/93/0/1024/512/644/322/60/0/cdce7b1_ftp-1-gw6hb0l8xyaf-afp-d3nf78k-1024.jpg",
       "publishedAt": "2026-10-18T15:28:41.000Z",
       "sample": false
     },
@@ -27,17 +203,6 @@
       "sample": false
     },
     {
-      "id": "ahywlv",
-      "title": "Pour l’essayiste états-unien Thomas Chatterton Williams, « la gauche américaine a commis une erreur majeure en défendant une politique centrée sur l’identitarisme »",
-      "summary": "Dans « L’Eté de notre colère », l’auteur s’interroge sur la part de responsabilité des progressistes dans le retour de Donald Trump au pouvoir.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/livres/article/2026/10/18/pour-l-essayiste-etats-unien-thomas-chatterton-williams-la-gauche-americaine-a-commis-une-erreur-majeure-en-defendant-une-politique-centree-sur-l-identitarisme_6797083_3260.html",
-      "image": "https://img.lemde.fr/2026/10/14/977/0/5862/2931/644/322/60/0/607ce52_upload-1-s5q8mqs50meq-magnum-nn11627774.jpg",
-      "publishedAt": "2026-10-18T15:00:10.000Z",
-      "sample": false
-    },
-    {
       "id": "p1m7f6",
       "title": "Who capped Starlink in Ukraine? Musk, Trump and Rubio give three different answers",
       "summary": "Ukraine says speed limits on Starlink are still hampering military efforts to fight off Russian drones, days after a surprise network slowdown that Kyiv called deliberate and Washington denied ordering.",
@@ -50,8 +215,8 @@
     },
     {
       "id": "slxoq8",
-      "title": "Le pape Léon XIV remercie les fidèles réunis place Saint-Pierre après son opération et annonce la reprise progressive de ses activités",
-      "summary": "Léon XIV, 71 ans, a été opéré mardi à l’hôpital Gemelli de Rome où on lui a retiré un nodule cancéreux au poumon droit et a été autorisé à sortir de l’hôpital samedi. Ses médecins ont affirmé qu’il s’était rétabli rapidement et devrait pouvoir reprendre ses voyages.",
+      "title": "Le pape Léon XIV remercie les fidèles réunis place Saint-Pierre après son opération et annonce la reprise progressive de ses activités",
+      "summary": "Léon XIV, 71 ans, a été opéré mardi à l’hôpital Gemelli de Rome où on lui a retiré un nodule cancéreux au poumon droit, et il a été autorisé à sortir de l’hôpital samedi. Ses médecins ont affirmé qu’il s’était rétabli rapidement et devrait pouvoir reprendre ses voyages.",
       "category": "politics",
       "source": "le-monde",
       "url": "https://www.lemonde.fr/religions/article/2026/10/18/le-pape-leon-xiv-remercie-les-fideles-reunis-place-saint-pierre-apres-son-operation-et-annonce-la-reprise-progressive-de-ses-activites_6797082_1653130.html",
@@ -93,17 +258,6 @@
       "sample": false
     },
     {
-      "id": "1f0bh1",
-      "title": "Une start-up londonienne rêve de recréer les concerts des idoles disparues",
-      "summary": "La société Unit1 Studio veut créer les avatars numériques de musiciens disparus ou trop âgés pour se produire sur scène. Et espère par la suite les envoyer en tournée.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/18/une-start-up-londonienne-reve-de-recreer-les-concerts-des-idoles-disparues_6797078_3234.html",
-      "image": "https://img.lemde.fr/2026/10/09/485/0/5760/2880/644/322/60/0/3fdfd85_upload-1-b3bvfukrreva-ibpremiumfour241116.jpg",
-      "publishedAt": "2026-10-18T14:00:11.000Z",
-      "sample": false
-    },
-    {
       "id": "u4t5k3",
       "title": "A Aix-en-Provence, le procès d’un triple homicide qui a préfiguré la montée en puissance de la DZ Mafia",
       "summary": "En 2020, trois hommes ont été assassinés, dont le demi-frère du militant contre le narcotrafic Amine Kessaci. Parmi les accusés renvoyés devant la cour d’assises à partir de lundi se trouve notamment Amine Oualane, considéré aujourd’hui comme l’un des leaders du groupe criminel marseillais.",
@@ -112,6 +266,17 @@
       "url": "https://www.lemonde.fr/societe/article/2026/10/18/a-aix-en-provence-le-proces-d-un-triple-homicide-qui-a-prefigure-la-montee-en-puissance-de-la-dz-mafia_6797077_3224.html",
       "image": "https://img.lemde.fr/2026/10/18/811/0/5873/2936/644/322/60/0/7e037c2_upload-1-lirtr22lomt0-maxnewsworldfive350477.jpg",
       "publishedAt": "2026-10-18T14:00:11.000Z",
+      "sample": false
+    },
+    {
+      "id": "1f0bh1",
+      "title": "Une start-up londonienne rêve de recréer les concerts des idoles disparues",
+      "summary": "La société Unit1 Studio veut créer les avatars numériques de musiciens disparus ou trop âgés pour se produire sur scène. Et espère par la suite les envoyer en tournée.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/economie/article/2026/10/18/une-start-up-londonienne-reve-de-recreer-les-concerts-des-idoles-disparues_6797078_3234.html",
+      "image": "https://img.lemde.fr/2026/10/09/485/0/5760/2880/644/322/60/0/3fdfd85_upload-1-b3bvfukrreva-ibpremiumfour241116.jpg",
+      "publishedAt": "2026-10-18T14:00:07.000Z",
       "sample": false
     },
     {
@@ -159,14 +324,14 @@
       "sample": false
     },
     {
-      "id": "emjpy3",
-      "title": "« Un tsunami de terrorisme juif » : en Cisjordanie occupée, derrière la violence des colons pendant la récolte des olives, une opération de nettoyage ethnique à grande échelle",
-      "summary": "A l’approche des élections législatives israéliennes du 27 octobre, plusieurs ONG décrivent les méthodes pour chasser les Palestiniens de leurs terres et les entraves à la cueillette des olives par les colons.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/international/article/2026/10/18/un-tsunami-de-terrorisme-juif-en-cisjordanie-occupee-derriere-la-violence-des-colons-pendant-la-recolte-des-olives-une-operation-de-nettoyage-ethnique-a-grande-echelle_6797074_3210.html",
-      "image": "https://img.lemde.fr/2026/10/17/480/0/5760/2880/644/322/60/0/362ec4e_upload-1-enks9wlzyrdk-lgeai-wb-17oct2026-34.jpg",
-      "publishedAt": "2026-10-18T13:00:05.000Z",
+      "id": "hz781c",
+      "title": "🔴Live: Trump says 'France is burning', blames 'immigration' for nationwide protests",
+      "summary": "",
+      "category": "society",
+      "source": "france24",
+      "url": "https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france",
+      "image": null,
+      "publishedAt": "2026-10-18T12:57:24.000Z",
       "sample": false
     },
     {
@@ -178,17 +343,6 @@
       "url": "https://www.france24.com/en/europe/20261018-ukraine-sets-saint-petersburg-refinery-ablaze-in-large-scale-drone-attack",
       "image": "https://s.france24.com/media/display/c0e82312-cae0-11f1-8a5c-6313a763b466/w:1024/p:16x9/08624102e36095dfc5692eadfc7780474a0d2bb4.jpg",
       "publishedAt": "2026-10-18T12:03:23.000Z",
-      "sample": false
-    },
-    {
-      "id": "mpwmz8",
-      "title": "« Tant que l’on n’a pas mis les pieds dans les cendres de sa maison, on ne peut pas tout à fait comprendre ce que j’ai vécu »",
-      "summary": "« Remue-ménages ». Synonyme à la fois de renoncement et de nouveau départ, un déménagement n’est jamais anodin. Le 8 juillet 2025, Alain, 78 ans, a vu sa maison détruite par l’incendie qui a ravagé le quartier de l’Estaque, à Marseille. Aujourd’hui, il attend de pouvoir la reconstruire.",
-      "category": "technology",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/intimites/article/2026/10/18/tant-que-l-on-n-a-pas-mis-les-pieds-dans-les-cendres-de-sa-maison-on-ne-peut-pas-tout-a-fait-comprendre-ce-que-j-ai-vecu_6797071_6190330.html",
-      "image": "https://img.lemde.fr/2026/05/25/256/0/1024/512/644/322/60/0/1dd3a17_upload-1-zzsbj6cwi2aw-1.jpg",
-      "publishedAt": "2026-10-18T12:00:08.000Z",
       "sample": false
     },
     {
@@ -255,171 +409,6 @@
       "url": "https://www.france24.com/en/video/20261018-riots-in-tirana-enter-a-fifth-day-as-albania-s-anti-government-protests-escalate",
       "image": "https://s.france24.com/media/display/62af44a8-cae3-11f1-9366-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261018-111149-111349-CS.jpg",
       "publishedAt": "2026-10-18T11:06:39.000Z",
-      "sample": false
-    },
-    {
-      "id": "dfn58j",
-      "title": "A la Comédie-Française, Julie Duclos ou l’art du théâtre qui va de soi",
-      "summary": "La metteuse en scène de « Ruy Blas » de Victor Hugo se penche au chevet de la démocratie sur des scènes de théâtre qu’elle ne cesse d’humaniser.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/culture/article/2026/10/18/a-la-comedie-francaise-julie-duclos-ou-l-art-du-theatre-qui-va-de-soi_6797064_3246.html",
-      "image": "https://img.lemde.fr/2026/10/13/295/0/3543/1771/644/322/60/0/d0039ef_upload-1-eitdj1ti0tfm-dsc-7646.jpg",
-      "publishedAt": "2026-10-18T10:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "66ndl0",
-      "title": "France: Protests \"brought the entire population together for a common purpose\"",
-      "summary": "This weekend, in cities across France, some 800,000 protesters, including students, railway workers and members of the Yellow Vest movement, took to the streets in largely peaceful nationwide demonstrations. Sparked by a month of high school student protests over educational inequality and crumbling school facilities, ",
-      "category": "society",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20261018-france-protests-brought-the-entire-population-together-for-a-common-purpose",
-      "image": "https://s.france24.com/media/display/5b3222c4-cad2-11f1-9b89-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261018-101748-102037-CS.jpg",
-      "publishedAt": "2026-10-18T09:05:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "t5p64l",
-      "title": "France: Who took part in Saturday's protests?",
-      "summary": "Weeks of student protests over poor conditions in schools and rising anger over the cost of living fuelled calls for a nationwide demonstration on October 17, bringing together youth activists and supporters of the Yellow Vest movement.\n \nThe main grievance was the cost of living. The protesters demonstrating against i",
-      "category": "health",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20261018-france-who-took-part-in-saturday-s-protests",
-      "image": "https://s.france24.com/media/display/b40d3708-cad2-11f1-906d-638c1c1f5fd6/w:1024/p:16x9/capture-823ce114.jpg",
-      "publishedAt": "2026-10-18T09:03:18.000Z",
-      "sample": false
-    },
-    {
-      "id": "nznt6c",
-      "title": "France: Who was behind the violence at Saturday's protests?",
-      "summary": "Violent clashes, fires, vandalism and looting marred demonstrations across France on Saturday as hundreds of thousands of people marched against the rising cost of living and poor conditions in schools. The French Interior Ministry said about 400 people were arrested nationwide. Our partner TV station France 2 examined",
-      "category": "health",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20261018-france-who-was-behind-the-violence-at-saturday-s-protests",
-      "image": "https://s.france24.com/media/display/c1ff195a-cad0-11f1-b9ce-d1d2c32ebb87/w:1024/p:16x9/EN-20261018-101142-101423-CS.jpg",
-      "publishedAt": "2026-10-18T09:01:22.000Z",
-      "sample": false
-    },
-    {
-      "id": "uydeil",
-      "title": "France protests: Did the government make the wrong decisions?",
-      "summary": "Police in Paris said Sunday they had arrested a \"record\" 855 people over protest-related violence in the capital the day before, with the prosecutor's office saying more than 500 were being held in custody. France 24's Shirli Sitbon analyses.",
-      "category": "society",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20261018-france-protests-did-the-government-make-the-wrong-decisions",
-      "image": "https://s.france24.com/media/display/6223078a-cad0-11f1-8c01-2d1c143cdef3/w:1024/p:16x9/EN-20261018-100442-101117-CS.jpg",
-      "publishedAt": "2026-10-18T09:00:22.000Z",
-      "sample": false
-    },
-    {
-      "id": "2e633",
-      "title": "PSG back on top of Ligue 1 after stunning Strasbourg comeback",
-      "summary": "After trailing Strasbourg for more than 60 minutes, the Parisians called upon their substitutes to turn the game around. Following their spectacular Champions League victory over Manchester City and ahead of their clash with FC Barcelona, PSG are brimming with confidence.",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/tv-shows/sports/20261018-ligue-1-psg-back-on-top-of-ligue-1-after-stunning-strasbourg-comeback",
-      "image": "https://s.france24.com/media/display/5f6628de-ca98-11f1-8a9c-638c1c1f5fd6/w:1024/p:16x9/000-D3LB6RQ.jpg",
-      "publishedAt": "2026-10-18T08:48:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "uyxo23",
-      "title": "Comment l’industrie allemande a changé de position face à la Chine",
-      "summary": "En prenant conscience que le sacro-saint libre-échange atteignait ses limites, l’industrie d’outre-Rhin, confrontée à une perte massive d’emplois, a joué un rôle décisif dans les derniers accords scellés entre Paris et Berlin pour protéger l’Europe face à la concurrence déloyale de Pékin.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/18/comment-l-industrie-allemande-a-change-de-position-face-a-la-chine_6797048_3232.html",
-      "image": "https://img.lemde.fr/2026/09/23/334/0/4000/2000/644/322/60/0/22b7f75_ftp-1-jmiknxc2iisb-2026-09-23t095619z-2009013722-rc2bqlaqeadw-rtrmadp-3-eurozone-economy-pmi.JPG",
-      "publishedAt": "2026-10-18T08:00:06.000Z",
-      "sample": false
-    },
-    {
-      "id": "lt9b7h",
-      "title": "Months-long Indonesia wildfires spew toxic haze across Southeast Asia",
-      "summary": "Parts of southern Southeast Asia have been put under the highest-level haze alert as wildfires that have swept Indonesia for months continue to belch toxic smoke across the region. The seasonal wildfires are worse this year due to the drought conditions caused by a severe \"super-El Nino\" effect.",
-      "category": "environment",
-      "source": "france24",
-      "url": "https://www.france24.com/en/asia-pacific/20261018-months-long-indonesia-wildfires-spew-toxic-haze-across-southeast-asia",
-      "image": "https://s.france24.com/media/display/959c6e42-cab9-11f1-bcc1-2d1c143cdef3/w:1024/p:16x9/2026-09-25T172531Z-1337943422-RC29QNASKLJ4-RTRMADP-3-ASIA-WEATHER-INDONESIA-WILDFIRE.jpg",
-      "publishedAt": "2026-10-18T06:30:35.000Z",
-      "sample": false
-    },
-    {
-      "id": "s8qizk",
-      "title": "India's 'cockroach' movement founder released from police custody",
-      "summary": "Indian police released Cockroach Janta Party (CJP) founder Abhijeet Dipke from detention on Saturday after the activist was detained ahead of a rally calling for the resignation of India's chief election commissioner. Two other CJP leaders remain in custody after having been arrested while demonstrating at a protest si",
-      "category": "society",
-      "source": "france24",
-      "url": "https://www.france24.com/en/asia-pacific/20261018-india-s-cockroach-movement-founder-released-from-police-custody",
-      "image": "https://s.france24.com/media/display/b8ff30cc-cab4-11f1-8c54-6313a763b466/w:1024/p:16x9/000-D3KJ7R8.jpg",
-      "publishedAt": "2026-10-18T05:47:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "juezm6",
-      "title": "COP17 d’Erevan : face à l’effondrement de la biodiversité, des efforts « inégaux et insuffisants » de l’humanité",
-      "summary": "Alors que la planète est au seuil d’une extinction de masse, les Etats doivent agir plus fortement pour atteindre les objectifs qu’ils se sont fixés en 2022, et espérer inverser la tendance au déclin d’ici à 2030. La COP17 en Arménie est l’occasion de tirer un bilan à mi-parcours.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/planete/article/2026/10/18/cop17-d-erevan-face-a-l-effondrement-de-la-biodiversite-des-efforts-inegaux-et-insuffisants-de-l-humanite_6796960_3244.html",
-      "image": "https://img.lemde.fr/2026/08/14/664/0/4429/2214/644/322/60/0/8f7b604_upload-1-bpqsimnronnx-26-07-12-1438.jpg",
-      "publishedAt": "2026-10-18T04:00:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "hz781c",
-      "title": "Live: France’s CRS riot police deployed again in Paris as unrest continues",
-      "summary": "France’s CRS riot police have been deployed in Paris on Sunday, a day after nationwide demonstrations saw more than 1,800 people arrested. French President Emmanuel Macron will address the nation at 8pm this evening. Follow our liveblog for the latest updates.",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france",
-      "image": "https://s.france24.com/media/display/54488566-cb09-11f1-8983-638c1c1f5fd6/w:1024/p:16x9/2026-10-18T152842Z-1571968623-RC2R5OASJN1S-RTRMADP-3-FRANCE-PROTEST.jpg",
-      "publishedAt": "2026-10-18T03:09:25.000Z",
-      "sample": false
-    },
-    {
-      "id": "ueohob",
-      "title": "En Californie, la tournée au pas de course de Gabriel Zucman pour taxer les milliardaires",
-      "summary": "L’économiste franco-américain de 39 ans est parti livrer bataille en Californie, alors que les élections de mi-mandat approchent. Son objectif : faire voter, le 3 novembre, lors d’un référendum, une mesure qui permettrait d’imposer ponctuellement 5 % du patrimoine des milliardaires qui résident dans cet Etat. Un milita",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/18/en-californie-la-tournee-au-pas-de-course-de-gabriel-zucman-pour-taxer-les-milliardaires_6796856_4500055.html",
-      "image": "https://img.lemde.fr/2026/10/12/168/0/1500/750/644/322/60/0/10f3580_ftp-1-dgwtqad3jazu-447637-3513605.jpg",
-      "publishedAt": "2026-10-18T03:00:08.000Z",
-      "sample": false
-    },
-    {
-      "id": "wcx1dr",
-      "title": "Rubio says Trump to 'analyze' global impact of Russia sanctions during pause",
-      "summary": "US Secretary of State Marco Rubio said Saturday that US President Donald Trump’s decision to waive sanctions and tariffs on Russia would last 60 days, as the move drew bipartisan criticism and raised fears in Ukraine that Washington could ease further restrictions on Moscow.",
-      "category": "economy",
-      "source": "france24",
-      "url": "https://www.france24.com/en/americas/20261018-rubio-says-trump-russia-sanctions-waiver-designed-to-analyze-global-impact",
-      "image": "https://s.france24.com/media/display/1b46d8a0-c7e7-11f1-819e-4dd8ac2cf3bf/w:1024/p:16x9/dcd8c89867be21a42771dcc4bb966f7a0278e690.jpg",
-      "publishedAt": "2026-10-18T02:39:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "2cy90",
-      "title": "‘Standing up for democracy’: Atlanta ‘No Kings’ rally draws Trump critics ahead of midterms",
-      "summary": "“No Kings, Vote Now” was the theme of a rally in Atlanta, one of many organised across the US on Saturday. While many demonstrators denounced US President Donald Trump’s policies, organisers said the rally was aimed at getting out the vote in the November 3 midterm elections and protecting democracy in America.",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/americas/20261018-standing-up-for-democracy-atlanta-no-kings-rally-draws-trump-critics-ahead-of-us-midterms",
-      "image": "https://s.france24.com/media/display/f5ef54b2-ca8c-11f1-b97e-2d1c143cdef3/w:1024/p:16x9/AP26290606906702.jpg",
-      "publishedAt": "2026-10-18T01:50:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "t6q5qc",
-      "title": "Looters seize on massive French protests to raid and vandalise shops",
-      "summary": "Looters on Saturday seized the opportunity to raid and vandalise a host of shops and businesses across France – from bakeries and supermarkets to tech stores – as hundreds of thousands of people took to the streets to protest higher living costs and other grievances.",
-      "category": "technology",
-      "source": "france24",
-      "url": "https://www.france24.com/en/france/20261017-looters-seize-massive-french-protests-raid-vandalise-shops-france",
-      "image": "https://s.france24.com/media/display/fab94d12-ca51-11f1-a0cb-638c1c1f5fd6/w:1024/p:16x9/cc2ac62c67a25e9ff25aff593865d3fa117e6424.jpg",
-      "publishedAt": "2026-10-17T20:15:02.000Z",
       "sample": false
     }
   ],
@@ -504,13 +493,13 @@
     },
     {
       "id": "hz781c",
-      "title": "Live: France’s CRS riot police deployed again in Paris as unrest continues",
-      "summary": "France’s CRS riot police have been deployed in Paris on Sunday, a day after nationwide demonstrations saw more than 1,800 people arrested. French President Emmanuel Macron will address the nation at 8pm this evening. Follow our liveblog for the latest updates.",
-      "category": "politics",
+      "title": "🔴Live: Trump says 'France is burning', blames 'immigration' for nationwide protests",
+      "summary": "",
+      "category": "society",
       "source": "france24",
       "url": "https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france",
-      "image": "https://s.france24.com/media/display/54488566-cb09-11f1-8983-638c1c1f5fd6/w:1024/p:16x9/2026-10-18T152842Z-1571968623-RC2R5OASJN1S-RTRMADP-3-FRANCE-PROTEST.jpg",
-      "publishedAt": "2026-10-18T03:09:25.000Z",
+      "image": null,
+      "publishedAt": "2026-10-18T12:57:24.000Z",
       "sample": false
     }
   ]
