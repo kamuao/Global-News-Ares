@@ -2,8 +2,41 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-18T10:41:58.543Z",
+  "updatedAt": "2026-10-18T15:38:45.989Z",
   "daily": [
+    {
+      "id": "8886ut",
+      "title": "Ukraine apologizes after a suspected drone crashes in Lithuania, damaging a moving car.",
+      "summary": "Debris has damaged a moving car in Lithuania, where NATO jets were scrambled. Kyiv says Russian jamming may have diverted drones targeting Russia.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-apologizes-after-a-suspected-drone-crashes-in-lithuania-damaging-a-moving-car/a-79692905?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-18T14:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1nhf81",
+      "title": "Pope appears in public for first time since surgery",
+      "summary": "After undergoing a lung operation, the pope said he will resume his duties gradually. There is no \"clinical reason\" for his South America trip not to go ahead, his surgeon said.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/pope-appears-in-public-for-first-time-since-surgery/a-79692583?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-18T14:14:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "k4bxu1",
+      "title": "France: Young voters blase about Glucksmann's Socialists",
+      "summary": "Raphael Glucksmann wants to lead France's Socialists to power without working with the left-populist Jean-Luc Melenchon, who is particularly popular with young voters. How can the center-left candidate win them over?",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-18T13:31:00.000Z",
+      "sample": false
+    },
     {
       "id": "xeib8v",
       "title": "Is Germany's eight-hour workday under threat?",
@@ -46,6 +79,17 @@
       "url": "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-18T08:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "hs2vy0",
+      "title": "Germany news: Police probe security incident at Leipzig/Halle airport",
+      "summary": "A fence breach at the Leipzig/Halle airport has triggered a major police operation. Christian Social Union leader Markus Söder is to address a gathering of the conservative youth wing. Follow DW for more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-police-probe-security-incident-at-leipzig-halle-airport/live-79686913?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-18T08:12:00.000Z",
       "sample": false
     },
     {
@@ -146,7 +190,9 @@
       "image": null,
       "publishedAt": "2026-10-17T16:29:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "mc0fje",
       "title": "How big is Russia's threat against Germany?",
@@ -189,30 +235,6 @@
       "url": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-17T11:34:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "hs2vy0",
-      "title": "Germany news: Police probe security incident at Leipzig/Halle airport",
-      "summary": "A fence breach at the Leipzig/Halle airport has triggered a major police operation. Christian Social Union leader Markus Söder is to address a gathering of the conservative youth wing. Follow DW for more.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-police-probe-security-incident-at-leipzig-halle-airport/live-79686913?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-17T10:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "yqda1",
-      "title": "Mexico sentences killers of US, Australian surfers to 158 years each in prison",
-      "summary": "Three Mexican men were found guilty last week of murdering foreign surfers in 2024. The case had drawn global condemnation, particularly in Australia, where two of the victims were from.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/mexico-sentences-killers-of-us-australian-surfers-to-158-years-each-in-prison/a-79685975?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-17T08:19:00.000Z",
       "sample": false
     },
     {
@@ -697,28 +719,6 @@
       "url": "https://www.dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-11T18:57:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "cyqga9",
-      "title": "German 'lawfare': When lawsuits become a political weapon",
-      "summary": "The Left Party is suing two government ministers for accusing them of antisemitism, while Chancellor Friedrich Merz has been sued several times by various parties. Is German politics descending into \"lawfare?\"",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-11T15:14:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "qq6dc0",
-      "title": "Trump claims Russia and Ukraine agreed to 'energy ceasefire'",
-      "summary": "US President Donald Trump says both sides have agreed to stop targeting oil refineries, power plants and other energy infrastructure immediately.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-11T14:47:00.000Z",
       "sample": false
     }
   ],

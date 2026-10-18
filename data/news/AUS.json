@@ -2,8 +2,52 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-10-18T10:42:02.658Z",
+  "updatedAt": "2026-10-18T15:38:49.828Z",
   "daily": [
+    {
+      "id": "s1w6cn",
+      "title": "French police arrest 1,800 after violent clashes and looting mar protests",
+      "summary": "France is reeling from widespread damage caused by violent protests that saw 1,800 people arrested",
+      "category": "society",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-19/france-reels-from-protests-violence-as-1800-arrested/107281138",
+      "image": null,
+      "publishedAt": "2026-10-18T14:26:30.000Z",
+      "sample": false
+    },
+    {
+      "id": "lbgfb",
+      "title": "Jordon Steele-John says he has been falsely accused of inappropriate conduct",
+      "summary": "Greens senator Jordon Steele-John has denied allegations of inappropriate conduct raised in a letter to the Greens.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-18/jordon-steele-john-denies-allegations-inappropriate-conduct/107280964",
+      "image": null,
+      "publishedAt": "2026-10-18T12:53:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "acej8a",
+      "title": "Aussies survives dramatic collapse to beat New Zealand in first women's T20",
+      "summary": "Australia survives a scare to down New Zealand by two wickets in the first T20 at North Sydney Oval.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-18/australia-beats-new-zealand-in-first-womens-t20/107281026",
+      "image": null,
+      "publishedAt": "2026-10-18T12:37:51.000Z",
+      "sample": false
+    },
+    {
+      "id": "3w06om",
+      "title": "Australia claims second silver at track cycling world championships",
+      "summary": "Leigh Hoffman's star continues to rise in the world of track cycling, but he could not best Dutch legend Harrie Lavreysen in the final of the individual sprint.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-18/leigh-hoffman-silver-medal-sprint-world-championships/107280954",
+      "image": null,
+      "publishedAt": "2026-10-18T11:11:13.000Z",
+      "sample": false
+    },
     {
       "id": "z196y7",
       "title": "Fatalities as 'serious incident' causes fire at Canadian military base",
@@ -39,8 +83,8 @@
     },
     {
       "id": "vj2y4x",
-      "title": "Live: Rain curtails opening session after just five overs",
-      "summary": "Australia looks to build on its spectacular first Test victory over South Africa when the series moves to Gqeberha in the Eastern Cape. Follow all the day one action live.",
+      "title": "Boland's double-strike the highlight as rain ruins day one in Gqeberha",
+      "summary": "Scott Boland strikes twice in two balls during a brief period of play as rain almost entirely washes out the first day of the second Test between Australia and South Africa Gqeberha.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-10-18/live-updates-south-africa-vs-australia-second-test-day-one/107277420",
@@ -60,12 +104,12 @@
       "sample": false
     },
     {
-      "id": "a20uma",
-      "title": "Live: Diamonds fall short against Silver Ferns in Constellation Cup opener",
-      "summary": "The Diamonds launch a late challenge but it is not enough to prevent the Silver Ferns from recording a 56-50 win in the first Constellation Cup Test in Auckland. Follow live.",
+      "id": "yhssow",
+      "title": "Diamonds centurions forced to the bench in Constellation Cup loss",
+      "summary": "It was defender Courtney Bruce's 100th milestone game to start the Constellation Cup but the brand new centurion and her captain Liz Watson were both sent to the bench in Australia's 56-50 loss to New Zealand in Auckland.",
       "category": "politics",
       "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-18/constellation-cup-netball-diamonds-silver-ferns/107280774",
+      "url": "https://www.abc.net.au/news/2026-10-18/constellation-cup-netball-diamonds-silver-ferns-game-one/107280774",
       "image": null,
       "publishedAt": "2026-10-18T06:24:46.000Z",
       "sample": false
@@ -116,7 +160,7 @@
     },
     {
       "id": "jfzv0w",
-      "title": "Tim Winton's Cloudstreet wins Top 100 Australian Books countdown — as it happened",
+      "title": "Tim Winton's Cloudstreet wins Top 100 Australian Books countdown",
       "summary": "Cloudstreet has taken out the Top 100 Australian books countdown with The Book Thief by Markus Zusak and Boy Swallows Universe by Trent Dalton rounding out the top three.",
       "category": "politics",
       "source": "abc-au",
@@ -233,50 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-10-18/no-answers-for-family-of-missing-wa-man-five-years-on/107270862",
       "image": null,
       "publishedAt": "2026-10-18T00:31:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "t7p3fo",
-      "title": "War of words erupts as Buti pitches uni merger passion project",
-      "summary": "Cracks have begun to appear in the plan, touted as a \"once-in-a-generation opportunity\", with opposition from two universities, criticism from political opponents, and an error-laden feasibility report compiled with the help of AI.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-18/tony-buti-public-university-mega-merger-wa/107275274",
-      "image": null,
-      "publishedAt": "2026-10-18T00:14:43.000Z",
-      "sample": false
-    },
-    {
-      "id": "bt5ata",
-      "title": "Surgery referrals missed in Sydney hospital email blunder",
-      "summary": "A review is underway after more than 3,000 emails, including 16 urgent referrals for elective surgery, were found in an unmonitored email inbox months after they were sent.",
-      "category": "health",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-18/nsw-sydney-hospital-canterbury-apology-surgery-referrals/107280434",
-      "image": null,
-      "publishedAt": "2026-10-18T00:04:49.000Z",
-      "sample": false
-    },
-    {
-      "id": "j00bej",
-      "title": "Gas company called 'rude' for not sharing decommissioning news earlier",
-      "summary": "Emails obtained under Freedom of Information show the Canadian-owned company and the state government had been discussing the network's future eight months before affected customers were informed.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-18/secret-meetings-over-gas-network-albany/107272216",
-      "image": null,
-      "publishedAt": "2026-10-18T00:00:30.000Z",
-      "sample": false
-    },
-    {
-      "id": "g3j7g3",
-      "title": "Assistant treasurer knew about ATO's credit card ban plans months ago",
-      "summary": "Assistant Treasurer Daniel Mulino concedes the government knew the Australian Taxation Office was considering banning credit card payments in July, months before the decision was made public.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-18/federal-politics-insiders-daniel-mulino-ato-credit-card-ban/107280382",
-      "image": null,
-      "publishedAt": "2026-10-17T23:58:19.000Z",
       "sample": false
     }
   ],

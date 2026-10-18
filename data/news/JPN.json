@@ -2,8 +2,19 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-10-18T10:42:00.880Z",
+  "updatedAt": "2026-10-18T15:38:48.337Z",
   "daily": [
+    {
+      "id": "d0p127",
+      "title": "Takaichi’s support rate falls below 50%, lowest since taking office, Kyodo reports",
+      "summary": "The decline might have been affected by Takaichi's slow response surrounding the resignation of Kazuo Yana as the nation's farm minister.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/18/japan/politics/takaichis-support-rate-falls/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569157.jpg",
+      "publishedAt": "2026-10-18T11:11:00.000Z",
+      "sample": false
+    },
     {
       "id": "jj5mos",
       "title": "In tourist-weary Kyoto, U.S. college targets deeper ties between students and residents",
@@ -13,6 +24,17 @@
       "url": "https://www.japantimes.co.jp/community/2026/10/18/pepperdine-university-kyoto-program/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569129.jpg",
       "publishedAt": "2026-10-18T09:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fihuig",
+      "title": "LDP exec denies ex-farm minister’s influence on budget cuts",
+      "summary": "Koichi Hagiuda apologized for the fact that Yana's remark about budget cuts had led to his replacement as agriculture minister.",
+      "category": "health",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/18/japan/politics/ldp-denial-impact-budget-ex-farm-minister/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569154.jpg",
+      "publishedAt": "2026-10-18T08:02:00.000Z",
       "sample": false
     },
     {
@@ -181,6 +203,17 @@
       "sample": false
     },
     {
+      "id": "g20zva",
+      "title": "Karaoke hack shows cybercrime is routine",
+      "summary": "The head of the ruling Liberal Democratic Party's cybersecurity body went so far as to describe it as a \"state of emergency in cyberspace.\"",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/10/18/japan/karaoke-hack-cybercrime/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/568402.jpg",
+      "publishedAt": "2026-10-18T01:28:00.000Z",
+      "sample": false
+    },
+    {
       "id": "jthtu2",
       "title": "Musk back in the spotlight, but politics dims the awe",
       "summary": "Despite his success in various fields, Elon Musk's unrelenting commitment to right-wing politics has taken a toll on his public image.",
@@ -299,39 +332,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/10/18/world/politics/trump-russia-sanctions-republicans-mistake/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569064.jpg",
       "publishedAt": "2026-10-17T23:23:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "vemiiz",
-      "title": "Mass protests in France spiral into worst riots in years",
-      "summary": "Demonstrations against rising living costs and declining public services spiraled out of control in some of the country's worst violence in decades.",
-      "category": "society",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/18/world/mass-protests-france-riots/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/18/thumbs/400x400/569143.jpg",
-      "publishedAt": "2026-10-17T23:20:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "o9844a",
-      "title": "Now is the time for Japan’s most flavorful shiitake",
-      "summary": "The most popular mushroom in the country reaches peak flavor in two periods — one of which is happening right now.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/life/2026/10/18/food-drink/shiitake-recipe-japanese-cuisine-mushrooms/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/16/thumbs/400x400/568326.jpg",
-      "publishedAt": "2026-10-17T23:05:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "tkiq28",
-      "title": "Kyoto exhibition finds Zen in the worlds of Studio Ghibli",
-      "summary": "Studio Ghibli co-founder and producer Toshio Suzuki invites visitors to consider what it means to live well at \"Zen and Ghibli.\"",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/culture/2026/10/18/art/zen-ghibli-exhibition-toshio-suzuki/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/17/thumbs/400x400/569059.jpg",
-      "publishedAt": "2026-10-17T23:00:00.000Z",
       "sample": false
     }
   ],
