@@ -2,13 +2,123 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-10-18T03:53:33.717Z",
+  "updatedAt": "2026-10-18T10:42:02.658Z",
   "daily": [
     {
-      "id": "jfzv0w",
-      "title": "Live: Radio National counts down nation's favourite homegrown reads",
-      "summary": "Australia's favourite local reads are being revealed in Radio National's Top 100 Books countdown. Join us live as we count down to #1.",
+      "id": "z196y7",
+      "title": "Fatalities as 'serious incident' causes fire at Canadian military base",
+      "summary": "People have been killed and injured in a serious incident that resulted in a fire at Canadian Forces Base Wainwright, according to the defence minister.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-18/deaths-confirmed-after-fire-at-canada-military-base/107280694",
+      "image": null,
+      "publishedAt": "2026-10-18T08:07:16.000Z",
+      "sample": false
+    },
+    {
+      "id": "uvm9xc",
+      "title": "Two teenagers arrested after fight involving dozens of youth at Glenelg",
+      "summary": "Two teenage boys have been arrested following an alleged fight at Mosely Square in Glenelg, involving dozens of young witnesses.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-18/sa-two-teenagers-arrested-glenelg-brawl/107280878",
+      "image": null,
+      "publishedAt": "2026-10-18T08:00:24.000Z",
+      "sample": false
+    },
+    {
+      "id": "d8itcy",
+      "title": "Kangaroos flick switch to kill off Bombers' resistance",
+      "summary": "North Melbourne is in the box seat to win the AFLW minor premiership after kicking the last seven goals to see off Essendon's challenge.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-18/aflw-kangaroos-bombers-giants-hawks-swans-magpies-dockers-saints/107280882",
+      "image": null,
+      "publishedAt": "2026-10-18T07:48:55.000Z",
+      "sample": false
+    },
+    {
+      "id": "vj2y4x",
+      "title": "Live: Rain curtails opening session after just five overs",
+      "summary": "Australia looks to build on its spectacular first Test victory over South Africa when the series moves to Gqeberha in the Eastern Cape. Follow all the day one action live.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-18/live-updates-south-africa-vs-australia-second-test-day-one/107277420",
+      "image": null,
+      "publishedAt": "2026-10-18T07:09:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "uvlm58",
+      "title": "Teenage boy rescued from Brisbane stormwater drain",
+      "summary": "Firefighting crews deployed an inflatable boat in a tunnel under Brisbane's Kangaroo Point to rescue the boy.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-18/teenager-rescued-from-brisbane-stormwater-drain/107280766",
+      "image": null,
+      "publishedAt": "2026-10-18T06:58:30.000Z",
+      "sample": false
+    },
+    {
+      "id": "a20uma",
+      "title": "Live: Diamonds fall short against Silver Ferns in Constellation Cup opener",
+      "summary": "The Diamonds launch a late challenge but it is not enough to prevent the Silver Ferns from recording a 56-50 win in the first Constellation Cup Test in Auckland. Follow live.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-18/constellation-cup-netball-diamonds-silver-ferns/107280774",
+      "image": null,
+      "publishedAt": "2026-10-18T06:24:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "o2bpdc",
+      "title": "Two people in custody after protest at offshore Woodside gas platform",
+      "summary": "Two people are in police custody after occupying an offshore Woodside platform about 200 kilometres off Western Australia's coast to protest against the company's gas operations.",
       "category": "society",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-18/greenpeace-protest-woodside-scarborough-gas-border-force/107280744",
+      "image": null,
+      "publishedAt": "2026-10-18T05:52:40.000Z",
+      "sample": false
+    },
+    {
+      "id": "xbjubn",
+      "title": "Violence forces lockdown, early closure of Perth agricultural show",
+      "summary": "Violence between dozens of youths has forced the early closure of a long-running Perth agricultural show, with police called to quell the disturbance.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-18/kelmscott-agricultural-show-lockdown-youths-fighting/107280674",
+      "image": null,
+      "publishedAt": "2026-10-18T04:44:13.000Z",
+      "sample": false
+    },
+    {
+      "id": "cjwt8y",
+      "title": "Labor pledges $30 toll cap as Coalition targets gas ban",
+      "summary": "Victoria's premier and opposition leader have announced duelling pledges on public transport fares and gas installations in the latest round of campaigning ahead of next month's state election.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-18/labor-pledges-road-toll-cap-coalition-gas-policy/107280500",
+      "image": null,
+      "publishedAt": "2026-10-18T04:37:04.000Z",
+      "sample": false
+    },
+    {
+      "id": "xlprx1",
+      "title": "Man in custody after allegedly stabbing woman",
+      "summary": "A woman is recovering after being allegedly stabbed several times in the head and torso by a man known to her on Thursday afternoon in the Riverina town of Leeton.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-18/man-charged-after-allegedly-stabbing-woman-in-leeton/107280498",
+      "image": null,
+      "publishedAt": "2026-10-18T04:15:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "jfzv0w",
+      "title": "Tim Winton's Cloudstreet wins Top 100 Australian Books countdown — as it happened",
+      "summary": "Cloudstreet has taken out the Top 100 Australian books countdown with The Book Thief by Markus Zusak and Boy Swallows Universe by Trent Dalton rounding out the top three.",
+      "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-10-18/top-100-books-australian-books-live-blog-2026-radio-national/107276838",
       "image": null,
@@ -28,7 +138,7 @@
     },
     {
       "id": "a66i99",
-      "title": "Amid whisky's global gloom Tasmania is still seizing 'amazing opportunities'",
+      "title": "Bill Lark is the godfather of Australian whisky but he has never seen times like these",
       "summary": "A global whisky downturn is hitting distillers from Kentucky to Kilkenny. But it is unfamiliar territory for Tasmania, where producers are facing their biggest challenge since the state was governed by colonial law.",
       "category": "politics",
       "source": "abc-au",
@@ -95,7 +205,7 @@
     {
       "id": "x7mqpw",
       "title": "'Nerves and shame' gone, the DMC Boys look to the global stage",
-      "summary": "A reggae-rock outfit from Queensland's Gulf Country is hoping to take their music \"worldwide\" after opening for one of Australia's biggest acts.",
+      "summary": "A reggae-rock outfit from Queensland's Gulf Country hopes to take its music \"worldwide\" after opening for one of Australia's biggest acts.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-10-18/dmc-boys-dreaming-big-after-king-stingray-gig/107269146",
@@ -167,116 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-10-18/federal-politics-insiders-daniel-mulino-ato-credit-card-ban/107280382",
       "image": null,
       "publishedAt": "2026-10-17T23:58:19.000Z",
-      "sample": false
-    },
-    {
-      "id": "gajnga",
-      "title": "Police investigate alleged stabbing death in Melbourne's west",
-      "summary": "Emergency services were called to an address in Melbourne's west just after midnight, with reports that a man was seriously injured.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-18/police-investigate-alleged-fatal-stabbing-st-albans/107280418",
-      "image": null,
-      "publishedAt": "2026-10-17T23:56:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "xwxqwd",
-      "title": "Stampede kills at least 17 people at religious festival in India",
-      "summary": "A police official says an announcement outside a pavilion after it started raining resulted in the crowd \"rushing forward\" and people falling on the ground.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-18/india-stampede-kolkata-hindu-festival/107280156",
-      "image": null,
-      "publishedAt": "2026-10-17T23:43:20.000Z",
-      "sample": false
-    },
-    {
-      "id": "t48jal",
-      "title": "Sculptors see the fruit of their labour as oranges become art",
-      "summary": "A Fijian house made out of oranges is on display at Australia's only citrus sculpture event in southern NSW.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-18/griffith-spring-festival-citrus-sculptures/107263554",
-      "image": null,
-      "publishedAt": "2026-10-17T23:28:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "7pexai",
-      "title": "Back where they belong, Murray Cod bring new life to SA's Lake Bonney",
-      "summary": "About 600 mature native fish have been released into South Australia's Lake Bonney for the first time to significantly improve the lake's health and encourage more tourism.",
-      "category": "health",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-18/lake-bonney-instant-fishery-local-release-spawn-ready-murray-cod/107255682",
-      "image": null,
-      "publishedAt": "2026-10-17T23:00:33.000Z",
-      "sample": false
-    },
-    {
-      "id": "mrye30",
-      "title": "A secret diagnosis could have torn us apart, but it brought us together",
-      "summary": "Vinko Anthony says stigma around his condition led him to keep it hidden from his partner, Andrea Zara, for five years.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-18/love-story-secret-diagnosis-vinko-and-andrea/107096790",
-      "image": null,
-      "publishedAt": "2026-10-17T23:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "gt1qvn",
-      "title": "Women's group vows they're 'not going to get grey hair and do it quietly'",
-      "summary": "When you reach a certain age, going against societal expectations can be a lot of fun when you're in good company, say joyous \"red hatters\".",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-18/red-hat-rebels-south-wollongong-ruby-ragers/107164590",
-      "image": null,
-      "publishedAt": "2026-10-17T22:29:24.000Z",
-      "sample": false
-    },
-    {
-      "id": "4pmtj2",
-      "title": "'Outstanding' Tonga puts England on the brink of World Cup elimination",
-      "summary": "Tonga coach Kristian Woolf says his team's depth and quality mean the Mate Ma'a can go on with it after their big win over England at the Rugby League World Cup.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-18/tonga-getting-better-and-better-after-england-world-cup-win/107280336",
-      "image": null,
-      "publishedAt": "2026-10-17T22:25:41.000Z",
-      "sample": false
-    },
-    {
-      "id": "9i43c6",
-      "title": "Basque migrants transformed town and left behind heritage handball court",
-      "summary": "Handball is played in schools all around Australia but this court is different — and the stories it holds led to a heritage listing.",
-      "category": "society",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-18/trebonne-heritage-listed-basque-handball-court/107217934",
-      "image": null,
-      "publishedAt": "2026-10-17T22:03:20.000Z",
-      "sample": false
-    },
-    {
-      "id": "kq3hi9",
-      "title": "How to deal with spring weeds before they take over your garden",
-      "summary": "As Australia faces the springtime sun, it is peak season for wildflowers, exotic annuals and native shrubs. It is also a great time for weeds.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-18/spring-peak-season-flowers-garden-weeds-how-control/107248924",
-      "image": null,
-      "publishedAt": "2026-10-17T21:33:51.000Z",
-      "sample": false
-    },
-    {
-      "id": "v77j9p",
-      "title": "How artificial intelligence is helping the lobster industry",
-      "summary": "Artificial intelligence technology capable of recognising individual lobsters is being used in a bid to strengthen consumer trust — and even break into new markets.",
-      "category": "technology",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-18/lobster-industry-ai-tools-helping-tracing-landline/107211678",
-      "image": null,
-      "publishedAt": "2026-10-17T21:22:29.000Z",
       "sample": false
     }
   ],
@@ -357,6 +357,17 @@
       "url": "https://www.abc.net.au/news/2026-10-18/top-100-books-australian-books-live-blog-2026-radio-national/107276838",
       "image": null,
       "publishedAt": "2026-10-18T03:36:40.000Z",
+      "sample": false
+    },
+    {
+      "id": "vj2y4x",
+      "title": "Live: Rain curtails opening session after just five overs",
+      "summary": "Australia looks to build on its spectacular first Test victory over South Africa when the series moves to Gqeberha in the Eastern Cape. Follow all the day one action live.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-18/live-updates-south-africa-vs-australia-second-test-day-one/107277420",
+      "image": null,
+      "publishedAt": "2026-10-18T07:09:42.000Z",
       "sample": false
     }
   ]

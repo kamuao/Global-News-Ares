@@ -2,23 +2,254 @@
   "id": "FRA",
   "name": "France",
   "sample": false,
-  "updatedAt": "2026-10-18T03:53:28.582Z",
+  "updatedAt": "2026-10-18T10:41:58.024Z",
   "daily": [
     {
-      "id": "c7fr4",
-      "title": "EN DIRECT, guerre en Ukraine : Marco Rubio relativise la décision de Donald Trump d’exempter la Russie de nouvelles sanctions",
-      "summary": "Le chef de la diplomatie américaine a assuré qu’il s’agissait d’une pause de soixante jours destinée à « analyser » les répercussions économiques de ces sanctions, qui devaient principalement viser le secteur énergétique russe, sur l’économie mondiale et celle des Etats-Unis. Donald Trump a, pour sa part, invoqué « l’i",
+      "id": "1828kz",
+      "title": "EN DIRECT, guerre en Ukraine : Volodymyr Zelensky dénonce 76 attaques russes contre le secteur énergétique depuis l’annonce d’une trêve par Donald Trump",
+      "summary": "Des sous-stations électriques ont notamment été visées dans la nuit de samedi à dimanche dans les régions de Vinnytsia, Jytomyr, Khmelnytsky et Odessa, laissant des dizaines de milliers de familles sans courant. Les attaques nocturnes ont également touché des habitations, faisant deux morts et douze blessés, dont deux ",
       "category": "politics",
       "source": "le-monde",
-      "url": "https://www.lemonde.fr/international/live/2026/10/18/en-direct-guerre-en-ukraine-marco-rubio-relativise-la-decision-de-donald-trump-d-exempter-la-russie-de-nouvelles-sanctions_6796922_3210.html",
-      "image": "https://img.lemde.fr/2026/10/18/459/0/5500/2750/644/322/60/0/af8e61a_ftp-1-58y15itwuieo-09c1eef07f6e49e69ff44c5b7efc1c24-0-3881b2882f5d4fa188feb394b6184bc2.jpg",
-      "publishedAt": "2026-10-18T03:41:20.000Z",
+      "url": "https://www.lemonde.fr/international/live/2026/10/18/en-direct-guerre-en-ukraine-volodymyr-zelensky-denonce-76-attaques-russes-contre-le-secteur-energetique-depuis-l-annonce-d-une-treve-par-donald-trump_6796922_3210.html",
+      "image": "https://img.lemde.fr/2026/10/16/88/0/1024/512/644/322/60/0/5333786_ftp-1-gdvrjh3k2wck-afp-d3h98q4-1024.jpg",
+      "publishedAt": "2026-10-18T09:29:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "bkajzy",
+      "title": "Canada : un incendie sur une base militaire en Alberta fait des morts et des blessés, les établissements de santé « complètement submergés »",
+      "summary": "Les hôpitaux de Wainwright sont débordés après l’incendie, tandis que le vote anticipé pour le référendum local a dû être suspendu dans la région.",
+      "category": "society",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/10/18/canada-un-incendie-sur-une-base-militaire-en-alberta-fait-des-morts-et-des-blesses-les-etablissements-de-sante-completement-submerges_6797056_3210.html",
+      "image": "https://img.lemde.fr/2026/10/18/688/0/8256/4128/644/322/60/0/fd2fce9_ftp-1-uecpuznsi2g9-03dba0b7c3fb4622a1cd61c5704d02c0-0-18c98dfb754a405090d04d11fc2969fb.jpg",
+      "publishedAt": "2026-10-18T09:06:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "66ndl0",
+      "title": "France: Protests \"brought the entire population together for a common purpose\"",
+      "summary": "This weekend, in cities across France, some 800,000 protesters, including students, railway workers and members of the Yellow Vest movement, took to the streets in largely peaceful nationwide demonstrations. Sparked by a month of high school student protests over educational inequality and crumbling school facilities, ",
+      "category": "society",
+      "source": "france24",
+      "url": "https://www.france24.com/en/video/20261018-france-protests-brought-the-entire-population-together-for-a-common-purpose",
+      "image": "https://s.france24.com/media/display/5b3222c4-cad2-11f1-9b89-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261018-101748-102037-CS.jpg",
+      "publishedAt": "2026-10-18T09:05:03.000Z",
+      "sample": false
+    },
+    {
+      "id": "t5p64l",
+      "title": "France: Who took part in Saturday's protests?",
+      "summary": "Weeks of student protests over poor conditions in schools and rising anger over the cost of living fuelled calls for a nationwide demonstration on October 17, bringing together youth activists and supporters of the Yellow Vest movement.\n\nThe main grievance was the cost of living. The protesters demonstrating against it",
+      "category": "health",
+      "source": "france24",
+      "url": "https://www.france24.com/en/video/20261018-france-who-took-part-in-saturday-s-protests",
+      "image": "https://s.france24.com/media/display/b40d3708-cad2-11f1-906d-638c1c1f5fd6/w:1024/p:16x9/capture-823ce114.jpg",
+      "publishedAt": "2026-10-18T09:03:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "nznt6c",
+      "title": "France: Who was behind the violence at Saturday's protests?",
+      "summary": "Violent clashes, fires, vandalism and looting marred demonstrations across France on Saturday as hundreds of thousands of people marched against the rising cost of living and poor conditions in schools. The French Interior Ministry said about 400 people were arrested nationwide. Our partner TV station France 2 examined",
+      "category": "health",
+      "source": "france24",
+      "url": "https://www.france24.com/en/video/20261018-france-who-was-behind-the-violence-at-saturday-s-protests",
+      "image": "https://s.france24.com/media/display/c1ff195a-cad0-11f1-b9ce-d1d2c32ebb87/w:1024/p:16x9/EN-20261018-101142-101423-CS.jpg",
+      "publishedAt": "2026-10-18T09:01:22.000Z",
+      "sample": false
+    },
+    {
+      "id": "uydeil",
+      "title": "France protests: Did the government make the wrong decisions?",
+      "summary": "Police in Paris said Sunday they had arrested a \"record\" 855 people over protest-related violence in the capital the day before, with the prosecutor's office saying more than 500 were being held in custody. France 24's Shirli Sitbon analyses.",
+      "category": "society",
+      "source": "france24",
+      "url": "https://www.france24.com/en/video/20261018-france-protests-did-the-government-make-the-wrong-decisions",
+      "image": "https://s.france24.com/media/display/6223078a-cad0-11f1-8c01-2d1c143cdef3/w:1024/p:16x9/EN-20261018-100442-101117-CS.jpg",
+      "publishedAt": "2026-10-18T09:00:22.000Z",
+      "sample": false
+    },
+    {
+      "id": "mcdg2p",
+      "title": "« Il a commencé là et il va finir là » : à Tours, le volleyeur Earvin Ngapeth accueilli avec ferveur pour son retour dans son premier club professionnel",
+      "summary": "Le double champion olympique a remporté son premier match avec Tours, samedi 17 octobre, face à Nice, plus de quinze ans après avoir quitté son club formateur.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/sport/article/2026/10/18/il-a-commence-la-et-il-va-finir-la-a-tours-le-volleyeur-earvin-ngapeth-accueilli-avec-ferveur-pour-son-retour-dans-son-premier-club-professionnel_6797055_3242.html",
+      "image": "https://img.lemde.fr/2026/10/18/1584/0/3829/1914/644/322/60/0/c4ddfd7_upload-1-53cro3dxs93x-retourngapethatours-102.jpg",
+      "publishedAt": "2026-10-18T09:00:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "2e633",
+      "title": "Ligue 1: PSG Back on top of Ligue 1 after stunning Strasbourg comeback",
+      "summary": "After trailing Strasbourg for more than 60 minutes, the Parisians called upon their substitutes to turn the game around. Following their spectacular Champions League victory over Manchester City and ahead of their clash with FC Barcelona, PSG are brimming with confidence.",
+      "category": "politics",
+      "source": "france24",
+      "url": "https://www.france24.com/en/tv-shows/sports/20261018-ligue-1-psg-back-on-top-of-ligue-1-after-stunning-strasbourg-comeback",
+      "image": "https://s.france24.com/media/display/5f6628de-ca98-11f1-8a9c-638c1c1f5fd6/w:1024/p:16x9/000-D3LB6RQ.jpg",
+      "publishedAt": "2026-10-18T08:48:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "fs2nac",
+      "title": "Avec « Référendum citoyen », le projet très politique de la famille Jardin",
+      "summary": "Après le mouvement Les Gueux, la nouvelle application lancée par l’écrivain et son fils veut imposer de la démocratie directe dans la politique, et engrange surtout des soutiens à droite.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/politique/article/2026/10/18/avec-referendum-citoyen-le-projet-tres-politique-de-la-famille-jardin_6797050_823448.html",
+      "image": "https://img.lemde.fr/2026/10/15/2036/0/11656/5828/644/322/60/0/a5d2c86_upload-1-yx47t2te8uf9-2025-08-29-alexandre-jardin-terencebk-52.jpg",
+      "publishedAt": "2026-10-18T08:07:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "uyxo23",
+      "title": "Comment l’industrie allemande a changé de position face à la Chine",
+      "summary": "En prenant conscience que le sacro-saint libre-échange atteignait ses limites, l’industrie d’outre-Rhin, confrontée à une perte massive d’emplois, a joué un rôle décisif dans les derniers accords scellés entre Paris et Berlin pour protéger l’Europe face à la concurrence déloyale de Pékin.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/idees/article/2026/10/18/comment-l-industrie-allemande-a-change-de-position-face-a-la-chine_6797048_3232.html",
+      "image": "https://img.lemde.fr/2026/09/23/334/0/4000/2000/644/322/60/0/22b7f75_ftp-1-jmiknxc2iisb-2026-09-23t095619z-2009013722-rc2bqlaqeadw-rtrmadp-3-eurozone-economy-pmi.JPG",
+      "publishedAt": "2026-10-18T08:00:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "ad9aea",
+      "title": "Inquiétudes autour de l’avenir de la Halle Saint-Pierre, haut lieu parisien de l’art brut",
+      "summary": "Privé brutalement de sa subvention en 2026 par la Ville de Paris, avec laquelle le dialogue s’est fortement dégradé, le centre culturel est en attente d’une nouvelle direction.",
+      "category": "society",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/culture/article/2026/10/18/inquietudes-autour-de-l-avenir-de-la-halle-saint-pierre-haut-lieu-parisien-de-l-art-brut_6797046_3246.html",
+      "image": "https://img.lemde.fr/2026/10/12/520/0/6240/3120/644/322/60/0/9ca20c0_upload-1-rls8opb1qzq3-rea11650254.jpg",
+      "publishedAt": "2026-10-18T08:00:09.000Z",
+      "sample": false
+    },
+    {
+      "id": "kl3l68",
+      "title": "En Tunisie, plusieurs milliers de personnes ont manifesté samedi dans les rues de la capitale, malgré la répression du régime de Kaïs Saïed",
+      "summary": "Depuis le coup de force du président tunisien, il y a cinq ans, une chape de plomb s’est abattue sur le pays. Une marche s’est malgré tout tenue à Tunis samedi 17 octobre, à l’appel de nombreuses organisations syndicales et de la société civile.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/10/18/en-tunisie-plusieurs-milliers-de-personnes-manifestent-dans-les-rues-de-la-capitale-malgre-la-repression-du-regime-de-kais-saied_6797045_3210.html",
+      "image": "https://img.lemde.fr/2026/10/17/102/0/1024/512/644/322/60/0/e2e532e_ftp-1-q0jml5scw4h1-afp-d3kl2qb-1024.jpg",
+      "publishedAt": "2026-10-18T07:41:28.000Z",
+      "sample": false
+    },
+    {
+      "id": "lt9b7h",
+      "title": "Months-long Indonesia wildfires spew toxic haze across Southeast Asia",
+      "summary": "Parts of southern Southeast Asia have been put under the highest-level haze alert as wildfires that have swept Indonesia for months continue to belch toxic smoke across the region. The seasonal wildfires are worse this year due to the drought conditions caused by a severe \"super-El Nino\" effect.",
+      "category": "environment",
+      "source": "france24",
+      "url": "https://www.france24.com/en/asia-pacific/20261018-months-long-indonesia-wildfires-spew-toxic-haze-across-southeast-asia",
+      "image": "https://s.france24.com/media/display/959c6e42-cab9-11f1-bcc1-2d1c143cdef3/w:1024/p:16x9/2026-09-25T172531Z-1337943422-RC29QNASKLJ4-RTRMADP-3-ASIA-WEATHER-INDONESIA-WILDFIRE.jpg",
+      "publishedAt": "2026-10-18T06:30:35.000Z",
+      "sample": false
+    },
+    {
+      "id": "s8qizk",
+      "title": "India's 'cockroach' movement founder released from police custody",
+      "summary": "Indian police released Cockroach Janta Party (CJP) founder Abhijeet Dipke from detention on Saturday after the activist was detained ahead of a rally calling for the resignation of India's chief election commissioner. Two other CJP leaders remain in custody after having been arrested while demonstrating at a protest si",
+      "category": "society",
+      "source": "france24",
+      "url": "https://www.france24.com/en/asia-pacific/20261018-india-s-cockroach-movement-founder-released-from-police-custody",
+      "image": "https://s.france24.com/media/display/b8ff30cc-cab4-11f1-8c54-6313a763b466/w:1024/p:16x9/000-D3KJ7R8.jpg",
+      "publishedAt": "2026-10-18T05:47:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lielte",
+      "title": "Céline Dion clôt en beauté sa première série de concerts à Paris : « Je m’ennuie déjà de vous ! »",
+      "summary": "Au total, la star aura donné, depuis le 12 septembre, 16 concerts grandioses, qui ont parfois laissé place à des parenthèses spontanées avec son public.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/culture/article/2026/10/18/celine-dion-clot-en-beaute-sa-premiere-serie-de-concerts-a-paris-je-m-ennuie-deja-de-vous_6797040_3246.html",
+      "image": "https://img.lemde.fr/2026/09/12/1000/0/6000/3000/644/322/60/0/4ef144f_ftp-1-xyjff35suhkq-2026-09-12t194255z-877545544-rc2vhnaap3qq-rtrmadp-3-people-celine-dion-france.JPG",
+      "publishedAt": "2026-10-18T05:45:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "768svf",
+      "title": "« L’aveu d’impuissance au Moyen-Orient mine les démocraties occidentales »",
+      "summary": "Le décalage entre les discours et les actes dans la région sape la crédibilité intérieure et internationale des dirigeants occidentaux, analyse l’historien Jean-Pierre Filiu dans sa chronique au « Monde ».",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/10/18/l-aveu-d-impuissance-au-moyen-orient-mine-les-democraties-occidentales_6797036_3210.html",
+      "image": "https://img.lemde.fr/2026/10/16/91/0/6000/3000/644/322/60/0/f64c9d3_ftp-1-clbppazeoips-94eeeed3f5184051bbc9796fa153ab74-0-35974e199a1c441183c31c05a2fa28f1.jpg",
+      "publishedAt": "2026-10-18T04:25:13.000Z",
+      "sample": false
+    },
+    {
+      "id": "uwq57q",
+      "title": "Aux Etats-Unis, dans les manifestations « No Kings », les opposants à Donald Trump entre espoir de changement et inquiétudes",
+      "summary": "Les défilés « No Kings », le principal mouvement de contestation anti-Trump, ont à nouveau rassemblé, samedi, à travers tout le pays. Une mobilisation matinée d’appréhensions, à une quinzaine de jours du scrutin crucial des Midterms.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/10/18/aux-etats-unis-dans-les-manifestations-no-kings-les-opposants-a-donald-trump-entre-espoir-de-changement-et-inquietudes_6797035_3210.html",
+      "image": "https://img.lemde.fr/2026/10/18/85/0/1024/512/644/322/60/0/3f87db7_ftp-1-bak1vxxif5by-2300224891-1024.jpg",
+      "publishedAt": "2026-10-18T04:25:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "dyeyxm",
+      "title": "Mobilisation du 17 octobre : une foule de manifestants, des violences et des pillages, récit d’une longue journée en France qui a viré au chaos",
+      "summary": "Samedi, 800 000 personnes ont défilé selon les organisateurs, 550 000 selon le ministre de l’intérieur, Laurent Nuñez. Dans plusieurs villes, le même schéma s’est répété : d’un côté une foule de manifestants, de l’autre des groupes indépendants décidés à en découdre.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/societe/article/2026/10/18/mobilisation-du-17-octobre-des-manifestations-d-ampleur-conclues-dans-le-chaos_6797034_3224.html",
+      "image": "https://img.lemde.fr/2026/10/18/18/0/3000/1500/644/322/60/0/245d294_upload-1-7pb0gadkxl2w-asurp-manif17oct-108908.jpg",
+      "publishedAt": "2026-10-18T04:20:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "zglg8c",
+      "title": "En Chine, des grands-parents réclament une indemnité pour avoir gardé leurs petits-enfants",
+      "summary": "Faute de places en crèche ou par souci d’économie, les aïeuls gardent les enfants dans une large majorité des foyers chinois. Mais certains se pourvoient désormais en justice pour demander une compensation pour ces années non rémunérées.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/international/article/2026/10/18/en-chine-des-grands-parents-reclament-une-indemnite-pour-avoir-garde-leurs-petits-enfants_6797033_3210.html",
+      "image": "https://img.lemde.fr/2026/10/16/333/0/4000/2000/644/322/60/0/8ece4cb_upload-1-2tbqguf23f2s-000-9m36jk.jpg",
+      "publishedAt": "2026-10-18T04:20:09.000Z",
+      "sample": false
+    },
+    {
+      "id": "ry4ga2",
+      "title": "« Dès qu’une tête dépasse, il la coupe » : Muhoozi Kainerugaba, héritier brutal et fantasque du président ougandais",
+      "summary": "Le fils du chef de l’Etat, déjà à la tête des forces armées et successeur présumé de son père à la présidence, est accusé de multiples violations des droits humains et enchaîne, sur les réseaux sociaux, les tirades aussi baroques que terrifiantes.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/afrique/article/2026/10/18/des-qu-une-tete-depasse-il-la-coupe-muhoozi-kainerugaba-heritier-brutal-et-fantasque-du-president-ougandais_6796997_3212.html",
+      "image": "https://img.lemde.fr/2026/10/16/177/0/4084/2042/644/322/60/0/0c0a6cd_upload-1-vizgqvsvklnc-000-b2q638g.jpg",
+      "publishedAt": "2026-10-18T04:00:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "juezm6",
+      "title": "COP17 d’Erevan : face à l’effondrement de la biodiversité, des efforts « inégaux et insuffisants » de l’humanité",
+      "summary": "Alors que la planète est au seuil d’une extinction de masse, les Etats doivent agir plus fortement pour atteindre les objectifs qu’ils se sont fixés en 2022, et espérer inverser la tendance au déclin d’ici à 2030. La COP17 en Arménie est l’occasion de tirer un bilan à mi-parcours.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/planete/article/2026/10/18/cop17-d-erevan-face-a-l-effondrement-de-la-biodiversite-des-efforts-inegaux-et-insuffisants-de-l-humanite_6796960_3244.html",
+      "image": "https://img.lemde.fr/2026/08/14/664/0/4429/2214/644/322/60/0/8f7b604_upload-1-bpqsimnronnx-26-07-12-1438.jpg",
+      "publishedAt": "2026-10-18T04:00:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "hz781c",
+      "title": "Live: Around 1,500 shops and retailers damaged during French protests, trade group says",
+      "summary": "Roughly 1,500 shops and retailers were damaged during the demonstrations that swept France on the weekend, many of them looted, the head of the Retail and Trade Federation said Sunday. Interior Minister Laurent Nuñez said that police had arrested more than 1,800 people as outbursts of arson and looting broke out on the",
+      "category": "economy",
+      "source": "france24",
+      "url": "https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france",
+      "image": "https://s.france24.com/media/display/a9aecc2c-cadc-11f1-93d3-d1d2c32ebb87/w:1024/p:16x9/2026-10-18T095418Z-932457184-RC2J5OAZZ1QE-RTRMADP-3-FRANCE-PROTEST.jpg",
+      "publishedAt": "2026-10-18T03:09:25.000Z",
       "sample": false
     },
     {
       "id": "wcx1dr",
       "title": "Rubio says Trump to 'analyze' global impact of Russia sanctions during pause",
-      "summary": "US Secretary of State Marco Rubio said Saturday that President Donald Trump’s decision to waive sanctions and tariffs on Russia would last 60 days, as the move drew bipartisan criticism and raised fears in Ukraine that Washington could ease further restrictions on Moscow.",
+      "summary": "US Secretary of State Marco Rubio said Saturday that US President Donald Trump’s decision to waive sanctions and tariffs on Russia would last 60 days, as the move drew bipartisan criticism and raised fears in Ukraine that Washington could ease further restrictions on Moscow.",
       "category": "economy",
       "source": "france24",
       "url": "https://www.france24.com/en/americas/20261018-rubio-says-trump-russia-sanctions-waiver-designed-to-analyze-global-impact",
@@ -29,34 +260,12 @@
     {
       "id": "2cy90",
       "title": "‘Standing up for democracy’: Atlanta ‘No Kings’ rally draws Trump critics ahead of midterms",
-      "summary": "“No Kings, Vote Now” was the theme of a rally in Atlanta, one of many organised across the US on Saturday. While many demonstrators denounced President Donald Trump’s policies, organisers said the rally was aimed at getting out the vote in the November 3 midterm elections and protecting democracy in America.",
+      "summary": "“No Kings, Vote Now” was the theme of a rally in Atlanta, one of many organised across the US on Saturday. While many demonstrators denounced US President Donald Trump’s policies, organisers said the rally was aimed at getting out the vote in the November 3 midterm elections and protecting democracy in America.",
       "category": "politics",
       "source": "france24",
       "url": "https://www.france24.com/en/americas/20261018-standing-up-for-democracy-atlanta-no-kings-rally-draws-trump-critics-ahead-of-us-midterms",
       "image": "https://s.france24.com/media/display/f5ef54b2-ca8c-11f1-b97e-2d1c143cdef3/w:1024/p:16x9/AP26290606906702.jpg",
       "publishedAt": "2026-10-18T01:50:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "kehhwq",
-      "title": "En Cisjordanie occupée, des colons attaquent un convoi diplomatique européen et frappent un maire français",
-      "summary": "Le bureau du premier ministre israélien, Benyamin Nétanyahou, a affirmé que les diplomates auraient dû coordonner leurs déplacements avec l’armée de l’Etat hébreu. Il a aussi mis en avant le fait que l’édile du nord de la France roué de coups, Bernard Baudoux, 78 ans, était un communiste connu pour soutenir la cause pa",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/international/article/2026/10/18/en-cisjordanie-des-colons-attaquent-un-convoi-diplomatique-europeen-et-frappent-un-maire-du-nord-de-la-france_6796789_3210.html",
-      "image": "https://img.lemde.fr/2026/10/17/103/0/3455/1727/644/322/60/0/fd3f3fb_ftp-1-ttnrvtxvrili-2026-10-17t171942z-2076966206-rc245oaxmepl-rtrmadp-3-israel-palestinians-settlers-attack-diplomats.JPG",
-      "publishedAt": "2026-10-18T01:00:50.000Z",
-      "sample": false
-    },
-    {
-      "id": "o02go2",
-      "title": "Le pape Léon XIV, jugé « apte » à quitter l’hôpital, est de retour au Vatican, quatre jours après son opération au poumon",
-      "summary": "Après avoir été opéré d’un nodule pulmonaire cancéreux à la polyclinique Gemelli de Rome, le souverain pontife de 71 ans se trouve dans un « état clinique absolument satisfaisant », a affirmé l’un de ses médecins.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/international/article/2026/10/18/le-pape-leon-xiv-juge-apte-a-quitter-l-hopital-est-de-retour-au-vatican-quatre-jours-apres-son-operation-au-poumon_6796756_3210.html",
-      "image": "https://img.lemde.fr/2026/10/17/316/0/3792/1896/644/322/60/0/76b7fd7_ftp-1-1xrhsljnshdx-f04fbd2e5b7d416ca3114f5653c3db13-1-28c68cd11ed645d98cbcbace2261b78b.jpg",
-      "publishedAt": "2026-10-17T23:37:42.000Z",
       "sample": false
     },
     {
@@ -68,50 +277,6 @@
       "url": "https://www.france24.com/en/france/20261017-looters-seize-massive-french-protests-raid-vandalise-shops-france",
       "image": "https://s.france24.com/media/display/fab94d12-ca51-11f1-a0cb-638c1c1f5fd6/w:1024/p:16x9/cc2ac62c67a25e9ff25aff593865d3fa117e6424.jpg",
       "publishedAt": "2026-10-17T20:15:02.000Z",
-      "sample": false
-    },
-    {
-      "id": "6rhptn",
-      "title": "EN DIRECT, manifestations du 17 octobre : le gouvernement annonce 550 000 manifestants, les organisateurs, 800 000 ; environ 1 200 interpellations ; « des violences urbaines d’une gravité inouïe se sont déroulées et se déroulent encore »",
-      "summary": "Dans la capitale, mais aussi à Lille, à Lyon et à Marseille, de fortes tensions ont été signalées par nos journalistes sur le terrain. Des destructions ont aussi été observées dans les grandes villes.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-le-gouvernement-annonce-550-000-manifestants-les-organisateurs-800-000-environ-400-interpellations-des-violences-urbaines-d-une-gravite-inouie-se-sont-deroulees-et-se-deroulent-encore_6795855_3224.html",
-      "image": "https://img.lemde.fr/2026/10/17/171/0/2048/1024/644/322/60/0/ac8d91b_upload-1-fcxu1nz28st7-whatsapp-image-2026-10-17-at-22-10-06-1.jpeg",
-      "publishedAt": "2026-10-17T20:11:27.000Z",
-      "sample": false
-    },
-    {
-      "id": "5wiaao",
-      "title": "Tennis de table : les frères Lebrun conservent leur titre de champions d’Europe en double",
-      "summary": "Deux ans après leur sacre à Linz, en Autriche, les Montpelliérains ont confirmé leur statut de numéros un mondiaux dans l’épreuve.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/sport/article/2026/10/17/tennis-de-table-les-freres-lebrun-conservent-leur-titre-de-champions-d-europe-en-double_6796688_3242.html",
-      "image": "https://img.lemde.fr/2026/10/17/38/0/1023/511/644/322/60/0/89a86f7_ftp-1-nmblpiprcfvt-afp-d3lj446-1024.jpg",
-      "publishedAt": "2026-10-17T19:08:08.000Z",
-      "sample": false
-    },
-    {
-      "id": "mqat5n",
-      "title": "« L’économie du Brésil est en croissance grâce au niveau élevé des cours mondiaux des matières premières plus qu’à un succès du gouvernement Lula »",
-      "summary": "Si, le 25 octobre, Lula échoue au second tour de la présidentielle au Brésil, sa défaite sera celle d’un homme du passé, mais aussi celle d’une gauche restée aveugle à la hausse du coût de la vie et aux menaces du crime organisé au Brésil, estime l’économiste chilien Andrés Velasco, dans une tribune au « Monde ».",
-      "category": "society",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/17/l-economie-du-bresil-est-en-croissance-grace-au-niveau-eleve-des-cours-mondiaux-des-matieres-premieres-plus-qu-a-un-succes-du-gouvernement-lula_6796586_3232.html",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/3b3400d_upload-1-zebhfx4wcsuv-frame-1196.jpg",
-      "publishedAt": "2026-10-17T18:00:12.000Z",
-      "sample": false
-    },
-    {
-      "id": "s6kq5h",
-      "title": "Morts au travail : en Charente, un rassemblement pour continuer d’alerter sur un fait social",
-      "summary": "A l’occasion d’un séminaire, une association de familles de victimes tire le bilan de ses actions et acte le manque de prise en compte des accidents du travail mortels au niveau politique, alors que l’Assurance-maladie fait état d’une nouvelle augmentation de ces derniers en 2025.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/17/morts-au-travail-en-charente-un-rassemblement-pour-continuer-d-alerter-sur-un-fait-social_6796585_3234.html",
-      "image": "https://img.lemde.fr/2026/10/17/0/0/5000/2500/644/322/60/0/0aa4605_upload-1-igl5dtw4ypxw-maxnewsspecialtwo580693.jpg",
-      "publishedAt": "2026-10-17T18:00:09.000Z",
       "sample": false
     },
     {
@@ -137,14 +302,14 @@
       "sample": false
     },
     {
-      "id": "10wq05",
-      "title": "Dans le Michigan, une shérif contre Trump : « Dès que j’ai pris mes fonctions, nous avons arrêté toute coopération avec la police de l’immigration »",
-      "summary": "Elue en 2024, à seulement 33 ans, la shérif du comté de Washtenaw, dans le Michigan, Alyshia Dyer, a remporté une bataille décisive face à l’administration Trump et sa politique de lutte contre l’immigration illégale. Elle a défendu le droit de la police locale de ne pas collaborer avec les agents de l’ICE.",
-      "category": "technology",
+      "id": "1hb3ki",
+      "title": "Avec son deuxième album, Danielle Ponder accomplit son « rêve » : passer d’avocate à chanteuse",
+      "summary": "Découverte lors des Trans Musicales de Rennes, en 2022, l’Américaine publie l’album « Everything Has Changed », dans lequel elle évoque ses combats, ses racines africaines et ses blessures personnelles.",
+      "category": "military",
       "source": "le-monde",
-      "url": "https://www.lemonde.fr/m-le-mag/article/2026/10/17/dans-le-michigan-une-sherif-contre-trump-des-que-j-ai-pris-mes-fonctions-nous-avons-arrete-toute-cooperation-avec-la-police-de-l-immigration_6796481_4500055.html",
-      "image": "https://img.lemde.fr/2026/10/13/748/0/7398/3699/644/322/60/0/29d09d2_upload-1-gocki0h2plbf-787-sem-sherriff-004.jpg",
-      "publishedAt": "2026-10-17T16:00:07.000Z",
+      "url": "https://www.lemonde.fr/culture/article/2026/10/17/avec-son-deuxieme-album-danielle-ponder-accomplit-son-reve-passer-d-avocate-a-chanteuse_6796482_3246.html",
+      "image": "https://img.lemde.fr/2026/10/14/564/0/5139/2569/644/322/60/0/0e4e463_upload-1-9ttpdsahsnxc-danielleponder0975-2-edit-copy.jpeg",
+      "publishedAt": "2026-10-17T16:00:10.000Z",
       "sample": false
     },
     {
@@ -170,6 +335,28 @@
       "sample": false
     },
     {
+      "id": "r5owf6",
+      "title": "« Avatars du vide » sur Arte.tv : une vulgarisation pleine d’esprit d’une notion complexe",
+      "summary": "Après « Voyages au pays des maths », Denis van Waerebeke livre une étude érudite, humoristique et intime des représentations d’une notion ébauchée il y a deux mille cinq cents ans.",
+      "category": "politics",
+      "source": "le-monde",
+      "url": "https://www.lemonde.fr/culture/article/2026/10/17/avatars-du-vide-sur-arte-tv-une-vulgarisation-pleine-d-esprit-d-une-notion-complexe_6796446_3246.html",
+      "image": "https://img.lemde.fr/2026/10/12/25/0/1920/960/644/322/60/0/12dea9e_upload-1-qz4dc8ez81vf-122169-000-a-spho-005.jpg",
+      "publishedAt": "2026-10-17T15:30:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "q4e2jd",
+      "title": "🔴 Live: Protester’s hand blown off by police grenade as unions say half a million march across France",
+      "summary": "",
+      "category": "society",
+      "source": "france24",
+      "url": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
+      "image": null,
+      "publishedAt": "2026-10-17T15:25:51.000Z",
+      "sample": false
+    },
+    {
       "id": "vreip4",
       "title": "US: Four killed in Oregon school shooting",
       "summary": "The teenage gunman who shot dead three children and a teacher in an Oregon school was a former special needs student there, officials said Friday, as they praised the heroism of people who helped to shorten the rampage.",
@@ -192,17 +379,6 @@
       "sample": false
     },
     {
-      "id": "m3gv11",
-      "title": "Au Maroc, un nouveau gouvernement formé, mais peu de changement, sauf pour les femmes",
-      "summary": "Trente-deux ministres ont prêté serment devant le roi du pays, Mohammed VI, vendredi 16 octobre, mais 40 % d’entre eux étaient déjà en poste. Les femmes, elles, reculent dans la hiérarchie gouvernementale.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/international/article/2026/10/17/au-maroc-un-nouveau-gouvernement-forme-mais-peu-de-changement-sauf-pour-les-femmes_6796443_3210.html",
-      "image": "https://img.lemde.fr/2026/10/16/170/0/1024/512/644/322/60/0/25ede1f_ftp-1-bmty0lma3avb-afp-d3hv2gr-1024.jpg",
-      "publishedAt": "2026-10-17T15:08:53.000Z",
-      "sample": false
-    },
-    {
       "id": "d1wz6s",
       "title": "France: What's different about today's protests?",
       "summary": "In France, protests are under way across the country this Saturday. Demonstrators are protesting against the high cost of living, as well as poor working and studying conditions. We discuss this with France 24's Jamie Smith-Maillet.",
@@ -211,28 +387,6 @@
       "url": "https://www.france24.com/en/video/20261017-france-what-s-different-about-today-s-protests",
       "image": "https://s.france24.com/media/display/33426cd0-ca3a-11f1-b890-638c1c1f5fd6/w:1024/p:16x9/EN-20261017-150100-150446-CS.jpg",
       "publishedAt": "2026-10-17T15:07:08.000Z",
-      "sample": false
-    },
-    {
-      "id": "yx8dlm",
-      "title": "« Javier Milei préfère la réalité alternative à celle, beaucoup moins reluisante, de l’économie réelle en Argentine »",
-      "summary": "Maria Julia Giménez et Stéphane Boisard, spécialistes des extrêmes droites néolibérales en Amérique latine, déplorent, dans une tribune au « Monde », la fascination des ultralibéraux français pour la politique économique du président argentin, jugée alarmante par les instances financières internationales.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/idees/article/2026/10/17/javier-milei-prefere-la-realite-alternative-a-celle-beaucoup-moins-reluisante-de-l-economie-reelle-en-argentine_6796410_3232.html",
-      "image": "https://img.lemde.fr/2026/02/25/125/0/1500/750/644/322/60/0/4309753_upload-1-9kpfjgtje1qe-frame-833.jpg",
-      "publishedAt": "2026-10-17T15:00:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "pne65n",
-      "title": "Une omoplate de Néandertalien perforée par un projectile de bois découverte",
-      "summary": "Les restes d’un individu inhumé il y a 75 000 ans dans la grotte de Shanidar, dans le Kurdistan irakien, portent les traces de graves blessures, dont la dernière a été fatale.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/sciences/article/2026/10/17/une-omoplate-de-neandertalien-perforee-par-un-projectile-de-bois-decouverte_6796409_1650684.html",
-      "image": "https://img.lemde.fr/2026/10/16/81/0/2346/1173/644/322/60/0/b9db82a_upload-1-zpbpfud0hncr-scapula.jpg",
-      "publishedAt": "2026-10-17T15:00:07.000Z",
       "sample": false
     },
     {
@@ -256,175 +410,10 @@
       "image": "https://s.france24.com/media/display/81494806-ca38-11f1-95a3-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261017-130538-131009-CS.jpg",
       "publishedAt": "2026-10-17T14:46:52.000Z",
       "sample": false
-    },
-    {
-      "id": "mc09ns",
-      "title": "France: Students, unions and Yellow Vests unite against austerity",
-      "summary": "190 000 people could demonstrate this Saturday in France. They called for street demonstrations Saturday against rising living costs, joining high school students' grievances over education conditions after more than three weeks of school blockades.",
-      "category": "society",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20261017-france-students-unions-and-yellow-vests-unite-against-austerity",
-      "image": "https://s.france24.com/media/display/b40d67d8-ca36-11f1-acb1-638c1c1f5fd6/w:1024/p:16x9/EN-20261017-130200-130306-CS.jpg",
-      "publishedAt": "2026-10-17T14:45:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "ef5gn6",
-      "title": "Will Paramount’s creation of Skydance test France’s cultural exception?",
-      "summary": "Skydance’s $110 billion creation tests whether France’s cultural exception can still compel a leveraged global media giant to fund, protect and prioritise French creativity, or merely treat it as a compliance cost.",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/france/20261017-will-paramount-creation-of-skydance-test-france-cultural-exception",
-      "image": "https://s.france24.com/media/display/bf8a0328-c98c-11f1-89cd-638c1c1f5fd6/w:1024/p:16x9/AP26281749224640.jpg",
-      "publishedAt": "2026-10-17T13:43:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "6oxt9w",
-      "title": "Fires and clashes rock France amid massive nationwide protests",
-      "summary": "Protesters clashed with police in Paris and other French cities on Saturday as hundreds of thousands took to the streets to protest higher living costs and the declining conditions in schools and other public services. Several town halls were broken into – and in at least one instance set on fire – and many shops were ",
-      "category": "society",
-      "source": "france24",
-      "url": "https://www.france24.com/en/france/20261017-looting-fires-and-clashes-rock-france-amid-massive-nationwide-protests",
-      "image": "https://s.france24.com/media/display/cc30ed64-ca4d-11f1-a832-2d1c143cdef3/w:1024/p:16x9/ad8cc1eedbdc9fbb239bb669f5f2566c1bcba589.jpg",
-      "publishedAt": "2026-10-17T12:31:24.000Z",
-      "sample": false
-    },
-    {
-      "id": "q4e2jd",
-      "title": "🔴 Live: Tens of thousands join protests across France, clashes reported in several cities",
-      "summary": "",
-      "category": "society",
-      "source": "france24",
-      "url": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
-      "image": null,
-      "publishedAt": "2026-10-17T12:30:33.000Z",
-      "sample": false
-    },
-    {
-      "id": "noyehr",
-      "title": "Présidentielle 2027 : autour de la candidature de David Lisnard, « il se passe quelque chose », mais quoi ?",
-      "summary": "Déclaré depuis fin mars, le candidat de la droite libérale a vu sa notoriété décoller à l’automne sur les réseaux sociaux. Simple bulle spéculative et numérique ou début d’une percée politique ? Cette séquence permet au président de Nouvelle Energie de commencer à combler son déficit de notoriété.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/politique/article/2026/10/17/presidentielle-2027-autour-de-la-candidature-de-david-lisnard-il-se-passe-quelque-chose-mais-quoi_6796307_823448.html",
-      "image": "https://img.lemde.fr/2026/08/27/0/0/6720/3360/644/322/60/0/a8949f3_upload-1-olb4j2j10i74-cbi1332063.jpg",
-      "publishedAt": "2026-10-17T12:00:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "pg1ors",
-      "title": "Abel Ferrara : « Avant il y avait encore un business pour le cinéma. Maintenant, c’est fini, tout est entre les mains d’Amazon ou de Netflix »",
-      "summary": "A l’occasion de la sortie de ses Mémoires, le cinéaste américain revient sur une filmographie marquée par la violence, le crime et la masculinité destructrice.",
-      "category": "society",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/cinema/article/2026/10/17/abel-ferrara-avant-il-y-avait-encore-un-business-pour-le-cinema-maintenant-c-est-fini-tout-est-entre-les-mains-d-amazon-ou-de-netflix_6796305_3476.html",
-      "image": "https://img.lemde.fr/2026/10/12/1425/0/5098/2549/644/322/60/0/c6f5dbd_upload-1-qlkcrylxk7ag-gettyimages-2284516107.jpg",
-      "publishedAt": "2026-10-17T12:00:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "1tpm0g",
-      "title": "« Beaucoup de gens ne mangeraient pas s’ils ne venaient pas là » : à Alès, une cantine solidaire contre la vie chère",
-      "summary": "Dans la sous-préfecture du Gard, où 30 % de la population vit sous le seuil de pauvreté, un lieu associatif propose des repas pour quelques euros aux personnes aux revenus modestes. Depuis le début de la crise énergétique et les tensions sur le pouvoir d’achat, un nouveau public frappe à sa porte.",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/economie/article/2026/10/17/beaucoup-de-gens-ne-mangeraient-pas-s-ils-ne-venaient-pas-la-a-ales-une-cantine-solidaire-contre-la-vie-chere_6796306_3234.html",
-      "image": "https://img.lemde.fr/2026/09/23/492/0/5798/2899/644/322/60/0/5b4034e_upload-1-7dwf2pjsyhry-16-cantine-solidaire.jpg",
-      "publishedAt": "2026-10-17T12:00:04.000Z",
-      "sample": false
-    },
-    {
-      "id": "hps9y7",
-      "title": "France faces day of cost-of-living protests",
-      "summary": "French authorities detained dozens on Saturday at the start of nationwide protests against the cost of living, in what is likely to be a key indicator of the social climate heading toward elections to replace President Emmanuel Macron. France 24's Antonia Kerrigan tells us more.",
-      "category": "military",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20261017-france-faces-day-of-cost-of-living-protests",
-      "image": "https://s.france24.com/media/display/e0fc6906-ca1d-11f1-bfbe-2d1c143cdef3/w:1024/p:16x9/EN-20261017-120136-120533-CS.jpg",
-      "publishedAt": "2026-10-17T11:47:30.000Z",
-      "sample": false
-    },
-    {
-      "id": "pnyehf",
-      "title": "Cameroonian journalist shot in Bamenda",
-      "summary": "Cameroonian journalist Ambe Macmillan is recovering in hospital after being shot in the legs by gunmen in the north-western city of Bamenda. A young woman was also killed as the attackers opened fire on mourners attending a wake. The shooting has renewed concerns about the dangers facing journalists in Cameroon's Engli",
-      "category": "health",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20261017-cameroonian-journalist-shot-in-bamenda",
-      "image": "https://s.france24.com/media/display/e5994980-ca12-11f1-8681-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261016-214736-214917-CS.jpg",
-      "publishedAt": "2026-10-17T11:16:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "5q494o",
-      "title": "Uganda launches Ebola vaccine trial",
-      "summary": "The town of Masaka in southern Uganda is currently conducting a Phase 1 trial of a vaccine candidate against the Bundibugyo strain of the Ebola virus, which is circulating in the region. There is currently no approved treatment or vaccine for this strain.",
-      "category": "health",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20261017-uganda-launches-ebola-vaccine-trial",
-      "image": "https://s.france24.com/media/display/b6f6a546-ca12-11f1-b899-4dd8ac2cf3bf/w:1024/p:16x9/EN-20261016-214549-214734-CS.jpg",
-      "publishedAt": "2026-10-17T11:00:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "1m8sg7",
-      "title": "Kenya reports third Ebola case, contact tracing continues",
-      "summary": "Kenya has confirmed a third case of Ebola, a relative of a man who died earlier this month after travelling from the Democratic Republic of the Congo. The health ministry said the 65-year-old woman tested positive while in quarantine, where she has been since 5 October. The second patient, a 39-year-old man from the sa",
-      "category": "health",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20261017-kenya-reports-third-ebola-case-contact-tracing-continues",
-      "image": "https://s.france24.com/media/display/7ea114a6-ca12-11f1-ba5c-2d1c143cdef3/w:1024/p:16x9/EN-20261016-214328-214524-CS.jpg",
-      "publishedAt": "2026-10-17T10:56:48.000Z",
-      "sample": false
-    },
-    {
-      "id": "7uv4q7",
-      "title": "Russia hails Trump waiving sanctions as 'historic'",
-      "summary": "Russia on Saturday hailed US President Donald Trump's move to waive new sanctions on it as \"historic\", as Ukraine worries he is taking Moscow's side in Europe's worst conflict since World War II.",
-      "category": "military",
-      "source": "france24",
-      "url": "https://www.france24.com/en/video/20261017-russia-hails-trump-waiving-sanctions-as-historic",
-      "image": "https://s.france24.com/media/display/2e7d6350-ca10-11f1-92d4-6313a763b466/w:1024/p:16x9/EN-20261017-110436-110621-CS.jpg",
-      "publishedAt": "2026-10-17T10:41:22.000Z",
-      "sample": false
-    },
-    {
-      "id": "1pvzhk",
-      "title": "Deux inspecteurs du travail de Grenoble sanctionnés pour insubordination",
-      "summary": "Rendues publiques jeudi, les mesures disciplinaires prises à l’encontre de ces agents sont dénoncées par une intersyndicale qui y voit une « procédure-bâillon ».",
-      "category": "politics",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/societe/article/2026/10/17/deux-inspecteurs-du-travail-de-grenoble-sanctionnes-pour-insubordination_6796202_3224.html",
-      "image": "https://img.lemde.fr/2026/09/07/250/0/3000/1500/644/322/60/0/f95914a_upload-1-tqdd4pmoh3ig-frame-1270-1.jpg",
-      "publishedAt": "2026-10-17T10:00:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "kj66oz",
-      "title": "True Crime Community : un deuxième adolescent, âgé de 13 ans, mis en examen après l’attentat dans un collège d’Aubagne",
-      "summary": "Selon les informations du « Monde », ce jeune, mis en examen pour complicité de tentatives d’assassinats, discutait avec l’auteur de l’attaque de son projet de tuerie scolaire depuis le mois d’août. Cet attentat, sans arrière-fond idéologique, est caractéristique de la mouvance True Crime Community, qui idolâtre les tu",
-      "category": "society",
-      "source": "le-monde",
-      "url": "https://www.lemonde.fr/societe/article/2026/10/17/c-est-parti-je-t-aime-apres-l-attentat-dans-un-college-d-aubagne-un-deuxieme-adolescent-mis-en-examen-pour-complicite-de-tentatives-d-assassinats_6796058_3224.html",
-      "image": "https://img.lemde.fr/2026/10/16/171/0/1023/511/644/322/60/0/499d390_ftp-1-snfkf6ultfjk-afp-d3cd3ak-1024.jpg",
-      "publishedAt": "2026-10-17T07:40:22.000Z",
-      "sample": false
     }
   ],
   "weekly": [],
   "developing": [
-    {
-      "id": "k8c8mi",
-      "title": "Live: New Russian strikes hit Kyiv bridge as Germany's Merz visits",
-      "summary": "Kyiv’s North bridge was hit in a new Russian attack on Sunday, Mayor Vitali Klitschko said, soon after German Chancellor Friedrich Merz arrived in Ukraine's capital. Merz is on a surprise visit to demonstrate European support in the face of an upsurge in Russian attacks on Ukrainian infrastructure. Follow our liveblog ",
-      "category": "politics",
-      "source": "france24",
-      "url": "https://www.france24.com/en/europe/20261004-live-germany-s-merz-in-kyiv-for-talks-with-zelensky",
-      "image": "https://s.france24.com/media/display/0324a9be-bfe5-11f1-abdb-69fad0a7cb9f/w:1024/p:16x9/AP26277313191571.jpg",
-      "publishedAt": "2026-10-04T07:28:07.000Z",
-      "sample": false
-    },
     {
       "id": "btx6yz",
       "title": "US bombers leave UK air base amid 'new threats': What we know so far",
@@ -493,13 +482,24 @@
     },
     {
       "id": "q4e2jd",
-      "title": "🔴 Live: Tens of thousands join protests across France, clashes reported in several cities",
+      "title": "🔴 Live: Protester’s hand blown off by police grenade as unions say half a million march across France",
       "summary": "",
       "category": "society",
       "source": "france24",
       "url": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
       "image": null,
-      "publishedAt": "2026-10-17T12:30:33.000Z",
+      "publishedAt": "2026-10-17T15:25:51.000Z",
+      "sample": false
+    },
+    {
+      "id": "hz781c",
+      "title": "Live: Around 1,500 shops and retailers damaged during French protests, trade group says",
+      "summary": "Roughly 1,500 shops and retailers were damaged during the demonstrations that swept France on the weekend, many of them looted, the head of the Retail and Trade Federation said Sunday. Interior Minister Laurent Nuñez said that police had arrested more than 1,800 people as outbursts of arson and looting broke out on the",
+      "category": "economy",
+      "source": "france24",
+      "url": "https://www.france24.com/en/europe/20261018-live-vance-blames-immigration-for-violence-during-protests-in-france",
+      "image": "https://s.france24.com/media/display/a9aecc2c-cadc-11f1-93d3-d1d2c32ebb87/w:1024/p:16x9/2026-10-18T095418Z-932457184-RC2J5OAZZ1QE-RTRMADP-3-FRANCE-PROTEST.jpg",
+      "publishedAt": "2026-10-18T03:09:25.000Z",
       "sample": false
     }
   ]

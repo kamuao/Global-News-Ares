@@ -2,8 +2,85 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-18T03:53:29.033Z",
+  "updatedAt": "2026-10-18T10:41:58.543Z",
   "daily": [
+    {
+      "id": "xeib8v",
+      "title": "Is Germany's eight-hour workday under threat?",
+      "summary": "Would you work 12 hours straight? The CDU/CSU and SPD are locked in a dispute over reforms to the Working Hours Act. Workplace flexibility, collective bargaining agreements and worker protection rules are at stake.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-18T10:28:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "w3j1dp",
+      "title": "France reports more than 1,800 arrests after riots, looting and arson during cost-of-living protests",
+      "summary": "Rioters torched public buildings and looted shops across France, destroying Limoges' historic town hall. The violence erupted during nationwide cost-of-living protests.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/france-reports-more-than-1-800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-18T10:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "b32y1t",
+      "title": "Vietnam signs free trade deal with four European countries",
+      "summary": "Vietnam has signed a deal with four non-EU members that covers trade in goods and services, intellectual property rights, and sustainable development, among other areas.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-18T09:19:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "4dua8a",
+      "title": "How reliant is Ukraine on the US-controlled Starlink internet service?",
+      "summary": "Kyiv keeps issuing warnings that the satellite internet system Starlink is being restricted in Ukraine. How dependent is the country on the system, and what would happen if it went down?",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-18T08:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "oqtw5m",
+      "title": "Populist Czech PM Babis goes empty-handed in Senate elections",
+      "summary": "Opposition parties still control the Czech Senate, in a major blow to Prime Minister Andrej Babis' and his governing coalition.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-18T07:03:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "i8r8tv",
+      "title": "India: CJP leader Abhijeet Dipke released after detention",
+      "summary": "Two other prominent CJP leaders are set to be released on Sunday. India has seen huge rallies calling on the country's top election official to step down over alleged manipulation of voter rolls.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-cjp-leader-abhijeet-dipke-released-after-detention/a-79690933?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-18T06:29:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xb3ca8",
+      "title": "India news: Kolkata stampede dampens Durga Puja festivities",
+      "summary": "Authorities have detained several people over a deadly stampede in India's eastern city of Kolkata, after the state vowed strict action. Meanwhile, 'Cockroach' leader Dipke is out of detention. DW has more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-kolkata-stampede-dampens-durga-puja-festivities/live-79685143?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-18T04:45:00.000Z",
+      "sample": false
+    },
     {
       "id": "1zd3ji",
       "title": "Canada: Major fire reported at military base in Alberta",
@@ -104,17 +181,6 @@
       "sample": false
     },
     {
-      "id": "ih7if9",
-      "title": "India news: CJP founder released a day after detention",
-      "summary": "India's \"Cockroach\" movement founder, Abhijeet Dipke, was released after agreeing to certain conditions, according to the CJP's head of legal affairs.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-cjp-founder-released-a-day-after-detention/live-79685143?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-17T13:00:00.000Z",
-      "sample": false
-    },
-    {
       "id": "8spmyy",
       "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
       "summary": "Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow a boost for Vladimir Putin.",
@@ -124,14 +190,16 @@
       "image": null,
       "publishedAt": "2026-10-17T11:34:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
-      "id": "vdwe1b",
-      "title": "Germany news: Berlin's leftist parties move step closer to forming government",
-      "summary": "Berlin's left-leaning parties have successfully concluded exploratory talks, and formal coalition negotiations could begin next month if party members approve. Follow DW for more.",
+      "id": "hs2vy0",
+      "title": "Germany news: Police probe security incident at Leipzig/Halle airport",
+      "summary": "A fence breach at the Leipzig/Halle airport has triggered a major police operation. Christian Social Union leader Markus Söder is to address a gathering of the conservative youth wing. Follow DW for more.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-berlin-s-leftist-parties-move-step-closer-to-forming-government/live-79686913?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/germany-news-police-probe-security-incident-at-leipzig-halle-airport/live-79686913?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-17T10:34:00.000Z",
       "sample": false
@@ -159,52 +227,6 @@
       "sample": false
     },
     {
-      "id": "sfnhco",
-      "title": "US: California wildfires destroy homes, leave thousands without power",
-      "summary": "Multiple mansions have been engulfed in the fires raging in California while firefighters continue to douse the blaze. Thousands of people have been evacuated and many others are without power.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-california-wildfires-destroy-homes-leave-thousands-without-power/a-79685480?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-17T06:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1k87o",
-      "title": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
-      "summary": "US police have praised the actions of three people who cut short a deadly shooting at a school in the state of Oregon. Three children and a teacher were killed in the attack, carried out by a former pupil at the school.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-17T06:04:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "5egfgn",
-      "title": "Trump puts new Russia sanctions on hold",
-      "summary": "The US president cited national interests for his decision to sign a waiver on sanctions Congress voted to place on Russia.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-17T02:09:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "xdmnps",
-      "title": "Brazil: Amazon deforestation lowest in nearly 40 years",
-      "summary": "The latest figures show that 3,335 square kilometers of the Amazon rainforest were cleared in the year ending in July, the lowest level since 1988. The drop has been described as an \"historic achievement.\"",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-16T22:30:00.000Z",
-      "sample": false
-    },
-    {
       "id": "yqvhrr",
       "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
       "summary": "EU leaders reaffirmed support for Ukraine at the Brussels summit. But souring relations with the US over Russia and Starlink and a big hole in the budget will make for a difficult winter for Ukraine.",
@@ -213,17 +235,6 @@
       "url": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-16T19:42:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2hhj9t",
-      "title": "West Bank: US journalist injured by Israeli settlers",
-      "summary": "Washington Post journalist Heidi Levine said she was beaten by Israeli settlers in the occupied West Bank. Reporters Without Borders slammed the attack as \"brazen violence.\"",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/west-bank-us-journalist-injured-by-israeli-settlers/a-79684181?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-16T19:32:00.000Z",
       "sample": false
     },
     {
@@ -708,28 +719,6 @@
       "url": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-11T14:47:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "hm5n8m",
-      "title": "Georgia's surrogacy industry is booming, but at what cost?",
-      "summary": "Georgia became a hub for surrogate pregnancies after Russia's full-scale invasion of Ukraine in 2022. DW spoke with parents, and those who wanted to become parents, about the hidden costs of a booming industry.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/georgia-s-surrogacy-industry-is-booming-but-at-what-cost/a-79629971?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-11T07:45:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "q1savd",
-      "title": "Germany's population is shrinking, but not everywhere",
-      "summary": "By 2045, Germany will have more older people, fewer workers and a smaller population overall. Yet some regions will defy this trend. Their success depends on how much they have to offer.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-s-population-is-shrinking-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-11T07:21:00.000Z",
       "sample": false
     }
   ],
