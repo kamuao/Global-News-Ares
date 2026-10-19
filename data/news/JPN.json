@@ -2,8 +2,30 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-10-19T12:40:52.592Z",
+  "updatedAt": "2026-10-19T22:10:05.192Z",
   "daily": [
+    {
+      "id": "nmf5wk",
+      "title": "Japan launches probe in historic bid to collect sample from Mars moon",
+      "summary": "The five-year mission — the first to attempt to land on a Martian moon — could shed light on the origins of the solar system and life on Earth.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/20/japan/science-health/japan-mars-moon-probe-launch/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/thumbs/400x400/569362.jpg",
+      "publishedAt": "2026-10-19T20:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "r2es7e",
+      "title": "A millennium ago, (almost) everyone in Japan was a poet",
+      "summary": "Japan's oldest poetry anthology captures a world of beauty, humor, love and sorrow that feels remarkably familiar.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/20/japan/history/manyoshu-japanese-poetry/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/20/thumbs/400x400/569378.jpg",
+      "publishedAt": "2026-10-19T15:40:00.000Z",
+      "sample": false
+    },
     {
       "id": "9600qn",
       "title": "Over 16% of Japanese companies experience data breaches",
@@ -310,28 +332,6 @@
       "url": "https://www.japantimes.co.jp/business/2026/10/19/nidec-founder-civil-liability-for-damages/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/19/thumbs/400x400/569217.jpg",
       "publishedAt": "2026-10-19T03:01:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ty66b0",
-      "title": "Rays beat Guardians in Game 5 to take another step toward World Series",
-      "summary": "Yandy Diaz had three hits and scored a run, and Drew Rasmussen carried a shutout into the sixth inning",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/10/19/baseball/mlb/rays-alcs-guardians-win/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/19/thumbs/400x400/569226.jpg",
-      "publishedAt": "2026-10-19T02:45:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "j06opv",
-      "title": "India’s latest student protests pin Modi on revision of electoral rolls",
-      "summary": "A reversal by the Indian leader would hand a victory to his opponents and call into question recent election wins for his ruling party.",
-      "category": "society",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/19/asia-pacific/politics/modi-india-cockroach-protests/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/19/thumbs/400x400/569212.jpg",
-      "publishedAt": "2026-10-19T02:42:00.000Z",
       "sample": false
     }
   ],
