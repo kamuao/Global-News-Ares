@@ -2,8 +2,52 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-18T20:22:35.546Z",
+  "updatedAt": "2026-10-19T04:02:30.370Z",
   "daily": [
+    {
+      "id": "j6kpwl",
+      "title": "Austrian Airlines flight from Tel Aviv makes emergency landing after bomb threat",
+      "summary": "An Austrian Airlines flight from Tel Aviv to Vienna made an emergency landing in Bulgaria after a bomb threat was reported near the Bulgarian-Romanian border. A MiG-29 fighter jet escorted the plane.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/austrian-airlines-flight-from-tel-aviv-makes-emergency-landing-after-bomb-threat/a-79695070?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-19T03:22:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "p06xao",
+      "title": "Trump defends Russia sanctions waivers, accuses Zelenskyy of 'prolonging war'",
+      "summary": "US President Donald Trump again accused Ukrainian President Volodymyr Zelenskyy of not wanting to end the war. The remarks come amid renewed tensions over US policy toward Moscow including waiving some sanctions.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/trump-defends-russia-sanctions-waivers-accuses-zelenskyy-of-prolonging-war/a-79694674?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-19T00:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "eoim17",
+      "title": "Canada: Fire at Alberta military Base kills four, leaves 19 in critical condition",
+      "summary": "Canadian Prime Minister Mark Carney says a \"serious incident\" sparked a major fire at on Alberta military base. Four people have died, 39 are in hospital and at least 19 are in critical condition.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/canada-fire-at-alberta-military-base-kills-four-leaves-19-in-critical-condition/a-79690515?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-18T23:43:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "dk93s",
+      "title": "Ebola: Kenya cases rise to 8, spreads to 8th Congo province",
+      "summary": "A senior health official in Kenya said there have now been 8 Ebola infections in the country, while in DR Congo the disease has spread to an eighth province.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ebola-kenya-cases-rise-to-8-spreads-to-8th-congo-province/a-79694614?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-18T22:04:00.000Z",
+      "sample": false
+    },
     {
       "id": "75nn1",
       "title": "Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes",
@@ -128,7 +172,7 @@
     {
       "id": "hs2vy0",
       "title": "Germany news: Police probe security incident at Leipzig/Halle airport",
-      "summary": "A fence breach at the Leipzig/Halle airport has triggered a major police operation. And, Christian Social Union leader Markus Söder calls for a \"firewall\" against leftists at a conservative youth conference. Follow DW.",
+      "summary": "A fence breach at the Leipzig/Halle airport has triggered a major police operation. And, Christian Social Union leader Markus Söder calls for a \"firewall\" against leftists at a conservative youth conference.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/germany-news-police-probe-security-incident-at-leipzig-halle-airport/live-79686913?maca=en-rss-en-all-1573-xml-mrss",
@@ -168,18 +212,9 @@
       "image": null,
       "publishedAt": "2026-10-18T04:45:00.000Z",
       "sample": false
-    },
-    {
-      "id": "60lupx",
-      "title": "Canada: Fire at military base in Alberta leaves four dead",
-      "summary": "Canadian Prime Minister Mark Carney said a \"serious incident\" sparked a major fire at a military base in Alberta.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/canada-fire-at-military-base-in-alberta-leaves-four-dead/a-79690515?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-18T02:08:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "8te1co",
       "title": "'No Kings' rallies push early voting ahead of US midterm elections",
@@ -189,41 +224,6 @@
       "url": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-18T00:51:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "5jx5cw",
-      "title": "Ilhan Omar: The US Democrat targeted by Donald Trump",
-      "summary": "Donald Trump has described her as \"garbage\" and a \"criminal\" who does nothing but \"bitch.\" Congress member Ilhan Omar has long been the target of angry verbal attacks from the US president. But why her?",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-17T19:17:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "74byxl",
-      "title": "Romanian fighter jets shoot down 2 drones over Black Sea",
-      "summary": "Romanian Air Force F-16s shot down drones over Romanian territorial waters. Earlier this week, two chemical tankers were hit by drones near Romania's Black Sea coast.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-17T17:51:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "io8gjr",
-      "title": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
-      "summary": "The Egyptian president said his country was ready to defend Saudi Arabia \"if requested.\" The comments come amid escalating Houthi attacks.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-17T17:49:00.000Z",
       "sample": false
     },
     {
