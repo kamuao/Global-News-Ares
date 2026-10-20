@@ -2,8 +2,74 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-20T16:37:16.136Z",
+  "updatedAt": "2026-10-20T21:25:23.484Z",
   "daily": [
+    {
+      "id": "96e2xg",
+      "title": "Zelenskyy visits Norway amid Trump White House tensions",
+      "summary": "Ukrainian President Zelenskyy met with Norwegian and Finnish leaders in Oslo and held talks with Trump envoys Steve Witkoff and Jared Kushner. Trump is pressuring Zelenskyy to \"make a deal\" with Russia.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/zelenskyy-visits-norway-amid-trump-white-house-tensions/a-79717354?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-20T19:48:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "u1m9hb",
+      "title": "Nigeria records its first Ebola case, in capital Abuja",
+      "summary": "Nigeria has reported its first known case of Ebola during Africa's latest outbreak originating in the DRC. Health Minister Muhammad Ali Pate said the patient was a woman who had recently flown to Abuja from Uganda.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-20T19:08:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "l4mvbu",
+      "title": "Lebanon faces uncertainty as UNIFIL mandate nears end",
+      "summary": "As UN peacekeeping forces prepare to withdraw from Lebanon, Israel remains present and Hezbollah is still armed. A new EU support mission aims to strengthen Lebanon's army, but will not replace UN peacekeepers.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-20T18:19:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "77lnxj",
+      "title": "Sudan drone strike kills around 150 in Abyei market",
+      "summary": "A drone strike hit a market in the Abyei border region disputed by Sudan and South Sudan and killed dozens. The drone caused a large fire when it hit a fuel depot. South Sudanese officials blamed Sudan's military.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-20T18:09:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lb0t6u",
+      "title": "North Korean workers treated as 'slaves' at Russian drone factory, says new report",
+      "summary": "A new report reveals the plight of North Korean workers at a drone factory in Russia. It also raised concerns that Pyongyang could gain hands-on knowledge of advanced weapons systems through the workers it sends there.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-20T17:10:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "jnlm3n",
+      "title": "New EU plan for Arctic warily eyes influence of Russia, US",
+      "summary": "The EU unveiled its priorities in the Arctic as it vies with Russia, China and the US for influence. EU foreign affairs chief Kaja Kallas said drone incursions, GPS jamming and cable sabotage undermine Arctic security.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/new-eu-plan-for-arctic-warily-eyes-influence-of-russia-us/a-79715219?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-20T16:44:00.000Z",
+      "sample": false
+    },
     {
       "id": "93cskn",
       "title": "France plans 'massive' weekend police surge amid protests",
@@ -38,25 +104,14 @@
       "sample": false
     },
     {
-      "id": "wv1366",
-      "title": "Who are the women powering India's youth-led protests?",
+      "id": "90d8ai",
+      "title": "Who are the women powering India's youth-led 'Cockroach' protests?",
       "summary": "Facing online harassment and police detentions, women are taking to the streets of Indian cities in large numbers for the youth-led \"Cockroach\" protests. Amid a large-scale crackdown, they refuse to be seen as victims.",
       "category": "health",
       "source": "dw",
-      "url": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-protests/a-79709824?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-cockroach-protests/a-79709824?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-20T15:04:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "geu8i3",
-      "title": "‘Tinubu Must Go’: Nigeria's northern protests test the limits of political dissent",
-      "summary": "The arrest of several men wearing anti-government T-shirts and the disruption of a political meeting have renewed debate over free expression and protest rights in Nigeria.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/tinubu-must-go-nigeria-s-northern-protests-test-the-limits-of-political-dissent/a-79713785?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T14:20:00.000Z",
       "sample": false
     },
     {
@@ -79,17 +134,6 @@
       "url": "https://www.dw.com/en/germany-google-must-have-consent-to-publish-property-images/a-79712552?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-20T11:46:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lb0t6u",
-      "title": "North Korean workers treated as 'slaves' at Russian drone factory, says new report",
-      "summary": "A new report reveals the plight of North Korean workers at a drone factory in Russia. It also raised concerns that Pyongyang could gain hands-on knowledge of advanced weapons systems through the workers it sends there.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T11:30:00.000Z",
       "sample": false
     },
     {
@@ -179,18 +223,9 @@
       "image": null,
       "publishedAt": "2026-10-20T02:15:00.000Z",
       "sample": false
-    },
-    {
-      "id": "1fhfo1",
-      "title": "At least four dead after flooding in eastern Spain",
-      "summary": "At least four people have died in Spain as torrential rain has battered the country's eastern Mediterranean coast. The severe flooding had left more than 450 people stranded on rooftops, in buildings or in cars.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/at-least-four-dead-after-flooding-in-eastern-spain/a-79707781?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T00:32:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "8gd6r7",
       "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
@@ -211,19 +246,6 @@
       "url": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-19T17:26:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "ysibr6",
-      "title": "Kenya: Cult leader guilty of murdering 190 children, 1 adult",
-      "summary": "Preacher Paul Mackenzie was accused of encouraging his followers to starve themselves to death. He ran a Christian doomsday cult called the Good News International Church that claimed the end of the world was imminent.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/kenya-cult-leader-guilty-of-murdering-190-children-1-adult/a-79706279?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-19T15:49:00.000Z",
       "sample": false
     },
     {
@@ -642,28 +664,6 @@
       "url": "https://www.dw.com/en/the-hidden-treasure-in-discarded-wearable-and-fast-tech/a-79649611?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-14T06:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "420iv3",
-      "title": "Ukraine allies in Poland after Starlink sabotage, Trump diesel deal",
-      "summary": "Germany's Johann Wadephul said hybrid plots like the Starlink fire showed Europe was \"in Russia's crosshairs.\" The UK's Ed Miliband said Trump's Russian diesel deal led to a \"very difficult few days\" diplomatically.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ukraine-allies-in-poland-after-starlink-sabotage-trump-diesel-deal/a-79653869?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-13T18:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bbinfi",
-      "title": "Ukraine and the US: What's next after Trump's diesel deal with Russia?",
-      "summary": "Donald Trump plans to allow the purchase of Russian diesel, drawing criticism at home and abroad. What is behind the US president's decision and what should Ukraine do next? DW spoke with experts.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-13T18:51:00.000Z",
       "sample": false
     }
   ],

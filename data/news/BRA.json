@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-20T16:37:19.959Z",
+  "updatedAt": "2026-10-20T21:25:26.228Z",
   "daily": [
+    {
+      "id": "458e55",
+      "title": "'Doctor of the Forest' and Former Big Tech Executive Lead Digital Revolution in the Amazon",
+      "summary": "Joaquim Belo, the \"doctor of the forest,\" and Juliana Dib lead the Forest Peoples Connection Network, a finalist for the 2026 Social Entrepreneur award in the Social Innovators of the Year category. Created in 2023, the initiative brings together 60 organizations and seeks to bring digital inclusion to the 9,500 Indige",
+      "category": "military",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/10/doctor-of-the-forest-and-former-big-tech-executive-lead-digital-revolution-in-the-amazon.shtml",
+      "image": null,
+      "publishedAt": "2026-10-20T20:19:00.000Z",
+      "sample": false
+    },
     {
       "id": "iunimx",
       "title": "Brazil's Most Decorated Olympic Medalist Rebeca Andrade Competes at World Championships After 3 Years",
@@ -14,7 +25,9 @@
       "image": null,
       "publishedAt": "2026-10-20T16:11:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "r2i4ak",
       "title": "Alcatrazes Archipelago Reborn Ten Years After Becoming a Conservation Unit on Brazil's Coast",
@@ -36,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-10-19T21:19:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "k3rnhl",
       "title": "Amazonas Police Arrest 11 People Suspected of Involvement in Fires",
@@ -136,28 +147,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/10/as-iguacu-river-rises-park-removes-railings-from-walkway-leading-to-falls.shtml",
       "image": null,
       "publishedAt": "2026-10-14T15:21:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mmwcc1",
-      "title": "After Visiting Jair, Fl�vio Bolsonaro Says Father Was Happy With First-Round Result and Is Optimistic About Future",
-      "summary": "Senator and presidential candidate Fl�vio Bolsonaro (PL) visited his father, Jair Bolsonaro (PL), on Tuesday morning (13) and said the former president was happy with the first-round result and was optimistic. \"His expectations are the best possible regarding the future of our Brazil,\" he added.\nLeia mais (10/13/2026 -",
-      "category": "military",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/after-visiting-jair-flavio-bolsonaro-says-father-was-happy-with-first-round-result-and-is-optimistic-about-future.shtml",
-      "image": null,
-      "publishedAt": "2026-10-13T21:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "o8lmof",
-      "title": "Indigenous People Receive Audio Messages Threatening Invasion of Territory if Fl�vio Bolsonaro Wins Election",
-      "summary": "Farmers say they will invade Indigenous territories in the Amazon if Fl�vio Bolsonaro (PL) wins the 2026 election, according to audio messages and accounts gathered by Folha. The evidence has reached federal government authorities, who are also investigating whether the growing wave of forest fires within one territory",
-      "category": "military",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/indigenous-people-receive-audio-messages-threatening-invasion-of-territory-if-flavio-bolsonaro-wins-election.shtml",
-      "image": null,
-      "publishedAt": "2026-10-13T21:06:00.000Z",
       "sample": false
     }
   ],
