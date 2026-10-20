@@ -2,11 +2,33 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-10-20T11:12:33.457Z",
+  "updatedAt": "2026-10-20T16:37:20.287Z",
   "daily": [
     {
+      "id": "9xop2b",
+      "title": "Prince Harry expresses hope of reconciling with family",
+      "summary": "In an interview with GQ magazine, the Duke of Sussex said he hopes to bridge the massive rupture within the British royal family.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-21/prince-harry-wants-to-reconcile-with-family/107290562",
+      "image": null,
+      "publishedAt": "2026-10-20T16:21:34.000Z",
+      "sample": false
+    },
+    {
+      "id": "8b4bt6",
+      "title": "Zelenskyy meets Trump envoys as US-Ukraine relations sink to new lows",
+      "summary": "Marco Rubio denies intelligence-sharing has been limited as US envoys meet the Ukrainian president for talks.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-21/ukraine-interceptor-missiles-zelenskyy-us-trump-tensions/107290418",
+      "image": null,
+      "publishedAt": "2026-10-20T14:55:49.000Z",
+      "sample": false
+    },
+    {
       "id": "2jqsks",
-      "title": "'Things don't happen in a vacuum': Sister of slain UK MP speaks on Haines attack",
+      "title": "Sister of murdered UK MP Jo Cox wants Australia to tone down rhetoric",
       "summary": "Kim Leadbeater knows what political violence can result in after the murder of her sister former UK MP Jo Cox. She has urged Australia to take action to stop any further escalation after the attack on Helen Haines.",
       "category": "politics",
       "source": "abc-au",
@@ -17,7 +39,7 @@
     },
     {
       "id": "ucdj1k",
-      "title": "Breaking: Banks, websites offline as Google Cloud services fail across Europe",
+      "title": "European banks, websites hit as Google Cloud data centre goes offline for hours",
       "summary": "The technology giant's London data centre reports \"service disruption\" as major banking institutions experience outages.",
       "category": "technology",
       "source": "abc-au",
@@ -116,8 +138,8 @@
     },
     {
       "id": "k6c1tu",
-      "title": "Live: South African counter-attack stalls Aussie bowlers on day three",
-      "summary": "Mitchell Starc claims the 450th wicket of his Test career but South Africa fights back with the bat on day three of the second Test in Gqeberha. Follow live.",
+      "title": "Bavuma's brilliant knock flips the script and puts Australia on the ropes",
+      "summary": "Temba Bavuma's sensational century turns the second Test on its head and leaves Australia on the ropes after day three.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-10-20/test-cricket-live-updates-south-africa-vs-australia/107287648",
@@ -255,28 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-10-20/izzy-borlase-angel-reese-atlanta-dream-wnba-finals/107289118",
       "image": null,
       "publishedAt": "2026-10-20T05:45:02.000Z",
-      "sample": false
-    },
-    {
-      "id": "injqle",
-      "title": "Millions of bogong moths trigger rain warnings on weather maps",
-      "summary": "Millions of bogong moths currently migrating south to the Australian Alps for summer are appearing on weather radars, with the arrival of nightfall coinciding with a sudden burst of activity.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-20/nsw-bogong-moths-weather-radars-bom-sydney-canberra/107286624",
-      "image": null,
-      "publishedAt": "2026-10-20T05:05:17.000Z",
-      "sample": false
-    },
-    {
-      "id": "2ibp1r",
-      "title": "Suspected Amelia Earhart plane wreckage identified as clump of trees",
-      "summary": "Researchers hoping to solve one of the 20th century's great mysteries say the expedition was still worthwhile despite coming up empty-handed.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-20/suspected-amelia-earhart-plane-wreckage-trees-debris/107287840",
-      "image": null,
-      "publishedAt": "2026-10-20T05:02:54.000Z",
       "sample": false
     }
   ],

@@ -2,8 +2,96 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-20T11:12:29.393Z",
+  "updatedAt": "2026-10-20T16:37:16.136Z",
   "daily": [
+    {
+      "id": "93cskn",
+      "title": "France plans 'massive' weekend police surge amid protests",
+      "summary": "French Prime Minister Sebastien Lecornu told parliament the government would respond and reinforce police in major cities. He also accused extreme-left groups of trying to hijack what began as protests. DW has more.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/france-plans-massive-weekend-police-surge-amid-protests/live-79707186?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-20T15:44:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "v7zasn",
+      "title": "Germany news: Hackers release AfD party emails",
+      "summary": "Germany's far-right AfD has launched an inquiry after the release of thousands of emails following a cyberattack. Also, investors pledged billions for Germany at a major summit in Berlin. DW has more news from Germany.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-hackers-release-afd-party-emails/live-79709090?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-20T15:41:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "vj25ih",
+      "title": "Brazil's Lula, Flavio Bolsonaro tied ahead of runoff vote",
+      "summary": "With just under a week to go before the decisive presidential runoff election, polls show left-wing incumbent Luiz Inacio Lula da Silva and his right-wing challenger Flavio Bolsonaro are virtually tied.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-20T15:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "wv1366",
+      "title": "Who are the women powering India's youth-led protests?",
+      "summary": "Facing online harassment and police detentions, women are taking to the streets of Indian cities in large numbers for the youth-led \"Cockroach\" protests. Amid a large-scale crackdown, they refuse to be seen as victims.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-protests/a-79709824?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-20T15:04:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "geu8i3",
+      "title": "‘Tinubu Must Go’: Nigeria's northern protests test the limits of political dissent",
+      "summary": "The arrest of several men wearing anti-government T-shirts and the disruption of a political meeting have renewed debate over free expression and protest rights in Nigeria.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/tinubu-must-go-nigeria-s-northern-protests-test-the-limits-of-political-dissent/a-79713785?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-20T14:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "tg9a55",
+      "title": "Wagner brothers begin new NBA chapter on different paths",
+      "summary": "After five years, brothers Franz and Moritz Wagner are no longer playing together for the Orlando Magic. In the new NBA season, their separation will likely mean the new \"German\" team is the Charlotte Hornets.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/wagner-brothers-begin-new-nba-chapter-on-different-paths/a-79712668?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-20T12:31:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fv08pr",
+      "title": "Germany: Google must have consent to publish property images",
+      "summary": "A court in the western German state of Hesse has said Google is \"spying\" on people and has no right to publish information about their property on its Maps and Earth sites. The case stems from images taken from the air.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-google-must-have-consent-to-publish-property-images/a-79712552?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-20T11:46:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lb0t6u",
+      "title": "North Korean workers treated as 'slaves' at Russian drone factory, says new report",
+      "summary": "A new report reveals the plight of North Korean workers at a drone factory in Russia. It also raised concerns that Pyongyang could gain hands-on knowledge of advanced weapons systems through the workers it sends there.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-20T11:30:00.000Z",
+      "sample": false
+    },
     {
       "id": "j8pvfr",
       "title": "Why US investors are snapping up Germany's famed Mittelstand",
@@ -27,28 +115,6 @@
       "sample": false
     },
     {
-      "id": "zg3hjt",
-      "title": "French authorities impose partial curfews in Paris, Nice",
-      "summary": "French authorities imposed curfews in towns and cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/french-authorities-impose-partial-curfews-in-paris-nice/live-79707186?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T08:49:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ysxxgz",
-      "title": "Germany news: Siemens warns on AI eliminating entry-level jobs",
-      "summary": "Young people could lack essential capabilities if routine tasks are taken over by AI, industrial giant Siemens says. This comes Germany agrees to deepen cooperation on AI with US tech giant Nvidia. DW has more.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-siemens-warns-on-ai-eliminating-entry-level-jobs/live-79709090?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T08:21:00.000Z",
-      "sample": false
-    },
-    {
       "id": "65i7nr",
       "title": "Japan probe sets course for Mars moon",
       "summary": "The MMX spacecraft is on its way to Mars' moon Phobos to collect surface samples that could help answer long-standing questions about the formation of the Solar System.",
@@ -60,12 +126,12 @@
       "sample": false
     },
     {
-      "id": "ddf0qe",
-      "title": "India news: Rubio set to hold talks with S Jaishankar",
-      "summary": "Marco Rubio's talks with Indian FM S Jaishankar come as the two countries struggle to finalise a trade deal. Follow DW for more.",
+      "id": "ok1cak",
+      "title": "India news: Rubio holds talks with counterpart Jaishankar",
+      "summary": "Marco Rubio's talks with Indian Foreign Minister Jaishankar come as the two countries struggle to finalize a trade deal.",
       "category": "economy",
       "source": "dw",
-      "url": "https://www.dw.com/en/india-news-rubio-set-to-hold-talks-with-s-jaishankar/live-79708492?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/india-news-rubio-holds-talks-with-counterpart-jaishankar/live-79708492?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-20T06:22:00.000Z",
       "sample": false
@@ -146,7 +212,9 @@
       "image": null,
       "publishedAt": "2026-10-19T17:26:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "ysibr6",
       "title": "Kenya: Cult leader guilty of murdering 190 children, 1 adult",
@@ -158,74 +226,6 @@
       "publishedAt": "2026-10-19T15:49:00.000Z",
       "sample": false
     },
-    {
-      "id": "fzp0m8",
-      "title": "Canada: Alberta votes on holding independence referendum",
-      "summary": "Canada's oil-rich western province of Alberta is not deemed likely to vote in favor of a real breakaway plebiscite. Nevertheless the separatist movement hopes to gain leverage over Mark Carney's government.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-19T15:09:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8lxoxt",
-      "title": "Can diplomacy stop another Ethiopia-Eritrea war?",
-      "summary": "Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters. But tensions with Eritrea continue to raise fears of a wider regional war.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-19T15:07:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "favat1",
-      "title": "Houthi strike on Yemen government military camp kills at least 50",
-      "summary": "The Iran-backed group has claimed responsibility for the attack which killed new recruits at a military camp. The strikes follow deadly attacks over the weekend blamed on Saudi-led forces.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/houthi-strike-on-yemen-government-military-camp-kills-at-least-50/a-79702163?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-19T14:39:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "o66hrv",
-      "title": "Rubio visits India with a trip to the world's largest oil refinery topping the agenda",
-      "summary": "A visit to India this week by Washington's top diplomat will skip New Delhi and instead include the world's largest oil refinery, which processes massive amounts of Russian crude. Is Trump looking for a new deal?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/rubio-visits-india-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-19T12:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "7r76sb",
-      "title": "Myanmar refugees find hope in Thailand's work program",
-      "summary": "A year ago, Thailand granted long-staying refugees from Myanmar the right to work legally. Refugees and rights groups welcome the move but say the program's first year has exposed significant shortcomings.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-19T12:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "w2cf2q",
-      "title": "UN food program cuts aid to 500,000 Palestinians in Gaza",
-      "summary": "Amid funding shortages, the World Food Program has said it is being forced to reduce necessary aid. Over two-thirds of Palestinians in Gaza are facing acute hunger, according to the agency.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-19T11:41:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "2a4nvi",
       "title": "The homeless man living in front of a London mega-mansion",
@@ -664,28 +664,6 @@
       "url": "https://www.dw.com/en/ukraine-and-the-us-what-s-next-after-trump-s-diesel-deal-with-russia/a-79650785?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-13T18:51:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "y7ohlg",
-      "title": "Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia",
-      "summary": "Slovakia is restoring military-diplomatic relations with Russia for the first time since 2022. The government has defended the move but critics warn of espionage risks and further damage to trust within NATO.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-13T12:04:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "uvnji3",
-      "title": "Formula 1: Rwanda to bring sport back to Africa",
-      "summary": "The last time Formula 1 hosted a race in Africa was way back in 1993. But a new track in Rwanda is set to host a Grand Prix in \"the early 2030s,\" continuing the country’s investment in international sport.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/formula-1-rwanda-to-bring-sport-back-to-africa/a-79649217?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-13T11:20:00.000Z",
       "sample": false
     }
   ],

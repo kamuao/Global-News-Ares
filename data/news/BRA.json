@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-20T11:12:32.984Z",
+  "updatedAt": "2026-10-20T16:37:19.959Z",
   "daily": [
+    {
+      "id": "iunimx",
+      "title": "Brazil's Most Decorated Olympic Medalist Rebeca Andrade Competes at World Championships After 3 Years",
+      "summary": "Brazil's most decorated Olympic medalist, with six medals (two golds, three silvers and one bronze), Rebeca Andrade, 27, returned to compete at the Artistic Gymnastics World Championships in Rotterdam, the Netherlands, on Monday (19), her first international competition since the Paris Games. She skipped the 2025 editi",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/sports/2026/10/brazils-most-decorated-olympic-medalist-rebeca-andrade-competes-at-world-championships-after-3-years.shtml",
+      "image": null,
+      "publishedAt": "2026-10-20T16:11:00.000Z",
+      "sample": false
+    },
     {
       "id": "r2i4ak",
       "title": "Alcatrazes Archipelago Reborn Ten Years After Becoming a Conservation Unit on Brazil's Coast",
@@ -25,7 +36,9 @@
       "image": null,
       "publishedAt": "2026-10-19T21:19:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "k3rnhl",
       "title": "Amazonas Police Arrest 11 People Suspected of Involvement in Fires",
@@ -58,9 +71,7 @@
       "image": null,
       "publishedAt": "2026-10-19T12:28:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "gqqtjc",
       "title": "Datafolha: Fl�vio Bolsonaro Has 51% and Lula 49% of Valid Votes, a Technical Tie",
@@ -147,28 +158,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/indigenous-people-receive-audio-messages-threatening-invasion-of-territory-if-flavio-bolsonaro-wins-election.shtml",
       "image": null,
       "publishedAt": "2026-10-13T21:06:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "3324qb",
-      "title": "Lula Draws Crowds in S�o Paulo and Rio as Left Holds Rallies Across Brazil Seeking Momentum Against Fl�vio",
-      "summary": "Trailing in the polls, President Lula (PT) gathered thousands of supporters on Paulista Avenue in S�o Paulo on Sunday (11) and directed his remarks at young people. The March for Democracy, organized by students, fan communities, social movements and left-wing parties, sought to reverse discouragement after Fl�vio Bols",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/lula-draws-crowds-in-sao-paulo-and-rio-as-left-holds-rallies-across-brazil-seeking-momentum-against-flavio.shtml",
-      "image": null,
-      "publishedAt": "2026-10-13T15:26:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ybevox",
-      "title": "Brazilian Environment Minister Says Fires in Amazonas Point to Criminal Activity",
-      "summary": "After flying over areas affected by forest fires in Amazonas on Sunday (11), Environment and Climate Change Minister Jo�o Paulo Capobianco said the situation was more serious than he had imagined and that evidence pointed to deliberately set fires. \"We saw fire outbreaks in the middle of preserved forest, countless out",
-      "category": "health",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/10/brazilian-environment-minister-says-fires-in-amazonas-point-to-criminal-activity.shtml",
-      "image": null,
-      "publishedAt": "2026-10-13T15:22:00.000Z",
       "sample": false
     }
   ],
