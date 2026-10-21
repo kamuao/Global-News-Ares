@@ -2,8 +2,52 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-21T11:28:26.569Z",
+  "updatedAt": "2026-10-21T16:55:38.783Z",
   "daily": [
+    {
+      "id": "efyevk",
+      "title": "Raids at far-right group's offices at European Parliament",
+      "summary": "Authorities searched the Patriots for Europe's European Parliament offices in a long-running funding inquiry. The group says the charges pertain to its predecessor and there is \"no legal continuity\" between the two.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/raids-at-far-right-group-s-offices-at-european-parliament/a-79724631?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T16:14:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "641k6x",
+      "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
+      "summary": "Russian FSB agents have arrested a German national and accused him of fighting as a mercenary for Ukraine's military. They claim he deserted over unpaid wages and say he was a sniper who once served in the Bundeswehr.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T14:17:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "b2fju5",
+      "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
+      "summary": "During talks between Vladimir Putin and Steve Witkoff, Putin announced that jailed American Stephen Hubbard had been released. The Kremlin also said Russia was \"in principle\" ready to resume trilateral talks next month.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T13:56:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "kcl51e",
+      "title": "Germany news: Nvidia CEO optimistic about EU's AI economy",
+      "summary": "Jensen Huang, the head of the chip giant, was in Berlin to talk to developers and investors. Meanwhile, a cigarette tax hike came into effect early due to a \"technical error.\" DW has more.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-nvidia-ceo-optimistic-about-eu-s-ai-economy/live-79719483?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T13:14:00.000Z",
+      "sample": false
+    },
     {
       "id": "sm5q4p",
       "title": "Pakistan-Taliban conflict: How India could benefit from shifting regional dynamics",
@@ -13,17 +57,6 @@
       "url": "https://www.dw.com/en/pakistan-taliban-conflict-how-india-could-benefit-from-shifting-regional-dynamics/a-79721426?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-21T10:35:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "b2fju5",
-      "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
-      "summary": "Russian President Vladimir Putin announced the release of Stephen Hubbard, an American taken captive by Russian forces years ago in Ukraine.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-21T09:42:00.000Z",
       "sample": false
     },
     {
@@ -60,17 +93,6 @@
       "sample": false
     },
     {
-      "id": "c2r9g8",
-      "title": "Germany news: 'Tech error' brings early cigarette tax hike",
-      "summary": "Germany's Finance Ministry has said the tax hike went into effect months early due to a \"technical error.\" AfD co-Chair Alice Weidel will present \"A New Deal for Europe\" in Strasbourg. Follow DW for the latest.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-tech-error-brings-early-cigarette-tax-hike/live-79719483?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-21T06:59:00.000Z",
-      "sample": false
-    },
-    {
       "id": "m9774v",
       "title": "Football: German coach Hürzeler flying high in Premier League",
       "summary": "Fabian Hürzeler is younger than his star player, a fellow Premier League German. But, contrary to his reputation in his homeland, Hürzeler has become a popular figure both on and off the pitch in England.",
@@ -84,7 +106,7 @@
     {
       "id": "b7pkqh",
       "title": "India news: India-US trade deal 'pretty close,' says Trump",
-      "summary": "US President Donald Trump hinted that the US-India trade deal could look different from the previous ones. Follow DW for more.",
+      "summary": "US President Donald Trump hinted that the US-India trade deal could look different from the previous ones.",
       "category": "economy",
       "source": "dw",
       "url": "https://www.dw.com/en/india-news-india-us-trade-deal-pretty-close-says-trump/live-79719383?maca=en-rss-en-all-1573-xml-mrss",
@@ -201,18 +223,9 @@
       "image": null,
       "publishedAt": "2026-10-20T18:09:00.000Z",
       "sample": false
-    },
-    {
-      "id": "py4k4z",
-      "title": "North Korean workers treated as 'slaves' at Russian drone factory",
-      "summary": "A new report reveals the plight of North Korean workers at a drone factory in Russia. It also raised concerns that Pyongyang could gain hands-on knowledge of advanced weapons systems through the workers it sends there.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory/a-79710877?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T17:10:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "jnlm3n",
       "title": "New EU plan for Arctic warily eyes influence of Russia, US",
@@ -245,9 +258,7 @@
       "image": null,
       "publishedAt": "2026-10-20T12:31:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "j8pvfr",
       "title": "Why US investors are snapping up Germany's famed Mittelstand",
@@ -620,50 +631,6 @@
       "url": "https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-14T18:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "7pvegi",
-      "title": "Germany's far-right AfD forges a pro-Russia alliance with the BSW",
-      "summary": "In Saxony-Anhalt, the AfD and BSW are joining forces to push for negotiations with Moscow. What is driving this rapprochement?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-14T15:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "23tsk9",
-      "title": "Albania: Fire at Education Ministry as students protest",
-      "summary": "Riot police deployed in the Albanian capital Tirana on the second day of student protests. The sudden outbreak seemed at least somewhat reminiscent of the widespread demos in France courting international attention.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-14T14:56:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "20j9r9",
-      "title": "Trump's diesel deal with Russia is unlikely to significantly lower global fuel prices despite expectations of rapid relief",
-      "summary": "As the world's largest diesel exporter, the US benefits from high prices. At home, however, consumers are feeling the strain of rising living costs. Why Donald Trump's deal with Russia is unlikely to change that.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/trump-s-diesel-deal-with-russia-is-unlikely-to-significantly-lower-global-fuel-prices-despite-expectations-of-rapid-relief/a-79659601?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-14T14:15:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2wbz8j",
-      "title": "Nord Stream: Germany puts suspected Ukrainian pipeline saboteur on trial",
-      "summary": "A Ukrainian citizen faces court in Hamburg, accused of attacking the Nord Stream gas pipelines in 2022. It raises questions about Kyiv's possible role in the explosions. German support for Ukraine is also under scrutiny.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-14T11:40:00.000Z",
       "sample": false
     }
   ],

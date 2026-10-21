@@ -2,8 +2,19 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-10-21T11:28:28.923Z",
+  "updatedAt": "2026-10-21T16:55:41.618Z",
   "daily": [
+    {
+      "id": "gm02kl",
+      "title": "Tokyo and Osaka record latest-ever day above 30 Celsius",
+      "summary": "Warm, humid air from the south swept across Japan, particularly areas along the Pacific coast, sending temperatures unusually high for late October.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/21/japan/tokyo-osaka-weather/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/21/thumbs/400x400/569765.jpg",
+      "publishedAt": "2026-10-21T10:23:00.000Z",
+      "sample": false
+    },
     {
       "id": "cmm083",
       "title": "¥4 billion in lottery proceeds to go to quake-hit Kumamoto",
@@ -321,17 +332,6 @@
       "url": "https://www.japantimes.co.jp/business/2026/10/21/china-super-rich-offshore-trusts/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/21/thumbs/400x400/569609.jpg",
       "publishedAt": "2026-10-21T02:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "702vrj",
-      "title": "Japan’s export growth stays solid, supported by chips and cars",
-      "summary": "The export gain highlighted ongoing demand related to artificial intelligence, with shipments of semiconductors and chip-making equipment surging.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/21/economy/japan-exports-growth-september/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/21/thumbs/400x400/569607.jpg",
-      "publishedAt": "2026-10-21T02:05:00.000Z",
       "sample": false
     }
   ],

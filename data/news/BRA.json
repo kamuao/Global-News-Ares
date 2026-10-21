@@ -2,8 +2,30 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-21T11:28:30.045Z",
+  "updatedAt": "2026-10-21T16:55:43.313Z",
   "daily": [
+    {
+      "id": "szj1cl",
+      "title": "AI and Salaries Put Lula and Fl�vio at Odds Over Civil Service Proposals",
+      "summary": "Proposals on the use of artificial intelligence in the civil service, administrative reform and salary adjustments put Lula and Fl�vio Bolsonaro on opposing sides. In the final stretch of the presidential election campaign, the issue has sparked a clash on social media between Management Minister Esther Dweck and Fl�vi",
+      "category": "technology",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/10/ai-and-salaries-put-lula-and-flavio-at-odds-over-civil-service-proposals.shtml",
+      "image": null,
+      "publishedAt": "2026-10-21T14:44:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "y24u45",
+      "title": "Project Uses AI to Create Faces of Historic Black Women",
+      "summary": "The portrait of the same Black woman is used to represent Luiza Mahin, Maria Felipa and Tereza de Benguela. Discomfort with the lack of proper representation led to the Faces Negras Importam project, which brings together researchers, historical records and artificial intelligence to create an image of each woman, givi",
+      "category": "technology",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/culture/2026/10/project-uses-ai-to-create-faces-of-historic-black-women.shtml",
+      "image": null,
+      "publishedAt": "2026-10-21T14:40:00.000Z",
+      "sample": false
+    },
     {
       "id": "458e55",
       "title": "'Doctor of the Forest' and Former Big Tech Executive Lead Digital Revolution in the Amazon",
@@ -14,7 +36,9 @@
       "image": null,
       "publishedAt": "2026-10-20T20:19:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "iunimx",
       "title": "Brazil's Most Decorated Olympic Medalist Rebeca Andrade Competes at World Championships After 3 Years",
@@ -25,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-10-20T16:11:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "r2i4ak",
       "title": "Alcatrazes Archipelago Reborn Ten Years After Becoming a Conservation Unit on Brazil's Coast",
@@ -136,17 +158,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/meta-ai-creates-campaign-material-for-flavio-bolsonaro-and-blocks-lula-content.shtml",
       "image": null,
       "publishedAt": "2026-10-14T19:35:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8gt0pq",
-      "title": "As Igua�u River Rises, Park Removes Railings From Walkway Leading to Falls",
-      "summary": "With water levels rising in the Igua�u River, Urbia+Cataratas, the concessionaire that operates Igua�u National Park in Foz do Igua�u, Paran�, removed the railings from the walkway that takes tourists close to the falls on Tuesday (13). According to the company, the measure is preventive, ensures the free flow of water",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/10/as-iguacu-river-rises-park-removes-railings-from-walkway-leading-to-falls.shtml",
-      "image": null,
-      "publishedAt": "2026-10-14T15:21:00.000Z",
       "sample": false
     }
   ],

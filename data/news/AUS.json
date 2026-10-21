@@ -2,8 +2,74 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-10-21T11:28:30.590Z",
+  "updatedAt": "2026-10-21T16:55:43.798Z",
   "daily": [
+    {
+      "id": "qh10l9",
+      "title": "Australia’s cybersecurity site among those hit by ‘critical’ software flaw",
+      "summary": "The Australian Signals Directorate is among global cyber agencies urging organisations to quickly act to fix flaws in a programming language that hackers are believed to be exploiting.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-22/php-vulnerabilities-cyber-asd/107294812",
+      "image": null,
+      "publishedAt": "2026-10-21T15:58:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "c72oju",
+      "title": "Russell Brand treated 21yo woman 'like an animal' after rape, court hears",
+      "summary": "The jury in Russell Brand's criminal trial has heard from a woman who claims the celebrity raped her at his London home in 2009 and treated her \"like an animal\".",
+      "category": "health",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-22/russell-brand-trial-hears-from-sixth-accuser/107294572",
+      "image": null,
+      "publishedAt": "2026-10-21T15:18:31.000Z",
+      "sample": false
+    },
+    {
+      "id": "ju4pog",
+      "title": "Macron calls Trump's comments on French riots 'stupid'",
+      "summary": "The French president said foreign leaders trying to win votes at home have exploited France's riots for their own political agenda.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-22/macron-calls-trump-riot-comments-stupid/107294810",
+      "image": null,
+      "publishedAt": "2026-10-21T15:05:51.000Z",
+      "sample": false
+    },
+    {
+      "id": "i6uk7c",
+      "title": "House prices across capitals post steepest quarterly decline ever: Domain",
+      "summary": "For only the second time ever, house prices have fallen across all Australian capital cities, falling by 4.7 per cent last quarter, the steepest drop on record.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-22/domain-house-price-september-quarter/107289400",
+      "image": null,
+      "publishedAt": "2026-10-21T13:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "z25k46",
+      "title": "E-scooter hospitalisations more than tripled since 2019",
+      "summary": "A report from the Australian Institute of Health and Welfare (AIHW) has found e-scooter hospitalisations have more than tripled since 2019.",
+      "category": "health",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-22/e-scooter-and-e-bike-hospitalisations-on-the-rise-australia/107291604",
+      "image": null,
+      "publishedAt": "2026-10-21T13:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "4r4hhy",
+      "title": "Comedian hit with car in Taiwan after criticising Xi, prosecutors say",
+      "summary": "Comedian Huang Yi-hao has vowed to return to the stage, inviting police and prosecutors who worked on the case to his upcoming gigs.",
+      "category": "health",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-21/comedian-hit-with-car-after-criticising-xi-jinping/107294568",
+      "image": null,
+      "publishedAt": "2026-10-21T12:39:01.000Z",
+      "sample": false
+    },
     {
       "id": "hmo6rq",
       "title": "Putin announces release of imprisoned US citizen during meeting with Witkoff",
@@ -94,8 +160,8 @@
     },
     {
       "id": "nm3zbx",
-      "title": "Live: Aussies collapsing as Proteas quicks dominate day four",
-      "summary": "Australia faces a mountain to climb on day four of the second Test against South Africa in Gqeberha. Follow live.",
+      "title": "Smith injured, Australia facing crushing defeat in Gqeberha",
+      "summary": "Australia has six wickets remaining and is still 170 runs behind South Africa with a day remaining in the second Test at St George's Park, after being bowled out for 99 and being forced to follow on.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-10-21/test-cricket-live-updates-south-africa-vs-australia/107293438",
@@ -211,72 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-10-21/finexia-funded-shared-beginnings-falls-into-administration/107290080",
       "image": null,
       "publishedAt": "2026-10-21T05:59:22.000Z",
-      "sample": false
-    },
-    {
-      "id": "4q4fpf",
-      "title": "Sudanese drone strike on market kills more than 150",
-      "summary": "Sudan's civil war has spilled over into disputed territory, causing mass casualties along its border with South Sudan.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-21/deadly-sudanese-drone-attack-amiet-market-abyei/107291466",
-      "image": null,
-      "publishedAt": "2026-10-21T05:29:13.000Z",
-      "sample": false
-    },
-    {
-      "id": "ph0jod",
-      "title": "Christmas 'culture war' goes against premier's 'nice guy' image",
-      "summary": "A post on social media by Tasmania's premier decrying an apparent attempt to \"remove references to Christmas\" has spiralled into a culture war and left Jeremy Rockliff's 'nice guy' image in question.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-21/christmas-school-rockliff-social-media-culture-war/107291008",
-      "image": null,
-      "publishedAt": "2026-10-21T05:14:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "t0jtfu",
-      "title": "Fortescue senior executive sacked after sexual harassment probe",
-      "summary": "A senior executive at Andrew Forrest's Fortescue Metals Group has been sacked following an investigation into allegations of sexual harassment and bullying at the iron ore miner.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-21/fortescue-executive-sacked-sexual-harassment-bullying/107293046",
-      "image": null,
-      "publishedAt": "2026-10-21T05:14:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "g7354j",
-      "title": "McDonald's bid for Phillip Island restaurant knocked back by council",
-      "summary": "A council in Victoria's south-east has rejected an application from fast food giant McDonald's to open a restaurant on Phillip Island.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-21/council-rejects-mcdonalds-phillip-island-proposal/107156522",
-      "image": null,
-      "publishedAt": "2026-10-21T05:09:43.000Z",
-      "sample": false
-    },
-    {
-      "id": "nlx67o",
-      "title": "Cairns rape trial judge retires to consider verdict",
-      "summary": "A judge has retired to consider whether a teenager who held a man at knifepoint during a home invasion in Cairns is guilty of raping the man's partner.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-21/cairns-home-invasion-rape-trial-judge-retires-consider-verdict/107289734",
-      "image": null,
-      "publishedAt": "2026-10-21T05:02:26.000Z",
-      "sample": false
-    },
-    {
-      "id": "toqnnk",
-      "title": "Child safety failed to recognise coercive control in Struhs case, inquest hears",
-      "summary": "Jason Struhs, Elizabeth's mother Kerrie Struhs, and eleven others were found guilty of manslaughter after withholding her insulin for type 1 diabetes in 2022.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-21/elizabeth-struhs-coercive-control-saints-manslaughter-inquest/107289690",
-      "image": null,
-      "publishedAt": "2026-10-21T05:02:25.000Z",
       "sample": false
     }
   ],
