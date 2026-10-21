@@ -2,8 +2,162 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-20T21:25:23.484Z",
+  "updatedAt": "2026-10-21T11:28:26.569Z",
   "daily": [
+    {
+      "id": "sm5q4p",
+      "title": "Pakistan-Taliban conflict: How India could benefit from shifting regional dynamics",
+      "summary": "As Pakistan's influence in Afghanistan comes under strain, India is rebuilding ties with the Taliban in Kabul. Can New Delhi turn this diplomatic opening into lasting strategic gains?",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/pakistan-taliban-conflict-how-india-could-benefit-from-shifting-regional-dynamics/a-79721426?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T10:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "b2fju5",
+      "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
+      "summary": "Russian President Vladimir Putin announced the release of Stephen Hubbard, an American taken captive by Russian forces years ago in Ukraine.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T09:42:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1vuz91",
+      "title": "UK approves Jackdaw gas field after years in limbo",
+      "summary": "Drilling is set to begin in the controversial North Sea plot as the government seeks to tackle high energy costs. Environmental groups have criticized the move and called for more clean energy.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/uk-approves-jackdaw-gas-field-after-years-in-limbo/a-79720557?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T09:21:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "s9vyl",
+      "title": "US sanctions target Iran's rail sector as Tehran shifts cargo from sea routes to overland corridors",
+      "summary": "As US sanctions expand to Iran's rail sector, Tehran is relying more heavily on overland links with China and Central Asia. But capacity constraints, delays and costs limit rail's ability to replace maritime trade.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-sanctions-target-iran-s-rail-sector-as-tehran-shifts-cargo-from-sea-routes-to-overland-corridors/a-79681413?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T08:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "w5zvnh",
+      "title": "Australian MP Helen Haines loses both legs after car attack as suspect appears in court",
+      "summary": "Doctors have amputated both of Helen Haines legs after the Australian lawmaker was hit in an apparent deliberate attack. The suspected driver involved in the attack has appeared in court.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T08:16:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "c2r9g8",
+      "title": "Germany news: 'Tech error' brings early cigarette tax hike",
+      "summary": "Germany's Finance Ministry has said the tax hike went into effect months early due to a \"technical error.\" AfD co-Chair Alice Weidel will present \"A New Deal for Europe\" in Strasbourg. Follow DW for the latest.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-tech-error-brings-early-cigarette-tax-hike/live-79719483?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T06:59:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "m9774v",
+      "title": "Football: German coach Hürzeler flying high in Premier League",
+      "summary": "Fabian Hürzeler is younger than his star player, a fellow Premier League German. But, contrary to his reputation in his homeland, Hürzeler has become a popular figure both on and off the pitch in England.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/football-german-coach-hürzeler-flying-high-in-premier-league/a-79714763?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T06:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "b7pkqh",
+      "title": "India news: India-US trade deal 'pretty close,' says Trump",
+      "summary": "US President Donald Trump hinted that the US-India trade deal could look different from the previous ones. Follow DW for more.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-india-us-trade-deal-pretty-close-says-trump/live-79719383?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T06:31:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pp91g8",
+      "title": "Musk says SpaceX-Tesla merger 'good idea' as companies explore union",
+      "summary": "Musk confirmed the long standing speculation of a possible merger between Tesla and SpaceX but warned that it would be premature to assume it is happening for sure.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/musk-says-spacex-tesla-merger-good-idea-as-companies-explore-union/a-79719220?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T05:53:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ui38iq",
+      "title": "Rising emissions and temperatures: The cost of Trump's climate retreat is now clear",
+      "summary": "The world is set to breach the critical 1.5-degree temperature limit, with Donald Trump's US withdrawal from climate action worsening the outlook, according to a UN report. But there is a small silver lining.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T05:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ppydfm",
+      "title": "Elon Musk ordered a slowdown of Starlink in Ukraine — report",
+      "summary": "Elon Musk \"capped the speeds at which Ukrainian hardware could stay connected to the satellite-based network,\" the Wall Street Journal reported.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/elon-musk-ordered-a-slowdown-of-starlink-in-ukraine-report/a-79718899?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T03:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "bqyg1u",
+      "title": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
+      "summary": "The UK is sending military support to Saudi Arabia as Iran-aligned Houthi rebels launch repeated attacks on the kingdom.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T01:23:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "79ez85",
+      "title": "Portugal housing protests continue after police clear camps",
+      "summary": "Demonstrators vow to continue their campaign to call for affordable housing in Portugal after police cleared tent camps and arrested at least 55 people.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-20T23:11:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6y81yi",
+      "title": "AfD's Alice Weidel to unveil plan to cut EU powers — report",
+      "summary": "The far-right AfD will propose slashing powers of the European Union when it presents its policy paper on Wednesday, Politico reports.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/afd-s-alice-weidel-to-unveil-plan-to-cut-eu-powers-report/a-79717944?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-20T22:25:00.000Z",
+      "sample": false
+    },
     {
       "id": "96e2xg",
       "title": "Zelenskyy visits Norway amid Trump White House tensions",
@@ -49,12 +203,12 @@
       "sample": false
     },
     {
-      "id": "lb0t6u",
-      "title": "North Korean workers treated as 'slaves' at Russian drone factory, says new report",
+      "id": "py4k4z",
+      "title": "North Korean workers treated as 'slaves' at Russian drone factory",
       "summary": "A new report reveals the plight of North Korean workers at a drone factory in Russia. It also raised concerns that Pyongyang could gain hands-on knowledge of advanced weapons systems through the workers it sends there.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory/a-79710877?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-20T17:10:00.000Z",
       "sample": false
@@ -71,17 +225,6 @@
       "sample": false
     },
     {
-      "id": "93cskn",
-      "title": "France plans 'massive' weekend police surge amid protests",
-      "summary": "French Prime Minister Sebastien Lecornu told parliament the government would respond and reinforce police in major cities. He also accused extreme-left groups of trying to hijack what began as protests. DW has more.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/france-plans-massive-weekend-police-surge-amid-protests/live-79707186?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T15:44:00.000Z",
-      "sample": false
-    },
-    {
       "id": "v7zasn",
       "title": "Germany news: Hackers release AfD party emails",
       "summary": "Germany's far-right AfD has launched an inquiry after the release of thousands of emails following a cyberattack. Also, investors pledged billions for Germany at a major summit in Berlin. DW has more news from Germany.",
@@ -90,28 +233,6 @@
       "url": "https://www.dw.com/en/germany-news-hackers-release-afd-party-emails/live-79709090?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-20T15:41:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "vj25ih",
-      "title": "Brazil's Lula, Flavio Bolsonaro tied ahead of runoff vote",
-      "summary": "With just under a week to go before the decisive presidential runoff election, polls show left-wing incumbent Luiz Inacio Lula da Silva and his right-wing challenger Flavio Bolsonaro are virtually tied.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T15:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "90d8ai",
-      "title": "Who are the women powering India's youth-led 'Cockroach' protests?",
-      "summary": "Facing online harassment and police detentions, women are taking to the streets of Indian cities in large numbers for the youth-led \"Cockroach\" protests. Amid a large-scale crackdown, they refuse to be seen as victims.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-cockroach-protests/a-79709824?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T15:04:00.000Z",
       "sample": false
     },
     {
@@ -124,18 +245,9 @@
       "image": null,
       "publishedAt": "2026-10-20T12:31:00.000Z",
       "sample": false
-    },
-    {
-      "id": "fv08pr",
-      "title": "Germany: Google must have consent to publish property images",
-      "summary": "A court in the western German state of Hesse has said Google is \"spying\" on people and has no right to publish information about their property on its Maps and Earth sites. The case stems from images taken from the air.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-google-must-have-consent-to-publish-property-images/a-79712552?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T11:46:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "j8pvfr",
       "title": "Why US investors are snapping up Germany's famed Mittelstand",
@@ -158,74 +270,6 @@
       "publishedAt": "2026-10-20T08:57:00.000Z",
       "sample": false
     },
-    {
-      "id": "65i7nr",
-      "title": "Japan probe sets course for Mars moon",
-      "summary": "The MMX spacecraft is on its way to Mars' moon Phobos to collect surface samples that could help answer long-standing questions about the formation of the Solar System.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/japan-probe-sets-course-for-mars-moon/a-79708491?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T07:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ok1cak",
-      "title": "India news: Rubio holds talks with counterpart Jaishankar",
-      "summary": "Marco Rubio's talks with Indian Foreign Minister Jaishankar come as the two countries struggle to finalize a trade deal.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-rubio-holds-talks-with-counterpart-jaishankar/live-79708492?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T06:22:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "6qja9p",
-      "title": "Canada: Alberta rejects separation bid, CBC projects",
-      "summary": "Voters have decisively rejected a proposal to begin the legal process toward Alberta's independence, dealing a major blow to a movement driven largely by economic grievances.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/canada-alberta-rejects-separation-bid-cbc-projects/a-79708520?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T06:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "g0xbi6",
-      "title": "Australian MP seriously hurt in suspected car attack",
-      "summary": "Helen Haines, an independent federal lawmaker, suffered severe injuries in what Australia's prime minister has called a deliberate attack by a man in a car.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/australian-mp-seriously-hurt-in-suspected-car-attack/a-79697660?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T06:02:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "r8w0nn",
-      "title": "Christiane Amanpour to leave CNN after 43 years",
-      "summary": "Christiane Amanpour's announcement comes after Paramount Skydance's controversial merger with Warner Bros. Discovery, CNN's parent company.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/christiane-amanpour-to-leave-cnn-after-43-years/a-79708034?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T03:45:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "hb6dd",
-      "title": "Zelenskyy accuses US of delaying Patriot missile shipment",
-      "summary": "Ukrainian President Volodymyr Zelenskyy has accused the United States of delaying deliveries of air defense missiles already paid for by European allies, as relations between Washington and Kyiv deteriorate.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/zelenskyy-accuses-us-of-delaying-patriot-missile-shipment/a-79707951?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T02:15:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "8gd6r7",
       "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
@@ -620,50 +664,6 @@
       "url": "https://www.dw.com/en/nord-stream-germany-puts-suspected-ukrainian-pipeline-saboteur-on-trial/a-79647617?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-14T11:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "77e7lm",
-      "title": "Fact check: Misleading graph about alleged Russian bot activity",
-      "summary": "Did attacks on Russian data centers reduce bot activity around Germany's AfD? A viral graph claims they did. But it contains significant inconsistencies and provides no evidence to support the claim.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/fact-check-misleading-graph-about-alleged-russian-bot-activity/a-79651769?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-14T09:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "kix0zz",
-      "title": "Do non-German nationals commit more crimes than Germans?",
-      "summary": "People without German passports appear more frequently in German police crime statistics than German nationals. A new study explains why.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/do-non-german-nationals-commit-more-crimes-than-germans/a-79657273?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-14T08:48:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bhqnox",
-      "title": "FIFPRO report highlights growing pains in women's football",
-      "summary": "Expected global revenue of over $1 billion and new faces at the U17 World Cup show women's football is booming, but a recent report also highlights need for better structures globally.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/fifpro-report-highlights-growing-pains-in-women-s-football/a-79648013?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-14T08:21:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "pfthv6",
-      "title": "The hidden treasure in discarded wearable and fast tech",
-      "summary": "Sales of fast tech like mini fans and disposable e-vapes, as well as wearable health tech such as heart monitors and smartwatches are soaring. They're creating a new e-waste problem but are full of hidden treasure.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/the-hidden-treasure-in-discarded-wearable-and-fast-tech/a-79649611?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-14T06:52:00.000Z",
       "sample": false
     }
   ],
