@@ -2,8 +2,52 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-21T16:55:38.783Z",
+  "updatedAt": "2026-10-21T21:26:49.260Z",
   "daily": [
+    {
+      "id": "a8ulz4",
+      "title": "Germany news: AfD's Weidel calls for major EU reforms",
+      "summary": "Far-right Alternative for Germany co-leader Alice Weidel reveals the party's plan to reform the EU. Meanwhile, Nvidia CEO Jensen Huang was in Berlin to talk to developers and investors. DW has more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-afd-s-weidel-calls-for-major-eu-reforms/live-79719483?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T19:44:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "vm9r4z",
+      "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+      "summary": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part?",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T19:32:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "onhf21",
+      "title": "Meta ordered to pay $25 billion in Cambridge Analytica case",
+      "summary": "A New Mexico judge ordered Facebook's parent company, Meta, to pay $25 billion for misleading users over the Cambridge Analytica breach, which took place during Donald Trump's first presidential campaign.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T19:27:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fk5jxw",
+      "title": "PHP developers say key patches available after global scare",
+      "summary": "Newly discovered vulnerabilities in the PHP programming language have put millions of websites at risk, with government agencies sounding alarms and taking down sites. Developers say updating systems is \"imperative.\"",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/php-developers-say-key-patches-available-after-global-scare/a-79725938?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-21T16:56:00.000Z",
+      "sample": false
+    },
     {
       "id": "efyevk",
       "title": "Raids at far-right group's offices at European Parliament",
@@ -35,17 +79,6 @@
       "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-21T13:56:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "kcl51e",
-      "title": "Germany news: Nvidia CEO optimistic about EU's AI economy",
-      "summary": "Jensen Huang, the head of the chip giant, was in Berlin to talk to developers and investors. Meanwhile, a cigarette tax hike came into effect early due to a \"technical error.\" DW has more.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-nvidia-ceo-optimistic-about-eu-s-ai-economy/live-79719483?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-21T13:14:00.000Z",
       "sample": false
     },
     {
@@ -179,7 +212,9 @@
       "image": null,
       "publishedAt": "2026-10-20T22:25:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "96e2xg",
       "title": "Zelenskyy visits Norway amid Trump White House tensions",
@@ -191,41 +226,6 @@
       "publishedAt": "2026-10-20T19:48:00.000Z",
       "sample": false
     },
-    {
-      "id": "u1m9hb",
-      "title": "Nigeria records its first Ebola case, in capital Abuja",
-      "summary": "Nigeria has reported its first known case of Ebola during Africa's latest outbreak originating in the DRC. Health Minister Muhammad Ali Pate said the patient was a woman who had recently flown to Abuja from Uganda.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T19:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "l4mvbu",
-      "title": "Lebanon faces uncertainty as UNIFIL mandate nears end",
-      "summary": "As UN peacekeeping forces prepare to withdraw from Lebanon, Israel remains present and Hezbollah is still armed. A new EU support mission aims to strengthen Lebanon's army, but will not replace UN peacekeepers.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T18:19:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "77lnxj",
-      "title": "Sudan drone strike kills around 150 in Abyei market",
-      "summary": "A drone strike hit a market in the Abyei border region disputed by Sudan and South Sudan and killed dozens. The drone caused a large fire when it hit a fuel depot. South Sudanese officials blamed Sudan's military.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-20T18:09:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "jnlm3n",
       "title": "New EU plan for Arctic warily eyes influence of Russia, US",
@@ -620,17 +620,6 @@
       "url": "https://www.dw.com/en/manchester-city-the-uae-and-the-uk-s-om-in-a-political-tangle/a-79664729?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-15T08:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "g0czwu",
-      "title": "Nord Stream trial opens in Germany, defense seeks dismissal",
-      "summary": "Serhii Kuznietsov is accused of attacking civilian infrastructure in the 2022 sabotage of the Russian gas pipeline to Germany. His lawyers called Nord Stream a military target, and said their client is sworn to secrecy.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-14T18:00:00.000Z",
       "sample": false
     }
   ],

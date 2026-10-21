@@ -2,7 +2,7 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-21T16:55:43.313Z",
+  "updatedAt": "2026-10-21T21:26:53.706Z",
   "daily": [
     {
       "id": "szj1cl",
@@ -25,7 +25,9 @@
       "image": null,
       "publishedAt": "2026-10-21T14:40:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "458e55",
       "title": "'Doctor of the Forest' and Former Big Tech Executive Lead Digital Revolution in the Amazon",
@@ -36,9 +38,7 @@
       "image": null,
       "publishedAt": "2026-10-20T20:19:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "iunimx",
       "title": "Brazil's Most Decorated Olympic Medalist Rebeca Andrade Competes at World Championships After 3 Years",
@@ -147,17 +147,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/10/wildfires-double-in-amazonas-in-2026-but-number-remains-below-historical-average.shtml",
       "image": null,
       "publishedAt": "2026-10-14T22:50:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "x1vrr6",
-      "title": "Meta AI Creates Campaign Material for Fl�vio Bolsonaro and Blocks Lula Content",
-      "summary": "Meta AI, the artificial intelligence tool available on WhatsApp, refuses to create campaign material for President Lula (PT) but complies with similar requests involving Senator Fl�vio Bolsonaro (PL-RJ), according to tests conducted by M�nica Bergamo's column. The chatbot blocked a poster with the phrase \"Lula 13\" and ",
-      "category": "military",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/meta-ai-creates-campaign-material-for-flavio-bolsonaro-and-blocks-lula-content.shtml",
-      "image": null,
-      "publishedAt": "2026-10-14T19:35:00.000Z",
       "sample": false
     }
   ],
