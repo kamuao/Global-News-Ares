@@ -2,8 +2,63 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-22T16:55:02.923Z",
+  "updatedAt": "2026-10-22T21:22:03.633Z",
   "daily": [
+    {
+      "id": "6p1ref",
+      "title": "Poland: Thousands protest for more abortion rights",
+      "summary": "Thousands rallied across Poland to demand abortion rights six years after a landmark court ruling tightened restrictions. The country has one of the strictest abortion rules in all of Europe.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/poland-thousands-protest-for-more-abortion-rights/a-79737572?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-22T20:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ylsgo1",
+      "title": "Albania's student protests are only getting bigger",
+      "summary": "As police try to suppress anti-corruption protests by young Albanians, Prime Minister Edi Rama is claiming that \"antifa\" is behind the unrest. Few are buying that explanation.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/albania-s-student-protests-are-only-getting-bigger/a-79735213?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-22T19:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "kt6m3a",
+      "title": "Lina Attalah: Mada Masr journalist sent for trial in Egypt",
+      "summary": "Lina Attalah, who is accused of managing a website without a license, will go to court next week. Mada Masr has published reporting critical of Egyptian President Abdel-Fattah el-Sissi's government.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/lina-attalah-mada-masr-journalist-sent-for-trial-in-egypt/a-79736647?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-22T19:17:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1tsbri",
+      "title": "96% of world's coral reefs face critical risk of collapse, IUCN warns",
+      "summary": "Almost all of the world’s shallow-water coral reefs are at risk of collapse by 2075, with climate change the biggest threat. A new study found that 96% of reef systems are critically endangered.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/96-of-world-s-coral-reefs-face-critical-risk-of-collapse-iucn-warns/a-79736234?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-22T18:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "nhjn12",
+      "title": "Canada's Mark Carney visits Turkey to boost trade ties",
+      "summary": "It's the first bilateral visit by a Canadian prime minister to Turkey. Canada and Turkey upgraded their relations to a \"strategic partnership\" as Canada seeks to diversify trade beyond the US.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-22T17:07:00.000Z",
+      "sample": false
+    },
     {
       "id": "l2h8yu",
       "title": "France's Macron says 'illegitimate' protests will be banned in coming days",
@@ -38,12 +93,12 @@
       "sample": false
     },
     {
-      "id": "g5eutn",
-      "title": "Are Europeans putting profits over human rights in Vietnam?",
-      "summary": "Europe and Vietnam are deepening economic and diplomatic ties, but closer cooperation raises concerns about whether Brussels is doing enough to address Hanoi's human rights record, labor standards and trade imbalances.",
+      "id": "z49xp9",
+      "title": "Is EU putting profits over human rights in Vietnam?",
+      "summary": "The EU and Vietnam are deepening economic and diplomatic ties, but closer cooperation raises concerns about whether Brussels is doing enough to address Hanoi's human rights record, labor standards and trade imbalances.",
       "category": "economy",
       "source": "dw",
-      "url": "https://www.dw.com/en/are-europeans-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/is-eu-putting-profits-over-human-rights-in-vietnam/a-79732812?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-22T14:12:00.000Z",
       "sample": false
@@ -51,7 +106,7 @@
     {
       "id": "72xh1u",
       "title": "Germany news: Government expecting increased tax revenue in 2027",
-      "summary": "Finance Minister Lars Klingbeil said state tax revenue will increase by €4 billion in 2027. Meanwhile, public service websites have been coming back online after a PHP security scare. DW has more.",
+      "summary": "Finance Minister Lars Klingbeil said state tax revenue will increase by €4 billion in 2027. Meanwhile, public service websites have been coming back online after a PHP security scare.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/germany-news-government-expecting-increased-tax-revenue-in-2027/live-79728628?maca=en-rss-en-all-1573-xml-mrss",
@@ -179,51 +234,9 @@
       "image": null,
       "publishedAt": "2026-10-22T08:07:00.000Z",
       "sample": false
-    },
-    {
-      "id": "6tbjbo",
-      "title": "Ukraine, Russia trade strikes after Witkoff talks",
-      "summary": "Soon after Putin and Zelenskyy expressed willingness to resume US-mediated talks, Russia and Ukraine traded major attacks on each other's capitals.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ukraine-russia-trade-strikes-after-witkoff-talks/a-79727542?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-22T04:57:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "uvx6b3",
-      "title": "Austrian, Swiss women kidnapped in Niger are freed — report",
-      "summary": "An Austrian woman and a Swiss woman kidnapped in Niger have been freed after 18 months in captivity, local reports say.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/austrian-swiss-women-kidnapped-in-niger-are-freed-report/a-79727419?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-22T02:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "6m3sc6",
-      "title": "US orders some diplomats to leave Saudi Arabia amid Houthi threat",
-      "summary": "The US State Department has asked some US diplomats to leave Saudi Arabia because of the threat of Houthi attacks on the Gulf kingdom.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-22T01:48:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lyv7vk",
-      "title": "Pope Leo will not need further cancer treatment — Vatican",
-      "summary": "Pope Leo's lung cancer surgery last week was a success, the Vatican said. The pope broke with traditions of secrecy around papal health issues after announcing he needed surgery to remove a nodule on his lung.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-21T23:47:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "a8ulz4",
       "title": "Germany news: AfD's Weidel calls for major EU reforms",
@@ -245,9 +258,7 @@
       "image": null,
       "publishedAt": "2026-10-21T19:32:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "efyevk",
       "title": "Raids at far-right group's offices at European Parliament",
