@@ -2,8 +2,52 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-10-22T11:28:47.843Z",
+  "updatedAt": "2026-10-22T16:55:06.141Z",
   "daily": [
+    {
+      "id": "b11q6u",
+      "title": "Hacking attempts surge as websites race to patch PHP issues",
+      "summary": "A cloud firm says millions of hacking attempts have been made since critical vulnerabilities were revealed in software used on 70 per cent of the world's websites.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-23/php-vulnerabilities-ai-hacks-surge/107299204",
+      "image": null,
+      "publishedAt": "2026-10-22T14:22:54.000Z",
+      "sample": false
+    },
+    {
+      "id": "hjhzu2",
+      "title": "Zelenskyy says fresh Russian strikes show 'no change' in Kremlin position",
+      "summary": "Russia pounded Kyiv with ballistic missiles and Ukraine sent hundreds of drones towards Moscow overnight despite the latest US push to end the conflict.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-23/zelensky-says-fresh-russian-strikes-show-no-change-in-kremlin-po/107299146",
+      "image": null,
+      "publishedAt": "2026-10-22T13:38:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "a8burh",
+      "title": "Shark trapped in South Korean city won't return to sea",
+      "summary": "Although \"Bukangi\" has become a mascot for the city of Busan, everyone agrees the dusky shark should go back to the open sea. But getting her to leave is proving difficult.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-22/south-korea-busan-dusky-shark-bukangi-trapped-canal/107298980",
+      "image": null,
+      "publishedAt": "2026-10-22T11:54:16.000Z",
+      "sample": false
+    },
+    {
+      "id": "sel4y9",
+      "title": "Chalmers says investors feel good about Australia despite gloom at home",
+      "summary": "Treasurer Jim Chalmers hails positive news for business investment, despite domestic gloom over inflation and productivity.",
+      "category": "economy",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-22/chalmers-hails-boom-in-business-investment/107298274",
+      "image": null,
+      "publishedAt": "2026-10-22T11:30:03.000Z",
+      "sample": false
+    },
     {
       "id": "bqpg3s",
       "title": "Nationals leader set to attempt switch to lower house",
@@ -94,8 +138,8 @@
     },
     {
       "id": "r29yg6",
-      "title": "Live: Head notches fighting century as Aussies bat to save second Test",
-      "summary": "Travis Head has passed three figures for just the second time in an overseas Test, with Australia in need of a monumental batting effort to salvage a draw on day five in Gqeberha. Follow live.",
+      "title": "Australia falls to defeat in final session, South Africa levels series",
+      "summary": "South Africa battled the weather and a resilient Australian rearguard to win the second Test in Gqeberha by an innings and 31 runs to level the series at 1-1.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-10-22/test-cricket-live-updates-south-africa-vs-australia/107298268",
@@ -233,50 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-10-22/greg-lynn-bail-hearing-high-country-death/107296052",
       "image": null,
       "publishedAt": "2026-10-22T04:53:31.000Z",
-      "sample": false
-    },
-    {
-      "id": "dwcny6",
-      "title": "Aussie Borlase on winning side as Atlanta Dream leads WNBA Finals",
-      "summary": "Australian basketballer Izzy Borlase is one step closer to a WNBA title as her Atlanta Dream side beats Golden State Valkyries to lead 2-1 in the best-of-seven WNBA Finals.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-22/aussie-borlase-on-winning-side-atlanta-dream-leads-wnba-finals/107297062",
-      "image": null,
-      "publishedAt": "2026-10-22T04:48:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "lb6eyt",
-      "title": "Out-of-home care manager pleads not guilty to choking, raping colleagues",
-      "summary": "Damian Ellis Spohr denies 30 charges relating to five alleged victims between 2020 and 2025, spanning several locations across New South Wales.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-22/out-of-home-care-manager-denies-raping-choking-colleagues/107296368",
-      "image": null,
-      "publishedAt": "2026-10-22T04:31:47.000Z",
-      "sample": false
-    },
-    {
-      "id": "w7rll3",
-      "title": "Roberts-Smith says failed court case cost Kerry Stokes 'upwards of $30m'",
-      "summary": "War veteran Ben Roberts-Smith gives a lengthy radio interview where he says he \"wouldn't change a single thing\" about his military career.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-22/nsw-ben-roberts-smith-2gb-interview-ben-fordham/107295040",
-      "image": null,
-      "publishedAt": "2026-10-22T04:28:23.000Z",
-      "sample": false
-    },
-    {
-      "id": "pu5la4",
-      "title": "Man shot by police in Sydney allegedly pointed gun at officers",
-      "summary": "A 21-year-old man allegedly made threats before a confrontation with police in Sydney's south-west, NSW Police said.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-22/nsw-glen-alpine-police-shooting-domestic-violence/107297024",
-      "image": null,
-      "publishedAt": "2026-10-22T04:18:10.000Z",
       "sample": false
     }
   ],

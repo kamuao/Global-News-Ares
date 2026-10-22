@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-22T11:28:47.470Z",
+  "updatedAt": "2026-10-22T16:55:05.788Z",
   "daily": [
+    {
+      "id": "fsy9zk",
+      "title": "Greenhouse Gas Emissions Fall for Third Consecutive Year in Brazil",
+      "summary": "Brazil emitted 2.06 billion metric tons of greenhouse gases (GtCO2e) in 2025, down 6% from 2024 and marking the third consecutive year of decline, according to Seeg (Greenhouse Gas Emissions and Removal Estimating System), from the Climate Observatory. It is the lowest level since 2018, restoring the level seen before ",
+      "category": "environment",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/10/greenhouse-gas-emissions-fall-for-third-consecutive-year-in-brazil.shtml",
+      "image": null,
+      "publishedAt": "2026-10-22T14:40:00.000Z",
+      "sample": false
+    },
     {
       "id": "8kvtys",
       "title": "Organizations Ask US Congress to Investigate Meta's Role in Brazilian Election",
@@ -25,7 +36,9 @@
       "image": null,
       "publishedAt": "2026-10-21T23:52:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "szj1cl",
       "title": "AI and Salaries Put Lula and Fl�vio at Odds Over Civil Service Proposals",
@@ -47,9 +60,7 @@
       "image": null,
       "publishedAt": "2026-10-21T14:40:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "458e55",
       "title": "'Doctor of the Forest' and Former Big Tech Executive Lead Digital Revolution in the Amazon",
@@ -147,17 +158,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/10/australias-bre-pays-1-for-rare-earth-assets-worth-12-million-and-brazilians-take-case-to-court.shtml",
       "image": null,
       "publishedAt": "2026-10-15T22:06:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ecppok",
-      "title": "Brazilian Senate Approves Constitutional Amendment Ending 6x1 Work Schedule, Giving Lula a Victory 11 Days Before Election",
-      "summary": "The Senate approved on Wednesday (14), in two rounds of voting, the proposed constitutional amendment (PEC) ending the 6x1 work schedule, an important victory for the Lula (PT) administration 11 days before the election. The proposal received 75 votes in favor in both rounds, and only Hamilton Mour�o (Republicanos-RS),",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/10/brazilian-senate-approves-constitutional-amendment-ending-6x1-work-schedule-giving-lula-a-victory-11-days-before-election.shtml",
-      "image": null,
-      "publishedAt": "2026-10-15T15:35:00.000Z",
       "sample": false
     }
   ],
