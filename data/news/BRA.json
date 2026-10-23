@@ -2,7 +2,7 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-22T21:22:06.838Z",
+  "updatedAt": "2026-10-23T04:08:06.304Z",
   "daily": [
     {
       "id": "6dv0cz",
@@ -36,7 +36,9 @@
       "image": null,
       "publishedAt": "2026-10-22T14:40:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "8kvtys",
       "title": "Organizations Ask US Congress to Investigate Meta's Role in Brazilian Election",
@@ -58,9 +60,7 @@
       "image": null,
       "publishedAt": "2026-10-21T23:52:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "szj1cl",
       "title": "AI and Salaries Put Lula and Fl�vio at Odds Over Civil Service Proposals",
