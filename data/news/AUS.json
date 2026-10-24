@@ -2,8 +2,52 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-10-24T05:19:42.982Z",
+  "updatedAt": "2026-10-24T10:38:09.442Z",
   "daily": [
+    {
+      "id": "dcra2q",
+      "title": "WA premier confronted by South Hedland community members",
+      "summary": "WA's premier was heckled in his first visit to South Hedland since announcing a coronial inquest into the deaths of three local children.",
+      "category": "society",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-24/wa-premier-roger-cook-port-hedland-after-pressure/107292620",
+      "image": null,
+      "publishedAt": "2026-10-24T09:53:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "icarj9",
+      "title": "Fire breaks out at Hitler's mountain retreat, suspect arrested",
+      "summary": "Around 200 firefighters were deployed to tackle the blaze at the Eagle's Nest, in Bavaria, which Nazi dictator Adolf Hitler used as a retreat to host foreign dignitaries in its mountaintop teahouse.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-24/hitler-mountain-resort-in-germany-fire-suspect-arrested/107305190",
+      "image": null,
+      "publishedAt": "2026-10-24T09:16:03.000Z",
+      "sample": false
+    },
+    {
+      "id": "72rcd7",
+      "title": "Daughters joyful to 'breathe same air' as Donna Nelson returns to Perth",
+      "summary": "The family of Donna Nelson, who was jailed in Japan for drug smuggling after being duped in a love scam, say they are ecstatic to have her back in Western Australia.",
+      "category": "health",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-24/donna-nelson-family-happy-return-home/107305034",
+      "image": null,
+      "publishedAt": "2026-10-24T08:43:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "jv7pt6",
+      "title": "Live: Superstar's injury sours Jillaroos' dominant performance against England",
+      "summary": "Australia's women's team is continuing a second round of lopsided scores as they take on England at the Rugby League World Cup. Follow live.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-24/jillaroos-england-rugby-league-world-cup-live/107305106",
+      "image": null,
+      "publishedAt": "2026-10-24T07:45:38.000Z",
+      "sample": false
+    },
     {
       "id": "i0z52d",
       "title": "How a data centre united Australia's gaming community",
@@ -215,7 +259,7 @@
     },
     {
       "id": "qqqw13",
-      "title": "Education support limit frustrates parents with type 1 diabetic children",
+      "title": "Mother says monitoring type 1 diabetes should not be left to children as young as seven",
       "summary": "Alana Marshall says managing her son Declan's type 1 diabetes requires constant vigilance and wants age-based cut-offs to support in school scrapped.",
       "category": "society",
       "source": "abc-au",
@@ -233,50 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-10-24/nsw-government-backflip-t4-t8-south-coast-rail-timetable-changes/107304442",
       "image": null,
       "publishedAt": "2026-10-23T23:49:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "h3tk9u",
-      "title": "Man extradited from Poland to face murder charge in Australia",
-      "summary": "Police allege the man, 26, was involved in the murder of a 22-year-old man, whose body was found in a metal cabinet in a creek on the NSW Mid-North Coast more than three years ago.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-24/man-extradited-from-poland-to-face-murder-charge-in-australia/107304342",
-      "image": null,
-      "publishedAt": "2026-10-23T23:46:48.000Z",
-      "sample": false
-    },
-    {
-      "id": "id7b3v",
-      "title": "Suburban echidnas on the prowl as breeding season stretches late",
-      "summary": "People often believe they are helping an echidna by moving it from suburban Adelaide into scrub but a rescue worker says the animals know what they are doing and should be left alone.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-24/adelaide-echidnas-parks-and-reserves-suburbia-breeding/107302540",
-      "image": null,
-      "publishedAt": "2026-10-23T23:38:08.000Z",
-      "sample": false
-    },
-    {
-      "id": "dki3wb",
-      "title": "Helen Haines's condition has improved, hospital says",
-      "summary": "The Alfred Hospital says the condition of Ms Haines has improved from critical to serious but stable following an alleged attack on Monday.",
-      "category": "health",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-24/helen-haines-condition-update/107304464",
-      "image": null,
-      "publishedAt": "2026-10-23T23:32:49.000Z",
-      "sample": false
-    },
-    {
-      "id": "bj9ch6",
-      "title": "Nearly 30-year-old Magnum ice cream found in shop freezer",
-      "summary": "A regional Victorian shop owner has found an almost 30-year-old Magnum Ego ice cream hidden away in the back of his freezer.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-24/shop-owner-finds-old-magnum-ego-ice-cream-in-freezer/107296604",
-      "image": null,
-      "publishedAt": "2026-10-23T23:19:25.000Z",
       "sample": false
     }
   ],
