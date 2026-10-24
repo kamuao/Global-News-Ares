@@ -2,8 +2,30 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-24T10:38:04.400Z",
+  "updatedAt": "2026-10-24T15:40:25.264Z",
   "daily": [
+    {
+      "id": "tm67it",
+      "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+      "summary": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-24T14:09:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rmbr45",
+      "title": "Will Guinea-Bissau remain trapped in political chaos?",
+      "summary": "Elections scheduled for December 6 in Guinea-Bissau have been postponed indefinitely. No new date has been set, leaving the country's return to civilian rule uncertain.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/will-guinea-bissau-remain-trapped-in-political-chaos/a-79734069?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-24T11:36:00.000Z",
+      "sample": false
+    },
     {
       "id": "nm2nmd",
       "title": "EU moves to loosen rules on pesticide use as experts sound the alarm",
@@ -16,34 +38,34 @@
       "sample": false
     },
     {
-      "id": "v0efra",
-      "title": "Germany news: Merz to speak at CSU party conference",
-      "summary": "With his coalition under pressure, Merz will speak at the close of the CSU party conference. Meanwhile, fire has largely destroyed Hitler's former Eagle's Nest retreat. DW has more",
+      "id": "11gt1d",
+      "title": "Germany news: Merz calls for unity at CSU party conference",
+      "summary": "With his coalition under pressure, Merz delivered an address at the close of the CSU conference in Munich. Meanwhile, fire has largely destroyed Hitler's former Eagle's Nest retreat. DW has more",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-merz-to-speak-at-csu-party-conference/live-79749353?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/germany-news-merz-calls-for-unity-at-csu-party-conference/live-79749353?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-24T10:10:00.000Z",
       "sample": false
     },
     {
-      "id": "1awr5m",
-      "title": "North Korean leader Kim Jong Un arrives in Chinese border city",
-      "summary": "North Korean leader Kim Jong Un has reportedly arrived in the Chinese border city of Dandong via a newly opened bridge linking the two countries, South Korea's Yonhap news agency said.",
+      "id": "9ww79w",
+      "title": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
+      "summary": "North Korean leader Kim Jong Un travelled to China’s border city of Dandong via a newly opened bridge linking the two countries, where he met a senior Chinese official.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-arrives-in-chinese-border-city/a-79748580?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-24T07:29:00.000Z",
       "sample": false
     },
     {
-      "id": "wg51n6",
-      "title": "France protests: More violence feared amid renewed demonstrations",
-      "summary": "France is deploying some 70,000 police officers as fresh nationwide protests begin. A deadly shooting near Paris has additionally fueled tensions. DW has the latest.",
+      "id": "aw4g97",
+      "title": "Live: Fresh protests hit France amid heightened security",
+      "summary": "Police and elite security forces are out in force in French cities as thousands participate in a new round of protests. The protest location was changed last minute in Paris. Follow DW.",
       "category": "society",
       "source": "dw",
-      "url": "https://www.dw.com/en/france-protests-more-violence-feared-amid-renewed-demonstrations/live-79748223?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/live-fresh-protests-hit-france-amid-heightened-security/live-79748223?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-24T06:34:00.000Z",
       "sample": false
@@ -146,7 +168,9 @@
       "image": null,
       "publishedAt": "2026-10-23T18:17:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "dhn66f",
       "title": "Afghan women could lose one of their last paths to a higher education",
@@ -203,17 +227,6 @@
       "sample": false
     },
     {
-      "id": "mv3vj2",
-      "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
-      "summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-23T12:11:00.000Z",
-      "sample": false
-    },
-    {
       "id": "i3gd29",
       "title": "Serbia: Hope, tension and apprehension as voters prepare to elect new parliament",
       "summary": "After two years of protests, Serbia faces a pivotal election on Sunday, with a student-led challenge to Aleksandar Vucic's lengthy rule. Allegations of electoral irregularities and fears of a post-election crisis abound.",
@@ -223,9 +236,7 @@
       "image": null,
       "publishedAt": "2026-10-23T11:43:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "aa9ix1",
       "title": "Germany sit out FIFA Under-15 World Cup as Russia return",
@@ -544,42 +555,20 @@
       "image": null,
       "publishedAt": "2026-10-18T07:03:00.000Z",
       "sample": false
-    },
-    {
-      "id": "mc0fje",
-      "title": "How big is Russia's threat against Germany?",
-      "summary": "Experts believe that, so far, Germany has been ill-prepared — both militarily and mentally — for Russian provocations. They also warn against the idea that ending support for Ukraine would make Germany safer.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-17T15:23:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "9snhtv",
-      "title": "China's influence in the gaming industry is growing",
-      "summary": "Home to more than 700 million gamers, China is the world's largest gaming market — but it's also one of the most tightly regulated. The effects reach far beyond China, impacting players around the world.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-17T14:49:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8spmyy",
-      "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
-      "summary": "Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow a boost for Vladimir Putin.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-17T11:34:00.000Z",
-      "sample": false
     }
   ],
   "developing": [
+    {
+      "id": "aw4g97",
+      "title": "Live: Fresh protests hit France amid heightened security",
+      "summary": "Police and elite security forces are out in force in French cities as thousands participate in a new round of protests. The protest location was changed last minute in Paris. Follow DW.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/live-fresh-protests-hit-france-amid-heightened-security/live-79748223?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-24T06:34:00.000Z",
+      "sample": false
+    },
     {
       "id": "1dtw33",
       "title": "Suspected pneumonic plague in Siberia: What we know about the disease",

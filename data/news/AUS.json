@@ -2,8 +2,30 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-10-24T10:38:09.442Z",
+  "updatedAt": "2026-10-24T15:40:28.796Z",
   "daily": [
+    {
+      "id": "m92t66",
+      "title": "Met Police received letter about Meghan Markle's father in 2019",
+      "summary": "It comes after Meghan, Duchess of Sussex revealed on Friday she was informed in 2018 about \"disturbing allegations\" against her father, Thomas Markle, which prompted her to keep her children away from him.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-25/met-police-received-letter-about-meghan-markles-father/107305284",
+      "image": null,
+      "publishedAt": "2026-10-24T13:42:37.000Z",
+      "sample": false
+    },
+    {
+      "id": "3omvqa",
+      "title": "Ukraine says Starlink at normal speed after delays impede military",
+      "summary": "Ukraine says Starlink satellite is back to operating at high speeds after restrictions disrupted Ukraine's military operations and intensified tensions with the US.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-25/ukraine-says-starlink-operating-normal-speed/107305276",
+      "image": null,
+      "publishedAt": "2026-10-24T13:09:37.000Z",
+      "sample": false
+    },
     {
       "id": "dcra2q",
       "title": "WA premier confronted by South Hedland community members",
@@ -39,9 +61,9 @@
     },
     {
       "id": "jv7pt6",
-      "title": "Live: Superstar's injury sours Jillaroos' dominant performance against England",
-      "summary": "Australia's women's team is continuing a second round of lopsided scores as they take on England at the Rugby League World Cup. Follow live.",
-      "category": "politics",
+      "title": "Jillaroos hammer England 78-0 but superstar's World Cup ends in hospital",
+      "summary": "Australia's women's team continues a second round of lopsided scores as they thump England 78-0 at the Women's Rugby League World Cup, losing centre Julia Robinson in the process.",
+      "category": "health",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-10-24/jillaroos-england-rugby-league-world-cup-live/107305106",
       "image": null,
@@ -255,28 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-10-24/man-accused-of-shooting-stabbing-in-canberras-north/107304482",
       "image": null,
       "publishedAt": "2026-10-24T00:04:19.000Z",
-      "sample": false
-    },
-    {
-      "id": "qqqw13",
-      "title": "Mother says monitoring type 1 diabetes should not be left to children as young as seven",
-      "summary": "Alana Marshall says managing her son Declan's type 1 diabetes requires constant vigilance and wants age-based cut-offs to support in school scrapped.",
-      "category": "society",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-24/capel-mother-calls-for-longer-type-1-diabetes-school-support/107296556",
-      "image": null,
-      "publishedAt": "2026-10-23T23:58:17.000Z",
-      "sample": false
-    },
-    {
-      "id": "uj7kf",
-      "title": "NSW rail timetable changes axed after backlash from commuters",
-      "summary": "Major changes to train timetables in Sydney and the Illawarra have been scrapped less than a month before they were due to begin after backlash from commuters.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-24/nsw-government-backflip-t4-t8-south-coast-rail-timetable-changes/107304442",
-      "image": null,
-      "publishedAt": "2026-10-23T23:49:45.000Z",
       "sample": false
     }
   ],

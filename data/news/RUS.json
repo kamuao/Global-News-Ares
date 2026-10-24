@@ -2,8 +2,129 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-10-24T10:38:05.781Z",
+  "updatedAt": "2026-10-24T15:40:26.163Z",
   "daily": [
+    {
+      "id": "llb1f4",
+      "title": "Saudi Arabia Will Not Host Russia’s Intervision Song Contest This Year, TASS Reports",
+      "summary": "The decision leaves the future of Russia’s alternative to Eurovision uncertain a year after Moscow revived the Soviet-era competition.",
+      "category": "politics",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/10/24/saudi-arabia-will-not-host-russias-intervision-song-contest-this-year-tass-reports-a94076",
+      "image": null,
+      "publishedAt": "2026-10-24T15:30:29.000Z",
+      "sample": false
+    },
+    {
+      "id": "9egf1d",
+      "title": "Russia’s Medvedev into Almaty Open tennis final after Bublik’s retirement",
+      "summary": "Russia’s top-ranked tennis player defeated Bublik 6-3 in the first set of their semifinal match before the Kazakh tennis player stopped due to injury",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/sports/2207303",
+      "image": null,
+      "publishedAt": "2026-10-24T15:21:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "ie39ns",
+      "title": "Starlink in Ukraine Back to Normal After Week of Throttling",
+      "summary": "Ukrainian officials said the restrictions hampered the military's ability to intercept Russian attack drones and forced the cancelation of some operations.",
+      "category": "military",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/10/24/starlink-in-ukraine-back-to-normal-after-week-of-throttling-a94075",
+      "image": null,
+      "publishedAt": "2026-10-24T15:18:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "5ykhnt",
+      "title": "Omsk northern industrial cluster in Russia’s Siberia comes under enemy drone attack",
+      "summary": "Emergency services are working at the scene, said Vitaly Khotsenko, the governor of the Siberian region",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2207297",
+      "image": null,
+      "publishedAt": "2026-10-24T14:17:36.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1hzii",
+      "title": "Zelensky using Ukraine conflict for hype — Mendel",
+      "summary": "Zelensky’s former spokeswoman noted, that whenever Vladimir Zelensky speaks publicly or gives numerous interviews, he always talks about himself",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2207295",
+      "image": null,
+      "publishedAt": "2026-10-24T14:08:13.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1hzig",
+      "title": "India wants relations with Russia to be further strengthened — Lok Sabha speaker",
+      "summary": "Om Birla said, that people of both states are very connected",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2207293",
+      "image": null,
+      "publishedAt": "2026-10-24T13:45:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "tacdki",
+      "title": "Brussels boutiques board up storefronts ahead of potential rioting",
+      "summary": "In the capital’s luxury shopping districts along Avenue Louise, Boulevard de Waterloo, and in the Rue Neuve and Sablon areas, more than half of the storefronts have been covered with particleboard panels",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/economy/2207291",
+      "image": null,
+      "publishedAt": "2026-10-24T13:15:55.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1hzhp",
+      "title": "Police in Lyon disperse student protest with tear gas",
+      "summary": "Students attempted to hold a demonstration near Lyon 3 University despite a government ban",
+      "category": "society",
+      "source": "tass",
+      "url": "https://tass.com/world/2207287",
+      "image": null,
+      "publishedAt": "2026-10-24T12:50:36.000Z",
+      "sample": false
+    },
+    {
+      "id": "65o01z",
+      "title": "Russia Says Drone Attack Damages Tolyatti Facilities, Ukraine Says Petrochemical Plant Hit",
+      "summary": "The Tolyattikauchuk petrochemical plant is one of Russia's largest producers of synthetic rubber.",
+      "category": "politics",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/10/24/russia-says-drone-attack-damages-tolyatti-facilities-ukraine-says-petrochemical-plant-hit-a94074",
+      "image": null,
+      "publishedAt": "2026-10-24T11:59:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1hzhj",
+      "title": "Gendarmerie armored vehicles deployed to Paris streets ahead of mass protests",
+      "summary": "Several armored vehicles are stationed near the Elysee Palace and the National Assembly",
+      "category": "society",
+      "source": "tass",
+      "url": "https://tass.com/world/2207281",
+      "image": null,
+      "publishedAt": "2026-10-24T11:00:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1hzgw",
+      "title": "Situation near DPRK embassy in Beijing calm",
+      "summary": "No heightened security measures are in place",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2207279",
+      "image": null,
+      "publishedAt": "2026-10-24T10:41:30.000Z",
+      "sample": false
+    },
     {
       "id": "j4mt1k",
       "title": "Russian air defenses down 1,297 drones over past 24 hours",
@@ -718,7 +839,9 @@
       "image": null,
       "publishedAt": "2026-10-23T15:46:12.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "rnzcjc",
       "title": "Evacuation of residents from Alyoshki may take several days — Kremlin spokesman",
@@ -742,149 +865,6 @@
       "sample": false
     },
     {
-      "id": "m1hxw0",
-      "title": "Syria deploys 1,000 troops to its southernmost region amid Israeli actions — newspaper",
-      "summary": "However, according to unnamed officials, neither side wants to escalate the situation",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2207037",
-      "image": null,
-      "publishedAt": "2026-10-23T15:18:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnzcgt",
-      "title": "Russia, Ukraine agree to ceasefire in Alyoshki — White House",
-      "summary": "The local ceasefire will come into effect on October 29, 2026",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2207035",
-      "image": null,
-      "publishedAt": "2026-10-23T15:15:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "tacbxb",
-      "title": "High inflation expectation being point of concern for Bank of Russia",
-      "summary": "Higher inflation expectations in their turn directly influence the demand, the savings tendency, and inflation eventually, Elvira Nabiullina said",
-      "category": "health",
-      "source": "tass",
-      "url": "https://tass.com/economy/2207029",
-      "image": null,
-      "publishedAt": "2026-10-23T15:03:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "vqtvqa",
-      "title": "Russian Ministry of Justice begins publishing list of Russians subject to restrictions",
-      "summary": "The list currently includes 12 individuals",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/society/2207033",
-      "image": null,
-      "publishedAt": "2026-10-23T15:03:42.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1hxvu",
-      "title": "Seoul conducts exercise simulating full-scale conflict on Korean Peninsula",
-      "summary": "Reconnaissance and artillery units were tasked with jointly detecting and destroying a simulated enemy, including through the use of unmanned systems",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2207031",
-      "image": null,
-      "publishedAt": "2026-10-23T15:00:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "tacbx9",
-      "title": "Rising export revenues backed ruble rate — Bank of Russia",
-      "summary": "The effect of the international prices situation is constrained by the fiscal rule action, Elvira Nabiullina added",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2207027",
-      "image": null,
-      "publishedAt": "2026-10-23T14:59:07.000Z",
-      "sample": false
-    },
-    {
-      "id": "tacbx5",
-      "title": "Current price growth rates to return to 4% in H1 2027 — Central Bank",
-      "summary": "In the meantime, the interest in the digital ruble has turned out to be above expectations, Elvira Nabiullina noted",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2207023",
-      "image": null,
-      "publishedAt": "2026-10-23T14:46:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "tacbx3",
-      "title": "All Moscow airports suspend aircraft arrivals, departures — Federal Air Transport Agency",
-      "summary": "The restrictions are introduced at Vnukovo, Domodedovo, Zhukovsky, and Sheremetyevo airports",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2207021",
-      "image": null,
-      "publishedAt": "2026-10-23T14:46:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "vqtvoo",
-      "title": "Russia determined as one of key tourist markets for Vietnam — tourism authority",
-      "summary": "Vice-Chairwoman of the Vietnam National Authority of Tourism Nguyen Thi Hoa Mai Russia will host a major MICE tourism exhibition this December",
-      "category": "technology",
-      "source": "tass",
-      "url": "https://tass.com/society/2207017",
-      "image": null,
-      "publishedAt": "2026-10-23T14:40:26.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnzcf1",
-      "title": "Discussing grain initiatives without Russia is pointless, Global South nations agree — MFA",
-      "summary": "Kirill Logvinov, Director of the Department of International Organizations at the Russian Foreign Ministry, pointed out that the current situation in the Black Sea is a consequence of actions taken by Kiev",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2207013",
-      "image": null,
-      "publishedAt": "2026-10-23T14:39:52.000Z",
-      "sample": false
-    },
-    {
-      "id": "vqtvoi",
-      "title": "Air alert canceled at Moscow’s Sheremetyevo Airport",
-      "summary": "Passengers are returning from shelters, and terminal gates are now open",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/society/2207011",
-      "image": null,
-      "publishedAt": "2026-10-23T14:32:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "j4muot",
-      "title": "Land phase of Russian-Indian Indra 2026 exercise over in Chelyabinsk Region",
-      "summary": "Assault troops, supported by FPV interceptors, mobile armed units, air defense systems, and tank crews, inflicted heavy casualties on the enemy, captured its positions, and liberated the settlement",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2207009",
-      "image": null,
-      "publishedAt": "2026-10-23T14:28:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "tacbvj",
-      "title": "All measures taken to secure banking infrastructure — Bank of Russia's Chief",
-      "summary": "Elvira Nabiullina noted that the regulator remains in constant contact with market participants",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2207007",
-      "image": null,
-      "publishedAt": "2026-10-23T14:24:57.000Z",
-      "sample": false
-    },
-    {
       "id": "da8hyn",
       "title": "Romania Blames Russia for Deadly Drone Attack on Cargo Ship",
       "summary": "The cargo ship Khoryv, flying the Comoros flag, was \"struck by a drone and sank near Romanian territorial waters,\" President Nicușor Dan said.",
@@ -896,72 +876,6 @@
       "sample": false
     },
     {
-      "id": "9egxcv",
-      "title": "Russia’s Shnaider goes into semis of 2026 WTA Ningbo Open tennis tournament",
-      "summary": "The Russian player is now set to take on World’s No. 1 Elena Rybakina from Kazakhstan in the semifinals",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/sports/2206997",
-      "image": null,
-      "publishedAt": "2026-10-23T14:14:44.000Z",
-      "sample": false
-    },
-    {
-      "id": "tabvry",
-      "title": "Russian Railways to meet all 2026 freight loading targets — official",
-      "summary": "Vadim Mikhailov noted that once the board agrees on next year's loading volumes and concludes discussions with ministries and government agencies, the operating and investment budgets will be drafted",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2206995",
-      "image": null,
-      "publishedAt": "2026-10-23T14:11:08.000Z",
-      "sample": false
-    },
-    {
-      "id": "5yjzuz",
-      "title": "IN BRIEF: What to know of restrictions at Moscow airports, evacuation at Sheremetyevo",
-      "summary": "Airlines are adjusting their schedules due to restrictions at airports in the Moscow Region",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/emergencies/2206991",
-      "image": null,
-      "publishedAt": "2026-10-23T14:10:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "j4nasi",
-      "title": "What we know about latest reciprocal prisoner exchange between Russia, Ukraine",
-      "summary": "Russia returned 270 servicemen from territory controlled by the Kiev regime in exchange for 270 captured Ukrainian servicemen, the Russian Defense Ministry reported",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2206993",
-      "image": null,
-      "publishedAt": "2026-10-23T14:09:39.000Z",
-      "sample": false
-    },
-    {
-      "id": "vqtfjb",
-      "title": "World’s largest passenger jet cannot land in Moscow due to restrictions",
-      "summary": "\"The airplane is now circling in the Penza Region, waiting for the resumption of Moscow airports' operations or the decision to fly to an alternate airfield,\" the source said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/society/2206983",
-      "image": null,
-      "publishedAt": "2026-10-23T13:46:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1hho6",
-      "title": "Tsunami warning issued for Sicily following tremors — newspaper",
-      "summary": "Residential areas on the Aeolian Islands reportedly lie closest to the epicenter",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2206977",
-      "image": null,
-      "publishedAt": "2026-10-23T13:44:47.000Z",
-      "sample": false
-    },
-    {
       "id": "9lgwdj",
       "title": "FSB Orders Critical Infrastructure Operators to Shutter Websites Over PHP Bug – RBC",
       "summary": "The FSB directive mirrors that of the U.S. National Security Agency, as well as authorities from the EU and China, after PHP programmers released a fix to the critical vulnerability on Wednesday.",
@@ -970,215 +884,6 @@
       "url": "https://www.themoscowtimes.com/2026/10/23/fsb-orders-critical-infrastructure-operators-to-shutter-websites-over-php-bug-rbc-a94067",
       "image": null,
       "publishedAt": "2026-10-23T13:43:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnyw8x",
-      "title": "Russia cannot ignore EU’s growing militarization — Russian ambassador to Montenegro",
-      "summary": "Alexander Lukashik also pointed to European Union’s military aid to the Kiev regime, its provocative anti-Russian measures and the tightening of anti-Russian sanctions",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2206973",
-      "image": null,
-      "publishedAt": "2026-10-23T13:40:53.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1hhn9",
-      "title": "Risk of arms race in space is growing — news agency",
-      "summary": "The document emphasized that strengthening global space governance was an urgent issue for humanity and the shared responsibility of all states",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2206965",
-      "image": null,
-      "publishedAt": "2026-10-23T13:39:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnyw82",
-      "title": "Senior Russian diplomat says West seeks to undermine independent centers of power",
-      "summary": "Russian Deputy Foreign Minister Mikhail Galuzin highlighted that Russian Foreign Ministry paid serious attention to the protection of the rich culture shared by the Slavic world and the memory of numerous tragic pages of Slavic history",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/politics/2206963",
-      "image": null,
-      "publishedAt": "2026-10-23T13:35:47.000Z",
-      "sample": false
-    },
-    {
-      "id": "wtfbhv",
-      "title": "Russia-Africa summit establishes regular cooperation with African nations — expert",
-      "summary": "Andrey Maslov noted that Russia had partner countries with whom quite diverse mechanisms of interaction are in place, along with sector-specific tracks",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/russia-africa-summit/2206961",
-      "image": null,
-      "publishedAt": "2026-10-23T13:34:02.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnyw7b",
-      "title": "Russia-US dialogue focuses not only on Ukraine — Russian diplomat",
-      "summary": "It also covers major economic initiatives and joint cultural and humanitarian projects, Alexander Gusarov, director of the ministry’s North Atlantic department, said",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/politics/2206957",
-      "image": null,
-      "publishedAt": "2026-10-23T13:30:54.000Z",
-      "sample": false
-    },
-    {
-      "id": "tabvoe",
-      "title": "FACTBOX: Bank of Russia holds key rate at 14%",
-      "summary": "The Bank of Russia noted that it will make further decisions on the key rate depending on inflation dynamics and inflation expectations",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2206951",
-      "image": null,
-      "publishedAt": "2026-10-23T13:19:51.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnyw6g",
-      "title": "What is known about Austria declaring four Russian diplomats personae non gratae",
-      "summary": "Three diplomatic staff members of the embassy and a member of the Russian delegation to the Vienna negotiations on military security and arms control have been declared personae non gratae",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2206947",
-      "image": null,
-      "publishedAt": "2026-10-23T13:04:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "vqtffx",
-      "title": "Bear attacks killed 28 people in Russia in 2026",
-      "summary": "Siberia and the Far East face a difficult situation as bears increasingly enter populated areas",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/society/2206945",
-      "image": null,
-      "publishedAt": "2026-10-23T13:02:49.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1hhlf",
-      "title": "Musk restricts Starlink service to punish Kiev — magazine",
-      "summary": "The magazine noted that the decision to restrict access to Starlink appears to have come from a small circle around President Donald Trump, Mr. Elon Musk and special presidential envoy Steve Witkoff",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2206941",
-      "image": null,
-      "publishedAt": "2026-10-23T13:01:49.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnyw6c",
-      "title": "Peace in Ukraine achievable if US respects Russia’s interests — Russian diplomat",
-      "summary": "Alexander Gusarov noted that the domestic political and party landscape in the United States may have a significant impact on the congressional legislative agenda regarding Russia",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2206943",
-      "image": null,
-      "publishedAt": "2026-10-23T13:01:26.000Z",
-      "sample": false
-    },
-    {
-      "id": "j4naxk",
-      "title": "Russian forces strike Ukrainian army deployment sites by FAB bombs in Zaporozhye area, DPR",
-      "summary": "Russian forces also struck two Ukrainian locomotives near Kharkov by Geran drones, the Defense Ministry reported",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2206937",
-      "image": null,
-      "publishedAt": "2026-10-23T12:54:02.000Z",
-      "sample": false
-    },
-    {
-      "id": "5yjzpv",
-      "title": "Seven killed as gunmen open fire near Christian church in Jordan — TV",
-      "summary": "According to the source, the shooters opened fire from a vehicle",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/emergencies/2206933",
-      "image": null,
-      "publishedAt": "2026-10-23T12:48:54.000Z",
-      "sample": false
-    },
-    {
-      "id": "h61cep",
-      "title": "Rassvet satellite constellation to comprise hundreds of spacecraft — Bureau 1440",
-      "summary": "They will provide next-generation satellite communications, Dmitry Agafonov",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/science/2206929",
-      "image": null,
-      "publishedAt": "2026-10-23T12:47:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnyw3x",
-      "title": "Putin discusses measures to protect youths from external threats with Security Council",
-      "summary": "The Russian president said there are threats as attempts are being made from abroad to influence the country’s youths",
-      "category": "health",
-      "source": "tass",
-      "url": "https://tass.com/politics/2206919",
-      "image": null,
-      "publishedAt": "2026-10-23T12:41:05.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1hhjp",
-      "title": "Netanyahu announces largest operation in West Bank since 1967",
-      "summary": "The Israeli PM made his statement after an attack by armed Palestinian radicals near the city of Hebron earlier on Friday",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2206921",
-      "image": null,
-      "publishedAt": "2026-10-23T12:40:35.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1hhiw",
-      "title": "Zelensky wants no peace, as he is not taking concrete steps toward it — former spokeswoman",
-      "summary": "Yulia Mendel noted that if he were genuinely guided by the country’s interests, he would have have repealed the 2022 decree prohibiting negotiations with Russian President Vladimir Putin, initiated the necessary legislative changes to hold presidential elections, and resigned",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2206913",
-      "image": null,
-      "publishedAt": "2026-10-23T12:35:12.000Z",
-      "sample": false
-    },
-    {
-      "id": "9egxkk",
-      "title": "Russia’s Medvedev solid on track to semis of 2026 ATP Almaty Open tournament",
-      "summary": "Daniil Medvedev is now set to take on the winner of the quarterfinal match between Karen Khachanov and Alexander Bublik",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/sports/2206909",
-      "image": null,
-      "publishedAt": "2026-10-23T12:25:52.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnyvk4",
-      "title": "Russian troops liberate 13 communities in Ukraine operation over week — top brass",
-      "summary": "",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2206899",
-      "image": null,
-      "publishedAt": "2026-10-23T12:17:47.000Z",
-      "sample": false
-    },
-    {
-      "id": "tabvk3",
-      "title": "Inflation expectations close to two-year highs — Central Bank",
-      "summary": "Expectations of financial market participants and analysts have increased, the regulator said",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2206901",
-      "image": null,
-      "publishedAt": "2026-10-23T12:16:25.000Z",
       "sample": false
     },
     {
@@ -1213,9 +918,7 @@
       "image": null,
       "publishedAt": "2026-10-23T10:39:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "jjsrir",
       "title": "Russia Vows Retaliation After Austria Expels Its Diplomats",
@@ -1621,39 +1324,6 @@
       "url": "https://www.themoscowtimes.com/2026/10/19/russia-and-ukraine-should-focus-on-peace-talks-rubio-says-a94016",
       "image": null,
       "publishedAt": "2026-10-19T08:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5arelg",
-      "title": "One Killed, 5 Injured in Ukrainian Drone Attack on St. Petersburg, Governor Says",
-      "summary": "Russian air defense units downed 1,015 Ukrainian drones overnight, the Russian Defense Ministry said.",
-      "category": "military",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/18/one-killed-5-injured-in-ukrainian-drone-attack-on-st-petersburg-governor-says-a94015",
-      "image": null,
-      "publishedAt": "2026-10-18T09:53:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "kmud3i",
-      "title": "Trump Needs More Time to Assess Impact of Russian Sanctions, Rubio Says",
-      "summary": "“A lot of you don’t know what my decision is yet, but we’ll figure it out, and you’ll figure it out,” Trump told reporters over the weekend.",
-      "category": "politics",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/18/trump-needs-more-time-to-assess-impact-of-russian-sanctions-rubio-says-a94014",
-      "image": null,
-      "publishedAt": "2026-10-18T08:19:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "gnw0eu",
-      "title": "Ukraine Dismisses Russia’s Latest Claimed Territorial Advances as ‘An Illusion’",
-      "summary": "The Russian army claimed it captured over 1,800 square kilometers of Ukrainian territory and nearly 100 settlements since the beginning of September.",
-      "category": "military",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/17/ukraine-dismisses-russias-latest-claimed-territorial-advances-as-an-illusion-a94013",
-      "image": null,
-      "publishedAt": "2026-10-17T14:07:24.000Z",
       "sample": false
     }
   ],
