@@ -2,8 +2,21 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-23T04:08:06.304Z",
+  "updatedAt": "2026-10-24T05:19:42.647Z",
   "daily": [
+    {
+      "id": "2z5ma1",
+      "title": "Three Days Before Runoff, Fl�vio and Lula Tied at 50% of Valid Votes, Datafolha Says",
+      "summary": "A Datafolha poll shows that, three days before the runoff, Fl�vio Bolsonaro (PL) and Lula (PT) are tied in the presidential race with 50% of valid votes each. The margin of error is two percentage points either way.\nLeia mais (10/23/2026 - 12h30)",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/three-days-before-runoff-flavio-and-lula-tied-at-50-of-valid-votes-datafolha-says.shtml",
+      "image": null,
+      "publishedAt": "2026-10-23T15:30:00.000Z",
+      "sample": false
+    }
+  ],
+  "weekly": [
     {
       "id": "6dv0cz",
       "title": "18 Members of Bolsonaro Administration in Brazil Face Court Cases or Investigations; Lula Government Has 6 Cases",
@@ -36,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-10-22T14:40:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "8kvtys",
       "title": "Organizations Ask US Congress to Investigate Meta's Role in Brazilian Election",
@@ -158,17 +169,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/in-tense-debate-lula-defends-economic-legacy-while-flavio-cites-debt-and-corruption.shtml",
       "image": null,
       "publishedAt": "2026-10-19T12:28:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "gqqtjc",
-      "title": "Datafolha: Fl�vio Bolsonaro Has 51% and Lula 49% of Valid Votes, a Technical Tie",
-      "summary": "Ten days before the runoff, Fl�vio Bolsonaro (PL) has 51% of valid votes, compared with 49% for Lula (PT), according to Datafolha. The result is a technical tie, within the two-percentage-point margin of error. Last week, the senator had 52% and the PT candidate 48%. In total votes, Fl�vio has 47% and Lula 45%; previou",
-      "category": "military",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/datafolha-flavio-bolsonaro-has-51-and-lula-49-of-valid-votes-a-technical-tie.shtml",
-      "image": null,
-      "publishedAt": "2026-10-16T13:41:00.000Z",
       "sample": false
     }
   ],
