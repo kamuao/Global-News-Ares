@@ -2,8 +2,52 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-24T15:40:25.264Z",
+  "updatedAt": "2026-10-25T04:01:15.227Z",
   "daily": [
+    {
+      "id": "o53lyc",
+      "title": "New York Archdiocese to pay $800 million to sex abuse survivors",
+      "summary": "Around 1,300 survivors agreed to the $800 million payout from the Catholic Church, marking one of the largest clergy abuse settlements in the US.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/new-york-archdiocese-to-pay-800-million-to-sex-abuse-survivors/a-79753347?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-25T02:07:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "8zohjm",
+      "title": "Nigeria: Tinubu launches reelection bid amid economic woes",
+      "summary": "President Bola Tinubu promised \"a better tomorrow\" for Nigerians while kicking off his next electoral campaign, while also blaming his rivals for poverty plaguing Africa's most populous nation.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-24T23:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rfj622",
+      "title": "Ukraine: Starlink satellite speeds restored to normal",
+      "summary": "The announcement comes after Starlink and Starshield restrictions had disrupted military operations in Ukraine and sparked tensions with the US.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-24T19:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6dhvan",
+      "title": "German national facing trial for alleged attempt to join IS",
+      "summary": "A 21-year-old suspect is being held in pre-trial detention for allegedly trying to join the \"Islamic State\" terror group.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/german-national-facing-trial-for-alleged-attempt-to-join-is/a-79751032?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-24T15:55:00.000Z",
+      "sample": false
+    },
     {
       "id": "tm67it",
       "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
@@ -60,14 +104,25 @@
       "sample": false
     },
     {
-      "id": "aw4g97",
-      "title": "Live: Fresh protests hit France amid heightened security",
-      "summary": "Police and elite security forces are out in force in French cities as thousands participate in a new round of protests. The protest location was changed last minute in Paris. Follow DW.",
-      "category": "society",
+      "id": "5zh4yc",
+      "title": "France: Clashes break out as protests go nationwide",
+      "summary": "Police and elite security forces were out in force in French cities as tens of thousands participated in protests on Saturday. The situation turned tense toward the end of protests in several cities, including Paris.",
+      "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/live-fresh-protests-hit-france-amid-heightened-security/live-79748223?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/france-clashes-break-out-as-protests-go-nationwide/live-79748223?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-24T06:34:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "p1cm3i",
+      "title": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
+      "summary": "Japan is demanding access to a journalist who was arrested by Russian security services. The Kremlin claims that Japan is using journalists as spies.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-24T05:29:00.000Z",
       "sample": false
     },
     {
@@ -91,7 +146,9 @@
       "image": null,
       "publishedAt": "2026-10-24T04:56:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "9h4yah",
       "title": "Hitler's Eagle's Nest retreat catches fire, police say",
@@ -168,30 +225,6 @@
       "image": null,
       "publishedAt": "2026-10-23T18:17:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "dhn66f",
-      "title": "Afghan women could lose one of their last paths to a higher education",
-      "summary": "The US has defunded one of the last universities giving Afghan women the chance to receive an education after the Taliban takeover in 2021. DW spoke with a student who says she's lost hope of ever earning a degree.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/afghan-women-could-lose-one-of-their-last-paths-to-a-higher-education/a-79745173?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-23T14:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "vpyqli",
-      "title": "Romania blames Russia for ship attack in the Black Sea",
-      "summary": "Russian strikes against ships attempting to export Ukrainian grain and cargo through the western Black Sea have sharply increased this month.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-23T14:25:00.000Z",
-      "sample": false
     },
     {
       "id": "fhh1xh",
@@ -202,28 +235,6 @@
       "url": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-23T14:23:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "49lfub",
-      "title": "Many feared trapped under collapsed building in Nairobi",
-      "summary": "People are feared to be trapped after a large, unfinished building in Nairobi collapsed during construction. Rescue operations have proven complicated as police fired tear gas to disperse looters.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-23T14:09:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "kb3npc",
-      "title": "Japan-Russia ties erode as journalist sits in Moscow jail",
-      "summary": "Japan is demanding access to a journalist who was arrested by Russian security services. The Kremlin claims that Japan is using journalists as spies.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/japan-russia-ties-erode-as-journalist-sits-in-moscow-jail/a-79742995?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-23T12:42:00.000Z",
       "sample": false
     },
     {

@@ -2,8 +2,206 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-10-24T15:40:27.333Z",
+  "updatedAt": "2026-10-25T04:01:17.413Z",
   "daily": [
+    {
+      "id": "aidrt7",
+      "title": "Budget-friendly restaurant chain Saizeriya succumbs to rising costs",
+      "summary": "The nationwide menu prices for the chain are to increase by an average of 6%, with some heavy-traffic locations to rise by 10%.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/25/companies/saizeriya-price-hike/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570308.jpg",
+      "publishedAt": "2026-10-25T03:56:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "8kucj",
+      "title": "GMO asks government to take active cyberdefense measures",
+      "summary": "GMO Internet has revealed that there was unauthorized access to its servers for automated FX currency margin trading.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/25/japan/crime-legal/gmo-active-cyberdefense-government-request/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/24/thumbs/400x400/570264.jpg",
+      "publishedAt": "2026-10-25T03:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "5tu84y",
+      "title": "Ami Nakai captures second consecutive title at Grand Prix de France",
+      "summary": "She was only third in the short program, but she leapfrogged both Anastasiia Gubanova and Yuna Aoki to take gold.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/10/25/more-sports/ami-nakai-wins-grand-prix-france/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570300.jpg",
+      "publishedAt": "2026-10-25T02:47:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "mjwtkx",
+      "title": "‘Tech debt coming due’: AI-found flaw signals chaos ahead",
+      "summary": "The vulnerability to potential hackers was found by using a model from OpenAI in one of the most high-profile demonstration of AI's cybercapabilities.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/25/tech/ai-flaw-tech-debt/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570298.jpg",
+      "publishedAt": "2026-10-25T01:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1n2zxm",
+      "title": "Replies mentioning foreign citizens surge on Takaichi’s X account",
+      "summary": "In some cases, comments against immigrants were repeated even when the prime minister did not mention policies pertaining to foreign nationals.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/25/japan/society/takaichi-x-foreign-citizens-mention/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570293.jpg",
+      "publishedAt": "2026-10-25T01:09:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "cw508v",
+      "title": "Sinking profits turn China’s $3.5 trillion stock rout into trap",
+      "summary": "Further darkening the outlook is the growing perception that leaders are in no rush to jump-start an economy that is slowing but at a tolerable speed.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/25/markets/sinking-profits-china-stocks/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570292.jpg",
+      "publishedAt": "2026-10-25T01:08:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "kd06ui",
+      "title": "Trump defends tariffs at rally as he says Audi to build U.S. plant",
+      "summary": "The Audi announcement marks a political win for Trump, who has been on the defensive about the domestic effects of his tariffs.",
+      "category": "health",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/25/economy/trump-tariffs-audi-factory-election/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570291.jpg",
+      "publishedAt": "2026-10-25T01:02:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "kufp0f",
+      "title": "North Korea’s Kim visits China as allies look to boost economic ties",
+      "summary": "North Korean leader Kim Jong Un was accompanied during his visit to the border city of Dandong on Saturday by Wang Huning, China's No. 4 official.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/25/asia-pacific/politics/north-korea-kim-jong-un-china-dandong/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570288.jpg",
+      "publishedAt": "2026-10-25T00:53:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "jtbov1",
+      "title": "Summer heat’s toll on Europe: 50,000 deaths and a €17 billion GDP hit",
+      "summary": "Almost two-thirds of the deaths linked to high summer temperatures would not have happened without climate change, a study showed.",
+      "category": "environment",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/environment/2026/10/25/climate-change/europe-summer-heat-toll/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570167.jpg",
+      "publishedAt": "2026-10-25T00:09:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3sr25o",
+      "title": "People-pleaser Kumaji is a true ‘bundle of joy’",
+      "summary": "If you're looking for love or have a lot to go around, please consider Kumaji, a very lovable fellow.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/community/2026/10/25/kumaji-lovable-fellow/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570282.jpg",
+      "publishedAt": "2026-10-24T23:46:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "79zgnt",
+      "title": "James Suckling’s Great Wines World Tokyo marks its third edition",
+      "summary": "Curated by influential wine critic James Suckling, the event offers a rare opportunity to taste more than 260 top-rated wines from 130 producers.",
+      "category": "health",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/life/2026/10/25/food-drink/great-wines-world-tokyo-2026/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/23/thumbs/400x400/569827.jpg",
+      "publishedAt": "2026-10-24T23:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "bx34k2",
+      "title": "Thousands rally for Lula and Bolsonaro on eve of tight Brazil vote",
+      "summary": "Tens of thousands of supporters flooded the streets as the rivals wrapped up a bitter campaign.",
+      "category": "environment",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/25/world/politics/rally-lula-bolsonaro-brazil-election/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570276.jpg",
+      "publishedAt": "2026-10-24T23:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "zfw12t",
+      "title": "Amid potato protests, Hokkaido has its best spud harvest in years",
+      "summary": "Tater lovers, rejoice — supermarkets across the country will soon be awash in superior potatoes thanks to favorable weather in Hokkaido.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/life/2026/10/25/food-drink/hokkaido-potato-harvest-quality-protests/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/23/thumbs/400x400/569959.jpg",
+      "publishedAt": "2026-10-24T23:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "x96www",
+      "title": "Trump prepares for Iran escalation after U.S. and Israeli elections",
+      "summary": "A Middle East war that U.S. President Donald Trump said would be over in a matter of weeks now looks set to escalate as it enters its eighth month.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/25/world/politics/iran-us-midterm-elections-war/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570278.jpg",
+      "publishedAt": "2026-10-24T23:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "9n1yrp",
+      "title": "Secretive Ukrainian deep-strike unit behind rapid expansion of campaign",
+      "summary": "Ukraine's ability to pummel targets well inside Russia has increased dramatically over the course of the war.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/25/world/ukraine-deep-strike-unit-focus/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570283.jpg",
+      "publishedAt": "2026-10-24T23:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "khssps",
+      "title": "Iran has ramped up efforts to target U.S. personnel, intelligence memo warns",
+      "summary": "The alert from Director of National Intelligence Jay Clayton came after Washington scaled back staffing at its mission in Saudi Arabia last week.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/25/world/iran-target-us-personnel/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570281.jpg",
+      "publishedAt": "2026-10-24T22:59:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "voa3ti",
+      "title": "Clashes break out in Paris and other French cities amid fresh protests",
+      "summary": "Authorities had deployed 70,000 security forces across the country for the new marches, which were called to protest the cost of living.",
+      "category": "society",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/25/world/clashes-paris-france-protests/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570277.jpg",
+      "publishedAt": "2026-10-24T22:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "btwwr",
+      "title": "Ukraine says Starshield back to normal; Musk says Kyiv violated terms",
+      "summary": "Starshield's problems occurred after U.S. President Donald Trump announced a deal to buy Russian diesel.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/25/world/musk-starlink-ukraine-us-trump/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570285.jpg",
+      "publishedAt": "2026-10-24T22:58:00.000Z",
+      "sample": false
+    },
     {
       "id": "ipbagx",
       "title": "NFL Commissioner Roger Goodell expects league to play in Tokyo in 2027 or 2028",
@@ -13,17 +211,6 @@
       "url": "https://www.japantimes.co.jp/sports/2026/10/24/more-sports/nfl-tokyo-game-near-future/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/24/thumbs/400x400/570270.jpg",
       "publishedAt": "2026-10-24T12:43:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "wgmclv",
-      "title": "GMO asks government to take active cyber defense measures",
-      "summary": "GMO Internet has revealed that there was unauthorized access to its servers for automated FX currency margin trading.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/24/gmo-cyber-defense-government-request/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/24/thumbs/400x400/570264.jpg",
-      "publishedAt": "2026-10-24T08:21:00.000Z",
       "sample": false
     },
     {
@@ -46,17 +233,6 @@
       "url": "https://www.japantimes.co.jp/business/2026/10/24/park24-3000-yen-compensation/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/24/thumbs/400x400/570266.jpg",
       "publishedAt": "2026-10-24T08:21:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "kabww0",
-      "title": "North Korea’s Kim visits China ahead of key anniversary",
-      "summary": "Kim Jong Un arrived in the Chinese border city of Dandong on Saturday, a day ahead of the anniversary of Chinese troops' entry into the Korean War.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/24/asia-pacific/politics/north-korea-kim-jong-un-china-dandong/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/24/thumbs/400x400/570262.jpg",
-      "publishedAt": "2026-10-24T08:07:00.000Z",
       "sample": false
     },
     {
@@ -157,185 +333,8 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/24/thumbs/400x400/570252.jpg",
       "publishedAt": "2026-10-24T05:07:00.000Z",
       "sample": false
-    },
-    {
-      "id": "53suvp",
-      "title": "Typhoon Champi traveling north of Okinawa islands",
-      "summary": "The 30th typhoon of this year could approach the Kyushu region on Monday morning and is set to become an extratropical cyclone by Tuesday morning.",
-      "category": "environment",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/24/japan/typhoon-champi-saturday/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/24/thumbs/400x400/570248.jpg",
-      "publishedAt": "2026-10-24T04:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "qy26io",
-      "title": "Sagawa Express says 53 million sets of personal info possibly compromised",
-      "summary": "The unauthorized access occurred on its delivery tracking service, according to the transport company's announcement on Sept. 30.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/24/sagawa-express-unauthorized-access/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/24/thumbs/400x400/570249.jpg",
-      "publishedAt": "2026-10-24T04:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "53j4y7",
-      "title": "Aging Japanese village turns to Peru in search of new residents",
-      "summary": "Village officials in Nanmoku, Gunma Prefecture, are hoping a sister-city agreement will help attract young people from Peru.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/24/japan/society/aging-village-japan-peru/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/24/thumbs/400x400/570243.jpg",
-      "publishedAt": "2026-10-24T02:24:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "454jc7",
-      "title": "Revised Imperial House Law comes into effect, but challenges remain",
-      "summary": "The new law aims to address the declining number of imperial family members, but specific operational details remain undecided.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/24/japan/new-imperial-house-law/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/24/thumbs/400x400/570239.jpg",
-      "publishedAt": "2026-10-24T01:06:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "oimldl",
-      "title": "Government to review gasoline subsidies as costs mount",
-      "summary": "Japan is providing subsidies to oil wholesalers to curb the average retail price of regular gasoline in the nation at about ¥170 per liter.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/24/japan/gas-subsidies-review/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/24/thumbs/400x400/570240.jpg",
-      "publishedAt": "2026-10-24T01:06:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lla35x",
-      "title": "Two Japanese climbers die on remote Himalayan peak in Nepal",
-      "summary": "The climbers were attempting the first summit of the 7,140-meter Gangapurna West in alpine style, but lost contact after Oct. 15.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/24/japan/nepal-japan-climbers-dead/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/24/thumbs/400x400/570242.jpg",
-      "publishedAt": "2026-10-24T01:06:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "jy8bdd",
-      "title": "Japan to simulate cyberattacks as PHP flaws roil global internet",
-      "summary": "Websites across the world went offline this week after the disclosure of critical vulnerabilities in the widely used programming language.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/24/japan/japan-cyberattack-simulation/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/24/thumbs/400x400/570238.jpg",
-      "publishedAt": "2026-10-24T01:05:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5pghwo",
-      "title": "Farmers to tourists: Gifu’s rural festivals court new crowds to survive",
-      "summary": "With aging populations, the region's once-famous festivals find themselves relying on outside help to keep homegrown traditions going.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/life/2026/10/24/lifestyle/festivals-japan-depopulation-matsuri-rural-life-tourism/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/23/thumbs/400x400/568646.jpg",
-      "publishedAt": "2026-10-23T23:05:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8c9yu2",
-      "title": "Can a traditional ‘ryokan’ inn go global?",
-      "summary": "One of Japan's most acclaimed inns is embarking on an expansion project that might see it open up properties overseas.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/life/2026/10/24/travel/gora-kadan-ryokan-hotel-travel-luxury-expansion/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/23/thumbs/400x400/568594.jpg",
-      "publishedAt": "2026-10-23T23:00:00.000Z",
-      "sample": false
     }
   ],
-  "weekly": [
-    {
-      "id": "81zozi",
-      "title": "Government calls for stronger energy supply structure in white paper",
-      "summary": "The fiscal 2025 white paper on energy highlighted the need to strengthen Japan's energy supply-and-demand structure to prepare for future emergencies.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/23/japan/japan-energy-white-paper/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/23/thumbs/400x400/570224.jpg",
-      "publishedAt": "2026-10-23T11:30:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "pe4m9s",
-      "title": "Japan calls for more support amid rising youth suicides",
-      "summary": "The white paper emphasized the importance of support aimed at reducing the risks of self-harm among young people.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/23/japan/society/japan-youth-suicides-white-paper/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/23/thumbs/400x400/570225.jpg",
-      "publishedAt": "2026-10-23T11:29:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "g9uuwz",
-      "title": "Japanese prefectures showcase tourism and food culture in New York",
-      "summary": "The six were Toyama, Shizuoka, Mie and Nagano, as well as Miyagi in the country's northeast and Chiba.",
-      "category": "society",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/23/japan/japan-tourism-new-york/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/23/thumbs/400x400/570226.jpg",
-      "publishedAt": "2026-10-23T11:29:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "w9u8fa",
-      "title": "【第3報】お取引先および退職者の皆さまへ、当社グループ管理サーバーへの不正アクセスおよび情報漏えいの可能性について注意喚起のお願い",
-      "summary": "株式会社ジャパンタイムズおよび株式会社ニューズ・ツー・ユーホールディングス（東京都千代田区、以下「当社グループ」）は、当社グループ管理サーバーへの不正アクセスおよび情報漏えいの可能性につきまして、お取引先および退職者の皆さまに以下の通り現状報告と対応についてご連絡いたします。",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/press/2026/10/23/notice-ransomware-incident-3rd-report-jp/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/23/570222.pdf",
-      "publishedAt": "2026-10-23T11:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "oi02up",
-      "title": "[Update 3] Notice and Advisory for Business Partners and Former Employees Regarding Unauthorized Access to Group Managed Server and Potential Data Exposure",
-      "summary": "The Japan Times, Ltd. and News2u Holdings, Inc. (Chiyoda-ku, Tokyo; hereinafter \"our Group\") hereby provide an update on the current status and response for our business partners and former employees regarding unauthorized access to our Group managed server and the potential exposure of information.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/press/2026/10/23/notice-ransomware-incident-3rd-report/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/23/570223.pdf",
-      "publishedAt": "2026-10-23T11:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ymtbni",
-      "title": "Musk’s political donations top $445 million ahead of U.S. midterm elections",
-      "summary": "With a net worth of $905.8 billion, the world's richest person's overlapping empire of companies is heavily exposed to regulation by federal agencies.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/23/world/politics/musk-445m-midterm-donations/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/23/thumbs/400x400/570178.jpg",
-      "publishedAt": "2026-10-23T09:22:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "xraxou",
-      "title": "‘The Potentials’ unpacks the dilemmas of a manga assistant in middle age",
-      "summary": "Shoichi Morimoto and Takuma Sato's \"The Potentials\" is an engaging tale about art, life and everything that gets in the way.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/culture/2026/10/23/film/the-potentials/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/22/thumbs/400x400/569463.jpg",
-      "publishedAt": "2026-10-23T09:00:00.000Z",
-      "sample": false
-    }
-  ],
+  "weekly": [],
   "developing": []
 }
