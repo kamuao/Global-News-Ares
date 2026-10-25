@@ -2,8 +2,85 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-10-25T04:01:16.122Z",
+  "updatedAt": "2026-10-25T11:01:31.903Z",
   "daily": [
+    {
+      "id": "sm9832",
+      "title": "Ukrainian Attacks Kill 3 in Belgorod, Hit Perm Industrial Plant",
+      "summary": "Three people were killed in southwestern Russia’s Belgorod region and an industrial site damaged in the Perm region.",
+      "category": "politics",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/10/25/ukrainian-attacks-kill-3-in-belgorod-hit-perm-industrial-plant-a94077",
+      "image": null,
+      "publishedAt": "2026-10-25T09:01:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzfgi",
+      "title": "EU talking about negotiator but either cannot or does not want to appoint one — Kremlin",
+      "summary": "Moscow would support the appointment of a negotiator by the European Union, Kremlin Spokesman Dmitry Peskov said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207447",
+      "image": null,
+      "publishedAt": "2026-10-25T08:31:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "j4mrob",
+      "title": "Air defenses down 532 Ukrainian drones over Russian regions overnight",
+      "summary": "They were destroyed over 23 regions and the waters of the Sea of Azov, he Russian Defense Ministry reported",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2207429",
+      "image": null,
+      "publishedAt": "2026-10-25T07:11:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzfcy",
+      "title": "US intelligence agencies aware of Zelensky’s embezzled billions — Russian lawmaker",
+      "summary": "Only a change in power in Kiev can alter the situation, Viktor Vodolatsky said",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207403",
+      "image": null,
+      "publishedAt": "2026-10-25T05:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzfcw",
+      "title": "Ukrainian drone attack on Russia’s Omsk Region injures three — governor",
+      "summary": "Emergency services continue to work on site to address the aftermath of the attack",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207401",
+      "image": null,
+      "publishedAt": "2026-10-25T04:45:49.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1i09b",
+      "title": "Saudi-led arab coalition downs Houthi ballistic missile over Riyadh",
+      "summary": "This was at least the third aerial target intercepted by coalition forces overnight",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2207399",
+      "image": null,
+      "publishedAt": "2026-10-25T04:09:34.000Z",
+      "sample": false
+    },
+    {
+      "id": "tacebd",
+      "title": "Ukraine loses nearly 14% of its locomotives in less than two years",
+      "summary": "The majority of the losses, around 300, occurred in 2026",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/economy/2207397",
+      "image": null,
+      "publishedAt": "2026-10-25T03:55:01.000Z",
+      "sample": false
+    },
     {
       "id": "m1i097",
       "title": "Series of explosions rock Saudi Arabia’s Riyadh — news agency",
@@ -40,7 +117,7 @@
     {
       "id": "m1i08c",
       "title": "Denmark handed Greenland over to US — Trump",
-      "summary": "The US leader emphasized that \"it's going to go down as the greatest real estate deal in history, probably after Venezuela\"",
+      "summary": "The US leader emphasized that \"it's going to go down as the greatest real estate deal in history\"",
       "category": "politics",
       "source": "tass",
       "url": "https://tass.com/world/2207385",
@@ -388,7 +465,9 @@
       "image": null,
       "publishedAt": "2026-10-24T11:59:12.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "m1hzhj",
       "title": "Gendarmerie armored vehicles deployed to Paris streets ahead of mass protests",
@@ -398,50 +477,6 @@
       "url": "https://tass.com/world/2207281",
       "image": null,
       "publishedAt": "2026-10-24T11:00:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1hzgw",
-      "title": "Situation near DPRK embassy in Beijing calm",
-      "summary": "No heightened security measures are in place",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2207279",
-      "image": null,
-      "publishedAt": "2026-10-24T10:41:30.000Z",
-      "sample": false
-    },
-    {
-      "id": "j4mt1k",
-      "title": "Russian air defenses down 1,297 drones over past 24 hours",
-      "summary": "Kiev forces lose almost 1,190 troops in special military operation zone",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2207273",
-      "image": null,
-      "publishedAt": "2026-10-24T09:46:39.000Z",
-      "sample": false
-    },
-    {
-      "id": "5ykhla",
-      "title": "Bodies of three victims discovered after missile strike in Oryol",
-      "summary": "The city administration has begun inspecting affected apartments to assess damage for subsequent compensation",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/emergencies/2207269",
-      "image": null,
-      "publishedAt": "2026-10-24T08:45:24.000Z",
-      "sample": false
-    },
-    {
-      "id": "5ykhl8",
-      "title": "Death toll from terror attack in Jordan rises to eight",
-      "summary": "27 injured people remain in medical facilities",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/emergencies/2207267",
-      "image": null,
-      "publishedAt": "2026-10-24T08:27:56.000Z",
       "sample": false
     },
     {
@@ -456,28 +491,6 @@
       "sample": false
     },
     {
-      "id": "m1hzfv",
-      "title": "US authorities repeatedly used SpaceX for foreign policy goals — Reuters",
-      "summary": "The news agency noted that Kiev had previously complained about operational restrictions on the SpaceX satellite communication terminals used by the Ukrainian military",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2207263",
-      "image": null,
-      "publishedAt": "2026-10-24T07:17:08.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnze01",
-      "title": "Russia hopes new UN chief election will rid Secretariat of Western dictate — MFA",
-      "summary": "Kirill Logvinov, Director of the Department for International Organizations at the Russian Foreign Ministry said that serious problems within the UN’s operations cannot be ignored",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2207259",
-      "image": null,
-      "publishedAt": "2026-10-24T06:33:00.000Z",
-      "sample": false
-    },
-    {
       "id": "vixed9",
       "title": "Russia, Ukraine Agree on Ceasefire in Embattled Oleshky, Plan New Peace Talks Next Month",
       "summary": "The pause in fighting will allow for the delivery of humanitarian aid and facilitate civilian evacuations from the town, the White House said.",
@@ -488,63 +501,6 @@
       "publishedAt": "2026-10-24T06:13:00.000Z",
       "sample": false
     },
-    {
-      "id": "j4mt36",
-      "title": "Air defense down 616 Ukrainian drones overnight over Russian regions — Defense Ministry",
-      "summary": "They were destroyed over the territories of 22 regions and the waters of the Azov and Black seas",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2207257",
-      "image": null,
-      "publishedAt": "2026-10-24T05:58:52.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnzdzt",
-      "title": "Attempt to accuse Russia of disinformation turned against West — envoy",
-      "summary": "Kirill Dmitriev responsed to the news that two FBI agents were arrested in the United States on charges of giving false testimony to Congress regarding the laptop belonging to the son of the former US president",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2207251",
-      "image": null,
-      "publishedAt": "2026-10-24T05:14:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "tacdgf",
-      "title": "Putin and Modi instruct governments on trade development — ambassador to Russia",
-      "summary": "This instruction was given by the Russian and Indian leaders following their joint participation in the BRICS summit, India’s ambassador to Russia Vinay Kumar emphasized",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2207249",
-      "image": null,
-      "publishedAt": "2026-10-24T04:48:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1hze9",
-      "title": "Kim Jong Un orders creation of world’s strongest army — KCNA",
-      "summary": "The North Korean leader also emphasized the need to improve combat training, strengthen military discipline, and enhance the professional qualities of commanders",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2207247",
-      "image": null,
-      "publishedAt": "2026-10-24T04:35:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1hze7",
-      "title": "Stubb seen as most likely European candidate for talks with Russia — newspaper",
-      "summary": "Alexander Stubb’s significant advantage over other European politicians is his good relations with US President Donald Trump",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2207245",
-      "image": null,
-      "publishedAt": "2026-10-24T04:13:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "afyybc",
       "title": "Russia, U.S. Deny That American Hubbard Was Released in Exchange for Russian War Blogger",
@@ -1027,17 +983,6 @@
       "url": "https://www.themoscowtimes.com/2026/10/19/putin-approves-major-government-cabinet-reshuffle-a94017",
       "image": null,
       "publishedAt": "2026-10-19T08:44:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "b22xnl",
-      "title": "Russia and Ukraine Should Focus on Peace Talks, Rubio Says",
-      "summary": "Rubio also appeared to confirm reports that the U.S., Russia and China are in talks to hold a summit of leaders to discuss ending the war.",
-      "category": "military",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/19/russia-and-ukraine-should-focus-on-peace-talks-rubio-says-a94016",
-      "image": null,
-      "publishedAt": "2026-10-19T08:16:00.000Z",
       "sample": false
     }
   ],
