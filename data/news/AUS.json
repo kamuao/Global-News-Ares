@@ -2,8 +2,19 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-10-25T11:01:34.872Z",
+  "updatedAt": "2026-10-25T15:50:44.271Z",
   "daily": [
+    {
+      "id": "nowq67",
+      "title": "Donald Trump labels Obama 'incompetent' in post rally retaliation",
+      "summary": "US President Donald Trump has retaliated after Barack Obama delivered scathing criticisms of the incumbent during Democrat rallies.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-26/donald-trump-hits-back-at-obama-in-rally-for-midterms/107307060",
+      "image": null,
+      "publishedAt": "2026-10-25T14:42:37.000Z",
+      "sample": false
+    },
     {
       "id": "uu3j7v",
       "title": "Iran says resumption of war with US would not change its mind",
@@ -17,8 +28,8 @@
     },
     {
       "id": "o8azcm",
-      "title": "Live: Trbojevic hat-trick settles Kangaroos' nerves after Fiji threatens upset",
-      "summary": "Fiji dictated terms early to threaten a shocking upset over the Kangaroos in their Rugby League World Cup clash at Lang Park, before Tom Trbojevic nabs a second-half hat-trick for Australia. Follow live.",
+      "title": "Kangaroos escape with World Cup win after Fiji threatens upset",
+      "summary": "Tom Trbojevic's second-half hat-trick helps the Kangaroos over the line with a 36-22 win over a spirited Fijian Bati side in the Rugby League World Cup.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-10-25/kangaroos-vs-fiji-rugby-league-world-cup-live/107306806",
@@ -266,17 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-10-25/thousands-rally-in-tel-aviv-days-ahead-of-israel-election/107306000",
       "image": null,
       "publishedAt": "2026-10-24T23:34:37.000Z",
-      "sample": false
-    },
-    {
-      "id": "pzqe05",
-      "title": "Multiple flood warnings as Queensland braces for more wild weather",
-      "summary": "Residents in the Gympie region are keeping a close eye on a major flood warning for the Mary River, as south-east Queensland braces for severe storms.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-25/flood-warnings-queensland-braces-for-more-rain-storms/107306066",
-      "image": null,
-      "publishedAt": "2026-10-24T23:27:06.000Z",
       "sample": false
     }
   ],

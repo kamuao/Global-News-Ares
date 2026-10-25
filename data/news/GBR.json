@@ -2,28 +2,237 @@
   "id": "GBR",
   "name": "United Kingdom",
   "sample": false,
-  "updatedAt": "2026-10-25T11:01:30.479Z",
+  "updatedAt": "2026-10-25T15:50:38.942Z",
   "daily": [
+    {
+      "id": "k117ge",
+      "title": "Overnight winds reach 85mph as Scotland is hit by Storm Boelo",
+      "summary": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6b7/live/8e2f3ad0-d05a-11f1-bbf5-99ed69f0d81f.jpg",
+      "publishedAt": "2026-10-25T15:34:01.000Z",
+      "sample": false
+    },
     {
       "id": "unzs43",
       "title": "Flight disruption and thousands without electricity after Storm Boelo",
-      "summary": "Flights have been cancelled in Belfast and Dublin, while thousands of homes have been left without power.",
+      "summary": "About 350 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure.",
       "category": "environment",
       "source": "bbc-news",
       "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c6f/live/082a7c50-d04c-11f1-852e-e52a0d42e3b5.jpg",
-      "publishedAt": "2026-10-25T11:00:22.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a519/live/87830680-d078-11f1-afcb-6b9b9432d8fc.jpg",
+      "publishedAt": "2026-10-25T15:14:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "c9848t",
+      "title": "The debating club that helped shape NHS architect Aneurin Bevan's drive for power",
+      "summary": "How a group of young radicals helped set Aneurin Bevan on the path to founding the NHS.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cr5y5zzw72q1o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5f/live/1abdaaa0-cc9f-11f1-a64c-550be9e3c66b.png",
+      "publishedAt": "2026-10-25T15:11:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "s632ev",
+      "title": "Couple were celebrating anniversary before Bahamas tragedy",
+      "summary": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7903/live/3762a6d0-d071-11f1-afcb-6b9b9432d8fc.jpg",
+      "publishedAt": "2026-10-25T14:38:51.000Z",
       "sample": false
     },
     {
       "id": "1ltlhz",
-      "title": "Wind gust of 84mph recorded as Storm Boelo brings disruption",
-      "summary": "More than 500 homes are without power and flooding and felled trees have been reported on roads.",
+      "title": "Travel disruption and power cuts after back-to-back storms",
+      "summary": "Authorities said they were dealing with flooding and fallen trees as Storm Boelo followed Storm Austen.",
       "category": "environment",
       "source": "bbc-news",
       "url": "https://www.bbc.co.uk/news/articles/c6n9rzde1n80o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a998/live/36317670-d048-11f1-852e-e52a0d42e3b5.jpg",
-      "publishedAt": "2026-10-25T10:54:23.000Z",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c08/live/5c830e00-d080-11f1-a4ba-351760cfea6a.jpg",
+      "publishedAt": "2026-10-25T14:29:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "it62tt",
+      "title": "Four-year-old girl dies after fall from tower block",
+      "summary": "Paramedics gave first aid at the scene on Saturday morningb ut the child later died, police say.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cwj34vzrj865o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d84/live/68e6d870-d07b-11f1-afcb-6b9b9432d8fc.png",
+      "publishedAt": "2026-10-25T14:00:37.000Z",
+      "sample": false
+    },
+    {
+      "id": "jvgrua",
+      "title": "All aboard the TrainTok trend: spotters and staff boost rail content online",
+      "summary": "Number of videos about British trains doubles in three months as creators find audiences interested in workings of railways\nThey are not just gathered at the end of your local train station platform any more. Now they are on your social media platforms too.\nTrainspotters have played a part in more than doubling the num",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/technology/2026/oct/25/traintok-trend-train-spotters-rail-staff-videos",
+      "image": "https://i.guim.co.uk/img/media/e4484e0f573e41115dba16dd437a0af7e0045245/0_481_901_720/master/901.jpg?width=140&quality=85&auto=format&fit=max&s=0a1e767e7ee57ec62704f45f61f34c0b",
+      "publishedAt": "2026-10-25T14:00:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "w2lw2f",
+      "title": "Health board still paying for research despite criticism over patient benefit",
+      "summary": "Betsi Cadwaladr University Health Board was due to pay Bangor University £110,686 for two researchers.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c9m26vk0yxx5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8605/live/6ae04150-cf24-11f1-b8f0-99ad639f25e6.jpg",
+      "publishedAt": "2026-10-25T13:31:07.000Z",
+      "sample": false
+    },
+    {
+      "id": "ht9ea8",
+      "title": "Rayner backs Burnham call for debate on return to free movement with EU",
+      "summary": "Cabinet minister says PM’s plea is ‘pragmatism’ but comments risk causing concern among some red wall MPs\nAndy Burnham’s call for the UK to consider a return to free movement with Europe has been backed by senior cabinet ministers including Angela Rayner but risks causing concern among fellow red wall MPs.\nThe prime mi",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
+      "image": "https://i.guim.co.uk/img/media/bde04cf97a3ddf798e20b45db767cc0d3ecb0133/523_0_3866_3093/master/3866.jpg?width=140&quality=85&auto=format&fit=max&s=050d61324caeda5cdb0b88e701c63a7c",
+      "publishedAt": "2026-10-25T13:31:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "gmakv2",
+      "title": "Newscast",
+      "summary": "Andy Burnham opens the door to EU free movement, and another Brexit battle.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/sounds/play/p0phhxp0?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0l7jnbt.jpg",
+      "publishedAt": "2026-10-25T13:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ywfvgk",
+      "title": "Ethnic minorities in England less likely to get breast cancer diagnosis from routine screening",
+      "summary": "Exclusive: People from marginalised groups more likely to be diagnosed via urgent referral or in emergency setting, research finds \nPeople from minority ethnic backgrounds in England are up to a third less likely to be diagnosed with breast cancer via routine screening, and are more likely to be diagnosed in an emergen",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/society/2026/oct/25/ethnic-minorities-england-breast-cancer-screening-disparity",
+      "image": "https://i.guim.co.uk/img/media/60d6a9893f1bf7c680d0be6c150d407b8ade047e/428_0_4248_3400/master/4248.jpg?width=140&quality=85&auto=format&fit=max&s=f14cfcf36e870ee76687b04432620cfd",
+      "publishedAt": "2026-10-25T13:28:23.000Z",
+      "sample": false
+    },
+    {
+      "id": "3mp922",
+      "title": "More than 82,000 properties without power as Storm Boelo batters UK",
+      "summary": "Met Office reports gusts of up to 84mph after weather warnings issued across Scotland, Northern Ireland and north of England\nMore than 82,000 properties have been left without power as Storm Boelo continues to batter Scotland, Northern Ireland and the north of England.\nThe adverse weather hitting northern parts of the ",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
+      "image": "https://i.guim.co.uk/img/media/e8efd7482c8993822a97f1bc577830eb113b2f43/852_0_4578_3663/master/4578.jpg?width=140&quality=85&auto=format&fit=max&s=0f8b1c38c26840e704e7f49b596a5faf",
+      "publishedAt": "2026-10-25T13:14:28.000Z",
+      "sample": false
+    },
+    {
+      "id": "sanwqc",
+      "title": "Former Tory candidate suspended over contract killer claims was adviser in Kemi Badenoch’s office",
+      "summary": "Sources close to Tory leader say Jack Ross, who faces party investigation after undercover report, worked as social media consultant\nA former Conservative election candidate who was suspended after he was filmed discussing the cost of hiring contract killers worked as a consultant in Kemi Badenoch’s office as recently ",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/oct/25/former-tory-candidate-suspended-over-contract-killer-claims-was-adviser-in-kemi-badenoch-office-jack-ross",
+      "image": "https://i.guim.co.uk/img/media/d7c6c678fc8a6629030e48cfc483b2a5757c7b0b/998_0_5013_4013/master/5013.jpg?width=140&quality=85&auto=format&fit=max&s=cc51ec03785a1a04a2e1539588cc25db",
+      "publishedAt": "2026-10-25T13:00:03.000Z",
+      "sample": false
+    },
+    {
+      "id": "q43l1i",
+      "title": "Police using AI risks making discrimination worse, researchers warn",
+      "summary": "AI tools learn from biased records and may deepen discrimination against minorities without oversight, researchers say.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdg4pl7pgvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/560f/live/b29654d0-c8ad-11f1-9c75-6ff1271de385.jpg",
+      "publishedAt": "2026-10-25T12:18:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "wdga4s",
+      "title": "Burnham open to 'honest discussion' on EU free movement",
+      "summary": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae77/live/377c49c0-cff7-11f1-a701-fddedf244c16.jpg",
+      "publishedAt": "2026-10-25T12:11:23.000Z",
+      "sample": false
+    },
+    {
+      "id": "5r29br",
+      "title": "Interest rates unlikely to reach 4.75% by next summer, say City economists",
+      "summary": "Experts say Bank of England  unlikely to increase rates by full percentage point – and could lower them by end of 2027\nFinancial markets are wrong to predict the Bank of England will raise UK interest rates by a full percentage point or more by next summer, City economists believe.\nAccording to market-implied interest ",
+      "category": "economy",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/business/2026/oct/25/interest-rates-bank-of-england-rises-summer-2027",
+      "image": "https://i.guim.co.uk/img/media/16999b1219c9f258849e3c2513b7a9334bf40793/255_0_4377_3501/master/4377.jpg?width=140&quality=85&auto=format&fit=max&s=f61c46713e5ae3329860dac49eecd45c",
+      "publishedAt": "2026-10-25T12:00:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "jknd6f",
+      "title": "Two children’s laureates to give royalties to Sally Rooney after her UK sales halted",
+      "summary": "Irish and Welsh authors Chris Haughton and Nicola Davies show solidarity after Rooney’s support for Palestine Action\nThe children’s laureates for Ireland and Wales are donating royalties from their works to Sally Rooney in a show of solidarity after she was forced to stop selling books in the UK because of her support ",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/books/2026/oct/25/ireland-wales-children-laureates-chris-haughton-nicola-davies-sally-rooney-royalties-ban-on-uk-sales",
+      "image": "https://i.guim.co.uk/img/media/bda25eebade3fc442caa2f7ad0d28a8efcedb1f4/356_0_3556_2845/master/3556.jpg?width=140&quality=85&auto=format&fit=max&s=83c7fef230c8aebe8bd41154d0a75c71",
+      "publishedAt": "2026-10-25T12:00:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "klxce3",
+      "title": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
+      "summary": "Exclusive: Forensic analysis of found images continues as Meghan’s father denies possessing child sexual abuse images\nAll signs point to Thomas Markle Sr being a “possible sex offender of the grossest kind” although a full forensic investigation will give a “definitive picture”, the Philippine interior minister has tol",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
+      "image": "https://i.guim.co.uk/img/media/33215d4db9f8f71824e313272b8523a971becfd8/362_0_1223_978/master/1223.jpg?width=140&quality=85&auto=format&fit=max&s=271dc2d9a7b980e62ac3e87270bf92f4",
+      "publishedAt": "2026-10-25T11:52:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "m68ilz",
+      "title": "'What was in the Clyde is basically now on the shore'",
+      "summary": "BBC Scotland reports from the scene at Cardross as Storm Boelo batters the country.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/cmg47e2znpzpo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ef/live/a2c0cfb0-d067-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-10-25T11:42:17.000Z",
+      "sample": false
+    },
+    {
+      "id": "1t39ii",
+      "title": "Storm Boelo floods town centre of Largs, Scotland",
+      "summary": "The town centre of Largs, a coastal town west of Glasgow, was seen completely flooded last night.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/c977pkdjm0z8o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85db/live/dcbda120-d067-11f1-93e1-3b657b665bcf.jpg",
+      "publishedAt": "2026-10-25T11:35:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "izoy7a",
+      "title": "Demand for UK government action 10 months after British man’s death in Grenada",
+      "summary": "Police closed case of Andrew Frederick despite autopsy report ruling his death a homicide\nA time-critical investigation into the death of a British father whose body was found in a ransacked property on the Caribbean island of Grenada has stalled because of diplomatic delays between the two countries.\nCharity workers s",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
+      "image": "https://i.guim.co.uk/img/media/41857771d6b7e99a163e8d99af363e9bbd9ff452/628_0_5398_4319/master/5398.jpg?width=140&quality=85&auto=format&fit=max&s=a34de22a6fc8eb64f7c50512288c1ab0",
+      "publishedAt": "2026-10-25T11:00:01.000Z",
       "sample": false
     },
     {
@@ -35,17 +244,6 @@
       "url": "https://www.bbc.co.uk/weather/articles/cwdd858z8ynlo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c58/live/4758dc50-cfa7-11f1-aadb-297fd0a130b9.jpg",
       "publishedAt": "2026-10-25T10:16:20.000Z",
-      "sample": false
-    },
-    {
-      "id": "3mp922",
-      "title": "Storm Boelo: warnings in place in Scotland, Northern Ireland and north of England as high winds batter UK",
-      "summary": "Met Office reports gusts of 80mph in exposed coastal spots and advises people in affected areas to stay indoors\nStrong winds have battered Scotland, Northern Ireland and northern England overnight as Storm Boelo hit the UK.\nIt was the second named storm in as many days, after Storm Austen brought strong winds to parts ",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/25/storm-boelo-warnings-scotland-northern-ireland-north-of-england-high-winds-uk",
-      "image": "https://i.guim.co.uk/img/media/e8efd7482c8993822a97f1bc577830eb113b2f43/852_0_4578_3663/master/4578.jpg?width=140&quality=85&auto=format&fit=max&s=0f8b1c38c26840e704e7f49b596a5faf",
-      "publishedAt": "2026-10-25T10:03:31.000Z",
       "sample": false
     },
     {
@@ -68,28 +266,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c6dxwklr409eo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/978b/live/e520cd80-c8a4-11f1-929c-0b57deb4f9df.jpg",
       "publishedAt": "2026-10-25T09:59:50.000Z",
-      "sample": false
-    },
-    {
-      "id": "k117ge",
-      "title": "Overnight winds hit 85mph as Scotland is hit by Storm Beolo",
-      "summary": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca5/live/c2634d30-d043-11f1-9289-d9f9a258e558.jpg",
-      "publishedAt": "2026-10-25T09:33:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "klxce3",
-      "title": "Signs suggest Thomas Markle Sr may be ‘sex offender of the grossest kind’, says Philippine minister",
-      "summary": "Exclusive: Forensic analysis of found images continues as Meghan’s father denies possessing child sexual abuse images\nAll signs point to Thomas Markle Sr being a “possible sex offender of the grossest kind” although a full forensic investigation will give a “definitive picture”, the Philippine interior minister has tol",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/25/thomas-markle-sr-philippines-investigation",
-      "image": "https://i.guim.co.uk/img/media/33215d4db9f8f71824e313272b8523a971becfd8/362_0_1223_978/master/1223.jpg?width=140&quality=85&auto=format&fit=max&s=271dc2d9a7b980e62ac3e87270bf92f4",
-      "publishedAt": "2026-10-25T09:33:05.000Z",
       "sample": false
     },
     {
@@ -177,17 +353,6 @@
       "source": "the-guardian",
       "url": "https://www.theguardian.com/news/audio/2026/oct/25/playwright-james-graham-radical-thinking-podcast",
       "image": "https://i.guim.co.uk/img/media/4bdc9ab6c5966302d7cc42fad78fe331fc1d592d/1636_756_3599_2879/master/3599.jpg?width=140&quality=85&auto=format&fit=max&s=6797e7c624e0851523b9b5ea66cc1b65",
-      "publishedAt": "2026-10-25T08:00:57.000Z",
-      "sample": false
-    },
-    {
-      "id": "qn6b5w",
-      "title": "‘I can’t believe I get to see that’: One Born Every Minute is back for a 12th series",
-      "summary": "Reality TV show returns to focus on childbirth, diversity and the sharing of stories in a social media age\nWhen One Born Every Minute first aired in 2010, viewers loved its fly-on-the-wall take on life in a maternity unit, from midwives idly chatting about unusual pregnancy cravings to parents squabbling over whether t",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/oct/25/i-cant-believe-i-get-to-see-that-one-born-every-minute-is-back-for-a-12th-series",
-      "image": "https://i.guim.co.uk/img/media/83c31cce144530c0fac119ef752fc968600fc782/0_915_6537_5227/master/6537.jpg?width=140&quality=85&auto=format&fit=max&s=433ed9f4fef3d70cfd0dea49a12fcf99",
       "publishedAt": "2026-10-25T08:00:57.000Z",
       "sample": false
     },
@@ -302,17 +467,6 @@
       "sample": false
     },
     {
-      "id": "gueyxm",
-      "title": "Cocaine-linked crimes on the rise in Britain as consumption surges",
-      "summary": "Exclusive: Wastewater analysis in England suggests people took roughly 2.5bn lines of drug in one year\n\nAgeing users and record deaths – the data behind Britain’s £9.8bn-a-year cocaine habit\n\nPubs, festivals and workplaces: how cocaine has become an everyday habit\n\nBritish police are recording a growing number of crime",
-      "category": "society",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/25/cocaine-linked-crimes-on-the-rise-in-britain-as-consumption-surges",
-      "image": "https://i.guim.co.uk/img/media/fad3050efd99a996e16ed431b5a8abac7e153a59/1_0_5905_4724/master/5905.jpg?width=140&quality=85&auto=format&fit=max&s=ac319548d230d808a29965aed62f31d2",
-      "publishedAt": "2026-10-25T07:00:55.000Z",
-      "sample": false
-    },
-    {
       "id": "3quphh",
       "title": "Budget 2026: No more fat to trim for 'squeezed middle'",
       "summary": "As the chancellor finalises his first Budget, how are the \"squeezed middle\" feeling about costs?",
@@ -332,17 +486,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cq4g1k9edgyjo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afe4/live/1c98c2d0-d03a-11f1-bfe5-21c1689d6beb.jpg",
       "publishedAt": "2026-10-25T06:06:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "l3o64r",
-      "title": "Emirati-linked firms’ ownership of Manchester land ‘up 39%’ in ten years",
-      "summary": "Economic ties face scrutiny after scandal over Manchester City’s financial rules\n\n‘That’s the way the city works’: how the UAE changed the face of Andy Burnham’s Manchester\n\nEmirati-linked companies own almost 40% more land in Greater Manchester than a decade ago, Guardian analysis reveals, as the city’s economic ties ",
-      "category": "economy",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/25/emirati-linked-firms-manchester-land",
-      "image": "https://i.guim.co.uk/img/media/f548fe402a84152e9358e51424f2d696202430cb/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=9c2b35ce6e514ec2035d055288752dfd",
-      "publishedAt": "2026-10-25T06:00:55.000Z",
       "sample": false
     },
     {
@@ -368,17 +511,6 @@
       "sample": false
     },
     {
-      "id": "r6ruaf",
-      "title": "The Papers: 'Cops didn't share letter' and Burnham 'open' to EU free movement",
-      "summary": "The latest on claims agianst the father of the Duchess of Sussex and comments from the PM on EU free movement feature on Sunday's front pages.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cmqln4vq1dn1o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13ad/live/ce63d6b0-cff6-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-10-25T05:53:34.000Z",
-      "sample": false
-    },
-    {
       "id": "qrietu",
       "title": "Students like new tenancy freedoms - but landlords warn of higher rents",
       "summary": "The Renters' Rights Act gives greater flexibility to leave a tenancy but the changes have posed challenges for student landlords.",
@@ -390,17 +522,6 @@
       "sample": false
     },
     {
-      "id": "wdga4s",
-      "title": "Burnham open to 'honest discussion' on EU free movement",
-      "summary": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae77/live/377c49c0-cff7-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-10-25T00:33:19.000Z",
-      "sample": false
-    },
-    {
       "id": "f9qvtj",
       "title": "Andy Burnham says he wants ‘honest discussion’ about freedom of movement with EU",
       "summary": "Prime minister is considering different options for new relationship with Brussels ahead of summit in November\nAndy Burnham says he wants an “honest discussion” with the British public about the possibility of a return to free movement between the UK and the EU as part of his plans for a new relationship with the bloc.",
@@ -409,6 +530,17 @@
       "url": "https://www.theguardian.com/politics/2026/oct/25/andy-burnham-says-he-wants-honest-discussion-about-freedom-of-movement-with-eu",
       "image": "https://i.guim.co.uk/img/media/a70fdd7473eaf376bdb1a4ebb90945a7f911f415/0_0_3710_2968/master/3710.jpg?width=140&quality=85&auto=format&fit=max&s=e6e72a18b0494fb269c7565eff695cd1",
       "publishedAt": "2026-10-24T23:07:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "ofxa9",
+      "title": "'An IRA boss wanted me dead - my best mate was killed beside me'",
+      "summary": "The survivor of a notorious knife murder speaks of his guilt over the way the attack unfolded and the failure to catch the killers.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cjzxlnrpp30zo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ca/live/1110c5b0-ce0b-11f1-9f55-cdc56e9c248c.jpg",
+      "publishedAt": "2026-10-24T23:04:40.000Z",
       "sample": false
     },
     {
@@ -476,18 +608,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0212/live/cbd91020-cfd5-11f1-b951-f904363c9c32.jpg",
       "publishedAt": "2026-10-24T18:20:56.000Z",
       "sample": false
-    },
-    {
-      "id": "oa4x58",
-      "title": "Mum who died trying to save sons was hero, husband says",
-      "summary": "Nathan Gregory says the loss of childhood sweetheart Leanne \"is unimaginable for our family\".",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b9f/live/09596b60-cfc8-11f1-b441-2b33b063138f.jpg",
-      "publishedAt": "2026-10-24T17:11:56.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "prrp7y",
       "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
@@ -597,19 +720,6 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f09/live/d22fe040-ceed-11f1-b441-2b33b063138f.jpg",
       "publishedAt": "2026-10-24T11:03:57.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "7mgn3s",
-      "title": "Is London really the most-taxed city? Banks accused of cherrypicking data",
-      "summary": "Lobby group’s figures, shared with John Healey, are misleading as they do not include major rival Paris, say campaigners\nA banking lobby group has been accused of cherrypicking data and trying to mislead the British government by claiming a tax rise for banks at next week’s budget would leave London less competitive th",
-      "category": "economy",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
-      "image": "https://i.guim.co.uk/img/media/bd0a6314e2540f8792bbbc2a44826e497205c994/0_0_5524_4420/master/5524.jpg?width=140&quality=85&auto=format&fit=max&s=b8af8160dddeaae0420d71f3cc5146f5",
-      "publishedAt": "2026-10-24T11:00:31.000Z",
-      "sample": false
     },
     {
       "id": "z84isv",
@@ -634,17 +744,6 @@
       "sample": false
     },
     {
-      "id": "h0phxe",
-      "title": "Can curry nights and canny advisers help Healey deliver a budget for everyday people?",
-      "summary": "The chancellor has promised ‘breathing space’ for households and small businesses but global events cannot be ignored\n\nYou be the chancellor: play our budget game to see if you can balance the books\n\nEvery Sunday night, the chancellor, John Healey, slips next door to Andy Burnham’s Downing Street flat where they order ",
-      "category": "economy",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/24/can-john-healey-make-a-dent-in-the-cost-of-living-crisis-in-his-first-budget",
-      "image": "https://i.guim.co.uk/img/media/fc384fb4e4201ba96e3ea0f3696d10da28d16e43/411_0_3989_3192/master/3989.jpg?width=140&quality=85&auto=format&fit=max&s=a52a9f03cffc07ca8626e18963a7acf7",
-      "publishedAt": "2026-10-24T09:00:29.000Z",
-      "sample": false
-    },
-    {
       "id": "iif14l",
       "title": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
       "summary": "BBC series deliberately uses ‘more organic’ shots to assure viewers animals are not AI-generated, producers say\nThe David Attenborough-narrated series Blue Planet III deliberately includes cloudier, less polished footage to counter AI fakery and assure viewers it is “authentic”, its producers have said.\nNearly a decade",
@@ -664,6 +763,17 @@
       "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed3b/live/f16c4190-cecc-11f1-8507-45cb00a1c41c.jpg",
       "publishedAt": "2026-10-24T08:28:49.000Z",
+      "sample": false
+    },
+    {
+      "id": "b7x0iu",
+      "title": "Babydoll singer Jamie Miller reaches number one",
+      "summary": "Jamie Miller thanks his fans as he reaches number one in the UK singles chart.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/c6pqg43095d2o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13af/live/df69ff80-cf82-11f1-93e1-3b657b665bcf.png",
+      "publishedAt": "2026-10-24T08:18:06.000Z",
       "sample": false
     },
     {
@@ -799,17 +909,6 @@
       "sample": false
     },
     {
-      "id": "9xnac6",
-      "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
-      "summary": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ed/live/357e0110-ceec-11f1-bdca-23c64447299f.jpg",
-      "publishedAt": "2026-10-23T21:10:47.000Z",
-      "sample": false
-    },
-    {
       "id": "t75j4e",
       "title": "GP says she was forced out of job after raising concerns about gender treatment",
       "summary": "The doctor says she faced a brutal investigation after she passed on complaints brought to her by other doctors.",
@@ -840,17 +939,6 @@
       "url": "https://www.theguardian.com/culture/2026/oct/23/oldest-pubs-inns-historic-england-archaeologist",
       "image": "https://i.guim.co.uk/img/media/f858f6ca882ddf82c48a16dcf1c5badf56e85448/935_0_4681_3744/master/4681.jpg?width=140&quality=85&auto=format&fit=max&s=6165dfdd57c070db36ac431596e23e10",
       "publishedAt": "2026-10-23T16:17:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "879wz1",
-      "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo warning upgraded to amber",
-      "summary": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53d5/live/1df63570-cec5-11f1-b9e0-e5f0da03dc7f.jpg",
-      "publishedAt": "2026-10-23T16:13:11.000Z",
       "sample": false
     },
     {
@@ -898,17 +986,6 @@
       "sample": false
     },
     {
-      "id": "cbjbk",
-      "title": "Prince William makes surprise appearance on Graham Norton show",
-      "summary": "Cate Blanchett and Hannah Waddingham join William on sofa for special edition to celebrate prince’s Earthshot prize\nThe Prince of Wales has braved the chatshow sofa, making a surprise appearance on The Graham Norton Show.\nIn the pre-recorded show, to be aired on Friday on BBC One, William made a surprise appearance in ",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/oct/23/prince-william-graham-norton-show",
-      "image": "https://i.guim.co.uk/img/media/b26ac8fecffcc5fcec6087375f4fe34d5c206012/569_0_4158_3327/master/4158.jpg?width=140&quality=85&auto=format&fit=max&s=53d4be8e1b55c497e257f0ce3032d2d0",
-      "publishedAt": "2026-10-23T14:52:06.000Z",
-      "sample": false
-    },
-    {
       "id": "vj0ogs",
       "title": "UK government to make unprecedented intervention in setting of water bills",
       "summary": "Exclusive: Angela Eagle tells utility bosses next price review ‘must focus on value for money for customers’\nMinisters will make an unprecedented intervention in water bills and how companies prioritise investment, directing bosses to bring down costs and stop leaks and sewage overflows.\nAngela Eagle, the environment s",
@@ -917,17 +994,6 @@
       "url": "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment",
       "image": "https://i.guim.co.uk/img/media/42eff267592462762d01a6b8e780e7713d9f1b8d/0_8_2955_2364/master/2955.jpg?width=140&quality=85&auto=format&fit=max&s=6cf198aecdbc4fe83ebcac2e5a1c2d25",
       "publishedAt": "2026-10-23T13:51:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "bwa33j",
-      "title": "Watch: Moment part of Brighton's historic West Pier collapses",
-      "summary": "Footage taken during Storm Austen shows a section of the famous landmark battered by large waves and collapsing into the water.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78f3/live/e66e2500-cefa-11f1-93e1-3b657b665bcf.png",
-      "publishedAt": "2026-10-23T13:03:29.000Z",
       "sample": false
     },
     {
@@ -1005,17 +1071,6 @@
       "url": "https://www.bbc.co.uk/news/videos/c8n5vl7dq545o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/899d/live/223dd8f0-cebf-11f1-9a39-31b474234113.jpg",
       "publishedAt": "2026-10-23T09:18:41.000Z",
-      "sample": false
-    },
-    {
-      "id": "g5xnwc",
-      "title": "BBC presenter battles strong winds as Storm Austen hits Newquay",
-      "summary": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/b0f3ac60-cec3-11f1-a701-fddedf244c16.jpg",
-      "publishedAt": "2026-10-23T08:26:47.000Z",
       "sample": false
     },
     {
@@ -1107,28 +1162,6 @@
       "sample": false
     },
     {
-      "id": "x8oqbg",
-      "title": "'Wildly unfair that my husband and I pay £4k a year for ADHD treatment'",
-      "summary": "Northern Ireland is the only part of the UK without a formally commissioned, publicly-funded adult service for ADHD.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cvze4wg10389o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ab9/live/1d14e420-ce2b-11f1-9f18-490cec60aa0f.jpg",
-      "publishedAt": "2026-10-23T05:14:41.000Z",
-      "sample": false
-    },
-    {
-      "id": "fm361j",
-      "title": "Watch: Met chief Rowley not fit for job, says detective raped by colleague",
-      "summary": "Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/771b/live/6ba2e430-ce57-11f1-9a39-31b474234113.jpg",
-      "publishedAt": "2026-10-23T05:00:12.000Z",
-      "sample": false
-    },
-    {
       "id": "rf0a57",
       "title": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn",
       "summary": "People succumbed to heat at highest rates in Malta, Italy and Hungary, with health issues, loneliness and poverty exacerbating toll\nHeat killed a record 50,000 people in European cities this summer, new research suggests, with scientists blaming climate breakdown for two in every three of the deaths.\nMorgues and funera",
@@ -1195,17 +1228,6 @@
       "sample": false
     },
     {
-      "id": "pjk7aa",
-      "title": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
-      "summary": "PM pledges commitment to address climate crisis, saying in Guardian article that his ‘determination is unwavering’ \n\nAndy Burnham: We will make the net-zero transition work for Britain\n\nAndy Burnham has said he will not “abandon the responsibility” of fighting the climate crisis after the government approved the Jackda",
-      "category": "environment",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
-      "image": "https://i.guim.co.uk/img/media/d1fb804495654a9522a6382c4d02fa964c5d9ded/406_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=d8c57a517bd448ca577e4e408be97f51",
-      "publishedAt": "2026-10-22T21:34:11.000Z",
-      "sample": false
-    },
-    {
       "id": "ezuv2h",
       "title": "Gasps as Prince William makes surprise appearance on Graham Norton Show",
       "summary": "The Prince of Wales was marking his Earthshot Prize, to which all of Norton's guests were linked.",
@@ -1214,17 +1236,6 @@
       "url": "https://www.bbc.co.uk/news/articles/c30rlpkglkwpo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84b9/live/d5eee6e0-cea7-11f1-bc2e-018d645d8d21.jpg",
       "publishedAt": "2026-10-22T21:21:22.000Z",
-      "sample": false
-    },
-    {
-      "id": "i3rqu",
-      "title": "'Difficult decision' to close Samaritans branch after more than 50 years",
-      "summary": "\"Sadly, and due to circumstances beyond anyone's control, the difficult decision was reached to close the branch,\" they charity says.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c6y8lvmvnm49o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d6b/live/86cbeab0-ce37-11f1-a68f-db480c983a58.jpg",
-      "publishedAt": "2026-10-22T20:20:11.000Z",
       "sample": false
     },
     {

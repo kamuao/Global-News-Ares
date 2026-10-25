@@ -2,8 +2,19 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-10-25T11:01:33.256Z",
+  "updatedAt": "2026-10-25T15:50:42.081Z",
   "daily": [
+    {
+      "id": "ob4vu0",
+      "title": "Japan faces shortage of language teachers for foreign workers",
+      "summary": "Of the survey's respondents, 125 organizations, or 35.9%, said they had not secured sufficient numbers of teachers and had no prospects for doing so.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/25/japan/japan-language-teacher-shortage/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570411.jpg",
+      "publishedAt": "2026-10-25T11:40:00.000Z",
+      "sample": false
+    },
     {
       "id": "ls6w84",
       "title": "What can Asia do to avoid crossing crucial climate tipping points?",
@@ -12,6 +23,17 @@
       "source": "japan-times",
       "url": "https://www.japantimes.co.jp/environment/2026/10/25/climate-change/climate-tipping-points-asia/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570352.jpg",
+      "publishedAt": "2026-10-25T09:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "7snh1t",
+      "title": "Is Israel strong enough to go it alone?",
+      "summary": "Opinion polls suggested this would be a tight race. And that was before the U.S. president put his hand on the scales by endorsing the incumbent.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/10/25/world/israel-go-it-alone/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/569926.jpg",
       "publishedAt": "2026-10-25T09:00:00.000Z",
       "sample": false
     },
@@ -127,7 +149,7 @@
     },
     {
       "id": "7hzyg",
-      "title": "Cartel-suspected brewers held beer prices steady after 2023 tax cut",
+      "title": "Brewers in cartel probe all held beer prices steady after 2023 tax cut",
       "summary": "The Japan Fair Trade Commission is investigating a possible cartel regarding shipping prices among Asahi, Kirin, Suntory and Sapporo.",
       "category": "economy",
       "source": "japan-times",
@@ -311,31 +333,8 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/thumbs/400x400/570285.jpg",
       "publishedAt": "2026-10-24T22:58:00.000Z",
       "sample": false
-    },
-    {
-      "id": "ipbagx",
-      "title": "NFL Commissioner Roger Goodell expects league to play in Tokyo in 2027 or 2028",
-      "summary": "The NFL has previously played 14 exhibition games in Japan, with the last one pitting the Falcons against the Indianapolis Colts in 2005.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/10/24/more-sports/nfl-tokyo-game-near-future/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/24/thumbs/400x400/570270.jpg",
-      "publishedAt": "2026-10-24T12:43:00.000Z",
-      "sample": false
     }
   ],
-  "weekly": [
-    {
-      "id": "i4ps1b",
-      "title": "Park24 to pay ¥3,000 to Times Car users hit by data breach",
-      "summary": "The company has confirmed that about 6.62 million user accounts were compromised.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/24/park24-3000-yen-compensation/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/24/thumbs/400x400/570266.jpg",
-      "publishedAt": "2026-10-24T08:21:00.000Z",
-      "sample": false
-    }
-  ],
+  "weekly": [],
   "developing": []
 }

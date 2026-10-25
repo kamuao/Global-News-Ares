@@ -2,17 +2,248 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-10-25T11:01:31.903Z",
+  "updatedAt": "2026-10-25T15:50:40.928Z",
   "daily": [
     {
-      "id": "sm9832",
-      "title": "Ukrainian Attacks Kill 3 in Belgorod, Hit Perm Industrial Plant",
-      "summary": "Three people were killed in southwestern Russia’s Belgorod region and an industrial site damaged in the Perm region.",
+      "id": "5ykju6",
+      "title": "Two people hurt by falling debris of intercepted Houthi missiles in southern Saudi Arabia",
+      "summary": "Three residential houses and seven cars were damaged",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2207577",
+      "image": null,
+      "publishedAt": "2026-10-25T15:35:39.000Z",
+      "sample": false
+    },
+    {
+      "id": "8qq3ng",
+      "title": "Moscow to Host 2030 World Weightlifting Championships, IWF Says",
+      "summary": "No world championships in an Olympic sport have been held in Russia since the start of the war in Ukraine.",
+      "category": "military",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/10/25/moscow-to-host-2030-world-weightlifting-championships-iwf-says-a94079",
+      "image": null,
+      "publishedAt": "2026-10-25T15:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1i1ot",
+      "title": "Trump says choosing between making deal with Iran and ‘finishing it off’",
+      "summary": "President of the US said that oil prices would go down as soon as the conflict with Iran is over",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2207573",
+      "image": null,
+      "publishedAt": "2026-10-25T15:13:57.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzg9m",
+      "title": "Europe being destroyed by bureaucrats unwilling to correct their mistakes — RDIF CEO",
+      "summary": "They prefer to deflect and shift blame onto the US and Russia, said Kirill Dmitriev",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207571",
+      "image": null,
+      "publishedAt": "2026-10-25T15:05:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1i1o4",
+      "title": "Voter turnout at Serbia’s snap parliamentary elections exceeds 50% — Informer",
+      "summary": "By this time of the day during the previous elections in 2023 it was 36.7%",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2207569",
+      "image": null,
+      "publishedAt": "2026-10-25T14:39:25.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzg8t",
+      "title": "Migrants in EU see how authorities treat Middle East, do not accept it — Putin",
+      "summary": "This shapes their mindset regarding how they should respond to the actions of the authorities in the country where they currently reside, said Russian leader",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207563",
+      "image": null,
+      "publishedAt": "2026-10-25T14:17:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1i1n7",
+      "title": "Qatari mediators visit Tehran as part of de-escalation efforts — Reuters",
+      "summary": "The visit was part of efforts toward deescalating the conflict in the Middle East",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2207557",
+      "image": null,
+      "publishedAt": "2026-10-25T14:16:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzg80",
+      "title": "Decline in industrial production in Europe since 2021 has been dramatic — Putin",
+      "summary": "In Germany, the continent’s primary economy, the drop ranges from 1.5% to 5.2%, underlinded Russian president",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207555",
+      "image": null,
+      "publishedAt": "2026-10-25T14:13:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzg7w",
+      "title": "Russia creating favorable conditions for Western companies — Putin",
+      "summary": "The companies that have remained in the country, said Russian leader",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207551",
+      "image": null,
+      "publishedAt": "2026-10-25T13:54:50.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzg79",
+      "title": "Russia prepared to export as much of diesel fuel as US may need — deputy PM",
+      "summary": "This is a part of the diesel deal, said Alexander Novak",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207549",
+      "image": null,
+      "publishedAt": "2026-10-25T13:53:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "5qts7q",
+      "title": "Ukrainian Attacks Kill 4 in Belgorod and Lipetsk, Hit Perm Industrial Plant",
+      "summary": "Four people were killed in southwestern Russia’s Belgorod and Lipetsk regions and an industrial site damaged in the Perm region.",
       "category": "politics",
       "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/25/ukrainian-attacks-kill-3-in-belgorod-hit-perm-industrial-plant-a94077",
+      "url": "https://www.themoscowtimes.com/2026/10/25/ukrainian-attacks-kill-4-in-belgorod-and-lipetsk-hit-perm-industrial-plant-a94077",
       "image": null,
-      "publishedAt": "2026-10-25T09:01:46.000Z",
+      "publishedAt": "2026-10-25T13:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzg6e",
+      "title": "Russian LNG accounts for 20% of European market — Putin",
+      "summary": "Russia has never refused to supply energy resources to Europe, underlinded Russian leader",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207539",
+      "image": null,
+      "publishedAt": "2026-10-25T13:29:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzg66",
+      "title": "Russian MFA to respond to accusations of Moscow being behind unrest in Europe — Putin",
+      "summary": "Without analyzing the causes of the events taking place European states will not eliminate these causes, noted Russian president",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207531",
+      "image": null,
+      "publishedAt": "2026-10-25T13:25:37.000Z",
+      "sample": false
+    },
+    {
+      "id": "o30bp4",
+      "title": "Europe Should Be Included in Ukraine Peace Discussions, Kremlin Aide Says",
+      "summary": "\"We need to talk to the whole of Europe, which fully supports Kyiv,\" Yury Ushakov told state television.",
+      "category": "politics",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/10/25/europe-should-be-included-in-ukraine-peace-discussions-kremlin-aide-says-a94078",
+      "image": null,
+      "publishedAt": "2026-10-25T13:20:24.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzg5j",
+      "title": "EU fails to instill values in migrants, allows those values to crumble at home — Putin",
+      "summary": "Many have arrived and lived there for decades, yet they do not speak the language of the host country, said Russian leader",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207529",
+      "image": null,
+      "publishedAt": "2026-10-25T13:09:55.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzg5d",
+      "title": "Bilateral meeting between Putin, Trump at APEC not arranged but possible — Kremlin aide",
+      "summary": "The discussion has focused on trilateral contact between Russian, American and Chinese leaders, said Yury Ushakov",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207523",
+      "image": null,
+      "publishedAt": "2026-10-25T12:49:35.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzg5b",
+      "title": "Issue of Putin’s trip to G20 in Miami to be considered after APEC summit — Kremlin aide",
+      "summary": "Yury Ushakov said, that Russia has received an invitation to the summit in Miami",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207521",
+      "image": null,
+      "publishedAt": "2026-10-25T12:46:36.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzg4o",
+      "title": "Dialogue with EU on Ukraine necessary as Europe wants to continue war — Kremlin aide",
+      "summary": "It is not enough to talk only with Kiev, underlinder Yury Ushakov",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207519",
+      "image": null,
+      "publishedAt": "2026-10-25T12:43:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzg4m",
+      "title": "European authorities not analyzing causes of unrest, looking for those to blame — Putin",
+      "summary": "They were accusing USA and Russia, said Russian leader",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207517",
+      "image": null,
+      "publishedAt": "2026-10-25T12:35:35.000Z",
+      "sample": false
+    },
+    {
+      "id": "9egdjv",
+      "title": "Moscow to host 2030 World Weightlifting Championships",
+      "summary": "That was announced by the press service of the International Weightlifting Federation",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/sports/2207507",
+      "image": null,
+      "publishedAt": "2026-10-25T11:44:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzg3p",
+      "title": "Putin surprised anti-Americanism was EU leaders’ first reaction to unrest",
+      "summary": "Russian president found that strange and unexpected",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207505",
+      "image": null,
+      "publishedAt": "2026-10-25T11:43:22.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzg3n",
+      "title": "Putin says accustomed to Russia being blamed for all mortal sins including unrest in EU",
+      "summary": "Russian leader noted, that there is nothing unexpected, it has become a standard practice for the West",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207503",
+      "image": null,
+      "publishedAt": "2026-10-25T11:28:34.000Z",
       "sample": false
     },
     {
@@ -366,7 +597,9 @@
       "image": null,
       "publishedAt": "2026-10-24T15:58:18.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "llb1f4",
       "title": "Saudi Arabia Will Not Host Russia’s Intervision Song Contest This Year, TASS Reports",
@@ -376,17 +609,6 @@
       "url": "https://www.themoscowtimes.com/2026/10/24/saudi-arabia-will-not-host-russias-intervision-song-contest-this-year-tass-reports-a94076",
       "image": null,
       "publishedAt": "2026-10-24T15:30:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "9egf1d",
-      "title": "Russia’s Medvedev into Almaty Open tennis final after Bublik’s retirement",
-      "summary": "Russia’s top-ranked tennis player defeated Bublik 6-3 in the first set of their semifinal match before the Kazakh tennis player stopped due to injury",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/sports/2207303",
-      "image": null,
-      "publishedAt": "2026-10-24T15:21:58.000Z",
       "sample": false
     },
     {
@@ -401,61 +623,6 @@
       "sample": false
     },
     {
-      "id": "5ykhnt",
-      "title": "Omsk northern industrial cluster in Russia’s Siberia comes under enemy drone attack",
-      "summary": "Emergency services are working at the scene, said Vitaly Khotsenko, the governor of the Siberian region",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/emergencies/2207297",
-      "image": null,
-      "publishedAt": "2026-10-24T14:17:36.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1hzii",
-      "title": "Zelensky using Ukraine conflict for hype — Mendel",
-      "summary": "Zelensky’s former spokeswoman noted, that whenever Vladimir Zelensky speaks publicly or gives numerous interviews, he always talks about himself",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2207295",
-      "image": null,
-      "publishedAt": "2026-10-24T14:08:13.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1hzig",
-      "title": "India wants relations with Russia to be further strengthened — Lok Sabha speaker",
-      "summary": "Om Birla said, that people of both states are very connected",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2207293",
-      "image": null,
-      "publishedAt": "2026-10-24T13:45:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "tacdki",
-      "title": "Brussels boutiques board up storefronts ahead of potential rioting",
-      "summary": "In the capital’s luxury shopping districts along Avenue Louise, Boulevard de Waterloo, and in the Rue Neuve and Sablon areas, more than half of the storefronts have been covered with particleboard panels",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2207291",
-      "image": null,
-      "publishedAt": "2026-10-24T13:15:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1hzhp",
-      "title": "Police in Lyon disperse student protest with tear gas",
-      "summary": "Students attempted to hold a demonstration near Lyon 3 University despite a government ban",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/world/2207287",
-      "image": null,
-      "publishedAt": "2026-10-24T12:50:36.000Z",
-      "sample": false
-    },
-    {
       "id": "65o01z",
       "title": "Russia Says Drone Attack Damages Tolyatti Facilities, Ukraine Says Petrochemical Plant Hit",
       "summary": "The Tolyattikauchuk petrochemical plant is one of Russia's largest producers of synthetic rubber.",
@@ -464,19 +631,6 @@
       "url": "https://www.themoscowtimes.com/2026/10/24/russia-says-drone-attack-damages-tolyatti-facilities-ukraine-says-petrochemical-plant-hit-a94074",
       "image": null,
       "publishedAt": "2026-10-24T11:59:12.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "m1hzhj",
-      "title": "Gendarmerie armored vehicles deployed to Paris streets ahead of mass protests",
-      "summary": "Several armored vehicles are stationed near the Elysee Palace and the National Assembly",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/world/2207281",
-      "image": null,
-      "publishedAt": "2026-10-24T11:00:10.000Z",
       "sample": false
     },
     {
@@ -961,28 +1115,6 @@
       "url": "https://www.themoscowtimes.com/2026/10/19/kursk-becomes-first-region-to-appoint-ukraine-war-veterans-rights-ombudsman-a94019",
       "image": null,
       "publishedAt": "2026-10-19T11:29:51.000Z",
-      "sample": false
-    },
-    {
-      "id": "5y8ztr",
-      "title": "FM Lavrov Arrives in Tehran for Talks With Iranian Leadership",
-      "summary": "The diplomatic visit comes after Donald Trump claimed Russia is “doing very little, if anything” to help Iran in the war with the U.S. and Israel.",
-      "category": "military",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/19/fm-lavrov-arrives-in-tehran-for-talks-with-iranian-leadership-a94018",
-      "image": null,
-      "publishedAt": "2026-10-19T10:24:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "jf5l47",
-      "title": "Putin Approves Major Government Cabinet Reshuffle",
-      "summary": "The proposed personnel changes would replace nearly half of Prime Minister Mikhail Mishustin’s deputy prime ministers.",
-      "category": "politics",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/19/putin-approves-major-government-cabinet-reshuffle-a94017",
-      "image": null,
-      "publishedAt": "2026-10-19T08:44:00.000Z",
       "sample": false
     }
   ],

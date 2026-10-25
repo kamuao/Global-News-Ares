@@ -2,17 +2,50 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-25T11:01:30.715Z",
+  "updatedAt": "2026-10-25T15:50:39.836Z",
   "daily": [
     {
-      "id": "fd09i",
-      "title": "Serbia votes in closely fought election as student-led opposition challenges Aleksandar Vucic's grip on power",
-      "summary": "Nearly two years after a deadly railway station collapse sparked mass anti-corruption protests, Serbians are voting in a closely fought election that could end Aleksandar Vucic's grip on power.",
-      "category": "society",
+      "id": "4dd7kp",
+      "title": "Brazil election: Lula, Bolsonaro cast votes in final bout",
+      "summary": "Almost 160 million are eligible to vote in the final round of Brazil's election that pits the left-wing incumbent against the son of the former far-right president. DW has more.",
+      "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/serbia-votes-in-closely-fought-election-as-student-led-opposition-challenges-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-10-25T10:42:00.000Z",
+      "publishedAt": "2026-10-25T14:13:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "mv3vj2",
+      "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
+      "summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-25T13:41:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pnf5yn",
+      "title": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
+      "summary": "Bayern Munich striker Harry Kane is the clear front-runner for football's most prestigious individual prize, which will be awarded on Monday. Kane has developed even more in the Bundesliga despite an uneven league.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-25T13:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pp5gd2",
+      "title": "Israel to close all West Bank land crossings on election day",
+      "summary": "After a deadly attack which killed two Israeli soldiers on Friday, the Israeli military has said all land border points between Israel and the occupied West Bank will be closed during Tuesday's election.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-25T13:09:00.000Z",
       "sample": false
     },
     {
@@ -23,7 +56,18 @@
       "source": "dw",
       "url": "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-10-25T10:36:00.000Z",
+      "publishedAt": "2026-10-25T12:51:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "o43h5z",
+      "title": "France: Hundreds arrested after nationwide protests",
+      "summary": "The French government says more than 1,000 people were arrested following nationwide protests on Saturday. Police and elite security forces were out in force across the country as clashes broke out.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-25T12:05:00.000Z",
       "sample": false
     },
     {
@@ -34,7 +78,29 @@
       "source": "dw",
       "url": "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-10-25T09:34:00.000Z",
+      "publishedAt": "2026-10-25T11:16:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1jf77x",
+      "title": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
+      "summary": "India's opposition leader Rahul Gandhi has accused the ruling BJP of \"vote theft\" and urged people to join a rally in Delhi on November 1. The call comes amid protests over revision of electoral rolls. DW has more.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-25T10:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "q1l6eh",
+      "title": "Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power?",
+      "summary": "Nearly two years after a deadly railway station collapse sparked mass anti-corruption protests, Serbians are voting in a closely fought election that could end Aleksandar Vucic's grip on power.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-25T10:42:00.000Z",
       "sample": false
     },
     {
@@ -68,17 +134,6 @@
       "url": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-25T09:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "1jf77x",
-      "title": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
-      "summary": "India's opposition leader Rahul Gandhi has accused the ruling BJP of \"vote theft\" and urged people to join a rally in Delhi on November 1. The call comes amid protests over revision of electoral rolls. DW has more.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-25T08:29:00.000Z",
       "sample": false
     },
     {
@@ -146,7 +201,9 @@
       "image": null,
       "publishedAt": "2026-10-24T15:55:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "tm67it",
       "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
@@ -168,9 +225,7 @@
       "image": null,
       "publishedAt": "2026-10-24T11:36:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "nm2nmd",
       "title": "EU moves to loosen rules on pesticide use as experts sound the alarm",
@@ -180,50 +235,6 @@
       "url": "https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-24T10:33:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "9ww79w",
-      "title": "North Korean leader Kim Jong Un travels to Chinese border city via newly opened bridge",
-      "summary": "North Korean leader Kim Jong Un travelled to China’s border city of Dandong via a newly opened bridge linking the two countries, where he met a senior Chinese official.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/north-korean-leader-kim-jong-un-travels-to-chinese-border-city-via-newly-opened-bridge/a-79748580?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-24T07:29:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5zh4yc",
-      "title": "France: Clashes break out as protests go nationwide",
-      "summary": "Police and elite security forces were out in force in French cities as tens of thousands participated in protests on Saturday. The situation turned tense toward the end of protests in several cities, including Paris.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/france-clashes-break-out-as-protests-go-nationwide/live-79748223?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-24T06:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "p1cm3i",
-      "title": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
-      "summary": "Japan is demanding access to a journalist who was arrested by Russian security services. The Kremlin claims that Japan is using journalists as spies.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-24T05:29:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fmtouh",
-      "title": "Taiwan: Typhoon Champi leaves 1 dead, over 500 injured",
-      "summary": "After killing one person and causing major disruptions in Taiwan, Typhoon Champi is now headed towards China.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/taiwan-typhoon-champi-leaves-1-dead-over-500-injured/a-79748221?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-24T05:26:00.000Z",
       "sample": false
     },
     {
@@ -323,17 +334,6 @@
       "url": "https://www.dw.com/en/can-germany-revive-its-economy-before-the-afd-gains-ground/a-79696102?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-22T09:10:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "pnf5yn",
-      "title": "Harry Kane: Ballon d’Or for Bayern Munich striker?",
-      "summary": "Bayern Munich striker Harry Kane is the clear front-runner for football's most prestigious individual prize, which will be awarded on Monday. Kane has developed even more in the Bundesliga despite an uneven league.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-22T08:33:00.000Z",
       "sample": false
     },
     {
@@ -532,17 +532,6 @@
       "url": "https://www.dw.com/en/what-earth-s-sixth-mass-extinction-event-means-for-humans/a-79680410?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-19T05:48:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "k4bxu1",
-      "title": "France: Young voters blase about Glucksmann's Socialists",
-      "summary": "Raphael Glucksmann wants to lead France's Socialists to power without working with the left-populist Jean-Luc Melenchon, who is particularly popular with young voters. How can the center-left candidate win them over?",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-18T13:31:00.000Z",
       "sample": false
     }
   ],
