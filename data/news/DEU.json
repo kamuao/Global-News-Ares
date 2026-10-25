@@ -2,15 +2,26 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-25T15:50:39.836Z",
+  "updatedAt": "2026-10-25T20:37:50.871Z",
   "daily": [
     {
-      "id": "4dd7kp",
-      "title": "Brazil election: Lula, Bolsonaro cast votes in final bout",
-      "summary": "Almost 160 million are eligible to vote in the final round of Brazil's election that pits the left-wing incumbent against the son of the former far-right president. DW has more.",
+      "id": "7jbw1k",
+      "title": "Protein shakes for teenagers: Good or bad idea?",
+      "summary": "Protein products are marketed as a way of building muscle and losing weight — and they're very popular with young people. They also claim to promote healthy growth in children. Is this true? How much protein is healthy?",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/protein-shakes-for-teenagers-good-or-bad-idea/a-79751929?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-25T16:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "jjx0pt",
+      "title": "Brazil elections: Voting extended after transport complaints",
+      "summary": "Supporters of left-wing Lula and far-right Bolsonaro have two more hours to vote after polling was extended. The result is expected to be very close. DW has more.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/brazil-election-lula-bolsonaro-cast-votes-in-final-bout/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/brazil-elections-voting-extended-after-transport-complaints/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-25T14:13:00.000Z",
       "sample": false
@@ -95,7 +106,7 @@
     {
       "id": "q1l6eh",
       "title": "Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power?",
-      "summary": "Nearly two years after a deadly railway station collapse sparked mass anti-corruption protests, Serbians are voting in a closely fought election that could end Aleksandar Vucic's grip on power.",
+      "summary": "Nearly two years after a deadly railway station collapse sparked mass anti-corruption protests, Serbians voted in a closely fought election that could end Aleksandar Vucic's grip on power.",
       "category": "society",
       "source": "dw",
       "url": "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-xml-mrss",
@@ -115,12 +126,12 @@
       "sample": false
     },
     {
-      "id": "bph910",
-      "title": "Prague honours Roma resistance fighters against Hitler",
+      "id": "nzb3d9",
+      "title": "Prague honors Roma resistance fighters against Hitler",
       "summary": "More than 1,400 Roma fought against the German Nazi occupation in Czechoslovakia. A new exhibition in Prague showcases the stories of partisans and soldiers whose fates barely received any attention for decades.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/prague-honours-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/prague-honors-roma-resistance-fighters-against-hitler/a-79725015?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-25T09:17:00.000Z",
       "sample": false
@@ -137,12 +148,12 @@
       "sample": false
     },
     {
-      "id": "8kua4c",
-      "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
-      "summary": "Bulgarians are voting in presidential elections amid security concerns over attacks on ships in the Black Sea. The vote for the largely ceremonial post is seen as a test of the popularity of Prime Minister Rumen Radev.",
+      "id": "tnfbtg",
+      "title": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
+      "summary": "Low voter turnout has triggered a run-off for the Bulgarian presidency. The vote was colored by strong divisions over Russia's war in Ukraine, and Sofia's relations with the Kremlin.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-25T07:19:00.000Z",
       "sample": false
@@ -179,7 +190,9 @@
       "image": null,
       "publishedAt": "2026-10-24T23:49:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "rfj622",
       "title": "Ukraine: Starlink satellite speeds restored to normal",
@@ -201,9 +214,7 @@
       "image": null,
       "publishedAt": "2026-10-24T15:55:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "tm67it",
       "title": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
@@ -213,17 +224,6 @@
       "url": "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-24T14:09:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rmbr45",
-      "title": "Will Guinea-Bissau remain trapped in political chaos?",
-      "summary": "Elections scheduled for December 6 in Guinea-Bissau have been postponed indefinitely. No new date has been set, leaving the country's return to civilian rule uncertain.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/will-guinea-bissau-remain-trapped-in-political-chaos/a-79734069?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-24T11:36:00.000Z",
       "sample": false
     },
     {
