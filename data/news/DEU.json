@@ -2,37 +2,147 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-26T12:34:54.394Z",
+  "updatedAt": "2026-10-26T22:29:04.029Z",
   "daily": [
     {
-      "id": "jqna34",
-      "title": "Jordan: 3 arrested over deadly church attack",
-      "summary": "Three men have been arrested in Jordan in connection with an attack on a Greek Orthodox church last week. The arrests took place following a dawn shootout with security forces during which the suspects were wounded.",
-      "category": "politics",
+      "id": "uja42g",
+      "title": "Jordan says its military struck 'militant hideouts' in Syria after deadly church attack",
+      "summary": "Jordanian armed forces carried out strikes on \"militant hideouts\" in Syria that it said were linked to a deadly church attack on the kingdom last week. Syria gave a different account.",
+      "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/jordan-3-arrested-over-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-10-26T10:12:00.000Z",
+      "publishedAt": "2026-10-26T22:15:00.000Z",
       "sample": false
     },
     {
-      "id": "n9dpsf",
-      "title": "Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours",
+      "id": "8zsef2",
+      "title": "UN sounds the alarm over Israel's West Bank military operation",
+      "summary": "The UN has sounded the alarm on Israeli action in the West Bank city of Hebron after hundreds of families were displaced at the weekend. Israel has ordered the military to demolish homes after soldiers were killed there.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/un-sounds-the-alarm-over-israel-s-west-bank-military-operation/a-79770228?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-26T20:56:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "q0buod",
+      "title": "A bad omen? Syria bans women from university courses",
+      "summary": "The recent announcement that Syrian tertiary institutes will not allow women into some courses has triggered debate. Critics worry it may be a sign that the new Syrian government is restricting women's rights.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/a-bad-omen-syria-bans-women-from-university-courses/a-79769348?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-26T20:07:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3e09c6",
+      "title": "AI company Anthropic files its IPO in hopes of raising $100 billion",
+      "summary": "Anthropic has filed paperwork for an initial public offering that could be one of the biggest in history. The company has yet to turn a profit.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-26T18:22:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xoew4i",
+      "title": "German police probe cruise ship captain after Bremerhaven collision",
+      "summary": "A three-ship collision has led to the cancellation of a cruise and expensive damages. Shipyard repairs are needed, and further cruises could be affected.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/german-police-probe-cruise-ship-captain-after-bremerhaven-collision/a-79769346?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-26T17:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "9bt4cj",
+      "title": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
+      "summary": "The luxury carmaker is set to open its first factory in the United States — a move Trump credits to his tariffs. DW examines the German reaction amid a massive auto industry cull at home.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-26T15:16:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "5eelpr",
+      "title": "Brazil elections: Merz, world leaders congratulate Lula on his win",
+      "summary": "Brazilian President Lula secured a surprise win over far-right challenger Flavio Bolsonaro, who has refused to concede. DW has the latest.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-26T15:08:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "te90wd",
+      "title": "Why Ukraine may be involved in Mali's conflict",
+      "summary": "Allegations that Ukrainian specialists are supporting Tuareg rebels in Mali highlight Kyiv's effort to challenge Russian influence far beyond the battlefield in Europe.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/why-ukraine-may-be-involved-in-mali-s-conflict/a-79743423?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-26T14:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "g3evir",
+      "title": "Macron vows 'strong measures' to combat protests that rocked France",
+      "summary": "French President Emmanuel Macron said his government will announce \"strong measures\" in response to violent protests in France in recent weeks. But he also acknowledged that students have \"legitimate\" grievances.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/macron-vows-strong-measures-to-combat-protests-that-rocked-france/a-79764224?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-26T13:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "jjdha5",
+      "title": "Germany's Merz heads to Asia as security issues loom large",
+      "summary": "Chancellor Friedrich Merz will be meeting the leaders of Singapore, Japan and South Korea as Germany seeks to adjust its foreign policy to rising uncertainty and threats to global supply chains.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-s-merz-heads-to-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-26T13:32:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "cxd3zn",
+      "title": "Steinmeier in China: A major state visit in uncertain times",
+      "summary": "President Frank-Walter Steinmeier is traveling to China on a state visit in a period of political and economic uncertainty. Germany is seeking alternative partners in the region, but also wants good ties with Beijing.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/steinmeier-in-china-a-major-state-visit-in-uncertain-times/a-79764205?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-26T13:09:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "g8jv2i",
+      "title": "Germany news: Audi boss slammed over Trump rally appearance",
       "summary": "Audi's boss is facing a backlash in Germany after appearing alongside Donald Trump at a campaign rally. Meanwhile, Germany's chancellor and president are heading to Asia on separate diplomatic missions. DW has more.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-union-slams-audi-ceo-for-joining-trump-at-campaign-rally-while-chancellor-merz-and-president-steinmeier-embark-on-separate-asia-tours/live-79760097?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/germany-news-audi-boss-slammed-over-trump-rally-appearance/live-79760097?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-26T10:00:00.000Z",
       "sample": false
     },
     {
-      "id": "geukm8",
-      "title": "Venezuela: Opposition leader Machado returns from exile, received by thousands of supporters in Caracas",
-      "summary": "Nobel Peach Prize winner and popular Venezuelan political opposition figure Maria Corina Machado has returned from nearly a year in exile. She was greeted by thousands of cheering supporters in Caracas.",
+      "id": "x71wpr",
+      "title": "Venezuelan opposition leader Machado returns from exile",
+      "summary": "Nobel Peace Prize winner and popular Venezuelan political opposition figure Maria Corina Machado has returned after nearly a year away. Sitting President Rodriguez accused her of making a \"show.\"",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/venezuelan-opposition-leader-machado-returns-from-exile/a-79759187?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-26T09:08:00.000Z",
       "sample": false
@@ -51,25 +161,16 @@
     {
       "id": "o21gp2",
       "title": "India news: Remark on Modi's father stirs political row",
-      "summary": "An opposition leader's impromptu remark concerning PM Modi is causing a political stir in India with the ruling party now planning a protest. Also, the prince of Liechtenstein is in Mumbai. DW has more.",
+      "summary": "An opposition leader's impromptu remark concerning PM Modi is causing a political stir in India with the ruling party now planning a protest. Also, the prince of Liechtenstein is in Mumbai.",
       "category": "society",
       "source": "dw",
       "url": "https://www.dw.com/en/india-news-remark-on-modi-s-father-stirs-political-row/live-79758965?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-26T07:17:00.000Z",
       "sample": false
-    },
-    {
-      "id": "n5hhu3",
-      "title": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
-      "summary": "Leftist President Lula has defeated right-wing challenger Flavio Bolsonaro to win a historic fourth term in office. Bolsonaro has refused to concede and called for the results to be annulled. DW has the latest.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-26T03:45:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "5sr9z0",
       "title": "Serbia election: Vucic concedes defeat to student-led movement",
@@ -126,19 +227,6 @@
       "sample": false
     },
     {
-      "id": "rjgp5q",
-      "title": "Germany news: Fire flares up at Hitler's Eagle's Nest retreat",
-      "summary": "Fire broke out again overnight at a former mountain retreat used by Nazi dictator Adolf Hitler. Meanwhile, a survey shows most people in Germany feel the days of the governing coalition are numbered.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-25T12:51:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
       "id": "o43h5z",
       "title": "France: Hundreds arrested after nationwide protests",
       "summary": "The French government says more than 1,000 people were arrested following nationwide protests on Saturday. Police and elite security forces were out in force across the country as clashes broke out.",
@@ -147,39 +235,6 @@
       "url": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-25T12:05:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "f6l32i",
-      "title": "Brazil votes in tight runoff between leftist Lula and right-wing Flavio Bolsonaro",
-      "summary": "The high stakes election will decide whether Brazil will move toward the right or retain a leftist government.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/brazil-votes-in-tight-runoff-between-leftist-lula-and-right-wing-flavio-bolsonaro/a-79753924?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-25T11:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "1jf77x",
-      "title": "India news: Rahul Gandhi urges protest against voter deletions, announces November 1 rally",
-      "summary": "India's opposition leader Rahul Gandhi has accused the ruling BJP of \"vote theft\" and urged people to join a rally in Delhi on November 1. The call comes amid protests over revision of electoral rolls. DW has more.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-25T10:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "jjwv0n",
-      "title": "Gadi Eisenkot campaigns on Moroccan roots in challenge to Netanyahu",
-      "summary": "As Israel prepares to vote, Gadi Eisenkot is leveraging his Moroccan heritage in Likud strongholds such as Sderot. From historical divides to October 7, identity and trauma are redefining the city's political loyalties.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/gadi-eisenkot-campaigns-on-moroccan-roots-in-challenge-to-netanyahu/a-79747193?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-25T09:27:00.000Z",
       "sample": false
     },
     {
@@ -194,17 +249,6 @@
       "sample": false
     },
     {
-      "id": "86lald",
-      "title": "Saudi Arabia looks to US for an AI edge as Yemen's Houthis up pressure",
-      "summary": "The US is helping Saudi Arabia fight the Houthi group in Yemen with AI-assisted targeting. But AI is not a magic bullet, experts say, and there are technological, political and human rights issues to consider.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/saudi-arabia-looks-to-us-for-an-ai-edge-as-yemen-s-houthis-up-pressure/a-79735138?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-25T09:13:00.000Z",
-      "sample": false
-    },
-    {
       "id": "tnfbtg",
       "title": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
       "summary": "Low voter turnout has triggered a run-off for the Bulgarian presidency. The vote was colored by strong divisions over Russia's war in Ukraine, and Sofia's relations with the Kremlin.",
@@ -213,17 +257,6 @@
       "url": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-25T07:19:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "qijwuk",
-      "title": "Trump announces Audi will build $4 billion factory in US",
-      "summary": "After Donald Trump made the announcement at an election rally in Georgia, the German carmaker confirmed plans for a factory in the US state, but noted car production would only start early next decade.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-25T04:44:00.000Z",
       "sample": false
     },
     {
@@ -510,28 +543,6 @@
       "url": "https://www.dw.com/en/brutal-revolutionary-empire-builder-genghis-khan-s-legacy/a-79697112?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-20T08:57:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8gd6r7",
-      "title": "Bulgaria seeks suspects in Germany after Starlink sabotage",
-      "summary": "A Bulgarian court has issued arrest warrants for two young German nationals suspected of setting fire to Starlink antennas. The case is reminiscent of another in Poland, which Warsaw says was orchestrated by Russia.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/bulgaria-seeks-suspects-in-germany-after-starlink-sabotage/a-79706745?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-19T18:45:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rlaz51",
-      "title": "Germany news: Emergency at Leipzig airport sparked by novice driver",
-      "summary": "Two men breached a fence at the Leipzig/Halle airport while practicing for a driving test. Meanwhile, German Chancellor Friedrich Merz announced an industrial AI partnership with Nvidia. DW has more.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-19T17:26:00.000Z",
       "sample": false
     }
   ],
