@@ -2,12 +2,67 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-26T04:05:49.342Z",
+  "updatedAt": "2026-10-26T12:34:54.394Z",
   "daily": [
+    {
+      "id": "jqna34",
+      "title": "Jordan: 3 arrested over deadly church attack",
+      "summary": "Three men have been arrested in Jordan in connection with an attack on a Greek Orthodox church last week. The arrests took place following a dawn shootout with security forces during which the suspects were wounded.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/jordan-3-arrested-over-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-26T10:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "n9dpsf",
+      "title": "Germany news: Union slams Audi CEO for joining Trump at campaign rally, while Chancellor Merz and President Steinmeier embark on separate Asia tours",
+      "summary": "Audi's boss is facing a backlash in Germany after appearing alongside Donald Trump at a campaign rally. Meanwhile, Germany's chancellor and president are heading to Asia on separate diplomatic missions. DW has more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-union-slams-audi-ceo-for-joining-trump-at-campaign-rally-while-chancellor-merz-and-president-steinmeier-embark-on-separate-asia-tours/live-79760097?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-26T10:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "geukm8",
+      "title": "Venezuela: Opposition leader Machado returns from exile, received by thousands of supporters in Caracas",
+      "summary": "Nobel Peach Prize winner and popular Venezuelan political opposition figure Maria Corina Machado has returned from nearly a year in exile. She was greeted by thousands of cheering supporters in Caracas.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-26T09:08:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "okx9fb",
+      "title": "From rotten food to political opponents: Researchers explore how disgust relates to our beliefs, and why the connection is complicated",
+      "summary": "Some studies have linked disgust sensitivity to socially conservative attitudes. But ahead of the US midterm elections, does disgust shape our politics, or do our beliefs shape what we find disgusting?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-26T08:13:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "o21gp2",
+      "title": "India news: Remark on Modi's father stirs political row",
+      "summary": "An opposition leader's impromptu remark concerning PM Modi is causing a political stir in India with the ruling party now planning a protest. Also, the prince of Liechtenstein is in Mumbai. DW has more.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-remark-on-modi-s-father-stirs-political-row/live-79758965?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-26T07:17:00.000Z",
+      "sample": false
+    },
     {
       "id": "n5hhu3",
       "title": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
-      "summary": "Leftist President Lula has defeated right-wing challenger Flavio Bolsonaro to win another term in office. Bolsonaro has refused to concede and called for the results to be annulled. DW has the latest.",
+      "summary": "Leftist President Lula has defeated right-wing challenger Flavio Bolsonaro to win a historic fourth term in office. Bolsonaro has refused to concede and called for the results to be annulled. DW has the latest.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
@@ -18,7 +73,7 @@
     {
       "id": "5sr9z0",
       "title": "Serbia election: Vucic concedes defeat to student-led movement",
-      "summary": "In a seismic political shift, Serbia's longtime strongman leader Aleksandar Vucic has conceded defeat to a student-led movement in the country's parliamentary elections.",
+      "summary": "In a seismic political shift, Serbia's longtime strongman leader Aleksandar Vucic has conceded defeat to a student-led opposition movement in the country's parliamentary elections.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-xml-mrss",
@@ -80,7 +135,9 @@
       "image": null,
       "publishedAt": "2026-10-25T12:51:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "o43h5z",
       "title": "France: Hundreds arrested after nationwide protests",
@@ -168,52 +225,6 @@
       "image": null,
       "publishedAt": "2026-10-25T04:44:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "o53lyc",
-      "title": "New York Archdiocese to pay $800 million to sex abuse survivors",
-      "summary": "Around 1,300 survivors agreed to the $800 million payout from the Catholic Church, marking one of the largest clergy abuse settlements in the US.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/new-york-archdiocese-to-pay-800-million-to-sex-abuse-survivors/a-79753347?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-25T02:07:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8zohjm",
-      "title": "Nigeria: Tinubu launches reelection bid amid economic woes",
-      "summary": "President Bola Tinubu promised \"a better tomorrow\" for Nigerians while kicking off his next electoral campaign, while also blaming his rivals for poverty plaguing Africa's most populous nation.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/nigeria-tinubu-launches-reelection-bid-amid-economic-woes/a-79753063?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-24T23:49:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rfj622",
-      "title": "Ukraine: Starlink satellite speeds restored to normal",
-      "summary": "The announcement comes after Starlink and Starshield restrictions had disrupted military operations in Ukraine and sparked tensions with the US.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-24T19:33:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "6dhvan",
-      "title": "German national facing trial for alleged attempt to join IS",
-      "summary": "A 21-year-old suspect is being held in pre-trial detention for allegedly trying to join the \"Islamic State\" terror group.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/german-national-facing-trial-for-alleged-attempt-to-join-is/a-79751032?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-24T15:55:00.000Z",
-      "sample": false
     },
     {
       "id": "tm67it",
@@ -293,6 +304,17 @@
       "sample": false
     },
     {
+      "id": "xofzse",
+      "title": "Serbia: Tens of thousands rally ahead of elections",
+      "summary": "After two years of student-led protests, Serbia will soon vote in what observers describe as a referendum-like snap election pitting strongman Aleksandar Vucic against the student movement.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/serbia-tens-of-thousands-rally-ahead-of-elections/a-79738420?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-23T03:15:00.000Z",
+      "sample": false
+    },
+    {
       "id": "ylsgo1",
       "title": "Albania's student protests are only getting bigger",
       "summary": "As police try to suppress anti-corruption protests by young Albanians, Prime Minister Edi Rama is claiming that \"antifa\" is behind the unrest. Few are buying that explanation.",
@@ -326,12 +348,12 @@
       "sample": false
     },
     {
-      "id": "m05yss",
-      "title": "Can Germany revive its economy before the AfD gains ground?",
+      "id": "wfjl5x",
+      "title": "Can Germany revive its economy before the far-right AfD gains ground?",
       "summary": "Conflicts, rising costs and Chinese competition are testing Germany's economic model like never before. Can new growth sectors create jobs and ease voters' economic fears, thereby helping contain the far-right AfD?",
       "category": "economy",
       "source": "dw",
-      "url": "https://www.dw.com/en/can-germany-revive-its-economy-before-the-afd-gains-ground/a-79696102?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/can-germany-revive-its-economy-before-the-far-right-afd-gains-ground/a-79696102?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-22T09:10:00.000Z",
       "sample": false
@@ -510,28 +532,6 @@
       "url": "https://www.dw.com/en/germany-news-emergency-at-leipzig-airport-sparked-by-novice-driver/live-79695354?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-19T17:26:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2a4nvi",
-      "title": "The homeless man living in front of a London mega-mansion",
-      "summary": "Anders Fernstedt lives in London without any money. The Swedish native has built a most unusual home under the porch of a house worth over €200 million. How did that happen?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/the-homeless-man-living-in-front-of-a-london-mega-mansion/a-79400925?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-19T10:38:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "j9buda",
-      "title": "What Earth's sixth mass extinction event means for humans",
-      "summary": "Human activity is driving plants and animals to extinction at an unprecedented rate. As countries meet in Armenia to discuss ways to reverse nature loss, DW reveals how declining biodiversity is already harming people.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/what-earth-s-sixth-mass-extinction-event-means-for-humans/a-79680410?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-19T05:48:00.000Z",
       "sample": false
     }
   ],
