@@ -2,8 +2,30 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-25T20:37:50.871Z",
+  "updatedAt": "2026-10-26T04:05:49.342Z",
   "daily": [
+    {
+      "id": "n5hhu3",
+      "title": "Brazilian leftist President Lula wins reelection against conservative challenger Flavio Bolsonaro",
+      "summary": "Leftist President Lula has defeated right-wing challenger Flavio Bolsonaro to win another term in office. Bolsonaro has refused to concede and called for the results to be annulled. DW has the latest.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/brazilian-leftist-president-lula-wins-reelection-against-conservative-challenger-flavio-bolsonaro/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-26T03:45:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "5sr9z0",
+      "title": "Serbia election: Vucic concedes defeat to student-led movement",
+      "summary": "In a seismic political shift, Serbia's longtime strongman leader Aleksandar Vucic has conceded defeat to a student-led movement in the country's parliamentary elections.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/serbia-election-vucic-concedes-defeat-to-student-led-movement/a-79753482?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-25T21:07:00.000Z",
+      "sample": false
+    },
     {
       "id": "7jbw1k",
       "title": "Protein shakes for teenagers: Good or bad idea?",
@@ -13,17 +35,6 @@
       "url": "https://www.dw.com/en/protein-shakes-for-teenagers-good-or-bad-idea/a-79751929?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-25T16:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "jjx0pt",
-      "title": "Brazil elections: Voting extended after transport complaints",
-      "summary": "Supporters of left-wing Lula and far-right Bolsonaro have two more hours to vote after polling was extended. The result is expected to be very close. DW has more.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/brazil-elections-voting-extended-after-transport-complaints/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-25T14:13:00.000Z",
       "sample": false
     },
     {
@@ -62,7 +73,7 @@
     {
       "id": "rjgp5q",
       "title": "Germany news: Fire flares up at Hitler's Eagle's Nest retreat",
-      "summary": "Fire broke out again overnight at a former mountain retreat used by Nazi dictator Adolf Hitler. Meanwhile, a survey shows most people in Germany feel the days of the governing coalition are numbered. DW has more.",
+      "summary": "Fire broke out again overnight at a former mountain retreat used by Nazi dictator Adolf Hitler. Meanwhile, a survey shows most people in Germany feel the days of the governing coalition are numbered.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-all-1573-xml-mrss",
@@ -101,17 +112,6 @@
       "url": "https://www.dw.com/en/india-news-rahul-gandhi-urges-protest-against-voter-deletions-announces-november-1-rally/live-79748098?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-25T10:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "q1l6eh",
-      "title": "Serbia election: Can student-led opposition end Aleksandar Vucic's grip on power?",
-      "summary": "Nearly two years after a deadly railway station collapse sparked mass anti-corruption protests, Serbians voted in a closely fought election that could end Aleksandar Vucic's grip on power.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/serbia-election-can-student-led-opposition-end-aleksandar-vucic-s-grip-on-power/a-79753482?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-25T10:42:00.000Z",
       "sample": false
     },
     {
@@ -168,7 +168,9 @@
       "image": null,
       "publishedAt": "2026-10-25T04:44:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "o53lyc",
       "title": "New York Archdiocese to pay $800 million to sex abuse survivors",
@@ -190,9 +192,7 @@
       "image": null,
       "publishedAt": "2026-10-24T23:49:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "rfj622",
       "title": "Ukraine: Starlink satellite speeds restored to normal",

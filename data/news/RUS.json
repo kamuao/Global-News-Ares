@@ -2,8 +2,118 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-10-25T20:37:51.849Z",
+  "updatedAt": "2026-10-26T04:05:50.501Z",
   "daily": [
+    {
+      "id": "m1i2cz",
+      "title": "Presidential candidate Bolsonaro urges to annul Brazilian elections’ results",
+      "summary": "The rules were \"altered with a stroke of a pen,\" the politician said, commenting on the judicial authorities’ decision to extend the voting period by two hours",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2207645",
+      "image": null,
+      "publishedAt": "2026-10-26T03:17:24.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1i2cx",
+      "title": "Protests in Europe stem from instability on energy markets — Iranian top diplomat",
+      "summary": "Abbas Araghchi noted that military action against Iran has led to the closure of the Strait of Hormuz and the disruption of global natural gas supplies",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2207643",
+      "image": null,
+      "publishedAt": "2026-10-26T02:44:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "rnzgx3",
+      "title": "Putin maintains permanent contact with new Cabinet members — Kremlin",
+      "summary": "Spokesman Dmitry Peskov added that the president has no plans to hold separate meetings with them",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2207639",
+      "image": null,
+      "publishedAt": "2026-10-26T01:20:55.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1i2c6",
+      "title": "Incumbent President of Brazil Lula da Silva wins presidential election",
+      "summary": "The official was re-elected as the president of the country for a fourth term",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2207637",
+      "image": null,
+      "publishedAt": "2026-10-26T00:49:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "9egcqp",
+      "title": "Russia’s Alexander Nikishin signs $3 mln one-year contract with NHL Carolina Hurricanes",
+      "summary": "The club expressed hope that the player would \"contribute with the Hurricanes, as he did during a Stanley Cup championship season last year\"",
+      "category": "environment",
+      "source": "tass",
+      "url": "https://tass.com/sports/2207633",
+      "image": null,
+      "publishedAt": "2026-10-26T00:12:35.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1i2ae",
+      "title": "Next parliamentary elections in Slovakia to be held on September 25, 2027 — radio",
+      "summary": "The previous parliamentary elections took place in Slovakia in September 2023",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2207615",
+      "image": null,
+      "publishedAt": "2026-10-25T23:55:53.000Z",
+      "sample": false
+    },
+    {
+      "id": "j4mq6a",
+      "title": "Kiev troops bombard Donetsk People’s Republic five times over past day",
+      "summary": "Two civilians were wounded",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2207631",
+      "image": null,
+      "publishedAt": "2026-10-25T22:26:54.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1i2b7",
+      "title": "Voting at Brazil’s runoff presidential election extended for two hours",
+      "summary": "Serious logistics problems were reported earlier",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2207623",
+      "image": null,
+      "publishedAt": "2026-10-25T22:04:49.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1i2bd",
+      "title": "Vucic says winning Student List will impose anti-Russian sanctions by spring",
+      "summary": "The former president called the election result a \"revolution carried out with the direct support from a number of European countries and the US deep state\"",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2207629",
+      "image": null,
+      "publishedAt": "2026-10-25T21:05:43.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1i2b9",
+      "title": "Students’ List wins snap parliamentary elections in Serbia — Vucic",
+      "summary": "The former president noted that \"many will be surprised\" by the result",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2207625",
+      "image": null,
+      "publishedAt": "2026-10-25T20:54:44.000Z",
+      "sample": false
+    },
     {
       "id": "tacgd9",
       "title": "Ethiopia ranks third among Russian fertilizer importers — ambassador",
@@ -465,7 +575,9 @@
       "image": null,
       "publishedAt": "2026-10-25T04:09:34.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "tacebd",
       "title": "Ukraine loses nearly 14% of its locomotives in less than two years",
@@ -477,195 +589,6 @@
       "publishedAt": "2026-10-25T03:55:01.000Z",
       "sample": false
     },
-    {
-      "id": "m1i097",
-      "title": "Series of explosions rock Saudi Arabia’s Riyadh — news agency",
-      "summary": "Saudi Arabia’s General Directorate of Civil Defense alerted Riyadh residents of a potential threat but later announced that the alert had been lifted",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2207395",
-      "image": null,
-      "publishedAt": "2026-10-25T03:31:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1i095",
-      "title": "Conflict with Russian to cost Ukraine over $470 million per day in 2027",
-      "summary": "In 2026, Ukraine’s military spending averaged about $300 million per day",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2207393",
-      "image": null,
-      "publishedAt": "2026-10-25T03:23:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "taceak",
-      "title": "Audi to invest $4.2 billion in building car plant in US — Trump",
-      "summary": "A massive plant in Georgia will produce 200,000 cars a year, Donald Trump said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2207389",
-      "image": null,
-      "publishedAt": "2026-10-25T02:50:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1i08c",
-      "title": "Denmark handed Greenland over to US — Trump",
-      "summary": "The US leader emphasized that \"it's going to go down as the greatest real estate deal in history\"",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2207385",
-      "image": null,
-      "publishedAt": "2026-10-25T02:12:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1i08a",
-      "title": "Serbia to hold early parliamentary elections",
-      "summary": "The Republic Electoral Commission has registered 6,451,292 voters who will elect 250 lawmakers to serve four-year terms",
-      "category": "health",
-      "source": "tass",
-      "url": "https://tass.com/world/2207383",
-      "image": null,
-      "publishedAt": "2026-10-25T01:38:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1i088",
-      "title": "IN BRIEF: Brazil to hold second round of presidential elections",
-      "summary": "More than 158.7 million Brazilian citizens are eligible to vote",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2207381",
-      "image": null,
-      "publishedAt": "2026-10-25T01:15:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1i07l",
-      "title": "Trump suggests his wife may play more active role in situation with Russia, Ukraine",
-      "summary": "Donald Trump noted that his wife is doing better than the professionals right now",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2207379",
-      "image": null,
-      "publishedAt": "2026-10-25T00:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnzese",
-      "title": "Ukrainian drone attack on Belgorod kills one civilian, injures ten others — headquarters",
-      "summary": "Eight of the injured are under medical supervision in the city’s hospitals",
-      "category": "health",
-      "source": "tass",
-      "url": "https://tass.com/politics/2207377",
-      "image": null,
-      "publishedAt": "2026-10-25T00:05:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnzesa",
-      "title": "Belgorod faces significant damage, casualties following massive Ukrainian strike — mayor",
-      "summary": "Valentin Demidov emphasized that emergency services are currently working at the scene",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2207373",
-      "image": null,
-      "publishedAt": "2026-10-24T23:50:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5ykibz",
-      "title": "Explosion, fire occur at PepsiCo subsidiary’s building in US — firefighters",
-      "summary": "There have been no reported injuries at this time",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/emergencies/2207369",
-      "image": null,
-      "publishedAt": "2026-10-24T23:28:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1i06o",
-      "title": "Drone attacks camp of Iranian Kurdish opposition in Iraqi Kurdistan — news outlet",
-      "summary": "No information has been provided about casualties or the aftermath of the attack",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2207367",
-      "image": null,
-      "publishedAt": "2026-10-24T23:15:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1i06k",
-      "title": "Trump votes early in US congressional elections",
-      "summary": "The US President said that he had voted for the Republicans",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2207363",
-      "image": null,
-      "publishedAt": "2026-10-24T22:38:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1i06i",
-      "title": "Houthis declare Riyadh airport as their military target — spokesman",
-      "summary": "Military spokesman of the rebel group Yahya Saria warned all airlines, staff, and passengers not to use King Khalid Airport in Riyadh",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2207361",
-      "image": null,
-      "publishedAt": "2026-10-24T22:25:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1i05v",
-      "title": "Trump weighs resumption of US strikes against Iran",
-      "summary": "This may happen if Washington and Tehran fail to reach a deal",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2207359",
-      "image": null,
-      "publishedAt": "2026-10-24T22:08:49.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1i05t",
-      "title": "Trump admits to discussing situation in Ukraine with Elon Musk",
-      "summary": "The US leader did not provide any details about the conversation",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2207357",
-      "image": null,
-      "publishedAt": "2026-10-24T21:55:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnzeqm",
-      "title": "World hopes Putin-Trump-Xi meeting to help overcome chaos — Russian diplomat",
-      "summary": "\"At a time that is extremely difficult in terms of international relations, the leaders of the three major powers will have the opportunity to exchange views,\" Russian Foreign Ministry Spokeswoman Maria Zakharova said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2207355",
-      "image": null,
-      "publishedAt": "2026-10-24T21:40:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "rnzepv",
-      "title": "Leader of Central African Republic to attend 3rd Russia-Africa summit — embassy",
-      "summary": "Faustin-Archange Touadera is already heading to Russia",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2207349",
-      "image": null,
-      "publishedAt": "2026-10-24T20:44:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "llb1f4",
       "title": "Saudi Arabia Will Not Host Russia’s Intervision Song Contest This Year, TASS Reports",

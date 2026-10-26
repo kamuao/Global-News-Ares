@@ -2,8 +2,20 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-25T20:37:54.736Z",
-  "daily": [],
+  "updatedAt": "2026-10-26T04:05:53.777Z",
+  "daily": [
+    {
+      "id": "ntkh0o",
+      "title": "Lula Turns Election Around, Defeats Fl�vio Bolsonaro and Wins Unprecedented Fourth Term",
+      "summary": "President Luiz In�cio Lula da Silva (PT), 80, defeated Senator Fl�vio Bolsonaro (PL) and was reelected on Sunday (25) to a fourth term, an unprecedented feat in Brazilian history. The result, projected by Datafolha at 8h46 p.m., was confirmed by the TSE (Superior Electoral Court). at 9h10 p.m. With 99.99% of polling st",
+      "category": "military",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/lula-turns-election-around-defeats-flavio-bolsonaro-and-wins-unprecedented-fourth-term.shtml",
+      "image": null,
+      "publishedAt": "2026-10-26T01:23:00.000Z",
+      "sample": false
+    }
+  ],
   "weekly": [
     {
       "id": "2z5ma1",
@@ -157,17 +169,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/number-of-juvenile-offenders-in-detention-falls-by-half-in-ten-years-in-brazil.shtml",
       "image": null,
       "publishedAt": "2026-10-19T15:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rne44q",
-      "title": "In Tense Debate, Lula Defends Economic Legacy, While Fl�vio Cites Debt and Corruption",
-      "summary": "In the first presidential debate of the runoff, President Luiz In�cio Lula da Silva (PT) defended his economic legacy, while Senator Fl�vio Bolsonaro (PL) spoke about rising food prices and debt.\nLeia mais (10/19/2026 - 09h28)",
-      "category": "military",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/in-tense-debate-lula-defends-economic-legacy-while-flavio-cites-debt-and-corruption.shtml",
-      "image": null,
-      "publishedAt": "2026-10-19T12:28:00.000Z",
       "sample": false
     }
   ],
