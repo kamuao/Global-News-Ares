@@ -2,8 +2,30 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-10-27T11:52:19.402Z",
+  "updatedAt": "2026-10-27T17:46:30.763Z",
   "daily": [
+    {
+      "id": "bjexil",
+      "title": "Nidec to sue former executives over accounting issues",
+      "summary": "Besides Shigenobu Nagamori, the company plans to sue former chairman Hiroshi Kobe and former chief executives Mitsuya Kishida and Jun Seki.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/27/companies/nidec-sue-former-executives/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/27/thumbs/400x400/570780.jpg",
+      "publishedAt": "2026-10-27T12:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "r7udbs",
+      "title": "New justice minister eager to legalize sole use of maiden names",
+      "summary": "Justice Minister Takashi Yamashita noted that he does not think amendments to the Civil Code or the family register law are necessarily required.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/27/japan/new-justice-minister-interview/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/27/thumbs/400x400/570778.jpg",
+      "publishedAt": "2026-10-27T11:45:00.000Z",
+      "sample": false
+    },
     {
       "id": "ur9yoo",
       "title": "Court finds Hamaoka reactor restart unlikely after data scandal",
@@ -17,9 +39,9 @@
     },
     {
       "id": "mjqarv",
-      "title": "Chinese leader Xi sends condolences over death of former Japanese PM Fukuda",
-      "summary": "China will remember Fukuda's contributions to China-Japan relations and to Asia's development, Xi said.",
-      "category": "politics",
+      "title": "China’s Xi calls on Japan to protect political foundation of ties",
+      "summary": "The message came after the Chinese leader extended his condolences to the family of former Japanese Prime Minister Yasuo Fukuda, who died on Thursday.",
+      "category": "health",
       "source": "japan-times",
       "url": "https://www.japantimes.co.jp/news/2026/10/27/asia-pacific/xi-sends-condolences/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/27/thumbs/400x400/570776.jpg",
@@ -310,28 +332,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/10/27/japan/crime-legal/okinawa-murder-robbery-involvement-us/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/27/thumbs/400x400/570672.jpg",
       "publishedAt": "2026-10-27T02:22:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "b10b00",
-      "title": "El Nino fires test limits of Southeast Asia’s cloud-seeding bet",
-      "summary": "As countries spend more trying to alter erratic rainfall patterns with few lasting results, the question of the payoff rises for such investments.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/27/asia-pacific/el-nino-cloud-seeding/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/27/thumbs/400x400/570648.jpg",
-      "publishedAt": "2026-10-27T02:09:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "y0mbl0",
-      "title": "Now home, Venezuela opposition leader Machado walks tightrope with supporters and Trump",
-      "summary": "Machado's return to Venezuela after several failed attempts risks straining her ties with U.S. President Donald Trump's administration.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/27/world/politics/machado-tightrope-venezuela/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/27/thumbs/400x400/570652.jpg",
-      "publishedAt": "2026-10-27T02:00:00.000Z",
       "sample": false
     }
   ],

@@ -2,8 +2,30 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-10-27T11:52:20.772Z",
+  "updatedAt": "2026-10-27T17:46:33.204Z",
   "daily": [
+    {
+      "id": "k1mu16",
+      "title": "Flavio Bolsonaro has passports cancelled as whereabouts unclear",
+      "summary": "The senator lost a presidential election earlier this week to incumbent Luiz Inácio Lula da Silva, and was later ordered to hand in his passport to authorities in relation to a money laundering probe.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-28/flavio-bolsonaro-passport-brazil-presidential-election/107316922",
+      "image": null,
+      "publishedAt": "2026-10-27T17:43:34.000Z",
+      "sample": false
+    },
+    {
+      "id": "ha2bwh",
+      "title": "Nordic leaders press Putin to end Ukraine war in rare phone call",
+      "summary": "The move breaks with a longstanding practice among Western European leaders of shunning direct contact with the Kremlin.",
+      "category": "military",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-10-28/putin-nordic-prime-ministers-phone-call-ukraine/107316960",
+      "image": null,
+      "publishedAt": "2026-10-27T17:22:09.000Z",
+      "sample": false
+    },
     {
       "id": "6sags0",
       "title": "Fighting paused in Ukrainian city under deal announced by Melania Trump",
@@ -17,7 +39,7 @@
     },
     {
       "id": "aejiu3",
-      "title": "Men charged with national security offences over incident at US base in England",
+      "title": "Two charged with helping Iran over RAF Fairford incident",
       "summary": "Two men have been charged with national security offences over last month's incident at RAF Fairford, a US-run military base in England.",
       "category": "military",
       "source": "abc-au",
@@ -127,8 +149,8 @@
     },
     {
       "id": "r1nyxc",
-      "title": "Live: Aussies make belated breakthrough after horror morning in Cape Town",
-      "summary": "Marques Ackerman falls agonisingly short of a maiden Test century, with Australia being put the sword after electing to bowl first at Newlands. Follow live.",
+      "title": "Starc's ferocious late spell helps Australia recover from horror start",
+      "summary": "Mitchell Starc makes the new ball talk to drag Australia back into the third Test as day one ends with honours even in Cape Town.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-10-27/test-cricket-live-updates-south-africa-vs-australia/107308494",
@@ -255,28 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-10-27/un-criticises-parliament-over-shackling-stripsearch-bills/107314010",
       "image": null,
       "publishedAt": "2026-10-27T05:59:39.000Z",
-      "sample": false
-    },
-    {
-      "id": "f2pj3n",
-      "title": "Owner of missing dog devastated by AI photo scam",
-      "summary": "Westyn Ruyter offered a $10,000 reward when his Irish wolfhound went missing, but instead of getting his dog back he received a second bitter blow.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-27/ai-photo-scam-targeting-pet-owners/107310844",
-      "image": null,
-      "publishedAt": "2026-10-27T05:48:33.000Z",
-      "sample": false
-    },
-    {
-      "id": "vjkmxt",
-      "title": "Bad report card for government businesses being propped up",
-      "summary": "The Tasmanian taxpayer is on the hook to prop up ailing government businesses, including the Spirit of Tasmania operator, to the order of billions of dollars, the state's auditor-general says.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-10-27/auditor-general-tasmanian-government-businesses-gbe/107314290",
-      "image": null,
-      "publishedAt": "2026-10-27T05:41:58.000Z",
       "sample": false
     }
   ],
