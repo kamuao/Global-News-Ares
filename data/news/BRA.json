@@ -2,8 +2,19 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-27T17:46:32.380Z",
+  "updatedAt": "2026-10-28T04:56:50.611Z",
   "daily": [
+    {
+      "id": "o7pxok",
+      "title": "Fl�vio Bolsonaro's Allies Are Told He Fled Brazil",
+      "summary": "Allies in the Bolsonaro family's inner circle were told on Tuesday (27) that Senator Fl�vio Bolsonaro had fled Brazil for Argentina and would travel from there to the United States. He reportedly left with his wife, Fernanda, and their two daughters. Brazil's Federal Police are monitoring border crossings to verify the",
+      "category": "military",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/flavio-bolsonaros-allies-are-told-he-fled-brazil.shtml",
+      "image": null,
+      "publishedAt": "2026-10-27T18:14:00.000Z",
+      "sample": false
+    },
     {
       "id": "7ipd89",
       "title": "Fl�vio Bolsonaro Has Passports Canceled on Supreme Court Justice Moraes's Orders and Is Barred From Leaving the Country",
@@ -14,7 +25,9 @@
       "image": null,
       "publishedAt": "2026-10-27T14:48:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "suve4u",
       "title": "Trump Administration Ordered Statement Recognizing Election Result to Be Held Back After Fl�vio Bolsonaro's Claims",
@@ -36,9 +49,7 @@
       "image": null,
       "publishedAt": "2026-10-26T18:17:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "ntkh0o",
       "title": "Lula Turns Election Around, Defeats Fl�vio Bolsonaro and Wins Unprecedented Fourth Term",
@@ -136,17 +147,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/culture/2026/10/project-uses-ai-to-create-faces-of-historic-black-women.shtml",
       "image": null,
       "publishedAt": "2026-10-21T14:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "458e55",
-      "title": "'Doctor of the Forest' and Former Big Tech Executive Lead Digital Revolution in the Amazon",
-      "summary": "Joaquim Belo, the \"doctor of the forest,\" and Juliana Dib lead the Forest Peoples Connection Network, a finalist for the 2026 Social Entrepreneur award in the Social Innovators of the Year category. Created in 2023, the initiative brings together 60 organizations and seeks to bring digital inclusion to the 9,500 Indige",
-      "category": "military",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/10/doctor-of-the-forest-and-former-big-tech-executive-lead-digital-revolution-in-the-amazon.shtml",
-      "image": null,
-      "publishedAt": "2026-10-20T20:19:00.000Z",
       "sample": false
     }
   ],

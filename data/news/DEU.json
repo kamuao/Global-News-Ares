@@ -2,8 +2,74 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-27T17:46:28.206Z",
+  "updatedAt": "2026-10-28T04:56:46.795Z",
   "daily": [
+    {
+      "id": "pfog70",
+      "title": "India news: Cyclone Arnab brings heavy rain, disruption",
+      "summary": "Cyclone Arnab is making a slow-motion landfall at India's east coast with states evacuating thousands of residents. Also, a new report says India is among nations with highest heatwave exposure for infants. Follow live",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-cyclone-arnab-brings-heavy-rain-disruption/live-79782323?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T04:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "k98pac",
+      "title": "Israel election: Exit polls show no clear winner, with Netanyahu's fate unclear",
+      "summary": "While Netanyahu's party is projected to be the biggest in parliament, two out of three exit polls show his bloc even with the opposition. No bloc has a clear majority. DW has the latest.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/israel-election-exit-polls-show-no-clear-winner-with-netanyahu-s-fate-unclear/live-79713839?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T02:53:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "uqgiy8",
+      "title": "Experts urge 'global health emergency' as climate harms accelerate",
+      "summary": "Heat, drought and storms linked to climate change are already killing millions worldwide. Researchers want global warming to be declared a global health emergency as the health harms from it escalate faster than ever.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T00:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "cmc6mf",
+      "title": "Egypt orders closure of independent news site Mada Masr",
+      "summary": "Editor-in-chief Lina Attalah was briefly detained and fined over licensing violations. Rights groups condemned the ruling as a major blow to press freedom in Egypt, where independent media face growing pressure.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/egypt-orders-closure-of-independent-news-site-mada-masr/a-79781842?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-27T23:16:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "r2z3wq",
+      "title": "Flavio Bolsonaro flees Brazil for US amid investigation  — reports",
+      "summary": "Flavio Bolsonaro is on the way to the US, according to reports citing people close to the senator. The US State Department said it will issue visas to the senator and his family.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-27T22:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "t1h03i",
+      "title": "EU proposes giving Frontex border agency new major powers",
+      "summary": "The European Commission has unveiled a new plan to give Frontex more resources to ensure the return of irregular migrants, including by supporting non-EU countries. The move comes after the tragedy in Ceuta.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-27T17:44:00.000Z",
+      "sample": false
+    },
     {
       "id": "5pdfbs",
       "title": "Mbappe apologizes as Chinese sponsors drop him and TV broadcasts are halted over Mao dictator remark",
@@ -24,17 +90,6 @@
       "url": "https://www.dw.com/en/myanmar-is-the-us-undermining-the-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-27T15:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "43q17u",
-      "title": "Turnout at Israel's election has reached a record high at the halfway stage",
-      "summary": "Almost 45% of the electorate had voted by 2 p.m., the highest share since such records began in 1973. The highly anticipated vote is expected to be a close-fought contest, and perhaps even a stalemate.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/turnout-at-israel-s-election-has-reached-a-record-high-at-the-halfway-stage/live-79713839?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-27T14:35:00.000Z",
       "sample": false
     },
     {
@@ -135,7 +190,9 @@
       "image": null,
       "publishedAt": "2026-10-27T07:23:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "5eelpr",
       "title": "Brazil elections: Merz, world leaders congratulate Lula on his win",
@@ -180,52 +237,6 @@
       "publishedAt": "2026-10-26T23:06:00.000Z",
       "sample": false
     },
-    {
-      "id": "uja42g",
-      "title": "Jordan says its military struck 'militant hideouts' in Syria after deadly church attack",
-      "summary": "Jordanian armed forces carried out strikes on \"militant hideouts\" in Syria that it said were linked to a deadly church attack on the kingdom last week. Syria gave a different account.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-26T22:15:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8zsef2",
-      "title": "UN sounds the alarm over Israel's West Bank military operation",
-      "summary": "The UN has sounded the alarm on Israeli action in the West Bank city of Hebron after hundreds of families were displaced over the weekend. Israel has ordered the military to demolish homes after soldiers were killed.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/un-sounds-the-alarm-over-israel-s-west-bank-military-operation/a-79770228?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-26T20:56:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "q0buod",
-      "title": "A bad omen? Syria bans women from university courses",
-      "summary": "The recent announcement that Syrian tertiary institutes will not allow women into some courses has triggered debate. Critics worry it may be a sign that the new Syrian government is restricting women's rights.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/a-bad-omen-syria-bans-women-from-university-courses/a-79769348?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-26T20:07:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "3e09c6",
-      "title": "AI company Anthropic files its IPO in hopes of raising $100 billion",
-      "summary": "Anthropic has filed paperwork for an initial public offering that could be one of the biggest in history. The co-founders have outlined both the benefits and the risks of AI in their pitch to potential investors.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-26T18:22:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "9bt4cj",
       "title": "What Germany thinks of carmaker Audi's $4 billion deal with Trump",
@@ -361,7 +372,7 @@
     {
       "id": "ev1lq9",
       "title": "Embarrassing name? How we live with names we don't like",
-      "summary": "What happens when your name invokes laughter or ridicule? Research points to negative life outcomes, but some people learn to embrace unfortunate names.",
+      "summary": "What happens when your name evokes laughter or ridicule? Research points to negative life outcomes, but some people learn to embrace unfortunate names.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-all-1573-xml-mrss",
