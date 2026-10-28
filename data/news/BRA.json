@@ -2,8 +2,54 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-28T04:56:50.611Z",
+  "updatedAt": "2026-10-28T22:23:44.463Z",
   "daily": [
+    {
+      "id": "jhppti",
+      "title": "International Left Adopts Lula's Digital Strategist's 'Playbook' and Uses 'L' as Anti-Far-Right Symbol",
+      "summary": "Lula's reelection as Brazil's president on Sunday (25) gave new momentum to the international left, which has begun copying the \"L\" gesture and the digital strategy of Congressman Andr� Janones, one of the main figures behind the Workers' Party victory.\nLeia mais (10/28/2026 - 17h59)",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/10/international-left-adopts-lulas-digital-strategists-playbook-and-uses-l-as-anti-far-right-symbol.shtml",
+      "image": null,
+      "publishedAt": "2026-10-28T20:59:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "hct6vq",
+      "title": "Fl�vio Bolsonaro Used Italian Passport to Enter Argentina and Did Not Pass Through Brazilian Border Checkpoint",
+      "summary": "Brazil's defeated presidential candidate Fl�vio Bolsonaro (PL) used an Italian passport to enter Argentina on Tuesday (27) night before boarding a flight to Miami with his family.\nLeia mais (10/28/2026 - 17h49)",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/flavio-bolsonaro-used-italian-passport-to-enter-argentina-and-did-not-pass-through-brazilian-border-checkpoint.shtml",
+      "image": null,
+      "publishedAt": "2026-10-28T20:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "a42mdo",
+      "title": "Number of Brazilians Seeking to Emigrate to U.S. Surges After Lula's Election",
+      "summary": "Immediately after President Lula's (PT) reelection, the number of Brazilians seeking to emigrate to the United States surged, according to specialized law firms interviewed by Folha. Miami-based Piquet Law Firm received 700 inquiries on Monday (26), compared with 500 to 600 per month under normal circumstances. Orlando",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/10/number-of-brazilians-seeking-to-emigrate-to-us-surges-after-lulas-election.shtml",
+      "image": null,
+      "publishedAt": "2026-10-28T16:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "m0cos",
+      "title": "Trump Administration to Grant Visas to Fl�vio Bolsonaro After He Flees Brazil",
+      "summary": "The Donald Trump administration is aware of Senator Fl�vio Bolsonaro's (PL) arrival in the United States and will grant visas to him and his family, allowing them to remain in the country, according to a White House official who spoke to Folha. Allies had spoken of asylum. Two people linked to the Bolsonaro family said",
+      "category": "military",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/10/trump-administration-to-grant-visas-to-flavio-bolsonaro-after-he-flees-brazil.shtml",
+      "image": null,
+      "publishedAt": "2026-10-28T13:45:00.000Z",
+      "sample": false
+    }
+  ],
+  "weekly": [
     {
       "id": "o7pxok",
       "title": "Fl�vio Bolsonaro's Allies Are Told He Fled Brazil",
@@ -25,9 +71,7 @@
       "image": null,
       "publishedAt": "2026-10-27T14:48:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "suve4u",
       "title": "Trump Administration Ordered Statement Recognizing Election Result to Be Held Back After Fl�vio Bolsonaro's Claims",
@@ -125,28 +169,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/10/meta-oversight-board-points-to-recurring-failures-in-election-content-moderation.shtml",
       "image": null,
       "publishedAt": "2026-10-21T23:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "szj1cl",
-      "title": "AI and Salaries Put Lula and Fl�vio at Odds Over Civil Service Proposals",
-      "summary": "Proposals on the use of artificial intelligence in the civil service, administrative reform and salary adjustments put Lula and Fl�vio Bolsonaro on opposing sides. In the final stretch of the presidential election campaign, the issue has sparked a clash on social media between Management Minister Esther Dweck and Fl�vi",
-      "category": "technology",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/10/ai-and-salaries-put-lula-and-flavio-at-odds-over-civil-service-proposals.shtml",
-      "image": null,
-      "publishedAt": "2026-10-21T14:44:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "y24u45",
-      "title": "Project Uses AI to Create Faces of Historic Black Women",
-      "summary": "The portrait of the same Black woman is used to represent Luiza Mahin, Maria Felipa and Tereza de Benguela. Discomfort with the lack of proper representation led to the Faces Negras Importam project, which brings together researchers, historical records and artificial intelligence to create an image of each woman, givi",
-      "category": "technology",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/culture/2026/10/project-uses-ai-to-create-faces-of-historic-black-women.shtml",
-      "image": null,
-      "publishedAt": "2026-10-21T14:40:00.000Z",
       "sample": false
     }
   ],

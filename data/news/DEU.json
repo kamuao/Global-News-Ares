@@ -2,35 +2,211 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-28T04:56:46.795Z",
+  "updatedAt": "2026-10-28T22:23:41.265Z",
   "daily": [
     {
-      "id": "pfog70",
-      "title": "India news: Cyclone Arnab brings heavy rain, disruption",
-      "summary": "Cyclone Arnab is making a slow-motion landfall at India's east coast with states evacuating thousands of residents. Also, a new report says India is among nations with highest heatwave exposure for infants. Follow live",
+      "id": "2nlib7",
+      "title": "How do the US midterms work, and why are they so important for Trump's presidency?",
+      "summary": "US voters are electing a new Congress. The results will be decisive for the future of the United States, and a judgment on Donald Trump's second term as president.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/india-news-cyclone-arnab-brings-heavy-rain-disruption/live-79782323?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/how-do-the-us-midterms-work-and-why-are-they-so-important-for-trump-s-presidency/a-79789932?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T19:02:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "5dfg08",
+      "title": "Evacuation from Oleshky: How are preparations going?",
+      "summary": "A lawyer with the Save Ukraine Foundation, Myroslava Kharchenko, told DW about what has been happening in Russian-occupied Oleshky since a temporary ceasefire brokered by Melania Trump took effect.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T17:04:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "b7t6cx",
+      "title": "One year on, families seek justice after election violence",
+      "summary": "One year after Tanzania's deadly post-election violence, families are still seeking answers. A government inquiry recorded 518 deaths. DW research has documented apparent use of excessive force by security forces.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/one-year-on-families-seek-justice-after-election-violence/a-79779105?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T16:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "em7wip",
+      "title": "What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some small positives predicted.",
+      "summary": "A new Israeli government is unlikely to bring big changes on controversial topics like Palestinian statehood and Israeli troops in Lebanon and Syria, experts say. Some small positives may be possible though.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/what-would-a-new-israeli-government-mean-for-arab-neighbors-more-of-the-same-is-expected-with-some-small-positives-predicted/a-79788174?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T16:03:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "gmw2u8",
+      "title": "Ukraine's Zelenskyy irked by US-Russia-China summit",
+      "summary": "Volodymyr Zelenskyy has voiced his concerns about a probable meeting between the leaders of the US, China and Russia next month. Plus, a localized truce appeared to be holding in the town of Oleshky.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-irked-by-us-russia-china-summit/a-79788616?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T15:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6eoz9",
+      "title": "Flavio Bolsonaro lands in US, declares himself 'leader' of Brazil",
+      "summary": "Flavio Bolsonaro declared himself the rightful leader of his country despite losing the presidential election runoff on Sunday. He and his family have fled to the US.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T15:10:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fprbza",
+      "title": "Spanish train crash leaves 68 dead, PM Sanchez declares 3 days of mourning",
+      "summary": "Two high-speed trains carrying hundreds of passengers collided south of Madrid. Spain's transport minister said one of the trains was told to continue its journey despite a \"red signal\" being in effect. Follow DW.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/spanish-train-crash-leaves-68-dead-pm-sanchez-declares-3-days-of-mourning/live-79785087?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T14:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "4ivxbf",
+      "title": "Is Iran headed to war or peace after Mecca alliance meeting?",
+      "summary": "Saudi Arabia, Pakistan and Turkey have taken their latest peace push directly to Tehran. Officially, it was to avert a new military escalation, but their diplomatic outreach can also be seen as a warning to Iran.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/is-iran-headed-to-war-or-peace-after-mecca-alliance-meeting/a-79788256?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T14:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "9f2fkg",
+      "title": "Gen Z protests in Germany: Is France-style violence looming?",
+      "summary": "Young people in Germany will take to the streets this weekend to demand education and action on climate change. Politicians warn that the protests could become violent, as in France, but the situations are different.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/gen-z-protests-in-germany-is-france-style-violence-looming/a-79788050?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T13:43:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lrko3a",
+      "title": "Israel election: Netanyahu-led bloc in slight lead with more than 80% of votes counted",
+      "summary": "While partial results show the pro-Netanyahu bloc ahead of the anti-Netanyahu bloc, the final tally could take days. Neither grouping is expected to win a majority, with tough coalition talks ahead. Follow DW.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-in-slight-lead-with-more-than-80-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T12:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "bhegew",
+      "title": "Can we regrow damaged seagrass meadows?",
+      "summary": "Seagrass protects coasts, shelters thousands of species and stores CO2. But some 30% of this valuable ecosystem has disappeared since the late 19th century. Can we bring it back?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/can-we-regrow-damaged-seagrass-meadows/a-79617925?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T10:51:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "8vy07z",
+      "title": "EU's 'Made in Europe' push unnerves global auto suppliers",
+      "summary": "In shielding Europe's carmakers from Chinese rivals, the EU risks hurting close partners from Turkey and Morocco to Japan and South Korea. Billions in trade and hundreds of thousands of European jobs are at stake.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/eu-s-made-in-europe-push-unnerves-global-auto-suppliers/a-79732579?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T10:24:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "higuyx",
+      "title": "Germany news: Parties debate who should succeed President Steinmeier, with several women under discussion",
+      "summary": "Germany's political parties are weighing possible successors to President Frank-Walter Steinmeier, with no candidate agreed yet. Meanwhile, a poll suggests most Germans are giving Halloween a miss this year.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-parties-debate-who-should-succeed-president-steinmeier-with-several-women-under-discussion/live-79783779?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T10:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "aw105l",
+      "title": "Russia in Africa: What is Putin hoping to achieve?",
+      "summary": "Following its invasion of Ukraine and the resulting rift with the West, Russia has declared that it intends to make a \"historic return\" to Africa. What have we seen of this so far?",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/russia-in-africa-what-is-putin-hoping-to-achieve/a-79781858?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T09:48:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "38svi3",
+      "title": "Dozens of people killed after high-speed trains collide in central Spain",
+      "summary": "At least 68 people have been killed in a train crash in central Spain, local authorities have confirmed. Rail services between Madrid and Seville have been suspended.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/dozens-of-people-killed-after-high-speed-trains-collide-in-central-spain/a-79784119?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T09:17:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "dkk7dz",
+      "title": "Africa's first Youth Olympics open in Senegal amid hope and scrutiny",
+      "summary": "Senegal is hosting Africa's first Youth Olympics, with 2,700 young athletes competing in Dakar, Diamniadio and Saly. The Games bring pride and hope, but also questions over cost, rights and legacy.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/africa-s-first-youth-olympics-open-in-senegal-amid-hope-and-scrutiny/a-79760478?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T09:08:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fqwqe2",
+      "title": "Serbian police shoot dead assailant at Israeli Embassy",
+      "summary": "A \"minor\" has been killed by police after attacking a guard at Israel's embassy in Belgrade with knives, the interior minister says. Ivica Dacic said police had declared the highest terror alert after the incident.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-28T08:48:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "dc9qtq",
+      "title": "India news: Cyclone Arnab turns deadly after landfall",
+      "summary": "Cyclone Arnab killed at least three people in Andhra Pradesh after making landfall earlier today. Also, a new report says India is paying a steep economic cost over heat. Follow live.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-cyclone-arnab-turns-deadly-after-landfall/live-79782323?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-28T04:30:00.000Z",
       "sample": false
     },
     {
-      "id": "k98pac",
-      "title": "Israel election: Exit polls show no clear winner, with Netanyahu's fate unclear",
-      "summary": "While Netanyahu's party is projected to be the biggest in parliament, two out of three exit polls show his bloc even with the opposition. No bloc has a clear majority. DW has the latest.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/israel-election-exit-polls-show-no-clear-winner-with-netanyahu-s-fate-unclear/live-79713839?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-28T02:53:00.000Z",
-      "sample": false
-    },
-    {
       "id": "uqgiy8",
       "title": "Experts urge 'global health emergency' as climate harms accelerate",
-      "summary": "Heat, drought and storms linked to climate change are already killing millions worldwide. Researchers want global warming to be declared a global health emergency as the health harms from it escalate faster than ever.",
-      "category": "military",
+      "summary": "A new Lancet report reveals the growing toll of climate change on human health, from rising heat deaths and drought to food insecurity and lost livelihoods.",
+      "category": "health",
       "source": "dw",
       "url": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
@@ -47,51 +223,9 @@
       "image": null,
       "publishedAt": "2026-10-27T23:16:00.000Z",
       "sample": false
-    },
-    {
-      "id": "r2z3wq",
-      "title": "Flavio Bolsonaro flees Brazil for US amid investigation  — reports",
-      "summary": "Flavio Bolsonaro is on the way to the US, according to reports citing people close to the senator. The US State Department said it will issue visas to the senator and his family.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-27T22:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "t1h03i",
-      "title": "EU proposes giving Frontex border agency new major powers",
-      "summary": "The European Commission has unveiled a new plan to give Frontex more resources to ensure the return of irregular migrants, including by supporting non-EU countries. The move comes after the tragedy in Ceuta.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-27T17:44:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5pdfbs",
-      "title": "Mbappe apologizes as Chinese sponsors drop him and TV broadcasts are halted over Mao dictator remark",
-      "summary": "French soccer star Kylian Mbappe has apologized after apparently referring to Mao Zedong as a dictator. Chinese sponsors have dropped him, while state television has suspended Spanish league broadcasts.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/mbappe-apologizes-as-chinese-sponsors-drop-him-and-tv-broadcasts-are-halted-over-mao-dictator-remark/a-79779831?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-27T16:49:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "gi159o",
-      "title": "Myanmar: Is the US undermining the EU's diplomatic blockade?",
-      "summary": "With the US reopening talks with Myanmar's military-backed government, and several Southeast Asian countries restarting diplomatic contacts, the EU is facing uncomfortable questions about its own boycott of the junta.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/myanmar-is-the-us-undermining-the-eu-s-diplomatic-blockade/a-79778863?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-27T15:16:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "pnf5yn",
       "title": "Harry Kane: Ballon d’Or for Bayern Munich striker",
@@ -104,50 +238,6 @@
       "sample": false
     },
     {
-      "id": "a5ao3k",
-      "title": "Will elections in Israel change its Iran approach?",
-      "summary": "As Israelis head to the polls, the country's conflict with Iran casts a long shadow over the ballot box. But any leadership changes in Israel may not be enough to shake up its grand strategy on Tehran.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/will-elections-in-israel-change-its-iran-approach/a-79776122?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-27T13:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "j7u6sp",
-      "title": "Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despite consultation with Ukraine",
-      "summary": "Finland and Norway have called Putin about ending the Ukraine war, drawing Danish criticism. The dispute highlights divisions over European engagement with Moscow ahead of planned US-led peace talks.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/denmark-s-frederiksen-criticizes-finland-and-norway-for-calling-putin-without-coordinating-with-allies-despite-consultation-with-ukraine/a-79776208?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-27T12:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpbdpq",
-      "title": "Jordan acknowledges civilian casualties in Syria airstrike against 'Islamic State'",
-      "summary": "A Jordanian government spokesman has expressed \"regret\" over civilian casualties in an airstrike it said was targeting \"IS\" militants.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/jordan-acknowledges-civilian-casualties-in-syria-airstrike-against-islamic-state/a-79775653?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-27T12:24:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "1rbveg",
-      "title": "DR Congo reports over 10,000 Ebola cases as the outbreak spreads abroad, with no approved vaccine or specific treatment for the Bundibugyo virus",
-      "summary": "DR Congo has reported more than 10,000 Ebola cases and nearly 4,900 deaths. The outbreak involves a virus for which there is no approved vaccine or specific treatment, complicating efforts to contain its spread.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/dr-congo-reports-over-10-000-ebola-cases-as-the-outbreak-spreads-abroad-with-no-approved-vaccine-or-specific-treatment-for-the-bundibugyo-virus/a-79773667?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-27T11:15:00.000Z",
-      "sample": false
-    },
-    {
       "id": "j5xdp1",
       "title": "Germany's Merz says erosion of global order means middle powers in Europe and Asia must be more assertive",
       "summary": "During a visit to Singapore, German Chancellor Friedrich Merz said Europe and Germany want to increase free trade with open competition, reliability and a rules-based order.",
@@ -156,74 +246,6 @@
       "url": "https://www.dw.com/en/germany-s-merz-says-erosion-of-global-order-means-middle-powers-in-europe-and-asia-must-be-more-assertive/live-79772992?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-27T09:49:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ezl6j6",
-      "title": "Two men face UK national security charges following an incident near RAF Fairford, with police suspecting Iranian state involvement",
-      "summary": "British prosecutors have charged two men over an incident near RAF Fairford in September. Police suspect Iranian involvement in the case at a base used for US strikes on Iran.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/two-men-face-uk-national-security-charges-following-an-incident-near-raf-fairford-with-police-suspecting-iranian-state-involvement/a-79773432?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-27T09:32:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "4tvgp6",
-      "title": "Police in northern Germany search for suspects after car ramming overnight injures several",
-      "summary": "A person intentionally drove into a group of people in a northern German town, police have said. Three people have been taken into custody in what police said was likely a gang confrontation.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/police-in-northern-germany-search-for-suspects-after-car-ramming-overnight-injures-several/a-78107062?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-27T07:38:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "sowlb2",
-      "title": "India news: Arunachal sees fresh violence over proposed dam",
-      "summary": "More violence erupted in India's northeastern state of Arunachal Pradesh over proposed hydroelectric projects that locals are protesting. Also, India's top court will hear pleas against the poll body chief.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-arunachal-sees-fresh-violence-over-proposed-dam/live-79771650?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-27T07:23:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "5eelpr",
-      "title": "Brazil elections: Merz, world leaders congratulate Lula on his win",
-      "summary": "Brazilian President Lula secured a surprise win over far-right challenger Flavio Bolsonaro, whose party recognizes Lula's election victory.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-27T04:46:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "oilfzn",
-      "title": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
-      "summary": "Around 2,000 people remain stranded in the city of Oleshky, facing severe shortages of food and medicine. The Russian-occupied town has been devastated by fighting and flooding since Moscow's invasion in 2022.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-27T03:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "92yj9j",
-      "title": "US seeks new charges against former FBI chief James Comey",
-      "summary": "The Trump administration accuses the former FBI director of leaking classified information a decade ago. Comey denies wrongdoing, while his lawyers argue the case is legally invalid and comes too late.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-seeks-new-charges-against-former-fbi-chief-james-comey/a-79771256?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-27T01:39:00.000Z",
       "sample": false
     },
     {
@@ -444,94 +466,6 @@
       "url": "https://www.dw.com/en/bulgaria-concerns-about-security-in-the-black-sea-dominate-presidential-election-campaign/a-79729094?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-22T08:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "a8ulz4",
-      "title": "Germany news: AfD's Weidel calls for major EU reforms",
-      "summary": "Far-right Alternative for Germany co-leader Alice Weidel reveals the party's plan to reform the EU. Meanwhile, Nvidia CEO Jensen Huang was in Berlin to talk to developers and investors. DW has more.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-afd-s-weidel-calls-for-major-eu-reforms/live-79719483?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-21T19:44:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "vm9r4z",
-      "title": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
-      "summary": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part?",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-21T19:32:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "efyevk",
-      "title": "Raids at far-right group's offices at European Parliament",
-      "summary": "Authorities searched the Patriots for Europe's European Parliament offices in a long-running funding inquiry. The group says the charges pertain to its predecessor and there is \"no legal continuity\" between the two.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/raids-at-far-right-group-s-offices-at-european-parliament/a-79724631?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-21T16:14:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "641k6x",
-      "title": "Russia arrests German man, calls him a Ukraine 'mercenary'",
-      "summary": "Russian FSB agents have arrested a German national and accused him of fighting as a mercenary for Ukraine's military. They claim he deserted over unpaid wages and say he was a sniper who once served in the Bundeswehr.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/russia-arrests-german-man-calls-him-a-ukraine-mercenary/a-79723871?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-21T14:17:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "b2fju5",
-      "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
-      "summary": "During talks between Vladimir Putin and Steve Witkoff, Putin announced that jailed American Stephen Hubbard had been released. The Kremlin also said Russia was \"in principle\" ready to resume trilateral talks next month.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-21T13:56:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "s9vyl",
-      "title": "US sanctions target Iran's rail sector as Tehran shifts cargo from sea routes to overland corridors",
-      "summary": "As US sanctions expand to Iran's rail sector, Tehran is relying more heavily on overland links with China and Central Asia. But capacity constraints, delays and costs limit rail's ability to replace maritime trade.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-sanctions-target-iran-s-rail-sector-as-tehran-shifts-cargo-from-sea-routes-to-overland-corridors/a-79681413?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-21T08:30:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "m9774v",
-      "title": "Football: German coach Hürzeler flying high in Premier League",
-      "summary": "Fabian Hürzeler is younger than his star player, a fellow Premier League German. But, contrary to his reputation in his homeland, Hürzeler has become a popular figure both on and off the pitch in England.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/football-german-coach-hürzeler-flying-high-in-premier-league/a-79714763?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-21T06:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ui38iq",
-      "title": "Rising emissions and temperatures: The cost of Trump's climate retreat is now clear",
-      "summary": "The world is set to breach the critical 1.5-degree temperature limit, with Donald Trump's US withdrawal from climate action worsening the outlook, according to a UN report. But there is a small silver lining.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/rising-emissions-and-temperatures-the-cost-of-trump-s-climate-retreat-is-now-clear/a-79714915?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-21T05:00:00.000Z",
       "sample": false
     }
   ],
