@@ -2,11 +2,35 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-29T05:08:32.184Z",
+  "updatedAt": "2026-10-29T22:36:49.654Z",
   "daily": [
     {
+      "id": "792qf2",
+      "title": "Never Another Coup Attempt",
+      "summary": "Just when it seems the Bolsonaros have hit rock bottom in their efforts to undermine democracy, they sink even lower. Fl�vio, the PL candidate defeated in Sunday's election, fled the country and proclaimed himself Brazil's rightful president from a hideout in the United States, where he is suspected of being supported ",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/opinion/2026/10/never-again-a-coup-attempt.shtml",
+      "image": null,
+      "publishedAt": "2026-10-29T18:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "cs5fzk",
+      "title": "Fl�vio Bolsonaro Publishes Coup-Backing Letter, Then Changes Self-Description From 'President' to 'Leader of Brazil'",
+      "summary": "Senator Fl�vio Bolsonaro (PL-RJ) replaced the phrase \"true president\" with \"leader of Brazil\" at the beginning of a coup-backing letter published on his X account on Wednesday (28). At least four versions circulated. The first two, released by allies, described him as the \"true president-elect of Brazil,\" despite his d",
+      "category": "military",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/flavio-bolsonaro-publishes-coup-backing-letter-then-changes-self-description-from-president-to-leader-of-brazil.shtml",
+      "image": null,
+      "publishedAt": "2026-10-29T14:11:00.000Z",
+      "sample": false
+    }
+  ],
+  "weekly": [
+    {
       "id": "jhppti",
-      "title": "International Left Adopts Lula's Digital Strategist's 'Playbook' and Uses 'L' as Anti-Far-Right Symbol",
+      "title": "International Left Adopts Playbook of Lula's Digital Strategist, Uses 'L' as Anti-Far-Right Symbol",
       "summary": "Lula's reelection as Brazil's president on Sunday (25) gave new momentum to the international left, which has begun copying the \"L\" gesture and the digital strategy of Congressman Andr� Janones, one of the main figures behind the Workers' Party victory.\nLeia mais (10/28/2026 - 17h59)",
       "category": "politics",
       "source": "folha",
@@ -47,9 +71,7 @@
       "image": null,
       "publishedAt": "2026-10-28T13:45:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "o7pxok",
       "title": "Fl�vio Bolsonaro's Allies Are Told He Fled Brazil",
@@ -114,39 +136,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/three-days-before-runoff-flavio-and-lula-tied-at-50-of-valid-votes-datafolha-says.shtml",
       "image": null,
       "publishedAt": "2026-10-23T15:30:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "6dv0cz",
-      "title": "18 Members of Bolsonaro Administration in Brazil Face Court Cases or Investigations; Lula Government Has 6 Cases",
-      "summary": "A Folha survey shows that 18 former members of the government of Jair Bolsonaro (PL), who was president from 2019 to 2022, are serving sentences, facing court proceedings or under investigation. Most of the cases concern events that occurred during his administration. In the third government of Luiz In�cio Lula da Silv",
-      "category": "health",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/18-members-of-bolsonaro-administration-in-brazil-face-court-cases-or-investigations-lula-government-has-6-cases.shtml",
-      "image": null,
-      "publishedAt": "2026-10-22T20:33:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "1vp38f",
-      "title": "Fl�vio Bolsonaro Agrees to Disclosure Proposed by Lula, and Brazil's Presidential Candidates Sign Agreement",
-      "summary": "Brazilian President Luiz In�cio Lula da Silva (PT) and Senator Fl�vio Bolsonaro (PL), son of former President Jair Bolsonaro, signed an agreement on Thursday (22) at the headquarters of the country's electoral court to mutually waive the confidentiality of their banking, tax and phone records. The two are competing in ",
-      "category": "military",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/flavio-bolsonaro-agrees-to-disclosure-proposed-by-lula-and-brazils-presidential-candidates-sign-agreement.shtml",
-      "image": null,
-      "publishedAt": "2026-10-22T20:23:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fsy9zk",
-      "title": "Greenhouse Gas Emissions Fall for Third Consecutive Year in Brazil",
-      "summary": "Brazil emitted 2.06 billion metric tons of greenhouse gases (GtCO2e) in 2025, down 6% from 2024 and marking the third consecutive year of decline, according to Seeg (Greenhouse Gas Emissions and Removal Estimating System), from the Climate Observatory. It is the lowest level since 2018, restoring the level seen before ",
-      "category": "environment",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/10/greenhouse-gas-emissions-fall-for-third-consecutive-year-in-brazil.shtml",
-      "image": null,
-      "publishedAt": "2026-10-22T14:40:00.000Z",
       "sample": false
     }
   ],
