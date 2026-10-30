@@ -2,8 +2,129 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-10-29T22:36:46.916Z",
+  "updatedAt": "2026-10-30T05:08:06.936Z",
   "daily": [
+    {
+      "id": "roesjt",
+      "title": "Lavrov arrives in Atlanta for G20 Foreign Ministers’ Meeting",
+      "summary": "The event is scheduled for October 30-31",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2210611",
+      "image": null,
+      "publishedAt": "2026-10-30T04:39:57.000Z",
+      "sample": false
+    },
+    {
+      "id": "roesj6",
+      "title": "Russian President Putin to hold over 10 bilateral meetings with African leaders",
+      "summary": "The meetings will take place following the Russia-Africa Summit",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2210609",
+      "image": null,
+      "publishedAt": "2026-10-30T03:50:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "roesj4",
+      "title": "London, NATO may plan acts of sabotage against vessels with Russian diesel for US",
+      "summary": "According to Kremlin Aide Nikolay Patrushev, Moscow is closely following developments of such risks",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2210607",
+      "image": null,
+      "publishedAt": "2026-10-30T03:12:36.000Z",
+      "sample": false
+    },
+    {
+      "id": "tars0b",
+      "title": "Cryptocurrency exchange Binance announces halt in deposit and withdrawal operations",
+      "summary": "The company's team is conducting security checks, it said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/economy/2210605",
+      "image": null,
+      "publishedAt": "2026-10-30T03:00:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "tars09",
+      "title": "Brent prices climb above $114 per barrel on ICE",
+      "summary": "Brent futures stood at $114.01 as of 1:49 a.m. GMT",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/economy/2210603",
+      "image": null,
+      "publishedAt": "2026-10-30T02:17:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "roesiy",
+      "title": "Russia, Kenya share positions on global agenda’s key issues — Putin",
+      "summary": "According to the Russian president, strengthening the central role of the UN is among them",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2210601",
+      "image": null,
+      "publishedAt": "2026-10-30T02:09:47.000Z",
+      "sample": false
+    },
+    {
+      "id": "roes04",
+      "title": "West may be behind more than hundred attacks on ships carrying cargo for Russia",
+      "summary": "Kremlin Aide Nikolay Patrushev clarified that this number of attacks had been recorded in the course of a year",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2210595",
+      "image": null,
+      "publishedAt": "2026-10-30T00:55:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "5yzvkg",
+      "title": "Air defenses intercept 21 UAVs heading toward Moscow — city mayor",
+      "summary": "Sergey Sobyanin reported that emergency services personnel are working at the site where the debris fell",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2210593",
+      "image": null,
+      "publishedAt": "2026-10-29T23:46:03.000Z",
+      "sample": false
+    },
+    {
+      "id": "roes00",
+      "title": "Russia needs lasting peace in Ukraine instead of temporary ceasefire — Kremlin",
+      "summary": "Spokesman Dmitry Peskov said that the negotiations \"do not mean ceasefire\"",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2210591",
+      "image": null,
+      "publishedAt": "2026-10-29T23:37:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "tarrgm",
+      "title": "Relations between Russia and African Union develop on long-term basis — Putin",
+      "summary": "The Russian president held a meeting with his counterpart in Burundi Evariste Ndayishimiye, who is also the current chairman of the African Union",
+      "category": "health",
+      "source": "tass",
+      "url": "https://tass.com/economy/2210589",
+      "image": null,
+      "publishedAt": "2026-10-29T23:07:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "roerxh",
+      "title": "Russia and Africa intend to increase potential of terrorism fighting structures",
+      "summary": "The parties will also support measures to build the capacity to combat illegal maritime activities, violent extremism and radicalization leading to terrorism",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2210563",
+      "image": null,
+      "publishedAt": "2026-10-29T22:38:23.000Z",
+      "sample": false
+    },
     {
       "id": "roerz9",
       "title": "IN BRIEF: Putin hails Russia-Africa Summit, outlines prospects for cooperation",
@@ -1050,105 +1171,6 @@
       "sample": false
     },
     {
-      "id": "m1xb2r",
-      "title": "Lagarde confirms her early departure as ECB President",
-      "summary": "Christine Lagarde has headed the bank since November 1, 2019",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2210241",
-      "image": null,
-      "publishedAt": "2026-10-29T13:35:13.000Z",
-      "sample": false
-    },
-    {
-      "id": "tarp48",
-      "title": "Russia’s international reserves up $6.4 bln over week — Central Bank",
-      "summary": "International reserves amounted to $729.6 bln as of the close of business on October 23, 2026",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2210239",
-      "image": null,
-      "publishedAt": "2026-10-29T13:29:37.000Z",
-      "sample": false
-    },
-    {
-      "id": "roepmv",
-      "title": "Mission in Alyoshki and unacceptability of colonial practices: Putin’s statements",
-      "summary": "The Russian president also highlighted that it is hardly possible to speak of socio-economic development without guaranteeing security",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/politics/2210235",
-      "image": null,
-      "publishedAt": "2026-10-29T13:28:13.000Z",
-      "sample": false
-    },
-    {
-      "id": "roepm2",
-      "title": "Over 9,000 civilians killed in Ukrainian aggression in Donbass — Russian investigators",
-      "summary": "More than 29,000 civilians were injured",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2210227",
-      "image": null,
-      "publishedAt": "2026-10-29T13:22:28.000Z",
-      "sample": false
-    },
-    {
-      "id": "roepm0",
-      "title": "Ukraine hunts civilians with Western drones — Russia’s envoy to OSCE",
-      "summary": "Since the beginning of the year, the number of civilian buses attacked by Ukraine has reached 328, Dmitry Polyansky said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2210225",
-      "image": null,
-      "publishedAt": "2026-10-29T13:17:08.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1xb11",
-      "title": "NATO reconnaissance aircraft spotted near Kaliningrad Region first time this week",
-      "summary": "The source noted that the aircraft took off from its permanent base in Constanta, Romania",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2210221",
-      "image": null,
-      "publishedAt": "2026-10-29T13:13:52.000Z",
-      "sample": false
-    },
-    {
-      "id": "roepl9",
-      "title": "Kremlin says Iran is always on agenda in Russia-US contacts",
-      "summary": "Dmitry Peskov also stressed that Moscow \"is ready to make every effort to prevent a military scenario in the Persian Gulf region\"",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2210219",
-      "image": null,
-      "publishedAt": "2026-10-29T13:12:07.000Z",
-      "sample": false
-    },
-    {
-      "id": "roepl7",
-      "title": "Russia ready to share election digitalization expertise with Africa — Putin",
-      "summary": "The Russian leader emphasized that digitalization has applications across all sectors and can significantly improve the quality of work in various industries",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2210217",
-      "image": null,
-      "publishedAt": "2026-10-29T13:10:24.000Z",
-      "sample": false
-    },
-    {
-      "id": "roepke",
-      "title": "Russian forces hammer Ukrainian army’s transport infrastructure in past day — top brass",
-      "summary": "The Ukrainian army lost roughly 1,155 troops in battles with Russian forces in all the frontline areas over the past 24 hours",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2210209",
-      "image": null,
-      "publishedAt": "2026-10-29T12:56:56.000Z",
-      "sample": false
-    },
-    {
       "id": "bjglh8",
       "title": "Estonia Plans 150 Bunkers Along Border With Russia",
       "summary": "The installations will form the so-called Baltic Defense Line, an agreement that Estonia, Latvia and Lithuania announced in 2024 to build a series of bunkers along their borders with Russia and Belarus to defend against potential attacks.",
@@ -1157,28 +1179,6 @@
       "url": "https://www.themoscowtimes.com/2026/10/29/estonia-plans-150-bunkers-along-border-with-russia-a94122",
       "image": null,
       "publishedAt": "2026-10-29T12:56:30.000Z",
-      "sample": false
-    },
-    {
-      "id": "roepkc",
-      "title": "Libyans themselves must decide on restoring statehood, Putin says",
-      "summary": "Moscow will do everything possible to make sure it is so, the Russian leader stressed",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2210207",
-      "image": null,
-      "publishedAt": "2026-10-29T12:50:59.000Z",
-      "sample": false
-    },
-    {
-      "id": "roepk8",
-      "title": "Kremlin highlights important role of Russian media in Alyoshki reporting",
-      "summary": "Dmitry Peskov noted that it makes no difference to Russia that journalists from Newsmax will be there",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2210203",
-      "image": null,
-      "publishedAt": "2026-10-29T12:47:50.000Z",
       "sample": false
     },
     {
