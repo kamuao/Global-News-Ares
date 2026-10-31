@@ -2,15 +2,37 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-10-31T17:57:21.344Z",
+  "updatedAt": "2026-10-31T21:14:21.753Z",
   "daily": [
     {
-      "id": "vk13xy",
-      "title": "Massive Gen Z protests sweep cities across Germany",
+      "id": "npvfsp",
+      "title": "Serbia after Vucic: The winners are losing patience",
+      "summary": "After the Student List's election victory, Aleksandar Vucic's power apparatus is disintegrating. People want justice as soon as possible. But the losers still hold sway in the judiciary and administration.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/serbia-after-vucic-the-winners-are-losing-patience/a-79817586?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-31T19:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "s9cxr",
+      "title": "More than 290 arrested in France as some weekend protests turn violent",
+      "summary": "Protests continue across France as 320,000 people take to the streets over rising living costs and poor school conditions for a third consecutive weekend, with clashes reported in several cities.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-10-31T18:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "gds881",
+      "title": "Gen Z protests sweep cities across Germany",
       "summary": "Young people in Germany have taken to the streets in some 34 cities, calling for greater political say and a more hopeful future. The protests come amid a wave of youth demonstrations across Europe. DW has more.",
       "category": "society",
       "source": "dw",
-      "url": "https://www.dw.com/en/massive-gen-z-protests-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/gen-z-protests-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-31T16:00:00.000Z",
       "sample": false
@@ -102,7 +124,9 @@
       "image": null,
       "publishedAt": "2026-10-30T23:22:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "t0qtob",
       "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
@@ -135,9 +159,7 @@
       "image": null,
       "publishedAt": "2026-10-30T18:06:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "u5l11p",
       "title": "Tennessee woman Christa Pike describes pain after failed execution",
@@ -213,17 +235,6 @@
       "url": "https://www.dw.com/en/bayern-munich-s-kenya-friendly-highlights-africa-s-growing-pull-for-global-sport/a-79796753?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-30T13:19:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "qscpav",
-      "title": "Italy: Students and workers rally over living costs",
-      "summary": "Students and workers have marched across Italy for more school funding and relief from rising living costs. The rallies follow weeks of school occupations and protests against higher military spending.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/italy-students-and-workers-rally-over-living-costs/a-79807668?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-30T12:45:00.000Z",
       "sample": false
     },
     {

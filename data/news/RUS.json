@@ -2,8 +2,118 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-10-31T17:57:22.473Z",
+  "updatedAt": "2026-10-31T21:14:22.696Z",
   "daily": [
+    {
+      "id": "m1xzi0",
+      "title": "Iran may withdraw from NPT if war resumes — security council secretary",
+      "summary": "Mohsen Rezaei emphasized that the US must ensure Iran can exercise all the rights guaranteed by the Treaty on the Non-Proliferation of Nuclear Weapons before discussions on its nuclear program can begin",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2211423",
+      "image": null,
+      "publishedAt": "2026-10-31T20:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "vr9xcc",
+      "title": "Agreement reached on regular humanitarian missions — Russian ombudswoman",
+      "summary": "Yana Lantratova noted that this is a very important step",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/society/2211421",
+      "image": null,
+      "publishedAt": "2026-10-31T20:28:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "vr9xbp",
+      "title": "Soviet war cemetery in Netherlands desecrated for second time this year — TV",
+      "summary": "According to the TV channel, vandals daubed red and black graffiti on various parts of the memorial honoring heroes of the Great Patriotic War",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/society/2211419",
+      "image": null,
+      "publishedAt": "2026-10-31T20:09:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1xzh9",
+      "title": "Greenland’s security role grows, US deal to last indefinitely — Rubio",
+      "summary": "US Secretary of State Marco Rubio stressed that it has always played a critical role in national security",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2211417",
+      "image": null,
+      "publishedAt": "2026-10-31T19:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rofe20",
+      "title": "Russia to remain reliable energy, food supplier — Lavrov at G20",
+      "summary": "Russian Foreign Minister said that at the G20 foreign ministers’ meeting in Atlanta",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2211413",
+      "image": null,
+      "publishedAt": "2026-10-31T18:56:37.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1xzgg",
+      "title": "Lavrov’s G20 attendance offers chance to maintain contact with Russia — Rubio",
+      "summary": "US Secretary of State also pointed to the country’s nuclear arsenal",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2211409",
+      "image": null,
+      "publishedAt": "2026-10-31T18:44:53.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1xzge",
+      "title": "Trump considers Russia’s participation in G20 discussions important — Rubio",
+      "summary": "US Secretary of State said that at a press conference following the G20 foreign ministers’ meeting in Atlanta, Georgia",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2211407",
+      "image": null,
+      "publishedAt": "2026-10-31T18:18:17.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1xzgc",
+      "title": "US not claiming negotiated Ukraine settlement anywhere close — Rubio",
+      "summary": "US Secretary of State said that at a press conference following the G20 foreign ministers’ meeting in Atlanta, Georgia",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2211405",
+      "image": null,
+      "publishedAt": "2026-10-31T18:17:22.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1xzga",
+      "title": "Rubio, Lavrov discuss possible Putin-Trump meeting on APEC sidelines",
+      "summary": "US Secretary of State said that at a press conference following the G20 foreign ministers’ meeting in Atlanta",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2211403",
+      "image": null,
+      "publishedAt": "2026-10-31T17:59:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "rofe13",
+      "title": "Lavrov raises ship seizures, sanctions, asset freezes at G20 meeting",
+      "summary": "Russian Foreign Minister outlined Russia’s views on sources of global tensions, \"particularly in areas critical to the global economy: energy and food security, and the stable functioning of supply chains and shipping routes on an open and non-discriminatory basis\"",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2211401",
+      "image": null,
+      "publishedAt": "2026-10-31T17:54:38.000Z",
+      "sample": false
+    },
     {
       "id": "m1xyxi",
       "title": "Turkey submits Black Sea grain shipping proposals to US — Rubio",
@@ -60,6 +170,17 @@
       "sample": false
     },
     {
+      "id": "q06clc",
+      "title": "U.S. Embassy Warns of Potential 'Mass Casualty Event' in Moscow",
+      "summary": "Russia's FSB said it had received the report and was \"taking appropriate action.\"",
+      "category": "military",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/10/31/us-embassy-warns-of-potential-mass-casualty-event-in-moscow-2-a94144",
+      "image": null,
+      "publishedAt": "2026-10-31T17:25:00.000Z",
+      "sample": false
+    },
+    {
       "id": "m1xyxa",
       "title": "Finnish president says he, Norwegian PM called Putin at Kiev’s request",
       "summary": "Alexander Stubb also noted, that other European countries \"were aware of the contents\" of the conversation",
@@ -68,17 +189,6 @@
       "url": "https://tass.com/world/2211391",
       "image": null,
       "publishedAt": "2026-10-31T16:14:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "q06clc",
-      "title": "U.S. Embassy Warns of Potential 'Mass Casualty Event' in Moscow",
-      "summary": "Russia's FSB said it had received the report and was \"taking appropriate action.\"",
-      "category": "military",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/31/us-embassy-warns-of-potential-mass-casualty-event-in-moscow-2-a94144",
-      "image": null,
-      "publishedAt": "2026-10-31T15:33:00.000Z",
       "sample": false
     },
     {
@@ -531,7 +641,9 @@
       "image": null,
       "publishedAt": "2026-10-30T21:31:08.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "rofckm",
       "title": "Some 150 cooperation documents signed at Russia-Africa summit",
@@ -541,195 +653,6 @@
       "url": "https://tass.com/politics/2211213",
       "image": null,
       "publishedAt": "2026-10-30T21:11:02.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1xxg0",
-      "title": "Houthis deliver missile strikes on airport, presidential palace in Aden",
-      "summary": "At the same time, government forces conducted 1,087 successful operations, Colonel Majed Al-Nuzaili, spokesperson for Yemen's internationally recognized armed forces, said",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2211195",
-      "image": null,
-      "publishedAt": "2026-10-30T21:07:05.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1xxfy",
-      "title": "European Commission proposes 45 billion euros in funding for Ukraine for 2027",
-      "summary": "Of this amount, 31.7 billion euros would go toward weapons purchases",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2211193",
-      "image": null,
-      "publishedAt": "2026-10-30T20:47:57.000Z",
-      "sample": false
-    },
-    {
-      "id": "rofc04",
-      "title": "Putin shares secret behind his remarkable energy",
-      "summary": "The Russian president told Togo’s Prime Minister Faure Gnassingbe that \"time spent with friends does not count toward one’s age\"",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2211189",
-      "image": null,
-      "publishedAt": "2026-10-30T20:37:31.000Z",
-      "sample": false
-    },
-    {
-      "id": "vr9v9h",
-      "title": "Russian ombudswoman suggests humanitarian aid be delivered to Alyoshki every month",
-      "summary": "Yana Lantratova clarified that not all of the city’s residents are able to leave it due to various reasons",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/society/2211183",
-      "image": null,
-      "publishedAt": "2026-10-30T20:23:12.000Z",
-      "sample": false
-    },
-    {
-      "id": "rofbzw",
-      "title": "Putin urges Russia, Eritrea to boost trade and economic cooperation",
-      "summary": "Russian-Eritrean relations are developing, the Russian president said",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/politics/2211181",
-      "image": null,
-      "publishedAt": "2026-10-30T20:18:18.000Z",
-      "sample": false
-    },
-    {
-      "id": "rofbz7",
-      "title": "Putin describes Russia-Africa Summit as quite successful",
-      "summary": "The Russian president made this statement at a meeting with Togo’s Prime Minister Faure Gnassingbe",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2211177",
-      "image": null,
-      "publishedAt": "2026-10-30T20:05:07.000Z",
-      "sample": false
-    },
-    {
-      "id": "vr9v8m",
-      "title": "IN BRIEF: How humanitarian mission in Alyoshki went",
-      "summary": "According to Russia’s Commissioner for Human Rights Yana Lantratova, some of the residents travelled \"absolutely unhindered\" towards Russia, the others to Ukraine",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/society/2211173",
-      "image": null,
-      "publishedAt": "2026-10-30T18:59:26.000Z",
-      "sample": false
-    },
-    {
-      "id": "rofbye",
-      "title": "Lavrov, top Japanese diplomat hold talks on sidelines of G20 meeting in Atlanta",
-      "summary": "Today’s meeting marks their first full-fledged talks in five years",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2211169",
-      "image": null,
-      "publishedAt": "2026-10-30T18:46:53.000Z",
-      "sample": false
-    },
-    {
-      "id": "rofbyc",
-      "title": "61 out of 65 invited delegations attend Russia-Africa summit — Russian diplomat",
-      "summary": "According to Tatiana Dovgalenko, African partner thank the Russian side and note that the summit was held successfully",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2211167",
-      "image": null,
-      "publishedAt": "2026-10-30T18:42:04.000Z",
-      "sample": false
-    },
-    {
-      "id": "vr9v7r",
-      "title": "Evacuees from Alyoshki being examined by medics in Simferopol",
-      "summary": "In addition to the physical examination, people undergo diagnostic testing, including examinations using a mobile fluoroscope",
-      "category": "health",
-      "source": "tass",
-      "url": "https://tass.com/society/2211163",
-      "image": null,
-      "publishedAt": "2026-10-30T18:32:43.000Z",
-      "sample": false
-    },
-    {
-      "id": "rofby6",
-      "title": "Civilians evacuated from Alyoshki arrive at temporary accommodation center in Crimea",
-      "summary": "Rooms were prepared at the center to accommodate the evacuees, and a canteen was set up where dinner is ready for them",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/politics/2211161",
-      "image": null,
-      "publishedAt": "2026-10-30T18:31:52.000Z",
-      "sample": false
-    },
-    {
-      "id": "tasbes",
-      "title": "DRC seeks economic partnership with Russia — president",
-      "summary": "Felix Tshisekedi emphasized that the DRC's future development depends on restoring peace in the eastern part of the country",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2211159",
-      "image": null,
-      "publishedAt": "2026-10-30T18:25:21.000Z",
-      "sample": false
-    },
-    {
-      "id": "tasbeo",
-      "title": "Putin highlights strengthening trade ties between Russia and DRC",
-      "summary": "The Russian leader also noted the development of humanitarian ties between the two countries",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2211155",
-      "image": null,
-      "publishedAt": "2026-10-30T18:19:38.000Z",
-      "sample": false
-    },
-    {
-      "id": "vr9v6u",
-      "title": "Over 60 pets evacuated from Alyoshki alongside owners",
-      "summary": "According to Oleg Zubkov, owner of the Taigan safari park in Crimea, the animals will first be taken to a distribution center in the southern Russian city of Anapa, from where they will travel to other Russian regions or to Ukraine together with their owners",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/society/2211151",
-      "image": null,
-      "publishedAt": "2026-10-30T18:11:58.000Z",
-      "sample": false
-    },
-    {
-      "id": "tasbdx",
-      "title": "Russian stock market closes up on oil prices, geopolitical optimism",
-      "summary": "The MOEX Index rose 0.83% to 2,513.04 points, while the dollar-denominated RTS Index climbed 0.98% to 982.73 points",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2211149",
-      "image": null,
-      "publishedAt": "2026-10-30T18:10:18.000Z",
-      "sample": false
-    },
-    {
-      "id": "tasbdv",
-      "title": "IN BRIEF: Deputy Prime Minister Novak’s statements on diesel market situation",
-      "summary": "Alexander Novak said that three refineries and one gas-chemical complex were targeted today",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2211147",
-      "image": null,
-      "publishedAt": "2026-10-30T18:07:22.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "m1xxbp",
-      "title": "Trump did not discuss strikes on Iran with CENTCOM head on Thursday — Axios",
-      "summary": "According to the report, blockade and economic pressure were discussed at length",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/world/2211145",
-      "image": null,
-      "publishedAt": "2026-10-30T17:52:05.000Z",
       "sample": false
     },
     {
