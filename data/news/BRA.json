@@ -2,11 +2,23 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-10-30T12:29:05.526Z",
-  "daily": [
+  "updatedAt": "2026-10-31T17:57:24.795Z",
+  "daily": [],
+  "weekly": [
+    {
+      "id": "k4oit2",
+      "title": "U.S. Embassy in Bras�lia Highlighted Lula's 'Definitive' Victory in Report",
+      "summary": "The U.S. Embassy in Bras�lia sent a report to U.S. government agencies, including the State Department, describing Lula's (PT) victory in Sunday's (25) election as \"definitive\" and \"surprising.\" The document, sent on Monday (26), states that voting was largely peaceful, despite public transportation disruptions and dif",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/10/us-embassy-in-brasilia-highlighted-lulas-definitive-victory-in-report.shtml",
+      "image": null,
+      "publishedAt": "2026-10-30T15:26:00.000Z",
+      "sample": false
+    },
     {
       "id": "792qf2",
-      "title": "Never Another Coup Attempt",
+      "title": "No More Coup Attempts",
       "summary": "Just when it seems the Bolsonaros have hit rock bottom in their efforts to undermine democracy, they sink even lower. Fl�vio, the PL candidate defeated in Sunday's election, fled the country and proclaimed himself Brazil's rightful president from a hideout in the United States, where he is suspected of being supported ",
       "category": "politics",
       "source": "folha",
@@ -25,9 +37,7 @@
       "image": null,
       "publishedAt": "2026-10-29T14:11:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "jhppti",
       "title": "International Left Adopts Playbook of Lula's Digital Strategist, Uses 'L' as Anti-Far-Right Symbol",
@@ -125,17 +135,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/lula-turns-election-around-defeats-flavio-bolsonaro-and-wins-unprecedented-fourth-term.shtml",
       "image": null,
       "publishedAt": "2026-10-26T01:23:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2z5ma1",
-      "title": "Three Days Before Runoff, Fl�vio and Lula Tied at 50% of Valid Votes, Datafolha Says",
-      "summary": "A Datafolha poll shows that, three days before the runoff, Fl�vio Bolsonaro (PL) and Lula (PT) are tied in the presidential race with 50% of valid votes each. The margin of error is two percentage points either way.\nLeia mais (10/23/2026 - 12h30)",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/10/three-days-before-runoff-flavio-and-lula-tied-at-50-of-valid-votes-datafolha-says.shtml",
-      "image": null,
-      "publishedAt": "2026-10-23T15:30:00.000Z",
       "sample": false
     }
   ],

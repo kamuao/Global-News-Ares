@@ -2,8 +2,197 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-10-30T12:29:03.897Z",
+  "updatedAt": "2026-10-31T17:57:23.759Z",
   "daily": [
+    {
+      "id": "y0hwgf",
+      "title": "Trump touted a record Venezuela oil deal. Now reality is setting in",
+      "summary": "Delivering on the ambition falls to North American Blue Energy Partners, a little-known firm led by Venezuelan businessman Alejandro Betancourt.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/31/venezuela-oil-trump-reality/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/thumbs/400x400/571599.jpg",
+      "publishedAt": "2026-10-31T08:13:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "egbwn7",
+      "title": "Trump administration approves potential Patriot missiles sale to Ukraine",
+      "summary": "The approval comes after weeks of complaints by Ukrainian authorities that its supplies of the interceptor missiles were dwindling.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/31/world/ukraine-patriot-missile-sale-approve/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/thumbs/400x400/571598.jpg",
+      "publishedAt": "2026-10-31T08:06:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3crw7k",
+      "title": "Scam centers relocated from Cambodia operate in Madagascar",
+      "summary": "Raids against online scam centers in Madagascar have exposed ties with a criminal group that ran similar operations in Cambodia.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/31/world/crime-legal/madagascar-scam-centers/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/thumbs/400x400/571592.jpg",
+      "publishedAt": "2026-10-31T07:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "wdctq2",
+      "title": "After Louvre heist and string of thefts, Europe’s smaller museums are on guard",
+      "summary": "Concerns are growing that criminals are increasingly targeting smaller institutions with fewer resources to protect valuable collections.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/31/world/crime-legal/europe-small-museums-theft-guard/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/thumbs/400x400/571593.jpg",
+      "publishedAt": "2026-10-31T07:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "cjxcsy",
+      "title": "U.S., South Korea and Japan vow ‘complete’ denuclearization of North Korea",
+      "summary": "The joint pledge comes as Pyongyang continues to reject disarmament ahead of possible talks with Washington.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/31/asia-pacific/politics/north-korea-denuclearization-vow/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/thumbs/400x400/571586.jpg",
+      "publishedAt": "2026-10-31T05:31:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lkjm13",
+      "title": "Doshisha chairman apologizes over fatal boat accident in Okinawa",
+      "summary": "Eiji Hatta, chairman of Doshisha's board of trustees, offered his \"deepest condolences\" at a news conference in Kyoto on Friday.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/31/japan/doshisha-head-apology/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/thumbs/400x400/571587.jpg",
+      "publishedAt": "2026-10-31T05:31:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "vtedre",
+      "title": "Binance hack exposes unsolvable crypto risk: disappearing money",
+      "summary": "The $6.3 billion cryptocurrency heist shows that however sophisticated the fortifications, high-tech criminals are still finding a way in.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/31/binance-hack-disappearing-money/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/thumbs/400x400/571581.jpg",
+      "publishedAt": "2026-10-31T02:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "aywgnr",
+      "title": "Crypto exchanges call for quick moves to bolster defenses after Binance heist",
+      "summary": "The $6.3 billion heist has exposed the vulnerabilities of crypto exchanges just as they become more embedded in mainstream finance.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/10/31/crypto-exchanges-defense-call/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/thumbs/400x400/571591.jpg",
+      "publishedAt": "2026-10-31T02:47:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fc9i90",
+      "title": "‘Breath of fresh air’ truce brings hope to Ukraine’s ravaged Kherson",
+      "summary": "The Russian army seized Kherson in 2022 and occupied it for eight months before Kyiv's forces took back control.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/31/world/ukraine-truce-hopes/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/thumbs/400x400/571585.jpg",
+      "publishedAt": "2026-10-31T02:45:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "802jni",
+      "title": "Seven years after fire, Okinawa’s Shuri Castle inches away from reopening",
+      "summary": "Final preparations are underway to reopen the main hall of the castle next month.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/31/japan/shuri-castle-reopen-november/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/thumbs/400x400/571588.jpg",
+      "publishedAt": "2026-10-31T02:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "a0e430",
+      "title": "Foreign ministry says 3,600 sets of personal information may have been leaked",
+      "summary": "The records contained names and email addresses, including those of some 900 individuals not employed by the ministry.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/31/japan/foreign-ministry-data-leak/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/thumbs/400x400/571589.jpg",
+      "publishedAt": "2026-10-31T02:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ywkrs7",
+      "title": "Japan considers paying low-income workers ¥5,000 through benefit program",
+      "summary": "Under the program, a fixed amount is expected to be given to people in work who earn ¥1.19 million or less annually.",
+      "category": "health",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/31/japan/japan-5000-benefit/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/thumbs/400x400/571590.jpg",
+      "publishedAt": "2026-10-31T02:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "p7rw59",
+      "title": "Japan demands release of national in meeting with Russia’s Lavrov",
+      "summary": "The rare high-level meeting between the two countries came amid strained ties over Ukraine and a long-running territorial dispute.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/31/japan/japan-russia-g20-meeting/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/thumbs/400x400/571578.jpg",
+      "publishedAt": "2026-10-31T02:32:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "faj581",
+      "title": "Japan pushes to remove Myanmar from global financial watchdog’s blacklist",
+      "summary": "The move is the latest sign that some major countries are looking to bring the pariah state's military-backed government in from the cold.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/31/japan/politics/japan-myanmar-blacklist-removal-push/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/thumbs/400x400/571577.jpg",
+      "publishedAt": "2026-10-31T02:16:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "jxy2uy",
+      "title": "Hegseth faces bipartisan push for his ouster after midterms",
+      "summary": "Democrats and some Republicans plan to zero in on Hegseth as they seek accountability for U.S. President Donald Trump's war in Iran.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/31/world/politics/hegseth-bipartisan-ouster-midterms/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/thumbs/400x400/571575.jpg",
+      "publishedAt": "2026-10-31T01:37:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ereomo",
+      "title": "Republicans are about to find out if their gerrymanders backfired",
+      "summary": "As analysts forecast a \"Blue Wave\" of support for Democrats, election watchers are weighing whether Republicans' efforts could backfire.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/10/31/world/politics/gerrymander-republicans/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/thumbs/400x400/571574.jpg",
+      "publishedAt": "2026-10-31T01:36:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6k7di4",
+      "title": "Ryu Murakami was a provocateur to the very end",
+      "summary": "The late author saw creativity and destruction as two sides of the same coin.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/culture/2026/10/31/books/ryu-murakami/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/31/thumbs/400x400/571576.jpg",
+      "publishedAt": "2026-10-30T23:00:00.000Z",
+      "sample": false
+    }
+  ],
+  "weekly": [
     {
       "id": "owpsvb",
       "title": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
@@ -61,7 +250,7 @@
     },
     {
       "id": "qa3hig",
-      "title": "Jordan Love tosses 3 TD passes as Packers beat Panthers",
+      "title": "Jordan Love tosses three TD passes as Packers beat Panthers",
       "summary": "Love completed 30 of 41 passes for 288 yards with one interception in addition to his three touchdowns.",
       "category": "politics",
       "source": "japan-times",
@@ -116,7 +305,7 @@
     },
     {
       "id": "mda5k4",
-      "title": "Japanese police arrest 6 men over scam from Vietnam",
+      "title": "Japanese police arrest six men over scam from Vietnam",
       "summary": "The Japanese suspects allegedly conspired to defraud a woman in her 20s in Yamaguchi Prefecture of ¥1 million earlier this year.",
       "category": "politics",
       "source": "japan-times",
@@ -146,195 +335,7 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571412.jpg",
       "publishedAt": "2026-10-30T05:25:00.000Z",
       "sample": false
-    },
-    {
-      "id": "q68cc5",
-      "title": "Japanese researchers discover protein that may shed light on fertility decline",
-      "summary": "The findings could give insight into why older people face higher risks of infertility, miscarriage and their children having chromosomal disorders.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/30/japan/science-health/protein-discovery-fertility/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571356.jpg",
-      "publishedAt": "2026-10-30T05:17:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "wpr8lt",
-      "title": "Is the viral book rave real? We go to the second event to investigate.",
-      "summary": "The Jucy Book Rave, which went viral for the unusual choice of reading place in a Shimokitazawa livehouse, came back with a second event.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/culture/2026/10/30/books/jucy-book-rave-tokyo-event/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571395.jpg",
-      "publishedAt": "2026-10-30T05:01:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "4sc9z0",
-      "title": "Koizumi vows to uphold ‘defense-oriented’ policy at ASEAN meet",
-      "summary": "The pledge comes as China continues to accuse Japan of \"accelerated remilitarization.\"",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/30/japan/koizumi-exclusively-defense-oriented-policy-japan-china/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571435.jpg",
-      "publishedAt": "2026-10-30T04:42:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "cu6hw8",
-      "title": "The naive case for deploying U.S. nuclear weapons to Japan",
-      "summary": "Bringing U.S. nuclear weapons into Japan won't help make the country more secure.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/commentary/2026/10/30/japan/japan-nuclear-naivete/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571026.jpg",
-      "publishedAt": "2026-10-30T04:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "s9hpxd",
-      "title": "Venezuela’s Rodríguez vows to hold election as Machado asks when",
-      "summary": "Interim head of state Delcy Rodriguez and Maria Corina Machado are expected to vie for the presidency in a future election.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/30/world/politics/venezuela-election-poser/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571428.jpg",
-      "publishedAt": "2026-10-30T04:06:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "op2kqj",
-      "title": "Generative AI reduces working hours for government staff, survey finds",
-      "summary": "Over 50% of the respondents said they were able to reduce working hours by at least one hour per week.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/30/japan/society/bureaucrats-working-hours-ai/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571380.jpg",
-      "publishedAt": "2026-10-30T03:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "xf73vm",
-      "title": "Private-sector council proposes use of forex surplus to cover fiscal measures",
-      "summary": "Funds are needed to cut the consumption tax rate on food to fight inflation, and to strengthen the country's defense capabilities.",
-      "category": "economy",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/30/economy/forex-account-surplus-financial-resources/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571365.jpg",
-      "publishedAt": "2026-10-30T03:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "3igrba",
-      "title": "Dressing as a nurse this Halloween? Adding a red cross breaks the law.",
-      "summary": "Often mistaken for a general symbol of medical care, the red cross is protected under the law and reserved for specific humanitarian purposes.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/30/japan/halloween-nurse-red-cross/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571361.jpg",
-      "publishedAt": "2026-10-30T03:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fyuss2",
-      "title": "Netanyahu bloc finishes ahead in Israel vote, but well short of majority",
-      "summary": "The results set the stage for tough coalition talks or potentially another vote.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/30/world/politics/netanyahu-no-majority-israel-election/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571378.jpg",
-      "publishedAt": "2026-10-30T03:27:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5lgx4d",
-      "title": "Africa making Olympic debut with 2026 Dakar Youth Games",
-      "summary": "Senegal is the first African country to host an Olympic sporting event.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/olympics/2026/10/30/dakar-youth-olympics-africa/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571400.jpg",
-      "publishedAt": "2026-10-30T03:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "1wiily",
-      "title": "BOJ holds rates steady and says inflation target has been reached",
-      "summary": "Consumer prices are now rising more than 2% a year, and in a way that suggests these gains are stable and sustainable.",
-      "category": "economy",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/30/economy/boj-rates-steady-inflation/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571379.jpg",
-      "publishedAt": "2026-10-30T03:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "qnu1qa",
-      "title": "Indonesia rain set to ease toxic haze in Singapore and Malaysia",
-      "summary": "The choking haze from Indonesia's worst fire season in years has cloaked local towns and drifted across neighboring countries for weeks.",
-      "category": "society",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/30/asia-pacific/science-health/indonesia-haze-rain/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571384.jpg",
-      "publishedAt": "2026-10-30T02:58:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "e2z1q9",
-      "title": "Japanese journalist arrested in Russia is a pawn, not a spy",
-      "summary": "Tokyo must disabuse Russian President Vladimir Putin of the belief that journalists are pawns to be played in the great power's game.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/editorials/2026/10/30/arrested-japanese-journalist-russian-pawn/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571416.jpg",
-      "publishedAt": "2026-10-30T02:58:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "14d7cz",
-      "title": "Google erases a record $500 billion as AI eats into sales",
-      "summary": "The company's reported disappointing search and advertising sales have reinforced investor concerns about AI's threat to its core business.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/30/companies/google-500-billion-wipeout/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571359.jpg",
-      "publishedAt": "2026-10-30T02:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "6esqx6",
-      "title": "Takaichi says electricity and gas subsidies will resume in December",
-      "summary": "The prime minister said the subsidies will be offered until February and could save people about ¥7,000 over the three months.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/10/30/economy/electricity-gas-subsidies-december/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571352.jpg",
-      "publishedAt": "2026-10-30T02:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "n2tmp9",
-      "title": "U.S. fires senior army general over alleged leaks: reports",
-      "summary": "Since returning to office early last year, Trump has overseen a purge of top military personnel, including the chairman of the Joint Chiefs of Staff.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/10/30/world/us-fires-general-over-leaks/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/571381.jpg",
-      "publishedAt": "2026-10-30T02:43:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rdv3sw",
-      "title": "AI is changing motherhood for the worse",
-      "summary": "The future is always unknown. Nearly half of moms expect AI will reduce their financial security and their children's.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/commentary/2026/10/30/world/ai-changing-motherhood/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/thumbs/400x400/568405.jpg",
-      "publishedAt": "2026-10-30T02:40:00.000Z",
-      "sample": false
     }
   ],
-  "weekly": [],
   "developing": []
 }
