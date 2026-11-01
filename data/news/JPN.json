@@ -2,7 +2,7 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-11-01T12:57:09.915Z",
+  "updatedAt": "2026-11-01T21:52:22.845Z",
   "daily": [
     {
       "id": "e0orft",
@@ -79,6 +79,17 @@
       "url": "https://www.japantimes.co.jp/news/2026/11/01/world/pompeii-cupboard-life-vesuvius/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/thumbs/400x400/571706.jpg",
       "publishedAt": "2026-11-01T07:44:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "usnd06",
+      "title": "How to improve global mineral governance",
+      "summary": "Global South countries should work together to ensure that mineral supply chains deliver equitable economic benefits and protect the environment.",
+      "category": "environment",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/11/01/world/improving-global-mineral-governance/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/thumbs/400x400/571526.jpg",
+      "publishedAt": "2026-11-01T07:20:00.000Z",
       "sample": false
     },
     {
@@ -203,6 +214,17 @@
       "sample": false
     },
     {
+      "id": "ju8jsp",
+      "title": "The sharing economy is catching up with Japan",
+      "summary": "Shinjuku is moving to restrict  minpaku  following a surge of complaints from Japanese residents about tourists causing noise and other issues.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/11/01/japan/japan-sharing-economy/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/thumbs/400x400/571162.jpg",
+      "publishedAt": "2026-11-01T01:44:00.000Z",
+      "sample": false
+    },
+    {
       "id": "do5qs8",
       "title": "Jose Mourinho says Real Madrid and Kylian Mbappe have moved on from China controversy",
       "summary": "Mourinho said that the club has nothing more to say.",
@@ -310,28 +332,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/11/01/world/politics/us-midterm-campaign-final-weekend/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/thumbs/400x400/571607.jpg",
       "publishedAt": "2026-10-31T23:39:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "llieb9",
-      "title": "FBI blames North Korea for $6 billion Binance crypto hack",
-      "summary": "Binance has said it will cover about 90% of the loss and plans to restore withdrawals, making progress on a pledge to fully reimburse customers.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/11/01/tech/binance-hack-fbi-north-korea/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/thumbs/400x400/571606.jpg",
-      "publishedAt": "2026-10-31T23:21:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "tjsamg",
-      "title": "Clashes break out as hundreds of thousands protest in France",
-      "summary": "More than 500 people were arrested as police fired water cannons and tear gas to disperse rioters on the sidelines of the demonstrations.",
-      "category": "society",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/01/world/clashes-protest-france/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/01/thumbs/400x400/571604.jpg",
-      "publishedAt": "2026-10-31T23:18:00.000Z",
       "sample": false
     }
   ],
