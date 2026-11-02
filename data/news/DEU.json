@@ -2,8 +2,52 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-01T21:52:20.349Z",
+  "updatedAt": "2026-11-02T05:19:48.919Z",
   "daily": [
+    {
+      "id": "x0ikw",
+      "title": "South Korea to pour billions into AI",
+      "summary": "South Korea to spend billions to strengthen the country's technological edge.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/south-korea-to-pour-billions-into-ai/a-79825118?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-02T05:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pwrawi",
+      "title": "Kimi Antonelli makes history as youngest F1 champion",
+      "summary": "Kimi Antonelli became Formula One's youngest world champion and Italy's first since 1953 when he finished third in Sunday's thrilling and crash-hit Mexico City Grand Prix.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-02T05:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "viudfh",
+      "title": "Ukraine, Russia report hacking attacks on emergency alert apps",
+      "summary": "Ukraine and Russia have both reported cyberattacks targeting applications used to send emergency alerts to the public. Meanwhile, Zelenskyy said Ukraine will stop refinery strikes if the US sends Patriot missiles.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-russia-report-hacking-attacks-on-emergency-alert-apps/live-79825079?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-02T02:48:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "vi0htn",
+      "title": "German police investigating after needles found in Halloween candy",
+      "summary": "German police said they received phone calls with reports about sharp objects concealed in Halloween candy.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/german-police-investigating-after-needles-found-in-halloween-candy/a-79825051?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-02T01:16:00.000Z",
+      "sample": false
+    },
     {
       "id": "ko6tr7",
       "title": "Russia's giant new radar in Kaliningrad raises alarm in NATO",
@@ -38,12 +82,12 @@
       "sample": false
     },
     {
-      "id": "962x3i",
-      "title": "Ukraine news: Oleshky ceasefire ends as Russian attacks leave tens of thousands without power",
-      "summary": "A US-brokered ceasefire in Ukraine's southern Kherson region ended on Sunday night with no violations reported. Elsewhere, however, Russia struck energy infrastructure in at least four other regions. DW has more.",
+      "id": "nxemgi",
+      "title": "Ukraine: Six-day localized ceasefire in Oleshky comes to end",
+      "summary": "A US-brokered ceasefire in Ukraine's southern Kherson region ended on Sunday night with no violations reported. But Russian airstrikes continued in other parts of Ukraine.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/ukraine-news-oleshky-ceasefire-ends-as-russian-attacks-leave-tens-of-thousands-without-power/live-79815409?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/ukraine-six-day-localized-ceasefire-in-oleshky-comes-to-end/live-79815409?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-01T14:13:00.000Z",
       "sample": false
@@ -137,17 +181,6 @@
       "sample": false
     },
     {
-      "id": "4x1214",
-      "title": "Bulgaria exit polls: Incumbent Yotova predicted to win",
-      "summary": "Incumbent President Iliana Yotova appears set to win Bulgaria's presidential election runoff. Exit polls put the more Russia-friendly candidate who favors dialogue with Moscow on just over 50% of the vote.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/bulgaria-exit-polls-incumbent-yotova-predicted-to-win/a-79820449?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-01T07:00:00.000Z",
-      "sample": false
-    },
-    {
       "id": "m1lw24",
       "title": "Bolivia declares emergency as El Nino intensifies, threatens severe weather",
       "summary": "President Rodrigo Paz warned of severe droughts and flooding as El Nino intensifies, with at least 78,000 families already affected by drought.",
@@ -157,7 +190,9 @@
       "image": null,
       "publishedAt": "2026-11-01T06:19:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "32la0n",
       "title": "Trump grants visa to mother of Ghanaian boy killed in NYC — Mamdani",
@@ -168,9 +203,7 @@
       "image": null,
       "publishedAt": "2026-11-01T03:12:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "npvfsp",
       "title": "Serbia after Vucic: The winners are losing patience",
@@ -202,17 +235,6 @@
       "url": "https://www.dw.com/en/germany-s-gen-z-protests-disrupted-by-violence-on-saturday/live-79814694?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-31T16:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "xgmm99",
-      "title": "Bollywood and the underworld — together in the spotlight?",
-      "summary": "A wave of shootings and extortion threats has rattled India's film industry. This time, those claiming responsibility are very different from the Mumbai underworld that had Bollywood in its grip back in the 1990s.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-31T07:26:00.000Z",
       "sample": false
     },
     {
