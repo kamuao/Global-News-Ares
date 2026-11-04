@@ -2,8 +2,30 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-11-04T14:04:09.140Z",
+  "updatedAt": "2026-11-04T23:26:39.512Z",
   "daily": [
+    {
+      "id": "fw99a5",
+      "title": "Texas turns blue in stunning rebuke of Donald Trump, Elon Musk and GOP",
+      "summary": "The party swept the governor's office, a U.S. Senate seat and every other statewide race in the U.S. midterm election.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/05/world/politics/texas-midterms-trump-musk-gop/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/thumbs/400x400/572331.jpg",
+      "publishedAt": "2026-11-04T22:14:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "240msx",
+      "title": "Beaten at home, Trump faces stark choice on Iran: deal or escalation",
+      "summary": "Facing a Democratic Congress able to constrain his military options, Trump greater incentive to seek a deal.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/05/world/politics/trump-midterms-iran-deal/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/05/thumbs/400x400/572329.jpg",
+      "publishedAt": "2026-11-04T22:11:00.000Z",
+      "sample": false
+    },
     {
       "id": "ub99b9",
       "title": "MUFG Emut Bank to operate without cash cards",
@@ -310,28 +332,6 @@
       "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/disaster-minister-kumamoto-visit/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572177.jpg",
       "publishedAt": "2026-11-04T01:45:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "92pkty",
-      "title": "Indonesia arrests chief of staff and top policemen for alleged wiretapping of president",
-      "summary": "The suspects are accused of illegally tapping phones of the president, journalists, politicians, business people and more from 2025 to this year.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/04/asia-pacific/politics/indonesia-wiretapping-president/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572185.jpg",
-      "publishedAt": "2026-11-04T01:43:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ssfrjo",
-      "title": "Bomb threats cause disruptions across Europe but no explosives found",
-      "summary": "No explosives were found, despite extensive searches on the ground after the planes all took off and landed safely in different European cities.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/04/world/crime-legal/bomb-threats-flights-cruise-europe/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572166.jpg",
-      "publishedAt": "2026-11-04T01:24:00.000Z",
       "sample": false
     }
   ],

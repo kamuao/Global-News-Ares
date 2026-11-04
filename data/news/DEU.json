@@ -2,15 +2,158 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-04T14:04:06.221Z",
+  "updatedAt": "2026-11-04T23:26:37.048Z",
   "daily": [
     {
-      "id": "66xoxw",
-      "title": "Opposition growing to CAS-ordered Russia ice hockey reinstatement",
+      "id": "cuw2al",
+      "title": "Democrats take House and Senate from Republicans in US midterm rout",
+      "summary": "Democrats will control both chambers of Congress after flipping seats in Republican strongholds across the US in an election seen as a repudiation of President Donald Trump.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/democrats-take-house-and-senate-from-republicans-in-us-midterm-rout/a-79859416?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-04T23:04:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "jictg1",
+      "title": "Bavarian politician Hubert Aiwanger found dead in Berlin hotel",
+      "summary": "Aiwanger was Bavaria's Economy Minister and the chairman of the right-wing populist Free Voters party. The circumstances surrounding his death are still unclear.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/bavarian-politician-hubert-aiwanger-found-dead-in-berlin-hotel/a-79859115?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-04T21:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "l5d682",
+      "title": "Winners, losers, the EU: Five takeaways from the US midterms",
+      "summary": "Donald Trump's Republicans suffered a crushing defeat in Tuesday's midterm elections, with the Democrats wresting control of Congress. What does this mean for US politics and the world?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/winners-losers-the-eu-five-takeaways-from-the-us-midterms/a-79858901?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-04T20:27:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fsyid7",
+      "title": "36 years later: Hungary opens Communist-era secret service files",
+      "summary": "Decades after the end of Soviet rule, Hungary is releasing all its secret service files. The disclosure is sparking fresh debate about informants, guilt and responsibility.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/36-years-later-hungary-opens-communist-era-secret-service-files/a-79858016?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-04T19:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "8deqpn",
+      "title": "Fact check: Examining viral narratives after the US midterm elections",
+      "summary": "As Democrats celebrate major gains, false claims about election fraud have spread. Viral posts alleging illegal voting and election rigging are intended to fuel doubt about the integrity of the vote. DW checks the facts.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/fact-check-examining-viral-narratives-after-the-us-midterm-elections/a-79851311?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-04T18:45:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "gd92tg",
+      "title": "French blood banks targeted by refrigerator cyberattack",
+      "summary": "A cyberattack had attempted to destroy blood plasma by raising the temperatures in cold storage facilities past the boiling point.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/french-blood-banks-targeted-by-refrigerator-cyberattack/a-79857981?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-04T17:57:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "bl8mf2",
+      "title": "The 2011 discovery of neo-Nazi killers aired biases in German policing",
+      "summary": "Many questions still surround the National Socialist Underground whose existence was revealed by neo-Nazi terrorist Beate Zschäpe on November 4, 2011. How has German society reacted to NSU crimes? Has justice been done?",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/the-2011-discovery-of-neo-nazi-killers-aired-biases-in-german-policing/a-79857781?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-04T17:16:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "gp7qc6",
+      "title": "Kosovo: Outrage as authorities accused of not helping femicide victim",
+      "summary": "Despite reporting her husband to the police and pleading for protection, Arlinda Zekaj was brutally murdered. Now, thousands in Kosovo are protesting what they say is a dramatic failure of state institutions.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/kosovo-outrage-as-authorities-accused-of-not-helping-femicide-victim/a-79856726?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-04T16:17:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "kp5aiy",
+      "title": "Gold for Palestine: Meet junior karate champ Mariam Bsharat",
+      "summary": "The occupied West Bank is not an obvious breeding ground for sporting success. But Mariam Bsharat, 17, has beaten the odds to become a karate world champion and is making a new life in Germany.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/gold-for-palestine-meet-junior-karate-champ-mariam-bsharat/a-79851806?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-04T15:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3z4zt1",
+      "title": "Africa's shifting role in the global drug trade",
+      "summary": "Recent discoveries of meth labs suggest parts of Africa are moving beyond drug transit and becoming sites of synthetic drug production.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/africa-s-shifting-role-in-the-global-drug-trade/a-79847720?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-04T15:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "x3i5ry",
+      "title": "Harry Potter films turns 25 ahead of new TV series' release",
+      "summary": "In 2001, \"Harry Potter and the Sorcerer's Stone\" hit cinemas and took the world by storm. Today, anticipation for the new series is high, but its creator, J.K. Rowling, remains a controversial figure.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/harry-potter-films-turns-25-ahead-of-new-tv-series-release/a-79856130?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-04T15:14:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "217dcl",
+      "title": "What the Democrats' midterms win means for the US economy and Trump",
+      "summary": "From high oil prices and data centers to tariffs and mounting debt, economic concerns played a key role in the crushing defeat of President Donald Trump's Republicans. So can the Democrats now make a difference?",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-04T15:09:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "2u1yu4",
+      "title": "EU says Montenegro on track to become bloc's next member state by 2028",
+      "summary": "Brussels says Montenegro is likely to become the EU's 28th member state, followed by Albania and Moldova. It said Ukraine needed to speed up reforms and offered fresh hope to Serbia following elections last month.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/eu-says-montenegro-on-track-to-become-bloc-s-next-member-state-by-2028/a-79855011?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-04T14:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6rmo6z",
+      "title": "Leading ice hockey nations, sponsors oppose Russia's return",
       "summary": "Ice hockey's governing body says the impact of a court decision forcing it to reinstate Russia presents \"significant practical and sporting challenges.\" Several leading nations say they won't play against Russian teams.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/opposition-growing-to-cas-ordered-russia-ice-hockey-reinstatement/a-79853742?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/leading-ice-hockey-nations-sponsors-oppose-russia-s-return/a-79853742?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-04T13:27:00.000Z",
       "sample": false
@@ -38,12 +181,12 @@
       "sample": false
     },
     {
-      "id": "b7lq8t",
-      "title": "US midterms: Democrats win House and Senate from Republicans",
-      "summary": "The Democratic Party gained control of the House and Senate, delivering a stinging rebuke to US President Donald Trump and his Republican Party. Follow DW's live updates.",
-      "category": "politics",
+      "id": "fcgo8",
+      "title": "Trump says 'largely true' Iran war led to Republicans midterm loss",
+      "summary": "After Democrats won both the House and Senate in a blowout for Republicans, President Trump admitted fuel prices brought on by the Iran war impacted the outcome, but stuck by his decision.",
+      "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/us-midterms-democrats-win-house-and-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/trump-says-largely-true-iran-war-led-to-republicans-midterm-loss/live-79829440?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-04T12:45:00.000Z",
       "sample": false
@@ -60,12 +203,12 @@
       "sample": false
     },
     {
-      "id": "xhohc4",
-      "title": "Wawira Njirum, Kenya's school feeder and German Africa Prize recipient",
+      "id": "2z0qg7",
+      "title": "Wawira Njiru, Kenya's school feeder and German Africa Prize recipient",
       "summary": "From a small fundraiser to a major enterprise, Wawira Njiru's Kenyan school feeding scheme has been more successful than she ever thought possible. She's now being awarded the German Africa Prize.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/wawira-njirum-kenya-s-school-feeder-and-german-africa-prize-recipient/a-79646537?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/wawira-njiru-kenya-s-school-feeder-and-german-africa-prize-recipient/a-79646537?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-04T10:53:00.000Z",
       "sample": false
@@ -93,50 +236,6 @@
       "sample": false
     },
     {
-      "id": "fvkkwm",
-      "title": "South Africans vote in local elections in test for ANC",
-      "summary": "Failing public services, corruption and high crime rates have led to growing frustration among South African voters. That could lead to further losses for the ANC.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/south-africans-vote-in-local-elections-in-test-for-anc/a-79851651?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-04T10:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ay6upq",
-      "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
-      "summary": "Donald Trump's Republicans will no longer control the US Congress after the Democrats flipped both chambers in the midterm elections. The outcome could impact conflicts in Europe and the Middle East.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-04T08:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bf5bpo",
-      "title": "US midterm election results: Democrats flip House and Senate. Here's what else the data tells us",
-      "summary": "Democrats have won the majority in both House and Senate. Vote counts are still ongoing. DW takes a look at who voted Republican, who voted Democrat and what it all means.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-midterm-election-results-democrats-flip-house-and-senate-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-04T06:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "hm79lr",
-      "title": "India news: Election body opens door for voter reinclusion",
-      "summary": "The Indian poll body said no action will be taken against deleted voters for using Form 6 for re-enrolment in voter rolls. Follow DW for more.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-election-body-opens-door-for-voter-reinclusion/live-79849888?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-04T05:58:00.000Z",
-      "sample": false
-    },
-    {
       "id": "okx9fb",
       "title": "From rotten food to political opponents: Researchers explore how disgust relates to our beliefs, and why the connection is complicated",
       "summary": "Some studies have linked disgust sensitivity to socially conservative attitudes. But does disgust shape our politics, or do our beliefs shape what we find disgusting?",
@@ -146,84 +245,9 @@
       "image": null,
       "publishedAt": "2026-11-04T05:19:00.000Z",
       "sample": false
-    },
-    {
-      "id": "p5tc8d",
-      "title": "US to cut nearly $4 billion in Israel military aid, Trump says",
-      "summary": "President Donald Trump said that the United States would still sell weapons to Israel. He added that Democratic candidates were using US military support for Israel against Republicans in the midterm elections.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-04T00:21:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8tz3r8",
-      "title": "Spain transport minister offers resignation in wake of train accident",
-      "summary": "After two deadly train crashes this year, Spanish Transport Minister Oscar Puente has said he will step down.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-03T20:41:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "r2rser",
-      "title": "Greenland's parliament ratifies Trump's US security agreement",
-      "summary": "The US is set to expand its military footprint on the Arctic island, part of the Kingdom of Denmark. It follows pressure from Donald Trump earlier in the year which opened a major rift in the transatlantic alliance.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/greenland-s-parliament-ratifies-trump-s-us-security-agreement/a-79847399?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-03T20:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "q5vm3d",
-      "title": "UK's King Charles III decries 'monstrous injustice' of slave trade",
-      "summary": "King Charles has told leaders at a Commonwealth summit that the legacy of the transatlantic slave trade \"fills my heart with horror.\" He did not address calls for apologies and reparations.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/uk-s-king-charles-iii-decries-monstrous-injustice-of-slave-trade/a-79845889?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-03T18:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "pvxpcj",
-      "title": "Why South Africa's local elections matter",
-      "summary": "South Africans head to the polls on Wednesday amid water shortages, frustration with local services and questions over whether the ANC's support will keep falling.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/why-south-africa-s-local-elections-matter/a-79842695?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-03T15:06:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "tzwsyj",
-      "title": "Ukraine war: Merz doubts Russia is serious about a truce",
-      "summary": "German Chancellor Friedrich Merz met with Volodymyr Zelenskyy in Berlin. Both leaders said the EU needs to be included in peace talks with Russia. Merz also expressed doubts that Russia is serious about seeking a truce.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ukraine-war-merz-doubts-russia-is-serious-about-a-truce/a-79836026?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-03T15:04:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "m99clc",
-      "title": "China and India achieved diplomatic thaw. Now the border is flaring up",
-      "summary": "Indian authorities have confirmed a new border \"face-off\" between Indian and Chinese troops in Arunachal Pradesh, raising questions about the still fragile thaw in relations between New Delhi and Beijing.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/china-and-india-achieved-diplomatic-thaw-now-the-border-is-flaring-up/a-79843273?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-03T14:48:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "lwozni",
       "title": "How Berlin's Arab queers are building their community",
@@ -256,9 +280,7 @@
       "image": null,
       "publishedAt": "2026-11-03T14:18:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "pnntit",
       "title": "Football: Spanish player dies on after cardiac arrest on the pitch",
@@ -620,17 +642,6 @@
       "url": "https://www.dw.com/en/bayern-munich-head-coach-vincent-kompany-s-health-scare-highlights-the-need-for-better-support-for-elite-coaches/a-79764661?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-29T07:43:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5dfg08",
-      "title": "Evacuation from Oleshky: How are preparations going?",
-      "summary": "A lawyer with the Save Ukraine Foundation, Myroslava Kharchenko, told DW about what has been happening in Russian-occupied Oleshky since a temporary ceasefire brokered by Melania Trump took effect.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-28T17:04:00.000Z",
       "sample": false
     }
   ],
