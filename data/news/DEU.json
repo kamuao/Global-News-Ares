@@ -2,8 +2,173 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-03T13:54:04.327Z",
+  "updatedAt": "2026-11-04T05:39:30.075Z",
   "daily": [
+    {
+      "id": "xg7e4m",
+      "title": "US midterm election results: Democrats win crucial seats. Here's what else the data tells us",
+      "summary": "Democrats have won the majority in the US Senate. House of Representatives votes are still being counted. DW takes a look at who voted Republican, who voted Democrat and what it all means.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-midterm-election-results-democrats-win-crucial-seats-here-s-what-else-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-04T05:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "okx9fb",
+      "title": "From rotten food to political opponents: Researchers explore how disgust relates to our beliefs, and why the connection is complicated",
+      "summary": "Some studies have linked disgust sensitivity to socially conservative attitudes. But ahead of the US midterm elections, does disgust shape our politics, or do our beliefs shape what we find disgusting?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/from-rotten-food-to-political-opponents-researchers-explore-how-disgust-relates-to-our-beliefs-and-why-the-connection-is-complicated/a-79734659?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-04T05:19:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ycxerl",
+      "title": "US midterms: Democrats gain control of Senate from Republicans",
+      "summary": "The Democratic Party gained control of Senate, delivering a stinging rebuke to US President Donald Trump and his Republican Party. Follow DW's live updates.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-midterms-democrats-gain-control-of-senate-from-republicans/live-79829440?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-04T04:47:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "p5tc8d",
+      "title": "US to cut nearly $4 billion in Israel military aid, Trump says",
+      "summary": "President Donald Trump said that the United States would still sell weapons to Israel. He added that Democratic candidates were using US military support for Israel against Republicans in the midterm elections.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-to-cut-nearly-4-billion-in-israel-military-aid-trump-says/a-79848860?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-04T00:21:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "8tz3r8",
+      "title": "Spain transport minister offers resignation in wake of train accident",
+      "summary": "After two deadly train crashes this year, Spanish Transport Minister Oscar Puente has said he will step down.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-03T20:41:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "r2rser",
+      "title": "Greenland's parliament ratifies Trump's US security agreement",
+      "summary": "The US is set to expand its military footprint on the Arctic island, part of the Kingdom of Denmark. It follows pressure from Donald Trump earlier in the year which opened a major rift in the transatlantic alliance.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/greenland-s-parliament-ratifies-trump-s-us-security-agreement/a-79847399?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-03T20:08:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "q5vm3d",
+      "title": "UK's King Charles III decries 'monstrous injustice' of slave trade",
+      "summary": "King Charles has told leaders at a Commonwealth summit that the legacy of the transatlantic slave trade \"fills my heart with horror.\" He did not address calls for apologies and reparations.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/uk-s-king-charles-iii-decries-monstrous-injustice-of-slave-trade/a-79845889?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-03T18:08:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pvxpcj",
+      "title": "Why South Africa's local elections matter",
+      "summary": "South Africans head to the polls on Wednesday amid water shortages, frustration with local services and questions over whether the ANC's support will keep falling.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/why-south-africa-s-local-elections-matter/a-79842695?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-03T15:06:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "tzwsyj",
+      "title": "Ukraine war: Merz doubts Russia is serious about a truce",
+      "summary": "German Chancellor Friedrich Merz met with Volodymyr Zelenskyy in Berlin. Both leaders said the EU needs to be included in peace talks with Russia. Merz also expressed doubts that Russia is serious about seeking a truce.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-war-merz-doubts-russia-is-serious-about-a-truce/a-79836026?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-03T15:04:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "m99clc",
+      "title": "China and India achieved diplomatic thaw. Now the border is flaring up",
+      "summary": "Indian authorities have confirmed a new border \"face-off\" between Indian and Chinese troops in Arunachal Pradesh, raising questions about the still fragile thaw in relations between New Delhi and Beijing.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/china-and-india-achieved-diplomatic-thaw-now-the-border-is-flaring-up/a-79843273?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-03T14:48:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "lwozni",
+      "title": "How Berlin's Arab queers are building their community",
+      "summary": "As the co-founder of the ADIRA Drag Festival, Lebanese performance artist, drag performer, DJ and cultural organizer Hassandra has become an essential part of Berlin's queer artistic landscape.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/how-berlin-s-arab-queers-are-building-their-community/a-79833143?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-03T14:37:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "cehznd",
+      "title": "Cyprus: From ties with Russia to a strategic alignment with the US",
+      "summary": "The Republic of Cyprus long balanced ties between Russia and the West. Now, it is phasing out Russian weapons, expanding defense cooperation with the United States and redefining its place in the Eastern Mediterranean.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/cyprus-from-ties-with-russia-to-a-strategic-alignment-with-the-us/a-79841251?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-03T14:28:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ay6upq",
+      "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
+      "summary": "Donald Trump's Republicans control the US Congress, but that could change after the midterm elections. The outcome of the ballot will not only impact domestic policy but also conflicts in Europe and the Middle East.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-03T14:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "4q1lpx",
+      "title": "Multiple flights to European airports targeted by bomb threats",
+      "summary": "The bomb threats involved two passenger planes bound for Warsaw, a Ryanair flight from London to Spain, two flights to Rome and a flight traveling from Israel to the Bulgarian capital, Sofia. No explosives were found.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/multiple-flights-to-european-airports-targeted-by-bomb-threats/a-79842434?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-03T14:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ov5qub",
+      "title": "Yemen: Houthi clashes near Taiz leave residents in a 'state of panic'",
+      "summary": "Fighting between Iran-backed Houthi rebels and Yemeni government forces has intensified around the city of Taiz. Residents face growing shortages of food, water and medical supplies as thousands flee their homes.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/yemen-houthi-clashes-near-taiz-leave-residents-in-a-state-of-panic/a-79836913?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-03T14:18:00.000Z",
+      "sample": false
+    },
     {
       "id": "lfarx6",
       "title": "Can US midterm election really change Trump's Iran policy?",
@@ -18,23 +183,12 @@
     {
       "id": "pnntit",
       "title": "Football: Spanish player dies on after cardiac arrest on the pitch",
-      "summary": "Tenerife forward Jesus de Miguel has died following a collision with the opposing goalkeeper. The Spanish second division club has said it is \"heartbroken\" at the loss.",
+      "summary": "Tenerife forward Jesus de Miguel has died following a collision with the opposing goalkeeper. The Spanish second-division club has said it is \"heartbroken\" by the loss.",
       "category": "military",
       "source": "dw",
       "url": "https://www.dw.com/en/football-spanish-player-dies-on-after-cardiac-arrest-on-the-pitch/a-79839398?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-03T11:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "kw9xd0",
-      "title": "Zelenskyy arrives in Berlin for talks with Merz on air defense and energy support ahead of US-led negotiations with Russia",
-      "summary": "Ukrainian President Volodymyr Zelenskyy has arrived in Berlin for talks with German Chancellor Friedrich Merz. Kyiv is seeking more air defense missiles and help keeping its energy system running through winter.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/zelenskyy-arrives-in-berlin-for-talks-with-merz-on-air-defense-and-energy-support-ahead-of-us-led-negotiations-with-russia/a-79836026?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-03T11:44:00.000Z",
       "sample": false
     },
     {
@@ -49,34 +203,23 @@
       "sample": false
     },
     {
-      "id": "95c15q",
-      "title": "How AI giants could raise the cost of borrowing in Europe",
+      "id": "lnoeuk",
+      "title": "Could the AI boom make borrowing more expensive in Europe?",
       "summary": "France, Germany and Italy face a volatile bond market as war inflation bites. With US tech giants now issuing billions in AI bonds, they are competing with cash-strapped European governments.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/how-ai-giants-could-raise-the-cost-of-borrowing-in-europe/a-79511985?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/could-the-ai-boom-make-borrowing-more-expensive-in-europe/a-79511985?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-03T10:27:00.000Z",
       "sample": false
     },
     {
-      "id": "5k72v7",
-      "title": "US midterms: Americans vote in polls seen as referendum on Trump",
-      "summary": "The crucial midterms will determine how much power President Donald Trump has to make changes in the last two years of his term. Follow DW's live updates.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-midterms-americans-vote-in-polls-seen-as-referendum-on-trump/live-79829440?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-03T10:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "3h87mb",
-      "title": "US midterm election: How it works, why it's important and races to watch",
+      "id": "11z1z5",
+      "title": "US midterm election: Why it's important and races to watch",
       "summary": "US voters are electing a new Congress. The results will be decisive for the future of the United States, and a judgment on Donald Trump's second term as president.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/us-midterm-election-how-it-works-why-it-s-important-and-races-to-watch/a-79789932?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/us-midterm-election-why-it-s-important-and-races-to-watch/a-79789932?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-03T08:05:00.000Z",
       "sample": false
@@ -84,102 +227,16 @@
     {
       "id": "6epp10",
       "title": "Germany news: Ukraine in focus at Berlin Security Conference",
-      "summary": "A security conference in the German capital is to examine ways of defending against threats from Russia. The justice minister has put forward a bill that would raise penalties for sexual offenses. DW has more.",
-      "category": "military",
+      "summary": "A security conference in the German capital is addressing defending Europe against threats from Russia. Meanwhile, Germany's justice minister wants to raise penalties for sexual offenses. DW has more.",
+      "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/germany-news-ukraine-in-focus-at-berlin-security-conference/live-79835322?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-03T07:00:00.000Z",
       "sample": false
-    },
-    {
-      "id": "vq8ei2",
-      "title": "India news: Cyclone Murasu wreaks havoc after landfall",
-      "summary": "Cyclone Murasu made landfall in Andhra Pradesh, leaving a trail of destruction. Weather agencies have warned of heavy rainfall in the next 12 hours. Follow DW for more.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-cyclone-murasu-wreaks-havoc-after-landfall/live-79835410?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-03T06:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "hb688d",
-      "title": "North Korea denies role in record Binance hack, calls US charge 'provocation'",
-      "summary": "Kim Yo Jong dismissed FBI claims that North Korean hackers stole more than $6 billion from Binance, as the exchange began reopening withdrawals on more networks.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/north-korea-denies-role-in-record-binance-hack-calls-us-charge-provocation/a-79835321?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-03T05:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "f70irp",
-      "title": "US: Trump labels Democrats 'dangerous' ahead of midterms",
-      "summary": "US President Donald Trump said the Democrats nominated \"the most extreme and dangerous\" candidates in US history in the midterms. He also lowered expectations by saying a sitting president \"doesn't win\" the midterms.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-trump-labels-democrats-dangerous-ahead-of-midterms/a-79834945?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-02T23:37:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "3kqsz2",
-      "title": "Supreme Court rejects Trump bid to block 20,000 California ballots",
-      "summary": "The Trump administration had appealed to the Supreme Court over claims that a list of more than 20,000 ballots in California include non-US citizens.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-02T23:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "oz78k6",
-      "title": "Ukraine: At least 26 killed in Russian strikes on aid center",
-      "summary": "At least 26 people were killed in Russian airstrikes on a school that was serving as an aid distribution center in Zaporizhzhia, a southern Ukrainian region.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ukraine-at-least-26-killed-in-russian-strikes-on-aid-center/live-79825079?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-02T21:59:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "du87gp",
-      "title": "US to drop South Africa, Rwanda from duty-free trade initiative",
-      "summary": "The Trump administration has said South Africa and Rwanda are breaking the rules of the AGOA free trade initiative, a centerpiece of US economic engagement with sub-Saharan Africa.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-02T21:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "vy8rpn",
-      "title": "France: Petition to ban TV channel gets 500,000 signatures",
-      "summary": "Support for the petition has surged since last month's shooting of a Black man by a reported avid viewer of CNews. Critics say the channel, often compared to Fox News, is a platform for anti-immigrant sentiments.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/france-petition-to-ban-tv-channel-gets-500-000-signatures/a-79833215?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-02T18:05:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "p8nex1",
-      "title": "What might Trump have planned for Iran following the midterm election?",
-      "summary": "While the US midterms could open a window for diplomacy with Iran, they could also unleash a new military escalation. DW spoke with analysts to identify eight factors that could tip the balance toward war or peace.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/what-might-trump-have-planned-for-iran-following-the-midterm-election/a-79831816?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-02T15:41:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "mm3xsg",
       "title": "Ice hockey officials considering options after CAS order to reinstate Russia",
@@ -192,17 +249,6 @@
       "sample": false
     },
     {
-      "id": "xvalho",
-      "title": "European supermarkets targeted in second reported cyberattack",
-      "summary": "Supermarkets across Europe have been targeted in cyberattacks once again. Three weeks after a defrosting attack in France, supermarkets in Belgium, Estonia, Ireland, Luxembourg and Sweden reported freezer malfunctions.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/european-supermarkets-targeted-in-second-reported-cyberattack/a-79831139?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-02T14:31:00.000Z",
-      "sample": false
-    },
-    {
       "id": "a0bqy",
       "title": "LA communities kick out Big Oil",
       "summary": "After years of advocacy from residents and legal battles with Big Oil, Los Angeles voted to ban drilling and phase out oil extraction in the city. It's the first city in the United States to kick the oil industry out.",
@@ -211,19 +257,6 @@
       "url": "https://www.dw.com/en/la-communities-kick-out-big-oil/a-79830843?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-02T14:21:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "srt3l7",
-      "title": "Germany's chancellor called for Korean unity. Does Seoul want that?",
-      "summary": "Germany, like Korea, was once divided by rival political systems and by one of the world's most fortified borders. Chancellor Merz called for a reunified Korea during his recent visit — but the prospect seems faint.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-s-chancellor-called-for-korean-unity-does-seoul-want-that/a-79830111?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-02T12:51:00.000Z",
       "sample": false
     },
     {
@@ -598,17 +631,6 @@
       "url": "https://www.dw.com/en/serbian-police-shoot-dead-assailant-at-israeli-embassy/a-79782905?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-28T08:48:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "pnf5yn",
-      "title": "Harry Kane: Ballon d’Or for Bayern Munich striker",
-      "summary": "Bayern Munich striker Harry Kane has won football's most prestigious individual prize, beating Kylian Mbappe and Lamine Yamal. Kane has developed even more in the Bundesliga despite an uneven league.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/harry-kane-ballon-d-or-for-bayern-munich-striker/a-79723299?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-27T14:11:00.000Z",
       "sample": false
     }
   ],
