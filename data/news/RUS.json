@@ -2,11 +2,231 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-11-04T05:39:31.331Z",
+  "updatedAt": "2026-11-04T14:04:07.735Z",
   "daily": [
     {
+      "id": "m1yq69",
+      "title": "Democratic win and Trump’s reaction to outcome of midterm Congressional election",
+      "summary": "Only 35 out of 100 Senate seats and all 435 seats in the House were contested on Tuesday when a gubernatorial election across 36 states was also held",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2212917",
+      "image": null,
+      "publishedAt": "2026-11-04T13:55:36.000Z",
+      "sample": false
+    },
+    {
+      "id": "tat48b",
+      "title": "Gold prices rise by 3%",
+      "summary": "As of 3:32 p.m. Moscow time, the precious metal was trading at $4,062.20 per troy ounce",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/economy/2212915",
+      "image": null,
+      "publishedAt": "2026-11-04T13:51:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1yq5e",
+      "title": "Virtually all US elites seek to isolate Russia, contain China, expand NATO — expert",
+      "summary": "Changes in the composition of the [US] Congress could have only a marginal effect via budget appropriations and confirmation of senior appointees, the political analyst argued",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2212907",
+      "image": null,
+      "publishedAt": "2026-11-04T13:36:33.000Z",
+      "sample": false
+    },
+    {
+      "id": "iu3rfo",
+      "title": "Kremlin Hopes Trump Will Continue ‘Peacemaking’ Efforts in Ukraine as Democrats Win Control of Congress",
+      "summary": "“President Trump will continue his term, and we sincerely count on him continuing his peacemaking efforts,” spokesman Dmitry Peskov said.",
+      "category": "politics",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/11/04/kremlin-hopes-trump-will-continue-peacemaking-efforts-in-ukraine-as-democrats-win-control-of-congress-a94177",
+      "image": null,
+      "publishedAt": "2026-11-04T13:33:51.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1yq58",
+      "title": "CSTO may weigh invoking Article 25 of its charter against Armenia — chief",
+      "summary": "Armenian Foreign Minister Ararat Mirzoyan stated that Yerevan saw no possibility of returning to the CSTO",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2212901",
+      "image": null,
+      "publishedAt": "2026-11-04T13:10:39.000Z",
+      "sample": false
+    },
+    {
+      "id": "rog46c",
+      "title": "Kremlin says hopefully Trump will continue his Ukraine peace push post election",
+      "summary": "Peskov refused to speculate on whether Congress may block the US’s leader peace efforts, saying",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2212883",
+      "image": null,
+      "publishedAt": "2026-11-04T12:09:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1ypko",
+      "title": "Trump says no need to use nukes against Iran",
+      "summary": "\"We've knocked them out already 90%,\" US President told Politico in a phone interview",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2212875",
+      "image": null,
+      "publishedAt": "2026-11-04T12:06:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "lctio7",
+      "title": "Turkish Police Detain Dozens of Russian Women in Ankara Nightclub Raids",
+      "summary": "The Russian Embassy in Turkey told state media that it was still trying to find out why Turkish law enforcement detained the 34 women late last month.",
+      "category": "politics",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/11/04/turkish-police-detain-dozens-of-russian-women-in-ankara-nightclub-raids-a94176",
+      "image": null,
+      "publishedAt": "2026-11-04T11:53:09.000Z",
+      "sample": false
+    },
+    {
+      "id": "et9glo",
+      "title": "Russia Hikes Tariffs on Spirits From ‘Unfriendly’ Countries",
+      "summary": "The 35% import duty applies to whiskey, rum, gin, liqueurs, brandies, tinctures and undenatured ethyl alcohol, with a minimum tariff of 5 euros.",
+      "category": "economy",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/11/04/russia-hikes-tariffs-on-spirits-from-unfriendly-countries-a94175",
+      "image": null,
+      "publishedAt": "2026-11-04T11:15:45.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1ypjx",
+      "title": "Outcome of US midterms unlikely to affect situation around Ukraine — analyst",
+      "summary": "\"I don’t think there’ll be any significant change,\" blogger Andrew Napolitano said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2212869",
+      "image": null,
+      "publishedAt": "2026-11-04T11:07:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "tat3lz",
+      "title": "Baltic states, Poland urge EU members to terminate investment treaties with Russia",
+      "summary": "The continued validity of bilateral investment treaties that establish mutually agreed rules governing the investment environment between the parties \"poses a threat to the EU’s economic security as a whole,\" Estonia’s MFA argued",
+      "category": "environment",
+      "source": "tass",
+      "url": "https://tass.com/economy/2212867",
+      "image": null,
+      "publishedAt": "2026-11-04T10:40:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "j462yh",
+      "title": "Russian forces strike transport infrastructure facilities used by Ukrainian army",
+      "summary": "Russian forces struck assembly and storage sites for Ukrainian ground robotic systems and UAVs",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2212865",
+      "image": null,
+      "publishedAt": "2026-11-04T10:35:23.000Z",
+      "sample": false
+    },
+    {
+      "id": "xb2bn7",
+      "title": "Russia Will Not Compete at World Junior Hockey Championship in Canada, PM Carney Says",
+      "summary": "\"While Russia and Belarus are supporting this illegal, unjustified, horrific war in Ukraine, as long as that's going on, there will be none of those athletes competing for their countries in Canada,\" Mark Carney said.",
+      "category": "military",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/11/04/russia-will-not-compete-at-world-junior-hockey-championship-in-canada-pm-carney-says-a94174",
+      "image": null,
+      "publishedAt": "2026-11-04T10:12:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "rog43r",
+      "title": "Russian, Kazakh defense ministers sign cooperation plan for 2027",
+      "summary": "Earlier, the Russian defense minister, currently on a working visit to Kazakhstan, held talks with the republic’s defense chief",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2212853",
+      "image": null,
+      "publishedAt": "2026-11-04T09:30:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "r1cuzh",
+      "title": "Ukrainian Drone Attack Sparks Fire at Ozon Warehouse in Adygea",
+      "summary": "The e-commerce giant said it “promptly evacuated all workers” from the facility in the town of Adygeysk, adding that no one was hurt.",
+      "category": "military",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/11/04/ukrainian-drone-attack-sparks-fire-at-ozon-warehouse-in-adygea-a94173",
+      "image": null,
+      "publishedAt": "2026-11-04T09:25:33.000Z",
+      "sample": false
+    },
+    {
+      "id": "2s5zkr",
+      "title": "U.S. Will Drop Smuggling Charges Against Russian-Born Harvard Medical School Scientist",
+      "summary": "Prosecutors dropped the charges after a federal judge cleared the way for Kseniia Petrova to obtain evidence supporting her claim that she was being vindictively prosecuted.",
+      "category": "society",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/11/04/us-will-drop-smuggling-charges-against-russian-born-harvard-medical-school-scientist-a94172",
+      "image": null,
+      "publishedAt": "2026-11-04T08:22:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "j46303",
+      "title": "Bus driver killed in yesterday’s enemy drone attack on gas station in DPR",
+      "summary": "Other bus drivers, men born in 1970, 1969 and 1965, suffered moderate injuries",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/defense/2212849",
+      "image": null,
+      "publishedAt": "2026-11-04T07:45:36.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1ypi5",
+      "title": "Democrats won control of House of Representatives, Bloomberg projects",
+      "summary": "According to the same projections, Democrats will control at least 54 seats in the Senate against the GOP’s 41",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2212847",
+      "image": null,
+      "publishedAt": "2026-11-04T07:44:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1ypi3",
+      "title": "Americans said no to war with Iran as they voted in midterms — parliament speaker",
+      "summary": "US President Donald Trump told Fox News that \"a part\" of the Republican defeat in the midterms \"was Iran.\"",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2212845",
+      "image": null,
+      "publishedAt": "2026-11-04T07:12:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "m1yph4",
+      "title": "Trump says no plans to change cabinet in wake of Republican loss",
+      "summary": "The US leader answered in the negative to a question of whether any changes will be made to his cabinet as a result of the election",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2212831",
+      "image": null,
+      "publishedAt": "2026-11-04T05:58:11.000Z",
+      "sample": false
+    },
+    {
       "id": "9dzpmg",
-      "title": "Canadians support return of Russian national team to ice - envoy",
+      "title": "Canadians support return of Russian national team to ice — envoy",
       "summary": "The Canadians state quite plainly that it’s time to put an end to this political absurdity, Oleg Stepanov said",
       "category": "politics",
       "source": "tass",
@@ -16,12 +236,12 @@
       "sample": false
     },
     {
-      "id": "rog414",
+      "id": "9dzpmi",
       "title": "Ottawa getting rid of serious rivals by sidelining hockey players from Russia — envoy",
       "summary": "Oleg Stepanov commented on the Canadian government’s decision not to issue visas to Russian athletes for participations in the world junior hockey championship, which will be held in the country late this year and early next year",
       "category": "politics",
       "source": "tass",
-      "url": "https://tass.com/politics/2212821",
+      "url": "https://tass.com/sports/2212821",
       "image": null,
       "publishedAt": "2026-11-04T05:28:40.000Z",
       "sample": false
@@ -676,14 +896,14 @@
       "sample": false
     },
     {
-      "id": "9l1b4k",
-      "title": "U.S. Billionaire Leads Swap Plan to Buy Lukoil's Overseas Assets, Sources Say",
+      "id": "sskku",
+      "title": "American Billionaire Leads Swap Plan to Buy Lukoil's Overseas Assets, Sources Say",
       "summary": "",
       "category": "politics",
       "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/11/03/us-billionaire-leads-swap-plan-to-buy-lukoils-overseas-assets-sources-say-a94170",
+      "url": "https://www.themoscowtimes.com/2026/11/03/american-billionaire-leads-swap-plan-to-buy-lukoils-overseas-assets-sources-say-a94170",
       "image": null,
-      "publishedAt": "2026-11-03T16:38:14.000Z",
+      "publishedAt": "2026-11-03T16:38:00.000Z",
       "sample": false
     },
     {
@@ -1006,39 +1226,6 @@
       "sample": false
     },
     {
-      "id": "j4656g",
-      "title": "NATO is escalating military situation along CSTO’s western borders — Secretary General",
-      "summary": "Taalatbek Masadykov noted that NATO was deploying new brigade-level units on a permanent basis in the immediate vicinity of the borders",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2212569",
-      "image": null,
-      "publishedAt": "2026-11-03T14:14:32.000Z",
-      "sample": false
-    },
-    {
-      "id": "rog1wj",
-      "title": "Zelensky regime propped up by network of torture chambers — Russian diplomat",
-      "summary": "Maria Zakharova stressed that the head of Kiev regime had deprived the people, citizens of his own country, of the right to express their views on whether they wanted to see him in power or not",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2212563",
-      "image": null,
-      "publishedAt": "2026-11-03T14:11:12.000Z",
-      "sample": false
-    },
-    {
-      "id": "tat1du",
-      "title": "Brent crude oil slips below $101 per barrel on ICE for first time since October 8",
-      "summary": "As of 04:45 p.m. Moscow time, Brent crude stood at $100.80 per barrel",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2212565",
-      "image": null,
-      "publishedAt": "2026-11-03T14:08:06.000Z",
-      "sample": false
-    },
-    {
       "id": "ejotjs",
       "title": "‘Soft Power in a Cardboard Box’: Pro-Kremlin Activist Calls for Pizza Ban",
       "summary": "Vitaly Borodin urged Russian schools and universities to remove pizza from their cafeteria menus due to Italy’s support for Ukraine.",
@@ -1048,128 +1235,9 @@
       "image": null,
       "publishedAt": "2026-11-03T14:04:26.000Z",
       "sample": false
-    },
-    {
-      "id": "rog1vu",
-      "title": "Russian Foreign Ministry on intel contacts with US, West’s struggle to accept new reality",
-      "summary": "The Russian foreign minister noted that Western countries wanted to impose their own rules across Eurasia, including its eastern part",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2212559",
-      "image": null,
-      "publishedAt": "2026-11-03T14:02:54.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1ynav",
-      "title": "Ukraine on cusp of chaos as people's discontent grows — Ukrainian lawmaker",
-      "summary": "According to Alexey Goncharenko, the forced mobilization in Ukraine naturally has people not wanting to listen to the government",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2212555",
-      "image": null,
-      "publishedAt": "2026-11-03T13:59:11.000Z",
-      "sample": false
-    },
-    {
-      "id": "vral4i",
-      "title": "Majority of Russians say Russian language unites country’s peoples — poll",
-      "summary": "According to analysts, Russians view Russia as the foundation of unity, namely the common area for living, supported by historical memory and love for the homeland",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/society/2212549",
-      "image": null,
-      "publishedAt": "2026-11-03T13:53:18.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1yn99",
-      "title": "Melania Trump to hold meeting with representatives of Russia, Ukraine on Thursday",
-      "summary": "The meeting will take place at the White House",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2212539",
-      "image": null,
-      "publishedAt": "2026-11-03T13:46:47.000Z",
-      "sample": false
-    },
-    {
-      "id": "m1yn97",
-      "title": "Zelensky says Musk refuses to discuss SpaceX’s operation in Ukraine with him",
-      "summary": "Vladimir Zelensky also complained that Musk seems to have turned against Ukraine",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2212537",
-      "image": null,
-      "publishedAt": "2026-11-03T13:44:40.000Z",
-      "sample": false
-    },
-    {
-      "id": "tat1b9",
-      "title": "Former Mercedes-Benz plant in Moscow Region to start operations in Q1 2027",
-      "summary": "The plant is currently not operating at its design capacity",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2212535",
-      "image": null,
-      "publishedAt": "2026-11-03T13:36:31.000Z",
-      "sample": false
-    },
-    {
-      "id": "rog1t9",
-      "title": "UN’s silence on torture in Ukraine tantamount to complicity in these crimes — diplomat",
-      "summary": "Gennady Gatilov demanded that UN officials and experts publicly condemn what is happening",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/politics/2212529",
-      "image": null,
-      "publishedAt": "2026-11-03T13:28:08.000Z",
-      "sample": false
-    },
-    {
-      "id": "rog1t7",
-      "title": "Almost all conflicts within CIS instigated from abroad, says secretary-general",
-      "summary": "Sergey Lebedev stressed that, over years of efforts to counter such threats, CIS member states had developed effective mechanisms to contain and neutralize these activities",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2212527",
-      "image": null,
-      "publishedAt": "2026-11-03T13:26:28.000Z",
-      "sample": false
-    },
-    {
-      "id": "rog1t1",
-      "title": "CIS to continue efforts to build new architecture of Eurasian security — chief",
-      "summary": "The architecture of Eurasian security has begun taking shape through contacts and interaction between regional organizations within Greater Eurasia, Sergey Lebedev noted",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2212521",
-      "image": null,
-      "publishedAt": "2026-11-03T13:19:14.000Z",
-      "sample": false
-    },
-    {
-      "id": "rog1sc",
-      "title": "Europeans taking too long to choose negotiator for talks with Russia — Kremlin",
-      "summary": "Dmitry Peskov added that Europe would apparently continue the complicated process of selecting officials to hold talks with Russia",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2212517",
-      "image": null,
-      "publishedAt": "2026-11-03T13:13:11.000Z",
-      "sample": false
-    },
-    {
-      "id": "rog1s8",
-      "title": "EU joining Abu Dhabi talks originally designed as trilateral impossible — Kremlin",
-      "summary": "That is between Russia and Ukraine with US mediation, Dmitry Peskov said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2212513",
-      "image": null,
-      "publishedAt": "2026-11-03T13:08:55.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "3ip8bo",
       "title": "Russia, China and U.S. Summit Under Discussion, Kremlin Says",
@@ -1213,9 +1281,7 @@
       "image": null,
       "publishedAt": "2026-11-03T08:55:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "y0vinv",
       "title": "Western Pharma Giants Paid Millions to Russian Distributors Linked to Fraud, Whistleblower Report Says",
@@ -1588,72 +1654,6 @@
       "url": "https://www.themoscowtimes.com/2026/10/28/russias-krasnodar-region-declares-high-alert-as-landfills-reach-capacity-a94116",
       "image": null,
       "publishedAt": "2026-10-28T17:27:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "6noqj8",
-      "title": "French Protests Show Need for State Control Over Social Media, Putin Says",
-      "summary": "Russia-linked disinformation networks have themselves been accused of exploiting the French protests.",
-      "category": "society",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/28/french-protests-show-need-for-state-control-over-social-media-putin-says-a94114",
-      "image": null,
-      "publishedAt": "2026-10-28T17:06:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "6r2ry9",
-      "title": "Russia Issues Permits for First Grain Vessels to Leave Sea of Azov Since July",
-      "summary": "Maritime traffic in the area had been closed since July due to Ukrainian drone attacks.",
-      "category": "politics",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/28/russia-issues-permits-for-first-grain-vessels-to-leave-sea-of-azov-since-july-a94112",
-      "image": null,
-      "publishedAt": "2026-10-28T16:26:54.000Z",
-      "sample": false
-    },
-    {
-      "id": "l7a60b",
-      "title": "Ethiopia Receives 12 Russian Su-35 Fighter Jets",
-      "summary": "The African nation will later receive four Russian S-400 air defense systems as part of a push to bolster its military capabilities.",
-      "category": "military",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/28/ethiopia-receives-12-russian-su-35-fighter-jets-a94110",
-      "image": null,
-      "publishedAt": "2026-10-28T16:19:16.000Z",
-      "sample": false
-    },
-    {
-      "id": "uqs36f",
-      "title": "‘A Real Genius’: Putin Showers Elon Musk With Praise",
-      "summary": "Putin commended the American billionaire for developing the Starlink satellite internet network.",
-      "category": "politics",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/28/a-real-genius-putin-showers-elon-musk-with-praise-a94109",
-      "image": null,
-      "publishedAt": "2026-10-28T16:13:28.000Z",
-      "sample": false
-    },
-    {
-      "id": "ea07ya",
-      "title": "Sverdlovsk Lawmaker Calls for Halloween Pumpkin Purge",
-      "summary": "United Russia representative Vyacheslav Vegner said he wants to give free theater tickets to young Russians who toss pumpkins into a local river as an act of defiance against Halloween.",
-      "category": "health",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/28/sverdlovsk-lawmaker-calls-for-halloween-pumpkin-purge-a94106",
-      "image": null,
-      "publishedAt": "2026-10-28T15:03:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "za2n8u",
-      "title": "Russian Bookseller Chitai-Gorod Spent Millions Destroying Banned Books, CEO Says",
-      "summary": "Russian stores and libraries have had to remove scores of books from their shelves as the government increasingly curtails freedom of speech and the press.",
-      "category": "politics",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/10/28/russian-bookseller-chitai-gorod-spent-millions-destroying-banned-books-ceo-says-a94105",
-      "image": null,
-      "publishedAt": "2026-10-28T14:10:18.000Z",
       "sample": false
     }
   ],

@@ -2,8 +2,96 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-11-04T05:39:32.946Z",
+  "updatedAt": "2026-11-04T14:04:09.140Z",
   "daily": [
+    {
+      "id": "ub99b9",
+      "title": "MUFG Emut Bank to operate without cash cards",
+      "summary": "MUFG Emut will be the first bank affiliated with a major Japanese financial group not to issue cash cards.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/04/mufg-emut-cash-cards/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572312.jpg",
+      "publishedAt": "2026-11-04T11:04:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "hv4xoo",
+      "title": "Tokyo police to introduce AI-based accident reconstruction system",
+      "summary": "The system will combine AI with 3D spatial data from accident sites and footage from security cameras, reducing the need for on-site inspections.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/crime-legal/tokyo-police-ai-reconstruction/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572311.jpg",
+      "publishedAt": "2026-11-04T09:38:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xkhp0e",
+      "title": "Talk of Germany joining GCAP fighter program grows, but Japanese concerns persist",
+      "summary": "Officials in Tokyo are worried that adding a new partner at this stage could further delay the aircraft's planned 2035 introduction date.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/germany-japan-gcap-fighter-jet/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572269.jpg",
+      "publishedAt": "2026-11-04T08:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3v1xo6",
+      "title": "Japan unlikely to raise cap for foreign workers despite labor shortages",
+      "summary": "Kimi Onoda, minister in charge of policies related to foreign nationals, said demand for a special visa category is expected to eventually decline.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/onoda-foreign-residents/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572204.jpg",
+      "publishedAt": "2026-11-04T08:23:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "f3lpkw",
+      "title": "‘Sister Brother Manhole Cover’ wins top prize at Tokyo International Film Festival",
+      "summary": "Directed by Milcho Manchevski, the film took the Tokyo Grand Prix, earning top honors among 15 entries in the Competition section.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/culture/2026/11/04/entertainment-news/tiff-closing-film-tokyo/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572313.jpg",
+      "publishedAt": "2026-11-04T08:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "iyj3wt",
+      "title": "Trump hand-picked Senate candidates. Republicans paid the price.",
+      "summary": "Tuesday's results revealed the U.S. president was unable to persuade the broader electorate to back his choices.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/trump-senate-candidates-republicans/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572265.jpg",
+      "publishedAt": "2026-11-04T07:37:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ogfuy0",
+      "title": "25.7% in Japan to use food tax cut benefits for savings, survey finds",
+      "summary": "Regarding how the tax cut might affect their consumer behavior, 49.7% of people surveyed said they would not change their spending plans.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/04/food-tax-benefits-savings-survey/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572261.jpg",
+      "publishedAt": "2026-11-04T07:10:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "myziml",
+      "title": "DPP leader rejects food tax cut bill in current form",
+      "summary": "Yuichiro Tamaki indicated the DPP's decision to back the legislation would depend on if the ruling coalition accepts its alternative proposal.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/politics/tamaki-consumption-tax-bill-rejection/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572258.jpg",
+      "publishedAt": "2026-11-04T07:06:00.000Z",
+      "sample": false
+    },
     {
       "id": "fmu71w",
       "title": "Japanese stocks sink as U.S. midterm results hit tech shares",
@@ -28,12 +116,12 @@
     },
     {
       "id": "m8exxj",
-      "title": "Democrats capture Congress in sweeping setback for Trump",
-      "summary": "The size and breadth of the Democratic wave were still coming into focus, but the party prevailed in states long thought to be out of reach.",
-      "category": "politics",
+      "title": "Democrats clinch huge wins on inflation anger and Trump fatigue",
+      "summary": "The party flipped Senate seats in Republican bastions and racked up wins in competitive House races.",
+      "category": "economy",
       "source": "japan-times",
       "url": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/america-us-midterms-vote-congress/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572214.jpg",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572298.jpg",
       "publishedAt": "2026-11-04T04:45:00.000Z",
       "sample": false
     },
@@ -90,6 +178,28 @@
       "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/typhoon-infa/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572198.jpg",
       "publishedAt": "2026-11-04T04:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3xi77b",
+      "title": "Patrick Stewart embodied the value of aging actors",
+      "summary": "Patrick Stewart died at the age of 86, and many paid tribute to him by invoking the fictional icons he played such as his work in Star Trek.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/11/04/world/patrick-stewart-aging-actors/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/571672.jpg",
+      "publishedAt": "2026-11-04T04:08:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "i3m500",
+      "title": "America is making a ‘freaking fortune’ in an energy crisis",
+      "summary": "U.S. and Canadian natural gas consumers are not facing the economic fallout of the Iran conflict due to the shale revolution and geography.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/11/04/us-energy-crisis-fortune/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/571997.jpg",
+      "publishedAt": "2026-11-04T04:00:00.000Z",
       "sample": false
     },
     {
@@ -159,6 +269,17 @@
       "sample": false
     },
     {
+      "id": "u32qur",
+      "title": "Uncool! Hacking refrigerators is a hint of threats to come",
+      "summary": "Fiddled freezers are not a national security threat. But think of refrigerators as the tip of the iceberg.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/commentary/2026/11/04/world/hacking-threats-grow/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572098.jpg",
+      "publishedAt": "2026-11-04T02:27:00.000Z",
+      "sample": false
+    },
+    {
       "id": "owasaw",
       "title": "Trump’s Supreme Court winning streak in election cases screeches to a halt",
       "summary": "Justices acted with remarkable speed to shut down his attempt to intervene in California's ballot count on the eve of Tuesday's midterm elections.",
@@ -204,134 +325,13 @@
     },
     {
       "id": "ssfrjo",
-      "title": "Bomb threats on flights, cruise ship cause disruption in Europe; no devices found",
-      "summary": "Seven confirmed bomb threats in a single day impacting flights is exceptional, an aviation risk advisory firm said.",
+      "title": "Bomb threats cause disruptions across Europe but no explosives found",
+      "summary": "No explosives were found, despite extensive searches on the ground after the planes all took off and landed safely in different European cities.",
       "category": "politics",
       "source": "japan-times",
       "url": "https://www.japantimes.co.jp/news/2026/11/04/world/crime-legal/bomb-threats-flights-cruise-europe/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572166.jpg",
       "publishedAt": "2026-11-04T01:24:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "z7llqe",
-      "title": "Art Week Tokyo’s Atsuko Ninagawa wants to connect the city’s scattered art scene",
-      "summary": "The fifth edition brings together 56 venues and international participants for five days of exhibitions, conversations and creative exchange.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/culture/2026/11/04/art/art-week-tokyo-atsuko-ninagawa/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572206.jpg",
-      "publishedAt": "2026-11-04T01:15:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "w9gi2y",
-      "title": "Honda weighs restarting EU car output as new rules take shape",
-      "summary": "Proposed regulations in the European Union aim to favor locally made cars.",
-      "category": "society",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/11/04/honda-eu-car-output/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572173.jpg",
-      "publishedAt": "2026-11-04T01:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "gn684x",
-      "title": "Opposition steps up criticism of Takaichi for skipping last month’s G7 meeting",
-      "summary": "Parties said the explanations for the prime minister's absence were vague and aim to use it to grill the administration.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/04/japan/politics/opposition-takaichi-g7-criticism-mounts/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572172.jpg",
-      "publishedAt": "2026-11-04T01:10:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "sc49a2",
-      "title": "U.S. intelligence sharing has fractured under Trump, officials say",
-      "summary": "The disruptions to sharing risk leaving policymakers with an incomplete picture of threats facing the country.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/us-intelligence-sharing-trump/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572168.jpg",
-      "publishedAt": "2026-11-04T01:04:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5a6s7s",
-      "title": "Google lets schools turn off Gemini, but not the AI in search",
-      "summary": "Alphabet, whose Chromebooks are the most widely used laptops in U.S. classrooms, faces growing resistance to AI from parents and school districts.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/11/04/tech/google-schools-gemini-ai-search/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572170.jpg",
-      "publishedAt": "2026-11-04T00:51:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "yl5346",
-      "title": "Serbia’s leaderless force starts dismantling Vucic’s regime",
-      "summary": "The student-led bloc still hasn't taken its seats in parliament or named its prime minister after unseating the country's longtime leader in polls.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/serbia-leaderless-vucic-regime/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572165.jpg",
-      "publishedAt": "2026-11-04T00:36:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mwnzin",
-      "title": "As Americans vote, Trump says U.S. will stop $4 billion in aid to Israel",
-      "summary": "Israel's future leadership is uncertain after an Oct. 27 election in which Benjamin Netanyahu lost his governing majority.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/americans-trump-us-aid-israel/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572162.jpg",
-      "publishedAt": "2026-11-04T00:21:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "tnj2c5",
-      "title": "Ahead of COP31, Brazil offers a global fossil fuel exit plan",
-      "summary": "The Brazilian roadmap calls for countries to shift away from oil, gas and coal on a voluntary basis.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/environment/2026/11/04/climate-change/cop31-brazil-fossil-fuel/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572180.jpg",
-      "publishedAt": "2026-11-03T23:43:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "pms0e6",
-      "title": "Binance hackers used fake job interviews in record heist",
-      "summary": "The crypto exchange has said that it will bear the financial cost but the exchange paused withdrawals for almost two days after the incident.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/11/04/tech/binance-hackers-job-interviews-heist/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572161.jpg",
-      "publishedAt": "2026-11-03T22:58:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "g3xwly",
-      "title": "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage",
-      "summary": "In more than four years of war, Russia has repeatedly targeted the Ukrainian energy system as winter approaches.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/04/world/politics/russia-ukraine-power-abu-dhabi-merz/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/04/thumbs/400x400/572158.jpg",
-      "publishedAt": "2026-11-03T22:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "otv99x",
-      "title": "Talking braille blocks allow people with visual impairments to walk around freely",
-      "summary": "A company is aiming to create a society where everyone, including those with visual impairments, can enjoy getting around and exploring freely.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/03/japan/society/tokyo-braille-blocks/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/13/thumbs/400x400/560514.jpg",
-      "publishedAt": "2026-11-03T12:58:00.000Z",
       "sample": false
     }
   ],
