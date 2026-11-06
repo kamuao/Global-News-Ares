@@ -2,8 +2,217 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-05T23:28:36.847Z",
+  "updatedAt": "2026-11-06T13:59:36.224Z",
   "daily": [
+    {
+      "id": "o5ptj5",
+      "title": "Zambia's civil service overhaul raises questions",
+      "summary": "Government-backed retirements and institutional realignments are fueling debate in Zambia, with opposition politicians questioning transparency while officials defend the changes as necessary reforms.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/zambia-s-civil-service-overhaul-raises-questions/a-79875892?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T13:28:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "a4048i",
+      "title": "What to know about the IIHF Women's Ice Hockey World Championship",
+      "summary": "As ice hockey's governing body continues to wrangle over how to respond to a CAS order to reinstate Russia to international play, the top women's tournament gets underway in Denmark. Without Russia.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/what-to-know-about-the-iihf-women-s-ice-hockey-world-championship/a-79876148?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T13:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ab4n4a",
+      "title": "Global temperatures are set to exceed 1.5 degrees above pre-industrial levels in 2026, likely the second-warmest year on record",
+      "summary": "Climate scientists say the world is set to breach the critical 1.5-degree Celsius threshold in 2026. This year is also on track to become the second-warmest on record.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/global-temperatures-are-set-to-exceed-1-5-degrees-above-pre-industrial-levels-in-2026-likely-the-second-warmest-year-on-record/a-79874098?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T13:23:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "cyeei6",
+      "title": "Iranians face looming war threat with no reliable info",
+      "summary": "Ordinary people living in Iran have little idea of the course of the war and peace talks on the global stage. With few sources of information, they are forced to navigate conflicting rumors and fears of a nuclear attack.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/iranians-face-looming-war-threat-with-no-reliable-info/a-79875438?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T12:56:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ze18rl",
+      "title": "New bomb threats target Irish media, more European flights",
+      "summary": "Newsrooms have been evacuated across Ireland after another wave of bomb threats. Dublin is hosting a high-level EU meeting in several days.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/new-bomb-threats-target-irish-media-more-european-flights/a-79875884?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T12:48:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "daxe9o",
+      "title": "Tanzania: Opposition leader Tundu Lissu jailed for four years",
+      "summary": "Tanzanian opposition leader Tundu Lissu has been sentenced to four years in prison after being cleared of treason. Lissu condemned his conviction for incitement, which had not been among the charges he faced.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/tanzania-opposition-leader-tundu-lissu-jailed-for-four-years/a-79875248?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T12:19:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "mvp45x",
+      "title": "'No choice but to bear it': Delhi's unrelenting air pollution crisis",
+      "summary": "Despite years of government interventions, emergency restrictions and public outrage, Delhi continues to battle dangerously polluted air every winter. Why isn't there a lasting solution to a predictable crisis?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/no-choice-but-to-bear-it-delhi-s-unrelenting-air-pollution-crisis/a-79873124?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T12:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "orizrx",
+      "title": "Kenya cult leader Paul Mackenzie sentenced to 200 years",
+      "summary": "A court in Kenya has sentenced Paul Mackenzie to 200 years in prison for the murders of 190 children and an adult. He told them to starve themselves to death as part of his apocalyptic religious cult.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/kenya-cult-leader-paul-mackenzie-sentenced-to-200-years/a-79875112?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T12:03:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "l8yc2u",
+      "title": "Exercise and cancer: What \"living longer\" really means",
+      "summary": "A major trial found more colon cancer patients were alive eight years after treatment with long-term exercise coaching. But what does \"living longer\" mean, and who does it apply to?",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/exercise-and-cancer-what-living-longer-really-means/a-79856133?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T11:11:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "z3uamk",
+      "title": "Turkey: Ex-minister arrested in a major fund manipulation scandal",
+      "summary": "Fatma Betul Sayan Kaya, a former deputy chair of President Erdogan's party, was arrested in a major funds scandal. The opposition claims Sayan Kaya and her husband cashed in shares worth millions in the illegal scheme.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/turkey-ex-minister-arrested-in-a-major-fund-manipulation-scandal/a-79872732?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T10:38:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "wo18ws",
+      "title": "French bus carrying school children crashes, killing 2",
+      "summary": "The bus reportedly veered off the road and crashed into a tree. French Transport Minister Philippe Tabarot was on his way to the scene.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/french-bus-carrying-school-children-crashes-killing-2/a-79873221?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T10:10:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "706ihw",
+      "title": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets",
+      "summary": "European shares have fallen after sharp losses in Asia and on Wall Street. Doubts over huge AI investments and fears of curbs following the Democrats' US midterm victory have rattled global markets.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T09:29:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "u4u84j",
+      "title": "Pope Leo sets off on 12-day South America tour",
+      "summary": "The pontiff will hold meetings and celebrate Mass in Uruguay, Argentina and Peru, with the latter attracting particular interest. The trip will be the longest and farthest of his papacy so far.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/pope-leo-sets-off-on-12-day-south-america-tour/a-79872584?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T08:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "dqgonp",
+      "title": "Malaysia: Ex-leader Najib seeks to leave prison for house arrest",
+      "summary": "Convicted for embezzlement, former Prime Minister Najib Razak hopes to serve his prison term under house arrest after his party paid a fine. But the attorney general later said his transfer was on hold temporarily.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/malaysia-ex-leader-najib-seeks-to-leave-prison-for-house-arrest/a-79872493?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T08:36:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "4zikch",
+      "title": "Germany news: Trial of alleged 'Reichsbürger' group ringleaders begins",
+      "summary": "Four members of the banned far-right \"Kingdom of Germany\" are on trial for belonging to a criminal organization. Meanwhile, a new study warns data centers could lead to water stress in Germany. Follow DW for more.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-trial-of-alleged-reichsbürger-group-ringleaders-begins/live-79872046?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T08:13:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "cl0h5t",
+      "title": "India: Umar Khalid, Sharjeel Imam go back to Supreme Court for bail",
+      "summary": "Umar Khalid and Sharjeel Imam have asked the Supreme Court for bail once more, having spent over six years in jail. Elsewhere, the top court has clarified when the 24-hour clock for producing an arrested person starts.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-umar-khalid-sharjeel-imam-go-back-to-supreme-court-for-bail/live-79872047?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T07:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "falm20",
+      "title": "US judge temporarily blocks Trump's arch project after panel approval",
+      "summary": "A judge ordered a two-week stop to construction on US President Trump's arch project in Washington. A federal panel had approved Trump's triumphal arch plans in an 8-4 vote.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-judge-temporarily-blocks-trump-s-arch-project-after-panel-approval/a-79871690?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T06:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "4mdmx",
+      "title": "Ex-lawmaker jailed in Macau's first national security trial",
+      "summary": "Pro-democracy former lawmaker Au Kam San was found guilty of \"subversion against the political power of the State.\" He was handed a prison sentence of 12-and-a-half years.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ex-lawmaker-jailed-in-macau-s-first-national-security-trial/a-79871673?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-06T04:54:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ym3kr8",
+      "title": "Trump raises prospect of 'big, beautiful' Russia-Ukraine deal",
+      "summary": "US President Donald Trump said the Ukraine war was close to being settled and that ending it might involve \"all of Europe.\" Trump has previously made several similar promises, with no resolution to the conflict in sight.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-05T23:32:00.000Z",
+      "sample": false
+    },
     {
       "id": "8x0ru7",
       "title": "Austrian tycoon Rene Benko sentenced to 2 years in prison for fraud",
@@ -13,61 +222,6 @@
       "url": "https://www.dw.com/en/austrian-tycoon-rene-benko-sentenced-to-2-years-in-prison-for-fraud/a-79870056?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-05T20:38:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ddvn4o",
-      "title": "Gavin Newsom commutes sentences of all death row inmates in California",
-      "summary": "Gavin Newsom, a Democrat and a rumored presidential candidate, moved to commute the death sentences of 548 inmates in California for one of his last acts as governor of the state.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/gavin-newsom-commutes-sentences-of-all-death-row-inmates-in-california/a-79870988?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T20:04:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rm8q8t",
-      "title": "Americans voted against Trump's Iran war. Gulf countries hope that means an end to the conflict",
-      "summary": "The US midterm results showed how unpopular Donald Trump's Iran war is. Now, Gulf countries, trapped for months in the middle of the war between the US and Iran, see reason for optimism.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/americans-voted-against-trump-s-iran-war-gulf-countries-hope-that-means-an-end-to-the-conflict/a-79868398?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T19:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fmoc2z",
-      "title": "Pete Hegseth under fire as Republicans trade blame for midterm debacle",
-      "summary": "Iran war hawk Pete Hegseth is facing the fallout from Republicans' midterms losses as high energy prices turned voters toward Democrats. US President Trump continues to support his embattled defense chief — for now.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/pete-hegseth-under-fire-as-republicans-trade-blame-for-midterm-debacle/a-79869867?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T19:08:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ix8yng",
-      "title": "Does the Oleshky ceasefire signal progress to come in Ukraine?",
-      "summary": "Hundreds of civilians were evacuated from the city of Oleshky after Russia and Ukraine agreed to a US-brokered ceasefire. Some observers have expressed optimism that more such humanitarian missions might follow.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/does-the-oleshky-ceasefire-signal-progress-to-come-in-ukraine/a-79869164?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T18:55:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "9anc9g",
-      "title": "France: More than 600,000 protest as anger grows over cost of living",
-      "summary": "Demonstrators took to the streets in several French cities to call for government action on the high cost of living. Protests were largely peaceful, but there were some reports of escalation, including in Paris.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/france-more-than-600-000-protest-as-anger-grows-over-cost-of-living/a-79860616?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T17:51:00.000Z",
       "sample": false
     },
     {
@@ -93,71 +247,18 @@
       "sample": false
     },
     {
-      "id": "7taeis",
-      "title": "Paraguay: President Pena resigns amid bank crisis",
-      "summary": "Paraguay's President Santiago Pena has resigned amid a crisis over his ties to collapsed lender Ueno. Millions of customers' accounts are frozen, with public pension and health care funds also tied up.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/paraguay-president-pena-resigns-amid-bank-crisis/a-79868484?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T16:28:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "o9n013",
-      "title": "British comedian and actor Russell Brand found guilty of rape",
-      "summary": "Prosecutors labeled Brand a sexual predator. He was charged in sexual assault cases spanning from 1999 to 2009.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/british-comedian-and-actor-russell-brand-found-guilty-of-rape/a-79867216?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T15:17:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "aso3mw",
-      "title": "Iran signals satisfaction, skepticism after US midterm vote",
-      "summary": "While the Iranian regime says the US midterms will not change Washington's policy toward Tehran, some officials and commentators see the resounding Democratic victory as blowback against the Iran war.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/iran-signals-satisfaction-skepticism-after-us-midterm-vote/a-79867149?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T15:04:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "h1c6j4",
-      "title": "Who is drug testing Russia's athletes, now that they have returned to international competition?",
+      "id": "ecdi8i",
+      "title": "Russia is back in world sport, but who is drug testing its athletes?",
       "summary": "DW has found that three-quarters of Russia's weightlifting team had no independent out-of-competition testing before this year's world championships, despite the country's doping history.",
       "category": "health",
       "source": "dw",
-      "url": "https://www.dw.com/en/who-is-drug-testing-russia-s-athletes-now-that-they-have-returned-to-international-competition/a-79862467?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/russia-is-back-in-world-sport-but-who-is-drug-testing-its-athletes/a-79862467?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-05T14:51:00.000Z",
       "sample": false
-    },
-    {
-      "id": "7ynk3r",
-      "title": "EU court says CBD foods need approval for sale before they can be certified organic",
-      "summary": "The EU's top court says CBD foods cannot be certified organic without approval for sale. The ruling concerns a cannabis compound whose use in food requires authorization, including before organic certification.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/eu-court-says-cbd-foods-need-approval-for-sale-before-they-can-be-certified-organic/a-79865773?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T14:51:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "cddije",
-      "title": "What does Trump's midterm elections loss mean for strained US-India ties?",
-      "summary": "Donald Trump's electoral setback might give New Delhi and Washington space to reset relations, but there is no guarantee that the US will actually change its approach to India.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/what-does-trump-s-midterm-elections-loss-mean-for-strained-us-india-ties/a-79865777?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T13:34:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "xnnga8",
       "title": "Pioneering Jewish academy opens in Germany",
@@ -181,39 +282,6 @@
       "sample": false
     },
     {
-      "id": "snesp1",
-      "title": "North Korea tells EU to 'mind its own business' on human rights",
-      "summary": "North Korea's UN mission has lashed out at the European Union over a draft UN resolution. Pyongyang has said the West does not have a monopoly on human rights.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/north-korea-tells-eu-to-mind-its-own-business-on-human-rights/a-79862196?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T11:14:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "oflobq",
-      "title": "Poland arrests 4 accused of spying for Russia",
-      "summary": "Poland has charged four people with espionage, saying they were sending information to Moscow. Two more have been accused of shipping military components to Russia.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/poland-arrests-4-accused-of-spying-for-russia/a-79862829?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T10:39:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "gajb8",
-      "title": "Finland court jails captain and crew member over Baltic cable sabotage",
-      "summary": "Finland seized the Fitburg freighter last year over the suspected sabotage of cables linking Helsinki and Tallinn. It's one of several incidents of damaged infrastructure in the Baltic since Russia's invasion of Ukraine.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/finland-court-jails-captain-and-crew-member-over-baltic-cable-sabotage/a-79862519?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T10:31:00.000Z",
-      "sample": false
-    },
-    {
       "id": "jxktkl",
       "title": "Bomb threats disrupt several flights across Europe",
       "summary": "At least a dozen flights were either diverted or landed with a military escort after bomb or security threats. The first reported case involved a flight from Dublin to Rome landing outside Paris and more soon followed.",
@@ -234,9 +302,7 @@
       "image": null,
       "publishedAt": "2026-11-05T07:03:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "fsyid7",
       "title": "36 years later: Hungary opens Communist-era secret service files",
@@ -577,61 +643,6 @@
       "image": null,
       "publishedAt": "2026-10-30T14:46:00.000Z",
       "sample": false
-    },
-    {
-      "id": "ljx10x",
-      "title": "Bayern Munich's Kenya friendly highlights Africa's growing pull for global sport",
-      "summary": "Bayern Munich are to open Nairobi's new Raila Odinga International Stadium against Ajax as Kenya prepares for AFCON 2027. The match highlights Africa's growing sports ambitions — and questions over cost and legacy.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/bayern-munich-s-kenya-friendly-highlights-africa-s-growing-pull-for-global-sport/a-79796753?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-30T13:19:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "tyjkqt",
-      "title": "Germany takes cautious approach on Israeli election results",
-      "summary": "German politicians have been slow to respond as they wait to see who is likely to comprise the next coalition. Many are also hoping for a government without religious hardliners.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-takes-cautious-approach-on-israeli-election-results/a-79805184?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-30T11:26:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2ff0vy",
-      "title": "IIHF ordered to allow Russia back into world championships",
-      "summary": "The Court of Arbitration for Sport has ruled that Russian teams must be allowed to take part in international ice hockey tournaments. The IIHF had banned Russia following the country's full-scale invasion of Ukraine.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/iihf-ordered-to-allow-russia-back-into-world-championships/a-79805650?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-30T10:57:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "kowpoa",
-      "title": "Many Turkish 'guest workers' hit by poverty in old age",
-      "summary": "West Germany and Turkey signed an agreement allowing the temporary recruitment of workers on October 30, 1961. Sixty-five years on, many so-called 'guest workers' can't live from their pensions.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/many-turkish-guest-workers-hit-by-poverty-in-old-age/a-79746838?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-30T08:38:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "f7gzq8",
-      "title": "The dachshund, a humorous icon with political symbolism",
-      "summary": "From Picasso to Andy Warhol, a surprising number of artists have portrayed the German breed. But the dachshund has also at times been co-opted as a political symbol.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/the-dachshund-a-humorous-icon-with-political-symbolism/a-79640191?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-30T07:57:00.000Z",
-      "sample": false
     }
   ],
   "developing": [
@@ -644,17 +655,6 @@
       "url": "https://www.dw.com/en/live-fresh-protests-hit-france-amid-heightened-security/live-79748223?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-10-24T06:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "1dtw33",
-      "title": "Suspected pneumonic plague in Siberia: What we know about the disease",
-      "summary": "After a worker at a Russian plague research institute in Siberia died October 2, 2026, nearly 200 of her contacts were under medical observation. But authorities there denied pneumonic plague had caused the death.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-07T09:44:00.000Z",
       "sample": false
     }
   ]
