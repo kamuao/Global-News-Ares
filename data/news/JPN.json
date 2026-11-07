@@ -2,7 +2,7 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-11-07T05:25:40.095Z",
+  "updatedAt": "2026-11-07T12:44:01.415Z",
   "daily": [
     {
       "id": "3lvok4",
@@ -23,6 +23,17 @@
       "source": "japan-times",
       "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/japan-priority-items-investments/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/thumbs/400x400/572855.jpg",
+      "publishedAt": "2026-11-07T03:24:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fji84j",
+      "title": "Japan eyes education programs for U.S. troops in Okinawa after recent robbery-murder",
+      "summary": "Among the recurrence prevention measures, which were agreed upon by both sides, are lectures on Okinawa's culture and history.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/07/japan/crime-legal/us-japan-okinawa-crime/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/thumbs/400x400/572856.jpg",
       "publishedAt": "2026-11-07T03:24:00.000Z",
       "sample": false
     },
@@ -72,7 +83,7 @@
     },
     {
       "id": "lyqtrf",
-      "title": "Crisis-hit Paraguay impeaches president, replaces him with VP",
+      "title": "Crisis-hit Paraguay impeaches president and replaces him with VP",
       "summary": "Pedro Alliana became president of Paraguay on Friday following the impeachment of his predecessor over a massive banking crisis.",
       "category": "politics",
       "source": "japan-times",
@@ -168,7 +179,9 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/thumbs/400x400/572190.jpg",
       "publishedAt": "2026-11-06T23:00:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "d40d8l",
       "title": "Magnitude 6.1 quake hits off Tokyo, but no tsunami alert issued",
@@ -322,19 +335,7 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/thumbs/400x400/572788.jpg",
       "publishedAt": "2026-11-06T07:04:00.000Z",
       "sample": false
-    },
-    {
-      "id": "rq5bnf",
-      "title": "Mother wants to see abductee Megumi Yokota ‘just once’ before time runs out",
-      "summary": "\"It feels like the flame had gone out. It's hopeless,\" said Sakie Yokota, 90. \"I want to see her even just once before I die.\"",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/06/japan/megumi-yokota-mother-news-conference/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/06/thumbs/400x400/572786.jpg",
-      "publishedAt": "2026-11-06T06:47:00.000Z",
-      "sample": false
     }
   ],
-  "weekly": [],
   "developing": []
 }

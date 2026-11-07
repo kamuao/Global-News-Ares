@@ -2,8 +2,85 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-11-07T05:25:41.467Z",
+  "updatedAt": "2026-11-07T12:44:03.503Z",
   "daily": [
+    {
+      "id": "rpz7lp",
+      "title": "Cross-code star scores hat-trick as Kiwi Ferns make another final",
+      "summary": "New Zealand cross-code superstar Stacey Waaka leads her country to another women's Rugby League World Cup final, scoring three tries in a dominant win over Fetu Samoa.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-11-07/new-zealand-defeat-fetu-samoa-rugby-league-world-cup-semi/107359678",
+      "image": null,
+      "publishedAt": "2026-11-07T08:16:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "r1y24b",
+      "title": "Man arrested and charged for alleged harassment of SA Speaker",
+      "summary": "South Australian Police have arrested and charged a man for alleged stalking and harassment.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-11-07/man-arrested-and-charged-for-alleged-harassment-of-sa-speaker/107359174",
+      "image": null,
+      "publishedAt": "2026-11-07T06:43:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "8n3uwv",
+      "title": "Man, 75, dies in Goldfields mine incident",
+      "summary": "A 75-year-old contract worker has died following a workplace incident at Regis Resources' Duketon South operation in WA's Goldfields.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-11-07/man-75-dies-incident-regis-resources-goldfields-operation-mine/107359442",
+      "image": null,
+      "publishedAt": "2026-11-07T06:15:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "8q8j6j",
+      "title": "PM Luxon says 'National is once again the largest party in parliament'",
+      "summary": "A tight election result looms in New Zealand as polls show both major parties may struggle to form a government without support.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-11-07/nz-election-2026-live-blog/107355448",
+      "image": null,
+      "publishedAt": "2026-11-07T06:01:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "wdgz0y",
+      "title": "Ponga leads Kiwis to final after pre-match stare down lights up World Cup",
+      "summary": "Kalyn Ponga returns to the field 23 days after breaking his arm to lead New Zealand to its first Rugby League World Cup final since 2013.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-11-07/rugby-league-world-cup-live-semifinals-from-newcastle/107345014",
+      "image": null,
+      "publishedAt": "2026-11-07T05:45:49.000Z",
+      "sample": false
+    },
+    {
+      "id": "ecgjyz",
+      "title": "Supercars, SUVs take to Perth suburb to support teen assault victim",
+      "summary": "More than 100 cars and motorbikes took part in the \"community cruise\" in Ellenbrook, north-east of Perth, to show support for a 13-year-old boy who was allegedly bashed and threatened with a knife in the area by a group of teenagers.",
+      "category": "health",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-11-07/ellenbrook-victim-assault-community-rally/107359208",
+      "image": null,
+      "publishedAt": "2026-11-07T05:38:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "3hdd3o",
+      "title": "Demons rally and Kangaroos cruise into AFLW prelims",
+      "summary": "Melbourne comes from the clouds to beat Geelong in a thrilling AFLW qualifying final, while North Melbourne cruises past Carlton to book its own prelim final spot.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-11-07/aflw-finals-melbourne-geelong-carlton-north-melbourne/107359468",
+      "image": null,
+      "publishedAt": "2026-11-07T05:21:53.000Z",
+      "sample": false
+    },
     {
       "id": "vio3ug",
       "title": "Tasmanian nurses rally following 'disappointing' government pay offer",
@@ -200,83 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-11-07/wool-classers-graduate-to-plug-trade-shortage/107354064",
       "image": null,
       "publishedAt": "2026-11-07T00:32:14.000Z",
-      "sample": false
-    },
-    {
-      "id": "q2g4u6",
-      "title": "Moving house seven times in 18 months the reality for many renters",
-      "summary": "Frances Thiele is one of many essential workers that new research indicates are effectively locked out of Australia's housing market. She's had to move seven times in recent years to secure a rental home.",
-      "category": "economy",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-11-07/essential-rentals-seven-moves-eighteen-months-no-home/107349602",
-      "image": null,
-      "publishedAt": "2026-11-07T00:06:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "niuf7m",
-      "title": "NT government accused of cherrypicking data to support crime claims",
-      "summary": "A report finds the Northern Territory government is cherrypicking data to back its narrative that crime is down, with legal experts saying \"we now must be sceptical\".",
-      "category": "society",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-11-07/new-crime-data-shows-increase-despite-nt-government-claims/107356742",
-      "image": null,
-      "publishedAt": "2026-11-07T00:06:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "5uorby",
-      "title": "Indigenous people 'very rarely' sit on a jury in SA, report finds",
-      "summary": "Despite being over-represented in the criminal justice system, a report has found Indigenous people are not given equal opportunity to serve on juries.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-11-07/indigneous-people-underrepresented-in-juries-in-sa/107256812",
-      "image": null,
-      "publishedAt": "2026-11-06T23:53:17.000Z",
-      "sample": false
-    },
-    {
-      "id": "jy3l1d",
-      "title": "'Forgotten' veterans conscripted for Vietnam return to army barracks",
-      "summary": "National servicemen who never set foot in Vietnam and have been fighting for recognition for their service have returned to their training barracks after more than half a century.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-11-07/nashos-reunite-at-singleton-army-barracks/107354054",
-      "image": null,
-      "publishedAt": "2026-11-06T23:33:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "nz52rr",
-      "title": "Artwork memorialises long-gone 'Tin Town' settlement in western NSW",
-      "summary": "Standing tall on two large monolithic slates in Western NSW are the names of 31 families who once lived in a long-gone town camp outside Coonamble.",
-      "category": "health",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-11-07/western-nsw-community-remembers-tin-town/107348590",
-      "image": null,
-      "publishedAt": "2026-11-06T23:04:14.000Z",
-      "sample": false
-    },
-    {
-      "id": "dpna49",
-      "title": "Call for funding for 'lifesaving' community music programs",
-      "summary": "Experts say music helps young people find mental wellbeing. But community music program organisers say they need more funding to bring people together.",
-      "category": "society",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-11-07/call-for-funding-to-support-community-music-programs/107259628",
-      "image": null,
-      "publishedAt": "2026-11-06T22:57:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "ixesvs",
-      "title": "Tradies down tools to save man's life with makeshift tourniquet",
-      "summary": "After 93-year-old Ian fell at home and cut an artery, his wife ran to the street calling for help. Josh and Gary downed tools and stepped in.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-11-07/tradesmen-down-tools-to-save-life-of-93yo-gracemere-man/107347170",
-      "image": null,
-      "publishedAt": "2026-11-06T22:52:16.000Z",
       "sample": false
     }
   ],

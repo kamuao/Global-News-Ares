@@ -2,8 +2,96 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-07T05:25:37.685Z",
+  "updatedAt": "2026-11-07T12:43:58.667Z",
   "daily": [
+    {
+      "id": "mn47nk",
+      "title": "New Zealand election too close to call with over 95% of votes counted",
+      "summary": "Initial results in New Zealand show the two main parties neck-and-neck with fewer than 4,000 votes separating them. Official results aren't expected until later this month once special votes have been counted.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-07T11:54:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "stzur5",
+      "title": "Germany hopes to host world ice hockey championship — without Russia",
+      "summary": "International protests continue after a court ruled that Russia must be allowed to return to international ice hockey. Germany is seeking a solution that will allow the country to host next year's world championship.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-hopes-to-host-world-ice-hockey-championship-without-russia/a-79879536?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-07T11:06:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "y5xk7u",
+      "title": "France braces for new round of Yellow Vest, student protests",
+      "summary": "Two major protests have been announced for Saturday. One will see students and unions marching against high living costs, while the Yellow Vests plan to march separately, despite a police ban.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/france-braces-for-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-07T10:39:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "7896c",
+      "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
+      "summary": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"into a blackout\" ahead of talks in Abu Dhabi.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-07T09:21:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "hf7t1w",
+      "title": "Germany news: Frankfurt braces for Iran protests",
+      "summary": "An appearance by Iranian opposition figure Reza Pahlavi is expected to trigger demonstrations in Frankfurt. Meanwhile, Germany's defense minister says he believes military conscription will not be needed. DW has more.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-frankfurt-braces-for-iran-protests/live-79883533?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-07T09:08:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "nd4f7j",
+      "title": "Amid protests, France's rising debt costs threaten stability",
+      "summary": "France plans to spend an extra €4 billion on education amid nationwide protests. But with public debt mounting and interest costs climbing, how much fiscal room does the government have?",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-07T08:16:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "udqtpb",
+      "title": "US: Giant pandas from China make public debut at Atlanta zoo",
+      "summary": "Ping Ping and Fu Shuang are the first giant pandas to be housed in Zoo Atlanta after a gap of two years.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-07T07:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "yyjj91",
+      "title": "India news: Vehicles major cause of Delhi pollution, top court says",
+      "summary": "India's Supreme Court called for responsible celebrations during festivals, particularly Diwali, as it addressed the issue of air pollution in Delhi. DW has more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-vehicles-major-cause-of-delhi-pollution-top-court-says/live-79883248?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-07T07:07:00.000Z",
+      "sample": false
+    },
     {
       "id": "f5tuat",
       "title": "US asks China to uphold Busan trade deal commitments",
@@ -62,7 +150,7 @@
     {
       "id": "8mknk1",
       "title": "Stephen Miller named by Trump as new White House chief of staff",
-      "summary": "Trump said he would be replacing Susie Wiles for the top advisory role. Miller is controversial figure, known as a key architect of the administration's hardline immigration policies.",
+      "summary": "The US president said he would be replacing Susie Wiles for the top advisory role. Stephen Miller is a controversial figure, known as a key architect of the administration's hard-line immigration policies.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-xml-mrss",
@@ -137,61 +225,6 @@
       "sample": false
     },
     {
-      "id": "7s1qg1",
-      "title": "Data center protesters break into Microsoft site in Amsterdam",
-      "summary": "Protesters are demanding a pause in data center construction in Europe. Campaigners planning protests in 16 countries say the AI building boom threatens water supplies, power grids and climate goals.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-06T16:38:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "q01i56",
-      "title": "Despite Russia impasse, Germany still hoping to host Men's Ice Hockey World Championship",
-      "summary": "A week after a court ruled that Russia must be allowed to return to international ice hockey, the way forward remains unclear. Berlin is seeking a solution that will allow Germany to host next year's Word Championship.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/despite-russia-impasse-germany-still-hoping-to-host-men-s-ice-hockey-world-championship/a-79879536?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-06T16:28:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bm6r45",
-      "title": "Germany: Small plane crashes onto A2 highway, killing 2",
-      "summary": "Two people have died after a small plane crashed onto Germany's A2 highway near Magdeburg. The crash closed the Hannover-bound lanes on a major east-west route, with no road vehicles reported to be involved.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-small-plane-crashes-onto-a2-highway-killing-2/a-79878930?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-06T16:01:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "gwx4c9",
-      "title": "Fact check: Three viral Iran war posts debunked",
-      "summary": "After Monday's US attack on Iran, social media is awash with dramatic images and claims about renewed fighting. DW Fact Check found AI-generated and recycled videos — as well as misleading posts from dubious accounts.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/fact-check-three-viral-iran-war-posts-debunked/a-79867353?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-06T15:29:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "u2dsjs",
-      "title": "Protests and reforms: France's rising debt costs threaten stability",
-      "summary": "France plans to spend an extra €4 billion on education amid nationwide protests. But with public debt mounting and interest costs climbing, how much fiscal room does the government have?",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-06T14:37:00.000Z",
-      "sample": false
-    },
-    {
       "id": "vtwjfg",
       "title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
       "summary": "Czech arms makers have thrived on demand linked to the war in Ukraine. To sustain their growth, they need to look beyond ammunition and toward new technologies — and even space.",
@@ -200,17 +233,6 @@
       "url": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-06T14:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "o5ptj5",
-      "title": "Zambia's civil service overhaul raises questions",
-      "summary": "Government-backed retirements and institutional realignments are fueling debate in Zambia, with opposition politicians questioning transparency while officials defend the changes as necessary reforms.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/zambia-s-civil-service-overhaul-raises-questions/a-79875892?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-06T13:28:00.000Z",
       "sample": false
     },
     {
@@ -223,14 +245,16 @@
       "image": null,
       "publishedAt": "2026-11-06T13:26:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
-      "id": "l8yc2u",
-      "title": "Exercise and cancer: What \"living longer\" really means",
-      "summary": "A major trial found more colon cancer patients were alive eight years after treatment with long-term exercise coaching. But what does \"living longer\" mean, and who does it apply to?",
+      "id": "bumfwp",
+      "title": "Exercise coaching boosts colon cancer survival",
+      "summary": "Evidence suggests exercise can keep more cancer patients alive. But what does \"living longer\" actually mean, and who does it apply to?",
       "category": "health",
       "source": "dw",
-      "url": "https://www.dw.com/en/exercise-and-cancer-what-living-longer-really-means/a-79856133?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/exercise-coaching-boosts-colon-cancer-survival/a-79856133?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-06T11:11:00.000Z",
       "sample": false
@@ -245,9 +269,7 @@
       "image": null,
       "publishedAt": "2026-11-06T09:29:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "y2ovtg",
       "title": "Arrests and investigations as Serbia begins postelection cleanup",
@@ -621,30 +643,7 @@
       "image": null,
       "publishedAt": "2026-10-31T16:00:00.000Z",
       "sample": false
-    },
-    {
-      "id": "ev1lq9",
-      "title": "Embarrassing name? How we live with names we don't like",
-      "summary": "What happens when your name evokes laughter or ridicule? Research points to negative life outcomes, but some people learn to embrace unfortunate names.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-31T05:27:00.000Z",
-      "sample": false
     }
   ],
-  "developing": [
-    {
-      "id": "aw4g97",
-      "title": "Live: Fresh protests hit France amid heightened security",
-      "summary": "Police and elite security forces are out in force in French cities as thousands participate in a new round of protests. The protest location was changed last minute in Paris. Follow DW.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/live-fresh-protests-hit-france-amid-heightened-security/live-79748223?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-10-24T06:34:00.000Z",
-      "sample": false
-    }
-  ]
+  "developing": []
 }
