@@ -2,8 +2,85 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-08T13:00:48.994Z",
+  "updatedAt": "2026-11-08T21:52:18.933Z",
   "daily": [
+    {
+      "id": "fu51mo",
+      "title": "Iran: Trump says strikes unlikely if peace talks keep moving",
+      "summary": "After weeks of rumors that the US and Israel were preparing new strikes on Iran, President Donald Trump said it was \"highly unlikely\" that he would order a new escalation as the Iranians \"want to make a deal so badly.\"",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/iran-trump-says-strikes-unlikely-if-peace-talks-keep-moving/a-79894190?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-08T20:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "i6hpcw",
+      "title": "Germany news: Merz to nominate Aigner for president",
+      "summary": "German Chancellor Friedrich Merz announced that he will nominate Ilse Aigner for federal president, paving the way for her to be the first woman to hold the office. DW has more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-08T19:43:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ugkbvm",
+      "title": "Many killed after migrant boat sinks off Senegal",
+      "summary": "The incident occurred near Kebemer off the coast of northwestern Senegal. Authorities on El Hierro in the Canary Islands have declared an emergency after a marked increase in migrant boat arrivals.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-08T19:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rbhrps",
+      "title": "South Africa elections: ANC marks its worst-ever performance",
+      "summary": "The African National Congress, the party of late Nobel Prize winner Nelson Mandela, slumped to its worst-ever result in South Africa's municipal election. The voters blame the ANC for water and electricity shortages.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-08T17:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "loakq4",
+      "title": "Egypt train crash leaves several dead, over 100 injured",
+      "summary": "A train derailed after colliding with another train south of Cairo, with authorities confirming several deaths and saying more than 100 passengers were injured. Over 50 ambulances were deployed to the scene.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/egypt-train-crash-leaves-several-dead-over-100-injured/a-79892916?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-08T16:49:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ay031e",
+      "title": "Israel: Eisenkot officially tasked with forming a government",
+      "summary": "Israeli President Isaac Herzog tasked Gadi Eisenkot with the right of trying to form a government. The opposition leader's way to replacing Benjamin Netanyahu as prime minister is full of political challenges.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-08T15:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ajuyvu",
+      "title": "Iran: US strikes ship after Hormuz blockade breach",
+      "summary": "The US military said a vessel trying to leave an Iranian port was hit due to the naval blockade on the country. On its part, Iran said three \"non compliant\" oil tankers caught fire in the Strait of Hormuz.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-08T13:00:00.000Z",
+      "sample": false
+    },
     {
       "id": "de19vp",
       "title": "Gaza: Rains add misery to humanitarian catastrophe",
@@ -38,20 +115,9 @@
       "sample": false
     },
     {
-      "id": "yfg3j8",
-      "title": "Germany news: Friedrich Merz set to confirm presidential nominee",
-      "summary": "The executive committee of the German chancellor's CDU party is expected to finalize its nomination for the country's president. DW has more.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-friedrich-merz-set-to-confirm-presidential-nominee/live-79883533?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-08T09:02:00.000Z",
-      "sample": false
-    },
-    {
       "id": "cmn2ky",
       "title": "India: Delhi chokes on most polluted Diwali eve in 10 years",
-      "summary": "Delhi was ranked as the world's most polluted major city on the eve of Diwali. Delhi's air pollution is expected to get worse in the coming days. DW has more.",
+      "summary": "Delhi was ranked as the world's most polluted major city on the eve of Diwali. Delhi's air pollution is expected to get worse in the coming days.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/india-delhi-chokes-on-most-polluted-diwali-eve-in-10-years/live-79883248?maca=en-rss-en-all-1573-xml-mrss",
@@ -69,7 +135,9 @@
       "image": null,
       "publishedAt": "2026-11-08T05:55:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "unj6dx",
       "title": "Poland: Gunman kills 6 in Krakow main square, police say",
@@ -137,17 +205,6 @@
       "sample": false
     },
     {
-      "id": "it4txr",
-      "title": "South Africa's ANC facing worst-ever performance in local elections",
-      "summary": "Near-final results show South Africa's once dominant ANC will see its lowest-ever vote percentage. The party is taking the blame for shoddy municipal services, including water and electricity shortages.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-07T18:07:00.000Z",
-      "sample": false
-    },
-    {
       "id": "ncy3d6",
       "title": "More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay",
       "summary": "Leo celebrated the first Mass of his South America tour less than a month after undergoing cancer surgery. He is seeking to raise interest in the Catholic Church in Uruguay, South America's most secular country.",
@@ -159,12 +216,12 @@
       "sample": false
     },
     {
-      "id": "myi5fe",
-      "title": "Journalism and AI: Who owns the news?",
+      "id": "ppxson",
+      "title": "Should AI companies pay for the journalism they use?",
       "summary": "Publishers say AI chatbots are using their reporting to answer readers' questions while sending back less traffic and less money. Should the companies that build these tools pay for the journalism they rely on?",
-      "category": "health",
+      "category": "technology",
       "source": "dw",
-      "url": "https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/should-ai-companies-pay-for-the-journalism-they-use/a-79884854?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-07T15:14:00.000Z",
       "sample": false
@@ -178,52 +235,6 @@
       "url": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-07T14:38:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "m7en9o",
-      "title": "After victory in the midterms, what next for US Democrats?",
-      "summary": "Donald Trump's Republican party has lost its majority in both chambers of the US Congress. But the president still has a lot of power — and the Democrats have yet to agree on how best to use theirs.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/after-victory-in-the-midterms-what-next-for-us-democrats/a-79884957?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-07T14:15:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "b52ivb",
-      "title": "Italy's Meloni blames pro-Russian hackers for cyberattack on minister",
-      "summary": "Antonio Tajani has said hackers published personal data stolen from him as Giorgia Meloni blamed pro-Russia criminals for the incident. The news follows a string of bomb threats that have grounded flights across the EU.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/italy-s-meloni-blames-pro-russian-hackers-for-cyberattack-on-minister/a-79885200?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-07T14:07:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "l1d2t6",
-      "title": "Yemen: 33 killed in strike near Sanaa, Houthis say",
-      "summary": "The Iran-backed Houthi rebel group accused Saudi Arabia of hitting several homes in the village of al-Shariya near the Yemeni capital.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/yemen-33-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-07T13:50:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "mn47nk",
-      "title": "New Zealand election too close to call with over 95% of votes counted",
-      "summary": "Initial results in New Zealand show the two main parties neck-and-neck with fewer than 4,000 votes separating them. Official results aren't expected until later this month once special votes have been counted.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-over-95-of-votes-counted/a-79883056?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-07T11:54:00.000Z",
       "sample": false
     },
     {
@@ -642,17 +653,6 @@
       "url": "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-02T05:01:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ko6tr7",
-      "title": "Russia's giant new radar in Kaliningrad raises alarm in NATO",
-      "summary": "Russia is nearing completion of what experts think is a giant radar complex in Kaliningrad, capable of monitoring much of Europe. Experts warn the project could intensify the military standoff between Moscow and NATO.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-01T20:34:00.000Z",
       "sample": false
     }
   ],
