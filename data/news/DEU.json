@@ -2,15 +2,81 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-08T05:24:27.078Z",
+  "updatedAt": "2026-11-08T13:00:48.994Z",
   "daily": [
     {
-      "id": "hi0tbi",
-      "title": "Poland: Gunman kills 6 in Krakow main square",
-      "summary": "A gunman who fired from a car killed at least six people, including a British tourist, in Krakow's main market square. Officials said the shooter was fascinated with \"radical\" and \"far right' ideologies.",
+      "id": "de19vp",
+      "title": "Gaza: Rains add misery to humanitarian catastrophe",
+      "summary": "With most homes damaged or destroyed by the war, Gazans are facing worsening humanitarian conditions due to heavy rain.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/gaza-rains-add-misery-to-humanitarian-catastrophe/a-79889580?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-08T10:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "kfcmd7",
+      "title": "'Never Again!': Holocaust remembrance under pressure",
+      "summary": "Only a few Holocaust survivors remain who can share their stories firsthand. Meanwhile, voices calling for an end to what they describe as a \"cult of guilt\" are growing louder. How can Holocaust remembrance survive?",
       "category": "health",
       "source": "dw",
-      "url": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/never-again-holocaust-remembrance-under-pressure/a-79840894?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-08T09:54:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "z7e3xj",
+      "title": "Poland begins two days of mourning over Krakow shooting",
+      "summary": "Polish authorities have opened a terror probe after the shooting on Krakow's Main Square. Police confirmed that the bodies found at the suspect's home were those of his parents and sister.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-08T09:43:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "yfg3j8",
+      "title": "Germany news: Friedrich Merz set to confirm presidential nominee",
+      "summary": "The executive committee of the German chancellor's CDU party is expected to finalize its nomination for the country's president. DW has more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-friedrich-merz-set-to-confirm-presidential-nominee/live-79883533?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-08T09:02:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "cmn2ky",
+      "title": "India: Delhi chokes on most polluted Diwali eve in 10 years",
+      "summary": "Delhi was ranked as the world's most polluted major city on the eve of Diwali. Delhi's air pollution is expected to get worse in the coming days. DW has more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-delhi-chokes-on-most-polluted-diwali-eve-in-10-years/live-79883248?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-08T07:53:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "729p8h",
+      "title": "As COP31 Antalya kicks off, can world move beyond big promises?",
+      "summary": "Droughts, floods and extreme heat are upping the pressure on delegates at the UN climate talks in Antalya, Turkey. Can countries move beyond pledges to concrete action?",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-08T05:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "unj6dx",
+      "title": "Poland: Gunman kills 6 in Krakow main square, police say",
+      "summary": "A suspect who fired from a car killed at least six people, including a British tourist, in Krakow's main market square. Officials said the man was fascinated with \"radical\" and \"far-right\" ideologies.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square-police-say/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-07T21:34:00.000Z",
       "sample": false
@@ -29,7 +95,7 @@
     {
       "id": "65b9i7",
       "title": "Israeli president tasks Gadi Eisenkot with forming government",
-      "summary": "President Isaac Herzog has picked former Israeli military chief Gadi Eisenkot, leader of an anti-Netanyahu alliance, to take the first shot at trying to form a government, with tricky coalition talks expected.",
+      "summary": "President Isaac Herzog has picked former Israeli military chief Gadi Eisenkot, leader of an anti-Netanyahu alliance, to take the first shot at trying to form a government. Tricky coalition talks are expected.",
       "category": "military",
       "source": "dw",
       "url": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-xml-mrss",
@@ -137,16 +203,18 @@
       "sample": false
     },
     {
-      "id": "kcxbiy",
-      "title": "Yemen: 22 killed in strike near Sanaa, Houthis say",
-      "summary": "The Iran-backed Houthi rebel group accused Saudi Arabia of hitting several homes in the village of al-Shariya near the Yemeni capital. There was no initial comment from Riyadh.",
+      "id": "l1d2t6",
+      "title": "Yemen: 33 killed in strike near Sanaa, Houthis say",
+      "summary": "The Iran-backed Houthi rebel group accused Saudi Arabia of hitting several homes in the village of al-Shariya near the Yemeni capital.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/yemen-22-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/yemen-33-killed-in-strike-near-sanaa-houthis-say/a-79885177?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-07T13:50:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "mn47nk",
       "title": "New Zealand election too close to call with over 95% of votes counted",
@@ -181,17 +249,6 @@
       "sample": false
     },
     {
-      "id": "r9sjc1",
-      "title": "Germany news: Son of Iran's last shah takes center stage in Frankfurt",
-      "summary": "Iranian opposition leader Reza Pahlavi accepted a peace prize in the name of the Iranian people in Frankfurt. Meanwhile, Germany's defense minister said he believes military conscription will not be needed. DW has more.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-son-of-iran-s-last-shah-takes-center-stage-in-frankfurt/live-79883533?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-07T09:08:00.000Z",
-      "sample": false
-    },
-    {
       "id": "nd4f7j",
       "title": "Amid protests, France's rising debt costs threaten stability",
       "summary": "France plans to spend an extra €4 billion on education amid nationwide protests. But with public debt mounting and interest costs climbing, how much fiscal room does the government have?",
@@ -202,30 +259,6 @@
       "publishedAt": "2026-11-07T08:16:00.000Z",
       "sample": false
     },
-    {
-      "id": "udqtpb",
-      "title": "US: Giant pandas from China make public debut at Atlanta zoo",
-      "summary": "Ping Ping and Fu Shuang are the first giant pandas to be housed in Zoo Atlanta after a gap of two years.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-07T07:33:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "yyjj91",
-      "title": "India news: Vehicles major cause of Delhi pollution, top court says",
-      "summary": "The Supreme Court implored responsible Diwali celebrations as the Indian government sets out to tackle the country's severe air pollution crisis. DW has more.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-vehicles-major-cause-of-delhi-pollution-top-court-says/live-79883248?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-07T07:07:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "x5oz1f",
       "title": "Ilse Aigner tipped by party allies as next German president",
@@ -620,28 +653,6 @@
       "url": "https://www.dw.com/en/russia-s-giant-new-radar-in-kaliningrad-raises-alarm-in-nato/a-79797815?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-01T20:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "hpyeza",
-      "title": "Ethnic Germans in Kazakhstan face legacy of the Soviet Union",
-      "summary": "Kazakhstan is struggling to deal with the legacy of the Soviet dictatorship. Some 85 years ago, Stalin deported hundreds of thousands of people: Some 400,000 ethnic Germans living in the USSR were sent to Kazakhstan.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ethnic-germans-in-kazakhstan-face-legacy-of-the-soviet-union/a-79754048?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-01T13:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ml4q6k",
-      "title": "Germany's search for a nuclear waste site",
-      "summary": "Finland has become the first country with a final storage facility for nuclear waste. Germany is still searching for a site, while some countries have yet to start. Costs are expected to total many billions of euros.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-s-search-for-a-nuclear-waste-site/a-79820678?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-01T08:06:00.000Z",
       "sample": false
     }
   ],
