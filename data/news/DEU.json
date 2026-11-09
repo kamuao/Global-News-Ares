@@ -2,8 +2,41 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-08T21:52:18.933Z",
+  "updatedAt": "2026-11-09T05:35:21.308Z",
   "daily": [
+    {
+      "id": "yoc274",
+      "title": "G7 ministers meet as Europe seeks greater say in Ukraine peace talks",
+      "summary": "With Washington preparing negotiations with Moscow and Kyiv, European leaders fear Ukraine could face pressure to accept a bad deal. Iran tensions and the threat of renewed US strikes are also on the agenda.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/g7-ministers-meet-as-europe-seeks-greater-say-in-ukraine-peace-talks/a-79894960?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-09T04:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "hq5o2t",
+      "title": "Pope Leo urges Argentina's Milei to put people before the economy",
+      "summary": "Pope Leo XIV has urged Argentina to protect democracy and ensure economic growth benefits the poor, delivering a message to President Javier Milei over austerity, social welfare and political divisions.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-09T01:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "bqucea",
+      "title": "Nvidia CEO Huang admits affair amid rumors of China spy ties",
+      "summary": "Following reports of Nvidia's chief Jensen Huang becoming involved with a Chinese spy, Huang offered an apology for cheating on his wife. Meanwhile, the US tech company pledged to investigate the alleged espionage.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-08T23:07:00.000Z",
+      "sample": false
+    },
     {
       "id": "fu51mo",
       "title": "Iran: Trump says strikes unlikely if peace talks keep moving",
@@ -16,12 +49,12 @@
       "sample": false
     },
     {
-      "id": "i6hpcw",
-      "title": "Germany news: Merz to nominate Aigner for president",
+      "id": "yg0eu4",
+      "title": "Germany: Chancellor Merz to nominate Aigner for president",
       "summary": "German Chancellor Friedrich Merz announced that he will nominate Ilse Aigner for federal president, paving the way for her to be the first woman to hold the office. DW has more.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/germany-chancellor-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-08T19:43:00.000Z",
       "sample": false
@@ -202,17 +235,6 @@
       "url": "https://www.dw.com/en/armenia-s-selective-prosecution-a-threat-to-eu-relations/a-79878159?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-07T18:36:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ncy3d6",
-      "title": "More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay",
-      "summary": "Leo celebrated the first Mass of his South America tour less than a month after undergoing cancer surgery. He is seeking to raise interest in the Catholic Church in Uruguay, South America's most secular country.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-07T16:26:00.000Z",
       "sample": false
     },
     {
@@ -642,17 +664,6 @@
       "url": "https://www.dw.com/en/merz-says-next-german-president-must-be-a-woman-report/live-79825749?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-02T07:36:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "pwrawi",
-      "title": "Kimi Antonelli makes history as youngest F1 champion",
-      "summary": "Kimi Antonelli became Formula One's youngest world champion and Italy's first since 1953 when he finished third in Sunday's thrilling and crash-hit Mexico City Grand Prix.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/kimi-antonelli-makes-history-as-youngest-f1-champion/a-79825130?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-02T05:01:00.000Z",
       "sample": false
     }
   ],
