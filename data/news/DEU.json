@@ -2,8 +2,129 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-09T15:43:36.491Z",
+  "updatedAt": "2026-11-10T01:21:29.050Z",
   "daily": [
+    {
+      "id": "y9n05b",
+      "title": "Nvidia shareholders sue Jensen Huang over alleged spy ties",
+      "summary": "Nvidia shareholders have sued the chipmaker and its CEO, Jensen Huang, over his alleged ties to a suspected Chinese spy. The case adds to scrutiny over whether sensitive information at the AI giant was compromised.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/nvidia-shareholders-sue-jensen-huang-over-alleged-spy-ties/a-79905809?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-09T23:55:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "trcjou",
+      "title": "New trilateral talks on Ukraine war in Abu Dhabi: What to expect?",
+      "summary": "Ukrainian and Russian representatives last met in February for talks on ending the war, but the same sticking points remain. Ukraine continues to demand security guarantees, which is a non-starter for Russia.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-09T23:46:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "v0b34q",
+      "title": "Skydance replaces James Gunn and Peter Safran as DC Studios chiefs following Warner Bros. takeover",
+      "summary": "In another major shake-up for the DC Studios, Skydance is replacing Hollywood director James Gunn and producer Peter Safran with a former Marvel executive.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/skydance-replaces-james-gunn-and-peter-safran-as-dc-studios-chiefs-following-warner-bros-takeover/a-79904972?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-09T20:19:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ooyxbi",
+      "title": "US Pentagon chief Hegseth faces impeachment push over Iran war",
+      "summary": "Trump critic Thomas Massie is calling for a vote to impeach Pentagon chief Pete Hegseth, accusing Hegseth of waging war without congressional approval.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-pentagon-chief-hegseth-faces-impeachment-push-over-iran-war/a-79905323?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-09T20:15:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "nvijxx",
+      "title": "Pope Leo draws 2.5 million in Buenos Aires, renews warning over Milei's austerity",
+      "summary": "Some 2.5 million people have attended Pope Leo's mass in Buenos Aires, his largest gathering yet. The pontiff once again called for protecting the vulnerable as President Milei cuts disability care and social services.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/pope-leo-draws-2-5-million-in-buenos-aires-renews-warning-over-milei-s-austerity/a-79904137?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-09T18:38:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "qmz2qx",
+      "title": "French officials blame Iran for supermarket fridge hacking",
+      "summary": "The recent cyberattack on refrigerators and freezers in supermarkets in France was organized by Iran's Revolutionary Guards, French Foreign Minister Jean-Noel Barrot has said, describing the hacking as \"unprecedented.\"",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/french-officials-blame-iran-for-supermarket-fridge-hacking/a-79903646?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-09T18:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "760o7n",
+      "title": "Russia: Independent Novaya Gazeta shuts its Moscow newsroom",
+      "summary": "The investigative newspaper is closing its doors after Russian authorities labeled it a \"foreign agent\" and ordered it vacate its Moscow premises.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-09T16:22:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "whc3bu",
+      "title": "India’s demonetization: 10 years on, promises remain unfulfilled",
+      "summary": "A decade after the 2016 currency ban, its impact on India's economy and the fight against black money remains contested.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-s-demonetization-10-years-on-promises-remain-unfulfilled/a-79903331?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-09T16:21:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "qj8v61",
+      "title": "Ice hockey: Norway says it's been kicked out of World Juniors in favor of Russia",
+      "summary": "The wrangling over Russia's return to international ice hockey continues, with Norway saying it has been kicked out of the next major tournament to accommodate Russia. Switzerland has joined a \"boycott.\"",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ice-hockey-norway-says-it-s-been-kicked-out-of-world-juniors-in-favor-of-russia/a-79901844?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-09T16:02:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pnf4qq",
+      "title": "Fake news in Africa: In an age of disinformation, who decides what's true?",
+      "summary": "From Ghana to Mozambique, the fight against fake news keeps gaining momentum. But combating disinformation also requires safeguards for free speech, leaving some governments in an inconvenient position.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/fake-news-in-africa-in-an-age-of-disinformation-who-decides-what-s-true/a-79874039?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-09T15:56:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "w03r10",
+      "title": "Turkey: Workers killed in Izmir steel plant blast",
+      "summary": "At least 16 workers lost their lives in an explosion at a steel factory in Izmir. President Recep Tayyip Erdogan issued an updated casualty toll after a Cabinet meeting.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/turkey-workers-killed-in-izmir-steel-plant-blast/a-79900748?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-09T15:52:00.000Z",
+      "sample": false
+    },
     {
       "id": "427i0j",
       "title": "Strait of Hormuz still a source of leverage for Iran",
@@ -104,17 +225,6 @@
       "sample": false
     },
     {
-      "id": "5q4nop",
-      "title": "India news:  Delhi air quality level 'severe' after Diwali",
-      "summary": "Illegal fireworks during Diwali celebrations have impacted New Delhi's air quality level. DW has the latest.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-news-delhi-air-quality-level-severe-after-diwali/live-79895307?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-09T07:12:00.000Z",
-      "sample": false
-    },
-    {
       "id": "9ewelu",
       "title": "Krakow mass shooting suspect has died in hospital, police in Poland say",
       "summary": "The alleged gunman who killed six people in a shooting spree in the Polish city of Krakow has died of injuries sustained in a shootout with police, authorities say.",
@@ -124,62 +234,9 @@
       "image": null,
       "publishedAt": "2026-11-09T06:53:00.000Z",
       "sample": false
-    },
-    {
-      "id": "3ypj97",
-      "title": "US President Donald Trump says deportation policy was 'too tough' for voters",
-      "summary": "Trump said his deportation policy may be one of the reasons the Republicans lost so much ground in the midterm elections.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-president-donald-trump-says-deportation-policy-was-too-tough-for-voters/a-79895321?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-09T06:14:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "yoc274",
-      "title": "G7 ministers meet as Europe seeks greater say in Ukraine peace talks",
-      "summary": "With Washington preparing negotiations with Moscow and Kyiv, European leaders fear Ukraine could face pressure to accept a bad deal. Iran tensions and the threat of renewed US strikes are also on the agenda.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/g7-ministers-meet-as-europe-seeks-greater-say-in-ukraine-peace-talks/a-79894960?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-09T04:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "85z9w6",
-      "title": "Pope urges Argentina's Milei to put people before economy",
-      "summary": "Pope Leo XIV has urged Argentina to protect democracy and ensure economic growth benefits the poor, delivering a message to President Javier Milei over austerity, social welfare and political divisions.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/pope-urges-argentina-s-milei-to-put-people-before-economy/a-79894779?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-09T01:35:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bqucea",
-      "title": "Nvidia CEO Huang admits affair amid rumors of China spy ties",
-      "summary": "Following reports of Nvidia's chief Jensen Huang becoming involved with a Chinese spy, Huang offered an apology for cheating on his wife. Meanwhile, the US tech company pledged to investigate the alleged espionage.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-08T23:07:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "y37t62",
-      "title": "Trump says Iran strikes unlikely if peace talks keep moving",
-      "summary": "After weeks of rumors that the US and Israel were preparing new strikes on Iran, President Donald Trump said it was \"highly unlikely\" that he would order a new escalation as the Iranians \"want to make a deal so badly.\"",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/trump-says-iran-strikes-unlikely-if-peace-talks-keep-moving/a-79894190?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-08T20:55:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "yg0eu4",
       "title": "Germany: Chancellor Merz to nominate Aigner for president",
@@ -191,41 +248,6 @@
       "publishedAt": "2026-11-08T19:43:00.000Z",
       "sample": false
     },
-    {
-      "id": "ugkbvm",
-      "title": "Many killed after migrant boat sinks off Senegal",
-      "summary": "The incident occurred near Kebemer off the coast of northwestern Senegal. Authorities on El Hierro in the Canary Islands have declared an emergency after a marked increase in migrant boat arrivals.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-08T19:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rbhrps",
-      "title": "South Africa elections: ANC marks its worst-ever performance",
-      "summary": "The African National Congress, the party of late liberation icon Nelson Mandela, slumped to its worst-ever result in South Africa's municipal election. Voters blame the ANC for water and electricity shortages.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-08T17:35:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "loakq4",
-      "title": "Egypt train crash leaves several dead, over 100 injured",
-      "summary": "A train derailed after colliding with another train south of Cairo, with authorities confirming several deaths and saying more than 100 passengers were injured. Over 50 ambulances were deployed to the scene.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/egypt-train-crash-leaves-several-dead-over-100-injured/a-79892916?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-08T16:49:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "kfcmd7",
       "title": "'Never Again!': Holocaust remembrance under pressure",
