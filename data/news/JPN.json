@@ -2,8 +2,19 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-11-12T14:54:14.094Z",
+  "updatedAt": "2026-11-12T23:23:34.211Z",
   "daily": [
+    {
+      "id": "y4p76e",
+      "title": "Nvidia’s Huang ousted by board in move that roils AI economy",
+      "summary": "Longtime CFO Colette Kress is taking the job of interim CEO, Nvidia said, and Huang will no longer have ties with the chipmaker.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/13/companies/nvidia-huang-ousted/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573770.jpg",
+      "publishedAt": "2026-11-12T22:26:00.000Z",
+      "sample": false
+    },
     {
       "id": "dl29ih",
       "title": "Death penalty sought for ex-SDF member over 2018 Toyama murders",
@@ -321,17 +332,6 @@
       "url": "https://www.japantimes.co.jp/culture/2026/11/12/entertainment-news/vivant-finale-film-drama/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/thumbs/400x400/573548.jpg",
       "publishedAt": "2026-11-12T02:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "3b90a7",
-      "title": "Nvidia fallout puts trade truce to the test as Xi welcomes Trump",
-      "summary": "Accusations Nvidia's Jensen Huang had an affair with an alleged Chinese spy are fueling calls in the U.S. to tighten semiconductor export controls.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/11/12/tech/nvidia-trade-truce-xi-trump/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/thumbs/400x400/573551.jpg",
-      "publishedAt": "2026-11-12T02:39:00.000Z",
       "sample": false
     }
   ],
