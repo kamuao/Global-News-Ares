@@ -2,8 +2,32 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-11-11T13:52:27.061Z",
+  "updatedAt": "2026-11-12T00:18:34.020Z",
   "daily": [
+    {
+      "id": "i072dx",
+      "title": "Brazil's Electoral Court Fines Meta $1.3 Million in Case Over Unequal Treatment of Lula and Fl�vio Bolsonaro",
+      "summary": "Brazil's TSE (Superior Electoral Court) ordered Meta on Tuesday night (10) to pay a R$7.5 million ($1.3 million) fine for failing to take measures to ensure equal treatment of President Luiz In�cio Lula da Silva and Senator Fl�vio Bolsonaro on social media during the presidential election. The decision was unanimous.\nL",
+      "category": "military",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/brazil/2026/11/brazils-electoral-court-fines-meta-13-million-in-case-over-unequal-treatment-of-lula-and-flavio-bolsonaro.shtml",
+      "image": null,
+      "publishedAt": "2026-11-11T21:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "8ek2lv",
+      "title": "Port of Santos Confirms Cyberattack, Says It Does Not Know Whether Data Was Accessed Without Authorization",
+      "summary": "The APS (Santos Port Authority), which manages Brazil's largest port, confirmed that its systems were targeted in a cyberattack but says it has been unable to determine the extent of the incident or whether data was accessed without authorization. Online systems have been partially unavailable since Friday (6), when a ",
+      "category": "technology",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/11/port-of-santos-confirms-cyberattack-says-it-does-not-know-whether-data-was-accessed-without-authorization.shtml",
+      "image": null,
+      "publishedAt": "2026-11-11T15:22:00.000Z",
+      "sample": false
+    }
+  ],
+  "weekly": [
     {
       "id": "f8gefa",
       "title": "'Feito Pipa' Seeks Oscar Nomination and Questions What Family Means in a Divided Brazil",
@@ -47,9 +71,7 @@
       "image": null,
       "publishedAt": "2026-11-10T15:36:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "qb7dom",
       "title": "Lula Travels to COP With Ministers and Ambassadors but Without Brazilian Congressional Leaders",
@@ -136,39 +158,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/11/us-elections-deal-blow-to-trump-sparking-celebrations-among-lula-supporters-and-nikolas-criticism-of-janja.shtml",
       "image": null,
       "publishedAt": "2026-11-05T15:30:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "a428zd",
-      "title": "Brazilian Diplomacy Will Not Comment on Trump's Defeat, but Lula Government Sees End of Imperial Stance",
-      "summary": "Brazil's Ministry of Foreign Affairs did not issue a statement on the results of the U.S. midterm elections. However, diplomats and members of the Lula administration believe the defeat was decisive and should change the Republican president's behavior on the world stage.\nLeia mais (11/04/2026 - 18h14)",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/11/brazilian-diplomacy-will-not-comment-on-trumps-defeat-but-lula-government-sees-end-of-imperial-stance.shtml",
-      "image": null,
-      "publishedAt": "2026-11-04T21:14:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "jb6n5t",
-      "title": "Court Bars Meta From Using News Articles to Train AI in Brazil",
-      "summary": "A S�o Paulo court on Tuesday (3) prohibited Meta, the owner of Facebook, Instagram, WhatsApp and Threads, from using bots to collect news articles, photographs, videos and other content from media outlets affiliated with three Brazilian press associations.\nLeia mais (11/04/2026 - 13h05)",
-      "category": "technology",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/11/court-bars-meta-from-using-news-articles-to-train-ai-in-brazil.shtml",
-      "image": null,
-      "publishedAt": "2026-11-04T16:05:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "4v1oqk",
-      "title": "'Lulazo' Offers Lesson on How to Defeat Milei in 2027, Argentine Opposition Says",
-      "summary": "Lula's victory over Fl�vio Bolsonaro, dubbed the \"Lulazo\" by the Argentine press, was seen by the country's opposition as a personal failure for President Javier Milei and a lesson on how to defeat him in next October's election. Less than two hours after the result was confirmed, a WhatsApp channel called \"Peronist Ar",
-      "category": "technology",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/world/2026/11/lulazo-offers-lesson-on-how-to-defeat-milei-in-2027-argentine-opposition-says.shtml",
-      "image": null,
-      "publishedAt": "2026-11-04T16:01:00.000Z",
       "sample": false
     }
   ],

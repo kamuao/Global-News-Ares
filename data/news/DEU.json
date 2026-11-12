@@ -2,15 +2,147 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-11T13:52:23.650Z",
+  "updatedAt": "2026-11-12T00:18:31.080Z",
   "daily": [
     {
-      "id": "md8skt",
-      "title": "Italy: Hundreds of school evacuated after bomb threats",
+      "id": "6w9abf",
+      "title": "Nvidia prepares to push out CEO Jensen Huang, reports",
+      "summary": "The board at chipmaker Nvidia is reportedly preparing to oust CEO Jensen Huang, according to US media reports. He has been accused of an affair with an alleged Chinese spy.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/nvidia-prepares-to-push-out-ceo-jensen-huang-reports/a-79925002?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-12T00:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xob5x",
+      "title": "Democrat Colom wins Mississippi Senate seat",
+      "summary": "The southern US state of Mississippi has elected its first Black senator in more than 140 years. Democrat Scott Colom has won the seat in a historic upset, according to projections.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/democrat-colom-wins-mississippi-senate-seat/a-79924938?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-11T23:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "y0o5x4",
+      "title": "Russian Foreign Ministry says its ambassador to US has died",
+      "summary": "Russia's Foreign Ministry has said that Alexander Darchiev died from a chronic illness at the age of 66. The long-time diplomat had been in the Washington post since early 2025.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/russian-foreign-ministry-says-its-ambassador-to-us-has-died/a-79924829?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-11T23:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "q43k3j",
+      "title": "Spain: Housing crisis prompts general strike, mass nighttime protests",
+      "summary": "Hundreds of thousands of citizens have hit the streets to protest Spain's housing crisis after millions of union workers staged a general strike. The crisis has triggered snap elections to take place on November 29.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike-mass-nighttime-protests/a-79915208?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-11T21:58:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ze6gvi",
+      "title": "Fears of rising antisemitism in Europe",
+      "summary": "Holocaust survivor Regina Sluszny commemorates the victims of Auschwitz as Jewish communities across Europe face growing hostility. What does the promise of \"Never Again\" mean for Jewish life in Europe today?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/fears-of-rising-antisemitism-in-europe/a-79921783?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-11T20:37:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fzma54",
+      "title": "VW scraps production modernization plan citing tough financial straits",
+      "summary": "VW has announced that it will scrap large-scale modernization in light of its current economic situation. Employee representatives accuse leadership of putting short-term profits before long-term company viability.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/vw-scraps-production-modernization-plan-citing-tough-financial-straits/a-79923597?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-11T19:06:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "fsj5ej",
+      "title": "Integration of immigrants in Germany: Much has been accomplished but problems remain",
+      "summary": "The Federal office for Migration and Refugees has released a new Integration Report. It found that while the integration of people with a migrant history is improving, violent youth remain a problem.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/integration-of-immigrants-in-germany-much-has-been-accomplished-but-problems-remain/a-79923241?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-11T17:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "vwxo96",
+      "title": "Democracy study: One-quarter of Germans want a right-wing authoritarian dictatorship",
+      "summary": "The far-right AfD's electoral successes point to a new trend in Germany: Prejudice, resentment, and extremism are on the rise. A new study suggests satisfaction with democracy is at a low ebb.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/democracy-study-one-quarter-of-germans-want-a-right-wing-authoritarian-dictatorship/a-79922718?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-11T16:41:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "j99psk",
+      "title": "Kenya's last Ebola patient leaves hospital",
+      "summary": "Kenya had nine confirmed cases, while DR Congo continues to battle its deadliest outbreak of the disease.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/kenya-s-last-ebola-patient-leaves-hospital/a-79921240?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-11T16:16:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "epqbru",
+      "title": "Brazil electoral court fines Meta, sees no deliberate election bias",
+      "summary": "The fine came after President Lula's coalition filed a complaint. The court said there was no evidence of intent to influence the election. Meta said it will defend itself against \"false allegations.\"",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-11T15:17:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "darztv",
+      "title": "Is AIIB's complaint mechanism failing affected communities?",
+      "summary": "The AIIB has a grievance redress mechanism for people affected by projects it finances. But those seeking to file a complaint face significant hurdles. Critics say reforms and greater transparency are needed.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/is-aiib-s-complaint-mechanism-failing-affected-communities/a-79919917?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-11T15:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "8qg4y4",
+      "title": "Wael Mohya could make German football history at 17",
+      "summary": "At just 17, Gladbach forward Wael Mohya has earned his first Germany call-up. The dual-national talent has chosen the DFB path for now — and could soon make modern national-team history.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/wael-mohya-could-make-german-football-history-at-17/a-79919787?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-11T15:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ryl7sy",
+      "title": "Italy: Hundreds of schools evacuated after bomb threats",
       "summary": "Although the government believes the threat to be a hoax, it has nevertheless prompted concerns about \"hybrid warfare\" in Europe. Similar messages were sent in Northern Ireland, Ireland, and Bulgaria.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/italy-hundreds-of-school-evacuated-after-bomb-threats/a-79918034?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/italy-hundreds-of-schools-evacuated-after-bomb-threats/a-79918034?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-11T13:43:00.000Z",
       "sample": false
@@ -18,7 +150,7 @@
     {
       "id": "3q026k",
       "title": "Tundu Lissu: After escaping the death penalty, what does his guilty verdict mean for Tanzania's democracy?",
-      "summary": "A treason trial could have meant death by hanging for Tanzanian opposition leader Tundu Lissu. Instead, he now faces four years in prison for incitement to unrest. Ban dissident voices truly be heard in the country?",
+      "summary": "A treason trial could have meant death by hanging for Tanzanian opposition leader Tundu Lissu. Instead, he now faces four years in prison for incitement to unrest. Can voices of dissident truly be heard in the country?",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/tundu-lissu-after-escaping-the-death-penalty-what-does-his-guilty-verdict-mean-for-tanzania-s-democracy/a-79908512?maca=en-rss-en-all-1573-xml-mrss",
@@ -46,17 +178,6 @@
       "url": "https://www.dw.com/en/iran-classes-argentina-navy-air-force-as-terrorist-organizations/a-79916290?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-11T11:24:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "g84vxj",
-      "title": "Spain: Housing crisis prompts general strike",
-      "summary": "Workers across nearly all industries have taken to the picket lines as rents soar and the housing crunch worsens. The crisis is the main political debate ahead of Spain's November 29 elections.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-11T09:11:00.000Z",
       "sample": false
     },
     {
@@ -102,62 +223,9 @@
       "image": null,
       "publishedAt": "2026-11-11T06:38:00.000Z",
       "sample": false
-    },
-    {
-      "id": "xe7jns",
-      "title": "South Korea bus causes large crash near Seoul, dozens hurt",
-      "summary": "The bus triggered a collision involving more than 30 vehicles, including other buses, during rush hour traffic in the South Korean city of Seongnam, just south of Seoul.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/south-korea-bus-causes-large-crash-near-seoul-dozens-hurt/a-79914074?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-11T04:17:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "35a4mm",
-      "title": "Israel: Eisenkot proposes October 7 probe as new Knesset sworn in",
-      "summary": "Ex-IDF chief Gadi Eisenkot has yet to forge a coalition that would allow him to replace Benjamin Netanyahu, despite the new Knesset being dominated by the critics of the current prime minister.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/israel-eisenkot-proposes-october-7-probe-as-new-knesset-sworn-in/a-79913636?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-11T03:33:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ixsyzw",
-      "title": "US Republicans derail push to impeach Defense Secretary Pete Hegseth",
-      "summary": "Pentagon chief Pete Hegseth seems set to survive the impeachment bid launched by maverick Republican lawmaker Thomas Massie, with President Donald Trump praising the outcome of the vote.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-11T02:04:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "2siajl",
-      "title": "US charges 3 alleged Iranian operatives over plots targeting Jewish communities and a UK airbase",
-      "summary": "US prosecutors claim the three men were planning a \"campaign of terror\" against Jewish communities and a UK airbase. The Fairford incident prompted the US to pull out its bombers used for operations against Iran.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-10T23:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "5ct292",
-      "title": "Former Malaysian leader Najib Razak returns home under royal pardon, but faces a separate 15-year prison sentence",
-      "summary": "Najib Razak has left prison under a royal pardon, prompting a minister to resign in protest. Malaysia's former leader still faces a separate 15-year sentence over the corruption scandal that brought him down.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/former-malaysian-leader-najib-razak-returns-home-under-royal-pardon-but-faces-a-separate-15-year-prison-sentence/a-79913437?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-10T20:39:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "mitz9t",
       "title": "British counterterrorism police arrest US soldier accused of spying on behalf of Russia",
@@ -214,17 +282,6 @@
       "sample": false
     },
     {
-      "id": "bkfcs",
-      "title": "Poland: Krakow shooting suspect 'fascinated' by Norwegian mass murder Anders Breivik, says justice minister",
-      "summary": "The 24-year old suspect was found to have read a significant amount of material about Breivik and other far-right figures. Speculation over his motives have prompted a bitter political feud in Warsaw.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/poland-krakow-shooting-suspect-fascinated-by-norwegian-mass-murder-anders-breivik-says-justice-minister/a-79910435?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-10T15:30:00.000Z",
-      "sample": false
-    },
-    {
       "id": "ahcsbe",
       "title": "Neuer injury gives Urbig chance to shape Bayern and Germany future",
       "summary": "Manuel Neuer's latest injury gives Jonas Urbig a run of games in Bayern's goal. Marc-André ter Stegen remains Germany’s No. 1, but Urbig now has a chance to strengthen his case for the future.",
@@ -245,9 +302,7 @@
       "image": null,
       "publishedAt": "2026-11-10T14:32:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "9j2w94",
       "title": "Bulgaria highway pileup kills 12, dozens injured: PM",
@@ -686,61 +741,6 @@
       "url": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-05T07:03:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fsyid7",
-      "title": "36 years later: Hungary opens Communist-era secret service files",
-      "summary": "Decades after the end of Soviet rule, Hungary is releasing all its secret service files. The disclosure is sparking fresh debate about informants, guilt and responsibility.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/36-years-later-hungary-opens-communist-era-secret-service-files/a-79858016?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-04T19:30:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bl8mf2",
-      "title": "The 2011 discovery of neo-Nazi killers aired biases in German policing",
-      "summary": "Many questions still surround the National Socialist Underground whose existence was revealed by neo-Nazi terrorist Beate Zschäpe on November 4, 2011. How has German society reacted to NSU crimes? Has justice been done?",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/the-2011-discovery-of-neo-nazi-killers-aired-biases-in-german-policing/a-79857781?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-04T17:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "gp7qc6",
-      "title": "Kosovo: Outrage as authorities accused of not helping femicide victim",
-      "summary": "Despite reporting her husband to the police and pleading for protection, Arlinda Zekaj was brutally murdered. Now, thousands in Kosovo are protesting what they say is a dramatic failure of state institutions.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/kosovo-outrage-as-authorities-accused-of-not-helping-femicide-victim/a-79856726?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-04T16:17:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "i0b7a6",
-      "title": "Gold for the West Bank: Meet Palestinian karate champ Mariam Bsharat",
-      "summary": "The occupied West Bank is not an obvious breeding ground for sporting success. But Mariam Bsharat, 17, has beaten the odds to become a karate world champion and is making a new life in Germany.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/gold-for-the-west-bank-meet-palestinian-karate-champ-mariam-bsharat/a-79851806?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-04T15:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "x3i5ry",
-      "title": "Harry Potter films turns 25 ahead of new TV series' release",
-      "summary": "In 2001, \"Harry Potter and the Sorcerer's Stone\" hit cinemas and took the world by storm. Today, anticipation for the new series is high, but its creator, J.K. Rowling, remains a controversial figure.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/harry-potter-films-turns-25-ahead-of-new-tv-series-release/a-79856130?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-04T15:14:00.000Z",
       "sample": false
     }
   ],
