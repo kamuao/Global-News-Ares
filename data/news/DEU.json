@@ -2,26 +2,169 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-12T00:18:31.080Z",
+  "updatedAt": "2026-11-12T14:54:09.684Z",
   "daily": [
     {
-      "id": "6w9abf",
-      "title": "Nvidia prepares to push out CEO Jensen Huang, reports",
-      "summary": "The board at chipmaker Nvidia is reportedly preparing to oust CEO Jensen Huang, according to US media reports. He has been accused of an affair with an alleged Chinese spy.",
+      "id": "k973bg",
+      "title": "Iran: Exiled journalists still repressed by regime",
+      "summary": "For many independent reporters, leaving Iran does not mean fully escaping the grasp of the Iranian state. The regime uses family members, bank accounts and the property they left behind to apply pressure across borders.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/iran-exiled-journalists-still-repressed-by-regime/a-79929694?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-12T14:25:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "17tk12",
+      "title": "Nvidia CEO Jensen Huang resigns as scandal mounts over alleged affair with suspected Chinese spy",
+      "summary": "Jensen Huang has resigned from his role as the head of the AI chipmaker over his reported affair with a suspected Chinese spy. Nvidia shares plummeted 13% at the opening of trading on Thursday.",
       "category": "technology",
       "source": "dw",
-      "url": "https://www.dw.com/en/nvidia-prepares-to-push-out-ceo-jensen-huang-reports/a-79925002?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/nvidia-ceo-jensen-huang-resigns-as-scandal-mounts-over-alleged-affair-with-suspected-chinese-spy/a-79931658?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-12T14:02:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "mos3rs",
+      "title": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
+      "summary": "Xi Jinping said that reunification was inevitable, but stopped short of mentioning military force. Taiwan though swiftly rejected Beijing's demands as tensions continue over the island's future.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-12T13:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "yjrexh",
+      "title": "What are fossil fuels?",
+      "summary": "They are in our shampoo bottles, power our cars and heat our homes. But what actually are fossil fuels, and why do they matter?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/what-are-fossil-fuels/a-67970540?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-12T12:04:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "gdvt2k",
+      "title": "Israel strikes Gaza hospital, says Hamas senior figure inside",
+      "summary": "Israel says Hamas was using the hospital as a military command center, while Palestinian officials report at least six people killed, including a surgeon. The strike comes amid an increasingly fragile ceasefire.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-12T11:27:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "o65477",
+      "title": "Germany news: Police raid chapters of Gremium MC biker gang",
+      "summary": "Police in southwestern Germany launched major early-morning operations against a biker gang. The state of Baden-Württemberg is outlawing three of its chapters. Meanwhile, unions are planning more strikes. Follow DW.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-police-raid-chapters-of-gremium-mc-biker-gang/live-79926275?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-12T09:54:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "epv4c3",
+      "title": "Australian teen found alive after six days in the bush",
+      "summary": "The teenager was spotted during an aerial search, after spending days navigating rugged terrain. He had fallen down the side of a riverbed two days before being found.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/australian-teen-found-alive-after-six-days-in-the-bush/a-79926046?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-12T09:14:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1aqse",
+      "title": "Bundeswehr study exposes widespread sexual harassment in German military",
+      "summary": "Sexual misconduct in the Bundeswehr is far more widespread than previously known, with younger women disproportionately affected. Defense Minister Boris Pistorius has called for a policy of \"zero tolerance.\"",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/bundeswehr-study-exposes-widespread-sexual-harassment-in-german-military/a-79926359?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-12T08:45:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "h9nfta",
+      "title": "Intelligent women get less help at work, study finds",
+      "summary": "Women who scored high on intelligence tests were seen as more hostile by their teammates and got less help, a new study finds. High-scoring men faced no such penalty. Research explains why.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/intelligent-women-get-less-help-at-work-study-finds/a-79910881?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-12T07:21:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6sn3db",
+      "title": "India news : Modi government approves $340 million museum in Delhi",
+      "summary": "The government says that the 'Yuge Yugeen Bharat Museum' will have the world's \"largest\" museum dispaly area.\" DW has the latest.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-modi-government-approves-340-million-museum-in-delhi/live-79925477?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-12T06:43:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "wywe9k",
+      "title": "Ukraine peace talks: US envoys meet with Putin at Kremlin",
+      "summary": "The US president's son-in-law Jared Kushner and envoy Steve Witkoff are in Russia to meet Vladimir Putin. The meeting comes after two days of trilateral talks in Abu Dhabi. Follow DW for more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-peace-talks-us-envoys-meet-with-putin-at-kremlin/live-79925580?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-12T06:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "c2jlmn",
+      "title": "Where the US's war with Iran stands after the midterms",
+      "summary": "Almost nine months after it began, the war in Iran has calmed to the point where Donald Trump sees an end. But with the key issues of the conflict unresolved and political change in the US, what is the situation?",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/where-the-us-s-war-with-iran-stands-after-the-midterms/a-79918176?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-12T05:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "g2ecun",
+      "title": "Pope Leo XIV returns to Peru to a big welcome, calls it his 'homeland'",
+      "summary": "An estimated 3 million people greeted Pope Leo XIV in Lima as the Peruvian-citizen pontiff began a six-day homecoming visit to the country where he spent two decades as a missionary and bishop.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/pope-leo-xiv-returns-to-peru-to-a-big-welcome-calls-it-his-homeland/a-79925466?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-12T04:42:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "i63m41",
+      "title": "Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy",
+      "summary": "Nvidia's board is reportedly preparing to oust Jensen Huang amid reports of an affair with a suspected Chinese spy. The shake-up would leave the world's leading AI chip supplier without the co-founder who built it.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-12T00:01:00.000Z",
       "sample": false
     },
     {
-      "id": "xob5x",
-      "title": "Democrat Colom wins Mississippi Senate seat",
+      "id": "4e1pb7",
+      "title": "Mississippi Senate race: Democrat Scott Colom defeats Republican Cindy Hyde-Smith",
       "summary": "The southern US state of Mississippi has elected its first Black senator in more than 140 years. Democrat Scott Colom has won the seat in a historic upset, according to projections.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/democrat-colom-wins-mississippi-senate-seat/a-79924938?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-11T23:33:00.000Z",
       "sample": false
@@ -71,12 +214,12 @@
       "sample": false
     },
     {
-      "id": "fsj5ej",
-      "title": "Integration of immigrants in Germany: Much has been accomplished but problems remain",
-      "summary": "The Federal office for Migration and Refugees has released a new Integration Report. It found that while the integration of people with a migrant history is improving, violent youth remain a problem.",
+      "id": "2cs92z",
+      "title": "Why the integration of immigrants in Germany remains a challenge",
+      "summary": "The Federal Office for Migration and Refugees has released a new Integration Report. It found that while the integration of people with a migrant background is improving, violent youth remain a problem.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/integration-of-immigrants-in-germany-much-has-been-accomplished-but-problems-remain/a-79923241?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/why-the-integration-of-immigrants-in-germany-remains-a-challenge/a-79923241?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-11T17:30:00.000Z",
       "sample": false
@@ -93,31 +236,9 @@
       "sample": false
     },
     {
-      "id": "j99psk",
-      "title": "Kenya's last Ebola patient leaves hospital",
-      "summary": "Kenya had nine confirmed cases, while DR Congo continues to battle its deadliest outbreak of the disease.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/kenya-s-last-ebola-patient-leaves-hospital/a-79921240?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-11T16:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "epqbru",
-      "title": "Brazil electoral court fines Meta, sees no deliberate election bias",
-      "summary": "The fine came after President Lula's coalition filed a complaint. The court said there was no evidence of intent to influence the election. Meta said it will defend itself against \"false allegations.\"",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/brazil-electoral-court-fines-meta-sees-no-deliberate-election-bias/a-79920780?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-11T15:17:00.000Z",
-      "sample": false
-    },
-    {
       "id": "darztv",
       "title": "Is AIIB's complaint mechanism failing affected communities?",
-      "summary": "The AIIB has a grievance redress mechanism for people affected by projects it finances. But those seeking to file a complaint face significant hurdles. Critics say reforms and greater transparency are needed.",
+      "summary": "The Asian Infrastructure Investment Bank has a grievance redress mechanism for people affected by projects it finances. But those seeking to file a complaint face significant hurdles. Critics say reforms are needed.",
       "category": "politics",
       "source": "dw",
       "url": "https://www.dw.com/en/is-aiib-s-complaint-mechanism-failing-affected-communities/a-79919917?maca=en-rss-en-all-1573-xml-mrss",
@@ -135,51 +256,9 @@
       "image": null,
       "publishedAt": "2026-11-11T15:00:00.000Z",
       "sample": false
-    },
-    {
-      "id": "ryl7sy",
-      "title": "Italy: Hundreds of schools evacuated after bomb threats",
-      "summary": "Although the government believes the threat to be a hoax, it has nevertheless prompted concerns about \"hybrid warfare\" in Europe. Similar messages were sent in Northern Ireland, Ireland, and Bulgaria.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/italy-hundreds-of-schools-evacuated-after-bomb-threats/a-79918034?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-11T13:43:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "3q026k",
-      "title": "Tundu Lissu: After escaping the death penalty, what does his guilty verdict mean for Tanzania's democracy?",
-      "summary": "A treason trial could have meant death by hanging for Tanzanian opposition leader Tundu Lissu. Instead, he now faces four years in prison for incitement to unrest. Can voices of dissident truly be heard in the country?",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/tundu-lissu-after-escaping-the-death-penalty-what-does-his-guilty-verdict-mean-for-tanzania-s-democracy/a-79908512?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-11T13:33:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "h2hk8n",
-      "title": "Germany news: Only 1/3 of Germans satisfied with state of democracy",
-      "summary": "A new authoritarianism study has revealed a new low in satisfaction levels with the functioning of German democracy. Meanwhile, the Bundeswehr has banned Chinese-made drones. DW has more.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-only-1-3-of-germans-satisfied-with-state-of-democracy/live-79915066?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-11T11:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "e7dz2s",
-      "title": "Iran classes Argentina navy, air force as 'terrorist organizations'",
-      "summary": "In a tit-for-tat move, Iran has said it now considers Argentina's navy and air force as \"terrorist organizations.\" Tehran claimed Buenos Aires is responsible for further consequences.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/iran-classes-argentina-navy-air-force-as-terrorist-organizations/a-79916290?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-11T11:24:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "6rnjy9",
       "title": "DW Science explainer on the default mode network: what your brain does when you aren't focusing on anything, and why it's important.",
@@ -189,17 +268,6 @@
       "url": "https://www.dw.com/en/dw-science-explainer-on-the-default-mode-network-what-your-brain-does-when-you-aren-t-focusing-on-anything-and-why-it-s-important/a-79908787?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-11T06:57:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "z4iqt1",
-      "title": "India: CPCB addresses stark Delhi pollution data gap on Diwali night",
-      "summary": "India's main pollution monitor has issued a clarification on a wide air quality data gap between official and private reporting in New Delhi that saw the city choked amid Diwali fireworks. DW has the latest.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/india-cpcb-addresses-stark-delhi-pollution-data-gap-on-diwali-night/live-79914190?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-11T06:46:00.000Z",
       "sample": false
     },
     {
@@ -213,19 +281,6 @@
       "publishedAt": "2026-11-11T06:41:00.000Z",
       "sample": false
     },
-    {
-      "id": "7ulb5e",
-      "title": "How AI worsens online violence against Middle East women",
-      "summary": "Women in the Middle East already have to deal with an above-average share of online harassment and violence. The proliferation of AI-enabled tools is making it worse.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/how-ai-worsens-online-violence-against-middle-east-women/a-79912634?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-11T06:38:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "mitz9t",
       "title": "British counterterrorism police arrest US soldier accused of spying on behalf of Russia",
@@ -359,12 +414,12 @@
       "sample": false
     },
     {
-      "id": "y1miqj",
-      "title": "US, Russia, Ukraine wrap up Abu Dhabi talks with prisoner exchange",
+      "id": "h0fyoa",
+      "title": "US, Russia, Ukraine wrap up talks with prisoner exchange agreement",
       "summary": "Peace talks between Russia, Ukraine and the US concluded in the United Arab Emirates. The two day talks were the first such meeting since February. DW has the latest updates.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/us-russia-ukraine-wrap-up-abu-dhabi-talks-with-prisoner-exchange/live-79906232?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/us-russia-ukraine-wrap-up-talks-with-prisoner-exchange-agreement/live-79906232?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-10T07:09:00.000Z",
       "sample": false
@@ -686,61 +741,6 @@
       "url": "https://www.dw.com/en/germany-s-gen-z-protests-spark-debate-on-integration-bias/a-79868497?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-05T16:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ecdi8i",
-      "title": "Russia is back in world sport, but who is drug testing its athletes?",
-      "summary": "DW has found that three-quarters of Russia's weightlifting team had no independent out-of-competition testing before this year's world championships, despite the country's doping history.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/russia-is-back-in-world-sport-but-who-is-drug-testing-its-athletes/a-79862467?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T14:51:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "xnnga8",
-      "title": "Pioneering Jewish academy opens in Germany",
-      "summary": "A Jewish academy has opened its doors in Frankfurt. The Central Council of Jews in Germany, the country’s leading Jewish umbrella group, set up the project to combat hate and promote dialogue and learning nationally.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/pioneering-jewish-academy-opens-in-germany/a-79863293?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T11:57:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "v1qxfu",
-      "title": "Cristiano Ronaldo announces retirement from international football",
-      "summary": "The announcement by the footballing legend comes just weeks after a public spat with Portugal coach Jorge Jesus over playing time.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T11:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "jxktkl",
-      "title": "Bomb threats disrupt several flights across Europe",
-      "summary": "At least a dozen flights were either diverted or landed with a military escort after bomb or security threats. The first reported case involved a flight from Dublin to Rome landing outside Paris and more soon followed.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/bomb-threats-disrupt-several-flights-across-europe/a-79861216?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T10:10:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "217dcl",
-      "title": "What the Democrats' midterms win means for the US economy and Trump",
-      "summary": "From high oil prices and data centers to tariffs and mounting debt, economic concerns played a key role in the crushing defeat of President Donald Trump's Republicans. So can the Democrats now make a difference?",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-05T07:03:00.000Z",
       "sample": false
     }
   ],
