@@ -2,34 +2,199 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-12T23:23:31.596Z",
+  "updatedAt": "2026-11-13T14:20:59.525Z",
   "daily": [
     {
-      "id": "sno0m0",
-      "title": "EU leaders tussle over who to send to Ukraine, Russia peace talks",
+      "id": "de0464",
+      "title": "Is the AI bubble bursting just as Anthropic goes public?",
+      "summary": "The sharp sell-off in tech stocks after the US midterms has cast doubt on Anthropic's looming IPO. Yet with hundreds of billions still being invested, some think the AI party is still in full swing.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-13T12:27:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ibdlwh",
+      "title": "Germany's Nmecha won't repeat controversial goal celebration",
+      "summary": "Germany head coach Jürgen Klopp says that midfielder Felix Nmecha will not repeat a goal celebration that sparked controversy over the past week. Germany are set to face Serbia and the Netherlands in the Nations League.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-s-nmecha-won-t-repeat-controversial-goal-celebration/a-79937994?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-13T11:04:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6gzkur",
+      "title": "EU leaders gather for first ever AI summit",
+      "summary": "The summit comes as worries about the artificial intelligence's global impact mount and Europe seeks a role in its development and regulation.",
+      "category": "technology",
+      "source": "dw",
+      "url": "https://www.dw.com/en/eu-leaders-gather-for-first-ever-ai-summit/a-79937463?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-13T10:21:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "nvs979",
+      "title": "Ukraine updates: Russia hit with second car bomb attack in two days",
+      "summary": "A second car bomb in two days exploded in Moscow, targeting an exiled Ukrainian political aide, according to Russian media. Meanwhile, Ukraine and Russia exchanged deadly strikes overnight. DW has more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/ukraine-updates-russia-hit-with-second-car-bomb-attack-in-two-days/live-79937459?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-13T10:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "y72pl",
+      "title": "Humanitarian situation in Gaza worsens amid political deadlock",
+      "summary": "In war-battered Gaza, heavy rain flooded and damaged thousands of tents. Several people died. Could pressure by Trump's Board of Peace on Israel and Hamas help to ease the humanitarian crisis amid stalled peace talks?",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-13T09:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "97f6wq",
+      "title": "Germany news: Parliament agrees on debt-laden 2027 budget",
+      "summary": "The budget committee in the Bundestag worked into the night to sign off on next year's spending plans. These include levels of new debt only eclipsed once, at the height of the COVID pandemic. DW has more.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-parliament-agrees-on-debt-laden-2027-budget/live-79936897?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-13T08:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "2s4fm1",
+      "title": "Czechia braces for massive protest against cuts to public media",
+      "summary": "A fast-tracked bill to cut public media funding has sparked strikes, rallies and fears for the independence of public broadcasting in Czechia. A massive protest is planned for Prague on Sunday.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-against-cuts-to-public-media/a-79933533?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-13T08:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "tzi5ee",
+      "title": "After suffering its worst election result, what's next for the ANC — and for South Africa?",
+      "summary": "A crushing local election result across the country has left South Africa's ruling ANC searching for answers. Experts say the vote reflects public frustration with service delivery failures — signaling a political shift.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/after-suffering-its-worst-election-result-what-s-next-for-the-anc-and-for-south-africa/a-79929902?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-13T08:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "qlxg12",
+      "title": "Could lack of money sink TFFF rainforest fund before it even launches?",
+      "summary": "The TFFF rainforest fund aims to make forest conservation more profitable than deforestation. But a lack of money may prevent it from getting off the ground.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/could-lack-of-money-sink-tfff-rainforest-fund-before-it-even-launches/a-79878673?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-13T08:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rpq36h",
+      "title": "US Senate asks Huang, Lutnick to testify on Nvidia",
+      "summary": "Senate Banking Committee Chairman Tim Scott has asked Commerce Secretary Howard Lutnick and former Nvidia chief Jensen Huang to testify, as House Republicans demand closed-door interviews amid national security concerns.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-senate-asks-huang-lutnick-to-testify-on-nvidia/a-79936707?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-13T08:02:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "gxkwdy",
+      "title": "Iranian activist and Nobel Peace Prize winner Narges Mohammadi shares her story in memoir",
+      "summary": "Written and smuggled out of prison, the 2023 Nobel Prize laureate's memoir reveals the cost of defying Iran's regime and fighting for freedom.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/iranian-activist-and-nobel-peace-prize-winner-narges-mohammadi-shares-her-story-in-memoir/a-79868167?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "m41ojf",
+      "title": "Microsoft rules out 'malicious activity' as cause for global outage",
+      "summary": "A Microsoft outage disrupted Outlook and Teams worldwide, with reports from scores of countries and territories. The software giant said that it was \"not aware\" of malicious activity that could have caused the outage.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/microsoft-rules-out-malicious-activity-as-cause-for-global-outage/a-79935611?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-13T07:46:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "we0j93",
+      "title": "India news: Sonam Wangchuk says he is under house arrest in Ladakh",
+      "summary": "Wangchuk is among activists in Ladakh who have raised concerns about upcoming regional elections, which they say are designed to diminish voter participation as they will be held in the harsh winter period. DW has more.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-sonam-wangchuk-says-he-is-under-house-arrest-in-ladakh/live-79936475?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-13T07:05:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "zh02f7",
+      "title": "US disrupts North Korea's $400 million crypto scam, FBI says",
+      "summary": "The US has seized servers linked to a North Korean scam that used fake video meetings and deepfakes to steal more than $400 million in crypto, and has moved to seize $1.2 billion that was taken from Binance.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-disrupts-north-korea-s-400-million-crypto-scam-fbi-says/a-79935957?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-13T04:19:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "cg0oi",
+      "title": "Darth Vader strikes back at auction as his lightsaber from two original Star Wars films reclaims the record from Luke Skywalker's prop",
+      "summary": "Darth Vader's lightsaber sold for nearly $5 million, breaking the record set by Luke Skywalker's in July. The hilt, made from a 1950s camera flash attachment, was used in two of the original trilogy's duels.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/darth-vader-strikes-back-at-auction-as-his-lightsaber-from-two-original-star-wars-films-reclaims-the-record-from-luke-skywalker-s-prop/a-79935960?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-13T02:27:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "7hua7z",
+      "title": "FIFA loses bid to block UEFA evidence gathering against Infantino",
+      "summary": "A New York judge has dismissed soccer governing body FIFA's attempts to shield its president from investigation. Europe's UEFA is seeking evidence of wrongdoing by Gianni Infantino.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/fifa-loses-bid-to-block-uefa-evidence-gathering-against-infantino/a-79935807?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-13T00:02:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ylu3cx",
+      "title": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
       "summary": "A seat at the table for Europe now appears likely following comments by a US envoy who just held talks with Putin. But who will take that seat remains unclear.",
       "category": "health",
       "source": "dw",
-      "url": "https://www.dw.com/en/eu-leaders-tussle-over-who-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-12T22:00:00.000Z",
       "sample": false
     },
     {
-      "id": "w51nfm",
-      "title": "Microsoft reports mass outages in US, impacting customer accessibility",
-      "summary": "Software giant Microsoft has reported widespread outages of its Outlook and Teams services in the US. Nearly 130,000 users have reported disruptions.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/microsoft-reports-mass-outages-in-us-impacting-customer-accessibility/a-79935611?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-12T21:19:00.000Z",
-      "sample": false
-    },
-    {
       "id": "yyqs8d",
       "title": "Pete Hegseth honors soldier who scolded him at Arlington cemetery",
-      "summary": "The soldier had reprimanded the US Defense Secretary and his group after they were heard talking and laughing at the Tomb of the Unknown Soldier. The site is one of the most solemn military memorials in the US.",
+      "summary": "The soldier had reprimanded the US defense secretary and his group after they were heard talking and laughing at the Tomb of the Unknown Soldier. The site is one of the most solemn military memorials in the US.",
       "category": "military",
       "source": "dw",
       "url": "https://www.dw.com/en/pete-hegseth-honors-soldier-who-scolded-him-at-arlington-cemetery/a-79935075?maca=en-rss-en-all-1573-xml-mrss",
@@ -49,17 +214,6 @@
       "sample": false
     },
     {
-      "id": "g0flsi",
-      "title": "Czechia braces for massive protest as anger over government's public media reform plans boils",
-      "summary": "A fast-tracked bill on public media funding reform has sparked strikes, rallies and fears for the independence of public broadcasting in Czechia. A massive protest is due to take place in Prague on November 15.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-as-anger-over-government-s-public-media-reform-plans-boils/a-79933533?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-12T18:26:00.000Z",
-      "sample": false
-    },
-    {
       "id": "biq0c2",
       "title": "Can the EU make it harder to trick consumers online?",
       "summary": "The EU wants to curb subscription traps, misleading sales tactics and features that keep people scrolling. What would the proposed Digital Fairness Act change, and does it go far enough?",
@@ -68,17 +222,6 @@
       "url": "https://www.dw.com/en/can-the-eu-make-it-harder-to-trick-consumers-online/a-79933447?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-12T17:19:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "um063s",
-      "title": "Mercedes-Benz halts all further investment at German facilities",
-      "summary": "The announcement comes as the luxury German automaker faces increasing pressure from the works council and trade unions.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/mercedes-benz-halts-all-further-investment-at-german-facilities/a-79934509?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-12T16:59:00.000Z",
       "sample": false
     },
     {
@@ -104,17 +247,6 @@
       "sample": false
     },
     {
-      "id": "js5bqk",
-      "title": "Sri Lanka: Rights groups sound alarm over proposed anti-terror law",
-      "summary": "The Sri Lankan government is looking to replace a controversial anti-terror law, but critics say the new one is just as bad.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/sri-lanka-rights-groups-sound-alarm-over-proposed-anti-terror-law/a-79932227?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-12T15:40:00.000Z",
-      "sample": false
-    },
-    {
       "id": "8jmr7l",
       "title": "UK court convicts 2 Iranian men of spying on journalists",
       "summary": "A London court has found two Iranian citizens guilty of surveilling reporters for a Persian-language television station critical of Iran's government. One was also convicted of planning a violent attack against them.",
@@ -126,49 +258,18 @@
       "sample": false
     },
     {
-      "id": "6jamlc",
-      "title": "Impeachment: How it works and why Trump should be worried",
-      "summary": "Pete Hegseth, Bill Clinton and Donald Trump (twice so far): attempts to impeach political figures are becoming common. The failure rate looks high, but according to experts, conviction is not always the aim.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/impeachment-how-it-works-and-why-trump-should-be-worried/a-79931040?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-12T15:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "l21g5l",
-      "title": "Jensen Huang: Spy row, second affair leaves Nvidia without its rockstar CEO",
-      "summary": "Jensen Huang, who built Nvidia into the world’s dominant AI chipmaker, is stepping down as CEO after a second affair came to light. DW examines how losing its figurehead will affect the firm and the US-China AI race.",
+      "id": "hbywng",
+      "title": "Jensen Huang: Spy row, affairs leave Nvidia without its rockstar CEO",
+      "summary": "Jensen Huang, who built Nvidia into the world’s dominant AI chipmaker, is stepping down as CEO over extramarital affairs. DW examines how losing its figurehead will affect the firm and the US-China AI race.",
       "category": "health",
       "source": "dw",
-      "url": "https://www.dw.com/en/jensen-huang-spy-row-second-affair-leaves-nvidia-without-its-rockstar-ceo/a-79926972?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/jensen-huang-spy-row-affairs-leave-nvidia-without-its-rockstar-ceo/a-79926972?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-12T15:08:00.000Z",
       "sample": false
-    },
-    {
-      "id": "k973bg",
-      "title": "Iran: Exiled journalists still repressed by regime",
-      "summary": "For many independent reporters, leaving Iran does not mean fully escaping the grasp of the Iranian state. The regime uses family members, bank accounts and the property they left behind to apply pressure across borders.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/iran-exiled-journalists-still-repressed-by-regime/a-79929694?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-12T14:25:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mos3rs",
-      "title": "China's Xi Jinping renews calls for 'reunification' with Taiwan",
-      "summary": "Xi Jinping said that reunification was inevitable, but stopped short of mentioning military force. Taiwan though swiftly rejected Beijing's demands as tensions continue over the island's future.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/china-s-xi-jinping-renews-calls-for-reunification-with-taiwan/a-79929738?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-12T13:26:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "yjrexh",
       "title": "What are fossil fuels?",
@@ -181,17 +282,6 @@
       "sample": false
     },
     {
-      "id": "gdvt2k",
-      "title": "Israel strikes Gaza hospital, says Hamas senior figure inside",
-      "summary": "Israel says Hamas was using the hospital as a military command center, while Palestinian officials report at least six people killed, including a surgeon. The strike comes amid an increasingly fragile ceasefire.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-12T11:27:00.000Z",
-      "sample": false
-    },
-    {
       "id": "o65477",
       "title": "Germany news: Police raid chapters of Gremium MC biker gang",
       "summary": "Police in southwestern Germany launched major early-morning operations against a biker gang. The state of Baden-Württemberg is outlawing three of its chapters. Meanwhile, unions are planning more strikes.",
@@ -200,17 +290,6 @@
       "url": "https://www.dw.com/en/germany-news-police-raid-chapters-of-gremium-mc-biker-gang/live-79926275?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-12T09:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "epv4c3",
-      "title": "Australian teen found alive after six days in the bush",
-      "summary": "The teenager was spotted during an aerial search, after spending days navigating rugged terrain. He had fallen down the side of a riverbed two days before being found.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/australian-teen-found-alive-after-six-days-in-the-bush/a-79926046?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-12T09:14:00.000Z",
       "sample": false
     },
     {
@@ -234,9 +313,7 @@
       "image": null,
       "publishedAt": "2026-11-12T07:21:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "ze6gvi",
       "title": "Fears of rising antisemitism in Europe",
@@ -708,50 +785,6 @@
       "url": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-06T17:10:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "vtwjfg",
-      "title": "Czech arms makers set sights on space defense in bid to sustain Ukraine-driven arms boom",
-      "summary": "Czech arms makers have thrived on demand linked to the war in Ukraine. To sustain their growth, they need to look beyond ammunition and toward new technologies — and even space.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/czech-arms-makers-set-sights-on-space-defense-in-bid-to-sustain-ukraine-driven-arms-boom/a-79876035?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-06T14:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "a4048i",
-      "title": "What to know about the IIHF Women's Ice Hockey World Championship",
-      "summary": "As ice hockey's governing body continues to wrangle over how to respond to a CAS order to reinstate Russia to international play, the top women's tournament gets underway in Denmark without Russia.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/what-to-know-about-the-iihf-women-s-ice-hockey-world-championship/a-79876148?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-06T13:26:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "bumfwp",
-      "title": "Exercise coaching boosts colon cancer survival",
-      "summary": "Evidence suggests exercise can keep more cancer patients alive. But what does \"living longer\" actually mean, and who does it apply to?",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/exercise-coaching-boosts-colon-cancer-survival/a-79856133?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-06T11:11:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "706ihw",
-      "title": "European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets",
-      "summary": "European shares have fallen after sharp losses in Asia and on Wall Street. Doubts over huge AI investments and fears of curbs following the Democrats' US midterm victory have rattled global markets.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-06T09:29:00.000Z",
       "sample": false
     }
   ],
