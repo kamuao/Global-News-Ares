@@ -2,17 +2,72 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-11-14T05:44:03.805Z",
+  "updatedAt": "2026-11-14T13:15:23.573Z",
   "daily": [
     {
+      "id": "5t06do",
+      "title": "U.S. Air Force captain arrested in Okinawa for alleged drunk driving",
+      "summary": "The arrest comes just a week after Tokyo and Washington agreed to measures aimed at preventing crimes by U.S. service members.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/14/japan/crime-legal/okinawa-us-captain-arrest/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/thumbs/400x400/574023.jpg",
+      "publishedAt": "2026-11-14T09:37:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "qj23ab",
+      "title": "6-year-old Gaza burn victim caught in Israeli dispute over aid",
+      "summary": "Masa Yassin needs a new mask to control the scars on her face, but Israel is preventing the plastic needed for the treatment from being imported.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/14/world/society/gaza-6-year-old-burn-victim/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/thumbs/400x400/574019.jpg",
+      "publishedAt": "2026-11-14T08:19:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "r9p1jb",
+      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+      "summary": "The revelation follows two other extramarital affairs that led to his resignation Thursday.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/14/huang-second-employee-relationship/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/thumbs/400x400/574018.jpg",
+      "publishedAt": "2026-11-14T08:06:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rdi5yw",
+      "title": "Eddie Jones vows Japan will ‘play the house down’ in matchup with England",
+      "summary": "Eddie Jones remains England's most successful coach in terms of winning percentage.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/sports/2026/11/14/more-sports/eddie-jones-england-return/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/thumbs/400x400/574017.jpg",
+      "publishedAt": "2026-11-14T05:36:00.000Z",
+      "sample": false
+    },
+    {
       "id": "p4ntr3",
-      "title": "Microsoft says consumer products services recovered Friday",
-      "summary": "The firm said that server issues were behind the incident and that it was not aware of any malicious activity and ruled out AI as the cause.",
+      "title": "Microsoft says services fully restored after outage roiled world",
+      "summary": "Access has been fully restored to itd flagship software, ending an outage that paralyzed government offices, traders and businesses around the world.",
       "category": "military",
       "source": "japan-times",
       "url": "https://www.japantimes.co.jp/business/2026/11/14/microsoft-outage-recovered/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/thumbs/400x400/573999.jpg",
       "publishedAt": "2026-11-14T04:53:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "g3f7sq",
+      "title": "Japan and Philippines to ink deal on oil reserve cooperation",
+      "summary": "Under the partnership, Japan will help the Philippines develop a national oil reserve system as part of measures to enhance its energy security.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/14/japan-philippines-oil-reserve-deal/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/thumbs/400x400/574015.jpg",
+      "publishedAt": "2026-11-14T04:42:00.000Z",
       "sample": false
     },
     {
@@ -28,7 +83,7 @@
     },
     {
       "id": "xbvfos",
-      "title": "Rubio labels international law a tool of elites, attacks ICC",
+      "title": "Rubio labels international law a tool of elites and attacks ICC",
       "summary": "The Secretary of State warned that the U.S. would never submit to the \"sterile vision of radical judges or soulless global bureaucrats.\"",
       "category": "military",
       "source": "japan-times",
@@ -116,8 +171,8 @@
     },
     {
       "id": "vpvlkf",
-      "title": "U.S. grounds all flights for hours, sparking travel chaos",
-      "summary": "The nationwide stop left hundreds of thousands of passengers in limbo, with some pulled off planes moments before departure.",
+      "title": "U.S. air travel resumption will ‘take time’ after hours-long stop",
+      "summary": "The nationwide stop Friday left hundreds of thousands of passengers in limbo, with some pulled off planes moments before departure.",
       "category": "politics",
       "source": "japan-times",
       "url": "https://www.japantimes.co.jp/news/2026/11/14/world/departing-us-flights-grounded-canceled/",
@@ -157,7 +212,9 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573694.jpg",
       "publishedAt": "2026-11-13T23:00:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "qagi7z",
       "title": "Malaysia weighing how to aid AirAsia without risking public funds, ex-minister says",
@@ -193,7 +250,7 @@
     },
     {
       "id": "jzzjin",
-      "title": "Sumitomo Mitsui, Mizuho raises annual profit forecast and announces share buyback",
+      "title": "Sumitomo Mitsui and Mizuho raise profit forecast and announce share buyback",
       "summary": "Japanese lenders are on a record earnings streak thanks to the BOJ's interest-rate hikes, with corporate borrowing showing few signs of slowing down.",
       "category": "politics",
       "source": "japan-times",
@@ -278,63 +335,7 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573867.jpg",
       "publishedAt": "2026-11-13T06:53:00.000Z",
       "sample": false
-    },
-    {
-      "id": "ilotqr",
-      "title": "China’s access to Nvidia chips in doubt as curbs gain traction in U.S. Congress",
-      "summary": "Nvidia's advanced chips are widely used to develop AI models, making the company key in the U.S. race against China to build superior AI systems.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/13/world/china-access-nvidia-chips-doubt/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573859.jpg",
-      "publishedAt": "2026-11-13T06:46:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "crrsgb",
-      "title": "NHK reveals performers for annual New Year’s Eve spectacle ‘Kohaku’",
-      "summary": "Cutie Street, Macaroni Empitsu and L'Arc-en-Ciel are among the acts set to take the stage for the NHK extravaganza.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/culture/2026/11/13/entertainment-news/kohaku-uta-gassen-lineup/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573959.jpg",
-      "publishedAt": "2026-11-13T06:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "r9mwdr",
-      "title": "Iguchi era gets off to winning start as Japan beats Taiwan",
-      "summary": "Tomoya Masaki homered twice and Yumeto Kanemaru threw seven scoreless innings in the 5-0 win.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/11/13/baseball/japanese-baseball/iguchi-samurai-japan-taiwan/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573933.jpg",
-      "publishedAt": "2026-11-13T06:38:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "27f5n3",
-      "title": "Commanders beat Giants 24-21 with late Diggs touchdown",
-      "summary": "The late loss prevented New York pulling clear in the NFC East, with the Giants remaining top on 5-3-1 but closely trailed by the Cowboys (4-5).",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/11/13/more-sports/commanders-giants-tnf-diggs/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573929.jpg",
-      "publishedAt": "2026-11-13T06:32:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "3hoywz",
-      "title": "AI industry weighs future without Nvidia’s Huang",
-      "summary": "Huang's abrupt fall comes amid mounting concerns about the financial soundness of the industry's colossal investment spree.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/11/13/tech/ai-sector-after-huang/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/13/thumbs/400x400/573850.jpg",
-      "publishedAt": "2026-11-13T06:28:00.000Z",
-      "sample": false
     }
   ],
-  "weekly": [],
   "developing": []
 }

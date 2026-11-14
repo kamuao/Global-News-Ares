@@ -2,8 +2,52 @@
   "id": "AUS",
   "name": "Australia",
   "sample": false,
-  "updatedAt": "2026-11-14T05:44:05.070Z",
+  "updatedAt": "2026-11-14T13:15:25.020Z",
   "daily": [
+    {
+      "id": "z68xf4",
+      "title": "'We're still standing': King Charles jokes with Elton John in birthday clip",
+      "summary": "King Charles appears in a special edition of the singer's \"Elton John's Rocket Hour\" to celebrate 50 years of The King's Trust and the musicians who have supported the monarch's youth charity.",
+      "category": "health",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-11-14/king-charles-jokes-with-elton-john-in-birthday-clip/107386532",
+      "image": null,
+      "publishedAt": "2026-11-14T12:14:20.000Z",
+      "sample": false
+    },
+    {
+      "id": "etxkdp",
+      "title": "Heat hammer Hurricanes to hand WBBL champions sixth straight loss",
+      "summary": "The Hobart Hurricanes' WBBL defence falls further into tatters with a humiliating 10-wicket loss to the Brisbane Heat.",
+      "category": "environment",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-11-14/hobart-hurricanes-hammered-by-brisbane-heat-in-wbbl/107386442",
+      "image": null,
+      "publishedAt": "2026-11-14T08:34:29.000Z",
+      "sample": false
+    },
+    {
+      "id": "makmf3",
+      "title": "Vescio stars in milestone game as Blues and Swans reach preliminary finals",
+      "summary": "Darcy Vescio celebrates her 100th game with two goals as Carlton defeats Hawthorn by five points in an AFLW semifinal blockbuster after Sydney gets past Geelong.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-11-14/vescio-stars-dunlop-injury-blues-hawks-swans-cats-aflw/107386422",
+      "image": null,
+      "publishedAt": "2026-11-14T07:10:53.000Z",
+      "sample": false
+    },
+    {
+      "id": "w070xj",
+      "title": "Father Christmas greeted by estimated 335,000 at Adelaide pageant",
+      "summary": "Skies were grey but enthusiasm was as avid as ever, as Father Christmas arrived in Adelaide in typical style in front of a crowd estimated to exceed 300,000 along the route of the annual pageant.",
+      "category": "politics",
+      "source": "abc-au",
+      "url": "https://www.abc.net.au/news/2026-11-14/father-christmas-arrives-in-adelaide-at-annual-christmas-pageant/107385880",
+      "image": null,
+      "publishedAt": "2026-11-14T06:08:43.000Z",
+      "sample": false
+    },
     {
       "id": "yun70c",
       "title": "Australia's newest fast-bowling sensation tipped for big things from a young age",
@@ -172,7 +216,7 @@
     {
       "id": "ju0ss3",
       "title": "Albanese, Bowen caught talking phones and 'dicks' in hot-mic gaffe",
-      "summary": "The Prime Minister's office says Anthony Albanese and Chris Bowen were sharing a joke when a private conversation was inadvertently recorded at the COP31 summit.",
+      "summary": "The prime minister's office says Anthony Albanese and Chris Bowen were sharing a joke when a private conversation was inadvertently recorded at the COP31 summit.",
       "category": "politics",
       "source": "abc-au",
       "url": "https://www.abc.net.au/news/2026-11-14/anthony-albanese-chris-bowen-hot-mic-gaffe-cop-31-climate-summit/107385964",
@@ -233,50 +277,6 @@
       "url": "https://www.abc.net.au/news/2026-11-14/missed-opportunities-floreat-shooting-inquest-jennifer-petelczyc/107384594",
       "image": null,
       "publishedAt": "2026-11-14T00:05:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "5jy3hg",
-      "title": "Man dies after house fire in Geelong suburb",
-      "summary": "A man has died in a house fire in a suburb in outer Geelong that does not have a local fire station, despite one being promised by the Victorian government.",
-      "category": "society",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-11-14/man-dead-armstrong-creek-house-fire-geelong/107385832",
-      "image": null,
-      "publishedAt": "2026-11-13T23:52:23.000Z",
-      "sample": false
-    },
-    {
-      "id": "mbu3ig",
-      "title": "Australian cricket urged to stop 'eating itself' as Sandpapergate rolls on",
-      "summary": "The ball-tampering scandal doesn't look like it's going away any time soon, with Greg Chappell fearing Australian cricket could \"eat itself\".",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-11-14/feuding-sandpapergate-cricketers-told-to-move-on-greg-chappel/107385674",
-      "image": null,
-      "publishedAt": "2026-11-13T23:41:21.000Z",
-      "sample": false
-    },
-    {
-      "id": "87o4n4",
-      "title": "Former NT administrator opens up about being groomed as a child",
-      "summary": "Former Northern Territory administrator Hugh Heggie was just 14 years old when an older church youth group leader began grooming him. He says he hopes sharing his story will help other survivors feel less alone.",
-      "category": "politics",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-11-14/former-nt-administrator-hugh-heggie-on-being-groomed-as-a-child/107372262",
-      "image": null,
-      "publishedAt": "2026-11-13T22:55:44.000Z",
-      "sample": false
-    },
-    {
-      "id": "i7v3ef",
-      "title": "Police seeking witnesses after violent home invasion in Canberra",
-      "summary": "Three men armed with a firearm, knife, sword and baseball bat, broke into the home, allegedly assaulting a woman while a child was present.",
-      "category": "military",
-      "source": "abc-au",
-      "url": "https://www.abc.net.au/news/2026-11-14/police-call-witnesses-hackett-home-invasion/107385772",
-      "image": null,
-      "publishedAt": "2026-11-13T22:52:22.000Z",
       "sample": false
     }
   ],
