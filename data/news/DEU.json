@@ -2,17 +2,50 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-13T23:24:45.508Z",
+  "updatedAt": "2026-11-14T05:44:01.970Z",
   "daily": [
     {
-      "id": "pwgxof",
-      "title": "FAA issues US national ground stop on all flights",
-      "summary": "The US federal aviation regulator announced a nationwide ground stop for all airports. Federal officials blamed a communications outage and said technicians are investigating.",
+      "id": "41zbt6",
+      "title": "Senegal Youth Olympics in Dakar end on high note",
+      "summary": "Enthusiastic crowds attended the games in Senegal, with China taking home the most gold medals. It's the first Olympic Games since Russia's war on Ukraine where Russian athletes can compete under their own flag.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/senegal-youth-olympics-in-dakar-end-on-high-note/a-79944820?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-14T04:25:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "211cug",
+      "title": "Trump to meet Xi, Putin for three-way huddle on nuclear arms talks",
+      "summary": "The White House has said President Donald Trump will urge Xi Jinping and Vladimir Putin to discuss cutting nuclear arsenals in Shenzhen next week, though a senior US official expects no agreement.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/faa-issues-us-national-ground-stop-on-all-flights/a-79945062?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-11-13T22:57:00.000Z",
+      "publishedAt": "2026-11-14T04:11:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "jdbge4",
+      "title": "SpaceX launches Starship rocket, fails to recover booster",
+      "summary": "SpaceX had planned to catch and later reuse both stages of its biggest rocket for the first time. But the booster exploded over the Gulf of Mexico, while the spacecraft continued into orbit.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-14T02:24:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "mu5084",
+      "title": "US lifts nationwide ground stop for airports hours after halting all departures",
+      "summary": "The US federal aviation regulator has lifted a nationwide ground stop for all airports. Trump administration officials blame \"overloaded\" and \"outdated\" systems for the hourslong halt to departures.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-lifts-nationwide-ground-stop-for-airports-hours-after-halting-all-departures/a-79945062?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-14T01:41:00.000Z",
       "sample": false
     },
     {
@@ -27,12 +60,12 @@
       "sample": false
     },
     {
-      "id": "cqkhnl",
-      "title": "Ukraine updates: EU to send united front to potential peace talks",
-      "summary": "Germany, France, the UK, Italy and Poland — as well as the EU itself — will jointly represent Europe in possible peace talks. Meanwhile, a second car bomb in two days has exploded in Moscow. DW has more.",
+      "id": "bc72el",
+      "title": "Ukraine updates: Europe to send united front to potential peace talks",
+      "summary": "Germany, France, the UK, Italy and Poland — as well as the EU itself — will jointly represent Europe in possible peace talks. Meanwhile, a second car bomb in two days has exploded in Moscow.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/ukraine-updates-europe-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-13T19:39:00.000Z",
       "sample": false
@@ -211,17 +244,6 @@
       "url": "https://www.dw.com/en/czechia-braces-for-massive-protest-against-public-media-reform-plans/a-79933533?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-13T08:35:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "tzi5ee",
-      "title": "After suffering its worst election result, what's next for the ANC — and for South Africa?",
-      "summary": "A crushing local election result across the country has left South Africa's ruling ANC searching for answers. Experts say the vote reflects public frustration with service delivery failures — signaling a political shift.",
-      "category": "society",
-      "source": "dw",
-      "url": "https://www.dw.com/en/after-suffering-its-worst-election-result-what-s-next-for-the-anc-and-for-south-africa/a-79929902?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-13T08:33:00.000Z",
       "sample": false
     },
     {
@@ -763,17 +785,6 @@
       "url": "https://www.dw.com/en/should-ai-companies-pay-for-the-journalism-they-use/a-79884854?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-07T15:14:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "vtmhwc",
-      "title": "Son of Iran's shah receives 'Freedom Prize' in Frankfurt",
-      "summary": "18,000 people gathered in Frankfurt to show support for Reza Pahlavi, the son of the Iranian monarch ousted in 1979. Factions in the opposition have accused him of not distancing himself from his father's rule.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/son-of-iran-s-shah-receives-freedom-prize-in-frankfurt/a-79885661?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-07T14:38:00.000Z",
       "sample": false
     },
     {
