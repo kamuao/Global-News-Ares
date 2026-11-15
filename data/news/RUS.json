@@ -2,8 +2,327 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-11-15T13:43:24.381Z",
+  "updatedAt": "2026-11-15T22:39:20.183Z",
   "daily": [
+    {
+      "id": "9dvyot",
+      "title": "Russia’s Andreeva beats Ukraine’s Svitolina to win WTA year-end tournament",
+      "summary": "The match ended with a score of 7-5, 6-3",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/sports/2218417",
+      "image": null,
+      "publishedAt": "2026-11-15T22:27:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "m22gdu",
+      "title": "Trump accuses Biden administration of damaging US civil aviation",
+      "summary": "According to the US president, the administration of his predecessor made \"an old and broken system worse than when they began\"",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2218413",
+      "image": null,
+      "publishedAt": "2026-11-15T21:47:20.000Z",
+      "sample": false
+    },
+    {
+      "id": "5z4yj1",
+      "title": "Explosions reported in Ukrainian cities of Kharkov, Cherkassy",
+      "summary": "Air raid alerts are also in effect in several other Ukrainian regions",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2218411",
+      "image": null,
+      "publishedAt": "2026-11-15T21:24:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "5z4yie",
+      "title": "Ukrainian drones continue dropping explosive devices on Kursk Region’s Rylsk",
+      "summary": "Bomb disposal experts will begin clearing the area as soon as the situation allows, Governor Alexander Khinshtein reported",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2218409",
+      "image": null,
+      "publishedAt": "2026-11-15T20:58:20.000Z",
+      "sample": false
+    },
+    {
+      "id": "m22gd3",
+      "title": "Tanker catches fire after striking sea mine in Strait of Hormuz — IRGC",
+      "summary": "According to the statement, the tanker was moving along an unauthorized route with its navigation systems off",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2218407",
+      "image": null,
+      "publishedAt": "2026-11-15T20:52:37.000Z",
+      "sample": false
+    },
+    {
+      "id": "5z4yia",
+      "title": "Two civilians wounded in explosive device blast in Kursk Region’s Rylsk",
+      "summary": "Both are in grave condition, Governor Alexander Khinshtein reported",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2218405",
+      "image": null,
+      "publishedAt": "2026-11-15T20:47:12.000Z",
+      "sample": false
+    },
+    {
+      "id": "rojuf2",
+      "title": "Russia to check information about Estonia’s plans to close border crossings — diplomat",
+      "summary": "Maria Zakharova added that should this information be confirmed, \"it will be seen as yet another bout of aggressive and unbridled Russophobia\"",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2218399",
+      "image": null,
+      "publishedAt": "2026-11-15T20:24:21.000Z",
+      "sample": false
+    },
+    {
+      "id": "m22fu5",
+      "title": "US’ responses to Iran’s terms cannot be implemented — senior Iranian diplomat",
+      "summary": "Kazem Gharibabadi explained that the document provides for a delay in the fulfilment of certain conditions set by Iran, which is unacceptable for Tehran",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2218397",
+      "image": null,
+      "publishedAt": "2026-11-15T20:08:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "m22fu3",
+      "title": "Houthis say they hit Riyadh’s airport, financial center",
+      "summary": "According to Ansar Allah spokesman Yahya Saris missiles also struck Saudi forces’ positions in the Lahij governorate in southern Yemen",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2218395",
+      "image": null,
+      "publishedAt": "2026-11-15T19:49:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "9dvz8q",
+      "title": "Russia to appeal to IOC following exclusion of its team from World Junior Championship",
+      "summary": "IIHF said earlier in the day that Russia’s team will not be able to compete at the tournament due to the Canadian authorities’ stance",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/sports/2218393",
+      "image": null,
+      "publishedAt": "2026-11-15T19:28:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "rojueu",
+      "title": "Russian Security Council secretary arrives in UAE",
+      "summary": "Sergey Shoigu will meet with the UAE leadership and chiefs of law enforcement and special services",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2218391",
+      "image": null,
+      "publishedAt": "2026-11-15T19:18:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "9dvzaa",
+      "title": "Russian ice hockey team not to take part in World Junior Championship — IIHF",
+      "summary": "The reason is the Canadian authorities’ stance",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/sports/2218379",
+      "image": null,
+      "publishedAt": "2026-11-15T18:25:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "m22fsf",
+      "title": "US investigates if Nvidia was selling chis to China bypassing restrictions — Bessent",
+      "summary": "US Treasury Secretary said, that investigators are looking into the exact nature of Nvidia’s dealings with the companies in question and whether the tech giant’s management was aware of them",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2218377",
+      "image": null,
+      "publishedAt": "2026-11-15T18:16:39.000Z",
+      "sample": false
+    },
+    {
+      "id": "m22fsd",
+      "title": "Realitatea: Transnistrian leader returns to Moldova to be faced with travel ban",
+      "summary": "The reason is visit of Vadim Krasnoselsky to Moscow",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2218375",
+      "image": null,
+      "publishedAt": "2026-11-15T17:42:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "j42cpz",
+      "title": "230 Ukrainian drones taken down over Russian region during day",
+      "summary": "They were destroyed over Crimea, the Belgorod, Bryansk, and Kursk Regions, and the Black Sea",
+      "category": "society",
+      "source": "tass",
+      "url": "https://tass.com/defense/2218373",
+      "image": null,
+      "publishedAt": "2026-11-15T17:28:54.000Z",
+      "sample": false
+    },
+    {
+      "id": "m22fs9",
+      "title": "Nvidia should look for new CEO from outside company — US Treasury Secretary",
+      "summary": "That just what was going on inside the company, they needed a dramatic shakeup, said Scott Bessent",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2218371",
+      "image": null,
+      "publishedAt": "2026-11-15T17:25:40.000Z",
+      "sample": false
+    },
+    {
+      "id": "rojuch",
+      "title": "Russian diplomat calls on IAEA chief to tell Kiev that attacks on ZNPP are unacceptable",
+      "summary": "It is important to recognize that the IAEA’s ability to put an end to Ukrainian provocations is limited, Russia’s Permanent Representative to the Vienna-based international organizations Mikhail Ulyanov said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2218369",
+      "image": null,
+      "publishedAt": "2026-11-15T16:54:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "5z4xwt",
+      "title": "Three civilians injured in Ukraine’s drone attacks in Belgorod Region",
+      "summary": "A woman and a man were taken to a hospital with shrapnel wounds, the regional emergency response center said",
+      "category": "health",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2218367",
+      "image": null,
+      "publishedAt": "2026-11-15T16:36:50.000Z",
+      "sample": false
+    },
+    {
+      "id": "m22fri",
+      "title": "Syria, Lebanon to take measures to strengthen stability along shared border",
+      "summary": "The Lebanese interior minister Ahmad al-Hajjar welcomed the positive results reached by the countries in combating drug trafficking",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2218365",
+      "image": null,
+      "publishedAt": "2026-11-15T16:35:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "m22frg",
+      "title": "Estonia informs other countries of plans to close border with Russia — top diplomat",
+      "summary": "Estonia will close all Estonian-Russian border crossing points as of 1 December, Estonian Foreign Minister Margus Tsahkna said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2218363",
+      "image": null,
+      "publishedAt": "2026-11-15T16:13:32.000Z",
+      "sample": false
+    },
+    {
+      "id": "m22fre",
+      "title": "Estonia to decide on closing border with Russia next week — interior minister",
+      "summary": "According to the Igor Taro, the closure may be either temporary or permanent",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2218361",
+      "image": null,
+      "publishedAt": "2026-11-15T16:11:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "m22fqj",
+      "title": "Iran hopes to commission its first nuclear fusion facility as schedule — AEOI chief",
+      "summary": "According to Mohammad Eslami, Iran is at the forefront of science, on a par with developed countries, which invest huge sums in this field, with some of them carrying out joint projects",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2218351",
+      "image": null,
+      "publishedAt": "2026-11-15T15:27:04.000Z",
+      "sample": false
+    },
+    {
+      "id": "5z4xv5",
+      "title": "Three civilians wounded in Ukrainian drone attack on their car in Bryansk Region",
+      "summary": "The 37-year-old driver and two women, of 63 and 40 years of age, were wounded, the region’s governor, Yegor Kovalchuk, said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2218349",
+      "image": null,
+      "publishedAt": "2026-11-15T15:25:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "m22fpu",
+      "title": "NATO to cancel summit in Albania in 2027 over growing disagreements — agency",
+      "summary": "The event was scheduled to take place in 2027",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2218347",
+      "image": null,
+      "publishedAt": "2026-11-15T15:01:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "m22fps",
+      "title": "Iran in close contact with Russia, China — diplomat",
+      "summary": "Iranian Foreign Ministry Spokesman Esmail Baghaei noted that Moscow and Beijing are strategic partners of Tehran",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2218345",
+      "image": null,
+      "publishedAt": "2026-11-15T14:36:36.000Z",
+      "sample": false
+    },
+    {
+      "id": "kylivw",
+      "title": "IAEA chief unlikely to visit Zaporozhye NPP this year — Russian diplomat",
+      "summary": "There are no signs that Ukraine is prepared to provide Rafael Grossi with security guarantees for such a trip, and the IAEA Director General himself is actively involved in the campaign for the election of the UN Secretary-General, noted Russian Permanent Representative to the Vienna-based international organizations M",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/russias-foreign-policy/2218343",
+      "image": null,
+      "publishedAt": "2026-11-15T14:21:35.000Z",
+      "sample": false
+    },
+    {
+      "id": "5z4xux",
+      "title": "Supertanker with oil sinks in Persian Gulf — IRGC",
+      "summary": "It happened after striking a mine",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/emergencies/2218341",
+      "image": null,
+      "publishedAt": "2026-11-15T14:09:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "kyliv7",
+      "title": "Russia warns of appropriate response to resumption of nuclear tests by other states",
+      "summary": "According to the Russian Permanent Representative to the Vienna-based international organizations Mikhail Ulyanov, it is important that countries strictly adhere to voluntary national moratoriums",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/russias-foreign-policy/2218339",
+      "image": null,
+      "publishedAt": "2026-11-15T13:56:17.000Z",
+      "sample": false
+    },
+    {
+      "id": "m22fox",
+      "title": "EU reported an expansion of sanctions against companies allegedly transporting Russian oil",
+      "summary": "Additions to the restrictions could be approved on November 16, stated EU foreign policy chief Kaja Kallas",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2218335",
+      "image": null,
+      "publishedAt": "2026-11-15T13:44:06.000Z",
+      "sample": false
+    },
     {
       "id": "m22fov",
       "title": "Voters in Cabo Verde head to polls to elect president",
@@ -322,106 +641,9 @@
       "image": null,
       "publishedAt": "2026-11-14T23:02:19.000Z",
       "sample": false
-    },
-    {
-      "id": "m22ey6",
-      "title": "US aims to facilitate direct contacts between Russia and Europe on Ukraine — Kushner",
-      "summary": "The envoy added that US President Donald Trump believes it is necessary to have \"actionable\" conflict prevention mechanisms",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2218233",
-      "image": null,
-      "publishedAt": "2026-11-14T22:01:53.000Z",
-      "sample": false
-    },
-    {
-      "id": "m22ey4",
-      "title": "Kushner says new ideas have emerged for resolving Ukrainian conflict",
-      "summary": "These ideas are \"now being explored,\" the US envoy added",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2218231",
-      "image": null,
-      "publishedAt": "2026-11-14T20:54:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "m22ex9",
-      "title": "Over 120 people detained during rallies in France — TV",
-      "summary": "According to the French Interior Ministry, 106,000 people took part in the rallies held across the country on Saturday",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2218221",
-      "image": null,
-      "publishedAt": "2026-11-14T19:54:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "m22ewk",
-      "title": "Police detain 22 protesters in Paris — TV",
-      "summary": "The arrests were made primarily for possession of Category D weapons",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2218217",
-      "image": null,
-      "publishedAt": "2026-11-14T18:53:59.000Z",
-      "sample": false
-    },
-    {
-      "id": "m22ewi",
-      "title": "Over 100,000 people took part in protests across France on November 14 — Interior Ministry",
-      "summary": "The largest rally took place in Paris, where, according to ministry estimates, 24,000 people took to the streets",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/world/2218215",
-      "image": null,
-      "publishedAt": "2026-11-14T18:52:51.000Z",
-      "sample": false
-    },
-    {
-      "id": "j42dlu",
-      "title": "Air defenses downed 39 Ukrainian UAVs over Russian regions during day — Defense Ministry",
-      "summary": "Air defense forces intercepted and destroyed unmanned aerial vehicles over the territories of the Belgorod, Bryansk, Voronezh, Kaluga, Kursk, Lipetsk, Oryol, and Ryazan regions, as well as the Moscow Region and the Republic of Crimea",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2218213",
-      "image": null,
-      "publishedAt": "2026-11-14T17:44:51.000Z",
-      "sample": false
-    },
-    {
-      "id": "rojth9",
-      "title": "NATO undermines immunity of Europe and entire world — Zakharova",
-      "summary": "According to the diplomat, there would be far greater security in Europe were it not for NATO",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2218211",
-      "image": null,
-      "publishedAt": "2026-11-14T16:59:27.000Z",
-      "sample": false
-    },
-    {
-      "id": "rojtgg",
-      "title": "Putin, Xi Jinping, Trump trilateral summit to be held in Shenzhen on November 19 — Kremlin",
-      "summary": "This meeting will take place on the sidelines of the APEC summit",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2218203",
-      "image": null,
-      "publishedAt": "2026-11-14T16:58:40.000Z",
-      "sample": false
-    },
-    {
-      "id": "rojtgm",
-      "title": "Russian, UAE foreign ministers meet in Abu Dhabi — Russian MFA",
-      "summary": "The two top diplomats discussed bilateral relations and tensions in the Persian Gulf region",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2218209",
-      "image": null,
-      "publishedAt": "2026-11-14T16:16:05.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "ak4djb",
       "title": "Zelensky Escalates Criticism of SpaceX Over Speed Caps",
@@ -433,41 +655,6 @@
       "publishedAt": "2026-11-14T15:16:59.000Z",
       "sample": false
     },
-    {
-      "id": "m22ect",
-      "title": "Iran shoots down 17th US MQ-1 drone over Qeshm Island in country’s south — IRGC",
-      "summary": "It specifies that the interception took place at 2:30 p.m. local time",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/world/2218199",
-      "image": null,
-      "publishedAt": "2026-11-14T14:35:17.000Z",
-      "sample": false
-    },
-    {
-      "id": "5z4why",
-      "title": "Ukrainian forces attack passenger bus in Gorlovka, DPR — mayor",
-      "summary": "It was a drone attack, Ivan Prikhodko reported",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/emergencies/2218195",
-      "image": null,
-      "publishedAt": "2026-11-14T14:10:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "vrec75",
-      "title": "Thousands take to the streets of Paris to protest rising prices and police violence",
-      "summary": "A primary trigger for the protest is a bill currently under parliamentary debate that would establish a presumption of legality regarding the use of weapons by law enforcement officers",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/society/2218197",
-      "image": null,
-      "publishedAt": "2026-11-14T14:02:41.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
     {
       "id": "swgv24",
       "title": "Russian Youth Agency Deputy Chief Arrested in Fraud Probe",
@@ -939,17 +1126,6 @@
       "url": "https://www.themoscowtimes.com/2026/11/09/ukrainian-drone-attack-kills-woman-sparks-fire-at-leningrad-region-refinery-a94204",
       "image": null,
       "publishedAt": "2026-11-09T09:39:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lsamxm",
-      "title": "Russia Says Hit Power Substations in Ukraine and 3 Ships in Black Sea",
-      "summary": "",
-      "category": "politics",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/11/08/russia-says-hit-power-substations-in-ukraine-and-3-ships-in-black-sea-a94203",
-      "image": null,
-      "publishedAt": "2026-11-08T17:03:11.000Z",
       "sample": false
     }
   ],
