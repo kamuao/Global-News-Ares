@@ -2,8 +2,52 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-15T05:44:09.807Z",
+  "updatedAt": "2026-11-15T13:43:23.328Z",
   "daily": [
+    {
+      "id": "a8ust9",
+      "title": "ASEAN offers Myanmar's sidelined leaders a path back to summits, but says restrictions will stay until there is meaningful progress on its peace plan",
+      "summary": "Southeast Asian leaders have agreed to engage Myanmar in stages after years of excluding its leaders from high-level meetings. The bloc says Myanmar could regain full representation if it makes progress on a peace plan.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/asean-offers-myanmar-s-sidelined-leaders-a-path-back-to-summits-but-says-restrictions-will-stay-until-there-is-meaningful-progress-on-its-peace-plan/a-79951878?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-15T12:26:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "prl3s3",
+      "title": "Macron urges unity as Francophonie summit opens in Cambodia",
+      "summary": "Leaders of French-speaking nations gathered in Phnom Penh as a row over who should lead the Francophonie and Congo’s threat to quit put pressure on Macron to broker consensus.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/macron-urges-unity-as-francophonie-summit-opens-in-cambodia/a-79951201?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-15T08:12:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "z2g68n",
+      "title": "Germany news: Germany holds national day of remembrance",
+      "summary": "Events are being held for Volkstrauertag, a day commemorating victims of war and oppression. Meanwhile, experts say the country is headed for a budget crisis. DW has more.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-germany-holds-national-day-of-remembrance/live-79947500?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-15T07:23:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "2xktis",
+      "title": "Beijing faces its Russia dilemma amid talk of Xi-Trump-Putin summit",
+      "summary": "China is forced to tread carefully as it considers hosting a meeting between Xi Jinping, Vladimir Putin, and Donald Trump. While the optics are sure to favor Moscow, Beijing is risking its image on the global stage.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/beijing-faces-its-russia-dilemma-amid-talk-of-xi-trump-putin-summit/a-79942427?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-15T06:31:00.000Z",
+      "sample": false
+    },
     {
       "id": "lampc8",
       "title": "Could universal basic income be part of the solution in an AI economy?",
@@ -135,7 +179,9 @@
       "image": null,
       "publishedAt": "2026-11-14T15:24:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "hcltiw",
       "title": "Ukraine: Zelenskyy says security deal could go to referendum",
@@ -156,17 +202,6 @@
       "url": "https://www.dw.com/en/new-facilities-in-laos-and-cambodia-is-china-expanding-its-military-presence-in-southeast-asia/a-79944798?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-14T11:24:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "xt8ldg",
-      "title": "Germany news: Solar power production approaches record high",
-      "summary": "Solar power output in Germany in 2026 has already surpassed last year's total. Meanwhile, experts say the country is headed for a budget crisis. DW has more.",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-solar-power-production-approaches-record-high/live-79947500?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-14T11:22:00.000Z",
       "sample": false
     },
     {
@@ -192,39 +227,6 @@
       "sample": false
     },
     {
-      "id": "a4vbi7",
-      "title": "US loses measles-elimination status after 26 years, WSJ reports",
-      "summary": "The Pan American Health Organization has reportedly stripped the US of its measles-elimination status after 26 years, as the country battles its worst outbreaks in more than three decades.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-loses-measles-elimination-status-after-26-years-wsj-reports/a-79946974?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-14T09:15:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "eelvka",
-      "title": "Microsoft says all services working again",
-      "summary": "US tech giant Microsoft says it has fixed problems that led to a global outage of its services. The glitch severely disrupted online communications in businesses and governments for more than 24 hours.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/microsoft-says-all-services-working-again/a-79946887?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-14T09:06:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "lpovp8",
-      "title": "Sudan: Misery worsens amid plummeting aid for displaced people",
-      "summary": "Sudan's humanitarian crisis is exacerbated by cuts in international aid. Almost 34 million people are in need as war and drone strikes are making it difficult to deliver aid to the population.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/sudan-misery-worsens-amid-plummeting-aid-for-displaced-people/a-79938864?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-14T08:31:00.000Z",
-      "sample": false
-    },
-    {
       "id": "kmlfip",
       "title": "Turkey uses espionage accusations to pressure government critics",
       "summary": "The arrest of a German foundation's employee in Istanbul this week has put the focus back on pressure tactics used by the Erdogan administration. The arrest is far from the first of its kind.",
@@ -245,9 +247,7 @@
       "image": null,
       "publishedAt": "2026-11-14T06:09:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "lo1mfq",
       "title": "The dangers of revising Europe's security architecture",
@@ -829,28 +829,6 @@
       "url": "https://www.dw.com/en/germany-chancellor-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-08T19:43:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "kfcmd7",
-      "title": "'Never Again!': Holocaust remembrance under pressure",
-      "summary": "Only a few Holocaust survivors remain who can share their stories firsthand. Meanwhile, voices calling for an end to what they describe as a \"cult of guilt\" are growing louder. How can Holocaust remembrance survive?",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/never-again-holocaust-remembrance-under-pressure/a-79840894?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-08T09:54:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "729p8h",
-      "title": "As COP31 Antalya kicks off, can world move beyond big promises?",
-      "summary": "Droughts, floods and extreme heat are upping the pressure on delegates at the UN climate talks in Antalya, Turkey. Can countries move beyond pledges to concrete action?",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-08T05:55:00.000Z",
       "sample": false
     }
   ],
