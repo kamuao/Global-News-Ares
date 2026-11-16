@@ -2,8 +2,41 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-15T22:39:19.168Z",
+  "updatedAt": "2026-11-16T05:43:58.251Z",
   "daily": [
+    {
+      "id": "75cd41",
+      "title": "Mexican drug lord Felix Gallardo dies at 80",
+      "summary": "Felix Gallardo was considered to be the architect of Mexico's modern drug-trafficking trade. He died of multiple organ failure at the age of 80.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/mexican-drug-lord-felix-gallardo-dies-at-80/a-79954351?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-16T05:39:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "r9fq7f",
+      "title": "Rocket from Boeing-Lockheed firm fails mid-flight, destroys payload of Amazon satellites",
+      "summary": "A Vulcan rocket suffered an anomaly about 10 minutes after liftoff from Florida, failing to deliver 40 Amazon Leo satellites to orbit. It was the first total mission failure in the company's history.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/rocket-from-boeing-lockheed-firm-fails-mid-flight-destroys-payload-of-amazon-satellites/a-79953931?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-16T04:27:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "48t6bl",
+      "title": "Yemen: Anti-Houthi forces pull back as rebels advance",
+      "summary": "Forces aligned with the Yemeni government and Saudi Arabia are seeking to strengthen control over the interim capital Aden as the Iran-backed Houthis approach.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/yemen-anti-houthi-forces-pull-back-as-rebels-advance/a-79953692?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-15T23:29:00.000Z",
+      "sample": false
+    },
     {
       "id": "h0x1co",
       "title": "Goodbye, overtourism? Sustainable travel gains ground",
@@ -40,7 +73,7 @@
     {
       "id": "1jkb3",
       "title": "Estonia closes border to Russia after suspected drone factory arson",
-      "summary": "Estonia has accused Russia of conducting hybrid warfare after a drone factory was set alight in Viimsi. Now it will close its border crossings at the start of December.",
+      "summary": "Tallinn has accused Russia of conducting hybrid warfare after a drone factory was set alight in Viimsi. Now it will close its border crossings at the start of December.",
       "category": "military",
       "source": "dw",
       "url": "https://www.dw.com/en/estonia-closes-border-to-russia-after-suspected-drone-factory-arson/a-79953115?maca=en-rss-en-all-1573-xml-mrss",
@@ -60,12 +93,12 @@
       "sample": false
     },
     {
-      "id": "4roj1v",
-      "title": "Cape Verde goes to the polls in presidential vote",
-      "summary": "Known for its political stability and good governance, the island nation will vote for its next president. About 420,000 people are eligible to vote",
+      "id": "t837v6",
+      "title": "Cape Verde election: Jose Maria Neves set to win second term",
+      "summary": "Nearly two-thirds of the voters in the West African nation voted to keep President Jose Maria Neves in office, according to provisional results.",
       "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/cape-verde-goes-to-the-polls-in-presidential-vote/a-79952606?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/cape-verde-election-jose-maria-neves-set-to-win-second-term/a-79952606?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-15T16:47:00.000Z",
       "sample": false
@@ -82,12 +115,12 @@
       "sample": false
     },
     {
-      "id": "exmojl",
-      "title": "Pope Leo heads to high Andes on final leg of South America tour",
-      "summary": "Leo, originally from Chicago, served as the bishop of Chiclayo from 2015 until 2023. He is expected to spotlight Indigenous rights and environmental protection on the final leg of his tour.",
-      "category": "environment",
+      "id": "cq07z2",
+      "title": "Pope Leo heads to the Amazon on the final leg of his South American tour",
+      "summary": "The religious leader warned that deforestation, illegal mining and pollution threaten the Amazon and its inhabitants. In Peru, the pope also demanded justice for Indigenous leaders killed defending their ancestral lands.",
+      "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/pope-leo-heads-to-high-andes-on-final-leg-of-south-america-tour/a-79952884?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/pope-leo-heads-to-the-amazon-on-the-final-leg-of-his-south-american-tour/a-79952884?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-15T15:23:00.000Z",
       "sample": false
@@ -135,7 +168,9 @@
       "image": null,
       "publishedAt": "2026-11-15T07:23:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "b4ejrb",
       "title": "How AI is likely to change Germany's job market",
@@ -168,9 +203,7 @@
       "image": null,
       "publishedAt": "2026-11-14T22:44:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "w67bt2",
       "title": "SpaceX completes first-ever spaceship capture",
@@ -191,39 +224,6 @@
       "url": "https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-14T21:09:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "yqzoah",
-      "title": "Nigeria's upcoming election marred by rising AI disinformation",
-      "summary": "As Nigeria inches closer to the 2027 polls, the use of artificial intelligence in the electoral process has prompted questions about integrity and institutional readiness. Can Nigerians trust their democratic processes?",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/nigeria-s-upcoming-election-marred-by-rising-ai-disinformation/a-79946897?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-14T21:05:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "dv3ypg",
-      "title": "South Sudan pushes back elections amid violent flare-ups",
-      "summary": "South Sudan has been independent from Sudan since 2011, and has not yet held national elections. Since then, the country faces cycles of violence after a civil war led to a tenuous peace deal.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/south-sudan-pushes-back-elections-amid-violent-flare-ups/a-79949622?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-14T20:53:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "qr0oji",
-      "title": "US: Duffy says 'incompetence' or bad tech to blame for flight haltings",
-      "summary": "Air carriers in the US canceled some 16,000 flights over the past 24 hours in the biggest such grounding since 9/11. Officials hinted that incompetence or faulty equipment, not malfeasance, is the cause.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-duffy-says-incompetence-or-bad-tech-to-blame-for-flight-haltings/a-79949977?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-14T20:33:00.000Z",
       "sample": false
     },
     {
