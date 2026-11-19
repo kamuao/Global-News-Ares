@@ -2,8 +2,393 @@
   "id": "GBR",
   "name": "United Kingdom",
   "sample": false,
-  "updatedAt": "2026-11-18T15:24:50.136Z",
+  "updatedAt": "2026-11-19T00:04:36.449Z",
   "daily": [
+    {
+      "id": "wv7oq5",
+      "title": "Two-hour ambulance handover limit missed more than 2,000 times",
+      "summary": "Achieving the two-hour protocol over the winter will be \"very challenging\", says a senior doctor.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cm752zx62n62o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af28/live/7c382990-e36a-11f1-9f51-4bfc31543510.jpg",
+      "publishedAt": "2026-11-19T00:01:29.000Z",
+      "sample": false
+    },
+    {
+      "id": "ckf4ck",
+      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+      "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decb/live/a6ef9570-e364-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-19T00:00:59.000Z",
+      "sample": false
+    },
+    {
+      "id": "g5bokr",
+      "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+      "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+      "category": "technology",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
+      "publishedAt": "2026-11-18T23:44:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "6oeu7i",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+      "publishedAt": "2026-11-18T23:42:07.000Z",
+      "sample": false
+    },
+    {
+      "id": "fv5lqs",
+      "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
+      "summary": "This comes after Brand's wife shared a message from him in which he claimed his innocence.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c05a/live/ff349a00-e38c-11f1-bc86-33d7d6275eba.jpg",
+      "publishedAt": "2026-11-18T23:29:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "o062",
+      "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+      "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef5/live/7cbd5260-e35a-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-18T23:01:09.000Z",
+      "sample": false
+    },
+    {
+      "id": "vrmn50",
+      "title": "Leaseholders in England and Wales to have ground rent capped in 2028",
+      "summary": "Housing minister hails ‘historic moment’ as he publishes bill to eventually ban almost all new leasehold properties\nLeaseholders in England and Wales will have their ground rent capped in 2028, the housing minister has said as he publishes a bill that will eventually ban virtually all new leasehold properties.\nMatthew ",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028",
+      "image": "https://i.guim.co.uk/img/media/97ce229918d221f2d068eabb6be6664af10b33e2/5_0_5637_4512/master/5637.jpg?width=140&quality=85&auto=format&fit=max&s=c6d5f648c2e797efae54355400d5ab83",
+      "publishedAt": "2026-11-18T22:30:09.000Z",
+      "sample": false
+    },
+    {
+      "id": "dqyjkz",
+      "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+      "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
+      "publishedAt": "2026-11-18T21:28:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "p1kh0g",
+      "title": "Member of anti-migrant group found guilty of Staffordshire murder",
+      "summary": "Raise the Colours activist Billy Allison, 36, killed man in ‘completely unprovoked and unjustified’ attack, say police\nA member of anti-migrant group Raise the Colours has been found guilty of murdering a man in a “completely unprovoked and unjustified” attack.\nBilly Allison, 36, delivered a “very, very hard” punch wit",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/18/member-anti-migrant-group-guilty-murder-raise-colours-billy-allison",
+      "image": "https://i.guim.co.uk/img/media/dbcd869de1ff99860883223def87446984285467/0_350_812_649/master/812.jpg?width=140&quality=85&auto=format&fit=max&s=1a47b76eb4f1d550668e0e84fbda51af",
+      "publishedAt": "2026-11-18T21:27:54.000Z",
+      "sample": false
+    },
+    {
+      "id": "so7phq",
+      "title": "Thousands regain water supply after major outage",
+      "summary": "Some residents were unable to cook, wash or flush their toilets since Tuesday afternoon.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c9e85y3ex824o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5e0/live/7337fa50-e360-11f1-99b6-a35a62fa4264.png",
+      "publishedAt": "2026-11-18T21:01:46.000Z",
+      "sample": false
+    },
+    {
+      "id": "gwoxtf",
+      "title": "Prince Harry says he would rejoin army as he warns of Russia threat",
+      "summary": "The Duke of Sussex thought people should be ready to serve again for their country if needed.",
+      "category": "military",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cm0qjw3edzkko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ac/live/9a53b3f0-e37d-11f1-b879-03485a55c082.jpg",
+      "publishedAt": "2026-11-18T20:55:15.000Z",
+      "sample": false
+    },
+    {
+      "id": "l9fwrb",
+      "title": "Birmingham council granted interim ban on union jacks on lamp-posts",
+      "summary": "High court judge issues order against Raise the Colours over flags on council-owned street furniture\nThe campaign group Raise the Colours has been temporarily banned from placing union jacks on lamp-posts and roundabouts in Birmingham after a legal challenge by the local council.\nThe high court judge Emma Kelly granted",
+      "category": "society",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/18/birmingham-council-interim-ban-union-jacks-raise-the-colours",
+      "image": "https://i.guim.co.uk/img/media/8894065417af832fc62326275bc5ede991d87eb1/0_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=aab4ed2543cd252c343c476ac7b5efc5",
+      "publishedAt": "2026-11-18T20:32:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "jl0q8d",
+      "title": "Torrential rain causes widespread flooding in South Florida",
+      "summary": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports.",
+      "category": "environment",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8e9/live/3c97d280-e38e-11f1-bc86-33d7d6275eba.jpg",
+      "publishedAt": "2026-11-18T20:29:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "u5m55x",
+      "title": "Hundreds could be hit by chemotherapy scandal, trust says",
+      "summary": "Becky Jones says chemotherapy had been \"dished out like it was sweets\" to patients like her.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy83q9wzpvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca73/live/f782ebf0-e34f-11f1-99aa-0f40b013ad11.jpg",
+      "publishedAt": "2026-11-18T20:09:06.000Z",
+      "sample": false
+    },
+    {
+      "id": "i8krr3",
+      "title": "Shabana Mahmood backs ban on police marching in pride events in uniform",
+      "summary": "Home secretary says ‘routine two-tier policing’ does not exist, but public trust in impartial law enforcement must be restored\nShabana Mahmood has backed a ban on police officers marching in pride events in uniform as she said there had been a “few examples” of two-tier policing.\nAlthough she said there was no systemat",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
+      "image": "https://i.guim.co.uk/img/media/fe32e8fff64ccad51c80ae6cbee03e277ab28439/170_0_2659_2128/master/2659.jpg?width=140&quality=85&auto=format&fit=max&s=f3803d60f09103d48c5683bac96d774d",
+      "publishedAt": "2026-11-18T20:03:50.000Z",
+      "sample": false
+    },
+    {
+      "id": "a4lfn7",
+      "title": "How high is UK inflation and how will you be affected?",
+      "summary": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
+      "category": "economy",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/accb/live/ce864ea0-e385-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-18T19:37:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "w8r0a",
+      "title": "Ex-Tory MPs barred from shaping Reform UK’s immigration policy, says Zia Yusuf",
+      "summary": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party\nFormer Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in effect the majority of the party’s MPs.\n“If you are in the categ",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
+      "image": "https://i.guim.co.uk/img/media/297daa4e63256807e9b1bfbba9295164f2d00efe/408_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=ecb25e91a580b3d502665e1f62230140",
+      "publishedAt": "2026-11-18T19:34:31.000Z",
+      "sample": false
+    },
+    {
+      "id": "o0wxwr",
+      "title": "EU ‘to close door’ to talks on long-term UK ties until Burnham has decided on Brexit",
+      "summary": "Diplomats say piecemeal approach of resets is coming to an end and Europe wants clarity on whether Britain wants to reverse its exit\nThe EU will shut the door to discussions with Andy Burnham about the UK’s longer-term relationship with the bloc until the government has decided whether it wants to proceed with reversin",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/18/eu-uk-reset-summit-talks-burnham-brexit",
+      "image": "https://i.guim.co.uk/img/media/f7ad60a116dae04179547396d95174f6a9e9f4d8/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=f5cf8619c3e847045eddc8cc1b23273b",
+      "publishedAt": "2026-11-18T19:17:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "9w4578",
+      "title": "Raise The Colours member guilty of dancefloor murder",
+      "summary": "Billy Allison punched Matthew O'Gara in the neck at a bar in Lichfield in May.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cmd71dz58dnvo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/739d/live/c69fd420-e378-11f1-99b6-a35a62fa4264.png",
+      "publishedAt": "2026-11-18T19:15:27.000Z",
+      "sample": false
+    },
+    {
+      "id": "c03gn",
+      "title": "Police chief says racists and misogynists working inside force",
+      "summary": "Wales' four police chiefs were asked how they were clamping down on misconduct \"in a post-Sarah Everard era\".",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cm0qjw4d2gd3o?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c3a/live/e1a4e5d0-e382-11f1-b879-03485a55c082.jpg",
+      "publishedAt": "2026-11-18T19:10:40.000Z",
+      "sample": false
+    },
+    {
+      "id": "gvvtfs",
+      "title": "The leave campaign has been resurrected, so how should Burnham respond?",
+      "summary": "No 10 is confident the PM can make the case for closer EU ties, while others worry about leaving the campaign solely in his hands\nThe launch of a pro-Brexit campaign was one of the few genuine surprises this week in Westminster, even if the arguments were straight out of a familiar playbook.\nThe video launched on X ove",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
+      "image": "https://i.guim.co.uk/img/media/e7e77af1ae8f833009340ea6ee0c97de81ec17f2/0_0_4903_3922/master/4903.jpg?width=140&quality=85&auto=format&fit=max&s=a012fd8a6c11c067882c24e746e84b99",
+      "publishedAt": "2026-11-18T19:02:40.000Z",
+      "sample": false
+    },
+    {
+      "id": "6t9zuh",
+      "title": "‘Neighbourhood support teams’ to pave way for national care service, Cooper announces",
+      "summary": "Health secretary said programme would help about 566,000 vulnerable people in England by April\nMore than half a million of the most vulnerable people in England will be offered help from joint NHS and social care teams that will pave the way for the promised national care service, Yvette Cooper has announced.\nElderly p",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/society/2026/nov/18/new-neighbourhood-support-teams-to-pave-the-way-for-national-care-service-cooper-announces",
+      "image": "https://i.guim.co.uk/img/media/1f00e067fbd99f6cd691b01ede53684111f7365b/526_0_3620_2896/master/3620.jpg?width=140&quality=85&auto=format&fit=max&s=70783d345c1f01ac7f977eda5054e88b",
+      "publishedAt": "2026-11-18T18:56:02.000Z",
+      "sample": false
+    },
+    {
+      "id": "efu6tf",
+      "title": "Burnham considering cuts to national insurance to create more youth jobs",
+      "summary": "PM hints he is open to suggestion in Milburn report to lower NICs contributions paid by companies for under-25s\n\nWho are the Neets? UK youth job crisis in five charts\n\nUK firms: what is stopping you hiring young people?\n\nAndy Burnham has said he would consider cuts to national insurance for young people “very carefully",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report",
+      "image": "https://i.guim.co.uk/img/media/e7c724ea18187cf1562474492f2c3c9deb12ff39/451_0_4505_3604/master/4505.jpg?width=140&quality=85&auto=format&fit=max&s=a230d7eb0898ce7934bbc9fcff858e2a",
+      "publishedAt": "2026-11-18T18:43:37.000Z",
+      "sample": false
+    },
+    {
+      "id": "8im21j",
+      "title": "Council wins legal fight against flags on lamp-posts",
+      "summary": "In her decision, Judge Emma Kelly says there was a \"compelling need\" to grant the interim injunction.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/ckq5vg81805qo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05a0/live/e737dbc0-e381-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-18T18:19:34.000Z",
+      "sample": false
+    },
+    {
+      "id": "d2w97s",
+      "title": "Grand Theft Auto staff 'caught red-handed' in confidentiality breach, tribunal hears",
+      "summary": "Rockstar Games said it took action after staff discussed confidential information on a Discord server which had hundreds of members.",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cmn80y2vxd2po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f33d/live/7023a280-e36d-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-18T18:17:38.000Z",
+      "sample": false
+    },
+    {
+      "id": "cna8hs",
+      "title": "'Good for the people' if politicians stopped doing media, says NI secretary of state",
+      "summary": "Sir Chris Bryant said all that \"talking to the media emphasises the divisions rather than the collaborations\".",
+      "category": "politics",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cr0qjw7xqqwlo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b09/live/ee1589b0-e34a-11f1-99aa-0f40b013ad11.jpg",
+      "publishedAt": "2026-11-18T18:01:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "9p44w6",
+      "title": "Cheese, pet passports and youth mobility: what’s in the UK-EU ‘relationship reset’ draft?",
+      "summary": "Leaked text of 72-paragraph second draft shows agreement has largely been reached before expected signoff on Friday\nThe UK-EU “relationship reset” agreement, which began in earnest under Keir Starmer, is expected to be signed off by Andy Burnham in Brussels on Friday.\nA leaked text of the second draft shows an agreemen",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer",
+      "image": "https://i.guim.co.uk/img/media/25aedc768a726dfcb833778bfe46c3e276384b86/960_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=f5c40a40536329ad664a49b859e40d34",
+      "publishedAt": "2026-11-18T17:56:39.000Z",
+      "sample": false
+    },
+    {
+      "id": "lpszdn",
+      "title": "Regulator mistakenly sent complaints about doctors to newspaper",
+      "summary": "Information sent to the Times newspaper by the General Medical Council included summaries of complaints alleging antisemitism and Islamophobia against doctors.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73cb/live/11eb1800-e373-11f1-9f51-4bfc31543510.jpg",
+      "publishedAt": "2026-11-18T17:48:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "3hm93s",
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "category": "technology",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
+      "publishedAt": "2026-11-18T17:34:25.000Z",
+      "sample": false
+    },
+    {
+      "id": "wee7b8",
+      "title": "PM urges Badenoch to withdraw ‘crass’ defence of disability cuts on grounds ‘amputees run marathons’ – as it happened",
+      "summary": "This blog is now closed\nIn her speech today, Shabana Mahmood, the home secretary, will also announce plans for a new fast-stream police leadership programme for up to 200 recruits a year. Vikram Dodd has the details.\nThe Conservatives and Reform UK do not seem very impressed by Shabana Mahmood’s proposal to meet their ",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+      "image": "https://i.guim.co.uk/img/media/3c06f44a9ebdad21787fd5dd4ad5496cb90f5c5d/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=36873cc87e731f89eda2730b224698a4",
+      "publishedAt": "2026-11-18T17:06:59.000Z",
+      "sample": false
+    },
+    {
+      "id": "64sun",
+      "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
+      "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment watchdog says\nThe environment secretary, Angela Eagle, her ministers and Natural England are breaking the law by failing to intervene to slow the “deeply concerning” decline of Britain’s wild birds, the UK’s environment re",
+      "category": "environment",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
+      "image": "https://i.guim.co.uk/img/media/ec8ab6692ef60ad08b4c21283c2bd1f5159aa301/878_0_2879_2303/master/2879.jpg?width=140&quality=85&auto=format&fit=max&s=0abe6318a3a8ec18bf059cb38498f37c",
+      "publishedAt": "2026-11-18T16:56:18.000Z",
+      "sample": false
+    },
+    {
+      "id": "dzdp20",
+      "title": "Police investigate death of boy, 3, after nursery incident",
+      "summary": "The boy died in hospital three days after an incident at Cosy Toes Nursery in Middleton, police say.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cm8x0q1p2q8jo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0797/live/c7d45720-e365-11f1-9f51-4bfc31543510.jpg",
+      "publishedAt": "2026-11-18T16:51:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "6hxr5r",
+      "title": "Labour faces double blow over UK fossil fuel projects",
+      "summary": "Large North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site\n\nNils Pratley: with more gas storage  at risk. What’s the government plan for secure supplies?\n\nThe energy secretary has been dealt a double blow after two UK companies signalled plans to pull their i",
+      "category": "politics",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
+      "image": "https://i.guim.co.uk/img/media/43807761436da658bfa0aa4756a6c6866170ca90/585_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=93e605e61347ca2e145736b8c8ce2219",
+      "publishedAt": "2026-11-18T16:19:41.000Z",
+      "sample": false
+    },
+    {
+      "id": "9z0chw",
+      "title": "'Best night' of Dáithí's life all thanks to organ donation",
+      "summary": "Dáithí Mac Gabhann walked out with Republic of Ireland's Troy Parrott as Ireland won 3-0 over Kosovo in the Nations League.",
+      "category": "health",
+      "source": "bbc-news",
+      "url": "https://www.bbc.co.uk/news/articles/cx5y1vq89lypo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/712a/live/85f4e880-e368-11f1-9f51-4bfc31543510.jpg",
+      "publishedAt": "2026-11-18T16:09:29.000Z",
+      "sample": false
+    },
+    {
+      "id": "7bqpf0",
+      "title": "Cancer patients at NHS trust harmed by years of unnecessary chemotherapy, report finds",
+      "summary": "Trust apologises after findings on treatment of 20 brain tumour patients under oncologist who retired in 2023\nCancer patients were severely harmed after being given years of unnecessary chemotherapy treatment by an NHS trust, a report has found.\nSome people were misdiagnosed and given inappropriate courses of treatment",
+      "category": "health",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/society/2026/nov/18/cancer-patients-nhs-trust-unnecessary-chemotherapy-coventry",
+      "image": "https://i.guim.co.uk/img/media/48d917d9bd2879e15ae0af80d5cbc5eae46ca1e3/1291_411_3782_3026/master/3782.jpg?width=140&quality=85&auto=format&fit=max&s=d3c834960483e763ea94765965036888",
+      "publishedAt": "2026-11-18T15:35:05.000Z",
+      "sample": false
+    },
     {
       "id": "2kul8t",
       "title": "Police treating 'targeted' shooting of woman as attempted murder",
@@ -18,11 +403,11 @@
     {
       "id": "e523eg",
       "title": "Burnham should fight next election on promise to rejoin EU, says Peter Kyle",
-      "summary": "Exclusive: Former business secretary calls for Labour manifesto commitment with referendum on final decision\n\nUK politics live – latest updates\n\nAndy Burnham should fight the next election on a promise to rejoin the EU, the former business secretary Peter Kyle has said, with voters given a referendum on the outcome of ",
+      "summary": "Exclusive: Former business secretary calls for Labour manifesto commitment with referendum on final decision\nAndy Burnham should fight the next election on a promise to rejoin the EU, the former business secretary Peter Kyle has said, with voters given a referendum on the outcome of any deal.\nThe Labour MP, a key membe",
       "category": "politics",
       "source": "the-guardian",
       "url": "https://www.theguardian.com/politics/2026/nov/18/david-lammy-andy-burnham-campaign-rejoining-eu-election-brexit",
-      "image": "https://i.guim.co.uk/img/media/fd4a53ec54287465ec01b8e8411248e3f7adad8d/0_0_3760_3008/master/3760.jpg?width=140&quality=85&auto=format&fit=max&s=3acf204524ff24d0d44c00a9c799f024",
+      "image": "https://i.guim.co.uk/img/media/0895db8135c9db7822dc944c5428df981a256fe5/0_864_5563_4451/master/5563.jpg?width=140&quality=85&auto=format&fit=max&s=2e70a287bef9cf33b0894d5608cb3426",
       "publishedAt": "2026-11-18T15:18:34.000Z",
       "sample": false
     },
@@ -38,72 +423,6 @@
       "sample": false
     },
     {
-      "id": "wee7b8",
-      "title": "Burnham urges Badenoch to withdraw ‘crass’ comment defending disability cuts on grounds ‘amputees run marathons’ – UK politics live",
-      "summary": "PM and leader of the opposition clashed at PMQs over welfare \nIn her speech today, Shabana Mahmood, the home secretary, will also announce plans for a new fast-stream police leadership programme for up to 200 recruits a year. Vikram Dodd has the details.\nThe Conservatives and Reform UK do not seem very impressed by Sha",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-      "image": "https://i.guim.co.uk/img/media/3c06f44a9ebdad21787fd5dd4ad5496cb90f5c5d/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=36873cc87e731f89eda2730b224698a4",
-      "publishedAt": "2026-11-18T15:13:12.000Z",
-      "sample": false
-    },
-    {
-      "id": "so7phq",
-      "title": "People queue for water as 8,500 without supply",
-      "summary": "Two free bottled water stations are available for affected residents in Stourbridge.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c9e85y3ex824o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5e0/live/7337fa50-e360-11f1-99b6-a35a62fa4264.png",
-      "publishedAt": "2026-11-18T15:00:08.000Z",
-      "sample": false
-    },
-    {
-      "id": "3hm93s",
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-      "category": "technology",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-18T14:57:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "eb9o3g",
-      "title": "Boy, three, dies after ‘medical emergency’ at Greater Manchester nursery",
-      "summary": "Police are investigating death of child three days after emergency services were called to Cosy Toes nursery in Middleton\nA three-year-old boy has died after a “medical emergency” at a nursery in Greater Manchester.\nEmergency services were called to Cosy Toes nursery in Middleton, near Manchester, on the afternoon of 2",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/18/boy-three-dies-medical-emergency-cosy-toes-nursery-middleton-greater-manchester",
-      "image": "https://i.guim.co.uk/img/media/df327e4e617830e1f697e61146d7a0ce405a03e5/394_204_6434_5148/master/6434.jpg?width=140&quality=85&auto=format&fit=max&s=dacd1373a7fc8d2ae159598d00d5efc8",
-      "publishedAt": "2026-11-18T14:18:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "6hxr5r",
-      "title": "Labour faces double blow over UK fossil fuel projects",
-      "summary": "Big North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage site\n\nBusiness live – latest updates\n\nThe energy secretary has been dealt a double blow after two UK companies signalled plans to pull their investment from a series of major fossil fuel projects over govern",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
-      "image": "https://i.guim.co.uk/img/media/43807761436da658bfa0aa4756a6c6866170ca90/585_0_2915_2333/master/2915.jpg?width=140&quality=85&auto=format&fit=max&s=93e605e61347ca2e145736b8c8ce2219",
-      "publishedAt": "2026-11-18T14:12:23.000Z",
-      "sample": false
-    },
-    {
-      "id": "64sun",
-      "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
-      "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment regulator says\nEnvironment secretary Angela Eagle, her ministers and Natural England are breaking the law by failing to intervene to slow the catastrophic decline of Britain’s wild birds, the UK’s environment regulator has",
-      "category": "environment",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
-      "image": "https://i.guim.co.uk/img/media/cd9c93f4d2bc857399f8b29d244fd59b9a4d5a26/790_137_2189_1751/master/2189.jpg?width=140&quality=85&auto=format&fit=max&s=5799f24f307e319eb13438f74212e024",
-      "publishedAt": "2026-11-18T14:07:35.000Z",
-      "sample": false
-    },
-    {
       "id": "u8sege",
       "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
       "summary": "Attorney general says E1 settlement decision should not be taken by caretaker government led by Netanyahu\nIsrael has postponed issuing contracts for the construction of a large settlement on the West Bank seen as likely to render a two-state solution unviable, days after the UK imposed sanctions against building firms ",
@@ -115,39 +434,6 @@
       "sample": false
     },
     {
-      "id": "6oeu7i",
-      "title": "The seven Anthropic founders who are about to become multi-billionaires",
-      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
-      "publishedAt": "2026-11-18T13:55:14.000Z",
-      "sample": false
-    },
-    {
-      "id": "qa65kz",
-      "title": "Ministers to drop foie gras imports ban to help seal EU food trade deal",
-      "summary": "Animal welfare charities criticise ‘backwards step’ on foie gras, production of which has been banned in UK since 2007\nMinisters will drop plans to ban foie gras imports into the UK in order to smooth a trade deal with the EU that will be announced this week.\nAs first reported by the Financial Times, the proposed ban w",
-      "category": "military",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/18/labour-drops-foie-gras-import-ban-eu-food-trade-deal",
-      "image": "https://i.guim.co.uk/img/media/70e660fd41167b951c370313da615a9538afcd67/145_272_4671_3738/master/4671.jpg?width=140&quality=85&auto=format&fit=max&s=00ccaf9239d9dca75987523370748aa4",
-      "publishedAt": "2026-11-18T13:47:04.000Z",
-      "sample": false
-    },
-    {
-      "id": "dzdp20",
-      "title": "Police investigate death of boy, 3, after nursery incident",
-      "summary": "The boy died in hospital three days after an incident at Cosy Toes Nursery in Middleton, police say.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cm8x0q1p2q8jo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0848/live/f7f8ea20-d829-11f1-be97-417dbcdedd32.png",
-      "publishedAt": "2026-11-18T13:34:58.000Z",
-      "sample": false
-    },
-    {
       "id": "oo9mx",
       "title": "Toilets: Are you a squatter or a sitter?",
       "summary": "Did you know the average time it takes to pass a bowel movement is shorter if you're squatting rather than sitting? Josie Peters explores why.",
@@ -156,28 +442,6 @@
       "url": "https://www.bbc.co.uk/videos/c804wngelw22o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1de/live/e68a9020-e352-11f1-a094-5fdc692f3e33.jpg",
       "publishedAt": "2026-11-18T13:25:05.000Z",
-      "sample": false
-    },
-    {
-      "id": "3j2hdu",
-      "title": "Burnham promises to 'move quickly' on Neets report",
-      "summary": "The prime minister tells the BBC he wants to get \"stuck in\" after the Milburn report proposes wide-ranging changes to help unemployed young people.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c8n50457edd4o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6d5/live/68b519f0-e31a-11f1-a094-5fdc692f3e33.jpg",
-      "publishedAt": "2026-11-18T13:23:49.000Z",
-      "sample": false
-    },
-    {
-      "id": "ziezn6",
-      "title": "Home secretary plans to tackle 'corrosive' perception of two-tier policing",
-      "summary": "Shabana Mahmood announces stronger guidance on police impartiality in a speech to police chiefs.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c3vg24wpg040o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4035/live/d90bfb90-e2c2-11f1-a9da-01a195e70ea0.jpg",
-      "publishedAt": "2026-11-18T13:19:39.000Z",
       "sample": false
     },
     {
@@ -211,28 +475,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f6a/live/8100d500-e345-11f1-99aa-0f40b013ad11.jpg",
       "publishedAt": "2026-11-18T13:10:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "cna8hs",
-      "title": "'Good for the people' if politicians stopped doing media, says NI secretary of state",
-      "summary": "Sir Chris Bryant said all that \"talking to the media emphasises the divisions rather than the collaborations\".",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cr0qjw7xqqwlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b09/live/ee1589b0-e34a-11f1-99aa-0f40b013ad11.jpg",
-      "publishedAt": "2026-11-18T13:09:45.000Z",
-      "sample": false
-    },
-    {
-      "id": "u5m55x",
-      "title": "Brain cancer patients demand public inquiry into chemotherapy scandal",
-      "summary": "A wider review of affected patients should be discussed with the government, the report recommends.",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy83q9wzpvo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca73/live/f782ebf0-e34f-11f1-99aa-0f40b013ad11.jpg",
-      "publishedAt": "2026-11-18T13:00:07.000Z",
       "sample": false
     },
     {
@@ -302,17 +544,6 @@
       "sample": false
     },
     {
-      "id": "3tjng4",
-      "title": "Yvette Cooper announces new health support for most vulnerable people in England",
-      "summary": "Health secretary says 500,000 will benefit initially from ‘downpayment’ on PM’s national care service pledge\n\nUK politics live – latest updates\n\nHalf a million of the most vulnerable people in England will get proactive help with their health needs from new teams that will act as a “downpayment” on the promised nationa",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/society/2026/nov/18/yvette-cooper-health-support-vulnerable-people-england",
-      "image": "https://i.guim.co.uk/img/media/2cd5cfea9935907152278d56832dbe067bf878e4/393_0_6318_5052/master/6318.jpg?width=140&quality=85&auto=format&fit=max&s=abb4916e5257c1b52a6297c8f03024c0",
-      "publishedAt": "2026-11-18T11:08:32.000Z",
-      "sample": false
-    },
-    {
       "id": "qxkofe",
       "title": "Joanna Page says male actor made 'awful' and 'inappropriate' comments to her on set",
       "summary": "Page spoke of the comments during Tuesday's episode of I'm a Celebrity... Get Me Out Of Here!",
@@ -335,6 +566,17 @@
       "sample": false
     },
     {
+      "id": "kswaf5",
+      "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
+      "summary": "Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economy\n\nEnergy bills in Great Britain forecast to rise by 26% to £2,166 from January\n\nInflation in the UK rose to 3.6% in October after petrol prices increased and diesel hit a record high amid the fallout from the war i",
+      "category": "military",
+      "source": "the-guardian",
+      "url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
+      "image": "https://i.guim.co.uk/img/media/8ae5d123fc8871ebf2d020abb219f5c9483c3014/969_14_6501_5202/master/6501.jpg?width=140&quality=85&auto=format&fit=max&s=5d287d7dec7852dec1dcb26be9a276f7",
+      "publishedAt": "2026-11-18T10:14:26.000Z",
+      "sample": false
+    },
+    {
       "id": "2t3u7k",
       "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
       "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
@@ -343,17 +585,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee74/live/b9842e30-e337-11f1-9479-d17d3e98c29d.png",
       "publishedAt": "2026-11-18T09:28:35.000Z",
-      "sample": false
-    },
-    {
-      "id": "t8jkcu",
-      "title": "Shabana Mahmood to set out plans to tackle ‘corrosive’ perception of two-tier policing",
-      "summary": "Home secretary to tell police chiefs ‘misguided attempts at course correction’ can lead to ‘differential treatment’\n\nUK politics live – latest updates\n\nShabana Mahmood will set out plans to tackle the “corrosive and growing perception” of two-tier policing in a speech to police chiefs on Wednesday.\nThe home secretary w",
-      "category": "politics",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/18/shabana-mahmood-two-tier-policing",
-      "image": "https://i.guim.co.uk/img/media/a5df35b527e78eea429c557f14c5c7c34d9b9d11/213_0_2158_1727/master/2158.jpg?width=140&quality=85&auto=format&fit=max&s=a5570a308c9422a7e2cebae2da60a5a0",
-      "publishedAt": "2026-11-18T09:10:43.000Z",
       "sample": false
     },
     {
@@ -392,23 +623,12 @@
     {
       "id": "d5qgu5",
       "title": "Energy bills in Great Britain forecast to rise by 26% to £2,166 from January",
-      "summary": "Government under pressure to help households as increase would add £443 to average annual dual-fuel bill\n\nEnergy price cap rise: how to switch providers\n\nTell us: are you shopping around for a better deal?\n\nUK inflation rises to 3.6%\n\nBusiness live – latest updates\n\nEnergy bills across Great Britain are predicted to re",
+      "summary": "Government under pressure to help households as increase would add £443 to average annual dual-fuel bill\n\nEnergy price cap rise: how to switch providers\n\nTell us: are you shopping around for a better deal?\n\nUK inflation rises to 3.6%\n\nEnergy bills across Great Britain are predicted to reach £2,166 a year for the typica",
       "category": "economy",
       "source": "the-guardian",
       "url": "https://www.theguardian.com/money/2026/nov/18/energy-bills-great-britain-forecast-rise",
       "image": "https://i.guim.co.uk/img/media/8c742265b09bd37eac854ba5917b1d03d2f9f660/0_0_6434_5147/master/6434.jpg?width=140&quality=85&auto=format&fit=max&s=d753f3ac925fe12efb066b12c25ccbe8",
       "publishedAt": "2026-11-18T08:24:26.000Z",
-      "sample": false
-    },
-    {
-      "id": "efu6tf",
-      "title": "Burnham considering cuts to national insurance to create more youth jobs",
-      "summary": "PM hints he is open to suggestion in Milburn report to lower NICs contributions paid by companies for under-25s\n\nWho are the Neets? UK youth job crisis in five charts\n\nUK firms: what is stopping you hiring young people?\n\nAndy Burnham has said he would consider cuts to national insurance for young people “very carefully",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report",
-      "image": "https://i.guim.co.uk/img/media/e7c724ea18187cf1562474492f2c3c9deb12ff39/451_0_4505_3604/master/4505.jpg?width=140&quality=85&auto=format&fit=max&s=a230d7eb0898ce7934bbc9fcff858e2a",
-      "publishedAt": "2026-11-18T08:03:32.000Z",
       "sample": false
     },
     {
@@ -478,17 +698,6 @@
       "sample": false
     },
     {
-      "id": "8h19ik",
-      "title": "States to debate social security contributions cut",
-      "summary": "The amendment is being brought forward by deputies Gavin St Pier and Tom Rylatt.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm39mwjgjpo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef8c/live/70ab9930-5a9f-11f1-9626-f75d5d5577d2.jpg",
-      "publishedAt": "2026-11-18T06:17:58.000Z",
-      "sample": false
-    },
-    {
       "id": "i1r5s1",
       "title": "Huge waste dump blamed on Environment Agency delays",
       "summary": "Quarry owner MB Wilkes says it faces a £3m bill to clear the site near Corfe Mullen in Dorset.",
@@ -511,14 +720,14 @@
       "sample": false
     },
     {
-      "id": "yp81cm",
-      "title": "Police boss vows to expel racists and misogynists",
-      "summary": "A chief constable vows \"zero tolerance\" as a former officer alleges she was abused by a colleague.",
+      "id": "bs3hsk",
+      "title": "George thought his funeral was paid for – but now his wife will get nothing when he dies",
+      "summary": "George Davies made payments to an insurance company for 17 years, but now he isn't entitled to a penny.",
       "category": "politics",
       "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c6evrjm9grvlo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e13/live/b883d5b0-df88-11f1-a5d4-0b20a170e974.jpg",
-      "publishedAt": "2026-11-18T06:06:31.000Z",
+      "url": "https://www.bbc.co.uk/news/articles/cq23jvxm3jldo?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5007/live/3fa9fc90-e272-11f1-99b6-a35a62fa4264.jpg",
+      "publishedAt": "2026-11-18T06:07:34.000Z",
       "sample": false
     },
     {
@@ -555,28 +764,6 @@
       "sample": false
     },
     {
-      "id": "egctkm",
-      "title": "‘Deeply concerning’: NHS in England reports more than 3,000 incidents of staff snooping on patients’ records",
-      "summary": "Campaign groups and regulators say data breaches are distressing for patients and families and erode trust in the health service\nThe NHS in England has recorded more than 3,000 incidents of staff inappropriately snooping on patients’ medical records in the last five years.\nPatient campaign groups and regulators said th",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/society/2026/nov/18/nhs-england-staff-snooping-patients-records",
-      "image": "https://i.guim.co.uk/img/media/1fc26045520598d001eaa086cb28a8c25d1aff49/95_0_2579_2065/master/2579.jpg?width=140&quality=85&auto=format&fit=max&s=e46373a6a1a1facdfc3e27d9811c2d75",
-      "publishedAt": "2026-11-18T06:00:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "b1gccd",
-      "title": "‘In the end, nothing happened’: how Reform’s Doge-style crackdown fell flat",
-      "summary": "Party promised a Musk-inspired blitz at councils in England, but research shows it has failed to cut harder or faster than comparable local authorities\nWhen Reform UK secured a historic breakthrough in the May local elections last year, it was – according to the party leader, Nigel Farage – time for the UK to emulate D",
-      "category": "society",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/18/reform-doge-style-crackdown-fell-flat",
-      "image": "https://i.guim.co.uk/img/media/a50f8b334510a166c3b01ff0d34e4150dabbce27/1004_0_6088_4870/master/6088.jpg?width=140&quality=85&auto=format&fit=max&s=59252307303d4f424d05ee42bd007c1d",
-      "publishedAt": "2026-11-18T06:00:34.000Z",
-      "sample": false
-    },
-    {
       "id": "bjaile",
       "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
       "summary": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
@@ -596,17 +783,6 @@
       "url": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
       "image": "https://i.guim.co.uk/img/media/d3bff27441734d18c2feb427a057b23c1ce14bdc/1004_0_4725_3780/master/4725.jpg?width=140&quality=85&auto=format&fit=max&s=a34f5c5d68750204b892c4c4d64e18c3",
       "publishedAt": "2026-11-18T05:00:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "o2m2nd",
-      "title": "Drinking beer and spirits raises risk of acute kidney damage, study suggests",
-      "summary": "Research also shows consuming wine could cut risk, reopening debate on whether beverage has health benefits\nDrinking beer and spirits increases the risk of serious kidney damage, whereas consuming wine offers protection against it, a study suggests.\nPeople who drink nine units of spirits a week are 26% more likely to s",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/society/2026/nov/18/drinking-beer-spirits-raises-risk-acute-kidney-damage-wine-protects-study",
-      "image": "https://i.guim.co.uk/img/media/7eaca3050a2112cba947b3ef249ad497a50730bb/313_0_2974_2380/master/2974.jpg?width=140&quality=85&auto=format&fit=max&s=9742ac6ad2fa74f1f1f5381b61e6166f",
-      "publishedAt": "2026-11-18T05:00:31.000Z",
       "sample": false
     },
     {
@@ -654,17 +830,6 @@
       "sample": false
     },
     {
-      "id": "gyk499",
-      "title": "Is there any more snow on the way for England and Scotland?",
-      "summary": "After snow fell across northern England and southern Scotland on Tuesday, is there more on the way?",
-      "category": "politics",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/weather/articles/cmvg2p9qlkz9o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2af1/live/d7685720-e295-11f1-8dda-8925a81c3da5.jpg",
-      "publishedAt": "2026-11-18T01:13:16.000Z",
-      "sample": false
-    },
-    {
       "id": "31r0g9",
       "title": "Voy at-home test kit adverts banned over low testosterone claims",
       "summary": "The Advertising Standards Authority says the adverts by online healthcare provider Voy made misleading claims.",
@@ -696,18 +861,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36bf/live/43e4a6f0-e29c-11f1-8dda-8925a81c3da5.jpg",
       "publishedAt": "2026-11-18T00:44:48.000Z",
       "sample": false
-    },
-    {
-      "id": "e7sjjq",
-      "title": "The EU that Burnham is eyeing up is very different to the one Britain left",
-      "summary": "Andy Burnham wants \"steps\" towards a closer EU alignment. But the bloc has changed considerably since the UK left it",
-      "category": "military",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gn3109pzgo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0152/live/8197ef80-e282-11f1-99a1-253766e7ad8b.jpg",
-      "publishedAt": "2026-11-18T00:39:06.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "mgdulw",
       "title": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
@@ -772,17 +928,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1009/live/2f8b8b90-e2ad-11f1-a094-5fdc692f3e33.jpg",
       "publishedAt": "2026-11-17T22:51:15.000Z",
-      "sample": false
-    },
-    {
-      "id": "p5yjby",
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "category": "military",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42be/live/81981920-e2db-11f1-950d-ffe0c8f51f90.png",
-      "publishedAt": "2026-11-17T22:46:30.000Z",
       "sample": false
     },
     {
@@ -885,17 +1030,6 @@
       "sample": false
     },
     {
-      "id": "xe994y",
-      "title": "NHS gets £500m boost in Wales' first budget under Plaid Cymru",
-      "summary": "Health spending will rise, but the government says it is grappling with \"tight\" public finances.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cm9308z78p7ko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5664/live/61fe51d0-e289-11f1-b166-176de21e2352.png",
-      "publishedAt": "2026-11-17T17:23:17.000Z",
-      "sample": false
-    },
-    {
       "id": "gfatg5",
       "title": "What is the polar vortex, why has it flipped and will it bring snow?",
       "summary": "We look at what is happening over the Arctic and what it might mean for winter weather in the northern hemisphere\nThe polar vortex has flipped direction, signalling the earliest “major sudden stratospheric warming” ever observed. We examine how it is likely to affect you and whether it will bring snow.\n Continue readin",
@@ -904,30 +1038,6 @@
       "url": "https://www.theguardian.com/world/2026/nov/17/polar-vortex-flipped-uk-snow-explainer",
       "image": "https://i.guim.co.uk/img/media/dd5180b4afb7725890218b52b3320fb4db8478fb/616_372_2216_1773/master/2216.jpg?width=140&quality=85&auto=format&fit=max&s=b46691bca3d52d4449ba0119b5929444",
       "publishedAt": "2026-11-17T16:16:06.000Z",
-      "sample": false
-    },
-    {
-      "id": "x7ns2f",
-      "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-      "summary": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1236/live/f4363760-e29e-11f1-a094-5fdc692f3e33.png",
-      "publishedAt": "2026-11-17T15:56:04.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "tkt9zu",
-      "title": "Ikea ditches plans for new UK stores, blaming high business taxes",
-      "summary": "Retailer’s British boss says John Healey ‘missed opportunity to back retailers’ in October’s budget\nIkea has ditched some planned store openings in the UK blaming the cost of business taxes, which it said were the highest in Europe.\nAs its annual UK sales little more than flatlined at the Swedish flatpack furniture ret",
-      "category": "economy",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
-      "image": "https://i.guim.co.uk/img/media/e48e0a5a868c5cdc153193db0223c51711262589/982_1086_5295_4236/master/5295.jpg?width=140&quality=85&auto=format&fit=max&s=0fb46c7565e6eb68679c7b5306452d8c",
-      "publishedAt": "2026-11-17T15:09:32.000Z",
       "sample": false
     },
     {
@@ -964,28 +1074,6 @@
       "sample": false
     },
     {
-      "id": "n4smbf",
-      "title": "UK unemployment unexpectedly eases to 4.6% as government releases Milburn report",
-      "summary": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into work\n\nMilburn urges Burnham to spend billions on young people\n\nWho are the Neets? UK youth job crisis in five charts\n\nThe UK unemployment rate has unexpectedly fallen as the government released an important report on the yout",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
-      "image": "https://i.guim.co.uk/img/media/fcacde2d064f282a10c275f3fffebc930491811a/528_156_3303_2643/master/3303.jpg?width=140&quality=85&auto=format&fit=max&s=52028965ab5e15a0547c89e69e1919f6",
-      "publishedAt": "2026-11-17T13:44:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "c7vbnl",
-      "title": "Anthropic IPO: how can I buy shares, and is it worth it?",
-      "summary": "Stock market debut of Claude AI chatbot maker is expected to be one of the biggest flotations in history\nThe technology company Anthropic is heading for a blockbuster stock market listing this week in what is slated to be one of the largest debuts in history.\nThe company is a leader in artificial intelligence, and is b",
-      "category": "technology",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/technology/2026/nov/17/anthropic-ipo-flotation-buy-shares-stock-market-claude-ai",
-      "image": "https://i.guim.co.uk/img/media/d81359f5e4da75f7495b425a00df32d856f9a079/500_0_5226_4181/master/5226.jpg?width=140&quality=85&auto=format&fit=max&s=f23e062956aa7ee6f710d9709dea9d98",
-      "publishedAt": "2026-11-17T13:00:48.000Z",
-      "sample": false
-    },
-    {
       "id": "fq9de8",
       "title": "Where are the most jobs for 18-24 year-olds?",
       "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
@@ -1016,17 +1104,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87b8/live/b2aca760-54fb-11f1-b682-cf91850925ea.jpg",
       "publishedAt": "2026-11-17T12:00:12.000Z",
-      "sample": false
-    },
-    {
-      "id": "lu41qm",
-      "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-      "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
-      "category": "technology",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
-      "publishedAt": "2026-11-17T11:49:01.000Z",
       "sample": false
     },
     {
@@ -1063,17 +1140,6 @@
       "sample": false
     },
     {
-      "id": "j7c54f",
-      "title": "Expert behind NHS children’s gender services review says she cannot back conversion practices ban",
-      "summary": "Hilary Cass says draft bill is having ‘chilling effect’ on healthcare professionals and could pose a risk to parents\nThe expert behind a major review into children’s gender services has said she can no longer support proposed legislation to ban conversion practices related to sexual orientation and transgender identity",
-      "category": "health",
-      "source": "the-guardian",
-      "url": "https://www.theguardian.com/politics/2026/nov/17/expert-nhs-gender-review-cannot-back-conversion-practices-ban",
-      "image": "https://i.guim.co.uk/img/media/10cc7f42ff1e37c35d3a89b3299e3585acb25c5c/163_0_3173_2539/master/3173.jpg?width=140&quality=85&auto=format&fit=max&s=92e4485e2aa27afd4aa621c2769fbc19",
-      "publishedAt": "2026-11-17T09:51:03.000Z",
-      "sample": false
-    },
-    {
       "id": "kvvgsq",
       "title": "More than £160m needed to clean up one of Europe's largest illegal dumps",
       "summary": "Environment Minister Andrew Muir has described what happened at Mobuoy, near Derry, as an \"absolute scandal\" which could take a generation to fix.",
@@ -1107,17 +1173,6 @@
       "sample": false
     },
     {
-      "id": "uw1z9s",
-      "title": "'I spent more than two days waiting in A&E' - NHS bids to end corridor care",
-      "summary": "The Welsh government has vowed to speed up emergency care and help patients get home sooner.",
-      "category": "health",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c6gm3912vvvyo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad72/live/7d1f4140-e1d5-11f1-99a1-253766e7ad8b.png",
-      "publishedAt": "2026-11-17T08:51:40.000Z",
-      "sample": false
-    },
-    {
       "id": "ykgt3m",
       "title": "Met Office yellow warning in place as snow could disrupt Tuesday morning travel",
       "summary": "Snow could bring some transport disruption to the hills of northern England and southern Scotland, as Chris Fawkes explains.",
@@ -1148,17 +1203,6 @@
       "url": "https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports",
       "image": "https://i.guim.co.uk/img/media/bb1079d7b1b05f3a9af68af148e1b5ef166362d5/584_0_4903_3922/master/4903.jpg?width=140&quality=85&auto=format&fit=max&s=eda43a93133416061307f9758513ca0d",
       "publishedAt": "2026-11-17T06:00:05.000Z",
-      "sample": false
-    },
-    {
-      "id": "n36thz",
-      "title": "We couldn't afford a house alone, so we bought one with strangers",
-      "summary": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da1d/live/2cfb5880-e265-11f1-900c-895604014268.jpg",
-      "publishedAt": "2026-11-17T00:00:02.000Z",
       "sample": false
     },
     {
@@ -1247,17 +1291,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed68/live/71f67330-e1ab-11f1-8ee3-23d0d09d2796.jpg",
       "publishedAt": "2026-11-16T11:45:33.000Z",
-      "sample": false
-    },
-    {
-      "id": "t58tw4",
-      "title": "Yellow weather warnings issued for snow as temperatures plummet",
-      "summary": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times.",
-      "category": "environment",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e42/live/9f7d3670-e1cb-11f1-b8c8-67fa35f5afdb.jpg",
-      "publishedAt": "2026-11-16T10:02:04.000Z",
       "sample": false
     },
     {
@@ -1368,17 +1401,6 @@
       "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg",
       "publishedAt": "2026-11-14T22:09:40.000Z",
-      "sample": false
-    },
-    {
-      "id": "63ohs8",
-      "title": "Consumer Fight Back",
-      "summary": "Black Friday promises huge savings, but are the deals really as good as they seem?",
-      "category": "economy",
-      "source": "bbc-news",
-      "url": "https://www.bbc.co.uk/sounds/play/m003498k?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m565dw.jpg",
-      "publishedAt": "2026-11-14T11:00:00.000Z",
       "sample": false
     },
     {
