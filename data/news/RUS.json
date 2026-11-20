@@ -2,8 +2,569 @@
   "id": "RUS",
   "name": "Russia",
   "sample": false,
-  "updatedAt": "2026-11-20T15:08:26.623Z",
+  "updatedAt": "2026-11-20T23:50:24.260Z",
   "daily": [
+    {
+      "id": "tbcvhe",
+      "title": "GTA VI sales reach $3.79 bln on first day of release, company says",
+      "summary": "The game became the most successful product in the history of the entertainment industry",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/economy/2222773",
+      "image": null,
+      "publishedAt": "2026-11-20T22:52:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "rozvzg",
+      "title": "Moldova might \"experiment\" if tired of having diplomatic presence in Russia — Zakharova",
+      "summary": "Earlier, Moldovan Parliament Speaker Igor Grosu suggested that the country’s authorities might declare Russian Ambassador Oleg Ozerov persona non grata",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2222769",
+      "image": null,
+      "publishedAt": "2026-11-20T21:52:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rozvze",
+      "title": "US must take decisive step in dialogue with Russia, Jeffrey Sachs says",
+      "summary": "Director of Columbia University's Center for Sustainable Development Jeffrey Sachs expressed hope that the US will not enter a military alliance with Ukraine or Georgia and will not support their admission to NATO",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2222767",
+      "image": null,
+      "publishedAt": "2026-11-20T21:22:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rozvyl",
+      "title": "Trump-Putin relations vitally important for entire world — RDIF CEO",
+      "summary": "Kirill Dmitriev has also stressed the importance of relations between the Russian and US Presidents for global security",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2222759",
+      "image": null,
+      "publishedAt": "2026-11-20T20:51:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2ihdo",
+      "title": "Rubio calls meeting of Russia, China, and US leaders foundation for further negotiations",
+      "summary": "The US Secretary of State pointed out that this meeting has set the tone and created a platform upon which the hard work of diplomacy and trade negotiations can occur to the benefit of the American people and the world",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/world/2222757",
+      "image": null,
+      "publishedAt": "2026-11-20T20:45:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rozvyf",
+      "title": "They often wanted to split Russia to dominate; they want to do so now as well — Putin",
+      "summary": "Vladimir Putin believes that what is happening now is a continuation of the same policy — divide and rule — and the desire to reduce Russia’s potential",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2222753",
+      "image": null,
+      "publishedAt": "2026-11-20T20:35:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2ihdi",
+      "title": "Trump acknowledges that it’s hard for him to agree to cut US nuclear arsenal",
+      "summary": "Earlier, Donald Trump held talks with his Russian and Chinese counterparts, Vladimir Putin and Xi Jinping, and issues of nuclear weapons were among the topics they discussed",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2222751",
+      "image": null,
+      "publishedAt": "2026-11-20T20:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "rozvxq",
+      "title": "Ukraine should understand fight against Russia not supported out of love for it — Putin",
+      "summary": "This is done for selfish reasons, to weaken and dismember everyone, the Russian President noted",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2222749",
+      "image": null,
+      "publishedAt": "2026-11-20T20:23:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2ihct",
+      "title": "Trump says US, Russia, China condemned ICC’s abuses",
+      "summary": "According to the US leader, the the International Criminal Court has \"fake power\" because there is no \"strength behind it\"",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2222747",
+      "image": null,
+      "publishedAt": "2026-11-20T20:16:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2ihcr",
+      "title": "China agreed for first time for joint nuclear risks consultations with Russia, US — Trump",
+      "summary": "Vladimir Putin, Xi Jinping, and Donald Trump held talks on the sidelines of the APEC summit, the first such contact ever",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2222745",
+      "image": null,
+      "publishedAt": "2026-11-20T20:13:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2ihcp",
+      "title": "Trump doesn’t want to talks about security guarantees for Ukraine until deal is reached",
+      "summary": "It is necessary to get a deal first, the US President said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2222743",
+      "image": null,
+      "publishedAt": "2026-11-20T20:03:01.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2ihby",
+      "title": "Iranian nuclear program discussed at Russia-US-China meeting — Trump",
+      "summary": "Leaders talked extensively about ensuring that Iran will never have a nuclear weapon, US President said",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2222737",
+      "image": null,
+      "publishedAt": "2026-11-20T19:55:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2ihbw",
+      "title": "Trump doubts nuclear arsenals can be reduced",
+      "summary": "\"It's hard to say yes, especially when you're leading\", the US President said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2222735",
+      "image": null,
+      "publishedAt": "2026-11-20T19:48:57.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2ihbu",
+      "title": "Trump says discussed situation on Korean peninsula with Putin, Xi",
+      "summary": "US President said it without specifying the dangers",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2222733",
+      "image": null,
+      "publishedAt": "2026-11-20T19:43:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2ihb5",
+      "title": "Trump dubs talks with Putin, Xi ‘summit of three’",
+      "summary": "In four days, he also met more than 20 world leaders, US President added",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2222729",
+      "image": null,
+      "publishedAt": "2026-11-20T19:41:51.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2ihb3",
+      "title": "Trump describes his relations with Putin as ‘fantastic’",
+      "summary": "He has also fantastic relationships with President Xi Jinping, US President added",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2222727",
+      "image": null,
+      "publishedAt": "2026-11-20T19:17:03.000Z",
+      "sample": false
+    },
+    {
+      "id": "tbcvd5",
+      "title": "US, Russia and China agree to boost fuel production",
+      "summary": "This is necessary to reduce pressure on global prices, US President Donald Trump said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/economy/2222725",
+      "image": null,
+      "publishedAt": "2026-11-20T19:07:22.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2ihax",
+      "title": "Trump believes Russia, China, US need to reduce their nuclear arsenals",
+      "summary": "From the US president's perspective, nuclear reduction is necessary, and Moscow, Washington, and Beijing bear a special responsibility as the largest nuclear powers",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2222721",
+      "image": null,
+      "publishedAt": "2026-11-20T18:54:57.000Z",
+      "sample": false
+    },
+    {
+      "id": "tbcvca",
+      "title": "Russian stock market closed in the red — market data",
+      "summary": "The MOEX Russia Index fell by 2.67% to 2,353.25, while the RTS Index lost 2.98% to 901.95 points",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/economy/2222715",
+      "image": null,
+      "publishedAt": "2026-11-20T18:25:56.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2ih9d",
+      "title": "Nearly 24,000 Yemenis flee their homes over past week — OCHA",
+      "summary": "The International Organization for Migration reports that more than 353,000 people have been forced to flee their homes since the escalation began",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2222707",
+      "image": null,
+      "publishedAt": "2026-11-20T18:21:41.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2ih9b",
+      "title": "Ex-spokesperson doesn't see Ukrainian state making it past spring 2028",
+      "summary": "Yulia Mendel argued that no country can sustain such enormous human losses indefinitely, as Ukraine has",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2222705",
+      "image": null,
+      "publishedAt": "2026-11-20T18:19:17.000Z",
+      "sample": false
+    },
+    {
+      "id": "rozvb8",
+      "title": "Ukrainian attacks kills two civilians, injure five others in LPR in past day",
+      "summary": "According to Leonid Pasechnik, a driver and a freight forwarder were killed in a Ukrainian strike on a truck carrying food along the highway between Lugansk and Shchastye",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2222695",
+      "image": null,
+      "publishedAt": "2026-11-20T17:59:48.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2igq9",
+      "title": "Houthis say they attacked power plant, port in Saudi Arabia",
+      "summary": "According to Yahya Saria, the strikes that caused serious damage came as response to the Saudi-led coalition’s strikes against on power plants in the Yemeni cities of Saada and Mokha, and the shelling attack on a Hodeida port berth",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2222691",
+      "image": null,
+      "publishedAt": "2026-11-20T17:52:30.000Z",
+      "sample": false
+    },
+    {
+      "id": "j3mbso",
+      "title": "Russia boosts production of new weapons, deputy defense minister says",
+      "summary": "Yunus-Bek Yevkurov added that the Defense Ministry, together with federal agencies and regional authorities, was \"actively implementing a wide range of social support measures for veterans of the special military operation and their families\"",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2222689",
+      "image": null,
+      "publishedAt": "2026-11-20T17:49:58.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2igpk",
+      "title": "US tells EU, Ukraine it wants to see peace deal by early January — media",
+      "summary": "According to the newspaper, the White House hopes to secure a deal before Democrats take control of the US Congress",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2222687",
+      "image": null,
+      "publishedAt": "2026-11-20T17:47:33.000Z",
+      "sample": false
+    },
+    {
+      "id": "rozva9",
+      "title": "Russia to respond to Denmark’s expulsion of military attache — diplomat",
+      "summary": "Earlier, the Danish Foreign Ministry summoned Russian Ambassador to Copenhagen Vladimir Barbin and informed him that a Russian military attache had been declared persona non grata",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2222681",
+      "image": null,
+      "publishedAt": "2026-11-20T17:31:28.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2igon",
+      "title": "Israeli troops shell Lebanese villages north of Litani River — agency",
+      "summary": "According to the agency, coming under shelling were the villages of Bani Hayyan, Zawtar al-Sharqiyah, Mayfadoun, Sarbin, and al-Ghandouriyah in the Nabatieh province north of the Litani River",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2222675",
+      "image": null,
+      "publishedAt": "2026-11-20T17:29:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "rozv9g",
+      "title": "Estonia inflames already strained ties with Russia and Baltic region overall — diplomat",
+      "summary": "Estonia’s decision to unilaterally close the remaining border crossing points with Russia is a provocative move, Maria Zakharova said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2222673",
+      "image": null,
+      "publishedAt": "2026-11-20T17:23:37.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2igoj",
+      "title": "Denmark to restrict visa issuance to Russians — foreign minister",
+      "summary": "Lars Lokke Rasmussen noted that the restrictions would apply to visas for non-urgent, nonessential travel and urged EU countries to follow suit",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2222671",
+      "image": null,
+      "publishedAt": "2026-11-20T17:19:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "tbcuq0",
+      "title": "Jet fuel situation in Russia normal — Deputy PM",
+      "summary": "The Energy Ministry will decide on the renewal of the export ban, Andrey Nikitin said",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/economy/2222669",
+      "image": null,
+      "publishedAt": "2026-11-20T17:16:55.000Z",
+      "sample": false
+    },
+    {
+      "id": "rozv8p",
+      "title": "Russian envoy to EU reiterates call for Western diplomats to leave Kiev",
+      "summary": "Karen Malayan said that the Russian Armed Forces continue to carry out systematic strikes on Ukrainian military facilities in retaliation for the Ukrainian military’s terrorist activities targeting civilians and civilian infrastructure in Russia",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2222667",
+      "image": null,
+      "publishedAt": "2026-11-20T17:15:23.000Z",
+      "sample": false
+    },
+    {
+      "id": "rozv7u",
+      "title": "Tallinn uses Russia border closure for military, political ends — expert",
+      "summary": "These measures are a blow to everyone who maintains human and business ties with Russia, Natalya Yeryomina said",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/politics/2222657",
+      "image": null,
+      "publishedAt": "2026-11-20T16:57:51.000Z",
+      "sample": false
+    },
+    {
+      "id": "rozv7o",
+      "title": "Netherlands unconvincingly denies role in Ukraine conflict, Russian diplomat says",
+      "summary": "Dmitry Polyansky said he asked the Dutch representative at a meeting of the OSCE Permanent Council whether the use of Destinus drones by Ukrainian forces meant that the Netherlands was openly joining the conflict in Ukraine",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2222651",
+      "image": null,
+      "publishedAt": "2026-11-20T16:55:19.000Z",
+      "sample": false
+    },
+    {
+      "id": "tbcuoa",
+      "title": "Bitcoin drops below $60,000 — market data",
+      "summary": "The cryptocurrency lost 5.75% to $59,411",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/economy/2222649",
+      "image": null,
+      "publishedAt": "2026-11-20T16:52:08.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2igm0",
+      "title": "Missile strikes outskirts of Iranian city of Qeshm — agency",
+      "summary": "No details were provided on possible damage or the scale of the attack",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2222643",
+      "image": null,
+      "publishedAt": "2026-11-20T16:48:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2igly",
+      "title": "British general confirms UK cyber operations against Russia, China",
+      "summary": "General Sir Rob Magowan believes that Russia, China, Iran and North Korea pose \"a threat to the way of life\"",
+      "category": "technology",
+      "source": "tass",
+      "url": "https://tass.com/world/2222641",
+      "image": null,
+      "publishedAt": "2026-11-20T16:47:50.000Z",
+      "sample": false
+    },
+    {
+      "id": "vruefn",
+      "title": "Call to Ukrainians, and prayers for Russia: Putin’s statements",
+      "summary": "The president said that he is aware of the support from Russian people, and he is very grateful for it",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/society/2222637",
+      "image": null,
+      "publishedAt": "2026-11-20T16:44:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "oopl5k",
+      "title": "Putin Tells Ukrainians to ‘Come Over to Our Side’ Despite War",
+      "summary": "Putin’s comments were part of a documentary marking the 80th birthday of Russian Orthodox Church head Patriarch Kirill.",
+      "category": "military",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/11/20/putin-tells-ukrainians-to-come-over-to-our-side-despite-war-a94337",
+      "image": null,
+      "publishedAt": "2026-11-20T16:22:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "vrueeu",
+      "title": "Putin congratulates Patriarch Kirill on 80th birthday in person",
+      "summary": "The meeting took place in the Patriarchal Chambers of the Moscow Kremlin",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/society/2222629",
+      "image": null,
+      "publishedAt": "2026-11-20T16:18:51.000Z",
+      "sample": false
+    },
+    {
+      "id": "j3mbxw",
+      "title": "Russia’s 201st military base in Tajikistan helps create security belt in Eurasia — expert",
+      "summary": "Alexander Stepanov noted that the Russian military base in Tajikistan currently carries out a wide range of tasks",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/defense/2222627",
+      "image": null,
+      "publishedAt": "2026-11-20T16:16:53.000Z",
+      "sample": false
+    },
+    {
+      "id": "9dfyif",
+      "title": "Romania denies visas to Russian taekwondo athletes for U-14 European Championship",
+      "summary": "The European Cadets Championships in taekwondo for athletes under 14 will be held from November 26-28 in Bucharest",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/sports/2222625",
+      "image": null,
+      "publishedAt": "2026-11-20T16:12:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "tbcume",
+      "title": "New customs regime in China’s Hainan boosts cultural exchanges",
+      "summary": "A Renaissance-era painting exhibition has kicked off at the Hainan Museum in Haikou",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/economy/2222623",
+      "image": null,
+      "publishedAt": "2026-11-20T16:10:10.000Z",
+      "sample": false
+    },
+    {
+      "id": "tbculp",
+      "title": "Narva hotels to lose 5-10% of revenue due to closing of border with Russia",
+      "summary": "Dining establishments could lose up to 20%",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/economy/2222619",
+      "image": null,
+      "publishedAt": "2026-11-20T15:55:44.000Z",
+      "sample": false
+    },
+    {
+      "id": "bbkykb",
+      "title": "Russia Summons Romanian Ambassador Over Youth Athletes Visa Denial",
+      "summary": "",
+      "category": "politics",
+      "source": "moscow-times",
+      "url": "https://www.themoscowtimes.com/2026/11/20/russia-summons-romanian-ambassador-over-youth-athletes-visa-denial-a94336",
+      "image": null,
+      "publishedAt": "2026-11-20T15:47:14.000Z",
+      "sample": false
+    },
+    {
+      "id": "tbcull",
+      "title": "Net profit of Russian insurance market plummeted 50.7% in 9M 2026",
+      "summary": "The decline in profit was primarily driven by losses in non-life insurance",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/economy/2222615",
+      "image": null,
+      "publishedAt": "2026-11-20T15:30:26.000Z",
+      "sample": false
+    },
+    {
+      "id": "rozv3d",
+      "title": "Estonia’s border shuttering and Russia’s peace mind: Foreign Ministry's statements",
+      "summary": "Maria Zakharova emphasized that Russia would take all necessary political and diplomatic response measures to secure its national interests",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/politics/2222601",
+      "image": null,
+      "publishedAt": "2026-11-20T15:27:11.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2igjd",
+      "title": "Israeli reconnaissance drones fly over Beirut at medium altitude",
+      "summary": "The hum of their engines has been heard over Beirut for several hours",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/world/2222611",
+      "image": null,
+      "publishedAt": "2026-11-20T15:22:52.000Z",
+      "sample": false
+    },
+    {
+      "id": "9dfyk1",
+      "title": "IIHF Council to gather next week to talk Russia’s participation in int’l events — official",
+      "summary": "Earlier, the Court of Arbitration for Sport ruled that the IIHF must allow Russian teams to compete internationally",
+      "category": "politics",
+      "source": "tass",
+      "url": "https://tass.com/sports/2222609",
+      "image": null,
+      "publishedAt": "2026-11-20T15:15:42.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2igio",
+      "title": "Tajik president sees Putin off to his plane as Russian leader wraps up Dushanbe visit",
+      "summary": "The two leaders discussed a wide range of issues around multi-faceted cooperation, including the expansion of trade, economic, cultural and humanitarian ties",
+      "category": "economy",
+      "source": "tass",
+      "url": "https://tass.com/world/2222607",
+      "image": null,
+      "publishedAt": "2026-11-20T15:13:28.000Z",
+      "sample": false
+    },
+    {
+      "id": "vrued0",
+      "title": "Individual accused of piratic seizure of Arctic Sea vessel extradited to Russia",
+      "summary": "The individual was wanted on charges of committing a crime under Part 3 of Article 227 of Russia’s Criminal Code, Foreign Ministry Spokeswoman Irina Volk said",
+      "category": "society",
+      "source": "tass",
+      "url": "https://tass.com/society/2222605",
+      "image": null,
+      "publishedAt": "2026-11-20T15:12:05.000Z",
+      "sample": false
+    },
+    {
+      "id": "m2igik",
+      "title": "Saudi-led coalition hits seven Houthi military targets in Yemen",
+      "summary": "According to coalition’s spokesman Turki al-Maliki, the coalition forces \"wiped out one of the Houthi group’s main logistics warehouses in Sanaa\"",
+      "category": "military",
+      "source": "tass",
+      "url": "https://tass.com/world/2222603",
+      "image": null,
+      "publishedAt": "2026-11-20T15:10:13.000Z",
+      "sample": false
+    },
     {
       "id": "m2ifzs",
       "title": "US, Israel still weighing strikes on Iran — media",
@@ -590,7 +1151,7 @@
     {
       "id": "9dfzvg",
       "title": "International Biathlon Union views Russia’s int’l ban as justified",
-      "summary": "On December 10, 2025, the RBU filed a lawsuit with the Court of Arbitration for Sport (CAS) in Switzerland demanding that the suspension of Russian athletes, which had been in effect since spring 2022, be lifted",
+      "summary": "On December 10, 2025, the RBU filed a lawsuit with the Court of Arbitration for Sport in Switzerland demanding that the suspension of Russian athletes, which had been in effect since spring 2022, be lifted",
       "category": "politics",
       "source": "tass",
       "url": "https://tass.com/sports/2222477",
@@ -621,83 +1182,6 @@
       "sample": false
     },
     {
-      "id": "m2if7d",
-      "title": "Closing border with Russia to cost Estonia millions of euros — minister",
-      "summary": "Hendrik Johannes Terras acknowledged that the restrictive measures will affect the tourism sector in areas bordering Russia, daily commuters, and families with relatives on both sides of the border",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2222479",
-      "image": null,
-      "publishedAt": "2026-11-20T12:16:07.000Z",
-      "sample": false
-    },
-    {
-      "id": "j3mdb3",
-      "title": "Consultations with Uzbekistan on armed forces activities important — Russian defense chief",
-      "summary": "Andrey Belousov said that great importance is attached to training programs for Uzbekistan’s military personnel at our Russian Armed Forces’ specialized training centers",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2222473",
-      "image": null,
-      "publishedAt": "2026-11-20T12:11:40.000Z",
-      "sample": false
-    },
-    {
-      "id": "m2if6g",
-      "title": "Tajik leader, Putin discuss efforts to counter regional security threats",
-      "summary": "Emomali Rahmon and Vladimir Putin also praised coordination between the two countries’ authorities during the meeting",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2222467",
-      "image": null,
-      "publishedAt": "2026-11-20T11:59:42.000Z",
-      "sample": false
-    },
-    {
-      "id": "m2if6e",
-      "title": "Russia border won't be 'as free as before,' says Estonian interior minister",
-      "summary": "Igor Taro said that nobody should expect this",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2222465",
-      "image": null,
-      "publishedAt": "2026-11-20T11:57:20.000Z",
-      "sample": false
-    },
-    {
-      "id": "tbct7r",
-      "title": "Russia honors 37.2 mln euro Eurobond coupon payment — Finance Ministry",
-      "summary": "Payments were made in accordance with the decree of the Russian Federation on the temporary procedure of honoring state debt liabilities of the Russian Federation to residents and foreign creditors",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2222459",
-      "image": null,
-      "publishedAt": "2026-11-20T11:54:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "m2if6a",
-      "title": "Uzbekistan interested in expanding defense cooperation with Russia — minister",
-      "summary": "Uzbekistani Defense Minister Major General Botir Kudratkhodjayev said the two countries had reached a qualitatively new level",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2222461",
-      "image": null,
-      "publishedAt": "2026-11-20T11:54:10.000Z",
-      "sample": false
-    },
-    {
-      "id": "roztr7",
-      "title": "Putin to brief Tajik president on outcomes of APEC summit",
-      "summary": "The Russian president noted that the forum participants are largely neighbors of Dushanbe",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222463",
-      "image": null,
-      "publishedAt": "2026-11-20T11:54:08.000Z",
-      "sample": false
-    },
-    {
       "id": "w8wgtz",
       "title": "Putin Awards State Humanitarian Prize to Patriarch Kirill on His 80th Birthday",
       "summary": "Past recipients include writer Alexander Solzhenitsyn, cosmonaut Valentina Tereshkova and former French President Jacques Chirac.",
@@ -706,39 +1190,6 @@
       "url": "https://www.themoscowtimes.com/2026/11/20/putin-awards-state-humanitarian-prize-to-patriarch-kirill-on-his-80th-birthday-a94328",
       "image": null,
       "publishedAt": "2026-11-20T11:52:59.000Z",
-      "sample": false
-    },
-    {
-      "id": "tbct7p",
-      "title": "Tajikistan, Russia interested in expanding investment cooperation",
-      "summary": "President of Tajikistan Emomali Rahmon and Russian President Vladimir Putin also paid high attention to expanding trade and economic ties, including cooperation in spheres of energy, industry, mining, agriculture and transport",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/economy/2222457",
-      "image": null,
-      "publishedAt": "2026-11-20T11:48:33.000Z",
-      "sample": false
-    },
-    {
-      "id": "roztqe",
-      "title": "European security system overhaul only way to keep war at bay — Russian envoy",
-      "summary": "Russian Permanent OSCE Representative Dmitry Polyansky stressed that Moscow was ready to discuss security guarantees for all European countries",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222455",
-      "image": null,
-      "publishedAt": "2026-11-20T11:47:39.000Z",
-      "sample": false
-    },
-    {
-      "id": "tbct7l",
-      "title": "Russia, China to hold 12th financial dialogue in Moscow on November 23",
-      "summary": "Current issues of bilateral and multilateral cooperation between Russia and China in the finance sphere are planned to be discussed during the event",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2222453",
-      "image": null,
-      "publishedAt": "2026-11-20T11:47:21.000Z",
       "sample": false
     },
     {
@@ -753,72 +1204,6 @@
       "sample": false
     },
     {
-      "id": "j3mddm",
-      "title": "Russia, Uzbekistan conduct over 60 joint activities as part of military partnership",
-      "summary": "According to Russian Defense Minister Andrey Belousov, the countries place special emphasis on the operational and combat training of troops and joint exercises",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2222445",
-      "image": null,
-      "publishedAt": "2026-11-20T11:33:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "roztnt",
-      "title": "E3 invitation to Moscow does not signal role in Ukraine talks — Russian diplomat",
-      "summary": "Sergey Ryabkov noted that Russian President Vladimir Putin had announced an invitation for European officials to visit Moscow and outline potential proposals for a European security architecture at a press conference in Shenzhen, China",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222425",
-      "image": null,
-      "publishedAt": "2026-11-20T11:17:27.000Z",
-      "sample": false
-    },
-    {
-      "id": "9dfzzr",
-      "title": "French football club PSG plans to extend Russia’s Safonov through 2032 — TV",
-      "summary": "The Russian goalkeeper’s existing contract with the French club is set to expire in 2029",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/sports/2222427",
-      "image": null,
-      "publishedAt": "2026-11-20T11:15:44.000Z",
-      "sample": false
-    },
-    {
-      "id": "roztnr",
-      "title": "Russia to factor Netherlands’ support for Ukraine into military planning — MFA",
-      "summary": "Maria Zakharova pointed out that \"at Zelensky’s orders, the Ukrainian armed forces targeted the Crimean Bridge with missiles and drones, causing an arch of the road bridge to collapse\"",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222423",
-      "image": null,
-      "publishedAt": "2026-11-20T11:14:09.000Z",
-      "sample": false
-    },
-    {
-      "id": "roztn2",
-      "title": "Military base in Tajikistan, support for Russian language: Putin-Rahmon meeting",
-      "summary": "The Russian leader called the 201st Russian Armed Forces base a major guarantor of security throughout the Central Asian region",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222419",
-      "image": null,
-      "publishedAt": "2026-11-20T11:12:49.000Z",
-      "sample": false
-    },
-    {
-      "id": "roztmy",
-      "title": "Very existence of BRICS infuriates its geopolitical rivals — MFA",
-      "summary": "Russian Deputy Foreign Minister Sergey Ryabkov stressed that BRICS is about friendship, mutual assistance and mutual understanding",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222415",
-      "image": null,
-      "publishedAt": "2026-11-20T11:10:47.000Z",
-      "sample": false
-    },
-    {
       "id": "qfkos8",
       "title": "Tankers Carrying Russian Diesel Divert to Brazil After U.S. Buyers Balk – The Maritime Executive",
       "summary": "According to Maritime Executive, New Jersey governor Mikie Sherrill warned terminal operators and fuel companies not to receive the fuel.",
@@ -827,50 +1212,6 @@
       "url": "https://www.themoscowtimes.com/2026/11/20/tankers-carrying-russian-diesel-divert-to-brazil-after-us-buyers-balk-the-maritime-executive-a94327",
       "image": null,
       "publishedAt": "2026-11-20T11:08:31.000Z",
-      "sample": false
-    },
-    {
-      "id": "roztm5",
-      "title": "Russian EW systems in Orekhov area successfully intercepting Ukrainian FPV drones",
-      "summary": "The Russian serviceman revealed that drones are disabled in a manner that prevents them from causing any damage when they crash",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222407",
-      "image": null,
-      "publishedAt": "2026-11-20T11:02:03.000Z",
-      "sample": false
-    },
-    {
-      "id": "rozt35",
-      "title": "Tajik president briefs Putin on Afghan border situation — Kremlin spokesman",
-      "summary": "Incidents occur in the area from time to time, and smugglers remain active, among other things, Dmitry Peskov said",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222395",
-      "image": null,
-      "publishedAt": "2026-11-20T10:54:42.000Z",
-      "sample": false
-    },
-    {
-      "id": "rozt33",
-      "title": "Dutch support for Kiev marks step up escalation ladder — Russian Foreign Ministry",
-      "summary": "Russia will take those actions into account in its military planning, Maria Zakharova noted",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222393",
-      "image": null,
-      "publishedAt": "2026-11-20T10:52:42.000Z",
-      "sample": false
-    },
-    {
-      "id": "tbcsjn",
-      "title": "Russia’s LNG exports to China up 49.1% to 8.7 million tons in January-October",
-      "summary": "The value of Russian LNG shipments to China over the reporting period rose by 52.3% to $4.96 billion, making Russia the second-largest supplier of the fuel to the country",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/economy/2222389",
-      "image": null,
-      "publishedAt": "2026-11-20T10:44:43.000Z",
       "sample": false
     },
     {
@@ -885,83 +1226,6 @@
       "sample": false
     },
     {
-      "id": "rozt2a",
-      "title": "E3 nations' visit to Moscow, nuclear briefcase, Trump’s compliment: Kremlin’s statements",
-      "summary": "There are still no exact dates for the visit to Moscow by EU representatives, Dmitry Peskov stressed",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222385",
-      "image": null,
-      "publishedAt": "2026-11-20T10:40:47.000Z",
-      "sample": false
-    },
-    {
-      "id": "rozt1d",
-      "title": "IN BRIEF: Ukrainian defense plants, transport infrastructure hit in massive Russian strike",
-      "summary": "In addition, port infrastructure facilities in the Odessa Region and sea vessels used for the benefit of the Ukrainian army were hit",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222373",
-      "image": null,
-      "publishedAt": "2026-11-20T10:36:33.000Z",
-      "sample": false
-    },
-    {
-      "id": "m2iegm",
-      "title": "Estonian government rules to close border with Russia starting December 1",
-      "summary": "In six months, the government will be able to reassess the situation and decide on further actions, Prime Minister Kristen Michal noted",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2222377",
-      "image": null,
-      "publishedAt": "2026-11-20T10:31:27.000Z",
-      "sample": false
-    },
-    {
-      "id": "m2iegg",
-      "title": "Tajik leader praises Russia as reliable ally of his country",
-      "summary": "Emomali Rahmon noted that relations between the two countries have been developing successfully",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2222371",
-      "image": null,
-      "publishedAt": "2026-11-20T10:29:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "rozt0m",
-      "title": "Russia’s Baltic Fleet ship Perekop reaches Guinean port of Conakry",
-      "summary": "Cadets from the Republic of Guinea will board the training ship to complete practical training alongside cadets from the Admiral Ushakov Baltic Higher Naval School",
-      "category": "society",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222367",
-      "image": null,
-      "publishedAt": "2026-11-20T10:26:21.000Z",
-      "sample": false
-    },
-    {
-      "id": "rozt0g",
-      "title": "Kiev intensifies terrorist activities amid Ukraine settlement talks — Russian diplomat",
-      "summary": "\"Facing setbacks on the front, Ukrainian army militants are venting their anger on civilians and civilian infrastructure, striking them with drones to kill people and destroy structures,\" Maria Zakharova said",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222361",
-      "image": null,
-      "publishedAt": "2026-11-20T10:25:31.000Z",
-      "sample": false
-    },
-    {
-      "id": "rozsyq",
-      "title": "Russia has no plans to attack NATO members — Foreign Ministry",
-      "summary": "Russia wants to live in peace and harmony with its neighbors and with all countries, Maria Zakharova said",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222341",
-      "image": null,
-      "publishedAt": "2026-11-20T10:20:49.000Z",
-      "sample": false
-    },
-    {
       "id": "5jef4t",
       "title": "Russia Pushes Back Against U.S. Idea of NATO-Style Security Guarantees for Ukraine",
       "summary": "Ryabkov also confirmed that a potential visit to Moscow by representatives from Britain, Germany and France was being worked on.",
@@ -970,17 +1234,6 @@
       "url": "https://www.themoscowtimes.com/2026/11/20/russia-pushes-back-against-us-idea-of-nato-style-security-guarantees-for-ukraine-a94326",
       "image": null,
       "publishedAt": "2026-11-20T10:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "rozsxx",
-      "title": "Putin discusses Russian military base in Tajikistan, regional security with Rahmon",
-      "summary": "The Russian president is visiting Dushanbe on November 20, where he is holding talks with his Tajik counterpart",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222333",
-      "image": null,
-      "publishedAt": "2026-11-20T10:14:49.000Z",
       "sample": false
     },
     {
@@ -995,116 +1248,6 @@
       "sample": false
     },
     {
-      "id": "rozsxv",
-      "title": "West wants to ‘cleanse’ Ukraine of its indigenous population through Kiev — diplomat",
-      "summary": "Maria Zakharova highlighted that the West had always viewed Ukraine as a tool and continued to treat it that way",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222331",
-      "image": null,
-      "publishedAt": "2026-11-20T10:00:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "ccbjdu",
-      "title": "Press review: China, Russia, US hold first summit as Washington backs EU in Ukraine talks",
-      "summary": "Top stories from the Russian press on Friday, November 20th",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/pressreview/2222189",
-      "image": null,
-      "publishedAt": "2026-11-20T10:00:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "rozswd",
-      "title": "NATO openly preparing for military conflict with Russia — foreign ministry spokeswoman",
-      "summary": "Maria Zakharova emphasized that the alliance's strategists should take into account the fact that both NATO countries and Russia possessed nuclear weapons",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222319",
-      "image": null,
-      "publishedAt": "2026-11-20T09:48:32.000Z",
-      "sample": false
-    },
-    {
-      "id": "j3me65",
-      "title": "New version of Solntsepyok flamethrower system features higher speed — Rostec",
-      "summary": "The main feature of the upgraded vehicle is the transition to the T-80 tank chassis instead of the usual T-72 platform",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/defense/2222321",
-      "image": null,
-      "publishedAt": "2026-11-20T09:46:56.000Z",
-      "sample": false
-    },
-    {
-      "id": "m2iec7",
-      "title": "Zelensky says only US bases can guarantee Ukraine’s security",
-      "summary": "The head of Kiev regime pointed out that Ukraine and the US could have different understandings of the meaning of guarantees modeled on Article 5 of the NATO Charter",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2222323",
-      "image": null,
-      "publishedAt": "2026-11-20T09:46:05.000Z",
-      "sample": false
-    },
-    {
-      "id": "m2ieaj",
-      "title": "EU pushes Ukraine’s NATO membership, ignores Russia’s concerns — Finnish politician",
-      "summary": "Armando Mema stressed that European security could not be built without Russia",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2222305",
-      "image": null,
-      "publishedAt": "2026-11-20T09:25:12.000Z",
-      "sample": false
-    },
-    {
-      "id": "j3me7t",
-      "title": "Russia develops Foros smart jammers against FPV drones",
-      "summary": "The Center for Unmanned Systems and Technologies added that the technical capabilities of the Foros device allow it to jam signals across all operational LoRa bands",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/defense/2222303",
-      "image": null,
-      "publishedAt": "2026-11-20T09:24:34.000Z",
-      "sample": false
-    },
-    {
-      "id": "j3meql",
-      "title": "Overnight strike on Ukraine among most powerful — air force spokesman",
-      "summary": "Russia’s Defense Ministry said earlier that its forces had carried out a large-scale overnight strike, hitting defense industry facilities, warehousing terminals, and energy and transport infrastructure",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/defense/2222299",
-      "image": null,
-      "publishedAt": "2026-11-20T09:23:35.000Z",
-      "sample": false
-    },
-    {
-      "id": "rozsci",
-      "title": "Russian Foreign Ministry on E3 representatives' visit preparations, security principles",
-      "summary": "Russian Deputy Foreign Minister Sergey Ryabkov emphasized that Moscow considers the principle of equal and indivisible security for all a key requirement in its contacts with the European Union and NATO",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222297",
-      "image": null,
-      "publishedAt": "2026-11-20T09:19:17.000Z",
-      "sample": false
-    },
-    {
-      "id": "rozscg",
-      "title": "Starting point, victory for common sense: reactions to Putin, Xi Jinping, Trump meeting",
-      "summary": "Establishing trilateral dialogue between Moscow, Washington and Beijing on nuclear security, non-proliferation and related risks was the main outcome of the meeting in Shenzhen, expert Vasily Kashin believes",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222295",
-      "image": null,
-      "publishedAt": "2026-11-20T09:13:09.000Z",
-      "sample": false
-    },
-    {
       "id": "3cpyjg",
       "title": "‘He’s No Spy’: Former Colleagues Open Up About Japanese Journalist Arrested in Russia",
       "summary": "After weeks of silence around the case, people in Japan who knew or met Yuki Imai during his journalism career have begun to speak out.",
@@ -1113,61 +1256,6 @@
       "url": "https://www.themoscowtimes.com/2026/11/20/hes-no-spy-former-colleagues-open-up-about-japanese-journalist-arrested-in-russia-2-a94303",
       "image": null,
       "publishedAt": "2026-11-20T09:13:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "tbcrtn",
-      "title": "Bitcoin drops toward $61,000 — Binance",
-      "summary": "At the same time, Ethereum dropped by 1.68% to $1,727",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/economy/2222293",
-      "image": null,
-      "publishedAt": "2026-11-20T09:07:05.000Z",
-      "sample": false
-    },
-    {
-      "id": "m2idrh",
-      "title": "APEC summit in Shenzhen clearly demonstrates growing role of Global South, says expert",
-      "summary": "Wing Lok Hung anticipated a trend toward closer regional cooperation in the future, contrasting this with the ongoing protests and evident economic stagnation in Europe",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2222291",
-      "image": null,
-      "publishedAt": "2026-11-20T08:54:06.000Z",
-      "sample": false
-    },
-    {
-      "id": "rozsbp",
-      "title": "Trade among BRICS nations reaches $1.2 trillion — Russian Deputy Foreign Minister",
-      "summary": "Sergey Ryabkov expressed hope that trade among the bloc's member states would eventually no longer be measured in US dollars, pledging to \"work in that direction\"",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222289",
-      "image": null,
-      "publishedAt": "2026-11-20T08:52:43.000Z",
-      "sample": false
-    },
-    {
-      "id": "5zkvw1",
-      "title": "Damage to energy facility in Smolensk Region, 310 downed drones: aftermath of attacks",
-      "summary": "The Defense Ministry’s air defenses shot down 32 drones over the Smolensk Region",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/emergencies/2222287",
-      "image": null,
-      "publishedAt": "2026-11-20T08:51:07.000Z",
-      "sample": false
-    },
-    {
-      "id": "rozsau",
-      "title": "Russia’s deputy foreign minister describes BRICS as center for shaping multipolar world",
-      "summary": "Sergey Ryabkov recalled that the member countries accounted for approximately half of the global population and about 40% of the world's GDP",
-      "category": "economy",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222279",
-      "image": null,
-      "publishedAt": "2026-11-20T08:25:19.000Z",
       "sample": false
     },
     {
@@ -1180,73 +1268,9 @@
       "image": null,
       "publishedAt": "2026-11-20T08:24:00.000Z",
       "sample": false
-    },
-    {
-      "id": "5zkvv6",
-      "title": "Ukrainian attack on LPR kills three, search and rescue operations continue — regional head",
-      "summary": "Leonid Pasechnik said the Ukrainian military launched a massive strike on the Yubileyny settlement in Lugansk overnight",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/emergencies/2222277",
-      "image": null,
-      "publishedAt": "2026-11-20T08:21:58.000Z",
-      "sample": false
-    },
-    {
-      "id": "m2idp4",
-      "title": "NATO has no value without United States — US analyst",
-      "summary": "Scott Ritter added that Russia cannot ignore the rhetoric and actions of NATO member states",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/world/2222269",
-      "image": null,
-      "publishedAt": "2026-11-20T08:10:01.000Z",
-      "sample": false
-    },
-    {
-      "id": "tbcrr4",
-      "title": "Scientists offer new system to calculate carbon dioxide emissions from vessels in Arctic",
-      "summary": "The algorithm overlays the ship's track onto a map of ice conditions, identifies the ice thickness and cohesion and then calculates the ship hull's additional resistance",
-      "category": "environment",
-      "source": "tass",
-      "url": "https://tass.com/economy/2222265",
-      "image": null,
-      "publishedAt": "2026-11-20T08:07:29.000Z",
-      "sample": false
-    },
-    {
-      "id": "rozs83",
-      "title": "Russia working toward visit of EU Troika to Moscow — senior diplomat",
-      "summary": "Sergey Ryabkov recalled that President Vladimir Putin of Russia earlier highlighted the decision to invite representatives of the European Troika to Moscow",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222243",
-      "image": null,
-      "publishedAt": "2026-11-20T07:59:53.000Z",
-      "sample": false
-    },
-    {
-      "id": "rozs8y",
-      "title": "Russia sees little difference between Ukraine joining EU or NATO — deputy foreign minister",
-      "summary": "Sergey Ryabkov noted that \"there can be no deviation here from the requirement that 'security is indivisible'\"",
-      "category": "military",
-      "source": "tass",
-      "url": "https://tass.com/politics/2222253",
-      "image": null,
-      "publishedAt": "2026-11-20T07:57:46.000Z",
-      "sample": false
-    },
-    {
-      "id": "m2id03",
-      "title": "Ukraine’s electricity sector facing very challenging situation — grid operator",
-      "summary": "Power engineers are working to stabilize the situation, according to the statement",
-      "category": "politics",
-      "source": "tass",
-      "url": "https://tass.com/world/2222187",
-      "image": null,
-      "publishedAt": "2026-11-20T06:54:49.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "v2yg2k",
       "title": "Russia and Georgia Resume Direct Dialogue With Official Meeting in Minsk, Moscow Says",
@@ -1312,9 +1336,7 @@
       "image": null,
       "publishedAt": "2026-11-19T15:11:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "rx8t72",
       "title": "A New Yalta? In China, Putin Gets What He Wants – Mostly.",
@@ -1632,28 +1654,6 @@
       "url": "https://www.themoscowtimes.com/2026/11/16/russia-warns-uk-over-g20-presidency-after-london-says-putin-wont-come-to-its-summit-a94280",
       "image": null,
       "publishedAt": "2026-11-16T18:04:40.000Z",
-      "sample": false
-    },
-    {
-      "id": "voeztl",
-      "title": "Russia Loses UN Telecoms Agency Leadership Vote",
-      "summary": "Countries vie for ITU posts because winning can give them more influence on important topics such as AI standards and global radio spectrum allocation.",
-      "category": "health",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/11/16/russia-loses-un-telecoms-agency-leadership-vote-a94276",
-      "image": null,
-      "publishedAt": "2026-11-16T16:22:55.000Z",
-      "sample": false
-    },
-    {
-      "id": "ncuuuh",
-      "title": "Kremlin Aide Denies Russia Agreed to Include Europe in Ukraine Peace Talks",
-      "summary": "\"A great deal would have to be done before that could be agreed,\" Kremlin aide Yury Ushakov said.",
-      "category": "politics",
-      "source": "moscow-times",
-      "url": "https://www.themoscowtimes.com/2026/11/16/kremlin-aide-denies-russia-agreed-to-include-europe-in-ukraine-peace-talks-a94279",
-      "image": null,
-      "publishedAt": "2026-11-16T16:18:29.000Z",
       "sample": false
     }
   ],
