@@ -2,8 +2,63 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-11-21T06:27:43.966Z",
+  "updatedAt": "2026-11-21T18:55:31.244Z",
   "daily": [
+    {
+      "id": "mi1k8b",
+      "title": "British PM Burnham’s big worry Isn’t Brexit or welfare — it’s Trump and Iran",
+      "summary": "For weeks, Burnham and his most senior Cabinet colleagues have been consumed by the possibility Trump could resume major strikes on Iran",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/uk-burnham-brexit-welfare-trump-iran/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575309.jpg",
+      "publishedAt": "2026-11-21T08:27:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1z21o5",
+      "title": "U.S. Agriculture Department and FBI breached by hackers, reports say",
+      "summary": "The reports come as concerns deepened over the recent spate of tech outages at key American institutions.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/21/world/crime-legal/us-fbi-usda-cyberattacks/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575308.jpg",
+      "publishedAt": "2026-11-21T08:13:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pwa8rx",
+      "title": "Anthropic researcher says Claude solved math’s greatest riddle",
+      "summary": "The firm's chatbot may have helped prove the Riemann Hypothesis, a problem that has eluded mathematicians for more than 160 years.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/ai-anthropic-claude-riemann-hypothesis/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575307.jpg",
+      "publishedAt": "2026-11-21T07:46:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "bnbh0f",
+      "title": "Countries open path towards ‘killer robots’ pact",
+      "summary": "After five days of talks at the United Nations, which dragged on into overtime, states agreed on building some form of pact over the next two years.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/killer-robots-pact/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/thumbs/400x400/575310.jpg",
+      "publishedAt": "2026-11-21T07:41:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "3hs552",
+      "title": "Susumu Hirasawa’s ‘Paprika’ score is the perfect ‘retrofuturist’ sound for today",
+      "summary": "Two decades after the debut of Satoshi Kon's \"Paprika,\" its innovative soundtrack has found new life on social media.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/culture/2026/11/21/music/susumu-hirasawa-paprika-soundtrack/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/574653.jpg",
+      "publishedAt": "2026-11-21T07:30:00.000Z",
+      "sample": false
+    },
     {
       "id": "f697gu",
       "title": "As Trump courts Xi and Putin, middle powers make their own moves",
@@ -50,7 +105,7 @@
     },
     {
       "id": "ezvu8j",
-      "title": "From Hong Kong to Africa: humble bag carries history of migration",
+      "title": "From Hong Kong to Africa: Humble bag carries history of migration",
       "summary": "An everyday utility used to carry clothes, household goods and food, the bag also carries painful memories of mass expulsion and displacement.",
       "category": "politics",
       "source": "japan-times",
@@ -61,7 +116,7 @@
     },
     {
       "id": "58u7hq",
-      "title": "Iran foreign minister wants diplomacy to end war, Trump says terms unacceptable",
+      "title": "Iran foreign minister wants diplomacy to end war; Trump says terms unacceptable",
       "summary": "Iranian Foreign Minister Abbas Araqchi said Tehran wanted guarantees that Washington was serious about negotiations before proceeding further.",
       "category": "military",
       "source": "japan-times",
@@ -201,7 +256,9 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/574567.jpg",
       "publishedAt": "2026-11-20T23:00:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "vqis33",
       "title": "Saudis make deal with Japan to replenish depleted oil stockpiles",
@@ -278,63 +335,7 @@
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/575248.jpg",
       "publishedAt": "2026-11-20T08:28:00.000Z",
       "sample": false
-    },
-    {
-      "id": "8a4d8q",
-      "title": "Over 15,000 register interest in class action after Rakuten Securities breach",
-      "summary": "Access credentials and branch codes for 11.25 million accounts and personal data for 4.47 million were exposed in a recent breach, the firm has said.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/20/japan/crime-legal/rakuten-securities-lawsuit/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/575238.jpg",
-      "publishedAt": "2026-11-20T08:24:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "6a0nil",
-      "title": "Apple working on AI agent for device control, apps, browsing and coding",
-      "summary": "Apple's App Store has been dominated by artificial intelligence agents, with Muse long occupying the No. 2 spot among free apps, just behind TikTok.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/11/20/apple-ai-agent/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/575243.jpg",
-      "publishedAt": "2026-11-20T08:14:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "iaqrhs",
-      "title": "Tokyo police arrest four Vietnamese men on suspicion of fraud",
-      "summary": "The four allegedly withdrew or laundered money obtained through special fraud schemes, according to the police.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/20/japan/crime-legal/vietnam-fraud-arrest/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/575229.jpg",
-      "publishedAt": "2026-11-20T07:52:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ukwbel",
-      "title": "Measles is officially back — to America’s shame",
-      "summary": "The U.S. reported 7,700 measles cases and 13 deaths from the virus since the start of last year, with the virus spreading continuously for a year.",
-      "category": "health",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/commentary/2026/11/20/world/americas-measles-officially-back/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/575246.jpg",
-      "publishedAt": "2026-11-20T07:00:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "jvnrip",
-      "title": "Japan’s GDP slump might be more than just a blip",
-      "summary": "Inflation and uncertainty are weighing on consumers already fatigued by price increases and years of stagnant wages.",
-      "category": "economy",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/11/20/economy/gdp-weak-consumption/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/20/thumbs/400x400/575228.jpg",
-      "publishedAt": "2026-11-20T06:42:00.000Z",
-      "sample": false
     }
   ],
-  "weekly": [],
   "developing": []
 }
