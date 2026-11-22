@@ -2,17 +2,149 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-22T05:57:01.239Z",
+  "updatedAt": "2026-11-22T23:26:37.536Z",
   "daily": [
     {
-      "id": "bn8o06",
-      "title": "COP31: Fossil fuels still missing from draft deal at UN climate summit",
-      "summary": "Countries are still deeply divided despite weeks of negotiations. Nations are now mulling over a new draft text that still doesn't mention fossil fuels, the main cause of global warming. DW has more.",
+      "id": "6tmhvr",
+      "title": "Turkey: Thousands protest closure of critical media outlets",
+      "summary": "Protesters gathered in Istanbul to show their support for press freedom in Turkey. The protest was called just days after the police raided Sozcu TV and arrested several senior staff members.",
+      "category": "society",
+      "source": "dw",
+      "url": "https://www.dw.com/en/turkey-thousands-protest-closure-of-critical-media-outlets/a-80015347?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-22T21:31:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "dhl2fx",
+      "title": "Sudan: Drones hit UN building, residential area in Khartoum",
+      "summary": "The drones targeted Khartoum, damaging a UN building in the residential area. The UN agency deemed it unacceptable that humanitarian workers were exposed to such danger.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/sudan-drones-hit-un-building-residential-area-in-khartoum/a-80015122?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-22T19:25:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "2nsx9d",
+      "title": "Libya: Suspected drone attack hits Russian ship in Benghazi",
+      "summary": "A Russian vessel at an eastern Libyan naval base was hit by what is suspected to be a drone strike.",
       "category": "military",
       "source": "dw",
-      "url": "https://www.dw.com/en/cop31-fossil-fuels-still-missing-from-draft-deal-at-un-climate-summit/live-79999516?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/libya-suspected-drone-attack-hits-russian-ship-in-benghazi/a-80014545?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
-      "publishedAt": "2026-11-22T05:50:00.000Z",
+      "publishedAt": "2026-11-22T16:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "sh3jlx",
+      "title": "Israel's Eisenkot condemns 'Jewish terrorism' in West Bank",
+      "summary": "Israeli opposition leader Gadi Eisenkot has condemned a recent series of arson attacks in the occupied West Bank as \"Jewish terrorism.\" Israeli authorities have opened an investigation into the incidents.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/israel-s-eisenkot-condemns-jewish-terrorism-in-west-bank/a-80013861?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-22T15:09:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "q73i0l",
+      "title": "COP31 climate talks end without consensus on how to fund vulnerable countries or move the world away from coal, oil and gas use",
+      "summary": "After two weeks of tough talks, the COP31 climate summit has closed without a consensus on how to quit fossil fuels or fund countries struggling to adapt to a hotter world.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-22T13:18:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "pnif3w",
+      "title": "COP31: Climate deal 'not adopted,' summit president says",
+      "summary": "The summit was extended as nations worked to reach a deal, but they couldn't agree on including fossil fuels. European nations, small island states and activists have criticized oil-producing countries for the impasse.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/cop31-climate-deal-not-adopted-summit-president-says/live-79999516?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-22T12:39:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "4wuz6e",
+      "title": "Bayern Munich bosses under fire over Jamal Musiala comments",
+      "summary": "Officials have publicly questioned whether Musiala will ever fully recover from a debilitating neurological condition and queried the validity of his contract, prompting criticism from fans, media and the FIFPRO union.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/bayern-munich-bosses-under-fire-over-jamal-musiala-comments/a-80013187?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-22T11:30:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "iiuigc",
+      "title": "China, ASEAN countries struggle over South China Sea code of conduct",
+      "summary": "The Philippines wanted a South China Sea code of conduct in place by 2026. But persistent disagreements between China and ASEAN countries are slowing progress toward a deal.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-22T08:45:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "8x0phj",
+      "title": "Inspired by Bernie Sanders: A German agency is using US-Style campaigning to boost the left in 2029",
+      "summary": "\"The Goodforces\" wants to see a swing to the left in the 2029 German elections. The agency counts New York Mayor Zohran Mamdani and Bernie Sanders among its inspirations. Could it transform the political landscape?",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/inspired-by-bernie-sanders-a-german-agency-is-using-us-style-campaigning-to-boost-the-left-in-2029/a-80001443?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-22T08:39:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "o79gyt",
+      "title": "Germany news: IG Metall union calls for new 24-hour strike",
+      "summary": "Germany's biggest single union, IG Metall, is calling on car and shipyard workers to strike amid a pay row. Meanwhile, Germany's president is setting off on an Africa trip. DW has more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-ig-metall-union-calls-for-new-24-hour-strike/live-80008430?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-22T08:07:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "hylb3t",
+      "title": "US: ICE arrests 2 at Seattle airport in 'chilling' scenes — governor",
+      "summary": "Washington's governor has denounced the arrests made by ICE officers at Seattle's airport, calling the incident \"horrific.\"",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-ice-arrests-2-at-seattle-airport-in-chilling-scenes-governor/a-80012480?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-22T07:27:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ovhsf3",
+      "title": "India: Nepal PM Balendra Shah heads to Delhi for first bilateral visit",
+      "summary": "Nepal's rapper-turned-prime minister Balendra Shah is in New Delhi for his first foreign bilateral trip since taking office. He is expected to discuss flood recovery, trade and energy in his talks with Modi. DW has more.",
+      "category": "environment",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-nepal-pm-balendra-shah-heads-to-delhi-for-first-bilateral-visit/live-80008104?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-22T07:20:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "yfcwsk",
+      "title": "Dozens missing as deadly fire hits Indonesian candy factory",
+      "summary": "At least three people were killed in a devastating fire at a confectionery factory on Java. Officials said many more people remain unaccounted for, prompting fears of a much larger tragedy.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-22T06:14:00.000Z",
       "sample": false
     },
     {
@@ -25,7 +157,9 @@
       "image": null,
       "publishedAt": "2026-11-21T23:52:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "2ckbnz",
       "title": "Getting rid of antibiotic resistance: Challenges and possible solutions",
@@ -104,107 +238,6 @@
       "sample": false
     },
     {
-      "id": "wryffa",
-      "title": "Anthropic researcher uses AI to solve math's greatest riddle",
-      "summary": "The proposed breakthrough could reshape mathematical research, but still needs independent verification. It's the latest in a string of cases where AI has outpaced humans in solving famous maths problems.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-21T10:29:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "cvm216",
-      "title": "Germany news: Support for Ukraine military aid waning, survey shows",
-      "summary": "Nearly half of Germany's population wants to reduce military aid to Ukraine, a survey has found. Meanwhile, German consumers are set to pay more in energy bills next year due in part to the Iran war. DW has more.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-support-for-ukraine-military-aid-waning-survey-shows/live-80008430?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-21T10:10:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "vqxpx9",
-      "title": "'Killer robots' talks at UN end with no legally binding ban",
-      "summary": "Countries have agreed to extend discussions over controls on lethal autonomous weapons systems for two years.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-21T09:18:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "wcl5r1",
-      "title": "US judge jails Indian national in foiled Sikh separatist murder plot",
-      "summary": "New Delhi has denied any role in the plot to kill Sikh separatist Gurpatwant Singh Pannun in New York. Meanwhile, over 200 people have been hospitalized after consuming spurious liquor in Manipur state. DW has more.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-judge-jails-indian-national-in-foiled-sikh-separatist-murder-plot/live-80008104?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-21T07:53:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "r47n0l",
-      "title": "Man convicted of arson over deadly 2025 Palisades fire in Los Angeles",
-      "summary": "A 30-year-old man has been convicted of causing one of the most destructive wildfires in the history of Los Angeles. The verdict came after the case was retried.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-21T07:10:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "w2nowh",
-      "title": "Three El Salvador soldiers die in explosives accident in Haiti",
-      "summary": "The soldiers were part of a Salvadoran military contingent deployed to the violence-ridden Caribbean nation last month to rescue four missing airmen. The deployment has widened into an operation against Haiti's gangs.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/three-el-salvador-soldiers-die-in-explosives-accident-in-haiti/a-80008005?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-21T06:58:00.000Z",
-      "sample": false
-    }
-  ],
-  "weekly": [
-    {
-      "id": "yky08d",
-      "title": "Brazil ex-President Jair Bolsonaro taken to hospital over abdominal pain",
-      "summary": "Jair Bolsonaro has been hospitalized in Brasilia with intestinal obstruction. The former far-right Brazilian leader is receiving pain medications, his son Carlos said.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-21T03:16:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "g4phc2",
-      "title": "UK anti-migrant activist jailed for slashing Channel dinghy",
-      "summary": "Daniel Thomas, known as \"Danny Tommo,\" slashed a dinghy with a knife while a French rescue worker was on board. The incident was livestreamed to a large social media audience amid growing tensions over migrant crossings.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/uk-anti-migrant-activist-jailed-for-slashing-channel-dinghy/a-80007576?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-21T02:47:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ut02xl",
-      "title": "US judge approves Bayer's $7.25 billion cancer settlement",
-      "summary": "Bayer could end years of costly lawsuits in the US over claims that its Roundup weedkiller causes cancer. Tens of thousands of people could now receive compensation, although some lawyers say the payments are too low.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-21T00:03:00.000Z",
-      "sample": false
-    },
-    {
       "id": "rtltns",
       "title": "Russian ornithologist jailed over small donations to Navalny's foundation",
       "summary": "Sofia Rosenfeld has devoted her life to studying Arctic birds. A Russian court sentenced her to 3.5 years in a penal colony over donations to Navalny's foundation. Friends and family are fighting for her release.",
@@ -213,17 +246,6 @@
       "url": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-20T20:45:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "mugyht",
-      "title": "Repression against Iranian lawyers increases",
-      "summary": "At least 135 lawyers in Iran have been subjected to repressive measures over the past year. UN experts warn that this seriously jeopardizes the right of those accused to trial in a constitutional court.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-20T20:36:00.000Z",
       "sample": false
     },
     {
@@ -664,39 +686,6 @@
       "url": "https://www.dw.com/en/ai-in-classrooms-fighting-the-great-dumbing-down/a-79949229?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-16T07:46:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "uuv2s0",
-      "title": "German economy returns to growth, so why is the country still worried?",
-      "summary": "The German economy is growing again, albeit slightly. However, economists warn that without reforms, higher productivity and solid public finances, a loss of prosperity and growing debt threaten future generations.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/german-economy-returns-to-growth-so-why-is-the-country-still-worried/a-79932220?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-15T16:12:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "7eeupg",
-      "title": "Despite restrictive abortion laws, Poland's 'Abortomat' — a locker that dispenses abortion pills — helps women who want to end a pregnancy",
-      "summary": "Abortion laws in Poland are very restrictive. Activists there have found a new way to help women wanting to terminate a pregnancy: the \"Abortomat,\" a locker that dispenses abortion pills. But they face fierce opposition.",
-      "category": "health",
-      "source": "dw",
-      "url": "https://www.dw.com/en/despite-restrictive-abortion-laws-poland-s-abortomat-a-locker-that-dispenses-abortion-pills-helps-women-who-want-to-end-a-pregnancy/a-79943914?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-15T14:40:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "z2g68n",
-      "title": "Germany news: Germany holds national day of remembrance",
-      "summary": "Events were held for \"Volkstrauertag,\" a day commemorating victims of war and oppression. Meanwhile, experts said the country is headed for a budget crisis.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-news-germany-holds-national-day-of-remembrance/live-79947500?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-15T07:23:00.000Z",
       "sample": false
     }
   ],
