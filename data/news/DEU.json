@@ -2,8 +2,30 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-21T18:55:28.745Z",
+  "updatedAt": "2026-11-22T05:57:01.239Z",
   "daily": [
+    {
+      "id": "bn8o06",
+      "title": "COP31: Fossil fuels still missing from draft deal at UN climate summit",
+      "summary": "Countries are still deeply divided despite weeks of negotiations. Nations are now mulling over a new draft text that still doesn't mention fossil fuels, the main cause of global warming. DW has more.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/cop31-fossil-fuels-still-missing-from-draft-deal-at-un-climate-summit/live-79999516?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-22T05:50:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ge7fm9",
+      "title": "Nigeria: At least 24 dead after boat capsizes",
+      "summary": "The boat carrying mourners for a funeral overturned in southern Nigeria. It was the latest in a series of deadly boat accidents in the country.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/nigeria-at-least-24-dead-after-boat-capsizes/a-80011248?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-21T23:52:00.000Z",
+      "sample": false
+    },
     {
       "id": "2ckbnz",
       "title": "Getting rid of antibiotic resistance: Challenges and possible solutions",
@@ -18,7 +40,7 @@
     {
       "id": "r4kb27",
       "title": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
-      "summary": "The alleged leader of the Beltran Leyva gang and one of the FBI's most wanted fugitives, known as 'Chapo Isidro,' was captured by the Mexican military following a raid and a shootout in the coastal Sinaloa state.",
+      "summary": "The alleged leader of the Beltran Leyva gang and one of the FBI's most wanted fugitives, known as \"Chapo Isidro,\" was captured by the Mexican military following a raid and a shootout in the coastal state of Sinaloa.",
       "category": "military",
       "source": "dw",
       "url": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-xml-mrss",
@@ -79,17 +101,6 @@
       "url": "https://www.dw.com/en/germany-s-religious-freedom-report-authoritarian-regimes-holy-wars-and-spies-abroad/a-79995216?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-21T12:31:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "smrc5b",
-      "title": "COP31: UN Climate summit runs into overtime as deal remains elusive",
-      "summary": "After nearly two weeks of negotiations, countries remain divided on how to fight global warming. A new draft declaration doesn't mention the phaseout of fossil fuels, the main drivers of climate change. DW has more.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-overtime-as-deal-remains-elusive/live-79999516?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-21T10:52:00.000Z",
       "sample": false
     },
     {
@@ -157,7 +168,9 @@
       "image": null,
       "publishedAt": "2026-11-21T06:58:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "yky08d",
       "title": "Brazil ex-President Jair Bolsonaro taken to hospital over abdominal pain",
@@ -214,12 +227,12 @@
       "sample": false
     },
     {
-      "id": "wpry5t",
-      "title": "At COP31, conflict over climate science slows action on global warming",
+      "id": "vgtjm1",
+      "title": "COP31: No agreement on climate science, disinformation spreading",
       "summary": "Attacks on climate science and disinformation risk delaying key measures at COP31 in Antalya. As the UN climate talks draw to a close, how will that affect efforts to come to an agreement?",
-      "category": "military",
+      "category": "environment",
       "source": "dw",
-      "url": "https://www.dw.com/en/at-cop31-conflict-over-climate-science-slows-action-on-global-warming/a-80004894?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/cop31-no-agreement-on-climate-science-disinformation-spreading/a-80004894?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-20T20:34:00.000Z",
       "sample": false
@@ -234,9 +247,7 @@
       "image": null,
       "publishedAt": "2026-11-20T20:03:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "hclq0e",
       "title": "Better educated than ever — yet Germany's Gen Z is being shut out of its own future",
@@ -686,28 +697,6 @@
       "url": "https://www.dw.com/en/germany-news-germany-holds-national-day-of-remembrance/live-79947500?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-15T07:23:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "b4ejrb",
-      "title": "How AI is likely to change Germany's job market",
-      "summary": "The scale of the economic disruption caused by AI has led even conservative politicians to talk about universal basic income. But economists aren't convinced, and campaigners think we need to ask deeper questions.",
-      "category": "technology",
-      "source": "dw",
-      "url": "https://www.dw.com/en/how-ai-is-likely-to-change-germany-s-job-market/a-79941597?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-15T05:36:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ifd19w",
-      "title": "Germany's 2027 budget: A record €561 billion and a mountain of debt",
-      "summary": "The 2027 federal budget proposal has finally been hammered out and is set for a vote in parliament. What are the government's policy priorities in defense, infrastructure, the economy and social spending?",
-      "category": "economy",
-      "source": "dw",
-      "url": "https://www.dw.com/en/germany-s-2027-budget-a-record-€561-billion-and-a-mountain-of-debt/a-79943216?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-14T21:09:00.000Z",
       "sample": false
     }
   ],
