@@ -2,8 +2,85 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-23T23:38:34.831Z",
+  "updatedAt": "2026-11-24T09:14:52.542Z",
   "daily": [
+    {
+      "id": "ffi6qf",
+      "title": "Pakistani astronaut to join Chinese space mission",
+      "summary": "A Pakistani astronaut is set to become to the first foreigner to board China's Tiangong space station. Muhammad Zeeshan Ali, a payload specialist, will join the Shenzhou-24 mission when it launches on Wednesday.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/pakistani-astronaut-to-join-chinese-space-mission/a-80028922?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-24T09:03:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "x5ky3m",
+      "title": "Chinese official gets death sentence in spy case, report says",
+      "summary": "A Chinese official recruited while working abroad was paid more than a million yuan to leak secrets, state-affiliated media reported.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/chinese-official-gets-death-sentence-in-spy-case-report-says/a-80028393?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-24T08:41:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "xsfsmh",
+      "title": "What happens if a nuclear weapon explodes in space?",
+      "summary": "Earth's atmosphere offers protection from a nuclear blast in space, but satellites are more exposed. We explain how radiation could damage them, why the effects can linger and what protection is possible.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/what-happens-if-a-nuclear-weapon-explodes-in-space/a-80025827?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-24T08:34:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "omugki",
+      "title": "Germany news: Volkswagen begins wage talks with IG Metall union",
+      "summary": "Germany's largest labor union IG Metall and automaker Volkswagen are holding wage negotiations, as the company looks to embark on cost-cutting measures. Meanwhile, Germany's president is in Ghana. DW has more.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/germany-news-volkswagen-begins-wage-talks-with-ig-metall-union/live-80028306?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-24T08:15:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "8xc5rs",
+      "title": "Exiled leader Sheikh Hasina plans to return to Bangladesh on Dec. 16",
+      "summary": "After two years of exile in India, ousted Prime Minister Sheikh Hasina has set a return date to Bangladesh. She was sentenced to death in absentia last year over a brutal crackdown that left hundreds dead.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/exiled-leader-sheikh-hasina-plans-to-return-to-bangladesh-on-dec-16/a-80028083?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-24T07:32:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "y7dno7",
+      "title": "Weapons, war and wavering trust: Germans want to see more restraint in foreign policy",
+      "summary": "According to a study by the Körber Foundation, a growing number of Germans now oppose providing military aid to Ukraine. The majority also believes that Germany should take a neutral position between the US and China.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/weapons-war-and-wavering-trust-germans-want-to-see-more-restraint-in-foreign-policy/a-80026254?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-24T05:59:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ldo5r2",
+      "title": "India: Report warns of deepening authoritarianism under Modi",
+      "summary": "A Human Rights Watch report found that Modi's rule in India has eroded the rule of law and \"systematically weakened institutions\" meant to protect freedoms. Also, in Delhi a man injured nine police with a knife.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-report-warns-of-deepening-authoritarianism-under-modi/live-80027405?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-24T04:33:00.000Z",
+      "sample": false
+    },
     {
       "id": "pyj11d",
       "title": "US adds Megaspeed, at center of Nvidia scandal, to a trade blacklist",
@@ -49,12 +126,12 @@
       "sample": false
     },
     {
-      "id": "3b9aht",
-      "title": "Turkey: Authorities search for lioness on the loose in Istanbul",
-      "summary": "A lioness was on the loose in northern Istanbul, with wildlife advocates demanding answers over how the animal entered the country and who was keeping it in captivity.",
-      "category": "health",
+      "id": "5v1nsm",
+      "title": "Turkey: Istanbul 'lion hunt' ends with no big cat found after all",
+      "summary": "After a major search operation for a \"loose lion\" in Istanbul woodlands, Turkish authorities said \"the animal was neither a lion nor any other big cat.\"",
+      "category": "politics",
       "source": "dw",
-      "url": "https://www.dw.com/en/turkey-authorities-search-for-lioness-on-the-loose-in-istanbul/a-80020913?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/turkey-istanbul-lion-hunt-ends-with-no-big-cat-found-after-all/a-80020913?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-23T16:05:00.000Z",
       "sample": false
@@ -190,33 +267,13 @@
       "image": null,
       "publishedAt": "2026-11-23T09:26:00.000Z",
       "sample": false
-    },
-    {
-      "id": "xe3z0e",
-      "title": "NATO Parliamentary Assembly convenes amid Russian airspace violations",
-      "summary": "Ukrainian President Zelenskyy and German Foreign Minister Wadephul are set to address the NATO Parliamentary Assembly in Berlin while NATO representatives discuss Russian airspace violations in Brussels. DW has more.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/nato-parliamentary-assembly-convenes-amid-russian-airspace-violations/live-80016415?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-23T09:01:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "7yurba",
-      "title": "Ukraine updates: Kyiv claims strike that sank Russian ship off Libya",
-      "summary": "President Volodymyr Zelenskyy said the attack was carried out with Ukrainian-made naval drones. Meanwhile, NATO members are meeting to discuss an alleged Russian violation of Polish airspace. DW has more.",
-      "category": "military",
-      "source": "dw",
-      "url": "https://www.dw.com/en/ukraine-updates-kyiv-claims-strike-that-sank-russian-ship-off-libya/live-80015859?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-23T07:42:00.000Z",
-      "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "4f2r41",
       "title": "Germany news: Metalworkers go on strike as pay dispute heats up",
-      "summary": "Germany's biggest union is calling for more strikes over heated pay disputes with car makers like Mercedes and shipyards among the companies impacted. Meanwhile, a Berlin hospital fire leaves many injured. Follow DW.",
+      "summary": "Germany's biggest union is calling for more strikes over heated pay disputes with car makers like Mercedes and shipyards among the companies impacted. Meanwhile, a Berlin hospital fire leaves many injured.",
       "category": "health",
       "source": "dw",
       "url": "https://www.dw.com/en/germany-news-metalworkers-go-on-strike-as-pay-dispute-heats-up/live-80015633?maca=en-rss-en-all-1573-xml-mrss",
@@ -234,9 +291,7 @@
       "image": null,
       "publishedAt": "2026-11-23T06:33:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "q73i0l",
       "title": "COP31 climate talks end without consensus on how to fund vulnerable countries or move the world away from coal, oil and gas use",
