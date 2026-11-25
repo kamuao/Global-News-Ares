@@ -2,8 +2,118 @@
   "id": "JPN",
   "name": "Japan",
   "sample": false,
-  "updatedAt": "2026-11-25T07:49:58.999Z",
+  "updatedAt": "2026-11-25T21:25:36.354Z",
   "daily": [
+    {
+      "id": "gc804y",
+      "title": "Japanese judge dismissed over online casino gambling",
+      "summary": "The impeachment court determined that Judge Akifumi Morimoto, 52, at Niigata Summary Court, \"undermined public trust in the judiciary.\"",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/judge-casino-gambling/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/576034.jpg",
+      "publishedAt": "2026-11-25T14:40:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "enqncc",
+      "title": "Japan mulls new Japanese-language test for foreign workers",
+      "summary": "The Foreign Ministry is considering setting up a new Japanese-language proficiency test for foreign workers in response to increasing numbers of applicants and rule revisions, it was learned Wednesday.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/new-language-test-foreign-workers/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/576036.jpg",
+      "publishedAt": "2026-11-25T12:06:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "6afe29",
+      "title": "Japan to declare aim to become AI nation after U.S. and China",
+      "summary": "The government will include this goal when it revises the country's three key national security documents later this year.",
+      "category": "technology",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/ai-nation-aim/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/576035.jpg",
+      "publishedAt": "2026-11-25T11:59:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "9m2djj",
+      "title": "Ex-CDP chief Izumi proposes two-bloc political system in Japan",
+      "summary": "Izumi's proposal comes as Japan moves away from a two-party system due to the weakening of opposition parties.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/kenta-izumi-political-system/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/576032.jpg",
+      "publishedAt": "2026-11-25T10:23:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "1k6dd1",
+      "title": "Starbucks is said to engage banks for sale of Japan business",
+      "summary": "Starbucks has about 2,000 coffeehouses in Japan, making it one of the company's biggest markets.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/25/companies/stabucks-banks-sale/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/576029.jpg",
+      "publishedAt": "2026-11-25T10:03:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "i90ujs",
+      "title": "BOJ’s faster inflation indicator backs case for another hike",
+      "summary": "Consumer prices excluding fresh food and special factors advanced 3.5% in October from a year earlier, the fastest pace since September 2023.",
+      "category": "economy",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/25/economy/boj-inflation-indicator-hike/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/576030.jpg",
+      "publishedAt": "2026-11-25T10:03:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "68tx8x",
+      "title": "GPIF agenda may signal portfolio review progress, JPMorgan says",
+      "summary": "The development may revive speculation that it could steer more of its ¥314 trillion portfolio toward domestic bonds.",
+      "category": "military",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/25/gpif-portfolio-review-progress/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/576015.jpg",
+      "publishedAt": "2026-11-25T09:00:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "dpmi84",
+      "title": "Showdown over Japan defense spending draws near",
+      "summary": "Proponents of fiscal sustainability are pushing for less than ¥60 trillion over five years, while defense hawks say at least ¥70 trillion is needed.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/politics/japan-defense-spending-focus/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/576009.jpg",
+      "publishedAt": "2026-11-25T08:33:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "ex3ai6",
+      "title": "Mizuho’s Avendus to hire 75 private bankers over four years",
+      "summary": "Its wealth unit, which manages around $9.4 billion of assets, aims to grow them by 20% every year.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/business/2026/11/25/companies/mizuho-avendus-hire-private-bankers/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/576013.jpg",
+      "publishedAt": "2026-11-25T08:29:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "o87274",
+      "title": "Paint inspired by tuna’s slimy skin is helping speed up ships",
+      "summary": "The product, developed by Nippon Paint Holdings, is seen improving the fuel efficiency of ships amid soaring energy prices.",
+      "category": "politics",
+      "source": "japan-times",
+      "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/tuna-paint-ships-speed/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/575992.jpg",
+      "publishedAt": "2026-11-25T08:07:00.000Z",
+      "sample": false
+    },
     {
       "id": "xpcmod",
       "title": "Ebola tied to rising violence against women and girls in Congo, UNICEF says",
@@ -214,17 +324,6 @@
       "sample": false
     },
     {
-      "id": "rmh42h",
-      "title": "In land mine-ravaged Myanmar, a rebel with an artificial leg vows to fight on",
-      "summary": "\"I can live without legs, but I cannot live under the military,\" said platoon commander Pee Litt, 28.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/25/asia-pacific/myanmar-landmine-artificial-leg/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/575832.jpg",
-      "publishedAt": "2026-11-25T02:27:00.000Z",
-      "sample": false
-    },
-    {
       "id": "8pnb2q",
       "title": "The U.S.-China-Russia summit was no new Yalta",
       "summary": "The Shenzhen summit was more a public relations exercise than a meaningful meeting of three strategically aligned powers.",
@@ -233,105 +332,6 @@
       "url": "https://www.japantimes.co.jp/commentary/2026/11/25/world/shenzhen-summit-no-yalta/",
       "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/575852.jpg",
       "publishedAt": "2026-11-25T02:27:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "19ight",
-      "title": "COVID-era tech heads to Antarctica to help track climate change",
-      "summary": "Portable canisters will be used to capture airborne microbes, which can act as natural tracers and biological indicators of environmental change.",
-      "category": "technology",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/environment/2026/11/25/climate-change/covid-tech-antarctica-climate-change/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/575835.jpg",
-      "publishedAt": "2026-11-25T02:17:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "3y7m3r",
-      "title": "China’s Shenzhou-24 space flight launches with first Pakistani national on board",
-      "summary": "Zeeshan Ali will become the first Pakistani in orbit and the first foreign astronaut to board the Tiangong space station.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/25/asia-pacific/china-shenzhou-24-space-pakistan/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/575828.jpg",
-      "publishedAt": "2026-11-25T02:02:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fk2u25",
-      "title": "Japan stocks’ rebound threatened as retail margin losses balloon",
-      "summary": "Unrealized losses on long margin positions averaged 19.7% on Tuesday, hovering near the 20% level associated with a heightened risk of forced selling.",
-      "category": "economy",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/11/25/japan-stocks-retail-losses/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/575837.jpg",
-      "publishedAt": "2026-11-25T02:01:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "l8oe1p",
-      "title": "Japan to skip conference on nuclear arms ban treaty review",
-      "summary": "Foreign Minister Toshimitsu Motegi said attending the conference \"would send the wrong message.\"",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/nuclear-arms-review-japan-skip/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/575824.jpg",
-      "publishedAt": "2026-11-25T01:49:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ensuue",
-      "title": "Rising costs could erode benefits of Japan’s food tax cut",
-      "summary": "The government has warned against \"opportunistic price hikes,\" but it remains unclear how much food prices will actually come down.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/japan-food-tax-cut-focus/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/575827.jpg",
-      "publishedAt": "2026-11-25T01:38:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "b2e7ty",
-      "title": "China’s Huawei convicted in sprawling U.S. criminal trial over Iran business",
-      "summary": "Huawei was found guilty of charges including bank fraud, wire fraud, sanctions violations and conspiring to steal trade secrets.",
-      "category": "economy",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/11/25/tech/china-huawei-us-iran-business/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/575825.jpg",
-      "publishedAt": "2026-11-25T01:33:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "w2mksc",
-      "title": "Sanseito actively engages in local government elections",
-      "summary": "Sanseito leader Sohei Kamiya said the aim is to be able to compete in constituencies in elections for the Senate and the House of Representatives.",
-      "category": "society",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/news/2026/11/25/japan/politics/sanseito-local-government-elections/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/575822.jpg",
-      "publishedAt": "2026-11-25T01:25:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "op9yv6",
-      "title": "Packers and Rams fight for playoff position on Thanksgiving Eve",
-      "summary": "The Rams (6-4) and Packers (6-4) are pushing for playoff spots in packed divisions.",
-      "category": "politics",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/sports/2026/11/25/more-sports/rams-packers-preview/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/575839.jpg",
-      "publishedAt": "2026-11-25T01:22:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "8i5ngq",
-      "title": "Huang apologizes to Nvidia staff and says he’s in daily therapy",
-      "summary": "In an all-hands company meeting, the CEO emphasized that Nvidia's board would hold him to account going forward.",
-      "category": "military",
-      "source": "japan-times",
-      "url": "https://www.japantimes.co.jp/business/2026/11/25/tech/huang-nvidia-staff-therapy/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/25/thumbs/400x400/575823.jpg",
-      "publishedAt": "2026-11-25T01:18:00.000Z",
       "sample": false
     }
   ],
