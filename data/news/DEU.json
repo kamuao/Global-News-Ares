@@ -2,12 +2,78 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-24T22:09:43.054Z",
+  "updatedAt": "2026-11-25T07:49:56.387Z",
   "daily": [
+    {
+      "id": "vk6zil",
+      "title": "Domestic violence soars to record high in Germany",
+      "summary": "Every three days in Germany, a man kills his wife or ex-partner. Every 10 minutes, the police record a sexual offense against a woman. \"A shocking finding,\" according to Justice Minister Stefanie Hubig.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/domestic-violence-soars-to-record-high-in-germany/a-80041678?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-25T06:57:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "q7igsi",
+      "title": "India news: US prepares new tariffs after trade probe",
+      "summary": "The United States is reportedly readying fresh tariffs on India and 15 other economies under a trade probe. Also, a woman was allegedly gangraped by her colleagues in the national capital. Follow live.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-news-us-prepares-new-tariffs-after-trade-probe/live-80042306?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-25T04:44:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "53qbxu",
+      "title": "Libya: 2 dead after Ukrainian attack on Russian warship in Benghazi",
+      "summary": "The head of the eastern administration in Libya has confirmed that two Libyan soldiers succumbed to their injuries. Ukraine's foreign minister defended the attack as an effort to counter Russian aggression.",
+      "category": "military",
+      "source": "dw",
+      "url": "https://www.dw.com/en/libya-2-dead-after-ukrainian-attack-on-russian-warship-in-benghazi/a-80042348?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-25T04:41:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "gez07g",
+      "title": "China launches Shenzhou-24 to Tiangong station",
+      "summary": "A new Chinese crew is on its way to the Tiangong station after a launch that China called a complete success. This includes a Pakistani pilot, who is making a brief visit.",
+      "category": "health",
+      "source": "dw",
+      "url": "https://www.dw.com/en/china-launches-shenzhou-24-to-tiangong-station/a-80042281?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-25T02:56:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "nmuahm",
+      "title": "US jury convicts Huawei of violating sanctions, stealing trade secrets",
+      "summary": "Huawei was found guilty of 10 out of 12 charges levelled against it. The company said it plans to appeal the verdict.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/us-jury-convicts-huawei-of-violating-sanctions-stealing-trade-secrets/a-80042172?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-25T02:01:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "4memy8",
+      "title": "Scientists discover quasar formed 630 million years after the Big Bang",
+      "summary": "Scientists are seeing the quasar as it was 13.1 billion years ago — when the universe was less than 5% of its current age.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/scientists-discover-quasar-formed-630-million-years-after-the-big-bang/a-80041882?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-24T22:34:00.000Z",
+      "sample": false
+    },
     {
       "id": "3ck4t9",
       "title": "European court finds states can turn back migrants in some cases",
-      "summary": "Europe's top human rights court ruled that member states can turn back migrants unless they've been identified as people who were at risk of suffering or ill-treatment.",
+      "summary": "Europe's top human rights court ruled that member states can turn back migrants unless they've been identified as people who were at risk of suffering.",
       "category": "health",
       "source": "dw",
       "url": "https://www.dw.com/en/european-court-finds-states-can-turn-back-migrants-in-some-cases/a-80038352?maca=en-rss-en-all-1573-xml-mrss",
@@ -170,17 +236,6 @@
       "sample": false
     },
     {
-      "id": "o3xgjn",
-      "title": "EU imposes import quotas for hybrid vehicles from China",
-      "summary": "The EU is trying to protect its own car manufacturers from what it called \"overcapacity\" in China. Carmakers in the bloc, especially in Germany, have been lagging behind their Chinese rivals.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/eu-imposes-import-quotas-for-hybrid-vehicles-from-china/a-80029981?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-24T10:42:00.000Z",
-      "sample": false
-    },
-    {
       "id": "f48zq0",
       "title": "German directors' doc on stolen film wins International Emmy Award",
       "summary": "Two German film students confronted the American who won festival prizes with their animated movie. \"The Talented Mr. F,\" their documentary on their fight against plagiarism, is now in the spotlight.",
@@ -189,39 +244,6 @@
       "url": "https://www.dw.com/en/german-directors-doc-on-stolen-film-wins-international-emmy-award/a-76103455?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-24T09:41:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "fc7c59",
-      "title": "Istanbul 'lion hunt' ends with no big cat found after all",
-      "summary": "After a major search operation for a lion on the loose in Istanbul woodlands, Turkish authorities said \"the animal was neither a lion nor any other big cat.\"",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/istanbul-lion-hunt-ends-with-no-big-cat-found-after-all/a-80020913?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-24T09:34:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "ffi6qf",
-      "title": "Pakistani astronaut to join Chinese space mission",
-      "summary": "A Pakistani astronaut is set to become to the first foreigner to board China's Tiangong space station. Muhammad Zeeshan Ali, a payload specialist, will join the Shenzhou-24 mission when it launches on Wednesday.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/pakistani-astronaut-to-join-chinese-space-mission/a-80028922?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-24T09:03:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "x5ky3m",
-      "title": "Chinese official gets death sentence in spy case, report says",
-      "summary": "A Chinese official recruited while working abroad was paid more than a million yuan to leak secrets, state-affiliated media reported.",
-      "category": "politics",
-      "source": "dw",
-      "url": "https://www.dw.com/en/chinese-official-gets-death-sentence-in-spy-case-report-says/a-80028393?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-24T08:41:00.000Z",
       "sample": false
     },
     {
@@ -234,7 +256,9 @@
       "image": null,
       "publishedAt": "2026-11-24T08:34:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "y7dno7",
       "title": "Weapons, war and wavering trust: Germans want to see more restraint in foreign policy",
@@ -245,9 +269,7 @@
       "image": null,
       "publishedAt": "2026-11-24T05:59:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "4n1hlr",
       "title": "US and UK to host Women's World Cups in 2031 and 2035",
