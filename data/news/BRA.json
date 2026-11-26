@@ -2,7 +2,7 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-11-25T21:25:37.282Z",
+  "updatedAt": "2026-11-26T07:41:08.034Z",
   "daily": [
     {
       "id": "q5pm5s",
@@ -25,7 +25,9 @@
       "image": null,
       "publishedAt": "2026-11-25T15:39:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "n3mj6j",
       "title": "Once a Haven of Safety, Costa Rica Sees Rising Violence and Turns to Bukele-Style Mega-Prison",
@@ -36,9 +38,7 @@
       "image": null,
       "publishedAt": "2026-11-24T23:01:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "o9iymt",
       "title": "Intelligence Agency Maps Activities of Brazil's Main Organized Crime Groups",
@@ -125,17 +125,6 @@
       "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/11/brazilian-technology-to-verify-results-of-waste-reduction-initiatives-worldwide.shtml",
       "image": null,
       "publishedAt": "2026-11-19T15:19:00.000Z",
-      "sample": false
-    },
-    {
-      "id": "c9waba",
-      "title": "White Workers Earn Around 70% More Than Black Workers in Brazil, Study Finds",
-      "summary": "White workers earned an average of R$4,425 ($765) per month in Brazil in 2025, about 71% more than Black workers (R$2,585) and 66% more than mixed-race workers (R$2,672- $439). The figures come from the third edition of a study released this Wednesday (18) by IBGE (Brazilian Institute of Geography and Statistics), a fe",
-      "category": "politics",
-      "source": "folha",
-      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/11/white-workers-earn-around-70-more-than-black-workers-in-brazil-study-finds.shtml",
-      "image": null,
-      "publishedAt": "2026-11-19T02:25:00.000Z",
       "sample": false
     }
   ],
