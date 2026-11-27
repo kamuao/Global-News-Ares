@@ -2,8 +2,41 @@
   "id": "DEU",
   "name": "Germany",
   "sample": false,
-  "updatedAt": "2026-11-26T21:12:23.709Z",
+  "updatedAt": "2026-11-27T07:39:52.545Z",
   "daily": [
+    {
+      "id": "1egr0",
+      "title": "India's Modi government calls special sitting of parliament",
+      "summary": "The sitting of the Indian parliament comes after its monsoon session was adjourned indefinitely in August. Follow DW.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/india-s-modi-government-calls-special-sitting-of-parliament/live-80070511?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-27T07:23:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "t5s7lc",
+      "title": "New Zealand election ends in hung parliament",
+      "summary": "A final vote count showed that neither the center-right bloc nor the opposition left bloc was able to secure a majority.",
+      "category": "politics",
+      "source": "dw",
+      "url": "https://www.dw.com/en/new-zealand-election-ends-in-hung-parliament/a-80070240?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-27T03:13:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "emzy4g",
+      "title": "At odds over the EU budget, European leaders cut summit short",
+      "summary": "Even before they met, it was clear the gap between European leaders' demands for the EU budget would make negotiations difficult. They ended a summit meeting early and aim to agree on EU funding in December. DW has more.",
+      "category": "economy",
+      "source": "dw",
+      "url": "https://www.dw.com/en/at-odds-over-the-eu-budget-european-leaders-cut-summit-short/live-80056415?maca=en-rss-en-all-1573-xml-mrss",
+      "image": null,
+      "publishedAt": "2026-11-26T21:47:00.000Z",
+      "sample": false
+    },
     {
       "id": "xz109d",
       "title": "Albania's youth are protesting in Flamingo Revolution, not leaving the country anymore",
@@ -183,7 +216,7 @@
     {
       "id": "vxc426",
       "title": "Crew member dies after diesel tanker sinks off Ibiza coast",
-      "summary": "Authorities rescued 17 crew members but one later died in hospital after a diesel tanker sank off the Spanish island of Ibiza. A contingency plan against possible pollution damage is now in place.",
+      "summary": "Authorities rescued 17 crew members but one later died in hospital after a diesel tanker capsized off the Spanish island of Ibiza. A contingency plan against possible pollution damage is now in place.",
       "category": "health",
       "source": "dw",
       "url": "https://www.dw.com/en/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-coast/a-80059054?maca=en-rss-en-all-1573-xml-mrss",
@@ -192,20 +225,9 @@
       "sample": false
     },
     {
-      "id": "54mi4y",
-      "title": "What is the US permitting bill and would it actually help the climate?",
-      "summary": "Sweeping US legislation to speed up energy projects has found rare bipartisan support. Supporters say it would unlock clean energy and lower energy bills, but critics say it's a gift to fossil fuels.",
-      "category": "environment",
-      "source": "dw",
-      "url": "https://www.dw.com/en/what-is-the-us-permitting-bill-and-would-it-actually-help-the-climate/a-80007213?maca=en-rss-en-all-1573-xml-mrss",
-      "image": null,
-      "publishedAt": "2026-11-26T11:22:00.000Z",
-      "sample": false
-    },
-    {
       "id": "jhvn3o",
       "title": "Germany news: Cologne court awards record damages in Catholic sex abuse case",
-      "summary": "A court has awarded the highest damages ever in Germany to a victim of sexual abuse linked with the Catholic Church. An alleged spy and suspected terrorists are also making headlines in Germany on Thursday. DW has more.",
+      "summary": "A court has awarded the highest damages ever in Germany to a victim of sexual abuse linked to the Catholic Church. An alleged spy and suspected terrorists are also making headlines in Germany on Thursday.",
       "category": "military",
       "source": "dw",
       "url": "https://www.dw.com/en/germany-news-cologne-court-awards-record-damages-in-catholic-sex-abuse-case/live-80056746?maca=en-rss-en-all-1573-xml-mrss",
@@ -227,14 +249,16 @@
     {
       "id": "x11osa",
       "title": "Russia-Ukraine war extends to the Baltic and the Mediterranean",
-      "summary": "By attacking Russian vessels around the world, Kyiv is trying to up the pressure on Moscow and also sending out signals to its Western allies. What is the impact on global maritime trade?",
+      "summary": "By attacking Russian vessels around the world, Ukraine is trying to increase the pressure on Russia and also sending out signals to its Western allies. What is the impact on global maritime trade?",
       "category": "military",
       "source": "dw",
       "url": "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604?maca=en-rss-en-all-1573-xml-mrss",
       "image": null,
       "publishedAt": "2026-11-26T09:27:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "2f36ct",
       "title": "Can Rassvet, 'Russia's Starlink' change the course of the war in Ukraine?",
@@ -245,9 +269,7 @@
       "image": null,
       "publishedAt": "2026-11-26T05:45:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "yog9aq",
       "title": "Peter Magyar meets Volodymyr Zelenskyy: Hungary and Ukraine make a fresh start after the icy relations of the Viktor Orban era",
