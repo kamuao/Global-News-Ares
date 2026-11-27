@@ -2,8 +2,30 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-11-27T07:39:57.114Z",
+  "updatedAt": "2026-11-27T20:55:46.407Z",
   "daily": [
+    {
+      "id": "ox1m9m",
+      "title": "Brazil Hits Record University Enrollment as Black, Mixed-Race and Indigenous Students Become Majority at Federal Universities for First Time",
+      "summary": "Brazil reached its highest level of access to higher education in history in 2025, with 10.6 million students enrolled, up 4% from the previous year. For the first time, students who identify as Black, mixed-race or Indigenous became the majority at federal universities. The figures come from the 2025 Higher Education ",
+      "category": "health",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/scienceandhealth/2026/11/brazil-hits-record-university-enrollment-as-black-mixed-race-and-indigenous-students-become-majority-at-federal-universities-for-first-time.shtml",
+      "image": null,
+      "publishedAt": "2026-11-27T16:23:00.000Z",
+      "sample": false
+    },
+    {
+      "id": "i4zn4g",
+      "title": "Trabuco's Selection as Finance Minister Draws Praise From Business Leaders, Bankers, Economists and Industry Groups",
+      "summary": "Luiz Carlos Trabuco, chairman of Bradesco's board of directors, accepted President Lula's (PT) invitation on Thursday (26) to lead the Finance Ministry, a position he will take up in 2027. He is the first minister named for Lula's fourth term.\nLeia mais (11/27/2026 - 13h06)",
+      "category": "politics",
+      "source": "folha",
+      "url": "https://redir.folha.com.br/redir/online//rss091/*https://www1.folha.uol.com.br/internacional/en/business/2026/11/trabucos-selection-as-finance-minister-draws-praise-from-business-leaders-bankers-economists-and-industry-groups.shtml",
+      "image": null,
+      "publishedAt": "2026-11-27T16:06:00.000Z",
+      "sample": false
+    },
     {
       "id": "vnan7a",
       "title": "El Ni�o-Driven Drought in Brazil's Roraima Isolates Communities and Forces Water Rationing",
@@ -14,7 +36,9 @@
       "image": null,
       "publishedAt": "2026-11-27T01:53:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "47vsdn",
       "title": "Cancer Vaccine Under Study in Brazil to Target Lymphomas and Stomach Tumors",
@@ -36,9 +60,7 @@
       "image": null,
       "publishedAt": "2026-11-26T17:03:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "q5pm5s",
       "title": "Fish Die in Rivers Connected to Xingu in Northern Brazil; Mining Company Had Waste Spill in Region",
