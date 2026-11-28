@@ -2,7 +2,7 @@
   "id": "BRA",
   "name": "Brazil",
   "sample": false,
-  "updatedAt": "2026-11-27T20:55:46.407Z",
+  "updatedAt": "2026-11-28T07:07:25.907Z",
   "daily": [
     {
       "id": "ox1m9m",
@@ -25,7 +25,9 @@
       "image": null,
       "publishedAt": "2026-11-27T16:06:00.000Z",
       "sample": false
-    },
+    }
+  ],
+  "weekly": [
     {
       "id": "vnan7a",
       "title": "El Ni�o-Driven Drought in Brazil's Roraima Isolates Communities and Forces Water Rationing",
@@ -36,9 +38,7 @@
       "image": null,
       "publishedAt": "2026-11-27T01:53:00.000Z",
       "sample": false
-    }
-  ],
-  "weekly": [
+    },
     {
       "id": "47vsdn",
       "title": "Cancer Vaccine Under Study in Brazil to Target Lymphomas and Stomach Tumors",
